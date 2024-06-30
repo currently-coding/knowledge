@@ -19,3 +19,4 @@ tags:
 | Ladung      |                      |                     |                      |
 | Reichweite  |                      |                     |                      |
 | Abschirmung |                      |                     |                      |
+|             |                      |                     |                      |
