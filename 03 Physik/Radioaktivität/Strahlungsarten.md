@@ -14,8 +14,8 @@ tags:
 
 
 
-|            | $\alpha$ - Strahlung | $\beta$ - Strahlung | $\gamma$ - Strahlung |
-| ---------- | -------------------- | ------------------- | -------------------- |
-| Ladung     |                      |                     |                      |
-| Reichweite |                      |                     |                      |
-|            |                      |                     |                      |
+|             | $\alpha$ - Strahlung | $\beta$ - Strahlung | $\gamma$ - Strahlung |
+| ----------- | -------------------- | ------------------- | -------------------- |
+| Ladung      |                      |                     |                      |
+| Reichweite  |                      |                     |                      |
+| Abschirmung |                      |                     |                      |
