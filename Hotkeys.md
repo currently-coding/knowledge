@@ -9,6 +9,7 @@
 | Toggle Backlinks                 | `ctrl + shift + e`                |
 | Toggle Graph View                | `ctrl + shift + g`                |
 | New Note                         | `ctrl + n`                        |
+| New Folder                       | `ctrl + a`                        |
 | Save                             | `ctrl + s`                        |
 | Search in Current Note           | `ctrl + f`                        |
 | Search in All Notes              | `ctrl + shift + f`                |

@@ -4,9 +4,6 @@
     "flashcardGoodText": "Normal",
     "flashcardHardText": "Wurde Entkernt",
     "flashcardTags": [
-      "#chemie",
-      "#trivialnamen",
-      "#formeln",
       ""
     ],
     "convertFoldersToDecks": true,
@@ -44,6 +41,29 @@
     "showDebugMessages": false
   },
   "buryDate": "2024-06-30",
+<<<<<<< HEAD
   "buryList": [],
+=======
+  "buryList": [
+    "26a8ed108691e",
+    "146e7fc421eca6",
+    "d2d43e73eaf2d",
+    "16574c1c37282f",
+    "5b1a24c757ac5",
+    "111c9e19f40c95",
+    "c85e29587f71",
+    "a62c6ee3c31fc",
+    "195b277be98557",
+    "f24f266dd090e",
+    "c5063917a77df",
+    "149e2279bde788",
+    "1f629f09b62901",
+    "b4bf724d9f823",
+    "1172f9769828c8",
+    "1f5ec04be5d154",
+    "1caa07a23ad927",
+    "d9603b9ab8821"
+  ],
+>>>>>>> origin/main
   "historyDeck": null
 }
