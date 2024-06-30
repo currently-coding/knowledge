@@ -36,7 +36,7 @@ Die Notizen müssen also den folgenden Aufbau haben:
 - Vorderseite der Karteikarte
 Dazwischen dürfen beliebig viele Leerzeichen und Zeilenumbrüche sein.
 Die Trennzeichen hierbei sind:
-- >> für unidirektionelle Karteikarten
+- >xx> für unidirektionelle Karteikarten
 - <> für bidirektionelle Karteikarten
 
 Beispiele:
