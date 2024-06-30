@@ -95,7 +95,14 @@
       "query": "path:Settings  ",
       "color": {
         "a": 1,
-        "rgb": 4342338
+        "rgb": 6052956
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 2039583
       }
     }
   ],
@@ -109,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1,
+  "scale": 1.0000000000000002,
   "close": false
 }
