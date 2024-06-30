@@ -8,45 +8,94 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Templates  ",
+      "query": "path:\"1 Informatik\"  ",
       "color": {
         "a": 1,
-        "rgb": 8026746
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:Chemie  ",
+      "query": "path:\"2 Chemie\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14725458
       }
     },
     {
-      "query": "path:Latein  ",
+      "query": "path:\"3 Physik\"  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:Informatik  ",
+      "query": "path:\"4 Geschichte\"  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:Physik  ",
+      "query": "path:\"5 Ethik\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:Geschichte  ",
+      "query": "path: \"6 Politik & Gesellschaft\"  ",
       "color": {
         "a": 1,
         "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"7 Englisch\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path: \"8 Deutsch\"",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path: \"9 Musik\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path: \"10 Geographie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path: \"11 Wirtschaft\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"12 Latein\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Settings  ",
+      "color": {
+        "a": 1,
+        "rgb": 4342338
       }
     }
   ],
@@ -55,11 +104,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 30,
   "scale": 1,
   "close": false
 }

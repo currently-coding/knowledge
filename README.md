@@ -18,7 +18,7 @@
 - **ROOT -> FACH -> Übergeordnetes THEMA -> Untergeordnetes THEMA -> Notiz/Zusammenfassung**
 
 ### Dateinamen
-- `<ID> <Name>`
+- `<FachID><ThemenID> <Name>`
 - `0341 Oxidation von Alkoholen`
   - `03`: Chemie
   - `4`: Übergeordnetes Thema Nummer 4
