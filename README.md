@@ -28,6 +28,36 @@
 => Sortierte Darstellung in Vault
 
 ### Karteikarten
+Die Notizen müssen von dem *Export to Anki* Plugin erkannt werden können, um automatisch in Karteikarten umgewandelt werden zu können. Hierbei ist wichtig, dass ihr die richtigen Einstellungen für das Plugin habt.
+
+Die Notizen müssen also den folgenden Aufbau haben:
+	Frage der Karteikarte
+	genau eine Leerzeile
+	Trennzeichen (abhängig vom Typ der Notizen)
+	Antwort der Karteikarte
+	mindestens eine Leerzeile
+Bis auf die Leezeichen am Ende jeder Karteikarte dürfen die Notizen keine Leerzeilen enthalten.
+Die Trennzeichen hierbei sind:
+- "---" für unidirektionelle Karteikarten
+- "-----" für bidirektionelle Karteikarten
+Der Hintergrund davon ist, dass diese Striche in Obsidian schön umgewandelt werden, und so die Notizen anschaulich sind, und gleichzeitig das Plugin funktioniert.
+
+Beispiele:
+
+Was ist die Ordnungszahl von Wasserstoff
+
+-----
+1
+
+
+
+H
+
+-----
+Wasserstoff
+
+
+
 
 ### Links vs Tags - Was wann verwenden
 #### Links
