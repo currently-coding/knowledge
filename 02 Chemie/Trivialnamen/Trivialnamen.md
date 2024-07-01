@@ -4,31 +4,31 @@ tags:
 ---
 
 
-Ameisensäure ;;; Methansäure
+Ameisensäure <-> Methansäure
 
 <!--SR:!2024-07-01,3,256-->
 
-Essigsäure ;;; Ethansäure
+Essigsäure <-> Ethansäure
 
 <!--SR:!2024-07-02,4,276-->
 
-Propionsäure ;;; Propansäure
+Propionsäure <-> Propansäure
 
-Buttersäure ;;; Butansäure
+Buttersäure <-> Butansäure
 
-Valeriansäure;;; Pentansäure
+Valeriansäure<-> Pentansäure
 
-Capronsäure ;;; Hexansäure
-
-
-Önathsäure ;;; Heptansäure
+Capronsäure <-> Hexansäure
 
 
-Caprylsäure ;;; Octansäure
-
-Flusssäure ;;; Fluorwasserstoffsäure
-
-Salzsäure ;;; Chlorwasserstoffsäure
+Önathsäure <-> Heptansäure
 
 
-Acetat-Ion ;;; Ethanoat-Ion
+Caprylsäure <-> Octansäure
+
+Flusssäure <-> Fluorwasserstoffsäure
+
+Salzsäure <-> Chlorwasserstoffsäure
+
+
+Acetat-Ion <-> Ethanoat-Ion
