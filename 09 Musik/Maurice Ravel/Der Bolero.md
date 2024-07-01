@@ -1,2 +1,6 @@
 - rieseiges Crescendo
 - immer mehr Instrumente kommen hinzu
+- **2** Melodien
+	- **18** Variationen -> Kombination verschiedene Instrumente
+	- 1. Melodie
+		- **diastolisch** -> keine Vorzeichen ([[]])
