@@ -41,6 +41,24 @@
     "showDebugMessages": false
   },
   "buryDate": "2024-07-01",
-  "buryList": [],
+  "buryList": [
+    "16ef8d375066dc",
+    "35fcd2d48b83b",
+    "2bf5304d9108f",
+    "17e088762cdd89",
+    "1078dc2e5a08c4",
+    "11016442fee491",
+    "81da69a9d70f3",
+    "19e865b4665fed",
+    "1973ec9d8c1ffe",
+    "1f605163320563",
+    "16ff122c51c32b",
+    "2663eb29d74c6",
+    "16d56b3b58b302",
+    "14596157cb08ec",
+    "2ffd352e0cf59",
+    "1e13bf11e35adb",
+    "1420132324578e"
+  ],
   "historyDeck": null
 }
