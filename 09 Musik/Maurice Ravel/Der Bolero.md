@@ -8,3 +8,4 @@
 
 ## Rhytmus
 - Ostinato-Rhythmus
+- ständig wiederholt
