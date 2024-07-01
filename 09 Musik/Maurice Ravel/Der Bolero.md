@@ -3,4 +3,4 @@
 - **2** Melodien
 	- **18** Variationen -> Kombination verschiedene Instrumente
 	- 1. Melodie
-		- **diastolisch** -> keine Vorzeichen ([[]])
+		- **diastolisch** -> keine Vorzeichen ([[Fachbegriffe]])
