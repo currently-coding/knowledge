@@ -28,7 +28,7 @@
 => Sortierte Darstellung in Vault
 
 ### Karteikarten
-Die Notizen müssen von dem *Export to Anki* Plugin erkannt werden können, um automatisch in Karteikarten umgewandelt werden zu können. Hierbei ist wichtig, dass ihr die richtigen Einstellungen für den Plugin übernommen habt.
+Die Notizen müssen von dem *Export to Anki* Plugin erkannt werden können, um automatisch in Karteikarten umgewandelt werden zu können. Hierbei ist wichtig, dass ihr die richtigen Einstellungen für den Plugin übernommen habt. Wichtig ist, dass ihr euch dafür ein privates Obsidian Vault anlegt, das nicht synchronisiert wird, und dort jeweils die Notizen reinkopiert, die ihr zu Karteikarten umändern wollt. Das liegt daran, dass der Plugin seine Informationen als Kommentare unter den jeweiligen Notizen speichert, und er nicht funktionieren würde, wenn wir die gleichen Notizen verwenden (gilt übrigens auch für alle ähnlichen Plugins).
 
 Die Notizen müssen also den folgenden Aufbau haben:
 - Vorderseite der Karteikarte
@@ -36,12 +36,12 @@ Die Notizen müssen also den folgenden Aufbau haben:
 - Vorderseite der Karteikarte
 Dazwischen dürfen beliebig viele Leerzeichen und Zeilenumbrüche sein.
 Die Trennzeichen hierbei sind:
-- -> für unidirektionelle Karteikarten
+- => für unidirektionelle Karteikarten
 - <> für bidirektionelle Karteikarten
 
 Beispiele:
 
-Was ist die Ordnungszahl von Wasserstoff >> 1
+Was ist die Ordnungszahl von Wasserstoff => 1
 
 H <> Wasserstoff
 
