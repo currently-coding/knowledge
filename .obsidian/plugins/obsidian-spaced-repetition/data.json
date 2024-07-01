@@ -1,10 +1,10 @@
 {
   "settings": {
-    "flashcardEasyText": "Easy",
-    "flashcardGoodText": "Good",
-    "flashcardHardText": "Hard",
+    "flashcardEasyText": "Entkernt",
+    "flashcardGoodText": "Normal",
+    "flashcardHardText": "Wurde Entkernt",
     "flashcardTags": [
-      "#flashcards"
+      ""
     ],
     "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
@@ -32,7 +32,7 @@
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
-    "initiallyExpandAllSubdecksInTree": false,
+    "initiallyExpandAllSubdecksInTree": true,
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.3,
@@ -42,23 +42,11 @@
   },
   "buryDate": "2024-07-01",
   "buryList": [
-    "16ef8d375066dc",
-    "35fcd2d48b83b",
-    "2bf5304d9108f",
-    "17e088762cdd89",
-    "1078dc2e5a08c4",
-    "11016442fee491",
-    "81da69a9d70f3",
-    "19e865b4665fed",
-    "1973ec9d8c1ffe",
-    "1f605163320563",
-    "16ff122c51c32b",
-    "2663eb29d74c6",
-    "16d56b3b58b302",
-    "14596157cb08ec",
-    "2ffd352e0cf59",
-    "1e13bf11e35adb",
-    "1420132324578e"
+    "9404375c4a655",
+    "9109a49b3ff7c",
+    "4dcfc9c169866",
+    "12ef02134f2f5f",
+    "14eeed01217ee6"
   ],
   "historyDeck": null
 }
