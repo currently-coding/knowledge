@@ -2,7 +2,7 @@
 - [Ziel](#ziel)
 - [Was sollte hochgeladen werden?](#was-sollte-hochgeladen-werden)
 - [Format](#format)
-- [Installation](#installation)
+- **[Installation](#installation)**
 - [Shortcuts](#Hotkeys)
 
 ## Ziel
