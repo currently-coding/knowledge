@@ -1,10 +1,10 @@
 {
   "settings": {
-    "flashcardEasyText": "Entkernt",
-    "flashcardGoodText": "Normal",
-    "flashcardHardText": "Wurde Entkernt",
+    "flashcardEasyText": "Easy",
+    "flashcardGoodText": "Good",
+    "flashcardHardText": "Hard",
     "flashcardTags": [
-      ""
+      "#flashcards"
     ],
     "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
@@ -32,7 +32,7 @@
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
-    "initiallyExpandAllSubdecksInTree": true,
+    "initiallyExpandAllSubdecksInTree": false,
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.3,
