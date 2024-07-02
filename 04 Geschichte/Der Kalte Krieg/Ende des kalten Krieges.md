@@ -5,6 +5,14 @@ tags:
 aliases:
   - pariser charta
 ---
-# Charta von Paris
-- offizielles Ende des Kalten Krieges
--> Ende der bipolaren 
+## 1989/1990
+- Auflösung des Ostblocks
+- **Wiedervereinigung** Deutschlands
+- 
+
+
+# Charta von Paris 1990
+- offizielles Ende des Kalten Krieges/Ost-West-Konflikt
+-> Ende der bipolaren Weltordnung
+
+# Neue Weltordnung ?
