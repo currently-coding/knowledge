@@ -5,3 +5,6 @@ tags:
 aliases:
   - pariser charta
 ---
+# Charta von Paris
+- offizielles Ende des Kalten Krieges
+-> Ende der bipolaren 
