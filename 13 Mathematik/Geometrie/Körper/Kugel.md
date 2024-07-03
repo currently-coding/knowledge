@@ -7,7 +7,7 @@ tags:
 ---
 # Herleitung
 - [[Satz von Cavalieri]]
-
+https://www.studysmarter.de/schule/mathe/geometrie/volumen-kugel/
 
 # Formel
 $$
