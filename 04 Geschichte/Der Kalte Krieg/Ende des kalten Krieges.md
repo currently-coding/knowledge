@@ -8,8 +8,9 @@ aliases:
 ## 1989/1990
 - Auflösung des Ostblocks
 - **Wiedervereinigung** Deutschlands
-- 
 
+## 1991
+=> Ende der Sowjetunion
 
 # Charta von Paris 1990
 - offizielles Ende des Kalten Krieges/Ost-West-Konflikt
