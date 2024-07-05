@@ -1,8 +1,8 @@
 {
   "settings": {
-    "flashcardEasyText": "Easy",
-    "flashcardGoodText": "Good",
-    "flashcardHardText": "Hard",
+    "flashcardEasyText": "Veni, vidi, vici!",
+    "flashcardGoodText": "Hard win!",
+    "flashcardHardText": "¯\\_(ツ)_/¯",
     "flashcardTags": [
       ""
     ],
@@ -60,7 +60,11 @@
   "buryList": [
     "3d548d6ad0fc6",
     "1e9a5c5619a0bc",
-    "604526adf8c0d"
+    "604526adf8c0d",
+    "1f0a7aacab5c7f",
+    "1925e50720050f",
+    "698c058fdfc83",
+    "a9a35ce4a7754"
   ],
   "historyDeck": null
 }
