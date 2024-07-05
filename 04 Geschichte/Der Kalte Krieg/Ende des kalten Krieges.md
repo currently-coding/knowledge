@@ -17,3 +17,10 @@ aliases:
 -> Ende der bipolaren Weltordnung
 
 # Neue Weltordnung ?
+-> **Unipolarität** oder **Mutlipolarität** ?
+### Mögliche Akteure
+| Staaten  | IGOs |
+| -------- | ---- |
+| USA      | EU   |
+| Russland | NATO |
+| China    | UNO  |
