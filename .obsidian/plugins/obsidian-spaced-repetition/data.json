@@ -27,7 +27,23 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [],
+    "noteFoldersToIgnore": [
+      "03 Physik",
+      "01 Informatik",
+      "02 Chemie",
+      "04 Geschichte",
+      "05 Ethik",
+      "06 Politik & Gesellschaft",
+      "07 Englisch",
+      "08 Deutsch",
+      "09 Musik",
+      "10 Geographie",
+      "11 Wirtschaft",
+      "12 Latein",
+      "13 Mathematik",
+      "Images",
+      "Settings"
+    ],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
@@ -41,6 +57,10 @@
     "showDebugMessages": false
   },
   "buryDate": "2024-07-05",
-  "buryList": [],
+  "buryList": [
+    "3d548d6ad0fc6",
+    "1e9a5c5619a0bc",
+    "604526adf8c0d"
+  ],
   "historyDeck": null
 }
