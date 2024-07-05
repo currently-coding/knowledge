@@ -1,4 +1,3 @@
-
 - Ausbeutung der Natur: **Konsumgesellschaft**
 - Wachstum nötig: **Kapitalismus**
 
