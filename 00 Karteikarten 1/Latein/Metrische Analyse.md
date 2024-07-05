@@ -30,14 +30,12 @@ Mehrere Versfüße bilden -> Versmaße.
 Das elegische Distichon besteht aus -> einem Hexameter gefolgt von einem Pentameter.
 
 
-Skandieren ist -> das rhythmische Vortragen eines Verses.
-
 
 Symbol für eine Zäsur <-> Das Symbol |
 <!--SR:!2000-01-01,1,250!2024-07-15,10,288-->
 
 
-Symbol für eine Diärese <-> Das Symbol ||
+Symbol für eine Dihärese <-> Das Symbol ||
 <!--SR:!2000-01-01,1,250!2024-07-14,9,288-->
 
 
@@ -51,7 +49,8 @@ Aufbau eines Hexameters -> ![[hexameter.jpg]]
 Aufbau eines Pentameters -> ![[pentameter.jpg]]
 
 
-Vorgehen beim Skandieren ->
+Vorgehen beim Skandieren
+??
 1. Verschleifungen erkennen
 2. Anfang und Ende eintragen
 3. Natur- und Positionslängen einzeichnen
@@ -59,7 +58,8 @@ Vorgehen beim Skandieren ->
 5. Fertigstellen
 
 
-Verschleifungen ->
+Verschleifungen
+??
 Letzte Silbe eines Wortes und nächste Silbe des nächsten Verschmelzen zu einer einzigen:
 - Vokal auf Vokal -> Endvokal fällt weg (ante oculos -> antoculos)
 <!--SR:!2024-07-03,1,230-->
@@ -69,13 +69,15 @@ Letzte Silbe eines Wortes und nächste Silbe des nächsten Verschmelzen zu einer
 <!--SR:!2024-07-06,4,270-->
 
 
-Anfang und Ende eintragen ->
+Anfang und Ende eintragen
+??
 - Erste Silbe jedes Verses ist lang
 - Hexameter: Letzte beiden Versfüße gleich
 - Pentameter: Alles nach Diärese gleich
 
 
-Natur und Positionslängen (eintragen ->
+Natur und Positionslängen (eintragen
+??
 - Diphtonge
 - vordere Silbe bei mehreren Konsonanten nach einem Vokal
 - non
