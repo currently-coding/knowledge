@@ -4,8 +4,12 @@
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
-    "iconColor": null,
-    "recentlyUsedIcons": [],
+    "iconColor": "#40a4e2",
+    "recentlyUsedIcons": [
+      "CoUserCardID",
+      "CoImage02",
+      "CoSlider01"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -25,5 +29,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "Settings": "CoSlider01",
+  "Images": "CoImage02",
+  "00 Karteikarten 1": "CoUserCardID"
 }
