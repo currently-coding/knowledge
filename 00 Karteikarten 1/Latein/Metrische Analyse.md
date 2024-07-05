@@ -34,7 +34,7 @@ Skandieren ist -> das rhythmische Vortragen eines Verses.
 
 
 Symbol für eine Zäsur <-> Das Symbol |
-<!--SR:!2000-01-01,1,250!2024-07-05,3,268-->
+<!--SR:!2000-01-01,1,250!2024-07-15,10,288-->
 
 
 Symbol für eine Diärese <-> Das Symbol ||
