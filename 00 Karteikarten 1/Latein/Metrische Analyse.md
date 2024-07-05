@@ -4,40 +4,29 @@ tags:
 ---
 TARGET DECK: Schule::Latein::Metrische Analyse
 
-
 Symbol für eine kurze Silbe <-> Das Symbol v.
 <!--SR:!2000-01-01,1,250!2024-07-18,13,288-->
-
 
 Symbol für eine lange Silbe <-> Das Symbol -.
 <!--SR:!2000-01-01,1,250!2024-07-17,12,288-->
 
-
 Mehrere Silben bilden -> einen Versfuß.
-
 
 Daktylus <-> Versfuß aus -vv
 <!--SR:!2024-07-18,13,288!2000-01-01,1,250-->
 
-
 Spondeus <-> Versfuß aus --
 <!--SR:!2024-07-15,10,288!2000-01-01,1,250-->
 
-
 Mehrere Versfüße bilden -> Versmaße.
 
-
 Das elegische Distichon besteht aus -> einem Hexameter gefolgt von einem Pentameter.
-
-
 
 Symbol für eine Zäsur <-> Das Symbol |
 <!--SR:!2000-01-01,1,250!2024-07-15,10,288-->
 
-
 Symbol für eine Dihärese <-> Das Symbol ||
 <!--SR:!2000-01-01,1,250!2024-07-14,9,288-->
-
 
 Symbol für eine syllaba anceps <-> Das Symbol x
 <!--SR:!2000-01-01,1,250!2024-07-16,11,288-->
