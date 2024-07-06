@@ -25,6 +25,10 @@
     {
       "folder": "Informatik",
       "template": "Settings/Templates/Informatik Template.md"
+    },
+    {
+      "folder": "Grey Hat Hacking",
+      "template": "Settings/Templates/Grey Hat Hacking Template.md"
     }
   ],
   "syntax_highlighting": true,
