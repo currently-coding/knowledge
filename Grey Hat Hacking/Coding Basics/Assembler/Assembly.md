@@ -28,8 +28,8 @@ handles memory differently
 
 
 # Terminology
-
-
+- Assembler = Application that translates code into *Assembly*
+- *Assembly* = Assembly Language
 
 
 
