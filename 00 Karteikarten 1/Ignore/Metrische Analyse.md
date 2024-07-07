@@ -45,11 +45,11 @@ Verschleifungen
 ??
 Letzte Silbe eines Wortes und nächste Silbe des nächsten Verschmelzen zu einer einzigen:
 - Vokal auf Vokal -> Endvokal fällt weg (ante oculos -> antoculos)
-<!--SR:!2024-07-10,3,250-->
+
 - Vokal + m auf Vokal -> Vokal + m entfallen (multum ille -> multille)
-<!--SR:!2024-07-08,3,250-->
+
 - Vokal auf est -> e von est entfällt (laudanda est -> laudandast)
-<!--SR:!2024-07-21,14,290-->
+<!--SR:!2024-07-10,3,250-->
 
 
 Anfang und Ende eintragen

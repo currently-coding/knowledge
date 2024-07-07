@@ -6,7 +6,7 @@
     "flashcardTags": [
       "#flashcards"
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
     "showContextInCards": true,
@@ -18,8 +18,8 @@
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
-    "singleLineCardSeparator": "::",
-    "singleLineReversedCardSeparator": ":::",
+    "singleLineCardSeparator": "->",
+    "singleLineReversedCardSeparator": "<->",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "editLaterTag": "#edit-later",
