@@ -27,7 +27,23 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [],
+    "noteFoldersToIgnore": [
+      "00 Karteikarten 1/Ignore",
+      "01 Informatik",
+      "02 Chemie",
+      "03 Physik",
+      "04 Geschichte",
+      "05 Ethik",
+      "06 Politik & Gesellschaft",
+      "07 Englisch",
+      "08 Deutsch",
+      "09 Musik",
+      "10 Geograhie",
+      "11 Wirtschaft",
+      "12 Latein",
+      "13 Mathematik",
+      "GHH"
+    ],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
@@ -41,6 +57,10 @@
     "showDebugMessages": false
   },
   "buryDate": "2024-07-07",
-  "buryList": [],
+  "buryList": [
+    "2663eb29d74c6",
+    "9e5d2c8ff3a75",
+    "2bcf4fc3c5681"
+  ],
   "historyDeck": null
 }

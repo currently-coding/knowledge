@@ -15,7 +15,7 @@ nefarious <-> wicked, evil
 <!--SR:!2024-07-09,4,272!2024-07-10,4,277-->
 
 oblivion <-> state of unawareness of everything
-<!--SR:!2024-07-09,3,252!2000-01-01,1,250-->
+<!--SR:!2024-07-09,3,252!2024-07-11,4,285-->
 
 plethora <-> an abundance of something, Überfluss an etwas
 <!--SR:!2024-07-10,4,277!2024-07-09,4,272-->
@@ -30,7 +30,7 @@ to cherish <-> to care about smth and cultivate it with affection
 <!--SR:!2024-07-10,4,277!2024-07-08,3,250-->
 
 zenith <-> highest, most successful point of a situation
-<!--SR:!2000-01-01,1,250!2024-07-09,3,250-->
+<!--SR:!2024-07-11,4,285!2024-07-09,3,250-->
 
 wanderlust <-> strong desire to travel
 <!--SR:!2024-07-10,4,277!2024-07-09,4,272-->

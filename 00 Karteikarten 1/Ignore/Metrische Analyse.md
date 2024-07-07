@@ -12,12 +12,6 @@ Symbol für eine lange Silbe <-> Das Symbol -.
 
 Mehrere Silben bilden -> einen Versfuß.
 
-Daktylus <-> Versfuß aus -vv
-<!--SR:!2024-07-18,13,288!2000-01-01,1,250-->
-
-Spondeus <-> Versfuß aus --
-<!--SR:!2024-07-15,10,288!2000-01-01,1,250-->
-
 Mehrere Versfüße bilden -> Versmaße.
 
 Das elegische Distichon besteht aus -> einem Hexameter gefolgt von einem Pentameter.
@@ -51,11 +45,11 @@ Verschleifungen
 ??
 Letzte Silbe eines Wortes und nächste Silbe des nächsten Verschmelzen zu einer einzigen:
 - Vokal auf Vokal -> Endvokal fällt weg (ante oculos -> antoculos)
-<!--SR:!2024-07-03,1,230-->
+<!--SR:!2024-07-10,3,250-->
 - Vokal + m auf Vokal -> Vokal + m entfallen (multum ille -> multille)
 <!--SR:!2024-07-08,3,250-->
 - Vokal auf est -> e von est entfällt (laudanda est -> laudandast)
-<!--SR:!2024-07-06,4,270-->
+<!--SR:!2024-07-21,14,290-->
 
 
 Anfang und Ende eintragen
@@ -71,7 +65,3 @@ Natur und Positionslängen (eintragen
 - vordere Silbe bei mehreren Konsonanten nach einem Vokal
 - non
 - Akk. Pluralendungen
-
-
-Kurze Vokale eintragen ->
-Bei zwei Vokalen (außer Diphtonge) ist der erste kurz
