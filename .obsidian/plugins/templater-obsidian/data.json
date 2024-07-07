@@ -11,7 +11,7 @@
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "Settings/Scripts",
+  "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -27,7 +27,7 @@
       "template": "Settings/Templates/Informatik Template.md"
     },
     {
-      "folder": "Grey Hat Hacking",
+      "folder": "GHH",
       "template": "Settings/Templates/Grey Hat Hacking Template.md"
     }
   ],
