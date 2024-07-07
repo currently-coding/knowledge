@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 4342338
       }
+    },
+    {
+      "query": "path:GHH  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
   "collapse-display": true,
@@ -109,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1,
-  "close": false
+  "scale": 0.6666666666666666,
+  "close": true
 }

@@ -1,8 +1,8 @@
 {
   "settings": {
-    "flashcardEasyText": "Too easy",
-    "flashcardGoodText": "Hard win!",
-    "flashcardHardText": "¯\\_(ツ)_/¯",
+    "flashcardEasyText": "Entkernt",
+    "flashcardGoodText": "Normal",
+    "flashcardHardText": "Wurde Entkernt",
     "flashcardTags": [
       ""
     ],
@@ -10,11 +10,11 @@
     "cardCommentOnSameLine": false,
     "burySiblingCards": true,
     "showContextInCards": true,
-    "flashcardHeightPercentage": 100,
+    "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
-    "flashcardDeckOrder": "PrevDeckComplete_Random",
+    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertHighlightsToClozes": false,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": true,
@@ -28,21 +28,21 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "03 Physik",
+      "00 Karteikarten 1/Ignore",
       "01 Informatik",
       "02 Chemie",
+      "03 Physik",
       "04 Geschichte",
       "05 Ethik",
       "06 Politik & Gesellschaft",
       "07 Englisch",
       "08 Deutsch",
       "09 Musik",
-      "10 Geographie",
+      "10 Geograhie",
       "11 Wirtschaft",
       "12 Latein",
       "13 Mathematik",
-      "Images",
-      "Settings"
+      "GHH"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
@@ -57,6 +57,4 @@
     "showDebugMessages": false
   },
   "buryDate": "2024-07-07",
-  "buryList": [],
-  "historyDeck": null
 }

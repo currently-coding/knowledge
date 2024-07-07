@@ -6,7 +6,6 @@
 	- 1. Melodie
 		- **diastolisch** -> keine Vorzeichen ([[00 Karteikarten 1/Musik/Fachbegriffe]])
 	- 2. Melodie
-		- **
 
 ## Rhytmus
 - Ostinato-Rhythmus
