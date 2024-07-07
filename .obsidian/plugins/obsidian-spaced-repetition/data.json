@@ -41,7 +41,8 @@
       "10 Geographie",
       "11 Wirtschaft",
       "12 Latein",
-      "13 Mathematik"
+      "13 Mathematik",
+      "00 Karteikarten/Ignore"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
