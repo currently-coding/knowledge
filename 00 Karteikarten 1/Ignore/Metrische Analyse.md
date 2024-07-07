@@ -8,7 +8,7 @@ Symbol für eine kurze Silbe <-> Das Symbol v.
 <!--SR:!2000-01-01,1,250!2024-07-18,13,288-->
 
 Symbol für eine lange Silbe <-> Das Symbol -.
-<!--SR:!2000-01-01,1,250!2024-07-17,12,288-->
+<!--SR:!2024-07-11,4,284!2024-07-17,12,288-->
 
 Mehrere Silben bilden -> einen Versfuß.
 
