@@ -28,15 +28,6 @@
       "key": "R"
     }
   ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "B"
-    }
-  ],
   "obsidian-git:push": [
     {
       "modifiers": [
@@ -76,6 +67,15 @@
         "Mod"
       ],
       "key": "A"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }
