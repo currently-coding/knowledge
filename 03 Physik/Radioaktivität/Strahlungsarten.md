@@ -20,7 +20,8 @@ tags:
 - Umwandlung eines Neutrons in ein Proton, Abgabe von einem Elektron + ein **Antineutrinos**(ungeladen, vernachlässigbare Masse)
 ### Neutron -> Elektron
 - $\beta-$ Zerfall
-- Protonen
+- Protonenzahl reduziert sich um *1*
+- 
 
 
 # $\gamma$ - Strahlung
