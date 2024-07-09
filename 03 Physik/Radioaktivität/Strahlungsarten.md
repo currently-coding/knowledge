@@ -17,7 +17,10 @@ tags:
 ## Problem
 - hohe Neutronenzahl
 ## Lösung
-- Umwandlung eines Neutrons in ein Proton || Elektron + Agba
+- Umwandlung eines Neutrons in ein Proton, Abgabe von einem Elektron + ein **Antineutrinos**(ungeladen, vernachlässigbare Masse)
+### Neutron -> Elektron
+- $\beta-$ Zerfall
+- Protonen
 
 
 # $\gamma$ - Strahlung
