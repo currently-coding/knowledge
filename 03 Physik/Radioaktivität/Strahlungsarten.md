@@ -4,6 +4,7 @@ tags:
   - radioaktivität
 ---
 # $\alpha$ - Strahlung
+- Ladung $2\
 ## Grund
 - Hohe Protonenzahl -> Große Abstoßungskräfte
 
