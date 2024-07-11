@@ -2,4 +2,4 @@ Erkläre Uni-, Bi- und Multipolarität -> Macht bei 1 Staat/Machtblock, bzw. bei
 <!--SR:!2024-07-26,17,290-->
 
 Sozialismus <-> Vorstufe des Kommunismus
-<!--SR:!2024-07-25,16,290!2024-07-11,4,274-->
+<!--SR:!2024-07-25,16,290!2024-07-27,16,294-->
