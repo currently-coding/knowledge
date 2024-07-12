@@ -1,0 +1,3 @@
+- Welches keyword erlaubt dynamic binding? -> `virtual`
+- Wie kann auf den Konstruktor der Oberklasse delegiert werden? -> `<oberklasse>(<argumente>` (Bsp: `... : scalar(x), y_(y) {}`)
+- 
