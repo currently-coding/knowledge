@@ -35,4 +35,3 @@ handles memory differently
 
 # Flashcards
 Where is NASM being used the most and where do people use AT&T ? -> Windows assemblers/debuggers; Linux Devs/gcc compilers
-
