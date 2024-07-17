@@ -7,7 +7,7 @@ Wirf eine Fehlermeldung des Typs `invalid_argument` -> `throw std::invalid_argue
 Lies den Inhalt einer Fehlermeldung aus. -> `e.what();`
 <!--SR:!2024-07-19,4,274-->
 Fange einen Fehler ab und gib dessen Error Message auf `cerr` aus.
-??
+?
 ```cpp
 try {
 	<possibly failing code>
@@ -17,6 +17,7 @@ try {
 	std::cerr << "unknown error" << std::endl;
 }
 ```
+<!--SR:!2000-01-01,1,250!2024-07-21,4,281-->
 
 <!--SR:!2024-07-20,4,279-->
 
