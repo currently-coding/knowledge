@@ -30,7 +30,7 @@ to cherish <-> to care about smth and cultivate it with affection
 <!--SR:!2024-07-25,14,297!2024-07-19,11,270-->
 
 zenith <-> highest, most successful point of a situation
-<!--SR:!2024-07-27,16,305!2024-07-18,9,270-->
+<!--SR:!2024-07-27,16,305!2024-08-23,36,290-->
 
 wanderlust <-> strong desire to travel
 <!--SR:!2024-07-25,14,297!2024-07-22,13,292-->
