@@ -27,7 +27,7 @@ solitude <-> state of isolation/loneliness
 <!--SR:!2024-07-23,14,290!2024-07-28,17,297-->
 
 to cherish <-> to care about smth and cultivate it with affection
-<!--SR:!2024-07-25,14,297!2024-07-19,11,270-->
+<!--SR:!2024-07-25,14,297!2024-09-01,44,290-->
 
 zenith <-> highest, most successful point of a situation
 <!--SR:!2024-07-27,16,305!2024-08-23,36,290-->
