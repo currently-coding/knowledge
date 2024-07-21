@@ -5,6 +5,7 @@ Definiere einen `enum` Ampelfarben. Wo sind Kommas und wo Semikolons zu setzen? 
 Wirf eine Fehlermeldung des Typs `invalid_argument` -> `throw std::invalid_arguemnt("ERROR MSG");`
 <!--SR:!2024-08-02,14,294-->
 Lies den Inhalt einer Fehlermeldung aus. -> `e.what();`
+<!--SR:!2024-07-25,4,287-->
 
 <!--SR:!2024-08-03,15,294-->
 Fange einen Fehler ab und gib dessen Error Message auf `cerr` aus.
@@ -21,6 +22,8 @@ try {
 <!--SR:!2024-07-22,4,281-->
 
 
-<!--SR:!2024-07-20,4,279-->
 
-<!--SR:!2024-07-19,4,274-->
+<!--SR:!2024-08-07,17,299-->
+
+
+<!--SR:!2024-08-03,13,294-->
