@@ -33,7 +33,7 @@ zenith <-> highest, most successful point of a situation
 <!--SR:!2024-07-27,16,305!2024-08-23,36,290-->
 
 wanderlust <-> strong desire to travel
-<!--SR:!2024-07-25,14,297!2024-07-22,13,292-->
+<!--SR:!2024-07-25,14,297!2024-09-15,55,312-->
 
 tranquillity <-> peace, Frieden
 <!--SR:!2024-09-09,50,292!2024-07-25,14,297-->
