@@ -21,10 +21,10 @@ plethora <-> an abundance of something, Überfluss an etwas
 <!--SR:!2024-07-28,17,297!2024-07-23,14,292-->
 
 quintessence <-> quintessenz
-<!--SR:!2024-07-23,14,292!2024-07-26,15,297-->
+<!--SR:!2024-09-19,58,312!2024-07-26,15,297-->
 
 solitude <-> state of isolation/loneliness
-<!--SR:!2024-07-23,14,290!2024-07-28,17,297-->
+<!--SR:!2024-09-16,55,310!2024-07-28,17,297-->
 
 to cherish <-> to care about smth and cultivate it with affection
 <!--SR:!2024-07-25,14,297!2024-09-01,44,290-->
