@@ -3,7 +3,7 @@ tags:
   - chemie
   - formeln
 ---
-Ammonium-Ion <-> $NH_4^+$
+	Ammonium-Ion <-> $NH_4^+$
 <!--SR:!2024-09-14,57,318!2024-09-05,46,300-->
 
 Carbonat-Ion <-> $CO_3^{2-}$
