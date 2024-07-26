@@ -149,4 +149,8 @@ toil <-> Mühe
 
 to advocate <-> befürworten, unterstützen
 
+to allege <-> behaupten
+
+allegedly <-> angeblich, vermeintlich
+
 
