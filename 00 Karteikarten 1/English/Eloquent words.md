@@ -37,3 +37,7 @@ wanderlust <-> strong desire to travel
 
 tranquillity <-> peace, Frieden
 <!--SR:!2024-09-09,50,292!2024-09-21,58,317-->
+
+evident<-> evident
+
+intend 
