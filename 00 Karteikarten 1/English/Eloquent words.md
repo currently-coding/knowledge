@@ -38,6 +38,21 @@ wanderlust <-> strong desire to travel
 tranquillity <-> peace, Frieden
 <!--SR:!2024-09-09,50,292!2024-09-21,58,317-->
 
-evident<-> evident
+evident(adj.) <-> evident
 
-intend 
+to intend <-> beabsichtigen
+
+intent <-> absicht
+
+suffocate <-> ersticken, würgen
+
+concern <-> Anliegen, Interesse
+
+to concern <-> betreffen, angehen, beunruhigen
+
+to conduct <-> durchführen, betreiben, leiten
+
+to establish <-> aufstellen, feststellen, etablieren, gründen
+
+to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
+
