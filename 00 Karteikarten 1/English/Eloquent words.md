@@ -56,3 +56,9 @@ to establish <-> aufstellen, feststellen, etablieren, gründen
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
 
+to obtain <-> erhalten, beziehen, bekommen, gewinnen
+
+apparent <-> erkennbar, offensichtlich
+
+commission <-> provision, auftrag
+
