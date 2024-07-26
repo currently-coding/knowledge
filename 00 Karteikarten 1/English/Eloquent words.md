@@ -3,10 +3,10 @@ tags:
   - englisch
 ---
 Serendipity <-> Glücklicher Zufall, Spürsinn
-<!--SR:!2024-07-26,17,292!2024-07-28,17,297-->
+<!--SR:!2024-10-02,68,312!2024-07-28,17,297-->
 
 ubiquitous <-> allgegenwärtig, omnipräsent
-<!--SR:!2024-07-24,15,290!2024-09-04,41,297-->
+<!--SR:!2024-09-23,59,310!2024-09-04,41,297-->
 
 eternity <-> Limitless amount of time
 <!--SR:!2024-09-20,57,312!2024-07-27,16,297-->
