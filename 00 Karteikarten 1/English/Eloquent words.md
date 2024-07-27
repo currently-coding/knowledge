@@ -114,6 +114,7 @@ to compel <-> zwingen, nötigen
 to furnish <-> liefern, einrichten, möbelieren
 
 to venture <-> wagen, riskieren
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
 
@@ -159,5 +160,6 @@ to advocate <-> befürworten, unterstützen
 to allege <-> behaupten
 
 allegedly <-> angeblich, vermeintlich
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 
