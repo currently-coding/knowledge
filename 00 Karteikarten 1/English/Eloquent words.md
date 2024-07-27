@@ -42,31 +42,31 @@ evident <-> erwiesen
 <!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 to intend <-> beabsichtigen
-<!--SR:!2024-07-30,4,312!2000-01-01,1,250-->
+<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 intent <-> absicht
 <!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 suffocate <-> ersticken, würgen
-<!--SR:!2024-07-30,4,312!2000-01-01,1,250-->
+<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 concern <-> Anliegen, Interesse
 <!--SR:!2024-07-28,1,278!2024-07-30,4,312-->
 
 to concern <-> betreffen, angehen, beunruhigen
-<!--SR:!2000-01-01,1,250!2024-07-30,4,312-->
+<!--SR:!2024-07-28,1,278!2024-07-30,4,312-->
 
 to conduct <-> durchführen, betreiben, leiten
-<!--SR:!2024-07-29,3,292!2000-01-01,1,250-->
+<!--SR:!2024-07-29,3,292!2024-07-31,4,318-->
 
 to establish <-> aufstellen, feststellen, etablieren, gründen
-<!--SR:!2000-01-01,1,250!2024-07-30,4,312-->
+<!--SR:!2024-07-31,4,318!2024-07-30,4,312-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
 <!--SR:!2024-07-30,3,272!2000-01-01,1,250-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
-<!--SR:!2024-07-29,3,292!2000-01-01,1,250-->
+<!--SR:!2024-07-29,3,292!2024-07-31,4,318-->
 
 apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-07-29,3,292!2024-07-28,1,278-->
@@ -78,7 +78,7 @@ to rendern <-> machen, erbringen, leisten
 <!--SR:!2000-01-01,1,250!2024-07-28,1,252-->
 
 to affect <-> beeinträchtigen, betreffen, sich auswirken
-<!--SR:!2024-07-30,4,312!2000-01-01,1,250-->
+<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 to cherish <-> schätzen, pflegen, festhalten
 <!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
@@ -87,6 +87,7 @@ to appeal <-> appelieren, gefallen, sich wenden
 <!--SR:!2024-07-28,1,278!2000-01-01,1,250-->
 
 theory <-> theorie
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 generate <-> generieren
 <!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
@@ -134,6 +135,7 @@ to assert <-> behaupten, durchsetzen
 <!--SR:!2024-07-28,1,278!2000-01-01,1,250-->
 
 humble <-> bescheiden, einfach, demütig
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 scheme <-> ausgefeilter Plan, Intrige
 <!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
@@ -148,8 +150,10 @@ justify <-> rechtfertigen
 <!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 merit <-> Verdienst, Leistung
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 persist <-> bestehen, fortdauern
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 contempt <-> Missachtung, Verachtung
 <!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
