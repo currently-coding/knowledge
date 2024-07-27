@@ -38,20 +38,20 @@ wanderlust <-> strong desire to travel
 tranquillity <-> peace, Frieden
 <!--SR:!2024-09-09,50,292!2024-09-21,58,317-->
 
-evident <-> evident, erwiesen
-<!--SR:!2024-07-30,4,312!2000-01-01,1,250-->
+evident <-> erwiesen
+<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 to intend <-> beabsichtigen
 <!--SR:!2024-07-30,4,312!2000-01-01,1,250-->
 
 intent <-> absicht
-<!--SR:!2024-07-30,4,312!2000-01-01,1,250-->
+<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 suffocate <-> ersticken, würgen
 <!--SR:!2024-07-30,4,312!2000-01-01,1,250-->
 
 concern <-> Anliegen, Interesse
-<!--SR:!2000-01-01,1,250!2024-07-30,4,312-->
+<!--SR:!2024-07-28,1,278!2024-07-30,4,312-->
 
 to concern <-> betreffen, angehen, beunruhigen
 <!--SR:!2000-01-01,1,250!2024-07-30,4,312-->
@@ -81,9 +81,10 @@ to affect <-> beeinträchtigen, betreffen, sich auswirken
 <!--SR:!2024-07-30,4,312!2000-01-01,1,250-->
 
 to cherish <-> schätzen, pflegen, festhalten
-<!--SR:!2024-07-30,4,312!2000-01-01,1,250-->
+<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 to appeal <-> appelieren, gefallen, sich wenden
+<!--SR:!2024-07-28,1,278!2000-01-01,1,250-->
 
 theory <-> theorie
 
@@ -91,6 +92,7 @@ generate <-> generieren
 <!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 labor <-> arbeit
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 to grant <-> gewähren, genehmigen
 <!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
@@ -99,10 +101,12 @@ to yield <-> bringen, ergeben, nachgeben
 <!--SR:!2024-07-28,1,278!2000-01-01,1,250-->
 
 to insist <-> pochen, insistieren
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 to wander <-> schlendern, irren, bummeln
 
 to inspire <-> inspirieren
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 to convince <-> überzeugen, 
 
@@ -110,26 +114,33 @@ to reflect <-> wiederspiegeln, reflektieren
 <!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 to compel <-> zwingen, nötigen
+<!--SR:!2024-07-30,3,298!2000-01-01,1,250-->
 
 to furnish <-> liefern, einrichten, möbelieren
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 to venture <-> wagen, riskieren
 <!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
+<!--SR:!2024-07-28,1,278!2000-01-01,1,250-->
 
 majority <-> Mehrzahl, Mehrheit
 <!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 to assert <-> behaupten, durchsetzen
+<!--SR:!2024-07-28,1,278!2000-01-01,1,250-->
 
 humble <-> bescheiden, einfach, demütig
 
 scheme <-> ausgefeilter Plan, Intrige
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 keen <-> eifrig, begierig, willig
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 despair <-> Verzweiflung
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 justify <-> rechtfertigen
 <!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
@@ -139,25 +150,31 @@ merit <-> Verdienst, Leistung
 persist <-> bestehen, fortdauern
 
 contempt <-> Missachtung, Verachtung
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 to plead <-> plädieren
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 distinction <-> Unterscheidung, Abgrenzung, Auszeichnung
 <!--SR:!2024-07-30,3,298!2000-01-01,1,250-->
 
 to contend <-> kämpfen, behaupten
+<!--SR:!2000-01-01,1,250!2024-07-30,3,298-->
 
 to perish <-> untergehen, sterben, zugrunde gehen
 
 to occupy <-> beschäftigen, belegen
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 to toil <-> sich plagen, schuften
 
 toil <-> Mühe
 
 to advocate <-> befürworten, unterstützen
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 to allege <-> behaupten
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 allegedly <-> angeblich, vermeintlich
 <!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
