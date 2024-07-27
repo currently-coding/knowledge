@@ -69,7 +69,7 @@ to obtain <-> erhalten, beziehen, bekommen, gewinnen
 <!--SR:!2024-07-29,3,292!2000-01-01,1,250-->
 
 apparent <-> erkennbar, offensichtlich
-<!--SR:!2024-07-29,3,292!2000-01-01,1,250-->
+<!--SR:!2024-07-29,3,292!2024-07-28,1,278-->
 
 commission <-> provision, auftrag
 <!--SR:!2024-07-30,3,298!2024-07-30,4,312-->
@@ -104,11 +104,13 @@ to insist <-> pochen, insistieren
 <!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 to wander <-> schlendern, irren, bummeln
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 to inspire <-> inspirieren
 <!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
-to convince <-> überzeugen, 
+to convince <-> überzeugen,
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 to reflect <-> wiederspiegeln, reflektieren
 <!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
@@ -162,13 +164,16 @@ to contend <-> kämpfen, behaupten
 <!--SR:!2000-01-01,1,250!2024-07-30,3,298-->
 
 to perish <-> untergehen, sterben, zugrunde gehen
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 to occupy <-> beschäftigen, belegen
 <!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 to toil <-> sich plagen, schuften
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 toil <-> Mühe
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 to advocate <-> befürworten, unterstützen
 <!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
