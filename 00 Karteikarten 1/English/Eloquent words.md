@@ -9,10 +9,10 @@ ubiquitous <-> allgegenwärtig, omnipräsent
 <!--SR:!2024-09-23,59,310!2024-09-04,41,297-->
 
 eternity <-> Limitless amount of time
-<!--SR:!2024-09-20,57,312!2024-07-27,16,297-->
+<!--SR:!2024-09-20,57,312!2024-09-30,65,317-->
 
 nefarious <-> wicked, evil
-<!--SR:!2024-10-02,68,312!2024-07-26,15,297-->
+<!--SR:!2024-10-02,68,312!2024-09-26,61,317-->
 
 oblivion <-> state of unawareness of everything
 <!--SR:!2024-08-31,41,292!2024-07-29,18,305-->
@@ -30,7 +30,7 @@ to cherish <-> to care about smth and cultivate it with affection
 <!--SR:!2024-09-24,61,317!2024-09-01,44,290-->
 
 zenith <-> highest, most successful point of a situation
-<!--SR:!2024-07-27,16,305!2024-08-23,36,290-->
+<!--SR:!2024-09-15,50,305!2024-08-23,36,290-->
 
 wanderlust <-> strong desire to travel
 <!--SR:!2024-09-22,59,317!2024-09-15,55,312-->
@@ -63,7 +63,7 @@ to establish <-> aufstellen, feststellen, etablieren, gründen
 <!--SR:!2000-01-01,1,250!2024-07-30,4,312-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
-<!--SR:!2024-07-27,1,272!2000-01-01,1,250-->
+<!--SR:!2024-07-30,3,272!2000-01-01,1,250-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
 <!--SR:!2024-07-29,3,292!2000-01-01,1,250-->
@@ -72,10 +72,10 @@ apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-07-29,3,292!2000-01-01,1,250-->
 
 commission <-> provision, auftrag
-<!--SR:!2000-01-01,1,250!2024-07-30,4,312-->
+<!--SR:!2024-07-30,3,298!2024-07-30,4,312-->
 
 to rendern <-> machen, erbringen, leisten
-<!--SR:!2000-01-01,1,250!2024-07-27,1,272-->
+<!--SR:!2000-01-01,1,250!2024-07-28,1,252-->
 
 to affect <-> beeinträchtigen, betreffen, sich auswirken
 <!--SR:!2024-07-30,4,312!2000-01-01,1,250-->
@@ -88,12 +88,15 @@ to appeal <-> appelieren, gefallen, sich wenden
 theory <-> theorie
 
 generate <-> generieren
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 labor <-> arbeit
 
 to grant <-> gewähren, genehmigen
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 to yield <-> bringen, ergeben, nachgeben
+<!--SR:!2024-07-28,1,278!2000-01-01,1,250-->
 
 to insist <-> pochen, insistieren
 
@@ -104,6 +107,7 @@ to inspire <-> inspirieren
 to convince <-> überzeugen, 
 
 to reflect <-> wiederspiegeln, reflektieren
+<!--SR:!2024-07-31,4,318!2000-01-01,1,250-->
 
 to compel <-> zwingen, nötigen
 
@@ -114,6 +118,7 @@ to venture <-> wagen, riskieren
 to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
 
 majority <-> Mehrzahl, Mehrheit
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 to assert <-> behaupten, durchsetzen
 
@@ -126,6 +131,7 @@ keen <-> eifrig, begierig, willig
 despair <-> Verzweiflung
 
 justify <-> rechtfertigen
+<!--SR:!2000-01-01,1,250!2024-07-31,4,318-->
 
 merit <-> Verdienst, Leistung
 
@@ -136,6 +142,7 @@ contempt <-> Missachtung, Verachtung
 to plead <-> plädieren
 
 distinction <-> Unterscheidung, Abgrenzung, Auszeichnung
+<!--SR:!2024-07-30,3,298!2000-01-01,1,250-->
 
 to contend <-> kämpfen, behaupten
 

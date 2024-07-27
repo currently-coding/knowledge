@@ -56,24 +56,17 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-07-26",
+  "buryDate": "2024-07-27",
   "buryList": [
-    "1123ca3e4b8932",
-    "17a6ea4a2d01e0",
-    "ec5b6457e73c2",
-    "55d61d17a5a7a",
-    "1bb864063e6d2d",
-    "1d1b169233f0bd",
-    "1cc301d4564dc7",
-    "9692846fdaad3",
-    "e635a36b275bc",
     "136c950a94d2f8",
     "1a0d9d6027de0b",
-    "1097b7148c4201",
-    "76fb8eec08aa6",
-    "e1d51465804cd",
-    "f9673009e7858",
-    "99b33685905ae"
+    "17115310066265",
+    "1e4d332f695168",
+    "71ca2b692b0ee",
+    "1413a6c2d081b2",
+    "99166baee5921",
+    "efb3e7dacd42b",
+    "37337dee582ba"
   ],
   "historyDeck": null
 }
