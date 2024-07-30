@@ -63,13 +63,13 @@ to establish <-> aufstellen, feststellen, etablieren, gründen
 <!--SR:!2024-07-31,4,318!2024-07-30,4,312-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
-<!--SR:!2024-07-30,3,272!2024-07-30,1,288-->
+<!--SR:!2024-07-30,3,272!2024-07-31,1,268-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
 <!--SR:!2024-08-05,7,292!2024-07-31,4,318-->
 
 apparent <-> erkennbar, offensichtlich
-<!--SR:!2024-07-29,3,292!2024-07-30,1,258-->
+<!--SR:!2024-08-13,14,312!2024-07-30,1,258-->
 
 commission <-> provision, auftrag
 <!--SR:!2024-07-30,3,298!2024-07-30,4,312-->
@@ -126,7 +126,7 @@ to venture <-> wagen, riskieren
 <!--SR:!2024-08-02,4,328!2024-07-31,4,318-->
 
 to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
-<!--SR:!2024-07-30,1,258!2000-01-01,1,250-->
+<!--SR:!2024-08-02,3,258!2000-01-01,1,250-->
 
 majority <-> Mehrzahl, Mehrheit
 <!--SR:!2024-08-02,4,328!2024-07-31,4,318-->
@@ -135,7 +135,7 @@ to assert <-> behaupten, durchsetzen
 <!--SR:!2024-08-01,3,278!2000-01-01,1,250-->
 
 humble <-> bescheiden, einfach, demütig
-<!--SR:!2024-07-31,4,318!2024-07-30,1,288-->
+<!--SR:!2024-07-31,4,318!2024-08-03,4,308-->
 
 scheme <-> ausgefeilter Plan, Intrige
 <!--SR:!2024-08-02,4,328!2024-07-31,4,318-->
@@ -153,7 +153,7 @@ merit <-> Verdienst, Leistung
 <!--SR:!2024-08-02,4,328!2024-07-31,4,318-->
 
 persist <-> bestehen, fortdauern
-<!--SR:!2024-07-31,4,318!2024-07-30,1,288-->
+<!--SR:!2024-07-31,4,318!2024-08-03,4,308-->
 
 contempt <-> Missachtung, Verachtung
 <!--SR:!2024-08-02,3,288!2024-07-31,4,318-->
