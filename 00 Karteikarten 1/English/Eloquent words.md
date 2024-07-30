@@ -132,7 +132,7 @@ majority <-> Mehrzahl, Mehrheit
 <!--SR:!2024-08-02,4,328!2024-07-31,4,318-->
 
 to assert <-> behaupten, durchsetzen
-<!--SR:!2024-08-01,3,278!2000-01-01,1,250-->
+<!--SR:!2024-08-01,3,278!2024-08-03,4,334-->
 
 humble <-> bescheiden, einfach, demütig
 <!--SR:!2024-07-31,4,318!2024-08-03,4,308-->
