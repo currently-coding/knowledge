@@ -39,28 +39,28 @@ tranquillity <-> peace, Frieden
 <!--SR:!2024-09-09,50,292!2024-09-21,58,317-->
 
 evident <-> erwiesen
-<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
+<!--SR:!2024-08-15,16,332!2024-07-31,4,318-->
 
 to intend <-> beabsichtigen
-<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
+<!--SR:!2024-08-14,15,332!2024-07-31,4,318-->
 
 intent <-> absicht
 <!--SR:!2024-08-14,15,332!2024-07-31,4,318-->
 
 suffocate <-> ersticken, würgen
-<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
+<!--SR:!2024-08-15,16,332!2024-07-31,4,318-->
 
 concern <-> Anliegen, Interesse
 <!--SR:!2024-08-01,3,278!2024-08-16,17,332-->
 
 to concern <-> betreffen, angehen, beunruhigen
-<!--SR:!2024-08-01,3,278!2024-07-30,4,312-->
+<!--SR:!2024-08-01,3,278!2024-08-16,17,332-->
 
 to conduct <-> durchführen, betreiben, leiten
 <!--SR:!2024-08-12,14,312!2024-07-31,4,318-->
 
 to establish <-> aufstellen, feststellen, etablieren, gründen
-<!--SR:!2024-07-31,4,318!2024-07-30,4,312-->
+<!--SR:!2024-07-31,4,318!2024-08-18,19,332-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
 <!--SR:!2024-07-30,3,272!2024-07-31,1,268-->
@@ -72,13 +72,13 @@ apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-08-13,14,312!2024-07-30,1,258-->
 
 commission <-> provision, auftrag
-<!--SR:!2024-07-30,3,298!2024-07-30,4,312-->
+<!--SR:!2024-08-12,13,318!2024-07-30,4,312-->
 
 to rendern <-> machen, erbringen, leisten
 <!--SR:!2000-01-01,1,250!2024-08-02,3,252-->
 
 to affect <-> beeinträchtigen, betreffen, sich auswirken
-<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
+<!--SR:!2024-08-17,18,332!2024-07-31,4,318-->
 
 to cherish <-> schätzen, pflegen, festhalten
 <!--SR:!2024-08-15,16,332!2024-07-31,4,318-->
@@ -96,7 +96,7 @@ labor <-> arbeit
 <!--SR:!2024-08-02,4,328!2024-07-31,4,318-->
 
 to grant <-> gewähren, genehmigen
-<!--SR:!2024-07-31,4,318!2024-07-30,1,288-->
+<!--SR:!2024-07-31,4,318!2024-08-03,4,308-->
 
 to yield <-> bringen, ergeben, nachgeben
 <!--SR:!2024-08-01,3,278!2000-01-01,1,250-->
@@ -117,7 +117,7 @@ to reflect <-> wiederspiegeln, reflektieren
 <!--SR:!2024-07-31,4,318!2024-08-02,4,328-->
 
 to compel <-> zwingen, nötigen
-<!--SR:!2024-07-30,3,298!2024-08-02,4,328-->
+<!--SR:!2024-08-10,11,318!2024-08-02,4,328-->
 
 to furnish <-> liefern, einrichten, möbelieren
 <!--SR:!2024-08-02,4,328!2024-07-31,4,318-->
@@ -162,10 +162,10 @@ to plead <-> plädieren
 <!--SR:!2024-07-31,4,318!2024-08-02,4,328-->
 
 distinction <-> Unterscheidung, Abgrenzung, Auszeichnung
-<!--SR:!2024-07-30,3,298!2024-08-02,4,328-->
+<!--SR:!2024-08-09,10,318!2024-08-02,4,328-->
 
 to contend <-> kämpfen, behaupten
-<!--SR:!2024-08-02,4,328!2024-07-30,3,298-->
+<!--SR:!2024-08-02,4,328!2024-08-13,14,318-->
 
 to perish <-> untergehen, sterben, zugrunde gehen
 <!--SR:!2024-08-02,4,328!2024-07-31,4,318-->
