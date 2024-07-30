@@ -84,7 +84,7 @@ to cherish <-> schätzen, pflegen, festhalten
 <!--SR:!2024-08-15,16,332!2024-07-31,4,318-->
 
 to appeal <-> appelieren, gefallen, sich wenden
-<!--SR:!2024-08-01,3,278!2000-01-01,1,250-->
+<!--SR:!2024-08-01,3,278!2024-08-03,4,332-->
 
 theory <-> theorie
 <!--SR:!2024-08-02,4,328!2024-07-31,4,318-->
@@ -99,7 +99,7 @@ to grant <-> gewähren, genehmigen
 <!--SR:!2024-07-31,4,318!2024-08-03,4,308-->
 
 to yield <-> bringen, ergeben, nachgeben
-<!--SR:!2024-08-01,3,278!2000-01-01,1,250-->
+<!--SR:!2024-08-01,3,278!2024-07-31,1,292-->
 
 to insist <-> pochen, insistieren
 <!--SR:!2024-07-31,4,318!2024-08-02,4,328-->
