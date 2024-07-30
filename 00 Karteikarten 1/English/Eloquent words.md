@@ -45,13 +45,13 @@ to intend <-> beabsichtigen
 <!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 intent <-> absicht
-<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
+<!--SR:!2024-08-14,15,332!2024-07-31,4,318-->
 
 suffocate <-> ersticken, würgen
 <!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 concern <-> Anliegen, Interesse
-<!--SR:!2024-08-01,3,278!2024-07-30,4,312-->
+<!--SR:!2024-08-01,3,278!2024-08-16,17,332-->
 
 to concern <-> betreffen, angehen, beunruhigen
 <!--SR:!2024-08-01,3,278!2024-07-30,4,312-->
@@ -75,13 +75,13 @@ commission <-> provision, auftrag
 <!--SR:!2024-07-30,3,298!2024-07-30,4,312-->
 
 to rendern <-> machen, erbringen, leisten
-<!--SR:!2000-01-01,1,250!2024-07-30,1,232-->
+<!--SR:!2000-01-01,1,250!2024-08-02,3,252-->
 
 to affect <-> beeinträchtigen, betreffen, sich auswirken
 <!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
 
 to cherish <-> schätzen, pflegen, festhalten
-<!--SR:!2024-07-30,4,312!2024-07-31,4,318-->
+<!--SR:!2024-08-15,16,332!2024-07-31,4,318-->
 
 to appeal <-> appelieren, gefallen, sich wenden
 <!--SR:!2024-08-01,3,278!2000-01-01,1,250-->
@@ -156,7 +156,7 @@ persist <-> bestehen, fortdauern
 <!--SR:!2024-07-31,4,318!2024-07-30,1,288-->
 
 contempt <-> Missachtung, Verachtung
-<!--SR:!2024-07-30,1,288!2024-07-31,4,318-->
+<!--SR:!2024-08-02,3,288!2024-07-31,4,318-->
 
 to plead <-> plädieren
 <!--SR:!2024-07-31,4,318!2024-08-02,4,328-->

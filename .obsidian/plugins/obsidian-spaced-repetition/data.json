@@ -56,14 +56,9 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-07-29",
+  "buryDate": "2024-07-30",
   "buryList": [
-    "71ca2b692b0ee",
-    "b216afa038fe0",
-    "1d1b169233f0bd",
-    "c11720cfca4d0",
-    "1a0d9d6027de0b",
-    "1dec8343cdb140"
+    "1a0d9d6027de0b"
   ],
   "historyDeck": null
 }
