@@ -54,19 +54,19 @@ concern <-> Anliegen, Interesse
 <!--SR:!2024-08-01,3,278!2024-08-16,17,332-->
 
 to concern <-> betreffen, angehen, beunruhigen
-<!--SR:!2024-08-01,3,278!2024-08-16,17,332-->
+<!--SR:!2024-08-08,6,278!2024-08-16,17,332-->
 
 to conduct <-> durchführen, betreiben, leiten
 <!--SR:!2024-08-12,14,312!2024-08-19,19,338-->
 
 to establish <-> aufstellen, feststellen, etablieren, gründen
-<!--SR:!2024-08-02,2,298!2024-08-18,19,332-->
+<!--SR:!2024-08-09,7,318!2024-08-18,19,332-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
-<!--SR:!2024-07-30,3,272!2024-08-01,1,248-->
+<!--SR:!2024-08-04,2,252!2024-08-01,1,248-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
-<!--SR:!2024-08-05,7,292!2024-08-02,2,298-->
+<!--SR:!2024-08-05,7,292!2024-08-09,7,318-->
 
 apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-08-13,14,312!2024-08-05,3,258-->
@@ -87,13 +87,13 @@ to appeal <-> appelieren, gefallen, sich wenden
 <!--SR:!2024-08-01,3,278!2024-08-03,4,332-->
 
 theory <-> theorie
-<!--SR:!2024-08-02,4,328!2024-08-18,18,338-->
+<!--SR:!2024-08-20,18,348!2024-08-18,18,338-->
 
 generate <-> generieren
 <!--SR:!2024-08-22,20,348!2024-08-19,19,338-->
 
 labor <-> arbeit
-<!--SR:!2024-08-02,4,328!2024-08-17,17,338-->
+<!--SR:!2024-08-22,20,348!2024-08-17,17,338-->
 
 to grant <-> gewähren, genehmigen
 <!--SR:!2024-08-17,17,338!2024-08-03,4,308-->
@@ -108,7 +108,7 @@ to wander <-> schlendern, irren, bummeln
 <!--SR:!2024-08-16,16,338!2024-08-03,4,308-->
 
 to inspire <-> inspirieren
-<!--SR:!2024-08-17,17,338!2024-08-02,4,328-->
+<!--SR:!2024-08-17,17,338!2024-08-18,16,348-->
 
 to convince <-> überreden, überzeugen
 <!--SR:!2024-08-02,4,328!2024-08-18,18,338-->
@@ -123,7 +123,7 @@ to furnish <-> liefern, einrichten, möbelieren
 <!--SR:!2024-08-02,4,328!2024-08-16,16,338-->
 
 to venture <-> wagen, riskieren
-<!--SR:!2024-08-02,4,328!2024-08-20,20,338-->
+<!--SR:!2024-08-19,17,348!2024-08-20,20,338-->
 
 to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
 <!--SR:!2024-08-02,3,258!2024-08-04,4,337-->
@@ -138,13 +138,13 @@ humble <-> bescheiden, einfach, demütig
 <!--SR:!2024-08-17,17,338!2024-08-03,4,308-->
 
 scheme <-> ausgefeilter Plan, Intrige
-<!--SR:!2024-08-02,4,328!2024-08-16,16,338-->
+<!--SR:!2024-08-19,17,348!2024-08-16,16,338-->
 
 keen <-> eifrig, begierig, willig
-<!--SR:!2024-08-01,3,308!2024-08-20,20,338-->
+<!--SR:!2024-08-04,2,288!2024-08-20,20,338-->
 
 despair <-> Verzweiflung
-<!--SR:!2024-08-02,4,328!2024-08-19,19,338-->
+<!--SR:!2024-08-19,17,348!2024-08-19,19,338-->
 
 to justify <-> rechtfertigen
 <!--SR:!2024-08-20,18,348!2024-08-18,18,338-->
@@ -156,16 +156,16 @@ persist <-> bestehen, fortdauern
 <!--SR:!2024-08-17,17,338!2024-08-03,4,308-->
 
 contempt <-> Missachtung, Verachtung
-<!--SR:!2024-08-02,3,288!2024-08-18,18,338-->
+<!--SR:!2024-08-12,10,308!2024-08-18,18,338-->
 
 to plead <-> plädieren
-<!--SR:!2024-08-20,20,338!2024-08-02,4,328-->
+<!--SR:!2024-08-20,20,338!2024-08-21,19,348-->
 
 distinction <-> Unterscheidung, Abgrenzung, Auszeichnung
-<!--SR:!2024-08-09,10,318!2024-08-02,4,328-->
+<!--SR:!2024-08-09,10,318!2024-08-18,16,348-->
 
 to contend <-> kämpfen, behaupten
-<!--SR:!2024-08-02,4,328!2024-08-13,14,318-->
+<!--SR:!2024-08-20,18,348!2024-08-13,14,318-->
 
 to perish <-> untergehen, sterben, zugrunde gehen
 <!--SR:!2024-08-02,4,328!2024-08-17,17,338-->
@@ -177,13 +177,13 @@ to toil <-> sich plagen, schuften
 <!--SR:!2024-08-20,20,338!2024-08-21,19,348-->
 
 toil <-> Mühe
-<!--SR:!2024-08-18,18,338!2024-08-02,4,328-->
+<!--SR:!2024-08-18,18,338!2024-08-21,19,348-->
 
 to advocate <-> befürworten, unterstützen
 <!--SR:!2024-08-18,16,348!2024-08-19,19,338-->
 
 to allege <-> behaupten
-<!--SR:!2024-08-02,4,328!2024-08-16,16,338-->
+<!--SR:!2024-08-22,20,348!2024-08-16,16,338-->
 
 allegedly <-> angeblich, vermeintlich
 <!--SR:!2024-08-13,11,328!2024-08-18,18,338-->
