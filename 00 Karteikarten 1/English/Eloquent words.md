@@ -51,7 +51,7 @@ suffocate <-> ersticken, würgen
 <!--SR:!2024-08-15,16,332!2024-08-18,18,338-->
 
 concern <-> Anliegen, Interesse
-<!--SR:!2024-08-01,3,278!2024-08-16,17,332-->
+<!--SR:!2024-08-15,13,298!2024-08-16,17,332-->
 
 to concern <-> betreffen, angehen, beunruhigen
 <!--SR:!2024-08-08,6,278!2024-08-16,17,332-->
@@ -99,7 +99,7 @@ to grant <-> gewähren, genehmigen
 <!--SR:!2024-08-17,17,338!2024-08-03,4,308-->
 
 to yield <-> bringen, ergeben, nachgeben
-<!--SR:!2024-08-01,3,278!2024-08-04,4,312-->
+<!--SR:!2024-08-09,7,278!2024-08-04,4,312-->
 
 to insist <-> pochen, insistieren
 <!--SR:!2024-08-20,20,338!2024-08-02,4,328-->
