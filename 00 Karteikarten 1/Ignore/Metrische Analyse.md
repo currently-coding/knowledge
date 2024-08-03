@@ -2,7 +2,7 @@
 tags:
   - latein
 ---
-TARGET DECK: Schule::Latein::Metrische Analyse
+																		TARGET DECK: Schule::Latein::Metrische Analyse
 
 Symbol für eine kurze Silbe <-> Das Symbol v.
 <!--SR:!2024-07-11,4,284!2024-07-18,13,288-->
