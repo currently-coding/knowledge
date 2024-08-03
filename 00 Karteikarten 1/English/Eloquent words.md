@@ -75,7 +75,7 @@ commission <-> provision, auftrag
 <!--SR:!2024-08-12,13,318!2024-08-16,16,332-->
 
 to rendern <-> machen, erbringen, leisten
-<!--SR:!2024-08-01,1,297!2024-08-02,3,252-->
+<!--SR:!2024-08-01,1,297!2024-08-13,10,272-->
 
 to affect <-> beeinträchtigen, betreffen, sich auswirken
 <!--SR:!2024-08-17,18,332!2024-08-20,20,338-->
