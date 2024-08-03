@@ -63,7 +63,7 @@ to establish <-> aufstellen, feststellen, etablieren, gründen
 <!--SR:!2024-08-09,7,318!2024-08-18,19,332-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
-<!--SR:!2024-08-04,2,252!2024-08-01,1,248-->
+<!--SR:!2024-08-04,2,252!2024-08-06,3,268-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
 <!--SR:!2024-08-05,7,292!2024-08-09,7,318-->
@@ -84,7 +84,7 @@ to cherish <-> schätzen, pflegen, festhalten
 <!--SR:!2024-08-15,16,332!2024-08-16,16,338-->
 
 to appeal <-> appelieren, gefallen, sich wenden
-<!--SR:!2024-08-01,3,278!2024-08-03,4,332-->
+<!--SR:!2024-08-05,2,258!2024-08-03,4,332-->
 
 theory <-> theorie
 <!--SR:!2024-08-20,18,348!2024-08-18,18,338-->
@@ -96,28 +96,28 @@ labor <-> arbeit
 <!--SR:!2024-08-22,20,348!2024-08-17,17,338-->
 
 to grant <-> gewähren, genehmigen
-<!--SR:!2024-08-17,17,338!2024-08-03,4,308-->
+<!--SR:!2024-08-17,17,338!2024-08-21,18,328-->
 
 to yield <-> bringen, ergeben, nachgeben
 <!--SR:!2024-08-09,7,278!2024-08-04,4,312-->
 
 to insist <-> pochen, insistieren
-<!--SR:!2024-08-20,20,338!2024-08-02,4,328-->
+<!--SR:!2024-08-20,20,338!2024-08-23,20,348-->
 
 to wander <-> schlendern, irren, bummeln
-<!--SR:!2024-08-16,16,338!2024-08-03,4,308-->
+<!--SR:!2024-08-16,16,338!2024-08-19,16,328-->
 
 to inspire <-> inspirieren
 <!--SR:!2024-08-17,17,338!2024-08-18,16,348-->
 
 to convince <-> überreden, überzeugen
-<!--SR:!2024-08-02,4,328!2024-08-18,18,338-->
+<!--SR:!2024-08-22,19,348!2024-08-18,18,338-->
 
 to reflect <-> wiederspiegeln, reflektieren
-<!--SR:!2024-08-20,20,338!2024-08-02,4,328-->
+<!--SR:!2024-08-20,20,338!2024-08-22,19,348-->
 
 to compel <-> zwingen, nötigen
-<!--SR:!2024-08-10,11,318!2024-08-02,4,328-->
+<!--SR:!2024-08-10,11,318!2024-08-19,16,348-->
 
 to furnish <-> liefern, einrichten, möbelieren
 <!--SR:!2024-08-19,17,348!2024-08-16,16,338-->
@@ -126,16 +126,16 @@ to venture <-> wagen, riskieren
 <!--SR:!2024-08-19,17,348!2024-08-20,20,338-->
 
 to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
-<!--SR:!2024-08-02,3,258!2024-08-04,4,337-->
+<!--SR:!2024-08-14,11,278!2024-08-04,4,337-->
 
 majority <-> Mehrzahl, Mehrheit
-<!--SR:!2024-08-02,4,328!2024-08-16,16,338-->
+<!--SR:!2024-08-21,18,348!2024-08-16,16,338-->
 
-to assert <-> behaupten, durchsetzen
-<!--SR:!2024-08-01,3,278!2024-08-03,4,334-->
+to assert <-> geltend machen, durchsetzen
+<!--SR:!2024-08-01,3,278!2024-08-22,19,354-->
 
 humble <-> bescheiden, einfach, demütig
-<!--SR:!2024-08-17,17,338!2024-08-03,4,308-->
+<!--SR:!2024-08-17,17,338!2024-08-18,15,328-->
 
 scheme <-> ausgefeilter Plan, Intrige
 <!--SR:!2024-08-19,17,348!2024-08-16,16,338-->
@@ -150,10 +150,10 @@ to justify <-> rechtfertigen
 <!--SR:!2024-08-20,18,348!2024-08-18,18,338-->
 
 merit <-> Verdienst, Leistung
-<!--SR:!2024-08-02,4,328!2024-08-17,17,338-->
+<!--SR:!2024-08-21,18,348!2024-08-17,17,338-->
 
 persist <-> bestehen, fortdauern
-<!--SR:!2024-08-17,17,338!2024-08-03,4,308-->
+<!--SR:!2024-08-17,17,338!2024-08-20,17,328-->
 
 contempt <-> Missachtung, Verachtung
 <!--SR:!2024-08-12,10,308!2024-08-18,18,338-->
@@ -168,7 +168,7 @@ to contend <-> kämpfen, behaupten
 <!--SR:!2024-08-20,18,348!2024-08-13,14,318-->
 
 to perish <-> untergehen, sterben, zugrunde gehen
-<!--SR:!2024-08-02,4,328!2024-08-17,17,338-->
+<!--SR:!2024-08-20,17,348!2024-08-17,17,338-->
 
 to occupy <-> beschäftigen, belegen
 <!--SR:!2024-08-17,17,338!2024-08-19,17,348-->
