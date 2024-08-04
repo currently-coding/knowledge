@@ -63,7 +63,7 @@ to establish <-> aufstellen, feststellen, etablieren, gründen
 <!--SR:!2024-08-09,7,318!2024-08-18,19,332-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
-<!--SR:!2024-08-04,2,252!2024-08-06,3,268-->
+<!--SR:!2024-08-05,1,232!2024-08-06,3,268-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
 <!--SR:!2024-08-05,7,292!2024-08-09,7,318-->
@@ -75,7 +75,7 @@ commission <-> provision, auftrag
 <!--SR:!2024-08-12,13,318!2024-08-16,16,332-->
 
 to rendern <-> machen, erbringen, leisten
-<!--SR:!2024-08-01,1,297!2024-08-13,10,272-->
+<!--SR:!2024-08-08,4,317!2024-08-13,10,272-->
 
 to affect <-> beeinträchtigen, betreffen, sich auswirken
 <!--SR:!2024-08-17,18,332!2024-08-20,20,338-->
@@ -84,7 +84,7 @@ to cherish <-> schätzen, pflegen, festhalten
 <!--SR:!2024-08-15,16,332!2024-08-16,16,338-->
 
 to appeal <-> appelieren, gefallen, sich wenden
-<!--SR:!2024-08-05,2,258!2024-08-03,4,332-->
+<!--SR:!2024-08-05,2,258!2024-08-21,17,352-->
 
 theory <-> theorie
 <!--SR:!2024-08-20,18,348!2024-08-18,18,338-->
@@ -99,7 +99,7 @@ to grant <-> gewähren, genehmigen
 <!--SR:!2024-08-17,17,338!2024-08-21,18,328-->
 
 to yield <-> bringen, ergeben, nachgeben
-<!--SR:!2024-08-09,7,278!2024-08-04,4,312-->
+<!--SR:!2024-08-09,7,278!2024-08-19,15,332-->
 
 to insist <-> pochen, insistieren
 <!--SR:!2024-08-20,20,338!2024-08-23,20,348-->
@@ -126,13 +126,13 @@ to venture <-> wagen, riskieren
 <!--SR:!2024-08-19,17,348!2024-08-20,20,338-->
 
 to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
-<!--SR:!2024-08-14,11,278!2024-08-04,4,337-->
+<!--SR:!2024-08-14,11,278!2024-08-24,20,357-->
 
 majority <-> Mehrzahl, Mehrheit
 <!--SR:!2024-08-21,18,348!2024-08-16,16,338-->
 
 to assert <-> geltend machen, durchsetzen
-<!--SR:!2024-08-01,3,278!2024-08-22,19,354-->
+<!--SR:!2024-08-18,14,298!2024-08-22,19,354-->
 
 humble <-> bescheiden, einfach, demütig
 <!--SR:!2024-08-17,17,338!2024-08-18,15,328-->
@@ -141,7 +141,7 @@ scheme <-> ausgefeilter Plan, Intrige
 <!--SR:!2024-08-19,17,348!2024-08-16,16,338-->
 
 keen <-> eifrig, begierig, willig
-<!--SR:!2024-08-04,2,288!2024-08-20,20,338-->
+<!--SR:!2024-08-11,7,308!2024-08-20,20,338-->
 
 despair <-> Verzweiflung
 <!--SR:!2024-08-19,17,348!2024-08-19,19,338-->
