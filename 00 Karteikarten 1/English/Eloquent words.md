@@ -63,10 +63,10 @@ to establish <-> aufstellen, feststellen, etablieren, gründen
 <!--SR:!2024-08-09,7,318!2024-08-18,19,332-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
-<!--SR:!2024-08-05,1,232!2024-08-06,3,268-->
+<!--SR:!2024-08-11,3,252!2024-08-06,3,268-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
-<!--SR:!2024-08-05,7,292!2024-08-09,7,318-->
+<!--SR:!2024-09-04,27,312!2024-08-09,7,318-->
 
 apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-08-13,14,312!2024-08-05,3,258-->
@@ -84,7 +84,7 @@ to cherish <-> schätzen, pflegen, festhalten
 <!--SR:!2024-08-15,16,332!2024-08-16,16,338-->
 
 to appeal <-> appelieren, gefallen, sich wenden
-<!--SR:!2024-08-05,2,258!2024-08-21,17,352-->
+<!--SR:!2024-08-14,6,278!2024-08-21,17,352-->
 
 theory <-> theorie
 <!--SR:!2024-08-20,18,348!2024-08-18,18,338-->
