@@ -46,7 +46,7 @@ Fluorwasserstoffsäure <-> $HF$
 
 
 Chlorwasserstoffsäure <-> $HCl$
-<!--SR:!2024-08-19,32,283!2024-08-09,9,254-->
+<!--SR:!2024-08-19,32,283!2024-09-09,31,274-->
 
 Bromwasserstoffsäure <-> $HBr$
 <!--SR:!2024-09-02,43,300!2024-08-31,45,294-->

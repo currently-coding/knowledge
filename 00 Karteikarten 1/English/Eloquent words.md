@@ -54,28 +54,28 @@ concern <-> Anliegen, Interesse
 <!--SR:!2024-08-15,13,298!2024-08-16,17,332-->
 
 to concern <-> betreffen, angehen, beunruhigen
-<!--SR:!2024-08-08,6,278!2024-08-16,17,332-->
+<!--SR:!2024-09-02,24,298!2024-08-16,17,332-->
 
 to conduct <-> durchführen, betreiben, leiten
 <!--SR:!2024-08-12,14,312!2024-08-19,19,338-->
 
 to establish <-> aufstellen, feststellen, etablieren, gründen
-<!--SR:!2024-08-09,7,318!2024-08-18,19,332-->
+<!--SR:!2024-09-07,29,338!2024-08-18,19,332-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
-<!--SR:!2024-08-11,3,252!2024-08-06,3,268-->
+<!--SR:!2024-08-11,3,252!2024-08-18,9,288-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
-<!--SR:!2024-09-04,27,312!2024-08-09,7,318-->
+<!--SR:!2024-09-04,27,312!2024-09-06,28,338-->
 
 apparent <-> erkennbar, offensichtlich
-<!--SR:!2024-08-13,14,312!2024-08-05,3,258-->
+<!--SR:!2024-08-13,14,312!2024-08-19,10,278-->
 
 commission <-> provision, auftrag
 <!--SR:!2024-08-12,13,318!2024-08-16,16,332-->
 
 to rendern <-> machen, erbringen, leisten
-<!--SR:!2024-08-08,4,317!2024-08-13,10,272-->
+<!--SR:!2024-08-28,19,337!2024-08-13,10,272-->
 
 to affect <-> beeinträchtigen, betreffen, sich auswirken
 <!--SR:!2024-08-17,18,332!2024-08-20,20,338-->
@@ -99,7 +99,7 @@ to grant <-> gewähren, genehmigen
 <!--SR:!2024-08-17,17,338!2024-08-21,18,328-->
 
 to yield <-> bringen, ergeben, nachgeben
-<!--SR:!2024-08-09,7,278!2024-08-19,15,332-->
+<!--SR:!2024-08-13,4,258!2024-08-19,15,332-->
 
 to insist <-> pochen, insistieren
 <!--SR:!2024-08-20,20,338!2024-08-23,20,348-->
@@ -162,7 +162,7 @@ to plead <-> plädieren
 <!--SR:!2024-08-20,20,338!2024-08-21,19,348-->
 
 distinction <-> Unterscheidung, Abgrenzung, Auszeichnung
-<!--SR:!2024-08-09,10,318!2024-08-18,16,348-->
+<!--SR:!2024-09-21,43,338!2024-08-18,16,348-->
 
 to contend <-> kämpfen, behaupten
 <!--SR:!2024-08-20,18,348!2024-08-13,14,318-->

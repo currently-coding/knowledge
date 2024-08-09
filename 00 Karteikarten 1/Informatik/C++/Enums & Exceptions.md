@@ -8,7 +8,7 @@ Wirf eine Fehlermeldung des Typs `invalid_argument` -> `throw std::invalid_argue
 <!--SR:!2024-09-28,56,314-->
 
 Lies den Inhalt einer Fehlermeldung aus. -> `e.what();`
-<!--SR:!2024-08-09,15,307-->
+<!--SR:!2024-10-11,63,327-->
 
 Fange einen Fehler ab und gib dessen Error Message auf `cerr` aus.
 ?
