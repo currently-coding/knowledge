@@ -117,7 +117,7 @@ to reflect <-> wiederspiegeln, reflektieren
 <!--SR:!2024-08-20,20,338!2024-08-22,19,348-->
 
 to compel <-> zwingen, nötigen
-<!--SR:!2024-08-10,11,318!2024-08-19,16,348-->
+<!--SR:!2024-09-26,47,338!2024-08-19,16,348-->
 
 to furnish <-> liefern, einrichten, möbelieren
 <!--SR:!2024-08-19,17,348!2024-08-16,16,338-->
