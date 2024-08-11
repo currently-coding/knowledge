@@ -63,7 +63,7 @@ to establish <-> aufstellen, feststellen, etablieren, gründen
 <!--SR:!2024-09-07,29,338!2024-08-18,19,332-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
-<!--SR:!2024-08-11,3,252!2024-08-18,9,288-->
+<!--SR:!2024-08-21,10,272!2024-08-18,9,288-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
 <!--SR:!2024-09-04,27,312!2024-09-06,28,338-->
@@ -117,7 +117,7 @@ to reflect <-> wiederspiegeln, reflektieren
 <!--SR:!2024-08-20,20,338!2024-08-22,19,348-->
 
 to compel <-> zwingen, nötigen
-<!--SR:!2024-08-10,11,318!2024-08-19,16,348-->
+<!--SR:!2024-09-26,47,338!2024-08-19,16,348-->
 
 to furnish <-> liefern, einrichten, möbelieren
 <!--SR:!2024-08-19,17,348!2024-08-16,16,338-->
@@ -141,7 +141,7 @@ scheme <-> ausgefeilter Plan, Intrige
 <!--SR:!2024-08-19,17,348!2024-08-16,16,338-->
 
 keen <-> eifrig, begierig, willig
-<!--SR:!2024-08-11,7,308!2024-08-20,20,338-->
+<!--SR:!2024-09-09,29,328!2024-08-20,20,338-->
 
 despair <-> Verzweiflung
 <!--SR:!2024-08-19,17,348!2024-08-19,19,338-->
