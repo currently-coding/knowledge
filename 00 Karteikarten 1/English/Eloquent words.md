@@ -63,7 +63,7 @@ to establish <-> aufstellen, feststellen, etablieren, gründen
 <!--SR:!2024-09-07,29,338!2024-08-18,19,332-->
 
 to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
-<!--SR:!2024-08-11,3,252!2024-08-18,9,288-->
+<!--SR:!2024-08-21,10,272!2024-08-18,9,288-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
 <!--SR:!2024-09-04,27,312!2024-09-06,28,338-->
