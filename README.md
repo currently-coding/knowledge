@@ -6,12 +6,7 @@
 - [Shortcuts](#Hotkeys)
 
 ## Ziel
-- Wikipedia-ähnliche Sammlung an Notizen
-
-
-## Was sollte hochgeladen werden?
-- Zusammenfassung eines kleinen Themengebiets (1-5 Schulstunden)
-- Gerne auch Studiumsinhalte -> Mit #studium markieren
+- geordnete Sammlung erlernten Wissens
 
 ## Format
 ### Ordnerstruktur
@@ -28,22 +23,19 @@
 => Sortierte Darstellung in Vault
 
 ### Karteikarten
-Die Notizen müssen von dem *Export to Anki* Plugin erkannt werden können, um automatisch in Karteikarten umgewandelt werden zu können. Hierbei ist wichtig, dass ihr die richtigen Einstellungen für den Plugin übernommen habt. Wichtig ist, dass ihr euch dafür ein privates Obsidian Vault anlegt, das nicht synchronisiert wird, und dort jeweils die Notizen reinkopiert, die ihr zu Karteikarten umändern wollt. Das liegt daran, dass der Plugin seine Informationen als Kommentare unter den jeweiligen Notizen speichert, und er nicht funktionieren würde, wenn wir die gleichen Notizen verwenden (gilt übrigens auch für alle ähnlichen Plugins).
 
-Die Notizen müssen also den folgenden Aufbau haben:
+Aufbau:
 - Vorderseite der Karteikarte
 - Trennzeichen
 - Rückseite der Karteikarte
-Dazwischen dürfen beliebig viele Leerzeichen und Zeilenumbrüche sein.
+Dazwischen dürfen beliebig viele Leerzeichen sein.
 Die Trennzeichen hierbei sind:
-- => für unidirektionelle Karteikarten
-- <> für bidirektionelle Karteikarten
+- -> für unidirektionelle Karteikarten
+- <-> für bidirektionelle Karteikarten
 
 Beispiele:
 
-Was ist die Ordnungszahl von Wasserstoff => 1
-
-H <> Wasserstoff
+H <-> Wasserstoff
 
 
 ### Links vs Tags - Was wann verwenden
