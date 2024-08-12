@@ -33,6 +33,7 @@ n: Add Comment Above -> gcO
 n: Lazy ->\<leader>l
 n: New File ->\<leader>fn
 n: Location List ->\<leader>xl
+<!--SR:!2024-08-13,1,226-->
 n: Quickfix List ->\<leader>xq
 n: Previous Quickfix -> [q
 n: Next Quickfix -> ]q

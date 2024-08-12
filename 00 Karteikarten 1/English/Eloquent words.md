@@ -57,7 +57,7 @@ to concern <-> betreffen, angehen, beunruhigen
 <!--SR:!2024-09-02,24,298!2024-08-16,17,332-->
 
 to conduct <-> durchführen, betreiben, leiten
-<!--SR:!2024-08-12,14,312!2024-08-19,19,338-->
+<!--SR:!2024-10-10,59,332!2024-08-19,19,338-->
 
 to establish <-> aufstellen, feststellen, etablieren, gründen
 <!--SR:!2024-09-07,29,338!2024-08-18,19,332-->
@@ -72,7 +72,7 @@ apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-08-13,14,312!2024-08-19,10,278-->
 
 commission <-> provision, auftrag
-<!--SR:!2024-08-12,13,318!2024-08-16,16,332-->
+<!--SR:!2024-10-07,56,338!2024-08-16,16,332-->
 
 to rendern <-> machen, erbringen, leisten
 <!--SR:!2024-08-28,19,337!2024-08-13,10,272-->
@@ -156,7 +156,7 @@ persist <-> bestehen, fortdauern
 <!--SR:!2024-08-17,17,338!2024-08-20,17,328-->
 
 contempt <-> Missachtung, Verachtung
-<!--SR:!2024-08-12,10,308!2024-08-18,18,338-->
+<!--SR:!2024-09-23,42,328!2024-08-18,18,338-->
 
 to plead <-> plädieren
 <!--SR:!2024-08-20,20,338!2024-08-21,19,348-->
