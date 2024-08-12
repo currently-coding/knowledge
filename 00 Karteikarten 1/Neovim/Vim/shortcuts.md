@@ -40,6 +40,7 @@ n: Line Diagnostics ->\<leader>cd
 n: Next Diagnostic -> ]d
 n: Prev Diagnostic -> [d
 n: Next Error -> ]e
+<!--SR:!2024-08-13,1,229-->
 n: Prev Error -> [e
 n: Next Warning -> ]w
 n: Prev Warning -> [w
@@ -96,6 +97,7 @@ i: Signature Help ->\<c-k>
 n, v: Code Action ->\<leader>ca
 n, v: Run Codelens ->\<leader>cc
 n: Refresh & Display Codelens ->\<leader>cC
+<!--SR:!2024-08-13,1,229-->
 n: Rename File ->\<leader>cR
 <!--SR:!2024-08-15,3,268-->
 n: Rename ->\<leader>cr
