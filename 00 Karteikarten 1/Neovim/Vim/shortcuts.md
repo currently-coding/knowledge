@@ -70,6 +70,7 @@ n: Inspect Tree ->\<leader>uI
 n: LazyVim Changelog ->\<leader>L
 n: Terminal (Root Dir) ->\<leader>ft
 n: Terminal (cwd) ->\<leader>fT
+<!--SR:!2024-08-13,1,228-->
 n: Terminal (Root Dir) ->\<c-/>
 n, t: which_key_ignore ->\<c-_>
 t: Enter Normal Mode ->\<esc>|<esc>
@@ -130,6 +131,7 @@ n, v: Search and Replace ->\<leader>sr
 n: Mason ->\<leader>cm
 n: Buffer Explorer ->\<leader>be
 n: Explorer NeoTree (Root Dir) ->\<leader>e
+<!--SR:!2024-08-14,2,248-->
 n: Explorer NeoTree (cwd) ->\<leader>E
 n: Explorer NeoTree (Root Dir) ->\<leader>fe
 <!--SR:!2024-08-15,3,269-->
@@ -169,6 +171,7 @@ n: Auto Commands ->\<leader>sa
 n: Buffer ->\<leader>sb
 n: Command History ->\<leader>sc
 n: Commands ->\<leader>sC
+<!--SR:!2024-08-13,1,228-->
 n: Document Diagnostics ->\<leader>sd
 n: Workspace Diagnostics ->\<leader>sD
 |<!--SR:!2024-08-13,1,230-->
@@ -204,6 +207,7 @@ n: Quickfix List (Trouble) ->\<leader>xQ
 n: Diagnostics (Trouble) ->\<leader>xx
 n: Buffer Diagnostics (Trouble) ->\<leader>xX
 n: Previous Trouble/Quickfix Item -> [q
+<!--SR:!2024-08-13,1,228-->
 n: Next Trouble/Quickfix Item -> ]q
 n: Window Hydra Mode (which-key) ->\<c-w>|<space>
 n: Buffer Keymaps (which-key) ->\<leader>?
