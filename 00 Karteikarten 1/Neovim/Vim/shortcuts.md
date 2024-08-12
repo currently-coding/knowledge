@@ -75,6 +75,7 @@ n: Windows ->\<leader>w
 n: Split Window Below ->\<leader>-
 n: Split Window Right ->\<leader>|
 n: Delete Window ->\<leader>wd
+<!--SR:!2024-08-13,1,229-->
 n: Toggle Maximize ->\<leader>wm
 n: Last Tab ->\<leader>|<tab>l
 n: Close Other Tabs ->\<leader>|<tab>o
@@ -150,6 +151,7 @@ n: Grep (Root Dir) ->\<leader>/
 n: Command History ->\<leader>:
 n: Buffers ->\<leader>fb
 n: Find Config File ->\<leader>fc
+<!--SR:!2024-08-15,3,269-->
 n: Find Files (Root Dir) ->\<leader>ff
 n: Find Files (cwd) ->\<leader>fF
 n: Find Files (git-files) ->\<leader>fg
