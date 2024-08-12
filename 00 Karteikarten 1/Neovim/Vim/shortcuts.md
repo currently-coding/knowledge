@@ -1,6 +1,7 @@
 n, x: Down -> j
 n, x: Down ->\<Down>
 n, x: Up -> k
+<!--SR:!2024-08-15,3,269-->
 n, x: Up ->\<Up>
 n, t: Go to Left Window ->\<C-h>
 n, t: Go to Lower Window ->\<C-j>
@@ -45,6 +46,7 @@ n: Prev Error -> [e
 n: Next Warning -> ]w
 n: Prev Warning -> [w
 n: Toggle Auto Format (Global) ->\<leader>uf
+<!--SR:!2024-08-13,1,229-->
 n: Toggle Auto Format (Buffer) ->\<leader>uF
 n: Toggle Spelling ->\<leader>us
 n: Toggle Wrap ->\<leader>uw
@@ -130,6 +132,7 @@ n: Buffer Explorer ->\<leader>be
 n: Explorer NeoTree (Root Dir) ->\<leader>e
 n: Explorer NeoTree (cwd) ->\<leader>E
 n: Explorer NeoTree (Root Dir) ->\<leader>fe
+<!--SR:!2024-08-15,3,269-->
 n: Explorer NeoTree (cwd) ->\<leader>fE
 n: Git Explorer ->\<leader>ge
 n, i, s: Scroll Backward ->\<c-b>
