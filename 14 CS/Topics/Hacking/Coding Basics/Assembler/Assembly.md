@@ -8,8 +8,8 @@ tags:
 
 # AT&T vs NASM
 ## AT&T
-- used by GNU Assembler -> in `gcc` compiler suite
--> used by Linux Devs
+- used by GNU Assembler in `gcc` compiler suite
+=> used by Linux Devs
 
 ## NASM
 - Intel Syntax Assembler
@@ -17,15 +17,13 @@ tags:
 
 ## Differences in Style and Format
 ```assembly
-NASM -> CMD <dest>, <source> <; comment>
-AT&T -> CMD <source>, <dest> <# comment>
+NASM: CMD <dest>, <source> <; comment>
+AT&T: CMD <source>, <dest> <# comment>
 ```
 ### AT&T
-`%` before Registers -> meaning *indirect operand*\
-`$` before literal values -> meaning *immediate operand*\
-handles memory differently
-
-
+`%` before Registers: meaning *indirect operand*\
+`$` before literal valuesh: meaning *immediate operand*
+- handles memory differently
 
 # Terminology
 - Assembler = Application that translates code into *Assembly*
