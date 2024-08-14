@@ -42,10 +42,10 @@ evident <-> erwiesen
 <!--SR:!2024-08-15,16,332!2024-08-19,19,338-->
 
 to intend <-> beabsichtigen
-<!--SR:!2024-08-14,15,332!2024-08-19,19,338-->
+<!--SR:!2024-10-21,68,352!2024-08-19,19,338-->
 
 intent <-> absicht
-<!--SR:!2024-08-14,15,332!2024-08-17,17,338-->
+<!--SR:!2024-10-20,67,352!2024-08-17,17,338-->
 
 suffocate <-> ersticken, würgen
 <!--SR:!2024-08-15,16,332!2024-08-18,18,338-->
@@ -69,13 +69,13 @@ to obtain <-> erhalten, beziehen, bekommen, gewinnen
 <!--SR:!2024-09-04,27,312!2024-09-06,28,338-->
 
 apparent <-> erkennbar, offensichtlich
-<!--SR:!2024-08-13,14,312!2024-08-19,10,278-->
+<!--SR:!2024-10-12,59,332!2024-08-19,10,278-->
 
 commission <-> provision, auftrag
 <!--SR:!2024-10-07,56,338!2024-08-16,16,332-->
 
 to rendern <-> machen, erbringen, leisten
-<!--SR:!2024-08-28,19,337!2024-08-13,10,272-->
+<!--SR:!2024-08-28,19,337!2024-09-20,37,292-->
 
 to affect <-> beeinträchtigen, betreffen, sich auswirken
 <!--SR:!2024-08-17,18,332!2024-08-20,20,338-->
@@ -84,7 +84,7 @@ to cherish <-> schätzen, pflegen, festhalten
 <!--SR:!2024-08-15,16,332!2024-08-16,16,338-->
 
 to appeal <-> appelieren, gefallen, sich wenden
-<!--SR:!2024-08-14,6,278!2024-08-21,17,352-->
+<!--SR:!2024-09-05,22,298!2024-08-21,17,352-->
 
 theory <-> theorie
 <!--SR:!2024-08-20,18,348!2024-08-18,18,338-->
@@ -99,7 +99,7 @@ to grant <-> gewähren, genehmigen
 <!--SR:!2024-08-17,17,338!2024-08-21,18,328-->
 
 to yield <-> bringen, ergeben, nachgeben
-<!--SR:!2024-08-13,4,258!2024-08-19,15,332-->
+<!--SR:!2024-08-26,12,278!2024-08-19,15,332-->
 
 to insist <-> pochen, insistieren
 <!--SR:!2024-08-20,20,338!2024-08-23,20,348-->
@@ -126,7 +126,7 @@ to venture <-> wagen, riskieren
 <!--SR:!2024-08-19,17,348!2024-08-20,20,338-->
 
 to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
-<!--SR:!2024-08-14,11,278!2024-08-24,20,357-->
+<!--SR:!2024-09-13,30,278!2024-08-24,20,357-->
 
 majority <-> Mehrzahl, Mehrheit
 <!--SR:!2024-08-21,18,348!2024-08-16,16,338-->
@@ -165,7 +165,7 @@ distinction <-> Unterscheidung, Abgrenzung, Auszeichnung
 <!--SR:!2024-09-21,43,338!2024-08-18,16,348-->
 
 to contend <-> kämpfen, behaupten
-<!--SR:!2024-08-20,18,348!2024-08-13,14,318-->
+<!--SR:!2024-08-20,18,348!2024-10-14,61,338-->
 
 to perish <-> untergehen, sterben, zugrunde gehen
 <!--SR:!2024-08-20,17,348!2024-08-17,17,338-->
@@ -186,6 +186,6 @@ to allege <-> behaupten
 <!--SR:!2024-08-22,20,348!2024-08-16,16,338-->
 
 allegedly <-> angeblich, vermeintlich
-<!--SR:!2024-08-13,11,328!2024-08-18,18,338-->
+<!--SR:!2024-10-01,48,348!2024-08-18,18,338-->
 
 
