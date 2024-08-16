@@ -39,7 +39,7 @@ tranquillity <-> peace, Frieden
 <!--SR:!2024-09-09,50,292!2024-09-21,58,317-->
 
 evident <-> erwiesen
-<!--SR:!2024-08-15,16,332!2024-08-19,19,338-->
+<!--SR:!2024-10-26,71,352!2024-08-19,19,338-->
 
 to intend <-> beabsichtigen
 <!--SR:!2024-10-21,68,352!2024-08-19,19,338-->
@@ -51,10 +51,10 @@ suffocate <-> ersticken, würgen
 <!--SR:!2024-08-15,16,332!2024-08-18,18,338-->
 
 concern <-> Anliegen, Interesse
-<!--SR:!2024-08-15,13,298!2024-08-16,17,332-->
+<!--SR:!2024-10-10,55,318!2024-08-16,17,332-->
 
 to concern <-> betreffen, angehen, beunruhigen
-<!--SR:!2024-09-02,24,298!2024-08-16,17,332-->
+<!--SR:!2024-09-02,24,298!2024-11-03,79,352-->
 
 to conduct <-> durchführen, betreiben, leiten
 <!--SR:!2024-10-10,59,332!2024-08-19,19,338-->
@@ -81,7 +81,7 @@ to affect <-> beeinträchtigen, betreffen, sich auswirken
 <!--SR:!2024-08-17,18,332!2024-08-20,20,338-->
 
 to cherish <-> schätzen, pflegen, festhalten
-<!--SR:!2024-08-15,16,332!2024-08-16,16,338-->
+<!--SR:!2024-10-27,72,352!2024-08-16,16,338-->
 
 to appeal <-> appelieren, gefallen, sich wenden
 <!--SR:!2024-09-05,22,298!2024-08-21,17,352-->
@@ -120,7 +120,7 @@ to compel <-> zwingen, nötigen
 <!--SR:!2024-09-26,47,338!2024-08-19,16,348-->
 
 to furnish <-> liefern, einrichten, möbelieren
-<!--SR:!2024-08-19,17,348!2024-08-16,16,338-->
+<!--SR:!2024-08-19,17,348!2024-10-31,76,358-->
 
 to venture <-> wagen, riskieren
 <!--SR:!2024-08-19,17,348!2024-08-20,20,338-->
