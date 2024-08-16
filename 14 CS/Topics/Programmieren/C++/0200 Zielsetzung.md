@@ -19,9 +19,7 @@ links: "[[0000 C++]]"
 
 ## Programmierparadigmen
 ### Imperativ
-- prozedural
-- objektorientiert
-### Deklarativ
+- prozedural*8
 - funktional
 - logisch
 ### Metaprogrammierbar
