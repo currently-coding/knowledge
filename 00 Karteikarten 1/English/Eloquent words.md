@@ -129,7 +129,7 @@ to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im 
 <!--SR:!2024-09-13,30,278!2024-08-24,20,357-->
 
 majority <-> Mehrzahl, Mehrheit
-<!--SR:!2024-08-21,18,348!2024-08-16,16,338-->
+<!--SR:!2024-08-21,18,348!2024-10-29,74,358-->
 
 to assert <-> geltend machen, durchsetzen
 <!--SR:!2024-08-18,14,298!2024-08-22,19,354-->
@@ -138,7 +138,7 @@ humble <-> bescheiden, einfach, demütig
 <!--SR:!2024-08-17,17,338!2024-08-18,15,328-->
 
 scheme <-> ausgefeilter Plan, Intrige
-<!--SR:!2024-08-19,17,348!2024-08-16,16,338-->
+<!--SR:!2024-08-19,17,348!2024-10-30,75,358-->
 
 keen <-> eifrig, begierig, willig
 <!--SR:!2024-09-09,29,328!2024-08-20,20,338-->
