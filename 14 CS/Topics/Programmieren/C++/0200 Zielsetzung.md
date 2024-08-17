@@ -3,7 +3,6 @@ tags:
   - cpp
 links: "[[0000 C++]]"
 ---
-  
 ## Zuverlässigkeit
 - Verfügbarkeit
 - Aktualität
