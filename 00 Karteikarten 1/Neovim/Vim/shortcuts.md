@@ -14,6 +14,7 @@ n: Increase Window Width ->\<C-Right>
 n, i, v: Move Down ->\<A-j>
 n, i, v: Move Up ->\<A-k>
 n: Prev Buffer ->\<S-h>
+<!--SR:!2024-08-18,1,222-->
 n: Next Buffer ->\<S-l>
 n: Prev Buffer -> [b
 n: Next Buffer -> ]b
@@ -74,6 +75,7 @@ n: Terminal (cwd) ->\<leader>fT
 <!--SR:!2024-08-20,3,248-->
 n: Terminal (Root Dir) ->\<c-/>
 n, t: which_key_ignore ->\<c-_>
+<!--SR:!2024-08-18,1,222-->
 t: Enter Normal Mode ->\<esc>|<esc>
 t: Hide Terminal ->\<C-/>
 n: Windows ->\<leader>w
@@ -172,7 +174,7 @@ n: Auto Commands ->\<leader>sa
 n: Buffer ->\<leader>sb
 n: Command History ->\<leader>sc
 n: Commands ->\<leader>sC
-<!--SR:!2024-08-13,1,228-->
+<!--SR:!2024-08-18,1,208-->
 n: Document Diagnostics ->\<leader>sd
 n: Workspace Diagnostics ->\<leader>sD
 |
@@ -189,7 +191,9 @@ n: Jump to Mark ->\<leader>sm
 n: Man Pages ->\<leader>sM
 n: Options ->\<leader>so
 n: Quickfix List ->\<leader>sq
+<!--SR:!2024-08-18,1,222-->
 n: Resume ->\<leader>sR
+<!--SR:!2024-08-18,1,222-->
 n: Goto Symbol ->\<leader>ss
 n: Goto Symbol (Workspace) ->\<leader>sS
 n: Word (Root Dir) ->\<leader>sw
