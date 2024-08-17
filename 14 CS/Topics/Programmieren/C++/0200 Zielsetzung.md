@@ -18,10 +18,8 @@ links: "[[0000 C++]]"
 - kein Entscheidungsmonopol
 
 ## Programmierparadigmen
-### Imperativ
+### Imperativa;
 - prozedural
-- objektorientiert
-### Deklarativ
 - funktional
 - logisch
 ### Metaprogrammierbar

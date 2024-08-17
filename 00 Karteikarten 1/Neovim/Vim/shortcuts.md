@@ -42,7 +42,7 @@ n: Line Diagnostics ->\<leader>cd
 n: Next Diagnostic -> ]d
 n: Prev Diagnostic -> [d
 n: Next Error -> ]e
-<!--SR:!2024-08-13,1,229-->
+<!--SR:!2024-08-15,1,209-->
 n: Prev Error -> [e
 n: Next Warning -> ]w
 n: Prev Warning -> [w
@@ -175,7 +175,8 @@ n: Commands ->\<leader>sC
 <!--SR:!2024-08-13,1,228-->
 n: Document Diagnostics ->\<leader>sd
 n: Workspace Diagnostics ->\<leader>sD
-|<!--SR:!2024-08-13,1,230-->
+|
+<!--SR:!2024-08-15,1,210-->
 n: Grep (Root Dir) ->\<leader>sg
 n: Grep (cwd) ->\<leader>sG
 n: Help Pages ->\<leader>sh
@@ -208,7 +209,7 @@ n: Quickfix List (Trouble) ->\<leader>xQ
 n: Diagnostics (Trouble) ->\<leader>xx
 n: Buffer Diagnostics (Trouble) ->\<leader>xX
 n: Previous Trouble/Quickfix Item -> [q
-<!--SR:!2024-08-13,1,228-->
+<!--SR:!2024-08-15,1,208-->
 n: Next Trouble/Quickfix Item -> ]q
 n: Window Hydra Mode (which-key) ->\<c-w>|<space>
 n: Buffer Keymaps (which-key) ->\<leader>?
