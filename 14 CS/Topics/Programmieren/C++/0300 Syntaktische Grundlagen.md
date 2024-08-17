@@ -126,10 +126,12 @@ Literale: Gib die Datentypen folgender Literale an:
 - `String`
 - `boolean`
 - `float`
-<!--SR:!2024-05-13,4,274-->
+
+<!--SR:!2024-08-30,13,294-->
 
 Was sind Präprozessor-Anweisungen in C++ und wofür werden sie benutzt? :: Präprozessor-Anweisungen sind Anweisungen, die vom Präprozessor ausgeführt werden, bevor die eigentliche Kompilierung de Programms beginnt. Sie beginnen mit dem Symbol `#` und dienen verschiedenen Zwecken wie dem Einbinden von Headerdateien, der Definition von Makros oder Konstanten sowie der bedingten Kompilierung.
-<!--SR:!2024-05-06,2,250-->
+
+<!--SR:!2024-08-23,6,270-->
 
 Können Sie einige Beispiele für Präprozessor-Direktiven in C++ nennen und ihre Verwendung erklären?
 ?
@@ -137,15 +139,19 @@ Können Sie einige Beispiele für Präprozessor-Direktiven in C++ nennen und ihr
 - `#define`: Definiert Makros oder Konstanten.
 - `#ifdef`, `#ifndef`, `#if`, `#else`, `#endif`: Ermöglichen bedingte Kompilierung.
 - `#pragma once`: Stellt sicher, dass Headerdateien nur einmal eingebunden werden.
-<!--SR:!2024-05-17,14,290-->
+
+<!--SR:!2024-10-08,52,310-->
 
 Was sind Schlüsselwörter in C++ und welche Bedeutung haben sie? :: Schlüsselwörter sind reservierte Zeichensequenzen in C++, die spezielle Bedeutungen haben und bestimmte Funktionen im Programm definieren. Sie dürfen nicht als Bezeichner verwendet werden und steuern den Ablauf und die Struktur des Codes.
-<!--SR:!2024-06-03,31,270-->
+
+<!--SR:!2024-12-13,118,290-->
 
 Was sind Literale in C++ und können Sie Beispiele geben? :: Literale sind Kurzschreibweisen für Objekte bestimmter Datentypen. Sie repräsentieren konkrete Werte im Code. Beispiele sind Ganzzahlen wie `0`, Fließkommazahlen wie `1.0`, Zeichenfolgen wie `"Hello"`, Boolesche Werte wie `false` und Gleitkommazahlen wie `0.1f`.
-<!--SR:!2024-05-17,14,290-->
+
+<!--SR:!2024-10-12,56,310-->
 
 Welche Funktion haben Begrenzer in der Programmierung? :: Begrenzer sind Trennzeichen für syntaktische Einheiten im Code. Sie haben eine individuelle, kontextabhängige Bedeutung und werden verwendet, um Ausdrücke, Anweisungen und Strukturen voneinander abzugrenzen, z. B. `, . ; : ? () [] {} <>`.
-<!--SR:!2024-05-05,2,250-->
+
+<!--SR:!2024-08-25,8,270-->
 
 

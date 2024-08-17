@@ -28,6 +28,7 @@ X& const x; // konstante Referenz: REDUNDANT, da Referenzen immer unveraenderlic
 ## Allgemeine Funktionen
 ## Memberfunktionen
 - `const` Memberfunktionen sind **Inspektoren** -> lesender Zugriff
+<!--SR:!2024-08-21,4,270-->
 - können in Funktion nur weitere `const` Memberfunktionen aufrufen
 ### Const Overloading
 - mehrere gleichnamige, gleich parametrierte Memberfunktionen die sich nur durch `const`unterscheiden

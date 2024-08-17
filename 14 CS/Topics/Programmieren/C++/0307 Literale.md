@@ -46,7 +46,8 @@ char* multiline = "This\n"
 ## Flashcards
 
 Was ist ein Literal ? ;; Ein Literal ist eine Kurzschreibweise für [[0501 Objekte]](Werte) bestimmter Datentypen. Interpretation im Speicher ist Datentyp abhängig.
-<!--SR:!2024-05-16,13,290-->
+
+<!--SR:!2024-10-05,49,310-->
 
 Initialisiere eine Variable mit einem...
 - `int`
@@ -74,14 +75,17 @@ Initialisiere eine Variable mit einem...
 	- `int`: 32 bit
 	- `long`: 32 bit
 	- `long long`: 64 bit
-<!--SR:!2024-05-16,13,290-->
+
+<!--SR:!2024-10-07,51,310-->
 
 Can a literal represent a negative number ? ;; No. First the object will be created and the this object will be turned negative using the negation operator(Negationsoperator)
-<!--SR:!2024-05-16,13,294-->
+
+<!--SR:!2024-10-05,49,314-->
 
 What are floating-point types, and can you provide examples of them along with their components?
 ?
 - float: Exponent: 8 bits, Mantissa: 23 bits, example: `float sf = 42.0f;`
 - double: Exponent: 11 bits, Mantissa: 52 bits, example: `double sd = 125e-8;`
 - long double: Exponent: 15 bits, Mantissa: 112 bits, example: `long double lsd = 125e-8L;`
-<!--SR:!2024-05-15,6,274-->
+
+<!--SR:!2024-09-11,25,294-->

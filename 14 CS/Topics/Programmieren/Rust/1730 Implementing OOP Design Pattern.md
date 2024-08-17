@@ -9,6 +9,7 @@ links:
 - states are represented by *state objects*
 - each *state object rules itself*
 	-> responsible for its *behaviour*
+<!--SR:!2024-08-21,4,270-->
 	-> responsible for when to *change to another state*
 - the value holding a state object knows **nothing** about the state objects
 

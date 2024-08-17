@@ -27,4 +27,5 @@ links: "[[0000 C++]]"
 
 ## Flashcards
 - Nenne 3 Bereiche in denen C++ verwendet/gebraucht wird::High Performance Computing, systemnahe Programmierung, Hardwaretreiber, Datenbankimplementierung, Multimedia Streaming, Video-Spiele
-<!--SR:!2024-06-11,51,310-->
+
+<!--SR:!2025-03-22,217,330-->

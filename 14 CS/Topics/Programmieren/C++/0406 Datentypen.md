@@ -22,6 +22,7 @@ links:
 ### Size and Range
 - 32-bit: **-2,147,483,648** bis **2,147,483,64*7****
 - **signed**(`int`)/**unsigned**(`unsigned int`-> **0** bis **4,294,967,295** on 32-bit)
+<!--SR:!2024-08-21,4,270-->
 ### Storage + Memory Allocation
 - fixed amount of memory per `int`: typically **4 Bytes**
 - default: [[0701 Stack]]
@@ -43,6 +44,7 @@ links:
 ### Size and Range
 - **-32,768** bis **32,767**
 - **signed**(`short`)/**unsigned**(`unsigned short` -> **0** bis **65,535**)
+<!--SR:!2024-08-21,4,270-->
 
 ### Storage + Memory Allocation
 - fixed amount of memory per `short`: typically **2 Bytes**
@@ -113,7 +115,9 @@ int main() {
 - true<br/>
 - false<br/>
 - depends on `a` -> unknown<br/>
+<!--SR:!2024-08-21,4,270-->
 - depends on `d` -> unknown, `!d`<br/>
+<!--SR:!2024-08-21,4,270-->
 - true(`e` is always `!d`)<br/>
 </details>
 

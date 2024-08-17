@@ -29,6 +29,7 @@ int main() {
 
 - Zeiger sollten - falls nicht direkt mit einer sinnvollen Adresse initialisiert - mit `nullptr` initialisiert werden
 	-> **Zeiger zeigt definiert auf nichts**(= Adresswert von 0, der niemals gültig ist)
+<!--SR:!2024-08-21,4,270-->
 ## Anwendung Struct
 ### Zeiger auf Struct
 ### Struct mit Zeiger als [[0500 OOP#Membervariablen|Membervariable]]

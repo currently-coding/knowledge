@@ -24,7 +24,7 @@ n: Delete Buffer and Window ->\<leader>bD
 i, n: Escape and Clear hlsearch ->\<esc>
 n: Redraw / Clear hlsearch / Diff Update ->\<leader>ur
 n, x, o: Next Search Result -> n
-<!--SR:!2024-08-15,3,268-->
+<!--SR:!2024-08-30,13,288-->
 n, x, o: Prev Search Result -> N
 i, x, n, s: Save File ->\<C-s>
 n: Keywordprg ->\<leader>K
@@ -33,7 +33,7 @@ n: Add Comment Above -> gcO
 n: Lazy ->\<leader>l
 n: New File ->\<leader>fn
 n: Location List ->\<leader>xl
-<!--SR:!2024-08-13,1,226-->
+<!--SR:!2024-08-20,3,246-->
 n: Quickfix List ->\<leader>xq
 n: Previous Quickfix -> [q
 n: Next Quickfix -> ]q
@@ -47,7 +47,7 @@ n: Prev Error -> [e
 n: Next Warning -> ]w
 n: Prev Warning -> [w
 n: Toggle Auto Format (Global) ->\<leader>uf
-<!--SR:!2024-08-13,1,229-->
+<!--SR:!2024-08-18,1,209-->
 n: Toggle Auto Format (Buffer) ->\<leader>uF
 n: Toggle Spelling ->\<leader>us
 n: Toggle Wrap ->\<leader>uw
@@ -71,7 +71,7 @@ n: Inspect Tree ->\<leader>uI
 n: LazyVim Changelog ->\<leader>L
 n: Terminal (Root Dir) ->\<leader>ft
 n: Terminal (cwd) ->\<leader>fT
-<!--SR:!2024-08-13,1,228-->
+<!--SR:!2024-08-20,3,248-->
 n: Terminal (Root Dir) ->\<c-/>
 n, t: which_key_ignore ->\<c-_>
 t: Enter Normal Mode ->\<esc>|<esc>
@@ -80,7 +80,7 @@ n: Windows ->\<leader>w
 n: Split Window Below ->\<leader>-
 n: Split Window Right ->\<leader>|
 n: Delete Window ->\<leader>wd
-<!--SR:!2024-08-13,1,229-->
+<!--SR:!2024-08-19,2,229-->
 n: Toggle Maximize ->\<leader>wm
 n: Last Tab ->\<leader>|<tab>l
 n: Close Other Tabs ->\<leader>|<tab>o
@@ -101,14 +101,14 @@ i: Signature Help ->\<c-k>
 n, v: Code Action ->\<leader>ca
 n, v: Run Codelens ->\<leader>cc
 n: Refresh & Display Codelens ->\<leader>cC
-<!--SR:!2024-08-13,1,229-->
+<!--SR:!2024-08-20,3,249-->
 n: Rename File ->\<leader>cR
 <!--SR:!2024-08-15,3,268-->
 n: Rename ->\<leader>cr
 n: Source Action ->\<leader>cA
 n: Next Reference -> ]]
 n: Prev Reference -> [[
-<!--SR:!2024-08-13,1,228-->
+<!--SR:!2024-08-18,1,208-->
 n: Next Reference ->\<a-n>
 n: Prev Reference ->\<a-p>
 n: Delete Buffers to the Left ->\<leader>bl
@@ -132,7 +132,7 @@ n, v: Search and Replace ->\<leader>sr
 n: Mason ->\<leader>cm
 n: Buffer Explorer ->\<leader>be
 n: Explorer NeoTree (Root Dir) ->\<leader>e
-<!--SR:!2024-08-14,2,248-->
+<!--SR:!2024-08-23,6,268-->
 n: Explorer NeoTree (cwd) ->\<leader>E
 n: Explorer NeoTree (Root Dir) ->\<leader>fe
 <!--SR:!2024-08-15,3,269-->
@@ -159,7 +159,7 @@ n: Grep (Root Dir) ->\<leader>/
 n: Command History ->\<leader>:
 n: Buffers ->\<leader>fb
 n: Find Config File ->\<leader>fc
-<!--SR:!2024-08-15,3,269-->
+<!--SR:!2024-08-27,10,289-->
 n: Find Files (Root Dir) ->\<leader>ff
 n: Find Files (cwd) ->\<leader>fF
 n: Find Files (git-files) ->\<leader>fg
@@ -176,7 +176,8 @@ n: Commands ->\<leader>sC
 n: Document Diagnostics ->\<leader>sd
 n: Workspace Diagnostics ->\<leader>sD
 |
-<!--SR:!2024-08-15,1,210-->
+
+<!--SR:!2024-08-20,3,230-->
 n: Grep (Root Dir) ->\<leader>sg
 n: Grep (cwd) ->\<leader>sG
 n: Help Pages ->\<leader>sh
@@ -209,7 +210,7 @@ n: Quickfix List (Trouble) ->\<leader>xQ
 n: Diagnostics (Trouble) ->\<leader>xx
 n: Buffer Diagnostics (Trouble) ->\<leader>xX
 n: Previous Trouble/Quickfix Item -> [q
-<!--SR:!2024-08-15,1,208-->
+<!--SR:!2024-08-18,1,188-->
 n: Next Trouble/Quickfix Item -> ]q
 n: Window Hydra Mode (which-key) ->\<c-w>|<space>
 n: Buffer Keymaps (which-key) ->\<leader>?
