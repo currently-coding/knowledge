@@ -1,7 +1,7 @@
 n, x: Down -> j
 n, x: Down ->\<Down>
 n, x: Up -> k
-<!--SR:!2024-08-15,3,269-->
+<!--SR:!2024-08-29,12,289-->
 n, x: Up ->\<Up>
 n, t: Go to Left Window ->\<C-h>
 n, t: Go to Lower Window ->\<C-j>
@@ -42,7 +42,7 @@ n: Line Diagnostics ->\<leader>cd
 n: Next Diagnostic -> ]d
 n: Prev Diagnostic -> [d
 n: Next Error -> ]e
-<!--SR:!2024-08-15,1,209-->
+<!--SR:!2024-08-19,2,209-->
 n: Prev Error -> [e
 n: Next Warning -> ]w
 n: Prev Warning -> [w
@@ -103,7 +103,7 @@ n, v: Run Codelens ->\<leader>cc
 n: Refresh & Display Codelens ->\<leader>cC
 <!--SR:!2024-08-20,3,249-->
 n: Rename File ->\<leader>cR
-<!--SR:!2024-08-15,3,268-->
+<!--SR:!2024-08-28,11,288-->
 n: Rename ->\<leader>cr
 n: Source Action ->\<leader>cA
 n: Next Reference -> ]]
@@ -135,7 +135,7 @@ n: Explorer NeoTree (Root Dir) ->\<leader>e
 <!--SR:!2024-08-23,6,268-->
 n: Explorer NeoTree (cwd) ->\<leader>E
 n: Explorer NeoTree (Root Dir) ->\<leader>fe
-<!--SR:!2024-08-15,3,269-->
+<!--SR:!2024-08-24,7,269-->
 n: Explorer NeoTree (cwd) ->\<leader>fE
 n: Git Explorer ->\<leader>ge
 n, i, s: Scroll Backward ->\<c-b>
