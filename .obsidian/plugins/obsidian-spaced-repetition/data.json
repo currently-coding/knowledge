@@ -56,7 +56,15 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
+<<<<<<< HEAD
   "buryDate": "2024-09-06",
   "buryList": [],
+=======
+  "buryDate": "2024-08-17",
+  "buryList": [
+    "ba7c6b148d69",
+    "13668352777453"
+  ],
+>>>>>>> origin/main
   "historyDeck": null
 }

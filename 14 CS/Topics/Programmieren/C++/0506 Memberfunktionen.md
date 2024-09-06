@@ -27,6 +27,7 @@ int main() {
 # `const` Memberfunktionen
 - oft nicht nötig, dass Memberfunktionen Objektzustände ändern
 -> `const` Memberfunktionen: **Inspector**(lesende Funktion) <-> **Mutator**(schreibende Funktion)
+<!--SR:!2024-08-21,4,270!2000-01-01,1,250-->
 - mit `<datentyp> <bezeichner>(<parameter>) const;` deklariert
 - `const` Funktionen dürfen [[0505 Membervariablen]] *nicht* ändern
 - **`const` Referenzvariablen dürfen nur `const` Memberfunktionen aufrufen**

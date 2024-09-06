@@ -10,6 +10,7 @@ links:
 ### Inline
 - `inline bool empty();`
 -> Aufrufe werden durch Funktionsrumpf im Code ersetzt(bei kleinen Funktionen sinnvoll)
+<!--SR:!2024-08-21,4,270-->
 - bei Memberfunktionen implizit, wenn direkt implementiert
 ```cpp
 class Person {

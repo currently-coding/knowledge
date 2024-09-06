@@ -11,7 +11,9 @@ aliases:
 - Aufteilung in [[#Schnittstelle]] und [[#Implementierung]]
 # in C++
 - `public:` -> Zugang nur innerhalb der Klasse
+<!--SR:!2024-08-21,4,270-->
 - `private:` -> Zugang für externen Code
+<!--SR:!2024-08-21,4,270-->
 ## Schnittstelle
 - `public:` exposes elements to external code
 ## Implementierung

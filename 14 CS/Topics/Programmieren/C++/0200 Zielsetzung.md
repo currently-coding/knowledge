@@ -3,7 +3,6 @@ tags:
   - cpp
 links: "[[0000 C++]]"
 ---
-  
 ## Zuverlässigkeit
 - Verfügbarkeit
 - Aktualität
@@ -18,7 +17,7 @@ links: "[[0000 C++]]"
 - kein Entscheidungsmonopol
 
 ## Programmierparadigmen
-### Imperativa;
+### Imperativ
 - prozedural
 - funktional
 - logisch

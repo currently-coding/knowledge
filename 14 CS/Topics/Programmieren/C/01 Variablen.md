@@ -8,6 +8,7 @@ links: "[[00 C]]"
 
 ## Wie funktionierts ?
 - Deklaration -> Definition -> Initialisierung => Verwendung der Variable
+<!--SR:!2024-08-21,4,286-->
 - Definition und Deklaration passiert in C gleichzeitig
 ```C
 # // Deklaration
@@ -47,12 +48,15 @@ int main() {
 ## Flashcards
 Deklaration:::Spezifizieren des Datentypes und Variablennamens. Dadurch erfährt der Compiler von der Existenz der Variable. Speicher wird **nicht** reserviert
 
-<!--SR:!2024-07-16,74,290-->
+
+<!--SR:!2025-06-10,297,310-->
 Definition:::Der Compiler allokiert Speicher für die Variable
 
-<!--SR:!2024-05-27,40,290-->
+
+<!--SR:!2025-01-24,160,310-->
 Initialisierung:::Der Variable wird ein initialer Wert zugewiesen
 
-<!--SR:!2024-06-10,51,310-->
+
+<!--SR:!2025-03-23,218,330-->
 Reihenfolge der Schritte beim Erstellen einer Variable::Deklaration -> Definition -> Initialisierung
-<!--SR:!2024-05-31,44,290-->
+<!--SR:!2025-02-09,176,310-->
