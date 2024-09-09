@@ -36,7 +36,7 @@ wanderlust <-> strong desire to travel
 <!--SR:!2024-09-22,59,317!2024-09-15,55,312-->
 
 tranquillity <-> peace, Frieden
-<!--SR:!2024-09-09,50,292!2024-09-21,58,317-->
+<!--SR:!2025-03-30,202,312!2024-09-21,58,317-->
 
 evident <-> erwiesen
 <!--SR:!2024-10-26,71,352!2024-12-06,89,358-->
@@ -90,7 +90,7 @@ theory <-> theorie
 <!--SR:!2024-12-04,87,368!2024-08-18,18,338-->
 
 generate <-> generieren
-<!--SR:!2024-08-22,20,348!2024-12-04,87,358-->
+<!--SR:!2024-12-13,95,368!2024-12-04,87,358-->
 
 labor <-> arbeit
 <!--SR:!2024-12-12,95,368!2024-11-03,78,358-->
@@ -99,7 +99,7 @@ to grant <-> gewähren, genehmigen
 <!--SR:!2024-11-03,78,358!2024-11-27,80,348-->
 
 to yield <-> bringen, ergeben, nachgeben
-<!--SR:!2024-08-26,12,278!2024-11-17,70,352-->
+<!--SR:!2024-10-24,45,298!2024-11-17,70,352-->
 
 to insist <-> pochen, insistieren
 <!--SR:!2024-12-06,89,358!2024-08-23,20,348-->
@@ -123,7 +123,7 @@ to furnish <-> liefern, einrichten, möbelieren
 <!--SR:!2024-11-28,81,368!2024-10-31,76,358-->
 
 to venture <-> wagen, riskieren
-<!--SR:!2024-08-19,17,348!2024-12-07,90,358-->
+<!--SR:!2024-11-28,80,368!2024-12-07,90,358-->
 
 to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
 <!--SR:!2024-09-13,30,278!2024-12-17,100,377-->
@@ -159,7 +159,7 @@ contempt <-> Missachtung, Verachtung
 <!--SR:!2024-09-23,42,328!2024-09-15,7,318-->
 
 to plead <-> plädieren
-<!--SR:!2024-12-09,92,358!2024-08-21,19,348-->
+<!--SR:!2024-12-09,92,358!2024-12-08,90,368-->
 
 distinction <-> Unterscheidung, Abgrenzung, Auszeichnung
 <!--SR:!2024-09-21,43,338!2024-11-21,74,368-->
@@ -177,7 +177,7 @@ to toil <-> sich plagen, schuften
 <!--SR:!2024-08-20,20,338!2024-12-04,87,368-->
 
 toil <-> Mühe
-<!--SR:!2024-12-02,85,358!2024-08-21,19,348-->
+<!--SR:!2024-12-02,85,358!2024-12-07,89,368-->
 
 to advocate <-> befürworten, unterstützen
 <!--SR:!2024-11-22,75,368!2024-08-19,19,338-->
