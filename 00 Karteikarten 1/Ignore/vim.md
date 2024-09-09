@@ -25,7 +25,7 @@ n: Terminal (Root Dir) ->\<leader>ft
 n: Terminal (cwd) ->\<leader>fT
 <!--SR:!2024-08-20,3,248-->
 n: Terminal (Root Dir) ->\<c-/>
-n, t: which_key_ignore ->\<c-_>
+n, t: which_key_ignore ->\<c-\_>
 <!--SR:!2024-08-18,1,222-->
 t: Enter Normal Mode ->\<esc>|<esc>
 t: Hide Terminal ->\<C-/>
