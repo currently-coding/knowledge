@@ -6,6 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
+<<<<<<< HEAD
   "colorGroups": [
     {
       "query": "path:\"1 Informatik\"  ",
@@ -107,6 +108,10 @@
     }
   ],
   "collapse-display": true,
+=======
+  "colorGroups": [],
+  "collapse-display": false,
+>>>>>>> origin/main
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -116,6 +121,11 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
+<<<<<<< HEAD
   "scale": 0.6666666666666666,
   "close": true
+=======
+  "scale": 0.7156175313534773,
+  "close": false
+>>>>>>> origin/main
 }
