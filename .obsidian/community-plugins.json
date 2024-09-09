@@ -6,7 +6,6 @@
   "table-editor-obsidian",
   "obsidian-spaced-repetition",
   "templater-obsidian",
-  "obsidian-to-anki-plugin",
   "obsidian-hider",
   "obsidian-icon-folder",
   "chem",
@@ -14,6 +13,5 @@
   "statusbar-organizer",
   "obsidian-reading-time",
   "obsidian-annotator",
-  "ketcher",
-  "gnome-terminal-loader"
+  "ketcher"
 ]
