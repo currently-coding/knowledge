@@ -25,9 +25,9 @@ n: Increase Window Width ->\<C-Right>
 n, i, v: Move Down ->\<A-j>
 <!--SR:!2024-09-10,1,229-->
 n, i, v: Move Up ->\<A-k>
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-12,2,229-->
 n: Prev Buffer ->\<S-h>
-<!--SR:!2024-09-10,1,182-->
+<!--SR:!2024-09-11,1,162-->
 n: Next Buffer ->\<S-l>
 <!--SR:!2024-09-12,3,269-->
 n: Prev Buffer -> [b
@@ -39,19 +39,19 @@ n: Switch to Other Buffer ->\<leader>bb
 n: Switch to Other Buffer ->\<leader>`
 <!--SR:!2024-09-11,1,209-->
 n: Delete Buffer ->\<leader>bd
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-13,3,249-->
 n: Delete Buffer and Window ->\<leader>bD
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-13,3,249-->
 i, n: Escape and Clear hlsearch ->\<esc>
 <!--SR:!2024-09-12,3,250-->
 n: Redraw / Clear hlsearch / Diff Update ->\<leader>ur
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-11,1,209-->
 n, x, o: Next Search Result -> n
 <!--SR:!2024-10-29,51,308-->
 n, x, o: Prev Search Result -> N
 <!--SR:!2024-09-12,3,269-->
 i, x, n, s: Save File ->\<C-s>
-<!--SR:!2024-09-10,2,247-->
+<!--SR:!2024-09-16,6,267-->
 n: Keywordprg ->\<leader>K
 <!--SR:!2024-09-10,1,229-->
 n: Add Comment Below -> gco
@@ -83,6 +83,6 @@ n: Next Error -> ]e
 n: Prev Error -> [e
 <!--SR:!2024-09-12,3,269-->
 n: Next Warning -> ]w
-<!--SR:!2024-09-10,2,247-->
+<!--SR:!2024-09-19,9,267-->
 n: Prev Warning -> [w
 <!--SR:!2024-09-11,3,267-->
