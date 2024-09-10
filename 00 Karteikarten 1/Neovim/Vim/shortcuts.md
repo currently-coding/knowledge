@@ -37,7 +37,7 @@ n: Next Buffer -> ]b
 n: Switch to Other Buffer ->\<leader>bb
 <!--SR:!2024-09-12,3,250-->
 n: Switch to Other Buffer ->\<leader>`
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-11,1,209-->
 n: Delete Buffer ->\<leader>bd
 <!--SR:!2024-09-10,1,229-->
 n: Delete Buffer and Window ->\<leader>bD
@@ -73,7 +73,7 @@ n: Next Quickfix -> ]q
 n, v: Format ->\<leader>cf
 <!--SR:!2024-09-10,1,229-->
 n: Line Diagnostics ->\<leader>cd
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-11,1,209-->
 n: Next Diagnostic -> ]d
 <!--SR:!2024-09-12,3,269-->
 n: Prev Diagnostic -> [d
