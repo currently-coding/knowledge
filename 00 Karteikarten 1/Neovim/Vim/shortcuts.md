@@ -23,7 +23,7 @@ n: Decrease Window Width ->\<C-Left>
 n: Increase Window Width ->\<C-Right>
 <!--SR:!2024-09-12,3,269-->
 n, i, v: Move Down ->\<A-j>
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-11,1,209-->
 n, i, v: Move Up ->\<A-k>
 <!--SR:!2024-09-12,2,229-->
 n: Prev Buffer ->\<S-h>
@@ -31,7 +31,7 @@ n: Prev Buffer ->\<S-h>
 n: Next Buffer ->\<S-l>
 <!--SR:!2024-09-12,3,269-->
 n: Prev Buffer -> [b
-<!--SR:!2024-09-10,2,247-->
+<!--SR:!2024-09-19,9,267-->
 n: Next Buffer -> ]b
 <!--SR:!2024-09-12,3,269-->
 n: Switch to Other Buffer ->\<leader>bb
@@ -53,7 +53,7 @@ n, x, o: Prev Search Result -> N
 i, x, n, s: Save File ->\<C-s>
 <!--SR:!2024-09-16,6,267-->
 n: Keywordprg ->\<leader>K
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-11,1,209-->
 n: Add Comment Below -> gco
 <!--SR:!2024-09-12,3,269-->
 n: Add Comment Above -> gcO
@@ -61,17 +61,17 @@ n: Add Comment Above -> gcO
 n: Lazy ->\<leader>l
 <!--SR:!2024-09-12,3,269-->
 n: New File ->\<leader>fn
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-11,1,209-->
 n: Location List ->\<leader>xl
-<!--SR:!2024-09-10,2,226-->
+<!--SR:!2024-09-15,5,246-->
 n: Quickfix List ->\<leader>xq
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-11,1,209-->
 n: Previous Quickfix -> [q
 <!--SR:!2024-09-12,3,269-->
 n: Next Quickfix -> ]q
 <!--SR:!2024-09-12,3,269-->
 n, v: Format ->\<leader>cf
-<!--SR:!2024-09-10,1,229-->
+<!--SR:!2024-09-11,1,209-->
 n: Line Diagnostics ->\<leader>cd
 <!--SR:!2024-09-11,1,209-->
 n: Next Diagnostic -> ]d
