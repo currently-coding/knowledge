@@ -1,5 +1,6 @@
 import json
 import sys
+from time import sleep
 import requests
 import os
 
@@ -43,12 +44,18 @@ new_entries = []
 for word in new_words:
     query = word
     
-    # API Call: Linguee API
-    url = f'https://linguee-api.fly.dev/api/v2/translations?query={query}&src={src_lang}&dst={dst_lang}&guess_direction={guess_direction}&follow_corrections={follow_corrections}'
-    res = requests.get(url)
+    status_code = -1
+    count = 0 # for timeouts after unsuccessful request
 
-    if res.status_code != 200: # 200 = OK
-        sys.exit(f"Server currently unavailable. Please come back later. Status: {res.status_code}")
+    while status_code != 200:
+    # API Call: Linguee API
+        url = f'https://linguee-api.fly.dev/api/v2/translations?query={query}&src={src_lang}&dst={dst_lang}&guess_direction={guess_direction}&follow_corrections={follow_corrections}'
+        res = requests.get(url)
+        status_code = res.status_code
+        if count > 0:
+            print(f"Request failed.\nTrying again in less than {count*7} seconds...")
+        sleep(count*7+0.001) # 0sec timeout on first try
+        count += 1
 
     json_data = res.text
     
