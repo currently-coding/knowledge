@@ -13,28 +13,22 @@ follow_corrections = 'always' # in case of wrong spelling
 in_file = 'input.txt'
 out_file = 'output.txt'
 
-# Remebering old words to avoid duplicates
+output_with_examples = False
+separator = "<->"
+amount_of_words_per_execution = 10
 
-words = []
 
-with open(out_file, 'r') as f_out:
-    for line in f_out.readlines():
-        if line[:3] == "to ":
-            word = line.split()[:1].join(" ")
-        else:
-            word = line.split()[0].join()
-        words.append(word)
-f_out.close()
 
 # Reading the new words
 
 new_words = []
 
 with open(in_file, 'r') as f_in:
-    for word in f_in.readlines():
+    for word in f_in.readlines(amount_of_words_per_execution):
         new_words.append(word)
 f_in.close()
 
+new_entries = []
 
 for word in new_words:
     query = word
@@ -47,16 +41,13 @@ for word in new_words:
 
     translated_pos = []
 
-    count = 0
-
     # Get translations
     for entry in data:
-        # if count > 3: # Most times the fourth result is bad as the first is the noun, the second the verb and the third the adj.
-        #     break
-        word = entry.get('text', 'N/A')
         pos = entry.get('pos', 'N/A').split(',')[0]
+        to = "to " if pos == "verb" else ""
+        word = to + entry.get('text', 'N/A')
         if pos in translated_pos:
-            print('error: pos in translated_pos')
+            print('Avoided Incorrect Word')
             continue # wanted word has already been translated
         translated_pos.append(pos)
         
@@ -69,7 +60,7 @@ for word in new_words:
             trans_word = translation.get('text', 'N/A')
             trans_pos = translation.get('pos', 'N/A')
             if pos not in trans_pos:
-                print(f'error: trans_pos != pos | translated_pos = {trans_pos}, original_pos = {pos}')
+                print('Avoided Incorrect Translation!')
                 continue # cant translate verb to noun
             translations.append(trans_word)
           
@@ -79,16 +70,21 @@ for word in new_words:
                 dst_examples.append(example.get('dst', 'No destination example'))
 
 
-        hide = True
-        hide_text = '<label class="ob-comment" title="" style="">  <input type="checkbox"> <span style=""> hey </span></label>'
-        
+        # Lists to strings
         src_examples = ", ".join(src_examples)
         dst_examples = ", ".join(dst_examples)
+        translations = ", ".join(translations)
 
-        # Pretty print
-        #
-        print('-'*30)
-        print('English Word: ', word, ': ', (src_examples), pos)
-        print('German Word: ', (translations), ':', (dst_examples), trans_pos)
-        print(translated_pos)
-        print('-'*30)
+        if not output_with_examples:
+            src_examples = "" # overwrite examples
+            dst_examples = ""
+        output = word + " " + (src_examples) + " " + separator + " " + translations + " " + dst_examples + "\n"
+        new_entries.append(output)
+
+
+with open(out_file, 'a') as f_out:
+    for entry in new_entries:
+        f_out.write(entry)
+f_out.close()
+
+print(new_entries)

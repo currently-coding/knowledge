@@ -1,0 +1,7 @@
+to want  <-> wollen, mögen, benötigen, wünschen, sich wünschen, brauchen, haben wollen want  <-> Bedarf, Lust, Bedürfnis, Fehlen, Not, Mangel, Knappheit, Entbehrung to disturb  <-> stören, unterbrechen, beunruhigen, durcheinanderbringen toil  <-> Mühe, Schufterei, Schinderei, Plackerei, mühevolle Arbeit, Quälerei to toil  <-> sich schinden, hart arbeiten, sich plagen, schuften, sich quälen, sich abmühen, sich placken, sich abrackern labor  <-> Arbeit, Wehen, Geburtswehen, schwere körperliche Arbeit to labor  <-> arbeiten, sich mühen, sich anstrengen, hart arbeiten, sich abmühen to want  <-> wollen, mögen, benötigen, wünschen, sich wünschen, brauchen, haben wollen 
+want  <-> Bedarf, Lust, Bedürfnis, Fehlen, Not, Mangel, Knappheit, Entbehrung 
+to disturb  <-> stören, unterbrechen, beunruhigen, durcheinanderbringen 
+toil  <-> Mühe, Schufterei, Schinderei, Plackerei, mühevolle Arbeit, Quälerei 
+to toil  <-> sich schinden, hart arbeiten, sich plagen, schuften, sich quälen, sich abmühen, sich placken, sich abrackern 
+labor  <-> Arbeit, Wehen, Geburtswehen, schwere körperliche Arbeit 
+to labor  <-> arbeiten, sich mühen, sich anstrengen, hart arbeiten, sich abmühen 
