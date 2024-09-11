@@ -1,32 +1,43 @@
 import json
 import sys
 import requests
+import os
 
 
-# Global Settings
+# ======  Global Settings  =======
 
 src_lang = 'en'
 dst_lang = 'de'
 guess_direction = False # guess the translation direction (rather unstable)
-follow_corrections = 'always' # in case of wrong spelling
+follow_corrections = 'always' # in case of wrong spelling use suggestion
 
 in_file = 'input.txt'
 out_file = 'output.txt'
 
 output_with_examples = False
 separator = '<->'
-amount_of_words_per_execution = 10
+amount_of_words_per_execution = 2
 
-
+# ================================
 
 # Reading the new words
 
 new_words = []
 
-with open(in_file, 'r') as f_in:
+with open(in_file, 'r') as f_in, open(in_file + '.tmp', 'w') as f_tmp:
+    # read first few words from original file
     for word in f_in.readlines(amount_of_words_per_execution):
         new_words.append(word)
+
+    # write remaining words to new file
+    for line in f_in:
+        f_tmp.write(line)
+f_tmp.close()
 f_in.close()
+
+# replace original file with new file -> deleted used words
+os.replace(in_file + '.tmp', in_file)
+
 
 new_entries = []
 
