@@ -12,16 +12,15 @@ guess_direction = False # guess the translation direction (rather unstable)
 follow_corrections = 'always' # in case of wrong spelling use suggestion
 
 in_file = 'input.txt'
-out_file = 'output.txt'
+out_file = '../00 Karteikarten 1/English/vocabulary.md' # use path starting at the vault root
 
-output_with_examples = False
+output_with_examples = True
 separator = '<->'
 amount_of_words_per_execution = 2
 
 # ================================
 
 # Reading the new words
-
 new_words = []
 
 with open(in_file, 'r') as f_in, open(in_file + '.tmp', 'w') as f_tmp:
@@ -43,22 +42,28 @@ new_entries = []
 
 for word in new_words:
     query = word
-
+    
+    # API Call: Linguee API
     url = f'https://linguee-api.fly.dev/api/v2/translations?query={query}&src={src_lang}&dst={dst_lang}&guess_direction={guess_direction}&follow_corrections={follow_corrections}'
     res = requests.get(url)
+
+    if res.status_code != 200: # 200 = OK
+        sys.exit(f"Server currently unavailable. Please come back later. Status: {res.status_code}")
+
     json_data = res.text
-# Parse JSON data
+    
+    # Parse JSON data
     data = json.loads(json_data)
 
     translated_pos = []
 
     # Get translations
+    print(data)
     for entry in data:
         pos = entry.get('pos', 'N/A').split(',')[0]
         to = "to " if pos == "verb" else ""
         word = to + entry.get('text', 'N/A')
         if pos in translated_pos:
-            print('Avoided Incorrect Word')
             continue # wanted word has already been translated
         translated_pos.append(pos)
         
@@ -71,7 +76,6 @@ for word in new_words:
             trans_word = translation.get('text', 'N/A')
             trans_pos = translation.get('pos', 'N/A')
             if pos not in trans_pos:
-                print('Avoided Incorrect Translation!')
                 continue # cant translate verb to noun
             translations.append(trans_word)
           
@@ -82,14 +86,15 @@ for word in new_words:
 
 
         # Lists to strings
-        src_examples = ", ".join(src_examples)
-        dst_examples = ", ".join(dst_examples)
-        translations = ", ".join(translations)
+        src_examples = "\'" + "\', \'".join(src_examples) + "\'"
+        dst_examples = "\'" + "\', \'".join(dst_examples) + "\'"
+        translations = "\'" + "\', \'".join(translations) + "\'"
 
         if not output_with_examples:
             src_examples = "" # overwrite examples
             dst_examples = ""
-        output = word + " " + (src_examples) + " " + separator + " " + translations + " " + dst_examples + "\n"
+        print(pos)
+        output = word + "(" + pos + ")" + " (" + (src_examples) + ") " + separator + " " + translations + " (" + dst_examples + ")\n"
         new_entries.append(output)
 
 
