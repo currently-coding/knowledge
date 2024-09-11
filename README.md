@@ -1,40 +1,21 @@
 ## Inhalt
-- [Ziel](#ziel)
-- [Was sollte hochgeladen werden?](#was-sollte-hochgeladen-werden)
-- [Format](#format)
+- [Karteikarten](#Karteikarten)
 - **[Installation](#installation)**
 - [Shortcuts](#Hotkeys)
-
-## Ziel
-- geordnete Sammlung erlernten Wissens
-
-## Format
-### Ordnerstruktur
-- **ROOT -> FACH -> Übergeordnetes THEMA -> Untergeordnetes THEMA -> Notiz/Zusammenfassung**
-
-### Dateinamen
-- `<FachID><ThemenID> <Name>`
-- `0341 Oxidation von Alkoholen`
-  - `03`: Chemie
-  - `4`: Übergeordnetes Thema Nummer 4
-  - `1`: Untergeordnetes Thema Nummer 1 (= 1. Notiz)
-
-=> Schnelles Navigieren mittels Suche
-=> Sortierte Darstellung in Vault
 
 ### Karteikarten
 
 Aufbau:
-- Vorderseite der Karteikarte
-- Trennzeichen
-- Rückseite der Karteikarte
+```
+<Vorderseite der Karteikarte> <Trennzeichen> <Rückseite der Karteikarte>
+```
+
 Dazwischen dürfen beliebig viele Leerzeichen sein.
 Die Trennzeichen hierbei sind:
 - -> für unidirektionelle Karteikarten
 - <-> für bidirektionelle Karteikarten
 
-Beispiele:
-
+Beispiel:
 H <-> Wasserstoff
 
 
@@ -51,7 +32,6 @@ H <-> Wasserstoff
 
 #### Tags
 - um Notizen später gruppieren zu können
-	- Karteikarten
 	- schnelles Suchen von Themen
 -> Tags in den `tags` Abschnitt unter der Überschrift reinschreiben(min. Fachnamen)
 
