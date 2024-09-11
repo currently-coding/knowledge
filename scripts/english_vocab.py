@@ -79,6 +79,12 @@ for word in new_words:
                 dst_examples.append(example.get('dst', 'No destination example'))
 
 
+        hide = True
+        hide_text = '<label class="ob-comment" title="" style="">  <input type="checkbox"> <span style=""> hey </span></label>'
+        
+        src_examples = ", ".join(src_examples)
+        dst_examples = ", ".join(dst_examples)
+
         # Pretty print
         #
         print('-'*30)

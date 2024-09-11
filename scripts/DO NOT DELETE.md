@@ -1,4 +1,3 @@
-this folder contains important files that obsidian is unable to display
+<label class="ob-comment" title="" style="">  <input type="checkbox"> <span style=""> hey </span></label>
 
-[ spoiler ]text[ /spoiler ]
 
