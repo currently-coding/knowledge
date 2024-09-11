@@ -6,6 +6,11 @@ json_data = '''[{"featured":true,"text":"house","pos":"noun","forms":[],"grammar
 # Parse JSON data
 data = json.loads(json_data)
 
+
+english = []
+german = []
+examples = []
+
 # Extract useful information
 for entry in data:
     word = entry.get('text', 'N/A')
