@@ -67,6 +67,6 @@ Links werden verwendet, um mehr Informationen zu einem Thema zu verknüpfen.
    3. Unter `Installed Plugins` das `Git` Plugin auswählen und das Zahnrad (`Options`) öffnen.
    4. **Wichtig:** Die Einstellungen unter `Automatic` nicht ändern, außer die Auswirkungen sind bekannt.
    5. Unter `Commit Message -> {{hostname}} placeholder replacement` die Initialen eintragen.
-   6. Unter `Commit Author -> Author Name for commit` und `Author email for commit` eine gültige E-Mail-Adresse hinterlegen.
+   6. Unter `Commit Author -> Author Name for commit` und `Author email for commit` eine E-Mail-Adresse hinterlegen.
 
 Obsidian ist jetzt vollständig eingerichtet und synchronisiert alle 5 Minuten automatisch den lokalen Stand mit `github.com/currently-coding/school`.
