@@ -14,7 +14,7 @@ in_file = 'input.txt'
 out_file = 'output.txt'
 
 output_with_examples = False
-separator = "<->"
+separator = '<->'
 amount_of_words_per_execution = 10
 
 
