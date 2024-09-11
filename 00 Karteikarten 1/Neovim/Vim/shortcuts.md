@@ -27,7 +27,7 @@ n, i, v: Move Down ->\<A-j>
 n, i, v: Move Up ->\<A-k>
 <!--SR:!2024-09-12,2,229-->
 n: Prev Buffer ->\<S-h>
-<!--SR:!2024-09-11,1,162-->
+<!--SR:!2024-09-12,1,142-->
 n: Next Buffer ->\<S-l>
 <!--SR:!2024-09-12,3,269-->
 n: Prev Buffer -> [b
