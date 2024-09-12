@@ -1,5 +1,3 @@
-paper
-sheet
 tree
 branch
 to distinguish

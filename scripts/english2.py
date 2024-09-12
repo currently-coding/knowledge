@@ -10,7 +10,7 @@ import os
 src_lang = 'en'
 dst_lang = 'de'
 guess_direction = False  # guess the translation direction (rather unstable)
-follow_correctin = 'always'  # in case of wrong spelling use suggestion
+follow_corrections = 'always'  # in case of wrong spelling use suggestion
 
 in_file = 'input.txt'
 # use path starting at the vault root
@@ -23,7 +23,7 @@ amount_of_words_per_execution = 7
 # ================================
 
 # Reading the new words
-new_words: list[] = []
+new_words = []
 
 with open(in_file, 'r') as f_in, open(in_file + '.tmp', 'w') as f_tmp:
     # read first few words from original file
@@ -40,7 +40,7 @@ f_in.close()
 os.replace(in_file + '.tmp', in_file)
 
 
-new_entries: list[] = []
+new_entries = []
 
 for word in new_words:
     query = word
@@ -115,4 +115,4 @@ with open(out_file, 'a') as f_out:
         f_out.write(entry)
 f_out.close()
 
-print(new_entries)ions = 'always'
+print(new_entries)
