@@ -1,5 +1,3 @@
-bottle
-book
 page
 site
 headphones
