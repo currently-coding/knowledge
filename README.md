@@ -51,7 +51,7 @@ Links werden verwendet, um mehr Informationen zu einem Thema zu verknüpfen.
    1. Bereite den Link im folgenden Format vor:  
       `https://<API Token>@github.com/<username>/<repository>.git`  
       Beispiel: `https://<API Token>@github.com/currently-coding/school.git`
-   2. Führe in der Konsole folgenden Befehl aus:  
+   2. Führe in der Konsole(evtl. in `Git Bash`) folgenden Befehl aus:  
       `git clone <link>`
 
 2. **Obsidian öffnen**
