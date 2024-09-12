@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+tree
+branch
+to distinguish
+>>>>>>> origin/main
