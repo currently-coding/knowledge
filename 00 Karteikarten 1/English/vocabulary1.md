@@ -8,6 +8,9 @@ Serendipity <-> Glücklicher Zufall, Spürsinn
 ubiquitous <-> allgegenwärtig, omnipräsent
 <!--SR:!2024-09-23,59,310!2025-02-23,168,317-->
 
+ameliorate <-> verbessern
+<!--SR:!2024-09-16,4,362!2000-01-01,1,250-->
+
 eternity <-> Limitless amount of time
 <!--SR:!2024-09-20,57,312!2024-09-30,65,317-->
 

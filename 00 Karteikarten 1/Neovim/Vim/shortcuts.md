@@ -29,7 +29,7 @@ n: Next Buffer ->\<S-l>
 n: Prev Buffer -> [b
 <!--SR:!2024-09-19,9,267-->
 n: Next Buffer -> ]b
-<!--SR:!2024-09-12,3,269-->
+<!--SR:!2024-09-22,10,289-->
 n: Switch to Other Buffer ->\<leader>bb
 <!--SR:!2024-09-12,3,250-->
 n: Switch to Other Buffer ->\<leader>`
