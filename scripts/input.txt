@@ -1,5 +1,3 @@
-page
-site
 headphones
 paper
 sheet
