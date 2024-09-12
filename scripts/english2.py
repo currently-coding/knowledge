@@ -1,5 +1,4 @@
 import json
-import sys
 from time import sleep
 import requests
 import os
@@ -25,6 +24,7 @@ amount_of_words_per_execution = 7
 # Reading the new words
 new_words = []
 
+
 with open(in_file, 'r') as f_in, open(in_file + '.tmp', 'w') as f_tmp:
     # read first few words from original file
     for word in f_in.readlines(amount_of_words_per_execution):
@@ -39,8 +39,8 @@ f_in.close()
 # replace original file with new file -> deleted used words
 os.replace(in_file + '.tmp', in_file)
 
-
 new_entries = []
+print("New Words: ", new_words)
 
 for word in new_words:
     query = word
@@ -50,15 +50,17 @@ for word in new_words:
 
     while status_code != 200:
         # API Call: Linguee API
+        print("Calling the API")
         url = f'https://linguee-api.fly.dev/api/v2/translations?query={query}&src={src_lang}&dst={
             dst_lang}&guess_direction={guess_direction}&follow_corrections={follow_corrections}'
         res = requests.get(url)
         print("Server: ", res)
         status_code = res.status_code
+        print('Info: ', res.status_code, res.text)
         if count > 0:
             print(f"Request failed.\nTrying again in less than {
-                  count*7} seconds...")
-        sleep(count*7+0.001)  # 0sec timeout on first try
+                  count*10} seconds...")
+        sleep(count*10)  # 0 sec timeout on first try
         count += 1
 
     json_data = res.text

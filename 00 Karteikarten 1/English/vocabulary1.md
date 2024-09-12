@@ -74,6 +74,18 @@ to obtain <-> erhalten, beziehen, bekommen, gewinnen
 apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-10-12,59,332!2024-10-18,40,298-->
 
+to eradicate <-> ausloeschen
+
+apposite <-> treffend
+
+dedication <-> Engagement, Einsatz
+
+manslaughter <-> Totschlag
+
+to target <-> anvisieren
+
+prevalent <-> vorherrschend
+
 commission <-> provision, auftrag
 <!--SR:!2024-10-07,56,338!2024-10-26,71,352-->
 
