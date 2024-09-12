@@ -51,6 +51,7 @@ for word in new_words:
     # API Call: Linguee API
         url = f'https://linguee-api.fly.dev/api/v2/translations?query={query}&src={src_lang}&dst={dst_lang}&guess_direction={guess_direction}&follow_corrections={follow_corrections}'
         res = requests.get(url)
+        print("Server: ", res)
         status_code = res.status_code
         if count > 0:
             print(f"Request failed.\nTrying again in less than {count*7} seconds...")
