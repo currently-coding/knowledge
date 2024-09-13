@@ -29,7 +29,11 @@ new_words = []
 
 with open(in_file, 'r') as f_in, open(in_file + '.tmp', 'w') as f_tmp:
     # read first few words from original file
-    for word in f_in.readlines(amount_of_words_per_execution):
+    words = [next(f_in)[:-1] for _ in range(amount_of_words_per_execution)]
+
+    print(words)
+
+    for word in words:
         new_words.append(word)
 
     # write remaining words to new file
