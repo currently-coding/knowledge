@@ -11,7 +11,7 @@ dst_lang = 'de'
 guess_direction = False  # guess the translation direction (rather unstable)
 follow_corrections = 'always'  # in case of wrong spelling use suggestion
 
-in_file = 'input.txt'
+in_file = 'words_out.md'
 # use path starting at the vault root
 out_file = '../00 Karteikarten 1/English/vocabulary.md'
 
@@ -19,7 +19,7 @@ out_file = '../00 Karteikarten 1/English/vocabulary.md'
 output_with_examples = (True, False)
 separator = '<->'
 quote = "'"
-amount_of_words_per_execution = 2
+amount_of_words_per_execution = 5
 
 # ================================
 
