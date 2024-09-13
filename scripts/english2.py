@@ -15,8 +15,10 @@ in_file = 'input.txt'
 # use path starting at the vault root
 out_file = '../00 Karteikarten 1/English/vocabulary.md'
 
-output_with_examples = True
+# (True, True) => Both langs | (False, False) => No examples
+output_with_examples = (True, False)
 separator = '<->'
+quote = "'"
 amount_of_words_per_execution = 2
 
 # ================================
@@ -103,9 +105,11 @@ for word in new_words:
         dst_examples = "\'" + "\', \'".join(dst_examples) + "\'"
         translations = "\'" + "\', \'".join(translations) + "\'"
 
-        if not output_with_examples:
-            src_examples = ""  # overwrite examples
+        if not output_with_examples[0]:
+            src_examples = ""
+        if not output_with_examples[1]:
             dst_examples = ""
+
         print(pos)
         output = word + "(" + pos + ")" + " (" + (src_examples) + ") " + \
             separator + " " + translations + " (" + dst_examples + ")\n"
