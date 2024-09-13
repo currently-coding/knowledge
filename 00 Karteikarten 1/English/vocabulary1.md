@@ -77,6 +77,7 @@ apparent <-> erkennbar, offensichtlich
 to eradicate <-> ausloeschen
 
 apposite <-> treffend
+<!--SR:!2000-01-01,1,250!2024-09-14,1,322-->
 
 dedication <-> Engagement, Einsatz
 
