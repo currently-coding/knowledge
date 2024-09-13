@@ -1,8 +1,11 @@
 
 # Wird in beide Richtungen abgefragt
 
-beispiel <-> example
-
+ beispiel <-> example
+ to blossom <-> blühen
+ to rant <-> schimpfen
+ to chant <-> skandieren, singen
+ to linger <-> verweilen
 # Wird in eine Richtung(-\>) abgefragt
 
 hallo -> hello
