@@ -9,7 +9,7 @@ ubiquitous <-> allgegenwärtig, omnipräsent
 <!--SR:!2024-09-23,59,310!2025-02-23,168,317-->
 
 ameliorate <-> verbessern
-<!--SR:!2024-09-16,4,362!2000-01-01,1,250-->
+<!--SR:!2024-09-16,4,362!2024-09-19,6,362-->
 
 eternity <-> Limitless amount of time
 <!--SR:!2024-09-20,57,312!2024-09-30,65,317-->
@@ -75,16 +75,20 @@ apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-10-12,59,332!2024-10-18,40,298-->
 
 to eradicate <-> ausloeschen
+<!--SR:!2024-09-17,4,362!2000-01-01,1,250-->
 
 apposite <-> treffend
+<!--SR:!2000-01-01,1,250!2024-09-14,1,322-->
 
 dedication <-> Engagement, Einsatz
 
 manslaughter <-> Totschlag
 
 to target <-> anvisieren
+<!--SR:!2000-01-01,1,250!2024-09-19,6,362-->
 
 prevalent <-> vorherrschend
+<!--SR:!2000-01-01,1,250!2024-09-19,6,362-->
 
 commission <-> provision, auftrag
 <!--SR:!2024-10-07,56,338!2024-10-26,71,352-->

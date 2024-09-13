@@ -21,7 +21,7 @@ amount_of_words_per_execution = 7
 
 # ================================
 
-def write_to_vault():
+def write_to_vault(new_entries):
     with open(out_file, 'a') as f_out:
         for entry in new_entries:
             f_out.write(entry)
@@ -116,5 +116,4 @@ def read_file():
 
 if __name__ == "__main__":
     flashcards = translate(read_file())
-    write_to_vault()
-    print(new_entries)
+    write_to_vault(flashcards)
