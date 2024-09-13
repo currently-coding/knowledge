@@ -17,7 +17,7 @@ out_file = '../00 Karteikarten 1/English/vocabulary.md'
 
 output_with_examples = True
 separator = '<->'
-amount_of_words_per_execution = 7
+amount_of_words_per_execution = 2
 
 # ================================
 
