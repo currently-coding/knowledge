@@ -81,6 +81,7 @@ apposite <-> treffend
 <!--SR:!2000-01-01,1,250!2024-09-14,1,322-->
 
 dedication <-> Engagement, Einsatz
+<!--SR:!2024-09-16,3,343!2000-01-01,1,250-->
 
 manslaughter <-> Totschlag
 <!--SR:!2024-09-17,4,363!2000-01-01,1,250-->
