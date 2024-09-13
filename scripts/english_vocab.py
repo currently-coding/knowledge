@@ -16,7 +16,7 @@ out_file = '../00 Karteikarten 1/English/vocabulary.md'
 
 output_with_examples = (True, False)
 separator = '<->'
-amount_of_words_per_execution = 5
+amount_of_words_per_execution = 15
 
 # ================================
 
@@ -94,7 +94,6 @@ done = 0
 
 for word in new_words:
     data = call_api(word, src_lang, dst_lang, guess_direction, follow_corrections)
-    done += 1
     print(done , '/' , total , 'requests done')
 
     new_entries.extend(process_translations(data, output_with_examples))

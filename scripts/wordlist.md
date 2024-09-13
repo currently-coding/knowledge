@@ -1,3 +1,8 @@
+accomplish
+accountant
+accuracy
+accurately
+acid
 activate
 addiction
 additionally
@@ -6,7 +11,6 @@ adequately
 adjust
 affordable
 agriculture
-AIDS
 alien
 alongside
 altogether
