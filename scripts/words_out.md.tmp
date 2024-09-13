@@ -1,8 +1,3 @@
-absorb
-abstract
-accent
-accidentally
-accommodate
 accomplish
 accountant
 accuracy

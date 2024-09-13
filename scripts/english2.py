@@ -31,7 +31,6 @@ with open(in_file, 'r') as f_in, open(in_file + '.tmp', 'w') as f_tmp:
     # read first few words from original file
     words = [next(f_in)[:-1] for _ in range(amount_of_words_per_execution)]
 
-    print(words)
 
     for word in words:
         new_words.append(word)
@@ -42,11 +41,11 @@ with open(in_file, 'r') as f_in, open(in_file + '.tmp', 'w') as f_tmp:
 f_tmp.close()
 f_in.close()
 
-# replace original file with new file -> deleted used words
-os.replace(in_file + '.tmp', in_file)
 
 new_entries = []
-print("New Words: ", new_words)
+total_requests = len(new_words)
+successful_requests = 0
+
 
 for word in new_words:
     query = word
@@ -60,14 +59,17 @@ for word in new_words:
         url = f'https://linguee-api.fly.dev/api/v2/translations?query={query}&src={src_lang}&dst={
             dst_lang}&guess_direction={guess_direction}&follow_corrections={follow_corrections}'
         res = requests.get(url)
-        print("Server: ", res)
         status_code = res.status_code
-        print('Info: ', res.status_code, res.text)
-        if count > 0:
-            print(f"Request failed.\nTrying again in less than {
-                  count*10} seconds...")
-        sleep(count*10)  # 0 sec timeout on first try
+        print('Info: ', status_code) # could refactor into ternary
+        if status_code != 200:
+            print(f"Request failed.\nTrying again in 5 seconds...")
+            sleep(5)  # 0 sec timeout on first try
+        else:
+            print("Successful request.")
         count += 1
+
+    successful_requests += 1
+    print(f'Request {successful_requests}/{total_requests} complete')
 
     json_data = res.text
 
@@ -77,7 +79,6 @@ for word in new_words:
     translated_pos = []
 
     # Get translations
-    print(data)
     for entry in data:
         pos = entry.get('pos', 'N/A').split(',')[0]
         to = "to " if pos == "verb" else ""
@@ -114,15 +115,20 @@ for word in new_words:
         if not output_with_examples[1]:
             dst_examples = ""
 
-        print(pos)
         output = word + "(" + pos + ")" + " (" + (src_examples) + ") " + \
             separator + " " + translations + " (" + dst_examples + ")\n"
         new_entries.append(output)
 
+print('Requests complete.\nRemoving words from file...')
+
+# replace original file with new file -> deleted used words
+os.replace(in_file + '.tmp', in_file)
+
+print('Writing data to output file...')
 
 with open(out_file, 'a') as f_out:
     for entry in new_entries:
         f_out.write(entry)
 f_out.close()
 
-print(new_entries)
+print('Execution successful. Exiting...')
