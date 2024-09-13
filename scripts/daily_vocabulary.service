@@ -1,0 +1,28 @@
+[Unit]
+Description=Run Python script daily
+
+[Service]
+Type=simple
+WorkingDirectory=/home/me/Documents/knowledge/scripts
+ExecStart=/usr/bin/python3 ~/documents/knowledge/scripts/vocabulary.py
+
+
+
+[Timer]
+OnCalendar=*-*-* 05:00:00  # This runs every day at 5 AM
+Persistent=true             # To ensure the timer runs even if the system was off
+
+[Install]
+WantedBy=timers.target
+
+
+
+
+
+
+
+
+
+
+
+
