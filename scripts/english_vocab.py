@@ -1,5 +1,4 @@
 import json
-import sys
 from time import sleep
 import requests
 import os
@@ -9,111 +8,97 @@ import os
 
 src_lang = 'en'
 dst_lang = 'de'
-guess_direction = False # guess the translation direction (rather unstable)
-follow_corrections = 'always' # in case of wrong spelling use suggestion
+guess_direction = False
+follow_corrections = 'always'
 
-in_file = 'input.txt'
-out_file = '../00 Karteikarten 1/English/vocabulary.md' # use path starting at the vault root
+in_file = 'words_out.md'
+out_file = '../00 Karteikarten 1/English/vocabulary.md'
 
-output_with_examples = True
+output_with_examples = (True, False)
 separator = '<->'
-amount_of_words_per_execution = 7
+amount_of_words_per_execution = 5
 
 # ================================
 
-def write_to_vault(new_entries):
-    with open(out_file, 'a') as f_out:
-        for entry in new_entries:
-            f_out.write(entry)
-    f_out.close()
+# Function to read words from the file
+def read_words(file, amount):
+    new_words = []
+    try:
+        with open(file, 'r') as f_in, open(file + '.tmp', 'w') as f_tmp:
+            words = [next(f_in).strip() for _ in range(amount)]
+            new_words.extend(words)
+            for line in f_in:
+                f_tmp.write(line)
+        return new_words
+    except Exception as e:
+        print(f"Error reading file: {e}")
+        return []
 
-def translate(to_translate):
-    new_entries = []
-    for word in to_translate:
-        query = word
-        
-        status_code = -1
-        count = 0 # for timeouts after unsuccessful request
+# Function to replace the old file with the new one
+def replace_file(old_file, new_file):
+    try:
+        os.replace(old_file, new_file)
+    except Exception as e:
+        print(f"Error replacing file: {e}")
 
-        while status_code != 200:
-        # API Call: Linguee API
-            url = f'https://linguee-api.fly.dev/api/v2/translations?query={query}&src={src_lang}&dst={dst_lang}&guess_direction={guess_direction}&follow_corrections={follow_corrections}'
+# Function to call the Linguee API
+def call_api(word, src_lang, dst_lang, guess_direction, follow_corrections):
+    url = f'https://linguee-api.fly.dev/api/v2/translations?query={word}&src={src_lang}&dst={dst_lang}&guess_direction={guess_direction}&follow_corrections={follow_corrections}'
+    while True:
+        try:
             res = requests.get(url)
-            print("Server: ", res)
-            status_code = res.status_code
-            if count > 0:
-                print(f"Request failed.\nTrying again in less than {count*7} seconds...")
-            sleep(count*7+0.001) # 0sec timeout on first try
-            count += 1
+            if res.status_code == 200:
+                print("Request succeded.")
+                return res.json()
+            else:
+                print(f"API request failed with status {res.status_code}. Retrying in 5 seconds...")
+                sleep(5)
+        except requests.exceptions.RequestException as e:
+            print(f"Request failed: {e}. Retrying in 5 seconds...")
+            sleep(5)
 
-        json_data = res.text
+# Function to write new entries to the output file
+def write_output(file, entries):
+    try:
+        with open(file, 'a') as f_out:
+            f_out.writelines(entries)
+    except Exception as e:
+        print(f"Error writing to file: {e}")
+
+# Function to process and format translation data
+def process_translations(data, output_with_examples):
+    new_entries = []
+    for entry in data:
+        pos = entry.get('pos', 'N/A').split(',')[0]
+        word = f"to {entry.get('text', 'N/A')}" if pos == "verb" else entry.get('text', 'N/A')
         
-        # Parse JSON data
-        data = json.loads(json_data)
+        translations = [t['text'] for t in entry.get('translations', []) if pos in t['pos']]
+        src_examples = [e['src'] for t in entry.get('translations', []) for e in t.get('examples', [])]
+        dst_examples = [e['dst'] for t in entry.get('translations', []) for e in t.get('examples', [])]
 
-        translated_pos = []
-
-        # Get translations
-        print(data)
-        for entry in data:
-            pos = entry.get('pos', 'N/A').split(',')[0]
-            to = "to " if pos == "verb" else ""
-            word = to + entry.get('text', 'N/A')
-            if pos in translated_pos:
-                continue # wanted word has already been translated
-            translated_pos.append(pos)
-            
-            # Extract translations
-            translations = []
+        if not output_with_examples[0]:
             src_examples = []
+        if not output_with_examples[1]:
             dst_examples = []
 
-            for translation in entry.get('translations', []):
-                trans_word = translation.get('text', 'N/A')
-                trans_pos = translation.get('pos', 'N/A')
-                if pos not in trans_pos:
-                    continue # cant translate verb to noun
-                translations.append(trans_word)
-            
-                # Extract and print example sentences
-                for example in translation.get('examples', []):
-                    src_examples.append(example.get('src', 'No source example'))
-                    dst_examples.append(example.get('dst', 'No destination example'))
-
-
-            # Lists to strings
-            src_examples = "\'" + "\', \'".join(src_examples) + "\'"
-            dst_examples = "\'" + "\', \'".join(dst_examples) + "\'"
-            translations = "\'" + "\', \'".join(translations) + "\'"
-
-            if not output_with_examples:
-                src_examples = "" # overwrite examples
-                dst_examples = ""
-            print(pos)
-            output = word + "(" + pos + ")" + " (" + (src_examples) + ") " + separator + " " + translations + " (" + dst_examples + ")\n"
-            new_entries.append(output)
-
+        entry_str = f"{word}({pos}) ({', '.join(src_examples)}) {separator} {', '.join(translations)} ({', '.join(dst_examples)})\n"
+        new_entries.append(entry_str)
     return new_entries
 
-def read_file():
-# Reading the new words
-    new_words = []
 
-    with open(in_file, 'r') as f_in, open(in_file + '.tmp', 'w') as f_tmp:
-        # read first few words from original file
-        for word in f_in.readlines(amount_of_words_per_execution):
-            new_words.append(word)
+# Main Execution Flow
+new_words = read_words(in_file, amount_of_words_per_execution)
+new_entries = []
 
-        # write remaining words to new file
-        for line in f_in:
-            f_tmp.write(line)
-    f_tmp.close()
-    f_in.close()
+for word in new_words:
+    data = call_api(word, src_lang, dst_lang, guess_direction, follow_corrections)
+    new_entries.extend(process_translations(data, output_with_examples))
 
-# replace original file with new file -> deleted used words
-    os.replace(in_file + '.tmp', in_file)
-    return new_words
+print('Requests complete. Removing words from file...')
+replace_file(in_file + '.tmp', in_file)
 
-if __name__ == "__main__":
-    flashcards = translate(read_file())
-    write_to_vault(flashcards)
+print('Writing data to output file...')
+write_output(out_file, new_entries)
+
+print('Execution successful. Exiting...')
+
