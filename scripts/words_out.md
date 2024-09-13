@@ -1,8 +1,3 @@
-accomplish
-accountant
-accuracy
-accurately
-acid
 activate
 addiction
 additionally
