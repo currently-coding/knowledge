@@ -1,6 +1,5 @@
 
-# Wird in beide Richtungen abgefragt
-
+---
  to blossom <-> blühen
  to rant <-> schimpfen
  to chant <-> skandieren, singen
@@ -28,21 +27,13 @@
  circumspect <-> vorsichtig, umsichtig
  adamant <-> unerbittlich
  to target <-> anvisieren, zum Ziel setzen 
-# Wird in eine Richtung(-\>) abgefragt
+
+---
 
 Schweiß -> perspiration
 
-# Karteikarte mehrzeilig(beide richtungen)
+---
 
-stunde
-??
-hour
-
-# Karteikarte mehrzeilig(eine richtung)
-
-sekunde
-?
-second
 
 
 
