@@ -83,6 +83,7 @@ apposite <-> treffend
 dedication <-> Engagement, Einsatz
 
 manslaughter <-> Totschlag
+<!--SR:!2024-09-17,4,363!2000-01-01,1,250-->
 
 to target <-> anvisieren
 <!--SR:!2000-01-01,1,250!2024-09-19,6,362-->

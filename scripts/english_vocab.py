@@ -89,9 +89,14 @@ def process_translations(data, output_with_examples):
 # Main Execution Flow
 new_words = read_words(in_file, amount_of_words_per_execution)
 new_entries = []
+total = len(new_words)
+done = 0
 
 for word in new_words:
     data = call_api(word, src_lang, dst_lang, guess_direction, follow_corrections)
+    done += 1
+    print(done , '/' , total , 'requests done')
+
     new_entries.extend(process_translations(data, output_with_examples))
 
 print('Requests complete. Removing words from file...')
@@ -101,4 +106,3 @@ print('Writing data to output file...')
 write_output(out_file, new_entries)
 
 print('Execution successful. Exiting...')
-
