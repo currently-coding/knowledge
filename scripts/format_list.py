@@ -7,7 +7,7 @@ with open(file_path, 'r') as file:
     content = file.read()
 file.close()
 
-items = content
+items = content.split()
 
 # List of part-of-speech markers to exclude
 pos_markers = ['v.', 'adj.', 'n.', 'adv.', 'prep.', 'pron.', 'conj.', 'int.', 'det.', 'n.,', 'v.,']
