@@ -1,4 +1,3 @@
-ball
 toy
 dance
 kill
