@@ -11,7 +11,7 @@ dst_lang = 'de'
 guess_direction = False
 follow_corrections = 'always'
 
-in_file = 'words_out.md'
+in_file = 'wordlist.md'
 out_file = '../00 Karteikarten 1/English/vocabulary.md'
 
 output_with_examples = (True, False)
