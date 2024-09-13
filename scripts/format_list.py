@@ -16,5 +16,5 @@ f.close()
 
 content = content.split(".")
 print(content)
-content = content.split(" ")
+content = ''.join(content.split(" "))
 print(content)
