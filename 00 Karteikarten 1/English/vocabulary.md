@@ -21,8 +21,10 @@ acid(adjective) (I do not like acid fruits.) <-> sauer ()
 Acid(noun) () <-> acid ()
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) <-> aktivieren, betätigen, freischalten, einschalten, auslösen, anregen, starten, erregen, beleben, in Betrieb setzen, radioaktiv machen, einleiten ()
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) <-> Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung, Süchtigkeit, Hinneigung ()
+<!--SR:!2000-01-01,1,250!2024-09-18,4,270-->
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) <-> zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei ()
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) <-> zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig ()
+<!--SR:!2024-09-18,4,270!2000-01-01,1,250-->
 adequate(adjective) (An adequate amount of water is important on every hike., I finally received an adequate answer to my question., My income is not high, but it is adequate.) <-> ausreichend, angemessen, hinreichend, adäquat, entsprechend, genügend, auskömmlich, hinlänglich, zulänglich, zweckentsprechend ()
 adequately(adverb) () <-> angemessen, hinreichend, ausreichend, entsprechend, adäquat, ordnungsgemäß, hinlänglich, genügend, auskömmlich, zulänglich, zweckentsprechend ()
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) <-> angemessen, adäquat, hinreichend, ausreichend, genügend, entsprechend, auskömmlich, hinlänglich, zulänglich, zweckentsprechend ()
