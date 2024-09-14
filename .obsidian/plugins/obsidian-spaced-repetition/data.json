@@ -48,7 +48,7 @@
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
-    "initiallyExpandAllSubdecksInTree": false,
+    "initiallyExpandAllSubdecksInTree": true,
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.3,
@@ -58,11 +58,14 @@
   },
   "buryDate": "2024-09-14",
   "buryList": [
-    "1759c736287ef0",
-    "6270454246399",
-    "17ddf27be127cd",
-    "7520d0f2275a2",
-    "1fd6bd20d24f1e"
+    "28bf247ae44ea",
+    "182e0ea39d59aa",
+    "118b3db6ff2c02",
+    "1559c565f224db",
+    "1fde761c4d3762",
+    "f8947a555eb8e",
+    "7b4ba5de78c42",
+    "bdcb81aee8d83"
   ],
   "historyDeck": null
 }
