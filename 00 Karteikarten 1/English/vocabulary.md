@@ -29,7 +29,7 @@ Acid(noun) <-> acid
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) <-> aktivieren, betätigen, freischalten, einschalten, auslösen, anregen, starten, erregen, beleben, in Betrieb setzen, radioaktiv machen, einleiten
 <!--SR:!2000-01-01,1,250!2024-09-18,4,281-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) <-> Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung, Süchtigkeit, Hinneigung
-<!--SR:!2000-01-01,1,250!2024-09-18,4,270-->
+<!--SR:!2024-09-18,4,287!2024-09-18,4,270-->
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) <-> zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei
 <!--SR:!2024-09-18,4,270!2000-01-01,1,250-->
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) <-> zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
@@ -81,7 +81,6 @@ aside(adverb) (The woman stepped aside and let the child pass.) <-> beiseite, zu
 aside(noun) (The professor mentioned the test only as an aside.) <-> Randbemerkung, Abseits, Nebenbemerkung, Aparte
 <!--SR:!2024-09-15,1,241!2000-01-01,1,250-->
 asset(noun) (At the end of the year, the company depreciates its assets., We declare our company's assets every year., My house and my car are my greatest assets., Intangible assets include patents and trade names., The factory is the most valuable asset of the company.) <-> Asset, Anlage, Vermögenswert, Vermögensgegenstand, Wirtschaftsgut, Vermögen, Kapital, Vorteil, Gut, Wert, Bereicherung, Anlagegut, Gewinn, Plus, Aktivposten, Vorzug, Posten, Aktivum, Eigenkapital, Anlagengegenstand, Fähigkeit 
-Asset(noun) <-> asset 
 to assign(verb) (Each employee was assigned a tutor., The owner does not want to assign the patent to a third party., I will assign my share of the money to my children., The manager assigned the task to his best employee., Agencies usually assign work to freelancers., I was assigned to count the votes.) <-> zuweisen, übertragen, abtreten, zuteilen, vergeben, beauftragen, bestimmen, festlegen, belegen, zuschreiben, aufgeben, übereignen, ernennen, einteilen, anweisen, zedieren, markieren, abstellen, überweisen, zurechnen, festsetzen
 <!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
 assign(noun) <-> Zessionar, Rechtsnachfolger 
