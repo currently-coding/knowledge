@@ -102,7 +102,8 @@ attachment(noun) (The email included three attachments., No attachments are requ
 to attach(verb) (I attached the wire to the lamp., I am using a special fixture to attach the device to the wall., The participants attached their name cards to their clothes., I attached a hook to the wall to hang up my coat., I will attach a copy of the report to the email., I will attach the document to my email., I attached a rope to the tree.) <-> verbinden, befestigen, befestigen, anbringen, anhängen, beifügen, festmachen, beilegen, fixieren, anheften, binden, mit versehen, ansetzen, anfügen, aufstecken, zuordnen, anbauen, zufügen, beschlagnahmen
 <!--SR:!2024-09-18,4,287!2000-01-01,1,250-->
 to attach to(verb) (The participants attached their name cards to their clothes., I am using a special fixture to attach the device to the wall.) <-> an befestigen 
-to attach oneself to(verb) <-> sich an anheften, sich an festsaugen 
+to attach oneself to(verb) <-> sich an anheften, sich an festsaugen
+<!--SR:!2024-09-15,1,247!2000-01-01,1,250-->
 auction(noun) (The art gallery is hosting an auction to sell paintings., At auctions one can bid on interesting items., Every item in an auction has an estimate.) <-> Auktion, Versteigerung 
 to auction(verb) (The painting was auctioned to the highest bidder.) <-> versteigern 
 audio(noun) (The audio sounds better with good headphones.) <-> Audio, Ton 
