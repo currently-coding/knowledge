@@ -48,7 +48,7 @@ def call_api(word, src_lang, dst_lang, guess_direction, follow_corrections):
         try:
             res = requests.get(url)
             if res.status_code == 200:
-                print("Request succeded.")
+                print("Request succeeded.")
                 return res.json()
             else:
                 print(f"API request failed with status {res.status_code}. Retrying in 5 seconds...")
@@ -78,10 +78,16 @@ def process_translations(data, output_with_examples):
 
         if not output_with_examples[0]:
             src_examples = []
+            src_examples_string = ''
+        else:
+            src_examples_string = f'({', '.join(src_examples)})'
         if not output_with_examples[1]:
             dst_examples = []
+            dst_examples_string = ''
+        else:
+            dst_examples_string = f'({', '.join(dst_examples)})'
 
-        entry_str = f"{word}({pos}) ({', '.join(src_examples)}) {separator} {', '.join(translations)} ({', '.join(dst_examples)})\n"
+        entry_str = f"{word}({pos}) {src_examples_string} {separator} {', '.join(translations)} {dst_examples_string}\n"
         new_entries.append(entry_str)
     return new_entries
 
@@ -94,6 +100,7 @@ done = 0
 
 for word in new_words:
     data = call_api(word, src_lang, dst_lang, guess_direction, follow_corrections)
+    done += 1
     print(done , '/' , total , 'requests done')
 
     new_entries.extend(process_translations(data, output_with_examples))
