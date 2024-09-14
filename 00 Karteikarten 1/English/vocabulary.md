@@ -6,7 +6,7 @@ to abstract(verb) (I will read the article and abstract the main ideas.) <-> abs
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) <-> Akzent, Betonung
 <!--SR:!2000-01-01,1,250!2024-09-18,4,270-->
 to accent(verb) <-> betonen, akzentuieren, hervorheben
-<!--SR:!2024-09-18,4,276!2000-01-01,1,250-->
+<!--SR:!2024-09-18,4,276!2024-09-18,4,287-->
 accidentally(adverb) (The cat accidentally scratched my arm., I accidentally swallowed my chewing gum., I believe I accidentally left the stove on.) <-> versehentlich, zufällig, aus Versehen, unbeabsichtigt, durch Zufall, ungewollt, zufälligerweise, akzidentell, unabsichtlich, unabsichtlicherweise, unglücklicherweise, in unbeabsichtigter Weise, unglücklich, akzidentiell, nebensächlich, zufallsbedingt
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) <-> zufällig, unbeabsichtigt, versehentlich, unfallbedingt, unabsichtlich, akzidentell, unglücklich, akzidentiell, zufallsbedingt, nebensächlich, irrtümlich
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) <-> aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren, anpassen, Unterkunft bieten, beispringen, endigen, eine Unterkunft zur Verfügung stellen
@@ -50,7 +50,8 @@ alien(adjective) (The way of life of the local people seemed alien to me.) <-> f
 Alien(noun) <-> alien 
 alongside(preposition) (I love walking alongside the river.) <-> neben, entlang, längs, lang
 <!--SR:!2000-01-01,1,250!2024-09-17,3,267-->
-alongside(adverb) <-> daneben, Seite an Seite, an der Seite, nebenher, längsseits 
+alongside(adverb) <-> daneben, Seite an Seite, an der Seite, nebenher, längsseits
+<!--SR:!2000-01-01,1,250!2024-09-17,3,267-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) <-> insgesamt, im Ganzen, alles in allem, zusammen, ganz, überhaupt, gänzlich, vollständig, ganz und gar, durchweg, summa summarum
 <!--SR:!2000-01-01,1,250!2024-09-18,4,276-->
 ambulance(noun) (The ambulance took the patient to the hospital.) <-> Krankenwagen, Ambulanz, Rettungswagen, Sanitätswagen, Sanitätsfahrzeug, Sanitätsauto, Notarztwagen, Unfallwagen, Feldlazarett, Sanka
@@ -63,7 +64,8 @@ analyst(noun) (The analyst evaluated statistics for the newspaper.) <-> Analyst,
 Analyst(noun) <-> analyst 
 ancestor(noun) (The history of my ancestors is interesting.) <-> Vorfahre, Vorfahr, Ahnin, Urahn, Ahne, Stammvater, Ahnherr, Vorgänger, Ahn, Vorfahrin 
 animation(noun) (The computer game provides very authentic animations., The programmer rendered the object for animation., I love the children's animation and exuberance.) <-> Animation, Lebhaftigkeit, Belebung, Bewegung, Leben, Anregung 
-Animation(noun) (Das Computerspiel bietet sehr authentische Animationen., Der Programmierer renderte das Objekt zur Animation.) <-> animation, entertainment 
+Animation(noun) (Das Computerspiel bietet sehr authentische Animationen., Der Programmierer renderte das Objekt zur Animation.) <-> animation, entertainment
+<!--SR:!2024-09-18,4,287!2000-01-01,1,250-->
 annually(adverb) <-> jährlich, alljährlich, einjährig, annuell 
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig, annuell
 <!--SR:!2000-01-01,1,250!2024-09-18,4,281-->
@@ -96,7 +98,8 @@ assumption(noun) (His assumption was right and he won the bet., A newspaper arti
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) <-> versichern, gewährleisten, sichern, garantieren, zusichern, sicherstellen, zusagen, beruhigen, beteuern
 <!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
 to assure oneself(verb) <-> sich versichern lassen 
-astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) <-> umwerfend, beeindruckend, überwältigend, verwundernd 
+astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) <-> umwerfend, beeindruckend, überwältigend, verwundernd
+<!--SR:!2000-01-01,1,250!2024-09-17,3,267-->
 to astonish(verb) (The surprising discovery astonished the scientists., The young pianist astonished the audience with his talent.) <-> erstaunen, überraschen, verblüffen, verwundern, in Erstaunen setzen, frappieren, wundernehmen 
 attachment(noun) (The email included three attachments., No attachments are required for mounting., The attachment of the house was averted., Emotional attachment between parent and child is important., The blender came with several attachments.) <-> Anhang, Befestigung, Pfändung, Verbundenheit, Zubehörteil, Anlage, Bindung, Attachment, Zubehör, Aufsatz, Anbau, Anbringung, Anschluss, Beschlagnahme, Vorsatz, Verhaftung, E-Mail-Anhang, Ansatz, Anbindung, Befestigen, Vorsatzgerät, Zusatzgerät, Anhänglichkeit, Angliederung, angehängte Datei, Zuneigung, dinglicher Arrest, Ansatzstück, Anhängsel, Beiwerk, Anfügung, Beiheften, Zuordnung, Zusatzteil, Anheften, Festmachen 
 to attach(verb) (I attached the wire to the lamp., I am using a special fixture to attach the device to the wall., The participants attached their name cards to their clothes., I attached a hook to the wall to hang up my coat., I will attach a copy of the report to the email., I will attach the document to my email., I attached a rope to the tree.) <-> verbinden, befestigen, befestigen, anbringen, anhängen, beifügen, festmachen, beilegen, fixieren, anheften, binden, mit versehen, ansetzen, anfügen, aufstecken, zuordnen, anbauen, zufügen, beschlagnahmen
@@ -104,7 +107,8 @@ to attach(verb) (I attached the wire to the lamp., I am using a special fixture 
 to attach to(verb) (The participants attached their name cards to their clothes., I am using a special fixture to attach the device to the wall.) <-> an befestigen 
 to attach oneself to(verb) <-> sich an anheften, sich an festsaugen
 <!--SR:!2024-09-15,1,247!2000-01-01,1,250-->
-auction(noun) (The art gallery is hosting an auction to sell paintings., At auctions one can bid on interesting items., Every item in an auction has an estimate.) <-> Auktion, Versteigerung 
+auction(noun) (The art gallery is hosting an auction to sell paintings., At auctions one can bid on interesting items., Every item in an auction has an estimate.) <-> Auktion, Versteigerung
+<!--SR:!2000-01-01,1,250!2024-09-18,4,287-->
 to auction(verb) (The painting was auctioned to the highest bidder.) <-> versteigern 
 audio(noun) (The audio sounds better with good headphones.) <-> Audio, Ton 
 Audio(noun) <-> audio
