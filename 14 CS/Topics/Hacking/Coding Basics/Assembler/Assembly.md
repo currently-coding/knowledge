@@ -33,4 +33,4 @@ AT&T: CMD <source>, <dest> <# comment>
 
 # Flashcards
 Where is NASM being used the most and where do people use AT&T ? -> Windows assemblers/debuggers; Linux Devs/gcc compilers
-<!--SR:!2024-08-18,1,230-->
+<!--SR:!2024-09-09,3,250-->
