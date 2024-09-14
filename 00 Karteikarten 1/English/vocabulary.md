@@ -6,11 +6,13 @@ to abstract(verb) (I will read the article and abstract the main ideas.) <-> abs
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) <-> Akzent, Betonung ()
 <!--SR:!2000-01-01,1,250!2024-09-18,4,270-->
 to accent(verb) () <-> betonen, akzentuieren, hervorheben ()
+<!--SR:!2024-09-18,4,276!2000-01-01,1,250-->
 accidentally(adverb) (The cat accidentally scratched my arm., I accidentally swallowed my chewing gum., I believe I accidentally left the stove on.) <-> versehentlich, zufällig, aus Versehen, unbeabsichtigt, durch Zufall, ungewollt, zufälligerweise, akzidentell, unabsichtlich, unabsichtlicherweise, unglücklicherweise, in unbeabsichtigter Weise, unglücklich, akzidentiell, nebensächlich, zufallsbedingt ()
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) <-> zufällig, unbeabsichtigt, versehentlich, unfallbedingt, unabsichtlich, akzidentell, unglücklich, akzidentiell, zufallsbedingt, nebensächlich, irrtümlich ()
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) <-> aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren, anpassen, Unterkunft bieten, beispringen, endigen, eine Unterkunft zur Verfügung stellen ()
 to accommodate oneself(verb) () <-> sich akkommodieren ()
-to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) <-> erreichen, erfüllen, bewerkstelligen, schaffen, durchführen, vollenden, verwirklichen, leisten, bewältigen, vollbringen, ausführen, vollziehen, fertig bringen, fertig bekommen, zu Wege bringen, verrichten ()
+to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) <-> erreichen, erfüllen, bewerkstelligen, schaffen, durchführen, vollenden, verwirklichen, leisten, bewältigen, vollbringen, ausführen, vollziehen, fertig bringen, fertig bekommen, zu Wege bringen, verrichten
+<!--SR:!2024-09-18,4,276!2000-01-01,1,250-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) <-> Wirtschaftsprüfer, Buchhalter, Steuerberater, Rechnungsführer, Rechnungsprüfer, Rechnungsführerin, Bilanzbuchhalter, Buchhalterin, Wirtschaftsprüferin, Buchführerin, Bilanzbuchhalterin, Bilanzprüfer, Bilanzprüferin, Rechnungsprüferin, Buchführer, Kontenführer ()
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) <-> Rechenschaft ablegen ()
 <!--SR:!2000-01-01,1,250!2024-09-18,4,270-->
@@ -42,8 +44,10 @@ alien(adjective) (The way of life of the local people seemed alien to me.) <-> f
 Alien(noun) () <-> alien 
 alongside(preposition) (I love walking alongside the river.) <-> neben, entlang, längs, lang 
 alongside(adverb) () <-> daneben, Seite an Seite, an der Seite, nebenher, längsseits 
-altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) <-> insgesamt, im Ganzen, alles in allem, zusammen, ganz, überhaupt, gänzlich, vollständig, ganz und gar, durchweg, summa summarum 
-ambulance(noun) (The ambulance took the patient to the hospital.) <-> Krankenwagen, Ambulanz, Rettungswagen, Sanitätswagen, Sanitätsfahrzeug, Sanitätsauto, Notarztwagen, Unfallwagen, Feldlazarett, Sanka 
+altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) <-> insgesamt, im Ganzen, alles in allem, zusammen, ganz, überhaupt, gänzlich, vollständig, ganz und gar, durchweg, summa summarum
+<!--SR:!2000-01-01,1,250!2024-09-18,4,276-->
+ambulance(noun) (The ambulance took the patient to the hospital.) <-> Krankenwagen, Ambulanz, Rettungswagen, Sanitätswagen, Sanitätsfahrzeug, Sanitätsauto, Notarztwagen, Unfallwagen, Feldlazarett, Sanka
+<!--SR:!2024-09-18,4,276!2000-01-01,1,250-->
 amusing(adjective / present participle) (The comedy was very amusing.) <-> erheiternd, belustigend 
 amusing oneself(present participle) () <-> sich unterhaltend 
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) <-> unterhalten, amüsieren, belustigen, erheitern, ergötzen, Spaß machen, ablenken 
@@ -56,7 +60,8 @@ Animation(noun) (Das Computerspiel bietet sehr authentische Animationen., Der Pr
 annually(adverb) () <-> jährlich, alljährlich, einjährig, annuell 
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig, annuell 
 to anticipate(verb) (The company anticipates sales growth in the upcoming year., Product designers anticipate the needs of the customers., You cannot anticipate every possible reaction to an act., I anticipated my mother's reaction.) <-> erwarten, vorwegnehmen, vorhersehen, vorausahnen, antizipieren, zuvorkommen, voraussehen, ahnen, prognostizieren, vorgreifen, mit rechnen, vorauskalkulieren, im Voraus bedenken, vorausnehmen, annehmen, vorahnen, vorausberechnen 
-anxiety(noun) (In therapy, he learned how to handle anxiety and stress., My anxiety was unfounded; everything went well.) <-> Angst, Besorgnis, Sorge, Beklemmung, Angstzustand, Furcht, Ängstlichkeit, Unruhe, Angstgefühl, Unbehagen, Beunruhigung, Bemühen, Beklommenheit 
+anxiety(noun) (In therapy, he learned how to handle anxiety and stress., My anxiety was unfounded; everything went well.) <-> Angst, Besorgnis, Sorge, Beklemmung, Angstzustand, Furcht, Ängstlichkeit, Unruhe, Angstgefühl, Unbehagen, Beunruhigung, Bemühen, Beklommenheit
+<!--SR:!2024-09-18,4,276!2000-01-01,1,250-->
 apology(noun) () <-> Entschuldigung, Abbitte, Rechtfertigung, Verteidigung, Richtigstellung, Verteidigungsschrift 
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) <-> Antragsteller, Bewerber, Bewerberin, Anmelder, Beschwerdeführer, Zeichner, Gesuchsteller, Stellenbewerber, Kandidat, Antragstellerin, Anmelderin, Anwärter, Kandidatin, Anwärterin, Stellenbewerberin, Bittsteller 
 appropriately(adverb) (He reacted appropriately.) <-> angemessen, entsprechend, recht, zutreffend, geeignet, ordnungsgemäß, angebracht, sachgerecht, sachgemäß, passend, richtig, adäquat, zweckmäßig, zweckdienlich, probat, treffend, dienlich, bedarfsgerecht, zweckentsprechend, zugehörend, sinnig 
