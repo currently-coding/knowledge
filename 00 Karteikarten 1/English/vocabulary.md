@@ -1,6 +1,7 @@
 to absorb(verb) (Plants absorb water and carbon dioxide., This new kitchen towel absorbs liquids fast., Charcoal filters can absorb harmful substances., The mechanical device was designed to absorb shock., The cleaning product absorbs bad smells.) <-> absorbieren, aufnehmen, aufsaugen, binden, abfangen, neutralisieren, tragen, integrieren, abfedern, auffangen, dämpfen, verkraften, einsaugen, anziehen, federnd abfangen, schlucken, verschlucken, eingliedern
 abstract(adjective) (The artist is famous for his abstract paintings., Intelligence tests measure abstract reasoning.) <-> abstrakt, gegenstandslos, unbenannt, theoretisch, kurz gefasst
-abstract(noun) (I have to write an abstract for my dissertation.) <-> Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung, Kurzdarstellung, Abriss 
+abstract(noun) (I have to write an abstract for my dissertation.) <-> Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung, Kurzdarstellung, Abriss
+<!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
 to abstract(verb) (I will read the article and abstract the main ideas.) <-> abstrahieren, trennen, abziehen, entnehmen, auf die Seite bringen, entwenden
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) <-> Akzent, Betonung
 <!--SR:!2000-01-01,1,250!2024-09-18,4,270-->
@@ -9,6 +10,7 @@ to accent(verb) <-> betonen, akzentuieren, hervorheben
 accidentally(adverb) (The cat accidentally scratched my arm., I accidentally swallowed my chewing gum., I believe I accidentally left the stove on.) <-> versehentlich, zufällig, aus Versehen, unbeabsichtigt, durch Zufall, ungewollt, zufälligerweise, akzidentell, unabsichtlich, unabsichtlicherweise, unglücklicherweise, in unbeabsichtigter Weise, unglücklich, akzidentiell, nebensächlich, zufallsbedingt
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) <-> zufällig, unbeabsichtigt, versehentlich, unfallbedingt, unabsichtlich, akzidentell, unglücklich, akzidentiell, zufallsbedingt, nebensächlich, irrtümlich
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) <-> aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren, anpassen, Unterkunft bieten, beispringen, endigen, eine Unterkunft zur Verfügung stellen
+<!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
 to accommodate oneself(verb) <-> sich akkommodieren 
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) <-> erreichen, erfüllen, bewerkstelligen, schaffen, durchführen, vollenden, verwirklichen, leisten, bewältigen, vollbringen, ausführen, vollziehen, fertig bringen, fertig bekommen, zu Wege bringen, verrichten
 <!--SR:!2024-09-18,4,276!2000-01-01,1,250-->
@@ -18,11 +20,14 @@ to account(verb) (The police asked him to account for his whereabouts at the tim
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) <-> Richtigkeit, Genauigkeit, Präzision, Sorgfalt, Fehlerfreiheit, Exaktheit, Ganggenauigkeit, Treffsicherheit, Akkuratesse, Zielgenauigkeit, Treffgenauigkeit
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) <-> genau, korrekt, präzise, sorgfältig, richtig, akkurat, exakt, zutreffend, fehlerfrei, treffsicher, pünktlich, treffend, zielgenau
 accurately(adverb) (The report accurately portrays the economic situation., We use templates to reproduce shapes accurately.) <-> genau, akkurat, exakt, präzise, richtig, treffsicher, sorgfältig, zutreffend, fehlerfrei, pünktlich, zielgenau, mit hoher Genauigkeit
+<!--SR:!2000-01-01,1,250!2024-09-18,4,281-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., With this instrument you can get very accurate measurements., To write this article, I need accurate data., The audit found the financial statements to be accurate., The reporter gave an accurate account of the circumstances.) <-> genau, zutreffend, präzise, korrekt, sorgfältig, richtig, akkurat, exakt, fehlerfrei, treffsicher, pünktlich, treffend, zielgenau
 acid(noun) (The chemical opposite of base is acid.) <-> Säure, Acid, LSD
 acid(adjective) (I do not like acid fruits.) <-> sauer
+<!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
 Acid(noun) <-> acid
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) <-> aktivieren, betätigen, freischalten, einschalten, auslösen, anregen, starten, erregen, beleben, in Betrieb setzen, radioaktiv machen, einleiten
+<!--SR:!2000-01-01,1,250!2024-09-18,4,281-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) <-> Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung, Süchtigkeit, Hinneigung
 <!--SR:!2000-01-01,1,250!2024-09-18,4,270-->
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) <-> zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei
@@ -33,6 +38,7 @@ adequate(adjective) (An adequate amount of water is important on every hike., I 
 <!--SR:!2000-01-01,1,250!2024-09-15,1,230-->
 adequately(adverb) <-> angemessen, hinreichend, ausreichend, entsprechend, adäquat, ordnungsgemäß, hinlänglich, genügend, auskömmlich, zulänglich, zweckentsprechend
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) <-> angemessen, adäquat, hinreichend, ausreichend, genügend, entsprechend, auskömmlich, hinlänglich, zulänglich, zweckentsprechend
+<!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) <-> anpassen, einstellen, abstimmen, verstellen, ausrichten, regeln, justieren, ändern, korrigieren, richten, verändern, regulieren, abgleichen, umstellen, berichtigen, ausgleichen, nachstellen, angleichen, einregeln, in Ordnung bringen, ordnen, bereinigen, ausregeln, adjustieren, zurichten, richtigstellen, anordnen, zurechtrücken, einpassen 
 to adjust oneself(verb) <-> sich anpassen 
 to adjust oneself to(verb) <-> sich an anpassen 
@@ -57,28 +63,34 @@ ancestor(noun) (The history of my ancestors is interesting.) <-> Vorfahre, Vorfa
 animation(noun) (The computer game provides very authentic animations., The programmer rendered the object for animation., I love the children's animation and exuberance.) <-> Animation, Lebhaftigkeit, Belebung, Bewegung, Leben, Anregung 
 Animation(noun) (Das Computerspiel bietet sehr authentische Animationen., Der Programmierer renderte das Objekt zur Animation.) <-> animation, entertainment 
 annually(adverb) <-> jährlich, alljährlich, einjährig, annuell 
-annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig, annuell 
+annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig, annuell
+<!--SR:!2000-01-01,1,250!2024-09-18,4,281-->
 to anticipate(verb) (The company anticipates sales growth in the upcoming year., Product designers anticipate the needs of the customers., You cannot anticipate every possible reaction to an act., I anticipated my mother's reaction.) <-> erwarten, vorwegnehmen, vorhersehen, vorausahnen, antizipieren, zuvorkommen, voraussehen, ahnen, prognostizieren, vorgreifen, mit rechnen, vorauskalkulieren, im Voraus bedenken, vorausnehmen, annehmen, vorahnen, vorausberechnen 
 anxiety(noun) (In therapy, he learned how to handle anxiety and stress., My anxiety was unfounded; everything went well.) <-> Angst, Besorgnis, Sorge, Beklemmung, Angstzustand, Furcht, Ängstlichkeit, Unruhe, Angstgefühl, Unbehagen, Beunruhigung, Bemühen, Beklommenheit
 <!--SR:!2024-09-18,4,276!2000-01-01,1,250-->
 apology(noun) <-> Entschuldigung, Abbitte, Rechtfertigung, Verteidigung, Richtigstellung, Verteidigungsschrift 
-applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) <-> Antragsteller, Bewerber, Bewerberin, Anmelder, Beschwerdeführer, Zeichner, Gesuchsteller, Stellenbewerber, Kandidat, Antragstellerin, Anmelderin, Anwärter, Kandidatin, Anwärterin, Stellenbewerberin, Bittsteller 
-appropriately(adverb) (He reacted appropriately.) <-> angemessen, entsprechend, recht, zutreffend, geeignet, ordnungsgemäß, angebracht, sachgerecht, sachgemäß, passend, richtig, adäquat, zweckmäßig, zweckdienlich, probat, treffend, dienlich, bedarfsgerecht, zweckentsprechend, zugehörend, sinnig 
+applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) <-> Antragsteller, Bewerber, Bewerberin, Anmelder, Beschwerdeführer, Zeichner, Gesuchsteller, Stellenbewerber, Kandidat, Antragstellerin, Anmelderin, Anwärter, Kandidatin, Anwärterin, Stellenbewerberin, Bittsteller
+<!--SR:!2000-01-01,1,250!2024-09-15,1,241-->
+appropriately(adverb) (He reacted appropriately.) <-> angemessen, entsprechend, recht, zutreffend, geeignet, ordnungsgemäß, angebracht, sachgerecht, sachgemäß, passend, richtig, adäquat, zweckmäßig, zweckdienlich, probat, treffend, dienlich, bedarfsgerecht, zweckentsprechend, zugehörend, sinnig
+<!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
 appropriate(adjective) (My speech was appropriate for the occasion., Please select the appropriate option below., Tennis players have to wear appropriate shoes., At this time, a vote is not yet appropriate., I have the appropriate clothing for all purposes and occasions.) <-> angemessen, entsprechend, geeignet, angebracht, passend, recht, sinnvoll, zutreffend, zuständig, zweckmäßig, dementsprechend, richtig, sachgerecht, sachgemäß, adäquat, zumutbar, zweckdienlich, probat, treffend, dienlich, bedarfsgerecht, zugehörend, sinnig, zweckentsprechend, zugehörig, dazugehörig 
 to appropriate(verb) (The manager appropriated funds for the new computer system., Public officials should not appropriate government funds., The director appropriated his employee's idea.) <-> bewilligen, zuweisen, sich zu eigen machen, bereitstellen, bestimmen, sich aneignen, sich aneignen, sich bemächtigen 
 arrow(noun) (She can shoot an arrow straight into the target from a great distance., An archer shoots arrows at a target.) <-> Pfeil, Richtungspfeil, Pfeilsymbol, gerichtete Kante 
 artwork(noun) (The exhibition displays some rare artworks., All of his artwork is on display at the museum., The children showed off their artwork in the cafeteria., The city honored the painter for his artwork.) <-> Kunstwerk, Kunst, Kunstwerke, Bilder, Druckvorlage, Grafiken, Grafik, Vorlage, Illustrationen, künstlerische Darstellung 
 aside(adverb) (The woman stepped aside and let the child pass.) <-> beiseite, zur Seite, daneben 
-aside(noun) (The professor mentioned the test only as an aside.) <-> Randbemerkung, Abseits, Nebenbemerkung, Aparte 
+aside(noun) (The professor mentioned the test only as an aside.) <-> Randbemerkung, Abseits, Nebenbemerkung, Aparte
+<!--SR:!2024-09-15,1,241!2000-01-01,1,250-->
 asset(noun) (At the end of the year, the company depreciates its assets., We declare our company's assets every year., My house and my car are my greatest assets., Intangible assets include patents and trade names., The factory is the most valuable asset of the company.) <-> Asset, Anlage, Vermögenswert, Vermögensgegenstand, Wirtschaftsgut, Vermögen, Kapital, Vorteil, Gut, Wert, Bereicherung, Anlagegut, Gewinn, Plus, Aktivposten, Vorzug, Posten, Aktivum, Eigenkapital, Anlagengegenstand, Fähigkeit 
 Asset(noun) <-> asset 
-to assign(verb) (Each employee was assigned a tutor., The owner does not want to assign the patent to a third party., I will assign my share of the money to my children., The manager assigned the task to his best employee., Agencies usually assign work to freelancers., I was assigned to count the votes.) <-> zuweisen, übertragen, abtreten, zuteilen, vergeben, beauftragen, bestimmen, festlegen, belegen, zuschreiben, aufgeben, übereignen, ernennen, einteilen, anweisen, zedieren, markieren, abstellen, überweisen, zurechnen, festsetzen 
+to assign(verb) (Each employee was assigned a tutor., The owner does not want to assign the patent to a third party., I will assign my share of the money to my children., The manager assigned the task to his best employee., Agencies usually assign work to freelancers., I was assigned to count the votes.) <-> zuweisen, übertragen, abtreten, zuteilen, vergeben, beauftragen, bestimmen, festlegen, belegen, zuschreiben, aufgeben, übereignen, ernennen, einteilen, anweisen, zedieren, markieren, abstellen, überweisen, zurechnen, festsetzen
+<!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
 assign(noun) <-> Zessionar, Rechtsnachfolger 
 to assign to(verb) <-> zuordnen 
 assistance(noun) (The countries have promised their financial assistance.) <-> Unterstützung, Hilfe, Assistenz, Hilfestellung, Mithilfe, Beistand, Mitarbeit, Mitwirkung, Hilfeleistung, Arbeitserleichterung, Handreichung, Zutun 
 to assist(verb) (It's her job to assist the project manager., The pupil assisted the teacher with the experiment., The girl assisted her father with the cooking., I will always assist my brother in times of need., He assisted his friends in the kitchen., If any problems arise, we will assist our partners., The consultant assisted the company in drawing up a marketing plan., The nurse assisted the doctor during the operation.) <-> unterstützen, fördern, helfen, beistehen, behilflich sein, assistieren, zur Hand gehen, zur Seite stehen, mithelfen, mitarbeiten, beispringen 
 assumption(noun) (His assumption was right and he won the bet., A newspaper article has to be based on facts, not assumptions., The results confirm the validity of the assumption., I demonstrated that my initial assumption was correct., The assumption of leadership duties was important to him., The theory is based on simple assumptions.) <-> Annahme, Übernahme, Voraussetzung, Vermutung, Prämisse, Hypothese, Anmaßung 
-to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) <-> versichern, gewährleisten, sichern, garantieren, zusichern, sicherstellen, zusagen, beruhigen, beteuern 
+to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) <-> versichern, gewährleisten, sichern, garantieren, zusichern, sicherstellen, zusagen, beruhigen, beteuern
+<!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
 to assure oneself(verb) <-> sich versichern lassen 
 astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) <-> umwerfend, beeindruckend, überwältigend, verwundernd 
 to astonish(verb) (The surprising discovery astonished the scientists., The young pianist astonished the audience with his talent.) <-> erstaunen, überraschen, verblüffen, verwundern, in Erstaunen setzen, frappieren, wundernehmen 
@@ -86,10 +98,10 @@ attachment(noun) (The email included three attachments., No attachments are requ
 to attach(verb) (I attached the wire to the lamp., I am using a special fixture to attach the device to the wall., The participants attached their name cards to their clothes., I attached a hook to the wall to hang up my coat., I will attach a copy of the report to the email., I will attach the document to my email., I attached a rope to the tree.) <-> verbinden, befestigen, befestigen, anbringen, anhängen, beifügen, festmachen, beilegen, fixieren, anheften, binden, mit versehen, ansetzen, anfügen, aufstecken, zuordnen, anbauen, zufügen, beschlagnahmen 
 to attach to(verb) (The participants attached their name cards to their clothes., I am using a special fixture to attach the device to the wall.) <-> an befestigen 
 to attach oneself to(verb) <-> sich an anheften, sich an festsaugen 
-
 auction(noun) (The art gallery is hosting an auction to sell paintings., At auctions one can bid on interesting items., Every item in an auction has an estimate.) <-> Auktion, Versteigerung 
 to auction(verb) (The painting was auctioned to the highest bidder.) <-> versteigern 
 audio(noun) (The audio sounds better with good headphones.) <-> Audio, Ton 
-Audio(noun) <-> audio 
+Audio(noun) <-> audio
+<!--SR:!2000-01-01,1,250!2024-09-18,4,281-->
 automatic(adjective) (The building has an automatic door., The user can manually override the automatic locking function.) <-> automatisch, selbsttätig, maschinell, unwillkürlich 
 automatic(noun) <-> Automatik, Selbstladepistole, Automatikwagen 
