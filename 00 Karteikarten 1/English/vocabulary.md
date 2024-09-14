@@ -60,7 +60,8 @@ amusing(adjective / present participle) (The comedy was very amusing.) <-> erhei
 amusing oneself(present participle) <-> sich unterhaltend 
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) <-> unterhalten, amüsieren, belustigen, erheitern, ergötzen, Spaß machen, ablenken 
 to amuse oneself(verb) (The teenagers amused themselves at the fair.) <-> sich vergnügen, sich unterhalten, sich amüsieren, sich verlustieren, sich zerstreuen, sich belustigen 
-analyst(noun) (The analyst evaluated statistics for the newspaper.) <-> Analyst, Analytiker, Analytikerin, Analystin, Psychoanalytiker, Organisator, Chemiker, Problemanalytiker, Chemikerin, Börsenfachmann 
+analyst(noun) (The analyst evaluated statistics for the newspaper.) <-> Analyst, Analytiker, Analytikerin, Analystin, Psychoanalytiker, Organisator, Chemiker, Problemanalytiker, Chemikerin, Börsenfachmann
+<!--SR:!2000-01-01,1,250!2024-09-18,4,287-->
 Analyst(noun) <-> analyst 
 ancestor(noun) (The history of my ancestors is interesting.) <-> Vorfahre, Vorfahr, Ahnin, Urahn, Ahne, Stammvater, Ahnherr, Vorgänger, Ahn, Vorfahrin 
 animation(noun) (The computer game provides very authentic animations., The programmer rendered the object for animation., I love the children's animation and exuberance.) <-> Animation, Lebhaftigkeit, Belebung, Bewegung, Leben, Anregung 
@@ -80,7 +81,8 @@ appropriately(adverb) (He reacted appropriately.) <-> angemessen, entsprechend, 
 appropriate(adjective) (My speech was appropriate for the occasion., Please select the appropriate option below., Tennis players have to wear appropriate shoes., At this time, a vote is not yet appropriate., I have the appropriate clothing for all purposes and occasions.) <-> angemessen, entsprechend, geeignet, angebracht, passend, recht, sinnvoll, zutreffend, zuständig, zweckmäßig, dementsprechend, richtig, sachgerecht, sachgemäß, adäquat, zumutbar, zweckdienlich, probat, treffend, dienlich, bedarfsgerecht, zugehörend, sinnig, zweckentsprechend, zugehörig, dazugehörig
 <!--SR:!2000-01-01,1,250!2024-09-18,4,287-->
 to appropriate(verb) (The manager appropriated funds for the new computer system., Public officials should not appropriate government funds., The director appropriated his employee's idea.) <-> bewilligen, zuweisen, sich zu eigen machen, bereitstellen, bestimmen, sich aneignen, sich aneignen, sich bemächtigen 
-arrow(noun) (She can shoot an arrow straight into the target from a great distance., An archer shoots arrows at a target.) <-> Pfeil, Richtungspfeil, Pfeilsymbol, gerichtete Kante 
+arrow(noun) (She can shoot an arrow straight into the target from a great distance., An archer shoots arrows at a target.) <-> Pfeil, Richtungspfeil, Pfeilsymbol, gerichtete Kante
+<!--SR:!2000-01-01,1,250!2024-09-18,4,287-->
 artwork(noun) (The exhibition displays some rare artworks., All of his artwork is on display at the museum., The children showed off their artwork in the cafeteria., The city honored the painter for his artwork.) <-> Kunstwerk, Kunst, Kunstwerke, Bilder, Druckvorlage, Grafiken, Grafik, Vorlage, Illustrationen, künstlerische Darstellung 
 aside(adverb) (The woman stepped aside and let the child pass.) <-> beiseite, zur Seite, daneben
 <!--SR:!2024-09-18,4,287!2000-01-01,1,250-->
@@ -92,7 +94,8 @@ to assign(verb) (Each employee was assigned a tutor., The owner does not want to
 <!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
 assign(noun) <-> Zessionar, Rechtsnachfolger 
 to assign to(verb) <-> zuordnen 
-assistance(noun) (The countries have promised their financial assistance.) <-> Unterstützung, Hilfe, Assistenz, Hilfestellung, Mithilfe, Beistand, Mitarbeit, Mitwirkung, Hilfeleistung, Arbeitserleichterung, Handreichung, Zutun 
+assistance(noun) (The countries have promised their financial assistance.) <-> Unterstützung, Hilfe, Assistenz, Hilfestellung, Mithilfe, Beistand, Mitarbeit, Mitwirkung, Hilfeleistung, Arbeitserleichterung, Handreichung, Zutun
+<!--SR:!2024-09-17,3,267!2000-01-01,1,250-->
 to assist(verb) (It's her job to assist the project manager., The pupil assisted the teacher with the experiment., The girl assisted her father with the cooking., I will always assist my brother in times of need., He assisted his friends in the kitchen., If any problems arise, we will assist our partners., The consultant assisted the company in drawing up a marketing plan., The nurse assisted the doctor during the operation.) <-> unterstützen, fördern, helfen, beistehen, behilflich sein, assistieren, zur Hand gehen, zur Seite stehen, mithelfen, mitarbeiten, beispringen 
 assumption(noun) (His assumption was right and he won the bet., A newspaper article has to be based on facts, not assumptions., The results confirm the validity of the assumption., I demonstrated that my initial assumption was correct., The assumption of leadership duties was important to him., The theory is based on simple assumptions.) <-> Annahme, Übernahme, Voraussetzung, Vermutung, Prämisse, Hypothese, Anmaßung 
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) <-> versichern, gewährleisten, sichern, garantieren, zusichern, sicherstellen, zusagen, beruhigen, beteuern
