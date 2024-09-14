@@ -47,7 +47,8 @@ agriculture(noun) (Agriculture accounts for ten per cent of GDP.) <-> Landwirtsc
 alien(noun) (Some people believe in aliens.) <-> Ausländer, Außerirdischer, Fremder, Außerirdische, Alien, Ausländerin, Fremdling 
 alien(adjective) (The way of life of the local people seemed alien to me.) <-> fremd, ausländisch, artfremd, außerirdisch, fremdartig, wesensfremd, fremdländisch 
 Alien(noun) <-> alien 
-alongside(preposition) (I love walking alongside the river.) <-> neben, entlang, längs, lang 
+alongside(preposition) (I love walking alongside the river.) <-> neben, entlang, längs, lang
+<!--SR:!2000-01-01,1,250!2024-09-17,3,267-->
 alongside(adverb) <-> daneben, Seite an Seite, an der Seite, nebenher, längsseits 
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) <-> insgesamt, im Ganzen, alles in allem, zusammen, ganz, überhaupt, gänzlich, vollständig, ganz und gar, durchweg, summa summarum
 <!--SR:!2000-01-01,1,250!2024-09-18,4,276-->
@@ -73,7 +74,8 @@ applicant(noun) (Applicants for a loan can fill in a form online., Applicants ha
 <!--SR:!2000-01-01,1,250!2024-09-15,1,241-->
 appropriately(adverb) (He reacted appropriately.) <-> angemessen, entsprechend, recht, zutreffend, geeignet, ordnungsgemäß, angebracht, sachgerecht, sachgemäß, passend, richtig, adäquat, zweckmäßig, zweckdienlich, probat, treffend, dienlich, bedarfsgerecht, zweckentsprechend, zugehörend, sinnig
 <!--SR:!2024-09-18,4,281!2000-01-01,1,250-->
-appropriate(adjective) (My speech was appropriate for the occasion., Please select the appropriate option below., Tennis players have to wear appropriate shoes., At this time, a vote is not yet appropriate., I have the appropriate clothing for all purposes and occasions.) <-> angemessen, entsprechend, geeignet, angebracht, passend, recht, sinnvoll, zutreffend, zuständig, zweckmäßig, dementsprechend, richtig, sachgerecht, sachgemäß, adäquat, zumutbar, zweckdienlich, probat, treffend, dienlich, bedarfsgerecht, zugehörend, sinnig, zweckentsprechend, zugehörig, dazugehörig 
+appropriate(adjective) (My speech was appropriate for the occasion., Please select the appropriate option below., Tennis players have to wear appropriate shoes., At this time, a vote is not yet appropriate., I have the appropriate clothing for all purposes and occasions.) <-> angemessen, entsprechend, geeignet, angebracht, passend, recht, sinnvoll, zutreffend, zuständig, zweckmäßig, dementsprechend, richtig, sachgerecht, sachgemäß, adäquat, zumutbar, zweckdienlich, probat, treffend, dienlich, bedarfsgerecht, zugehörend, sinnig, zweckentsprechend, zugehörig, dazugehörig
+<!--SR:!2000-01-01,1,250!2024-09-18,4,287-->
 to appropriate(verb) (The manager appropriated funds for the new computer system., Public officials should not appropriate government funds., The director appropriated his employee's idea.) <-> bewilligen, zuweisen, sich zu eigen machen, bereitstellen, bestimmen, sich aneignen, sich aneignen, sich bemächtigen 
 arrow(noun) (She can shoot an arrow straight into the target from a great distance., An archer shoots arrows at a target.) <-> Pfeil, Richtungspfeil, Pfeilsymbol, gerichtete Kante 
 artwork(noun) (The exhibition displays some rare artworks., All of his artwork is on display at the museum., The children showed off their artwork in the cafeteria., The city honored the painter for his artwork.) <-> Kunstwerk, Kunst, Kunstwerke, Bilder, Druckvorlage, Grafiken, Grafik, Vorlage, Illustrationen, künstlerische Darstellung 
