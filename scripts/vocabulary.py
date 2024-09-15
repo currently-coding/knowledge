@@ -60,7 +60,7 @@ def call_api(word, src_lang, dst_lang, guess_direction, follow_corrections):
 # Function to write new entries to the output file
 def write_output(file, entries):
     try:
-        with open(file, 'a') as f_out:
+       with open(file, 'a') as f_out:
             f_out.writelines(entries)
     except Exception as e:
         print(f"Error writing to file: {e}")
