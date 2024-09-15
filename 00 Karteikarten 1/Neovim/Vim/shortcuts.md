@@ -23,9 +23,9 @@ n: Decrease Window Width ->\<C-Left>
 n: Increase Window Width ->\<C-Right>
 <!--SR:!2024-09-24,11,289-->
 n: Prev Buffer ->\<S-h>
-<!--SR:!2024-09-14,1,130-->
+<!--SR:!2024-09-17,2,150-->
 n: Next Buffer ->\<S-l>
-<!--SR:!2024-09-15,2,249-->
+<!--SR:!2024-09-16,1,229-->
 n: Prev Buffer -> [b
 <!--SR:!2024-09-19,9,267-->
 n: Next Buffer -> ]b
@@ -33,7 +33,7 @@ n: Next Buffer -> ]b
 n: Switch to Other Buffer ->\<leader>bb
 <!--SR:!2024-09-23,10,270-->
 n: Switch to Other Buffer ->\<leader>`
-<!--SR:!2024-09-14,3,229-->
+<!--SR:!2024-09-17,2,209-->
 n: Delete Buffer ->\<leader>bd
 <!--SR:!2024-09-21,8,269-->
 n: Delete Buffer and Window ->\<leader>bD
@@ -41,7 +41,7 @@ n: Delete Buffer and Window ->\<leader>bD
 i, n: Escape and Clear hlsearch ->\<esc>
 <!--SR:!2024-09-25,12,270-->
 n: Redraw / Clear hlsearch / Diff Update ->\<leader>ur
-<!--SR:!2024-09-14,1,189-->
+<!--SR:!2024-09-18,3,209-->
 n, x, o: Next Search Result -> n
 <!--SR:!2024-10-29,51,308-->
 n, x, o: Prev Search Result -> N
@@ -59,9 +59,9 @@ n: Lazy ->\<leader>l
 n: New File ->\<leader>fn
 <!--SR:!2024-09-16,3,209-->
 n: Location List ->\<leader>xl
-<!--SR:!2024-09-15,5,246-->
+<!--SR:!2024-09-26,11,246-->
 n: Quickfix List ->\<leader>xq
-<!--SR:!2024-09-15,2,189-->
+<!--SR:!2024-09-16,1,169-->
 n: Previous Quickfix -> [q
 <!--SR:!2024-09-23,10,289-->
 n: Next Quickfix -> ]q
@@ -69,7 +69,7 @@ n: Next Quickfix -> ]q
 n, v: Format ->\<leader>cf
 <!--SR:!2024-09-17,4,209-->
 n: Line Diagnostics ->\<leader>cd
-<!--SR:!2024-09-14,1,169-->
+<!--SR:!2024-09-17,2,169-->
 n: Next Diagnostic -> ]d
 <!--SR:!2024-09-22,9,289-->
 n: Prev Diagnostic -> [d
