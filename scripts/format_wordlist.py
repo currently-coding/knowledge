@@ -1,6 +1,6 @@
 # Load the content of the file, clean it and extract only the words
 file_path = 'oxford5000_C1.txt'
-output_file_path = 'words_out.md'
+output_file_path = 'wordlist.md'
 
 # Read the file content
 with open(file_path, 'r') as file:

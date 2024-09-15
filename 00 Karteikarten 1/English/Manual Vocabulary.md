@@ -33,10 +33,10 @@ to cherish <-> to care about smth and cultivate it with affection
 <!--SR:!2024-09-24,61,317!2025-03-03,176,310-->
 
 zenith <-> highest, most successful point of a situation
-<!--SR:!2024-09-15,50,305!2025-01-30,144,310-->
+<!--SR:!2025-04-13,210,325!2025-01-30,144,310-->
 
 wanderlust <-> strong desire to travel
-<!--SR:!2024-09-22,59,317!2024-09-15,55,312-->
+<!--SR:!2024-09-22,59,317!2025-05-09,236,332-->
 
 tranquillity <-> peace, Frieden
 <!--SR:!2025-03-30,202,312!2024-09-21,58,317-->
@@ -138,7 +138,7 @@ to reflect <-> wiederspiegeln, reflektieren
 <!--SR:!2024-12-10,92,358!2024-12-08,91,368-->
 
 to compel <-> zwingen, nötigen
-<!--SR:!2024-09-26,47,338!2024-09-15,7,328-->
+<!--SR:!2024-09-26,47,338!2024-10-16,31,348-->
 
 to furnish <-> liefern, einrichten, möbelieren
 <!--SR:!2024-11-28,81,368!2024-10-31,76,358-->
@@ -177,7 +177,7 @@ persist <-> bestehen, fortdauern
 <!--SR:!2024-11-01,76,358!2024-11-20,73,348-->
 
 contempt <-> Missachtung, Verachtung
-<!--SR:!2024-09-23,42,328!2024-09-15,7,318-->
+<!--SR:!2024-09-23,42,328!2024-10-14,29,338-->
 
 to plead <-> plädieren
 <!--SR:!2024-12-09,92,358!2024-12-08,90,368-->
