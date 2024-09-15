@@ -39,7 +39,7 @@
  dedication <-> Einsatz, Engagement, HIngabe
 <!--SR:!2024-09-14,1,230!2000-01-01,1,250-->
  apposite <-> treffend, passgenau
-<!--SR:!2000-01-01,1,250!2024-09-14,1,230-->
+
  manslaughter <-> Totschlag
 <!--SR:!2024-09-16,3,250!2000-01-01,1,250-->
  relentless <-> unbarmherzig, schonungslos
@@ -49,7 +49,7 @@
  to lure <-> locken
 <!--SR:!2000-01-01,1,250!2024-09-16,3,250-->
  prevalent <-> vorherrschend, verbreitet
-<!--SR:!2000-01-01,1,250!2024-09-14,1,230-->
+
  to perpetrate <-> begehen, verüben
 <!--SR:!2000-01-01,1,250!2024-09-14,1,230-->
  circumspect <-> vorsichtig, umsichtig
@@ -62,6 +62,7 @@
 
 Schweiß -> perspiration
 <!--SR:!2024-09-14,1,230-->
+
 
 # Karteikarte mehrzeilig(beide richtungen)
 

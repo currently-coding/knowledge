@@ -141,7 +141,7 @@ to venture <-> wagen, riskieren
 <!--SR:!2024-11-28,80,368!2024-12-07,90,358-->
 
 to undertake <-> sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
-<!--SR:!2024-09-13,30,278!2024-12-17,100,377-->
+<!--SR:!2024-12-04,82,278!2024-12-17,100,377-->
 
 majority <-> Mehrzahl, Mehrheit
 <!--SR:!2024-12-02,85,368!2024-10-29,74,358-->
