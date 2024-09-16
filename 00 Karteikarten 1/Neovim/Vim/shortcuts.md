@@ -25,7 +25,7 @@ n: Increase Window Width ->\<C-Right>
 n: Prev Buffer ->\<S-h>
 <!--SR:!2024-09-17,2,150-->
 n: Next Buffer ->\<S-l>
-<!--SR:!2024-09-16,1,229-->
+<!--SR:!2024-09-18,2,229-->
 n: Prev Buffer -> [b
 <!--SR:!2024-09-19,9,267-->
 n: Next Buffer -> ]b
@@ -47,9 +47,9 @@ n, x, o: Next Search Result -> n
 n, x, o: Prev Search Result -> N
 <!--SR:!2024-09-25,12,289-->
 i, x, n, s: Save File ->\<C-s>
-<!--SR:!2024-09-16,6,267-->
+<!--SR:!2024-10-07,21,287-->
 n: Keywordprg ->\<leader>K
-<!--SR:!2024-09-16,3,209-->
+<!--SR:!2024-09-23,7,229-->
 n: Add Comment Below -> gco
 <!--SR:!2024-09-26,13,289-->
 n: Add Comment Above -> gcO
@@ -57,11 +57,11 @@ n: Add Comment Above -> gcO
 n: Lazy ->\<leader>l
 <!--SR:!2024-09-22,9,269-->
 n: New File ->\<leader>fn
-<!--SR:!2024-09-16,3,209-->
+<!--SR:!2024-09-24,8,229-->
 n: Location List ->\<leader>xl
 <!--SR:!2024-09-26,11,246-->
 n: Quickfix List ->\<leader>xq
-<!--SR:!2024-09-16,1,169-->
+<!--SR:!2024-09-18,2,189-->
 n: Previous Quickfix -> [q
 <!--SR:!2024-09-23,10,289-->
 n: Next Quickfix -> ]q
