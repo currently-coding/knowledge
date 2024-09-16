@@ -72,7 +72,7 @@ def process_translations(data, output_with_examples):
         pos = entry.get('pos', 'N/A').split(',')[0]
         word = f"to {entry.get('text', 'N/A')}" if pos == "verb" else entry.get('text', 'N/A')
         
-        translations = [t['text'] for t in entry.get('translations', []) if pos in t['pos']]
+        translations = [t['text'] for t in entry.get('translations', []) if pos in t['pos']][:3]
         src_examples = [e['src'] for t in entry.get('translations', []) for e in t.get('examples', [])]
         dst_examples = [e['dst'] for t in entry.get('translations', []) for e in t.get('examples', [])]
 

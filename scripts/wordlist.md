@@ -1,10 +1,3 @@
-altogether
-ambulance
-amusing
-analyst
-ancestor
-animation
-annually
 anticipate
 anxiety
 apology

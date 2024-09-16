@@ -9,7 +9,7 @@ ubiquitous <-> allgegenwärtig, omnipräsent
 <!--SR:!2024-09-23,59,310!2025-02-23,168,317-->
 
 ameliorate <-> verbessern
-<!--SR:!2024-09-16,4,362!2024-09-19,6,362-->
+<!--SR:!2024-10-05,19,382!2024-09-19,6,362-->
 
 eternity <-> Limitless amount of time
 <!--SR:!2024-09-20,57,312!2024-09-30,65,317-->
@@ -27,7 +27,7 @@ quintessence <-> quintessenz
 <!--SR:!2024-09-19,58,312!2024-09-25,61,317-->
 
 solitude <-> state of isolation/loneliness
-<!--SR:!2024-09-16,55,310!2024-10-06,69,317-->
+<!--SR:!2025-05-09,235,330!2024-10-06,69,317-->
 
 to cherish <-> to care about smth and cultivate it with affection
 <!--SR:!2024-09-24,61,317!2025-03-03,176,310-->
@@ -75,13 +75,13 @@ apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-10-12,59,332!2024-10-18,40,298-->
 
 to eradicate <-> ausloeschen
-<!--SR:!2024-09-17,4,362!2024-09-16,1,324-->
+<!--SR:!2024-09-17,4,362!2024-09-20,4,344-->
 
 apposite <-> treffend
-<!--SR:!2024-09-16,1,324!2024-09-18,4,342-->
+<!--SR:!2024-09-20,4,344!2024-09-18,4,342-->
 
 dedication <-> Engagement, Einsatz
-<!--SR:!2024-09-16,3,343!2024-09-21,6,364-->
+<!--SR:!2024-10-01,15,363!2024-09-21,6,364-->
 
 manslaughter <-> Totschlag
 <!--SR:!2024-09-17,4,363!2024-09-20,5,364-->
