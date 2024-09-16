@@ -48,3 +48,20 @@ additional(adjective) (Additional information can be found on the website., This
 <!--SR:!2024-09-19,4,270!2000-01-01,1,250-->
 adequate(adjective) (An adequate amount of water is important on every hike., I finally received an adequate answer to my question., My income is not high, but it is adequate.) <-> ausreichend, angemessen, hinreichend, adäquat, entsprechend, genügend, auskömmlich, hinlänglich, zulänglich, zweckentsprechend
 <!--SR:!2024-09-18,3,250!2000-01-01,1,250-->
+adequately(adverb) () <-> angemessen, hinreichend, ausreichend, entsprechend, adäquat, ordnungsgemäß, hinlänglich, genügend, auskömmlich, zulänglich, zweckentsprechend 
+adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) <-> angemessen, adäquat, hinreichend, ausreichend, genügend, entsprechend, auskömmlich, hinlänglich, zulänglich, zweckentsprechend 
+to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) <-> anpassen, einstellen, abstimmen, verstellen, ausrichten, regeln, justieren, ändern, korrigieren, richten, verändern, regulieren, abgleichen, umstellen, berichtigen, ausgleichen, nachstellen, angleichen, einregeln, in Ordnung bringen, ordnen, bereinigen, ausregeln, adjustieren, zurichten, richtigstellen, anordnen, zurechtrücken, einpassen 
+to adjust oneself(verb) () <-> sich anpassen 
+to adjust oneself to(verb) () <-> sich an anpassen 
+affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) <-> erschwinglich, bezahlbar, preiswert, kostengünstig, leistbar, günstig, preisgünstig, finanziell tragbar 
+agriculture(noun) (Agriculture accounts for ten per cent of GDP.) <-> Landwirtschaft, Landbau, Agrikultur, Agrarwirtschaft, Ackerbau, Agrarsektor 
+AIDS(noun) () <-> Aids 
+aids(noun) () <-> Hilfsmittel, Hilfen, Hilfe, Beihilfen 
+aid(noun) (The foundation receives financial aid from donors.) <-> Unterstützung, Beihilfe, Hilfe, Fördermittel, Hilfsmittel, Mithilfe, Hilfeleistung, Hilfen, Zuhilfenahme, Förderung, Fürsorge 
+to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) <-> helfen, unterstützen, fördern, beispringen 
+Aids(noun) () <-> AIDS 
+alien(noun) (Some people believe in aliens.) <-> Ausländer, Außerirdischer, Fremder, Außerirdische, Alien, Ausländerin, Fremdling 
+alien(adjective) (The way of life of the local people seemed alien to me.) <-> fremd, ausländisch, artfremd, außerirdisch, fremdartig, wesensfremd, fremdländisch 
+Alien(noun) () <-> alien 
+alongside(preposition) (I love walking alongside the river.) <-> neben, entlang, längs, lang 
+alongside(adverb) () <-> daneben, Seite an Seite, an der Seite, nebenher, längsseits 

@@ -1,10 +1,3 @@
-adequately
-adjust
-affordable
-agriculture
-AIDS
-alien
-alongside
 altogether
 ambulance
 amusing
