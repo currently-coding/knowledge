@@ -7,5 +7,5 @@
 ## 5 Grammys
 
 # Fazit
->Musikalische Dieversität als Medium für gesellschaftliches *Miteinander*, *Aufbegehen* und *Hoffnung*
+>Musikalische Dieversität als Medium für gesellschaftliches ***Miteinander***, ***Aufbegehen*** und ***Hoffnung***
 
