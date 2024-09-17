@@ -105,7 +105,8 @@ to merge(verb) (In the author's new book reality and fantasy merge seamlessly., 
 sweatshop(noun) () <-> Ausbeutungsbetrieb, Ausbeuterbetrieb 
 multinational(adjective) (We are a well-known multinational company.) <-> multinational 
 multinational(noun) (The food industry is dominated by multinationals.) <-> Multi, multinationaler Konzern 
-multinational(adjective) (Wir sind ein renommiertes, multinationales Unternehmen.) <-> multinational 
+multinational(adjective) (Wir sind ein renommiertes, multinationales Unternehmen.) <-> multinational
+<!--SR:!2024-09-21,4,299!2000-01-01,1,250-->
 multinational(adverb) () <-> multinationally
 <!--SR:!2024-09-21,4,299!2000-01-01,1,250-->
 free trade(noun) () <-> Freihandel, freier Handel, Handelsfreiheit 
