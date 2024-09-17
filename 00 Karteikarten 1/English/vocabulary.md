@@ -100,14 +100,19 @@ animation(noun) (The computer game provides very authentic animations., The prog
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig
 <!--SR:!2000-01-01,1,250!2024-09-21,4,299-->
 
+
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) <-> Verschmelzung, Fusion, Zusammenschluss
 <!--SR:!2024-09-20,3,279!2000-01-01,1,250-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) <-> verschmelzen, fusionieren, zusammenfügen 
+merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) <-> Verschmelzung, Fusion, Zusammenschluss 
+to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) <-> verschmelzen, fusionieren, zusammenfügen
+<!--SR:!2000-01-01,1,250!2024-09-18,1,260-->
 sweatshop(noun) () <-> Ausbeutungsbetrieb, Ausbeuterbetrieb 
-multinational(adjective) (We are a well-known multinational company.) <-> multinational 
+multinational(adjective) (We are a well-known multinational company.) <-> multinational
+<!--SR:!2024-09-20,3,280!2000-01-01,1,250-->
 multinational(noun) (The food industry is dominated by multinationals.) <-> Multi, multinationaler Konzern 
 multinational(adjective) (Wir sind ein renommiertes, multinationales Unternehmen.) <-> multinational
-<!--SR:!2024-09-21,4,299!2000-01-01,1,250-->
+<!--SR:!2024-09-21,4,299!2024-09-20,3,280-->
 multinational(adverb) () <-> multinationally
 <!--SR:!2024-09-21,4,299!2000-01-01,1,250-->
 free trade(noun) () <-> Freihandel, freier Handel, Handelsfreiheit 
