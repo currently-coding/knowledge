@@ -6,7 +6,7 @@ abstract(adjective) (The artist is famous for his abstract paintings., Intellige
 abstract(noun) (I have to write an abstract for my dissertation.) <-> Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung
 <!--SR:!2024-09-19,4,270!2024-09-20,4,282-->
 to abstract(verb) (I will read the article and abstract the main ideas.) <-> trennen, abziehen, entnehmen
-<!--SR:!2024-09-19,3,250!2000-01-01,1,250-->
+<!--SR:!2024-09-19,3,250!2024-09-21,4,296-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) <-> Akzent, Betonung
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 to accent(verb) <-> betonen, akzentuieren, hervorheben
@@ -52,13 +52,13 @@ adequate(adjective) (An adequate amount of water is important on every hike., I 
 adequately(adverb) () <-> angemessen, hinreichend, ausreichend, entsprechend
 <!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) <-> angemessen, adäquat, hinreichend, ausreichend
-<!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
+<!--SR:!2024-09-20,4,282!2024-09-21,4,296-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) <-> anpassen, einstellen, abstimmen, verstellen
 <!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
 to adjust oneself(verb) () <-> sich anpassen
-<!--SR:!2000-01-01,1,250!2024-09-17,1,242-->
+<!--SR:!2000-01-01,1,250!2024-09-20,3,262-->
 to adjust oneself to(verb) () <-> sich an anpassen
-<!--SR:!2000-01-01,1,250!2024-09-17,1,242-->
+<!--SR:!2000-01-01,1,250!2024-09-20,3,262-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) <-> erschwinglich, bezahlbar, preiswert, kostengünstig
 <!--SR:!2000-01-01,1,250!2024-09-20,4,282-->
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) <-> Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
@@ -80,22 +80,20 @@ alien(adjective) (The way of life of the local people seemed alien to me.) <-> f
 Alien(noun) () <-> alien
 <!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
 alongside(preposition) (I love walking alongside the river.) <-> neben, entlang, längs, lang
-<!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
+<!--SR:!2024-09-20,4,282!2024-09-20,3,276-->
 alongside(adverb) () <-> daneben, Seite an Seite, an der Seite, nebenher, längsseits
 <!--SR:!2024-09-19,3,262!2000-01-01,1,250-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) <-> insgesamt, im Ganzen, alles in allem
-<!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
+<!--SR:!2024-09-20,4,282!2024-09-21,4,296-->
 ambulance(noun) (The ambulance took the patient to the hospital.) <-> Krankenwagen, Ambulanz, Rettungswagen
-<!--SR:!2000-01-01,1,250!2024-09-20,4,282-->
+<!--SR:!2024-09-21,4,296!2024-09-20,4,282-->
 amusing(adjective / present participle) (The comedy was very amusing.) <-> erheiternd, belustigend
-<!--SR:!2000-01-01,1,250!2024-09-20,4,282-->
+<!--SR:!2024-09-18,1,256!2024-09-20,4,282-->
 amusing oneself(present participle) () <-> sich unterhaltend
 <!--SR:!2024-09-19,3,262!2000-01-01,1,250-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) <-> unterhalten, amüsieren, belustigen
 <!--SR:!2000-01-01,1,250!2024-09-19,3,262-->
 to amuse oneself(verb) (The teenagers amused themselves at the fair.) <-> sich vergnügen, sich unterhalten, sich amüsieren
-<!--SR:!2000-01-01,1,250!2024-09-20,4,282-->
-analyst(noun) (The analyst evaluated statistics for the newspaper.) <-> Analyst, Analytiker, Analytikerin
 <!--SR:!2000-01-01,1,250!2024-09-20,4,282-->
 Analyst(noun) () <-> analyst
 <!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
@@ -103,9 +101,7 @@ ancestor(noun) (The history of my ancestors is interesting.) <-> Vorfahre, Vorfa
 <!--SR:!2000-01-01,1,250!2024-09-20,4,282-->
 animation(noun) (The computer game provides very authentic animations., The programmer rendered the object for animation., I love the children's animation and exuberance.) <-> Animation, Lebhaftigkeit, Belebung
 <!--SR:!2000-01-01,1,250!2024-09-19,3,262-->
-Animation(noun) (Das Computerspiel bietet sehr authentische Animationen., Der Programmierer renderte das Objekt zur Animation.) <-> animation, entertainment
-<!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
 annually(adverb) () <-> jährlich, alljährlich, einjährig
 <!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig
-<!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
+<!--SR:!2024-09-20,4,282!2024-09-21,4,296-->
