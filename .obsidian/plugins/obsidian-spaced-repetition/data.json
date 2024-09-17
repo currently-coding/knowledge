@@ -27,23 +27,7 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [
-      "\"GHH\"",
-      "\"01 Informatik\"",
-      "\"02 Chemie\"",
-      "\"03 Physik\"",
-      "\"04 Geschichte\"",
-      "\"05 Ethik\"",
-      "\"06 Politik & Gesellschaft\"",
-      "\"07 Englisch\"",
-      "\"08 Deutsch\"",
-      "\"09 Musik\"",
-      "\"10 Geographie\"",
-      "\"11 Wirtschaft\"",
-      "\"12 Latein\"",
-      "\"13 Mathematik\"",
-      "\"00 Karteikarten 1/Ignore\""
-    ],
+    "noteFoldersToIgnore": [],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
