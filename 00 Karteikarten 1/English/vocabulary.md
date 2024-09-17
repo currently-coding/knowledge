@@ -98,6 +98,7 @@ ancestor(noun) (The history of my ancestors is interesting.) <-> Vorfahre, Vorfa
 animation(noun) (The computer game provides very authentic animations., The programmer rendered the object for animation., I love the children's animation and exuberance.) <-> Animation, Lebhaftigkeit, Belebung
 <!--SR:!2024-09-18,1,257!2024-09-19,3,262-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig
+<!--SR:!2000-01-01,1,250!2024-09-21,4,299-->
 
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) <-> Verschmelzung, Fusion, Zusammenschluss 
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) <-> verschmelzen, fusionieren, zusammenfügen 
@@ -105,7 +106,8 @@ sweatshop(noun) () <-> Ausbeutungsbetrieb, Ausbeuterbetrieb
 multinational(adjective) (We are a well-known multinational company.) <-> multinational 
 multinational(noun) (The food industry is dominated by multinationals.) <-> Multi, multinationaler Konzern 
 multinational(adjective) (Wir sind ein renommiertes, multinationales Unternehmen.) <-> multinational 
-multinational(adverb) () <-> multinationally 
+multinational(adverb) () <-> multinationally
+<!--SR:!2024-09-21,4,299!2000-01-01,1,250-->
 free trade(noun) () <-> Freihandel, freier Handel, Handelsfreiheit 
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) <-> Handelshemmnis, Handelsbarriere, Handelsbeschränkung 
 barrier to trade(noun) () <-> Handelshemmnis 
