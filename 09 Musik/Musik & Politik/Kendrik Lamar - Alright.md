@@ -4,7 +4,7 @@
 - Bild wichtiger als Ton
 	- schwarz - weiss gehalten(Rassismus)
 
-## 5 Grammys
+## 5 Grammysp
 
 # Fazit
 >Musikalische Dieversität als Medium für gesellschaftliches ***Miteinander***, ***Aufbegehen*** und ***Hoffnung***
