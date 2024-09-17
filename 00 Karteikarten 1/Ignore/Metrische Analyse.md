@@ -43,7 +43,8 @@ Vorgehen beim Skandieren
 3. Natur- und Positionslängen einzeichnen
 4. Kurze Vokale eintragen
 5. Fertigstellen
-<!--SR:!2024-07-11,4,284!2024-07-11,4,284-->
+
+<!--SR:!2024-07-11,4,284-->
 
 
 Verschleifungen
@@ -64,7 +65,8 @@ Anfang und Ende eintragen
 - Erste Silbe jedes Verses ist lang
 - Hexameter: Letzte beiden Versfüße gleich
 - Pentameter: Alles nach Diärese gleich
-<!--SR:!2024-07-11,4,284!2024-07-11,4,284-->
+
+<!--SR:!2024-07-11,4,284-->
 
 
 Natur und Positionslängen (eintragen
@@ -73,4 +75,5 @@ Natur und Positionslängen (eintragen
 - vordere Silbe bei mehreren Konsonanten nach einem Vokal
 - non
 - Akk. Pluralendungen
-<!--SR:!2024-07-11,4,284!2024-07-11,4,284-->
+
+<!--SR:!2024-07-11,4,284-->
