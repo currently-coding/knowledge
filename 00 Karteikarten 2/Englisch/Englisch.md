@@ -2,7 +2,7 @@
 
 
  to blossom <-> blühen
-<!--SR:!2000-01-01,1,250!2024-09-16,3,250-->
+
  to rant <-> schimpfen
 
  to chant <-> skandieren, singen
@@ -77,26 +77,6 @@
 
 Schweiß -> perspiration
 <!--SR:!2024-09-14,1,230-->
-
-
-<<<<<<< HEAD
-# Karteikarte mehrzeilig(beide richtungen)
-
-stunde
-??
-hour
-
-
-# Karteikarte mehrzeilig(eine richtung)
-
-sekunde
-?
-second
-<!--SR:!2024-09-17,4,270-->
-=======
----
-
->>>>>>> origin/main
 
 
 
