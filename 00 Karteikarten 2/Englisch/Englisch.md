@@ -1,13 +1,6 @@
-
-<<<<<<< HEAD
-<!--SR:!2024-09-16,3,259-->
-
-<!--SR:!2024-09-16,3,259-->
 # Wird in beide Richtungen abgefragt
 
-=======
----
->>>>>>> origin/main
+
  to blossom <-> blühen
 <!--SR:!2000-01-01,1,250!2024-09-16,3,250-->
  to rant <-> schimpfen
@@ -73,15 +66,14 @@
 
  adamant <-> unerbittlich
 <<<<<<< HEAD
-<!--SR:!2024-09-14,1,230!2000-01-01,1,250-->
+
+<!--SR:!2024-09-14,1,230-->
  to target <-> anvisieren, zum Ziel setzen
+ 
 <!--SR:!2000-01-01,1,250!2024-09-16,3,250-->
-# Wird in eine Richtung(-\>) abgefragt
-=======
+
  to target <-> anvisieren, zum Ziel setzen 
 
----
->>>>>>> origin/main
 
 Schweiß -> perspiration
 <!--SR:!2024-09-14,1,230-->

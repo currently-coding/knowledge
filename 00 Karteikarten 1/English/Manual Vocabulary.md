@@ -209,4 +209,6 @@ to allege <-> behaupten
 allegedly <-> angeblich, vermeintlich
 <!--SR:!2024-10-01,48,348!2024-11-30,83,358-->
 
+exhilarate <-> erheitern, aufheitern
+<!--SR:!2024-09-23,6,365!2000-01-01,1,250-->
 
