@@ -20,14 +20,7 @@
   ],
   "file-explorer:new-file-in-new-pane": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "markdown:toggle-preview": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
+  "markdown:toggle-preview": [],
   "obsidian-git:push": [
     {
       "modifiers": [
@@ -76,6 +69,14 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-review-flashcards": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
     }
   ]
 }

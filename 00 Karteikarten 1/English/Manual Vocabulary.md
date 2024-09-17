@@ -75,7 +75,7 @@ apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-10-12,59,332!2024-10-18,40,298-->
 
 to eradicate <-> ausloeschen
-<!--SR:!2024-09-17,4,362!2024-09-20,4,344-->
+<!--SR:!2024-10-06,19,382!2024-09-20,4,344-->
 
 apposite <-> treffend
 <!--SR:!2024-09-20,4,344!2024-09-18,4,342-->
@@ -84,7 +84,7 @@ dedication <-> Engagement, Einsatz
 <!--SR:!2024-10-01,15,363!2024-09-21,6,364-->
 
 manslaughter <-> Totschlag
-<!--SR:!2024-09-17,4,363!2024-09-20,5,364-->
+<!--SR:!2024-10-09,22,383!2024-09-20,5,364-->
 
 to target <-> anvisieren
 <!--SR:!2024-09-20,5,364!2024-09-19,6,362-->
@@ -153,7 +153,7 @@ majority <-> Mehrzahl, Mehrheit
 <!--SR:!2024-12-02,85,368!2024-10-29,74,358-->
 
 to assert <-> geltend machen, durchsetzen
-<!--SR:!2024-09-17,3,258!2024-09-18,10,334-->
+<!--SR:!2024-09-27,10,278!2024-09-18,10,334-->
 
 humble <-> bescheiden, einfach, demütig
 <!--SR:!2024-11-02,77,358!2024-11-15,68,348-->
@@ -209,4 +209,6 @@ to allege <-> behaupten
 allegedly <-> angeblich, vermeintlich
 <!--SR:!2024-10-01,48,348!2024-11-30,83,358-->
 
+exhilarate <-> erheitern, aufheitern
+<!--SR:!2024-09-23,6,365!2000-01-01,1,250-->
 

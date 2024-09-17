@@ -5,7 +5,7 @@ Dynamik -> definiert ein auf die Lautstaerke bezogenes Relationsgefuege der einz
 <!--SR:!2024-09-23,8,254-->
 
 Instrumentation/Besetzung -> bestimmt den Aspekt der Klangfarbe bzw. die Differenzierung und Verteilung der Klangfarben im Stueck. Kann formgebennd wirken
-<!--SR:!2024-09-17,1,213-->
+<!--SR:!2024-09-20,3,233-->
 
 Artikulation/Phrasierung -> bestimmt durch die Spielweise(kurz, lang gebunden, ...) die spezifische WIrkung von Einzeltoenen und erzeugt dadurch ggf. Gruppierungen(Melodische Phrasen)
 <!--SR:!2024-09-18,3,253-->
