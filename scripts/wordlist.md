@@ -1,10 +1,3 @@
-
-merger
-sweatshop
-multinational
-free trade
-trade barrier
-exchange rate
 exploitation
 standard of living
 debt relief
