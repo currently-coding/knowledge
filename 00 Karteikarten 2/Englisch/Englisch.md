@@ -1,5 +1,3 @@
-# Wird in beide Richtungen abgefragt
-
 
  to blossom <-> blühen
 
