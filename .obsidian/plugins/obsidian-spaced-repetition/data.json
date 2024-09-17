@@ -6,9 +6,9 @@
     "flashcardTags": [
       "#flashcards"
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
-    "burySiblingCards": false,
+    "burySiblingCards": true,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
@@ -18,8 +18,8 @@
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
-    "singleLineCardSeparator": "::",
-    "singleLineReversedCardSeparator": ":::",
+    "singleLineCardSeparator": "->",
+    "singleLineReversedCardSeparator": "<->",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "editLaterTag": "#edit-later",
@@ -27,7 +27,23 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [],
+    "noteFoldersToIgnore": [
+      "GHH",
+      "01 Informatik",
+      "02 Chemie",
+      "03 Physik",
+      "04 Geschichte",
+      "05 Ethik",
+      "06 Politik & Gesellschaft",
+      "07 Englisch",
+      "08 Deutsch",
+      "09 Musik",
+      "10 Geographie",
+      "11 Wirtschaft",
+      "12 Latein",
+      "13 Mathematik",
+      "00 Karteikarten 1/Ignore"
+    ],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
@@ -41,6 +57,15 @@
     "showDebugMessages": false
   },
   "buryDate": "2024-09-17",
+<<<<<<< HEAD
   "buryList": [],
+=======
+  "buryList": [
+    "85bca3bd2e8b1",
+    "14d5864fcf81ec",
+    "b5f75f64c3f9a",
+    "1cb1f75a97f00"
+  ],
+>>>>>>> origin/main
   "historyDeck": null
 }

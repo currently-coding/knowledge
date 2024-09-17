@@ -1,3 +1,53 @@
+
+merger
+sweatshop
+multinational
+free trade
+trade barrier
+exchange rate
+exploitation
+standard of living
+debt relief
+current affairs
+fund sth.
+deforestation
+mechanization
+assembly line
+trade deficit
+urbanization
+diversify
+e-commerce
+offshoring
+environmentalism
+work ethic
+subsidize
+launch
+welfare
+livelihood
+flourish
+supplier
+purchase
+to commission
+state of the art
+decline
+promote
+inequality
+wealth
+tax
+recession
+prosperity
+accelerate
+facilitate
+marginalization
+distribution
+
+anticipate
+anxiety
+apology
+applicant
+appropriately
+arrow
+artwork
 aside
 asset
 assign

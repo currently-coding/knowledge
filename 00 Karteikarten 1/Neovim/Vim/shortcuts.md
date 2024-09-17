@@ -5,7 +5,7 @@ n, x: Down ->\<Down>
 n, x: Up -> k
 <!--SR:!2024-10-25,47,309-->
 n, x: Up ->\<Up>
-<!--SR:!2024-09-17,6,269-->
+<!--SR:!2024-10-09,22,289-->
 n, t: Go to Left Window ->\<C-h>
 <!--SR:!2024-09-25,12,289-->
 n, t: Go to Lower Window ->\<C-j>
@@ -17,13 +17,13 @@ n, t: Go to Right Window ->\<C-l>
 n: Increase Window Height ->\<C-Up>
 <!--SR:!2024-09-27,14,290-->
 n: Decrease Window Height ->\<C-Down>
-<!--SR:!2024-09-17,6,250-->
+<!--SR:!2024-10-07,20,270-->
 n: Decrease Window Width ->\<C-Left>
 <!--SR:!2024-09-24,11,289-->
 n: Increase Window Width ->\<C-Right>
 <!--SR:!2024-09-24,11,289-->
 n: Prev Buffer ->\<S-h>
-<!--SR:!2024-09-17,2,150-->
+<!--SR:!2024-09-21,4,170-->
 n: Next Buffer ->\<S-l>
 <!--SR:!2024-09-18,2,229-->
 n: Prev Buffer -> [b
@@ -33,7 +33,7 @@ n: Next Buffer -> ]b
 n: Switch to Other Buffer ->\<leader>bb
 <!--SR:!2024-09-23,10,270-->
 n: Switch to Other Buffer ->\<leader>`
-<!--SR:!2024-09-17,2,209-->
+<!--SR:!2024-09-18,1,189-->
 n: Delete Buffer ->\<leader>bd
 <!--SR:!2024-09-21,8,269-->
 n: Delete Buffer and Window ->\<leader>bD
@@ -67,9 +67,9 @@ n: Previous Quickfix -> [q
 n: Next Quickfix -> ]q
 <!--SR:!2024-09-24,11,289-->
 n, v: Format ->\<leader>cf
-<!--SR:!2024-09-17,4,209-->
+<!--SR:!2024-09-28,11,229-->
 n: Line Diagnostics ->\<leader>cd
-<!--SR:!2024-09-17,2,169-->
+<!--SR:!2024-09-21,4,189-->
 n: Next Diagnostic -> ]d
 <!--SR:!2024-09-22,9,289-->
 n: Prev Diagnostic -> [d
