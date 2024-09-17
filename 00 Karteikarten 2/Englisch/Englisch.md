@@ -80,4 +80,3 @@ Schweiß -> perspiration
 
 
 
-
