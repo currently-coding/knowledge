@@ -1,175 +1,175 @@
-n: Toggle Auto Format (Global) ->\<leader>uf
-<!--SR:!2024-08-18,1,209-->
-n: Toggle Auto Format (Buffer) ->\<leader>uF
-n: Toggle Spelling ->\<leader>us
-n: Toggle Wrap ->\<leader>uw
-n: Toggle Relative Number ->\<leader>uL
-n: Toggle Diagnostics ->\<leader>ud
-n: Toggle Line Numbers ->\<leader>ul
-n: Toggle conceallevel ->\<leader>uc
-n: Toggle Treesitter Highlight ->\<leader>uT
-n: Toggle Background ->\<leader>ub
-n: Toggle Inlay Hints ->\<leader>uh
-n: Lazygit (Root Dir) ->\<leader>gg
-n: Lazygit (cwd) ->\<leader>gG
-n: Git Blame Line ->\<leader>gb
-n: Git Browse ->\<leader>gB
-n: Lazygit Current File History ->\<leader>gf
-n: Lazygit Log ->\<leader>gl
-n: Lazygit Log (cwd) ->\<leader>gL
-n: Quit All ->\<leader>qq
-n: Inspect Pos ->\<leader>ui
-n: Inspect Tree ->\<leader>uI
-n: LazyVim Changelog ->\<leader>L
-n: Terminal (Root Dir) ->\<leader>ft
-n: Terminal (cwd) ->\<leader>fT
-<!--SR:!2024-08-20,3,248-->
-n: Terminal (Root Dir) ->\<c-/>
-n, t: which_key_ignore ->\<c-\_>
-<!--SR:!2024-08-18,1,222-->
-t: Enter Normal Mode ->\<esc>|<esc>
-t: Hide Terminal ->\<C-/>
-n: Windows ->\<leader>w
-n: Split Window Below ->\<leader>-
-n: Split Window Right ->\<leader>|
-n: Delete Window ->\<leader>wd
-<!--SR:!2024-08-19,2,229-->
-n: Toggle Maximize ->\<leader>wm
-n: Last Tab ->\<leader>|<tab>l
-n: Close Other Tabs ->\<leader>|<tab>o
-n: First Tab ->\<leader>|<tab>f
-n: New Tab ->\<leader>|<tab>|<tab>
-n: Next Tab ->\<leader>|<tab>]
-n: Close Tab ->\<leader>|<tab>d
-n: Previous Tab ->\<leader>|<tab>[
-n: Lsp Info ->\<leader>cl
-n: Goto Definition -> gd
-n: References -> gr
-n: Goto Implementation -> gI
-n: Goto T[y]pe Definition -> gy
-n: Goto Declaration -> gD
-n: Hover -> K
-n: Signature Help -> gK
-i: Signature Help ->\<c-k>
-n, v: Code Action ->\<leader>ca
-n, v: Run Codelens ->\<leader>cc
-n: Refresh & Display Codelens ->\<leader>cC
-<!--SR:!2024-08-20,3,249-->
-n: Rename File ->\<leader>cR
-<!--SR:!2024-08-28,11,288-->
-n: Rename ->\<leader>cr
-n: Source Action ->\<leader>cA
-n: Next Reference -> ]]
-n: Prev Reference -> [[
-<!--SR:!2024-08-18,1,208-->
-n: Next Reference ->\<a-n>
-n: Prev Reference ->\<a-p>
-n: Delete Buffers to the Left ->\<leader>bl
-n: Delete Other Buffers ->\<leader>bo
-n: Toggle Pin ->\<leader>bp
-n: Delete Non-Pinned Buffers ->\<leader>bP
-n: Delete Buffers to the Right ->\<leader>br
-n: Prev Buffer -> [b
-n: Move buffer prev -> [B
-n: Next Buffer -> ]b
-n: Move buffer next -> ]B
-n: Prev Buffer ->\<S-h>
-n: Next Buffer ->\<S-l>
-n, v: Format Injected Langs ->\<leader>cF
-c: Toggle Flash Search ->\<c-s>
-o: Remote Flash -> r
-o, x: Treesitter Search -> R
-n, o, x: Flash -> s
-n, o, x: Flash Treesitter -> S
-n, v: Search and Replace ->\<leader>sr
-n: Mason ->\<leader>cm
-n: Buffer Explorer ->\<leader>be
-n: Explorer NeoTree (Root Dir) ->\<leader>e
-<!--SR:!2024-08-23,6,268-->
-n: Explorer NeoTree (cwd) ->\<leader>E
-n: Explorer NeoTree (Root Dir) ->\<leader>fe
-<!--SR:!2024-08-24,7,269-->
-n: Explorer NeoTree (cwd) ->\<leader>fE
-n: Git Explorer ->\<leader>ge
-n, i, s: Scroll Backward ->\<c-b>
-n, i, s: Scroll Forward ->\<c-f>
-n: +noice ->\<leader>sn
-n: Noice All ->\<leader>sna
-n: Dismiss All ->\<leader>snd
-n: Noice History ->\<leader>snh
-n: Noice Last Message ->\<leader>snl
-n: Noice Picker (Telescope/FzfLua) ->\<leader>snt
-c: Redirect Cmdline ->\<S-Enter>
-n: Dismiss All Notifications ->\<leader>un
-x: Decrement Selection ->\<bs>
-n: Increment Selection ->\<c-space>
-n: Don't Save Current Session ->\<leader>qd
-n: Restore Last Session ->\<leader>ql
-n: Restore Session ->\<leader>qs
-n: Find Files (Root Dir) ->\<leader>|<space>
-n: Switch Buffer ->\<leader>,
-n: Grep (Root Dir) ->\<leader>/
-n: Command History ->\<leader>:
-n: Buffers ->\<leader>fb
-n: Find Config File ->\<leader>fc
-<!--SR:!2024-08-27,10,289-->
-n: Find Files (Root Dir) ->\<leader>ff
-n: Find Files (cwd) ->\<leader>fF
-n: Find Files (git-files) ->\<leader>fg
-n: Recent ->\<leader>fr
-n: Recent (cwd) ->\<leader>fR
-n: Commits ->\<leader>gc
-n: Status ->\<leader>gs
-n: Registers ->\<leader>s"
-n: Auto Commands ->\<leader>sa
-n: Buffer ->\<leader>sb
-n: Command History ->\<leader>sc
-n: Commands ->\<leader>sC
-<!--SR:!2024-08-18,1,208-->
-n: Document Diagnostics ->\<leader>sd
-n: Workspace Diagnostics ->\<leader>sD
+n: Toggle Auto Format (Global) REPLACE_WITH_ARROW\<leader>uf
+<!--SR:!2024-08-18,1,209-REPLACE_WITH_ARROW
+n: Toggle Auto Format (Buffer) REPLACE_WITH_ARROW\<leader>uF
+n: Toggle Spelling REPLACE_WITH_ARROW\<leader>us
+n: Toggle Wrap REPLACE_WITH_ARROW\<leader>uw
+n: Toggle Relative Number REPLACE_WITH_ARROW\<leader>uL
+n: Toggle Diagnostics REPLACE_WITH_ARROW\<leader>ud
+n: Toggle Line Numbers REPLACE_WITH_ARROW\<leader>ul
+n: Toggle conceallevel REPLACE_WITH_ARROW\<leader>uc
+n: Toggle Treesitter Highlight REPLACE_WITH_ARROW\<leader>uT
+n: Toggle Background REPLACE_WITH_ARROW\<leader>ub
+n: Toggle Inlay Hints REPLACE_WITH_ARROW\<leader>uh
+n: Lazygit (Root Dir) REPLACE_WITH_ARROW\<leader>gg
+n: Lazygit (cwd) REPLACE_WITH_ARROW\<leader>gG
+n: Git Blame Line REPLACE_WITH_ARROW\<leader>gb
+n: Git Browse REPLACE_WITH_ARROW\<leader>gB
+n: Lazygit Current File History REPLACE_WITH_ARROW\<leader>gf
+n: Lazygit Log REPLACE_WITH_ARROW\<leader>gl
+n: Lazygit Log (cwd) REPLACE_WITH_ARROW\<leader>gL
+n: Quit All REPLACE_WITH_ARROW\<leader>qq
+n: Inspect Pos REPLACE_WITH_ARROW\<leader>ui
+n: Inspect Tree REPLACE_WITH_ARROW\<leader>uI
+n: LazyVim Changelog REPLACE_WITH_ARROW\<leader>L
+n: Terminal (Root Dir) REPLACE_WITH_ARROW\<leader>ft
+n: Terminal (cwd) REPLACE_WITH_ARROW\<leader>fT
+<!--SR:!2024-08-20,3,248-REPLACE_WITH_ARROW
+n: Terminal (Root Dir) REPLACE_WITH_ARROW\<c-/>
+n, t: which_key_ignore REPLACE_WITH_ARROW\<c-\_>
+<!--SR:!2024-08-18,1,222-REPLACE_WITH_ARROW
+t: Enter Normal Mode REPLACE_WITH_ARROW\<esc>|<esc>
+t: Hide Terminal REPLACE_WITH_ARROW\<C-/>
+n: Windows REPLACE_WITH_ARROW\<leader>w
+n: Split Window Below REPLACE_WITH_ARROW\<leader>-
+n: Split Window Right REPLACE_WITH_ARROW\<leader>|
+n: Delete Window REPLACE_WITH_ARROW\<leader>wd
+<!--SR:!2024-08-19,2,229-REPLACE_WITH_ARROW
+n: Toggle Maximize REPLACE_WITH_ARROW\<leader>wm
+n: Last Tab REPLACE_WITH_ARROW\<leader>|<tab>l
+n: Close Other Tabs REPLACE_WITH_ARROW\<leader>|<tab>o
+n: First Tab REPLACE_WITH_ARROW\<leader>|<tab>f
+n: New Tab REPLACE_WITH_ARROW\<leader>|<tab>|<tab>
+n: Next Tab REPLACE_WITH_ARROW\<leader>|<tab>]
+n: Close Tab REPLACE_WITH_ARROW\<leader>|<tab>d
+n: Previous Tab REPLACE_WITH_ARROW\<leader>|<tab>[
+n: Lsp Info REPLACE_WITH_ARROW\<leader>cl
+n: Goto Definition REPLACE_WITH_ARROW gd
+n: References REPLACE_WITH_ARROW gr
+n: Goto Implementation REPLACE_WITH_ARROW gI
+n: Goto T[y]pe Definition REPLACE_WITH_ARROW gy
+n: Goto Declaration REPLACE_WITH_ARROW gD
+n: Hover REPLACE_WITH_ARROW K
+n: Signature Help REPLACE_WITH_ARROW gK
+i: Signature Help REPLACE_WITH_ARROW\<c-k>
+n, v: Code Action REPLACE_WITH_ARROW\<leader>ca
+n, v: Run Codelens REPLACE_WITH_ARROW\<leader>cc
+n: Refresh & Display Codelens REPLACE_WITH_ARROW\<leader>cC
+<!--SR:!2024-08-20,3,249-REPLACE_WITH_ARROW
+n: Rename File REPLACE_WITH_ARROW\<leader>cR
+<!--SR:!2024-08-28,11,288-REPLACE_WITH_ARROW
+n: Rename REPLACE_WITH_ARROW\<leader>cr
+n: Source Action REPLACE_WITH_ARROW\<leader>cA
+n: Next Reference REPLACE_WITH_ARROW ]]
+n: Prev Reference REPLACE_WITH_ARROW [[
+<!--SR:!2024-08-18,1,208-REPLACE_WITH_ARROW
+n: Next Reference REPLACE_WITH_ARROW\<a-n>
+n: Prev Reference REPLACE_WITH_ARROW\<a-p>
+n: Delete Buffers to the Left REPLACE_WITH_ARROW\<leader>bl
+n: Delete Other Buffers REPLACE_WITH_ARROW\<leader>bo
+n: Toggle Pin REPLACE_WITH_ARROW\<leader>bp
+n: Delete Non-Pinned Buffers REPLACE_WITH_ARROW\<leader>bP
+n: Delete Buffers to the Right REPLACE_WITH_ARROW\<leader>br
+n: Prev Buffer REPLACE_WITH_ARROW [b
+n: Move buffer prev REPLACE_WITH_ARROW [B
+n: Next Buffer REPLACE_WITH_ARROW ]b
+n: Move buffer next REPLACE_WITH_ARROW ]B
+n: Prev Buffer REPLACE_WITH_ARROW\<S-h>
+n: Next Buffer REPLACE_WITH_ARROW\<S-l>
+n, v: Format Injected Langs REPLACE_WITH_ARROW\<leader>cF
+c: Toggle Flash Search REPLACE_WITH_ARROW\<c-s>
+o: Remote Flash REPLACE_WITH_ARROW r
+o, x: Treesitter Search REPLACE_WITH_ARROW R
+n, o, x: Flash REPLACE_WITH_ARROW s
+n, o, x: Flash Treesitter REPLACE_WITH_ARROW S
+n, v: Search and Replace REPLACE_WITH_ARROW\<leader>sr
+n: Mason REPLACE_WITH_ARROW\<leader>cm
+n: Buffer Explorer REPLACE_WITH_ARROW\<leader>be
+n: Explorer NeoTree (Root Dir) REPLACE_WITH_ARROW\<leader>e
+<!--SR:!2024-08-23,6,268-REPLACE_WITH_ARROW
+n: Explorer NeoTree (cwd) REPLACE_WITH_ARROW\<leader>E
+n: Explorer NeoTree (Root Dir) REPLACE_WITH_ARROW\<leader>fe
+<!--SR:!2024-08-24,7,269-REPLACE_WITH_ARROW
+n: Explorer NeoTree (cwd) REPLACE_WITH_ARROW\<leader>fE
+n: Git Explorer REPLACE_WITH_ARROW\<leader>ge
+n, i, s: Scroll Backward REPLACE_WITH_ARROW\<c-b>
+n, i, s: Scroll Forward REPLACE_WITH_ARROW\<c-f>
+n: +noice REPLACE_WITH_ARROW\<leader>sn
+n: Noice All REPLACE_WITH_ARROW\<leader>sna
+n: Dismiss All REPLACE_WITH_ARROW\<leader>snd
+n: Noice History REPLACE_WITH_ARROW\<leader>snh
+n: Noice Last Message REPLACE_WITH_ARROW\<leader>snl
+n: Noice Picker (Telescope/FzfLua) REPLACE_WITH_ARROW\<leader>snt
+c: Redirect Cmdline REPLACE_WITH_ARROW\<S-Enter>
+n: Dismiss All Notifications REPLACE_WITH_ARROW\<leader>un
+x: Decrement Selection REPLACE_WITH_ARROW\<bs>
+n: Increment Selection REPLACE_WITH_ARROW\<c-space>
+n: Don't Save Current Session REPLACE_WITH_ARROW\<leader>qd
+n: Restore Last Session REPLACE_WITH_ARROW\<leader>ql
+n: Restore Session REPLACE_WITH_ARROW\<leader>qs
+n: Find Files (Root Dir) REPLACE_WITH_ARROW\<leader>|<space>
+n: Switch Buffer REPLACE_WITH_ARROW\<leader>,
+n: Grep (Root Dir) REPLACE_WITH_ARROW\<leader>/
+n: Command History REPLACE_WITH_ARROW\<leader>:
+n: Buffers REPLACE_WITH_ARROW\<leader>fb
+n: Find Config File REPLACE_WITH_ARROW\<leader>fc
+<!--SR:!2024-08-27,10,289-REPLACE_WITH_ARROW
+n: Find Files (Root Dir) REPLACE_WITH_ARROW\<leader>ff
+n: Find Files (cwd) REPLACE_WITH_ARROW\<leader>fF
+n: Find Files (git-files) REPLACE_WITH_ARROW\<leader>fg
+n: Recent REPLACE_WITH_ARROW\<leader>fr
+n: Recent (cwd) REPLACE_WITH_ARROW\<leader>fR
+n: Commits REPLACE_WITH_ARROW\<leader>gc
+n: Status REPLACE_WITH_ARROW\<leader>gs
+n: Registers REPLACE_WITH_ARROW\<leader>s"
+n: Auto Commands REPLACE_WITH_ARROW\<leader>sa
+n: Buffer REPLACE_WITH_ARROW\<leader>sb
+n: Command History REPLACE_WITH_ARROW\<leader>sc
+n: Commands REPLACE_WITH_ARROW\<leader>sC
+<!--SR:!2024-08-18,1,208-REPLACE_WITH_ARROW
+n: Document Diagnostics REPLACE_WITH_ARROW\<leader>sd
+n: Workspace Diagnostics REPLACE_WITH_ARROW\<leader>sD
 |
 
 
-<!--SR:!2024-09-19,11,250-->
-n: Grep (Root Dir) ->\<leader>sg
-n: Grep (cwd) ->\<leader>sG
-n: Help Pages ->\<leader>sh
-n: Search Highlight Groups ->\<leader>sH
-n: Jumplist ->\<leader>sj
-n: Key Maps ->\<leader>sk
-n: Location List ->\<leader>sl
-n: Jump to Mark ->\<leader>sm
-n: Man Pages ->\<leader>sM
-n: Options ->\<leader>so
-n: Quickfix List ->\<leader>sq
-<!--SR:!2024-08-18,1,222-->
-n: Resume ->\<leader>sR
-<!--SR:!2024-08-18,1,222-->
-n: Goto Symbol ->\<leader>ss
-n: Goto Symbol (Workspace) ->\<leader>sS
-n: Word (Root Dir) ->\<leader>sw
-n: Word (cwd) ->\<leader>sW
-v: Selection (Root Dir) ->\<leader>sw
-v: Selection (cwd) ->\<leader>sW
-n: Colorscheme with Preview ->\<leader>uC
-n: Todo ->\<leader>st
-n: Todo/Fix/Fixme ->\<leader>sT
-n: Todo (Trouble) ->\<leader>xt
-n: Todo/Fix/Fixme (Trouble) ->\<leader>xT
-n: Previous Todo Comment -> [t
-n: Next Todo Comment -> ]t
-n: Symbols (Trouble) ->\<leader>cs
-n: LSP references/definitions/... (Trouble) ->\<leader>cS
-n: Location List (Trouble) ->\<leader>xL
-n: Quickfix List (Trouble) ->\<leader>xQ
-n: Diagnostics (Trouble) ->\<leader>xx
-n: Buffer Diagnostics (Trouble) ->\<leader>xX
-n: Previous Trouble/Quickfix Item -> [q
-<!--SR:!2024-08-18,1,188-->
-n: Next Trouble/Quickfix Item -> ]q
-n: Window Hydra Mode (which-key) ->\<c-w>|<space>
-n: Buffer Keymaps (which-key) ->\<leader>?
+<!--SR:!2024-09-19,11,250-REPLACE_WITH_ARROW
+n: Grep (Root Dir) REPLACE_WITH_ARROW\<leader>sg
+n: Grep (cwd) REPLACE_WITH_ARROW\<leader>sG
+n: Help Pages REPLACE_WITH_ARROW\<leader>sh
+n: Search Highlight Groups REPLACE_WITH_ARROW\<leader>sH
+n: Jumplist REPLACE_WITH_ARROW\<leader>sj
+n: Key Maps REPLACE_WITH_ARROW\<leader>sk
+n: Location List REPLACE_WITH_ARROW\<leader>sl
+n: Jump to Mark REPLACE_WITH_ARROW\<leader>sm
+n: Man Pages REPLACE_WITH_ARROW\<leader>sM
+n: Options REPLACE_WITH_ARROW\<leader>so
+n: Quickfix List REPLACE_WITH_ARROW\<leader>sq
+<!--SR:!2024-08-18,1,222-REPLACE_WITH_ARROW
+n: Resume REPLACE_WITH_ARROW\<leader>sR
+<!--SR:!2024-08-18,1,222-REPLACE_WITH_ARROW
+n: Goto Symbol REPLACE_WITH_ARROW\<leader>ss
+n: Goto Symbol (Workspace) REPLACE_WITH_ARROW\<leader>sS
+n: Word (Root Dir) REPLACE_WITH_ARROW\<leader>sw
+n: Word (cwd) REPLACE_WITH_ARROW\<leader>sW
+v: Selection (Root Dir) REPLACE_WITH_ARROW\<leader>sw
+v: Selection (cwd) REPLACE_WITH_ARROW\<leader>sW
+n: Colorscheme with Preview REPLACE_WITH_ARROW\<leader>uC
+n: Todo REPLACE_WITH_ARROW\<leader>st
+n: Todo/Fix/Fixme REPLACE_WITH_ARROW\<leader>sT
+n: Todo (Trouble) REPLACE_WITH_ARROW\<leader>xt
+n: Todo/Fix/Fixme (Trouble) REPLACE_WITH_ARROW\<leader>xT
+n: Previous Todo Comment REPLACE_WITH_ARROW [t
+n: Next Todo Comment REPLACE_WITH_ARROW ]t
+n: Symbols (Trouble) REPLACE_WITH_ARROW\<leader>cs
+n: LSP references/definitions/... (Trouble) REPLACE_WITH_ARROW\<leader>cS
+n: Location List (Trouble) REPLACE_WITH_ARROW\<leader>xL
+n: Quickfix List (Trouble) REPLACE_WITH_ARROW\<leader>xQ
+n: Diagnostics (Trouble) REPLACE_WITH_ARROW\<leader>xx
+n: Buffer Diagnostics (Trouble) REPLACE_WITH_ARROW\<leader>xX
+n: Previous Trouble/Quickfix Item REPLACE_WITH_ARROW [q
+<!--SR:!2024-08-18,1,188-REPLACE_WITH_ARROW
+n: Next Trouble/Quickfix Item REPLACE_WITH_ARROW ]q
+n: Window Hydra Mode (which-key) REPLACE_WITH_ARROW\<c-w>|<space>
+n: Buffer Keymaps (which-key) REPLACE_WITH_ARROW\<leader>?
 
 n: Submit Prompt REPLACE_WITH_ARROW <c-s>
 n, v: +ai REPLACE_WITH_ARROW <leader>a
