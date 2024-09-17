@@ -65,10 +65,128 @@
  to target <-> anvisieren, zum Ziel setzen
 <!--SR:!2000-01-01,1,250!2024-09-16,3,250-->
 
- 
-
 Schweiß -> perspiration
 <!--SR:!2024-09-14,1,230-->
+
+to wreck <- zerstören, zu Grunde richten
+
+intidimidation <- Einschüchterung, Nötigung
+
+scant <- knapp
+
+thuggish <- aggressiv
+
+unruly <- widerspenstig
+
+to concede sth. <- einräumen, zugestehen
+
+to hurl <- schleudern
+
+to soar <- steigen, segeln, hochschnellen
+
+to demonise <- verteufeln
+
+law-abiding <-gesetzestreu
+
+indignantly <- entrüstet, emport
+
+bric-a-bric <- Nippes
+
+premises <- Räumlichkeiten, Gelände
+
+to foot one's bill <- die Rechnung bezahlen
+
+to fault <- bemängeln
+
+gorgeous <- wunderschön, großartig
+
+tax rackit <- Steuerbetrag
+
+redundant <- überflüssig
+
+to batter <- schlagen, zertrümmern
+
+to depress <-drücken, deprimieren
+
+delicate <- zart, delikat, fein, empfindlich
+
+to loathe <- verabscheuen, hassen
+
+to connote <- bedeuten, konnotieren
+
+primordial <- primordial, ursprünglich
+
+to marvel <- sich wundern
+
+to conceive <- konzipieren
+
+to beseech <- beschwören, anflehen
+
+opinionated <- eigenwillig, rechthaberisch
+
+to exude <- verströmen, ausstrahlen
+
+barring (Präp.) <- abgesehen von
+
+imperceptible <- unmerklich, nicht wahrnehmbar
+
+conscientious <- gewissenhaft, verantwortlich
+
+trepidation <- Angst, Bange
+
+infirm <- gebrechlich, schwach
+
+to deprive <- etw. entziehen, berauben
+
+to grapple <- anpacken
+
+to probe <- erforschen
+
+antagonistic <- antagonistisch
+
+prone <- anfällig für
+
+assertive <- durchsetzungsfähig, selbstbewusst
+
+retaliation <- Vergeltung, Gegenschlag
+
+to relent <- nachgeben, einlecken
+
+to roam <- durchstreifen, herumwandern
+
+to elaborate <- erarbeiten, ausarbeiten
+
+to disregard <- missachten, ignorieren
+
+with impunity <- straffrei
+
+to baffle <- verblüffen, verwirren
+
+utterance <- Äußerung
+
+aftermath <- Folge, Nachwirkung
+
+on the leading edge <- auf der Höhe der Zeit
+
+to discern <- erkennen, unterscheiden
+
+to revile <- schmähen
+
+utterly <- absolut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
