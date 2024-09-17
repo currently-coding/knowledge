@@ -109,3 +109,12 @@ annually(adverb) () <-> jährlich, alljährlich, einjährig
 <!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig
 <!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
+to anticipate(verb) (The company anticipates sales growth in the upcoming year., Product designers anticipate the needs of the customers., You cannot anticipate every possible reaction to an act., I anticipated my mother's reaction.) <-> erwarten, vorwegnehmen, vorhersehen 
+anxiety(noun) (In therapy, he learned how to handle anxiety and stress., My anxiety was unfounded; everything went well.) <-> Angst, Besorgnis, Sorge 
+apology(noun) () <-> Entschuldigung, Abbitte, Rechtfertigung 
+applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) <-> Antragsteller, Bewerber, Bewerberin 
+appropriately(adverb) (He reacted appropriately.) <-> angemessen, entsprechend, recht 
+appropriate(adjective) (My speech was appropriate for the occasion., Please select the appropriate option below., Tennis players have to wear appropriate shoes., At this time, a vote is not yet appropriate., I have the appropriate clothing for all purposes and occasions.) <-> angemessen, entsprechend, geeignet 
+to appropriate(verb) (The manager appropriated funds for the new computer system., Public officials should not appropriate government funds., The director appropriated his employee's idea.) <-> bewilligen, zuweisen, sich zu eigen machen 
+arrow(noun) (She can shoot an arrow straight into the target from a great distance., An archer shoots arrows at a target.) <-> Pfeil, Richtungspfeil, Pfeilsymbol 
+artwork(noun) (The exhibition displays some rare artworks., All of his artwork is on display at the museum., The children showed off their artwork in the cafeteria., The city honored the painter for his artwork.) <-> Kunstwerk, Kunst, Kunstwerke 
