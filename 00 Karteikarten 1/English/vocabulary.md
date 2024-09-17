@@ -18,7 +18,7 @@ accidental(adjective) (He felt very sorry for the accidental mix-up., The news a
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) <-> aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
 <!--SR:!2024-09-18,3,250!2024-09-20,4,282-->
 to accommodate oneself(verb) () <-> sich akkommodieren
-<!--SR:!2024-09-18,3,250!2024-09-17,1,242-->
+<!--SR:!2024-09-18,3,250!2024-09-20,3,262-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) <-> erreichen, erfüllen, bewerkstelligen, schaffen
 <!--SR:!2024-09-18,3,250!2024-09-20,4,282-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) <-> Wirtschaftsprüfer, Buchhalter, Steuerberater
@@ -70,7 +70,7 @@ aids(noun) <-> Hilfsmittel, Hilfen, Hilfe, Beihilfen
 aid(noun) (The foundation receives financial aid from donors.) <-> Unterstützung, Beihilfe, Hilfe, Fördermittel
 <!--SR:!2024-09-20,4,282!2000-01-01,1,250-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) <-> helfen, unterstützen, fördern, beispringen
-<!--SR:!2000-01-01,1,250!2024-09-17,1,242-->
+<!--SR:!2000-01-01,1,250!2024-09-20,3,262-->
 Aids(noun) () <-> AIDS
 <!--SR:!2000-01-01,1,250!2024-09-20,4,282-->
 alien(noun) (Some people believe in aliens.) <-> Ausländer, Außerirdischer, Fremder, Außerirdische, Alien, Ausländerin, Fremdling

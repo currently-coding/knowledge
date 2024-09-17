@@ -13,9 +13,11 @@
  to rant <-> schimpfen
 
  to chant <-> skandieren, singen
-<!--SR:!2024-09-14,1,230!2000-01-01,1,250-->
+
+<!--SR:!2024-09-14,1,230-->
  to linger <-> verweilen, nachklingen, anhalten
-<!--SR:!2024-09-14,1,230!2000-01-01,1,250-->
+
+<!--SR:!2024-09-14,1,230-->
  dread <-> Grauen, Furcht
 
  rear <-> Rückseite, Heck
@@ -55,9 +57,9 @@
  prevalent <-> vorherrschend, verbreitet
 
  to perpetrate <-> begehen, verüben
-<!--SR:!2000-01-01,1,250!2024-09-14,1,230-->
+
  circumspect <-> vorsichtig, umsichtig
-<!--SR:!2000-01-01,1,250!2024-09-14,1,230-->
+
  adamant <-> unerbittlich
 <<<<<<< HEAD
 <!--SR:!2024-09-14,1,230!2000-01-01,1,250-->
