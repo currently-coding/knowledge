@@ -37,8 +37,6 @@ acid(noun) (The chemical opposite of base is acid.) <-> Säure, Acid, LSD
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 acid(adjective) (I do not like acid fruits.) <-> sauer
 <!--SR:!2024-09-20,4,294!2024-09-19,4,279-->
-
-
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) <-> aktivieren, betätigen, freischalten, einschalten, auslösen
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) <-> Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
@@ -56,7 +54,7 @@ adequate(adjective) (I finally received an adequate answer to my question., My i
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) <-> anpassen, einstellen, abstimmen, verstellen
 <!--SR:!2024-09-20,4,282!2024-09-21,4,297-->
 to adjust oneself(verb) () <-> sich anpassen
-<!--SR:!2000-01-01,1,250!2024-09-20,3,262-->
+<!--SR:!2024-09-21,4,301!2024-09-20,3,262-->
 to adjust oneself to(verb) () <-> sich an anpassen
 <!--SR:!2024-09-21,4,299!2024-09-20,3,262-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) <-> erschwinglich, bezahlbar, preiswert, kostengünstig
@@ -68,7 +66,7 @@ aids(noun) <-> Hilfsmittel, Hilfen, Hilfe, Beihilfen
 aid(noun) (The foundation receives financial aid from donors.) <-> Unterstützung, Beihilfe, Hilfe, Fördermittel
 <!--SR:!2024-09-20,4,282!2024-09-21,4,297-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) <-> helfen, unterstützen, fördern, beispringen
-<!--SR:!2000-01-01,1,250!2024-09-20,3,262-->
+<!--SR:!2024-09-21,4,301!2024-09-20,3,262-->
 alien(noun) (Some people believe in aliens.) <-> Ausländer, Außerirdischer, Fremder, Außerirdische, Alien, Ausländerin, Fremdling
 <!--SR:!2024-09-21,4,297!2024-09-20,4,282-->
 alien(adjective) (The way of life of the local people seemed alien to me.) <-> fremd, ausländisch, artfremd, außerirdisch, fremdartig, wesensfremd
@@ -98,25 +96,30 @@ ancestor(noun) (The history of my ancestors is interesting.) <-> Vorfahre, Vorfa
 animation(noun) (The computer game provides very authentic animations., The programmer rendered the object for animation., I love the children's animation and exuberance.) <-> Animation, Lebhaftigkeit, Belebung
 <!--SR:!2024-09-18,1,257!2024-09-19,3,262-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig
-<!--SR:!2000-01-01,1,250!2024-09-21,4,299-->
-
-
-merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) <-> Verschmelzung, Fusion, Zusammenschluss
-<!--SR:!2024-09-20,3,279!2000-01-01,1,250-->
-to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) <-> verschmelzen, fusionieren, zusammenfügen 
-merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) <-> Verschmelzung, Fusion, Zusammenschluss 
+<!--SR:!2024-09-21,4,299!2024-09-21,4,299-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) <-> verschmelzen, fusionieren, zusammenfügen
-<!--SR:!2000-01-01,1,250!2024-09-18,1,260-->
-sweatshop(noun) () <-> Ausbeutungsbetrieb, Ausbeuterbetrieb 
+<!--SR:!2024-09-20,3,281!2000-01-01,1,250-->
+merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) <-> Verschmelzung, Fusion, Zusammenschluss
+<!--SR:!2000-01-01,1,250!2024-09-18,1,261-->
+sweatshop(noun) () <-> Ausbeutungsbetrieb, Ausbeuterbetrieb
+<!--SR:!2000-01-01,1,250!2024-09-18,1,261-->
 multinational(adjective) (We are a well-known multinational company.) <-> multinational
-<!--SR:!2024-09-20,3,280!2000-01-01,1,250-->
-multinational(noun) (The food industry is dominated by multinationals.) <-> Multi, multinationaler Konzern 
-multinational(adjective) (Wir sind ein renommiertes, multinationales Unternehmen.) <-> multinational
-<!--SR:!2024-09-21,4,299!2024-09-20,3,280-->
-multinational(adverb) () <-> multinationally
-<!--SR:!2024-09-21,4,299!2000-01-01,1,250-->
-free trade(noun) () <-> Freihandel, freier Handel, Handelsfreiheit 
-trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) <-> Handelshemmnis, Handelsbarriere, Handelsbeschränkung 
+<!--SR:!2024-09-20,3,280!2024-09-21,4,299-->
+free trade(noun) () <-> Freihandel, freier Handel, Handelsfreiheit
+<!--SR:!2024-09-21,4,301!2024-09-21,4,299-->
+trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) <-> Handelshemmnis, Handelsbarriere, Handelsbeschränkung
+<!--SR:!2024-09-21,4,299!2024-09-21,4,299-->
 barrier to trade(noun) () <-> Handelshemmnis
-<!--SR:!2000-01-01,1,250!2024-09-18,1,259-->
-exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) <-> Wechselkurs, Kurs, Devisenkurs 
+<!--SR:!2024-09-21,4,299!2024-09-18,1,259-->
+exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) <-> Wechselkurs, Kurs, Devisenkurs
+<!--SR:!2024-09-21,4,299!2024-09-18,1,259-->
+exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung 
+to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen 
+standard of living(noun) (Our standard of living is higher than 100 years ago.) <-> Lebensstandard, Lebenshaltung 
+debt relief(noun) (The bank granted the company only partial debt relief.) <-> Schuldenerlass, Entschuldung, Schuldenerleichterung 
+current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen 
+fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel 
+to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren 
+deforestation(noun) () <-> Entwaldung, Abholzung, Rodung 
+mechanization(noun) () <-> Mechanisierung, Technisierung 
+to mechanize(verb) () <-> mechanisieren, technisieren 

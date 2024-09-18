@@ -1,10 +1,3 @@
-exploitation
-standard of living
-debt relief
-current affairs
-fund sth.
-deforestation
-mechanization
 assembly line
 trade deficit
 urbanization

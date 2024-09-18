@@ -8,7 +8,7 @@
     ],
     "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
-    "burySiblingCards": false,
+    "burySiblingCards": true,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
@@ -27,7 +27,23 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [],
+    "noteFoldersToIgnore": [
+      "01 Informatik",
+      "02 Chemie",
+      "03 Physik",
+      "04 Geschichte",
+      "05 Ethik",
+      "06 Politik & Gesellschaft",
+      "07 Englisch",
+      "08 Deutsch",
+      "09 Musik",
+      "10 Geographie",
+      "11 Wirtschaft",
+      "12 Latein",
+      "13 Mathematik",
+      "14 CS",
+      "\"00 Karteikarten 1\"/Ignore"
+    ],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
