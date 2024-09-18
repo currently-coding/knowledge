@@ -102,7 +102,7 @@ to merge(verb) (In the author's new book reality and fantasy merge seamlessly., 
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) <-> Verschmelzung, Fusion, Zusammenschluss
 <!--SR:!2024-09-21,3,283!2024-09-22,4,281-->
 sweatshop(noun) () <-> Ausbeutungsbetrieb, Ausbeuterbetrieb
-<!--SR:!2000-01-01,1,250!2024-09-22,4,281-->
+<!--SR:!2024-09-22,4,303!2024-09-22,4,281-->
 multinational(adjective) (We are a well-known multinational company.) <-> multinational
 <!--SR:!2024-09-20,3,280!2024-09-21,4,299-->
 free trade(noun) () <-> Freihandel, freier Handel, Handelsfreiheit
@@ -113,20 +113,23 @@ barrier to trade(noun) () <-> Handelshemmnis
 <!--SR:!2024-09-21,4,299!2024-09-21,3,259-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) <-> Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2024-09-21,4,299!2024-09-22,4,279-->
-exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung 
+exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung
+<!--SR:!2000-01-01,1,250!2024-09-22,4,303-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen
 <!--SR:!2000-01-01,1,250!2024-09-22,4,300-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) <-> Lebensstandard, Lebenshaltung
 <!--SR:!2000-01-01,1,250!2024-09-22,4,303-->
 debt relief(noun) (The bank granted the company only partial debt relief.) <-> Schuldenerlass, Entschuldung, Schuldenerleichterung
-<!--SR:!2024-09-22,4,303!2000-01-01,1,250-->
+<!--SR:!2024-09-22,4,303!2024-09-22,4,303-->
 current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 <!--SR:!2024-09-21,3,283!2024-09-19,1,260-->
-fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel 
+fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel
+<!--SR:!2000-01-01,1,250!2024-09-21,3,283-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
 <!--SR:!2024-09-19,1,260!2024-09-22,4,300-->
 deforestation(noun) () <-> Entwaldung, Abholzung, Rodung
-<!--SR:!2000-01-01,1,250!2024-09-22,4,300-->
-mechanization(noun) () <-> Mechanisierung, Technisierung 
+<!--SR:!2024-09-22,4,303!2024-09-22,4,300-->
+mechanization(noun) () <-> Mechanisierung, Technisierung
+<!--SR:!2000-01-01,1,250!2024-09-22,4,303-->
 to mechanize(verb) () <-> mechanisieren, technisieren
 <!--SR:!2024-09-22,4,300!2000-01-01,1,250-->

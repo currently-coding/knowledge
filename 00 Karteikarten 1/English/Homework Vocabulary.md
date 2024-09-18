@@ -26,4 +26,4 @@ to provide sth. <-> etwas bereitstellen
 <!--SR:!2024-09-21,4,276!2024-09-21,4,270-->
 
 to refer to sth. as sth. else <-> auf etw. als etw. beziehen
-<!--SR:!2024-09-21,4,284!2000-01-01,1,250-->
+<!--SR:!2024-09-21,4,284!2024-09-22,4,289-->
