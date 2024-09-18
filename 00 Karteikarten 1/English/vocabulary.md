@@ -115,3 +115,13 @@ barrier to trade(noun) () <-> Handelshemmnis
 <!--SR:!2024-09-21,4,299!2024-09-18,1,259-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) <-> Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2024-09-21,4,299!2024-09-18,1,259-->
+exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung 
+to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen 
+standard of living(noun) (Our standard of living is higher than 100 years ago.) <-> Lebensstandard, Lebenshaltung 
+debt relief(noun) (The bank granted the company only partial debt relief.) <-> Schuldenerlass, Entschuldung, Schuldenerleichterung 
+current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen 
+fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel 
+to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren 
+deforestation(noun) () <-> Entwaldung, Abholzung, Rodung 
+mechanization(noun) () <-> Mechanisierung, Technisierung 
+to mechanize(verb) () <-> mechanisieren, technisieren 
