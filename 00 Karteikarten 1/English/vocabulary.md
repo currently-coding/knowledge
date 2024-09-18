@@ -37,8 +37,6 @@ acid(noun) (The chemical opposite of base is acid.) <-> Säure, Acid, LSD
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 acid(adjective) (I do not like acid fruits.) <-> sauer
 <!--SR:!2024-09-20,4,294!2024-09-19,4,279-->
-
-
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) <-> aktivieren, betätigen, freischalten, einschalten, auslösen
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) <-> Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
