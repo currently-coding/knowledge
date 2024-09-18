@@ -118,11 +118,13 @@ to exploit(verb) (The company exploited their competitive advantage to become th
 <!--SR:!2000-01-01,1,250!2024-09-22,4,300-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) <-> Lebensstandard, Lebenshaltung 
 debt relief(noun) (The bank granted the company only partial debt relief.) <-> Schuldenerlass, Entschuldung, Schuldenerleichterung 
-current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen 
+current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
+<!--SR:!2000-01-01,1,250!2024-09-19,1,260-->
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel 
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
 <!--SR:!2000-01-01,1,250!2024-09-22,4,300-->
 deforestation(noun) () <-> Entwaldung, Abholzung, Rodung
 <!--SR:!2000-01-01,1,250!2024-09-22,4,300-->
 mechanization(noun) () <-> Mechanisierung, Technisierung 
-to mechanize(verb) () <-> mechanisieren, technisieren 
+to mechanize(verb) () <-> mechanisieren, technisieren
+<!--SR:!2024-09-22,4,300!2000-01-01,1,250-->

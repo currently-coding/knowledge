@@ -8,7 +8,7 @@ to induce sth. <-> etwas herbeifuehren
 <!--SR:!2024-09-21,4,276!2000-01-01,1,250-->
 
 to dominate sth. <-> etwas dominieren
-<!--SR:!2000-01-01,1,250!2024-09-21,4,276-->
+<!--SR:!2024-09-22,4,286!2024-09-21,4,276-->
 
 to face competition <-> (sich) einem Wettbewerb stellen
 <!--SR:!2024-09-21,4,276!2024-09-22,4,286-->
