@@ -98,7 +98,7 @@ animation(noun) (The computer game provides very authentic animations., The prog
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig
 <!--SR:!2024-09-21,4,299!2024-09-21,4,299-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) <-> verschmelzen, fusionieren, zusammenfügen
-<!--SR:!2024-09-20,3,281!2000-01-01,1,250-->
+<!--SR:!2024-09-20,3,281!2024-09-22,4,300-->
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) <-> Verschmelzung, Fusion, Zusammenschluss
 <!--SR:!2000-01-01,1,250!2024-09-22,4,281-->
 sweatshop(noun) () <-> Ausbeutungsbetrieb, Ausbeuterbetrieb
@@ -114,13 +114,15 @@ barrier to trade(noun) () <-> Handelshemmnis
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) <-> Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2024-09-21,4,299!2024-09-22,4,279-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung 
-to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen 
+to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen
+<!--SR:!2000-01-01,1,250!2024-09-22,4,300-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) <-> Lebensstandard, Lebenshaltung 
 debt relief(noun) (The bank granted the company only partial debt relief.) <-> Schuldenerlass, Entschuldung, Schuldenerleichterung 
 current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen 
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel 
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
 <!--SR:!2000-01-01,1,250!2024-09-22,4,300-->
-deforestation(noun) () <-> Entwaldung, Abholzung, Rodung 
+deforestation(noun) () <-> Entwaldung, Abholzung, Rodung
+<!--SR:!2000-01-01,1,250!2024-09-22,4,300-->
 mechanization(noun) () <-> Mechanisierung, Technisierung 
 to mechanize(verb) () <-> mechanisieren, technisieren 

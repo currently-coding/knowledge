@@ -1,5 +1,5 @@
 human labour <-> Menschliche Arbeitskraft
-<!--SR:!2000-01-01,1,250!2024-09-21,4,276-->
+<!--SR:!2024-09-22,4,286!2024-09-21,4,276-->
 
 rapid growth <-> rapider Anstieg
 <!--SR:!2024-09-21,4,276!2024-09-20,3,252-->
@@ -20,7 +20,7 @@ outsourcing of work <-> Auslagerung von Arbeit
 <!--SR:!2024-09-21,4,272!2024-09-21,4,284-->
 
 to contribute to sth. <-> zu etwas beitragen
-<!--SR:!2024-09-21,4,276!2000-01-01,1,250-->
+<!--SR:!2024-09-21,4,276!2024-09-22,4,286-->
 
 to provide sth. <-> etwas bereitstellen
 <!--SR:!2024-09-21,4,276!2024-09-21,4,270-->
