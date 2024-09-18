@@ -16,15 +16,15 @@ accidentally(adverb) (The cat accidentally scratched my arm., I accidentally swa
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) <-> zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) <-> aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
-<!--SR:!2024-09-18,3,250!2024-09-20,4,282-->
+<!--SR:!2024-09-29,11,270!2024-09-20,4,282-->
 to accommodate oneself(verb) () <-> sich akkommodieren
-<!--SR:!2024-09-18,3,250!2024-09-20,3,262-->
+<!--SR:!2024-09-30,12,270!2024-09-20,3,262-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) <-> erreichen, erfüllen, bewerkstelligen, schaffen
-<!--SR:!2024-09-18,3,250!2024-09-20,4,282-->
+<!--SR:!2024-09-29,11,270!2024-09-20,4,282-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) <-> Wirtschaftsprüfer, Buchhalter, Steuerberater
-<!--SR:!2024-09-19,3,259!2024-09-18,1,256-->
+<!--SR:!2024-09-19,3,259!2024-09-22,4,276-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) <-> Rechenschaft ablegen
-<!--SR:!2024-09-20,4,282!2024-09-18,3,259-->
+<!--SR:!2024-09-20,4,282!2024-09-27,9,279-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) <-> Richtigkeit, Genauigkeit, Präzision, Sorgfalt, Fehlerfreiheit, Exaktheit, Ganggenauigkeit, Treffsicherheit, Akkuratesse, Zielgenauigkeit, Treffgenauigkeit
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) <-> genau, korrekt, sorgfältig, richtig
@@ -46,7 +46,7 @@ additionally(adverb) (Additionally, you will receive a discount on your next boo
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) <-> zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
 <!--SR:!2024-09-19,4,270!2024-09-20,4,282-->
 adequate(adjective) (An adequate amount of water is important on every hike., I finally received an adequate answer to my question., My income is not high, but it is adequate.) <-> ausreichend, angemessen, hinreichend
-<!--SR:!2024-09-18,3,250!2024-09-20,4,282-->
+<!--SR:!2024-09-28,10,270!2024-09-20,4,282-->
 adequately(adverb) () <-> angemessen, hinreichend, ausreichend, entsprechend
 <!--SR:!2024-09-20,4,282!2024-09-21,4,297-->
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) <-> angemessen, adäquat, hinreichend, ausreichend
@@ -82,7 +82,7 @@ altogether(adverb) (He needed two hours to finish his project altogether., Altog
 ambulance(noun) (The ambulance took the patient to the hospital.) <-> Krankenwagen, Ambulanz, Rettungswagen
 <!--SR:!2024-09-21,4,296!2024-09-20,4,282-->
 amusing(adjective / present participle) (The comedy was very amusing.) <-> erheiternd, belustigend
-<!--SR:!2024-09-18,1,256!2024-09-20,4,282-->
+<!--SR:!2024-09-22,4,276!2024-09-20,4,282-->
 amusing oneself(present participle) () <-> sich unterhaltend
 <!--SR:!2024-09-19,3,262!2024-09-21,4,297-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) <-> unterhalten, amüsieren, belustigen
@@ -94,15 +94,15 @@ Analyst(noun) () <-> analyst
 ancestor(noun) (The history of my ancestors is interesting.) <-> Vorfahre, Vorfahr, Ahnin
 <!--SR:!2024-09-21,4,297!2024-09-20,4,282-->
 animation(noun) (The computer game provides very authentic animations., The programmer rendered the object for animation., I love the children's animation and exuberance.) <-> Animation, Lebhaftigkeit, Belebung
-<!--SR:!2024-09-18,1,257!2024-09-19,3,262-->
+<!--SR:!2024-09-22,4,277!2024-09-19,3,262-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig
 <!--SR:!2024-09-21,4,299!2024-09-21,4,299-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) <-> verschmelzen, fusionieren, zusammenfügen
 <!--SR:!2024-09-20,3,281!2000-01-01,1,250-->
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) <-> Verschmelzung, Fusion, Zusammenschluss
-<!--SR:!2000-01-01,1,250!2024-09-18,1,261-->
+<!--SR:!2000-01-01,1,250!2024-09-22,4,281-->
 sweatshop(noun) () <-> Ausbeutungsbetrieb, Ausbeuterbetrieb
-<!--SR:!2000-01-01,1,250!2024-09-18,1,261-->
+<!--SR:!2000-01-01,1,250!2024-09-22,4,281-->
 multinational(adjective) (We are a well-known multinational company.) <-> multinational
 <!--SR:!2024-09-20,3,280!2024-09-21,4,299-->
 free trade(noun) () <-> Freihandel, freier Handel, Handelsfreiheit
@@ -110,16 +110,17 @@ free trade(noun) () <-> Freihandel, freier Handel, Handelsfreiheit
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) <-> Handelshemmnis, Handelsbarriere, Handelsbeschränkung
 <!--SR:!2024-09-21,4,299!2024-09-21,4,299-->
 barrier to trade(noun) () <-> Handelshemmnis
-<!--SR:!2024-09-21,4,299!2024-09-18,1,259-->
+<!--SR:!2024-09-21,4,299!2024-09-21,3,259-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) <-> Wechselkurs, Kurs, Devisenkurs
-<!--SR:!2024-09-21,4,299!2024-09-18,1,259-->
+<!--SR:!2024-09-21,4,299!2024-09-22,4,279-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung 
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen 
 standard of living(noun) (Our standard of living is higher than 100 years ago.) <-> Lebensstandard, Lebenshaltung 
 debt relief(noun) (The bank granted the company only partial debt relief.) <-> Schuldenerlass, Entschuldung, Schuldenerleichterung 
 current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen 
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel 
-to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren 
+to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
+<!--SR:!2000-01-01,1,250!2024-09-22,4,300-->
 deforestation(noun) () <-> Entwaldung, Abholzung, Rodung 
 mechanization(noun) () <-> Mechanisierung, Technisierung 
 to mechanize(verb) () <-> mechanisieren, technisieren 
