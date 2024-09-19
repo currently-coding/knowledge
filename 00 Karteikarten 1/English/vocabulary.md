@@ -204,10 +204,12 @@ commission(noun) (The commission will deal with this issue next week., The commi
 <!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
 to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) <-> beauftragen, in Dienst stellen, in Auftrag geben
 <!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
-state-of-the-art(adjective) (The new school will have state-of-the-art classrooms., The new alarm system uses state-of-the-art technology.) <-> hochmodern, modernst 
+state-of-the-art(adjective) (The new school will have state-of-the-art classrooms., The new alarm system uses state-of-the-art technology.) <-> hochmodern, modernst
+<!--SR:!2024-09-23,4,311!2000-01-01,1,250-->
 state of the art(noun) () <-> Stand der Technik
 <!--SR:!2000-01-01,1,250!2024-09-20,1,270-->
-decline(noun) (We have witnessed a sharp decline in oil prices., The decline in sales worries the investors., The investors are not worried by the decline in sales., The country's economic decline came after the crisis.) <-> Rückgang, Sinken, Abnahme 
+decline(noun) (We have witnessed a sharp decline in oil prices., The decline in sales worries the investors., The investors are not worried by the decline in sales., The country's economic decline came after the crisis.) <-> Rückgang, Sinken, Abnahme
+<!--SR:!2024-09-23,4,310!2000-01-01,1,250-->
 to decline(verb) (Air pollution is declining due to ecological reforms., My friend declined my invitation for lunch., The recession is over and unemployment is declining., Unemployment has declined with the recovery of the economy., The mortality rate is declining, people are living longer., The growth rate of exports has recently declined., I can correctly decline most Latin nouns., For my homework, I had to decline ten nouns.) <-> sinken, ablehnen, zurückgehen
 <!--SR:!2024-09-20,1,270!2000-01-01,1,250-->
 to promote(verb) (Our university promotes international student exchange., We promote cooperation among companies., My institution promotes various ecological initiatives., A new manager was hired to promote development., We need to promote our new product if we want to sell more., The meeting is intended to promote cooperation., I was promoted to head of department today.) <-> fördern, promoten, unterstützen
@@ -216,13 +218,13 @@ inequality(noun) (Inequalities need to be redressed.) <-> Ungleichheit, Ungleich
 <!--SR:!2000-01-01,1,250!2024-09-23,4,310-->
 wealth(noun) (Thanks to his wealth, he can buy anything he likes., The book contains a wealth of information., The family's wealth was based on the tenure of land.) <-> Reichtum, Fülle, Wohlstand
 <!--SR:!2000-01-01,1,250!2024-09-23,4,310-->
-tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) <-> Steuer, Abgabe, Zins 
-tax(adjective) (Ask a lawyer if you have any tax questions.) <-> steuerlich 
+tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) <-> Steuer, Abgabe, Zins
+<!--SR:!2000-01-01,1,250!2024-09-23,4,310-->
 to tax(verb) (The government decided to tax corporate profits., He taxed her patience for hours.) <-> besteuern, strapazieren, versteuern
 <!--SR:!2024-09-20,1,270!2000-01-01,1,250-->
-Taxen(noun) () <-> taxis, taxes, estimates 
 recession(noun) (The recession is over and unemployment is declining., The boom after the recession meant many new jobs for the unemployed., The company registered a recession in sales., We have now overcome the recession and business is booming.) <-> Rezession, Rückgang, Flaute
 <!--SR:!2024-09-23,4,310!2000-01-01,1,250-->
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) <-> Wohlstand, Prosperität, Erfolg
 <!--SR:!2024-09-20,1,270!2000-01-01,1,250-->
-to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) <-> beschleunigen, sich beschleunigen, vorantreiben 
+to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) <-> beschleunigen, sich beschleunigen, vorantreiben
+<!--SR:!2024-09-23,4,311!2000-01-01,1,250-->
