@@ -8,7 +8,7 @@ abstract(noun) (I have to write an abstract for my dissertation.) <-> Zusammenfa
 to abstract(verb) (I will read the article and abstract the main ideas.) <-> trennen, abziehen, entnehmen
 <!--SR:!2024-09-21,2,230!2024-09-21,4,296-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) <-> Akzent, Betonung
-<!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
+<!--SR:!2024-09-20,4,282!2024-10-06,17,290-->
 to accent(verb) <-> betonen, akzentuieren, hervorheben
 <!--SR:!2024-09-20,4,282!2024-09-19,4,279-->
 accidentally(adverb) (The cat accidentally scratched my arm., I accidentally swallowed my chewing gum., I believe I accidentally left the stove on.) <-> versehentlich, zufällig, aus Versehen, unbeabsichtigt, durch Zufall, ungewollt, zufälligerweise
@@ -22,7 +22,7 @@ to accommodate oneself(verb) () <-> sich akkommodieren
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) <-> erreichen, erfüllen, bewerkstelligen, schaffen
 <!--SR:!2024-09-29,11,270!2024-09-20,4,282-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) <-> Wirtschaftsprüfer, Buchhalter, Steuerberater
-<!--SR:!2024-09-19,3,259!2024-09-22,4,276-->
+<!--SR:!2024-09-26,7,259!2024-09-22,4,276-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) <-> Rechenschaft ablegen
 <!--SR:!2024-09-20,4,282!2024-09-27,9,279-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) <-> Richtigkeit, Genauigkeit, Präzision, Sorgfalt, Fehlerfreiheit, Exaktheit, Ganggenauigkeit, Treffsicherheit, Akkuratesse, Zielgenauigkeit, Treffgenauigkeit

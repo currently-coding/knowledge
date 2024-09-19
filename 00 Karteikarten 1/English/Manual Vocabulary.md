@@ -9,7 +9,7 @@ ubiquitous <-> allgegenwärtig, omnipräsent
 <!--SR:!2024-09-23,59,310!2025-02-23,168,317-->
 
 ameliorate <-> verbessern
-<!--SR:!2024-10-05,19,382!2024-09-19,6,362-->
+<!--SR:!2024-10-05,19,382!2024-10-18,29,382-->
 
 eternity <-> Limitless amount of time
 <!--SR:!2024-09-20,57,312!2024-09-30,65,317-->
