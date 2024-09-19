@@ -1,10 +1,3 @@
-assembly line
-trade deficit
-urbanization
-diversify
-e-commerce
-offshoring
-environmentalism
 work ethic
 subsidize
 launch

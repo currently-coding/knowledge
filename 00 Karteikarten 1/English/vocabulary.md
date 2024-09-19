@@ -123,3 +123,14 @@ to fund(verb) (The project is funded by private sponsors only., The government i
 deforestation(noun) () <-> Entwaldung, Abholzung, Rodung 
 mechanization(noun) () <-> Mechanisierung, Technisierung 
 to mechanize(verb) () <-> mechanisieren, technisieren 
+assembly line(noun) (Cars are usually put together on an assembly line.) <-> Band, Fließband, Montagelinie 
+trade deficit(noun) () <-> Handelsbilanzdefizit, Handelsdefizit, Außenhandelsdefizit 
+urbanization(noun) () <-> Urbanisierung, Verstädterung, Urbanisation 
+to urbanize(verb) () <-> urbanisieren, verstädtern 
+to diversify(verb) (The trader wants to diversify his portfolio.) <-> diversifizieren, variieren, differenzieren 
+commerce(noun) (A lot of commerce was conducted in this town a century ago.) <-> Handel, Verkehr, Kommerz 
+e-commerce(noun) (Retailers sell a lot by e-commerce nowadays.) <-> E-Commerce, elektronischer Geschäftsverkehr 
+E-Commerce(noun) (Einzelhändler verkaufen heutzutage viel per E-Commerce.) <-> e-commerce, electronic commerce 
+offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) <-> Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung 
+Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) <-> offshoring 
+environmentalism(noun) () <-> Umweltschutz, Umweltbewusstsein 
