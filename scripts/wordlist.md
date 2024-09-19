@@ -1,12 +1,3 @@
-state of the art
-decline
-promote
-inequality
-wealth
-tax
-recession
-prosperity
-accelerate
 facilitate
 marginalization
 distribution
