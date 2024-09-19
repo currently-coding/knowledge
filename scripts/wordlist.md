@@ -54,7 +54,6 @@ opposition
 dare
 contend
 confrontation
-
 To Cause
 trigger
 induce
@@ -66,7 +65,6 @@ result in
 lead to
 instigate
 generate
-
 To Improve
 enhance
 refine
