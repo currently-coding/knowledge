@@ -158,3 +158,18 @@ mechanization(noun) () <-> Mechanisierung, Technisierung
 to mechanize(verb) () <-> mechanisieren, technisieren
 <!--SR:!2024-09-22,4,300!2000-01-01,1,250-->
 
+work ethic(noun) () <-> Arbeitsmoral, Arbeitsethik, Arbeitsethos 
+to subsidize(verb) (Corn is cheap because it is subsidized by the government.) <-> subventionieren, bezuschussen, finanziell unterstützen 
+launch(noun) (Mission control postponed the launch of the space shuttle., We are preparing the product launch., We are planning a pan-European launch for September., The launch of the new system went smoothly.) <-> Launch, Start, Markteinführung 
+to launch(verb) (The space agency will launch a rocket next month., The company will launch a new product this year., The company launched a new communication system., The fireworks are launched at midnight., The shipping company launched their new cruise ship.) <-> starten, lancieren, einführen 
+Launch(noun) () <-> launch 
+welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) <-> Wohlfahrt, Wohl, Wohlergehen 
+livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) <-> Lebensunterhalt, Lebensgrundlage, Existenz 
+to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) <-> gedeihen, florieren, aufblühen 
+flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) <-> Verzierung, Schnörkel, Fanfare 
+supplier(noun) (Our supplier delivers high-quality products., The suppliers are selected through tendering., I am the only supplier of the brand in Italy., We are the largest supplier of electrical goods in the region., Car manufacturers buy parts from many suppliers.) <-> Lieferant, Anbieter, Zulieferer 
+to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) <-> liefern, mitliefern, beliefern 
+purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) <-> Kauf, Erwerb, Einkauf 
+to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) <-> kaufen, erwerben, beschaffen 
+commission(noun) (The commission will deal with this issue next week., The commission has agreed on a new resolution., I will get a commission for the good service.) <-> Kommission, Provision, Auftrag 
+to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) <-> beauftragen, in Dienst stellen, in Auftrag geben 
