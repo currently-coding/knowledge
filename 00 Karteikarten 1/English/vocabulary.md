@@ -6,7 +6,7 @@ abstract(adjective) (The artist is famous for his abstract paintings., Intellige
 abstract(noun) (I have to write an abstract for my dissertation.) <-> Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung
 <!--SR:!2024-09-19,4,270!2024-09-20,4,282-->
 to abstract(verb) (I will read the article and abstract the main ideas.) <-> trennen, abziehen, entnehmen
-<!--SR:!2024-09-19,3,250!2024-09-21,4,296-->
+<!--SR:!2024-09-21,2,230!2024-09-21,4,296-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) <-> Akzent, Betonung
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 to accent(verb) <-> betonen, akzentuieren, hervorheben
@@ -28,19 +28,19 @@ to account(verb) (The police asked him to account for his whereabouts at the tim
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) <-> Richtigkeit, Genauigkeit, Präzision, Sorgfalt, Fehlerfreiheit, Exaktheit, Ganggenauigkeit, Treffsicherheit, Akkuratesse, Zielgenauigkeit, Treffgenauigkeit
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) <-> genau, korrekt, sorgfältig, richtig
-<!--SR:!2024-09-19,4,279!2024-09-20,4,282-->
+<!--SR:!2024-10-04,15,299!2024-09-20,4,282-->
 accurately(adverb) (The report accurately portrays the economic situation., We use templates to reproduce shapes accurately.) <-> genau, akkurat, exakt, richtig
 <!--SR:!2024-09-19,4,279!2024-09-20,4,282-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., With this instrument you can get very accurate measurements., To write this article, I need accurate data., The audit found the financial statements to be accurate., The reporter gave an accurate account of the circumstances.) <-> genau, zutreffend, korrekt, sorgfältig, richtig
-<!--SR:!2024-09-19,4,279!2024-09-20,4,294-->
+<!--SR:!2024-10-07,18,299!2024-09-20,4,294-->
 acid(noun) (The chemical opposite of base is acid.) <-> Säure, Acid, LSD
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 acid(adjective) (I do not like acid fruits.) <-> sauer
-<!--SR:!2024-09-20,4,294!2024-09-19,4,279-->
+<!--SR:!2024-09-20,4,294!2024-10-04,15,299-->
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) <-> aktivieren, betätigen, freischalten, einschalten, auslösen
 <!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) <-> Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
-<!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
+<!--SR:!2024-09-20,4,282!2024-10-02,13,290-->
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) <-> zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei
 <!--SR:!2024-09-19,4,279!2024-09-20,4,282-->
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) <-> zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
@@ -76,7 +76,7 @@ Alien(noun) () <-> alien
 alongside(preposition) (I love walking alongside the river.) <-> neben, entlang, längs, lang
 <!--SR:!2024-09-20,4,282!2024-09-20,3,276-->
 alongside(adverb) () <-> daneben, Seite an Seite, an der Seite, nebenher, längsseits
-<!--SR:!2024-09-19,3,262!2024-09-21,4,297-->
+<!--SR:!2024-09-28,9,282!2024-09-21,4,297-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) <-> insgesamt, im Ganzen, alles in allem
 <!--SR:!2024-09-20,4,282!2024-09-21,4,296-->
 ambulance(noun) (The ambulance took the patient to the hospital.) <-> Krankenwagen, Ambulanz, Rettungswagen
@@ -84,7 +84,7 @@ ambulance(noun) (The ambulance took the patient to the hospital.) <-> Krankenwag
 amusing(adjective / present participle) (The comedy was very amusing.) <-> erheiternd, belustigend
 <!--SR:!2024-09-22,4,276!2024-09-20,4,282-->
 amusing oneself(present participle) () <-> sich unterhaltend
-<!--SR:!2024-09-19,3,262!2024-09-21,4,297-->
+<!--SR:!2024-09-30,11,282!2024-09-21,4,297-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) <-> unterhalten, amüsieren, belustigen
 <!--SR:!2024-09-21,4,297!2024-09-19,3,262-->
 to amuse oneself(verb) (The teenagers amused themselves at the fair.) <-> sich vergnügen, sich unterhalten, sich amüsieren
@@ -126,7 +126,7 @@ current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel
 <!--SR:!2000-01-01,1,250!2024-09-21,3,283-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
-<!--SR:!2024-09-19,1,260!2024-09-22,4,300-->
+<!--SR:!2024-09-23,4,280!2024-09-22,4,300-->
 deforestation(noun) () <-> Entwaldung, Abholzung, Rodung
 <!--SR:!2024-09-22,4,303!2024-09-22,4,300-->
 mechanization(noun) () <-> Mechanisierung, Technisierung
