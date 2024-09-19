@@ -201,4 +201,5 @@ purchase(noun) (He bought shoes and was happy with his purchase., Children canno
 to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) <-> kaufen, erwerben, beschaffen 
 commission(noun) (The commission will deal with this issue next week., The commission has agreed on a new resolution., I will get a commission for the good service.) <-> Kommission, Provision, Auftrag
 <!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
-to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) <-> beauftragen, in Dienst stellen, in Auftrag geben 
+to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) <-> beauftragen, in Dienst stellen, in Auftrag geben
+<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
