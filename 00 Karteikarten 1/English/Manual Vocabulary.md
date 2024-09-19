@@ -9,7 +9,7 @@ ubiquitous <-> allgegenwärtig, omnipräsent
 <!--SR:!2024-09-23,59,310!2025-02-23,168,317-->
 
 ameliorate <-> verbessern
-<!--SR:!2024-10-05,19,382!2024-09-19,6,362-->
+<!--SR:!2024-10-05,19,382!2024-10-18,29,382-->
 
 eternity <-> Limitless amount of time
 <!--SR:!2024-09-20,57,312!2024-09-30,65,317-->
@@ -21,7 +21,7 @@ oblivion <-> state of unawareness of everything
 <!--SR:!2025-02-19,164,312!2024-10-12,75,325-->
 
 plethora <-> an abundance of something, Überfluss an etwas
-<!--SR:!2024-10-04,67,317!2024-09-18,55,312-->
+<!--SR:!2024-10-04,67,317!2025-05-12,236,332-->
 
 quintessence <-> quintessenz
 <!--SR:!2024-09-19,58,312!2024-09-25,61,317-->
@@ -78,7 +78,7 @@ to eradicate <-> ausloeschen
 <!--SR:!2024-10-06,19,382!2024-09-20,4,344-->
 
 apposite <-> treffend
-<!--SR:!2024-09-20,4,344!2024-09-18,4,342-->
+<!--SR:!2024-09-20,4,344!2024-10-06,18,362-->
 
 dedication <-> Engagement, Einsatz
 <!--SR:!2024-10-01,15,363!2024-09-21,6,364-->
@@ -153,7 +153,7 @@ majority <-> Mehrzahl, Mehrheit
 <!--SR:!2024-12-02,85,368!2024-10-29,74,358-->
 
 to assert <-> geltend machen, durchsetzen
-<!--SR:!2024-09-27,10,278!2024-09-18,10,334-->
+<!--SR:!2024-09-27,10,278!2024-11-04,47,354-->
 
 humble <-> bescheiden, einfach, demütig
 <!--SR:!2024-11-02,77,358!2024-11-15,68,348-->
@@ -189,7 +189,7 @@ to contend <-> kämpfen, behaupten
 <!--SR:!2024-12-02,85,368!2024-10-14,61,338-->
 
 to perish <-> untergehen, sterben, zugrunde gehen
-<!--SR:!2024-09-18,10,328!2024-11-04,79,358-->
+<!--SR:!2024-09-24,6,308!2024-11-04,79,358-->
 
 to occupy <-> beschäftigen, belegen
 <!--SR:!2024-11-02,77,358!2024-11-25,78,368-->
@@ -210,5 +210,5 @@ allegedly <-> angeblich, vermeintlich
 <!--SR:!2024-10-01,48,348!2024-11-30,83,358-->
 
 exhilarate <-> erheitern, aufheitern
-<!--SR:!2024-09-23,6,365!2024-09-18,1,325-->
+<!--SR:!2024-09-23,6,365!2024-09-21,3,325-->
 
