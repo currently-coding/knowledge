@@ -31,8 +31,6 @@ accurate(adjective) (We need accurate figures with two digits after the decimal 
 <!--SR:!2024-10-04,15,299!2024-09-20,4,282-->
 accurately(adverb) (The report accurately portrays the economic situation., We use templates to reproduce shapes accurately.) <-> genau, akkurat, exakt, richtig
 <!--SR:!2024-10-07,18,299!2024-09-20,4,282-->
-accurate(adjective) (We need accurate figures with two digits after the decimal point., With this instrument you can get very accurate measurements., To write this article, I need accurate data., The audit found the financial statements to be accurate., The reporter gave an accurate account of the circumstances.) <-> genau, zutreffend, korrekt, sorgfältig, richtig
-<!--SR:!2024-10-07,18,299!2024-09-20,4,294-->
 acid(noun) (The chemical opposite of base is acid.) <-> Säure, Acid, LSD
 <!--SR:!2024-09-20,4,282!2024-10-03,14,290-->
 acid(adjective) (I do not like acid fruits.) <-> sauer
@@ -45,8 +43,6 @@ additionally(adverb) (Additionally, you will receive a discount on your next boo
 <!--SR:!2024-10-07,18,299!2024-09-20,4,282-->
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) <-> zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
 <!--SR:!2024-10-03,14,290!2024-09-20,4,282-->
-adequate(adjective) (An adequate amount of water is important on every hike., I finally received an adequate answer to my question., My income is not high, but it is adequate.) <-> ausreichend, angemessen, hinreichend
-<!--SR:!2024-09-28,10,270!2024-09-20,4,282-->
 adequately(adverb) () <-> angemessen, hinreichend, ausreichend, entsprechend
 <!--SR:!2024-09-20,4,282!2024-09-21,4,297-->
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) <-> angemessen, adäquat, hinreichend, ausreichend
@@ -126,11 +122,14 @@ debt relief(noun) (The bank granted the company only partial debt relief.) <-> S
 <!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
 current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 <!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
-fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel 
-to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren 
+fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel
+<!--SR:!2000-01-01,1,250!2024-09-23,4,310-->
+to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
+<!--SR:!2024-09-23,4,310!2000-01-01,1,250-->
 deforestation(noun) () <-> Entwaldung, Abholzung, Rodung
 <!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
-mechanization(noun) () <-> Mechanisierung, Technisierung 
+mechanization(noun) () <-> Mechanisierung, Technisierung
+<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
 to mechanize(verb) () <-> mechanisieren, technisieren
 <!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
 assembly line(noun) (Cars are usually put together on an assembly line.) <-> Band, Fließband, Montagelinie
@@ -149,9 +148,11 @@ e-commerce(noun) (Retailers sell a lot by e-commerce nowadays.) <-> E-Commerce, 
 <!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
 E-Commerce(noun) (Einzelhändler verkaufen heutzutage viel per E-Commerce.) <-> e-commerce, electronic commerce
 <!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
-offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) <-> Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung 
-Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) <-> offshoring 
-environmentalism(noun) () <-> Umweltschutz,
+offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) <-> Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung
+<!--SR:!2024-09-20,1,266!2000-01-01,1,250-->
+Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) <-> offshoring
+<!--SR:!2024-09-23,4,310!2000-01-01,1,250-->
+environmentalism(noun) () <-> Umweltschutz
 <!--SR:!2024-09-21,4,299!2024-09-23,4,306-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung
 <!--SR:!2000-01-01,1,250!2024-09-22,4,303-->
@@ -164,7 +165,7 @@ debt relief(noun) (The bank granted the company only partial debt relief.) <-> S
 current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 <!--SR:!2024-09-21,3,283!2024-09-23,4,280-->
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel
-<!--SR:!2000-01-01,1,250!2024-09-21,3,283-->
+<!--SR:!2024-09-22,3,286!2024-09-21,3,283-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
 <!--SR:!2024-09-23,4,280!2024-09-22,4,300-->
 deforestation(noun) () <-> Entwaldung, Abholzung, Rodung
@@ -173,7 +174,6 @@ mechanization(noun) () <-> Mechanisierung, Technisierung
 <!--SR:!2024-09-23,4,306!2024-09-22,4,303-->
 to mechanize(verb) () <-> mechanisieren, technisieren
 <!--SR:!2024-09-22,4,300!2024-09-23,4,306-->
-
 work ethic(noun) () <-> Arbeitsmoral, Arbeitsethik, Arbeitsethos
 <!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
 to subsidize(verb) (Corn is cheap because it is subsidized by the government.) <-> subventionieren, bezuschussen, finanziell unterstützen
@@ -198,7 +198,8 @@ to supply(verb) (The company supplies vehicles and spare parts for the American 
 <!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
 purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) <-> Kauf, Erwerb, Einkauf
 <!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
-to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) <-> kaufen, erwerben, beschaffen 
+to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) <-> kaufen, erwerben, beschaffen
+<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
 commission(noun) (The commission will deal with this issue next week., The commission has agreed on a new resolution., I will get a commission for the good service.) <-> Kommission, Provision, Auftrag
 <!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
 to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) <-> beauftragen, in Dienst stellen, in Auftrag geben

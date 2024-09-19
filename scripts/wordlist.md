@@ -44,8 +44,6 @@ insist
 reiterate
 stress the importance
 call attention to
-
-Challenge
 test
 obstacle
 difficulty
@@ -85,6 +83,47 @@ achievement
 victory
 triumph
 accomplishment
+Besides
+Further to this
+What’s more
+Equally important
+Along with
+Yet
+In spite of
+On the contrary
+Alternatively
+Instead
+Even so
+Nonetheless
+Because of
+Owing to the fact that
+For this purpose
+As a consequence
+With this in mind
+This leads to
+Due to the fact that
+In like manner
+Analogously
+In parallel
+Comparable to
+In a similar vein
+Taking everything into account
+With all this in mind
+To bring this to a close
+In brief
+In the final analysis
+To clarify
+As illustrated by
+As exemplified by
+As shown by
+By way of explanation
+Put differently
+Significantly
+Importantly
+Above all else
+Notably
+Particularly
+Without a doubt
 attainment
 realization
 fulfillment
