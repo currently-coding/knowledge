@@ -26,7 +26,7 @@ accountant(noun) (As he likes working with numbers, he will train to become an a
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) <-> Rechenschaft ablegen
 <!--SR:!2024-09-20,4,282!2024-09-27,9,279-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) <-> Richtigkeit, Genauigkeit, Präzision, Sorgfalt, Fehlerfreiheit, Exaktheit, Ganggenauigkeit, Treffsicherheit, Akkuratesse, Zielgenauigkeit, Treffgenauigkeit
-<!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
+<!--SR:!2024-09-20,4,282!2024-10-04,15,290-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) <-> genau, korrekt, sorgfältig, richtig
 <!--SR:!2024-10-04,15,299!2024-09-20,4,282-->
 accurately(adverb) (The report accurately portrays the economic situation., We use templates to reproduce shapes accurately.) <-> genau, akkurat, exakt, richtig
@@ -38,13 +38,13 @@ acid(noun) (The chemical opposite of base is acid.) <-> Säure, Acid, LSD
 acid(adjective) (I do not like acid fruits.) <-> sauer
 <!--SR:!2024-09-20,4,294!2024-10-04,15,299-->
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) <-> aktivieren, betätigen, freischalten, einschalten, auslösen
-<!--SR:!2024-09-20,4,282!2024-09-19,4,270-->
+<!--SR:!2024-09-20,4,282!2024-10-02,13,290-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) <-> Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
 <!--SR:!2024-09-20,4,282!2024-10-02,13,290-->
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) <-> zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei
-<!--SR:!2024-09-19,4,279!2024-09-20,4,282-->
+<!--SR:!2024-10-07,18,299!2024-09-20,4,282-->
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) <-> zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
-<!--SR:!2024-09-19,4,270!2024-09-20,4,282-->
+<!--SR:!2024-10-03,14,290!2024-09-20,4,282-->
 adequate(adjective) (An adequate amount of water is important on every hike., I finally received an adequate answer to my question., My income is not high, but it is adequate.) <-> ausreichend, angemessen, hinreichend
 <!--SR:!2024-09-28,10,270!2024-09-20,4,282-->
 adequately(adverb) () <-> angemessen, hinreichend, ausreichend, entsprechend
@@ -122,7 +122,7 @@ standard of living(noun) (Our standard of living is higher than 100 years ago.) 
 debt relief(noun) (The bank granted the company only partial debt relief.) <-> Schuldenerlass, Entschuldung, Schuldenerleichterung
 <!--SR:!2024-09-22,4,303!2024-09-22,4,303-->
 current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
-<!--SR:!2024-09-21,3,283!2024-09-19,1,260-->
+<!--SR:!2024-09-21,3,283!2024-09-23,4,280-->
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel
 <!--SR:!2000-01-01,1,250!2024-09-21,3,283-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
