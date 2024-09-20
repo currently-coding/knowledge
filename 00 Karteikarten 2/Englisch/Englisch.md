@@ -1,251 +1,235 @@
 
- to blossom <- blühen
+ to blossom <-> blühen
 
- to rant <- schimpfen
+ to rant <-> schimpfen
 
- to chant <- skandieren, singen
-
-
-
-
-<!--SR:!2024-09-21,3,230-->
- to linger <- verweilen, nachklingen, anhalten
+ to chant <-> skandieren, singen
+<!--SR:!2024-09-21,3,230-<->
+ to linger <-> verweilen, nachklingen, anhalten
 
 
-<!--SR:!2024-09-20,2,210-->
- dread <- Grauen, Furcht
+<!--SR:!2024-09-20,2,210-<->
+ dread <-> Grauen, Furcht
 
- rear <- Rückseite, Heck
+ rear <-> Rückseite, Heck
 
 
-<!--SR:!2024-09-20,2,210-->
- zest <- Schwung, Lust, Elan
+<!--SR:!2024-09-20,2,210-<->
+ zest <-> Schwung, Lust, Elan
 
-<!--SR:!2024-09-20,2,230-->
- to confess <- bekennen, gestehen, zugeben
+<!--SR:!2024-09-20,2,230-<->
+ to confess <-> bekennen, gestehen, zugeben
 
- incredulitiy <- Ungläubigkeit
+ incredulitiy <-> Ungläubigkeit
 
-<!--SR:!2024-09-20,2,230-->
- to flounder <- sich verhaspeln, zappeln
+<!--SR:!2024-09-20,2,230-<->
+ to flounder <-> sich verhaspeln, zappeln
 
-<!--SR:!2024-09-19,2,230-->
- sullen <- mürrisch
+<!--SR:!2024-09-19,2,230-<->
+ sullen <-> mürrisch
  
-<!--SR:!2024-09-20,2,230-->
- to balk <- sich scheuen, zurückschrecken
+<!--SR:!2024-09-20,2,230-<->
+ to balk <-> sich scheuen, zurückschrecken
 
-<!--SR:!2024-09-20,2,230-->
- quota <- Kontingent
+<!--SR:!2024-09-20,2,230-<->
+ quota <-> Kontingent
 
-<!--SR:!2024-09-20,2,230-->
- to eradicate <- ausrotten, beseitigen
+<!--SR:!2024-09-20,2,230-<->
+ to eradicate <-> ausrotten, beseitigen
 
- in-depth <- eingehend, detailliert
-
-
-<!--SR:!2024-09-20,2,230-->
- to be taken aback <- bestürzt sein
+ in-depth <-> eingehend, detailliert
 
 
-<!--SR:!2024-09-20,2,210-->
- dedication <- Einsatz, Engagement, HIngabe
-
-<!--SR:!2024-09-20,2,230-->
- apposite <- treffend, passgenau
-
- manslaughter <- Totschlag
+<!--SR:!2024-09-20,2,230-<->
+ to be taken aback <-> bestürzt sein
 
 
-<!--SR:!2024-09-25,7,250-->
- relentless <- unbarmherzig, schonungslos
+<!--SR:!2024-09-20,2,210-<->
+ dedication <-> Einsatz, Engagement, HIngabe
+
+<!--SR:!2024-09-20,2,230-<->
+ apposite <-> treffend, passgenau
+
+ manslaughter <-> Totschlag
 
 
-<!--SR:!2024-09-20,2,230-->
- to sustain <- erhalten, unterstützen
+<!--SR:!2024-09-25,7,250-<->
+ relentless <-> unbarmherzig, schonungslos
 
 
-<!--SR:!2024-09-24,6,250-->
-=======
-<!--SR:!2024-09-18,1,210-->
+<!--SR:!2024-09-20,2,230-<->
+ to sustain <-> erhalten, unterstützen
+<!--SR:!2024-09-18,1,210-<->
 
- to linger <- verweilen, nachklingen, anhalten
-<!--SR:!2024-09-18,1,210-->
+ to linger <-> verweilen, nachklingen, anhalten
+<!--SR:!2024-09-18,1,210-<->
 
- dread <- Grauen, Furcht
+ dread <-> Grauen, Furcht
 
- rear <- Rückseite, Heck
-<!--SR:!2024-09-18,1,210-->
+ rear <-> Rückseite, Heck
+<!--SR:!2024-09-18,1,210-<->
 
- zest <- Schwung, Lust, Elan
-<!--SR:!2024-09-14,1,230-->
+ zest <-> Schwung, Lust, Elan
+<!--SR:!2024-09-14,1,230-<->
 
- to confess <- bekennen, gestehen, zugeben
+ to confess <-> bekennen, gestehen, zugeben
 
- incredulitiy <- Ungläubigkeit
-<!--SR:!2024-09-14,1,230-->
+ incredulitiy <-> Ungläubigkeit
+<!--SR:!2024-09-14,1,230-<->
 
- to flounder <- sich verhaspeln, zappeln
-<!--SR:!2024-09-19,2,230-->
+ to flounder <-> sich verhaspeln, zappeln
+<!--SR:!2024-09-19,2,230-<->
 
- sullen <- mürrisch
- <!--SR:!2024-09-14,1,230-->
+ sullen <-> mürrisch
+ <!--SR:!2024-09-14,1,230-<->
  
- to balk <- sich scheuen, zurückschrecken
-<!--SR:!2024-09-14,1,230-->
+ to balk <-> sich scheuen, zurückschrecken
+<!--SR:!2024-09-14,1,230-<->
 
- quota <- Kontingent
-<!--SR:!2024-09-14,1,230-->
+ quota <-> Kontingent
+<!--SR:!2024-09-14,1,230-<->
 
- to eradicate <- ausrotten, beseitigen
+ to eradicate <-> ausrotten, beseitigen
 
- in-depth <- eingehend, detailliert
-<!--SR:!2024-09-14,1,230-->
+ in-depth <-> eingehend, detailliert
+<!--SR:!2024-09-14,1,230-<->
 
- to be taken aback <- bestürzt sein
-<!--SR:!2024-09-18,1,210-->
+ to be taken aback <-> bestürzt sein
+<!--SR:!2024-09-18,1,210-<->
 
- dedication <- Einsatz, Engagement, HIngabe
-<!--SR:!2024-09-14,1,230-->
+ dedication <-> Einsatz, Engagement, HIngabe
+<!--SR:!2024-09-14,1,230-<->
 
- apposite <- treffend, passgenau
+ apposite <-> treffend, passgenau
 
- manslaughter <- Totschlag
-<!--SR:!2024-09-16,3,250-->
+ manslaughter <-> Totschlag
+<!--SR:!2024-09-16,3,250-<->
 
- relentless <- unbarmherzig, schonungslos
-<!--SR:!2024-09-14,1,230-->
+ relentless <-> unbarmherzig, schonungslos
+<!--SR:!2024-09-14,1,230-<->
 
- to sustain <- erhalten, unterstützen
-<!--SR:!2024-09-16,3,250-->
+ to sustain <-> erhalten, unterstützen
+<!--SR:!2024-09-16,3,250-<->
 
->>>>>>> origin/main
- to lure <- locken
+ to lure <-> locken
 
- prevalent <- vorherrschend, verbreitet
+ prevalent <-> vorherrschend, verbreitet
 
- to perpetrate <- begehen, verüben
+ to perpetrate <-> begehen, verüben
 
- circumspect <- vorsichtig, umsichtig
+ circumspect <-> vorsichtig, umsichtig
 
- adamant <- unerbittlich
-<<<<<<< HEAD
+ adamant <-> unerbittlich
 
+ to target <->anvisieren, zum Ziel setzen
+<!--SR:!2000-01-01,1,250!2024-09-25,7,250-<->
 
-<!--SR:!2024-09-20,2,230-->
-=======
-<!--SR:!2024-09-14,1,230-->
 
->>>>>>> origin/main
- to target <-> anvisieren, zum Ziel setzen
-<!--SR:!2000-01-01,1,250!2024-09-25,7,250-->
+Schweiß <-> perspiration
+<!--SR:!2024-09-20,2,230-<->
 
+to wreck <-> zerstören, zu Grunde richten
 
-Schweiß -> perspiration
-<!--SR:!2024-09-20,2,230-->
+intidimidation <-> Einschüchterung, Nötigung
 
-to wreck <- zerstören, zu Grunde richten
+scant <-> knapp
 
-intidimidation <- Einschüchterung, Nötigung
+thuggish <-> aggressiv
 
-scant <- knapp
+unruly <-> widerspenstig
 
-thuggish <- aggressiv
+to concede sth. <-> einräumen, zugestehen
 
-unruly <- widerspenstig
+to hurl <-> schleudern
 
-to concede sth. <- einräumen, zugestehen
+to soar <-> steigen, segeln, hochschnellen
 
-to hurl <- schleudern
+to demonise <-> verteufeln
 
-to soar <- steigen, segeln, hochschnellen
+law-abiding <->gesetzestreu
 
-to demonise <- verteufeln
+indignantly <-> entrüstet, emport
 
-law-abiding <-gesetzestreu
+bric-a-bric <-> Nippes
 
-indignantly <- entrüstet, emport
+premises <-> Räumlichkeiten, Gelände
 
-bric-a-bric <- Nippes
+to foot one's bill <-> die Rechnung bezahlen
 
-premises <- Räumlichkeiten, Gelände
+to fault <-> bemängeln
 
-to foot one's bill <- die Rechnung bezahlen
+gorgeous <-> wunderschön, großartig
 
-to fault <- bemängeln
+tax rackit <-> Steuerbetrag
 
-gorgeous <- wunderschön, großartig
+redundant <-> überflüssig
 
-tax rackit <- Steuerbetrag
+to batter <-> schlagen, zertrümmern
 
-redundant <- überflüssig
+to depress <->drücken, deprimieren
 
-to batter <- schlagen, zertrümmern
+delicate <-> zart, delikat, fein, empfindlich
 
-to depress <-drücken, deprimieren
+to loathe <-> verabscheuen, hassen
 
-delicate <- zart, delikat, fein, empfindlich
+to connote <-> bedeuten, konnotieren
 
-to loathe <- verabscheuen, hassen
+primordial <-> primordial, ursprünglich
 
-to connote <- bedeuten, konnotieren
+to marvel <-> sich wundern
 
-primordial <- primordial, ursprünglich
+to conceive <-> konzipieren
 
-to marvel <- sich wundern
+to beseech <-> beschwören, anflehen
 
-to conceive <- konzipieren
+opinionated <-> eigenwillig, rechthaberisch
 
-to beseech <- beschwören, anflehen
+to exude <-> verströmen, ausstrahlen
 
-opinionated <- eigenwillig, rechthaberisch
+barring (Präp.) <-> abgesehen von
 
-to exude <- verströmen, ausstrahlen
+imperceptible <-> unmerklich, nicht wahrnehmbar
 
-barring (Präp.) <- abgesehen von
+conscientious <-> gewissenhaft, verantwortlich
 
-imperceptible <- unmerklich, nicht wahrnehmbar
+trepidation <-> Angst, Bange
 
-conscientious <- gewissenhaft, verantwortlich
+infirm <-> gebrechlich, schwach
 
-trepidation <- Angst, Bange
+to deprive <-> etw. entziehen, berauben
 
-infirm <- gebrechlich, schwach
+to grapple <-> anpacken
 
-to deprive <- etw. entziehen, berauben
+to probe <-> erforschen
 
-to grapple <- anpacken
+antagonistic <-> antagonistisch
 
-to probe <- erforschen
+prone <-> anfällig für
 
-antagonistic <- antagonistisch
+assertive <-> durchsetzungsfähig, selbstbewusst
 
-prone <- anfällig für
+retaliation <-> Vergeltung, Gegenschlag
 
-assertive <- durchsetzungsfähig, selbstbewusst
+to relent <-> nachgeben, einlecken
 
-retaliation <- Vergeltung, Gegenschlag
+to roam <-> durchstreifen, herumwandern
 
-to relent <- nachgeben, einlecken
+to elaborate <-> erarbeiten, ausarbeiten
 
-to roam <- durchstreifen, herumwandern
+to disregard <-> missachten, ignorieren
 
-to elaborate <- erarbeiten, ausarbeiten
+with impunity <-> straffrei
 
-to disregard <- missachten, ignorieren
+to baffle <-> verblüffen, verwirren
 
-with impunity <- straffrei
+utterance <-> Äußerung
 
-to baffle <- verblüffen, verwirren
+aftermath <-> Folge, Nachwirkung
 
-utterance <- Äußerung
+on the leading edge <-> auf der Höhe der Zeit
 
-aftermath <- Folge, Nachwirkung
+to discern <-> erkennen, unterscheiden
 
-on the leading edge <- auf der Höhe der Zeit
+to revile <-> schmähen
 
-to discern <- erkennen, unterscheiden
-
-to revile <- schmähen
-
-utterly <- absolut
+utterly <-> absolut
