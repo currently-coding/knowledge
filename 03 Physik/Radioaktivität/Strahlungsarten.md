@@ -4,16 +4,14 @@ tags:
   - radioaktivität
 ---
 # $\alpha$ - Strahlung
-- Ladung $2\
+- Ladung $2+$
 ## Grund
 - Hohe Protonenzahl -> Große Abstoßungskräfte
-<!--SR:!2024-09-19,1,230-->
 
 ## Lösung
 - Abgabe eines $\alpha$-Teilchens(= Helium Atom)
 -> Reduktion der Nukleonenzahl um *4*
 -> Reduktion der Protonenzahl um *2*
-<!--SR:!2024-09-19,1,230-->
 => Kernumwandlung
 
 # $\beta$ - Strahlung
@@ -28,8 +26,6 @@ tags:
 
 
 # $\gamma$ - Strahlung
-
-
 
 |             | $\alpha$ - Strahlung | $\beta$ - Strahlung | $\gamma$ - Strahlung |
 | ----------- | -------------------- | ------------------- | -------------------- |
