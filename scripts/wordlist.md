@@ -1,32 +1,145 @@
-assembly line
-trade deficit
-urbanization
-diversify
-e-commerce
-offshoring
-environmentalism
-work ethic
-subsidize
-launch
-welfare
-livelihood
-flourish
-supplier
-purchase
-to commission
-state of the art
-decline
-promote
-inequality
-wealth
-tax
-recession
+It is worth noting that...
+As a result, it follows that...
+To a large extent...
+It is essential to consider...
+Furthermore, it should be emphasized...
+One could contend that...
+A prominent example of this is...
+This suggests that...
+The evidence strongly indicates...
+This supports the view that...
+In conclusion, it can be seen that...
+Taking all of this into account...
+With this in mind...
+Consequently, it becomes apparent that...
+A critical analysis would reveal...
+This approach underscores the importance of...
+A plausible explanation could be...
+Thus, it becomes evident that...
+emphasize
+highlight
+underscore
+accentuate
+draw attention to
+press
+insist
+reiterate
+stress the importance
+call attention to
+test
+obstacle
+difficulty
+hurdle
+trial
+problem
+opposition
+dare
+contend
+confrontation
+To Cause
+trigger
+induce
+bring about
+engender
+provoke
+incite
+result in
+lead to
+instigate
+generate
+To Improve
+enhance
+refine
+augment
+elevate
+polish
+boost
+advance
+better
+upgrade
+enrich
+Success
+achievement
+victory
+triumph
+accomplishment
+Besides
+Further to this
+What’s more
+Equally important
+Along with
+Yet
+In spite of
+On the contrary
+Alternatively
+Instead
+Even so
+Nonetheless
+Because of
+Owing to the fact that
+For this purpose
+As a consequence
+With this in mind
+This leads to
+Due to the fact that
+In like manner
+Analogously
+In parallel
+Comparable to
+In a similar vein
+Taking everything into account
+With all this in mind
+To bring this to a close
+In brief
+In the final analysis
+To clarify
+As illustrated by
+As exemplified by
+As shown by
+By way of explanation
+Put differently
+Significantly
+Importantly
+Above all else
+Notably
+Particularly
+Without a doubt
+attainment
+realization
+fulfillment
 prosperity
-accelerate
-facilitate
-marginalization
-distribution
-
+mastery
+conquest
+invent
+craft
+design
+formulate
+compose
+generate
+construct
+produce
+originate
+conceive
+comprehend
+grasp
+fathom
+perceive
+discern
+recognize
+realize
+interpret
+appreciate
+internalize
+resolve
+fix
+address
+clarify
+rectify
+settle
+untangle
+work out
+remedy
+figure out
 anticipate
 anxiety
 apology
@@ -244,18 +357,6 @@ exposure
 extension
 extensive
 extensively
-©
-Oxford
-University
-Press
-2
-/
-8The
-Oxford
-5000™
-by
-CEFR
-level
 extract
 fabric
 fabulous
@@ -543,18 +644,7 @@ rebuild
 receiver
 recession
 reckon
-©
-Oxford
-University
-Press
-7
-/
-8The
-Oxford
-5000™
-by
-CEFR
-level
+
 prospective
 prosperity
 protective
@@ -640,7 +730,6 @@ retrieve
 revelation
 revenge
 reverse
-,
 revival
 revive
 revolutionary
