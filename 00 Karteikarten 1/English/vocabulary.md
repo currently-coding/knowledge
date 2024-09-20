@@ -108,24 +108,24 @@ trade barrier(noun) (The trade barrier was part of the sanctions., The trade bar
 barrier to trade(noun) () <-> Handelshemmnis
 <!--SR:!2024-09-21,4,299!2024-09-21,3,259-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) <-> Wechselkurs, Kurs, Devisenkurs
-<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
+<!--SR:!2024-09-24,4,318!2024-09-23,4,306-->
 <<<<<<< HEAD
 
 <!--SR:!2024-09-21,4,299-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung
-<!--SR:!2024-09-21,1,246!2000-01-01,1,250-->
+<!--SR:!2024-09-21,1,246!2024-09-24,4,317-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen
-<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
+<!--SR:!2024-09-24,4,317!2024-09-23,4,306-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) <-> Lebensstandard, Lebenshaltung
-<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
+<!--SR:!2024-09-24,4,318!2024-09-23,4,306-->
 debt relief(noun) (The bank granted the company only partial debt relief.) <-> Schuldenerlass, Entschuldung, Schuldenerleichterung
 <!--SR:!2024-09-23,4,306!2024-09-24,4,311-->
 current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
-<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,306!2024-09-24,4,319-->
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel
-<!--SR:!2000-01-01,1,250!2024-09-23,4,310-->
+<!--SR:!2024-09-24,4,319!2024-09-23,4,310-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
-<!--SR:!2024-09-23,4,310!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,310!2024-09-24,4,319-->
 deforestation(noun) () <-> Entwaldung, Abholzung, Rodung
 <!--SR:!2024-09-24,4,311!2024-09-23,4,306-->
 mechanization(noun) () <-> Mechanisierung, Technisierung
@@ -133,27 +133,27 @@ mechanization(noun) () <-> Mechanisierung, Technisierung
 to mechanize(verb) () <-> mechanisieren, technisieren
 <!--SR:!2024-09-23,4,306!2024-09-24,4,311-->
 assembly line(noun) (Cars are usually put together on an assembly line.) <-> Band, Fließband, Montagelinie
-<!--SR:!2000-01-01,1,250!2024-09-24,4,286-->
+<!--SR:!2024-09-24,4,317!2024-09-24,4,286-->
 trade deficit(noun) () <-> Handelsbilanzdefizit, Handelsdefizit, Außenhandelsdefizit
-<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
+<!--SR:!2024-09-24,4,318!2024-09-23,4,306-->
 urbanization(noun) () <-> Urbanisierung, Verstädterung, Urbanisation
 <!--SR:!2024-09-24,4,317!2024-09-23,4,306-->
 to urbanize(verb) () <-> urbanisieren, verstädtern
-<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,306!2024-09-24,4,318-->
 to diversify(verb) (The trader wants to diversify his portfolio.) <-> diversifizieren, variieren, differenzieren
-<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
+<!--SR:!2024-09-23,3,297!2024-09-23,4,306-->
 commerce(noun) (A lot of commerce was conducted in this town a century ago.) <-> Handel, Verkehr, Kommerz
-<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,306!2024-09-24,4,318-->
 e-commerce(noun) (Retailers sell a lot by e-commerce nowadays.) <-> E-Commerce, elektronischer Geschäftsverkehr
-<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,306!2024-09-24,4,319-->
 offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) <-> Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung
-<!--SR:!2024-09-24,4,286!2000-01-01,1,250-->
+<!--SR:!2024-09-24,4,286!2024-09-24,4,318-->
 Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) <-> offshoring
-<!--SR:!2024-09-23,4,310!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,310!2024-09-24,4,319-->
 environmentalism(noun) () <-> Umweltschutz
 <!--SR:!2024-09-21,4,299!2024-09-23,4,306-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung
-<!--SR:!2000-01-01,1,250!2024-09-22,4,303-->
+<!--SR:!2024-09-24,4,318!2024-09-22,4,303-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen
 <!--SR:!2024-09-23,4,306!2024-09-22,4,300-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) <-> Lebensstandard, Lebenshaltung
@@ -166,69 +166,71 @@ fund(noun) (The city set up a fund to help the homeless., The charity is respons
 <!--SR:!2024-09-22,3,286!2024-09-21,3,283-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
 <!--SR:!2024-09-23,4,280!2024-09-22,4,300-->
-deforestation(noun) () <-> Entwaldung, Abholzung, Rodung
-<!--SR:!2024-09-22,4,303!2024-09-22,4,300-->
 mechanization(noun) () <-> Mechanisierung, Technisierung
 <!--SR:!2024-09-23,4,306!2024-09-22,4,303-->
 to mechanize(verb) () <-> mechanisieren, technisieren
 <!--SR:!2024-09-22,4,300!2024-09-23,4,306-->
 work ethic(noun) () <-> Arbeitsmoral, Arbeitsethik, Arbeitsethos
-<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
+<!--SR:!2024-09-24,4,318!2024-09-23,4,306-->
 to subsidize(verb) (Corn is cheap because it is subsidized by the government.) <-> subventionieren, bezuschussen, finanziell unterstützen
-<!--SR:!2024-09-24,4,286!2000-01-01,1,250-->
+<!--SR:!2024-09-24,4,286!2024-09-24,4,318-->
 launch(noun) (Mission control postponed the launch of the space shuttle., We are preparing the product launch., We are planning a pan-European launch for September., The launch of the new system went smoothly.) <-> Launch, Start, Markteinführung
-<!--SR:!2024-09-22,3,286!2000-01-01,1,250-->
+<!--SR:!2024-09-22,3,286!2024-09-24,4,317-->
 to launch(verb) (The space agency will launch a rocket next month., The company will launch a new product this year., The company launched a new communication system., The fireworks are launched at midnight., The shipping company launched their new cruise ship.) <-> starten, einführen
-<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
+<!--SR:!2024-09-24,4,319!2024-09-23,4,306-->
 Launch(noun) () <-> launch
-<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,306!2024-09-24,4,319-->
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) <-> Wohlfahrt, Wohl, Wohlergehen
-<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,306!2024-09-24,4,317-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) <-> Lebensunterhalt, Lebensgrundlage, Existenz
-<!--SR:!2000-01-01,1,250!2024-09-24,4,286-->
+<!--SR:!2024-09-23,3,298!2024-09-24,4,286-->
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) <-> gedeihen, florieren, aufblühen
-<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,306!2024-09-24,4,317-->
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) <-> Verzierung, Schnörkel, Fanfare
 <!--SR:!2024-09-23,3,266!2024-09-24,4,311-->
 supplier(noun) (Our supplier delivers high-quality products., The suppliers are selected through tendering., I am the only supplier of the brand in Italy., We are the largest supplier of electrical goods in the region., Car manufacturers buy parts from many suppliers.) <-> Lieferant, Anbieter, Zulieferer
-<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,306!2024-09-24,4,317-->
 to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) <-> liefern, mitliefern, beliefern
-<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
+<!--SR:!2024-09-21,1,278!2024-09-23,4,306-->
 purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) <-> Kauf, Erwerb, Einkauf
 <!--SR:!2024-09-23,4,306!2024-09-24,4,311-->
 to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) <-> kaufen, erwerben, beschaffen
-<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
+<!--SR:!2024-09-24,4,319!2024-09-23,4,306-->
 commission(noun) (The commission will deal with this issue next week., The commission has agreed on a new resolution., I will get a commission for the good service.) <-> Kommission, Provision, Auftrag
-<!--SR:!2000-01-01,1,250!2024-09-23,4,306-->
+<!--SR:!2024-09-24,4,317!2024-09-23,4,306-->
 to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) <-> beauftragen, in Dienst stellen, in Auftrag geben
-<!--SR:!2024-09-23,4,306!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,306!2024-09-24,4,317-->
 state-of-the-art(adjective) (The new school will have state-of-the-art classrooms., The new alarm system uses state-of-the-art technology.) <-> hochmodern, modernst
-<!--SR:!2024-09-23,4,311!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,311!2024-09-24,4,319-->
 state of the art(noun) () <-> Stand der Technik
-<!--SR:!2000-01-01,1,250!2024-09-24,4,290-->
+<!--SR:!2024-09-24,4,319!2024-09-24,4,290-->
 decline(noun) (We have witnessed a sharp decline in oil prices., The decline in sales worries the investors., The investors are not worried by the decline in sales., The country's economic decline came after the crisis.) <-> Rückgang, Sinken, Abnahme
 <!--SR:!2024-09-23,4,310!2024-09-24,4,311-->
 to decline(verb) (Air pollution is declining due to ecological reforms., My friend declined my invitation for lunch., The recession is over and unemployment is declining., Unemployment has declined with the recovery of the economy., The mortality rate is declining, people are living longer., The growth rate of exports has recently declined., I can correctly decline most Latin nouns., For my homework, I had to decline ten nouns.) <-> sinken, ablehnen, zurückgehen
-<!--SR:!2024-09-24,4,290!2000-01-01,1,250-->
+<!--SR:!2024-09-24,4,290!2024-09-24,4,319-->
 to promote(verb) (Our university promotes international student exchange., We promote cooperation among companies., My institution promotes various ecological initiatives., A new manager was hired to promote development., We need to promote our new product if we want to sell more., The meeting is intended to promote cooperation., I was promoted to head of department today.) <-> fördern, promoten, unterstützen
 <!--SR:!2024-09-21,1,277!2024-09-23,4,310-->
 inequality(noun) (Inequalities need to be redressed.) <-> Ungleichheit, Ungleichstellung, Ungleichung
-<!--SR:!2000-01-01,1,250!2024-09-23,4,310-->
+<!--SR:!2024-09-24,4,317!2024-09-23,4,310-->
 wealth(noun) (Thanks to his wealth, he can buy anything he likes., The book contains a wealth of information., The family's wealth was based on the tenure of land.) <-> Reichtum, Fülle, Wohlstand
-<!--SR:!2000-01-01,1,250!2024-09-23,4,310-->
+<!--SR:!2024-09-23,3,298!2024-09-23,4,310-->
 tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) <-> Steuer, Abgabe, Zins
 <!--SR:!2024-09-24,4,311!2024-09-23,4,310-->
 to tax(verb) (The government decided to tax corporate profits., He taxed her patience for hours.) <-> besteuern, strapazieren, versteuern
-<!--SR:!2024-09-23,3,270!2000-01-01,1,250-->
+<!--SR:!2024-09-23,3,270!2024-09-24,4,317-->
 recession(noun) (The recession is over and unemployment is declining., The boom after the recession meant many new jobs for the unemployed., The company registered a recession in sales., We have now overcome the recession and business is booming.) <-> Rezession, Rückgang, Flaute
-<!--SR:!2024-09-23,4,310!2000-01-01,1,250-->
+<!--SR:!2024-09-23,4,310!2024-09-24,4,317-->
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) <-> Wohlstand, Prosperität, Erfolg
-<!--SR:!2024-09-21,1,250!2000-01-01,1,250-->
+<!--SR:!2024-09-21,1,250!2024-09-24,4,319-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) <-> beschleunigen, sich beschleunigen, vorantreiben
-<!--SR:!2024-09-23,4,311!2000-01-01,1,250-->
-to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) <-> erleichtern, fördern, ermöglichen 
-marginalization(noun) () <-> Marginalisierung, Ausgrenzung 
-to marginalize(verb) (We integrate minority groups and do not marginalize them.) <-> marginalisieren 
-distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) <-> Verteilung, Vertrieb, Distribution 
+<!--SR:!2024-09-23,4,311!2024-09-24,4,317-->
+to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) <-> erleichtern, fördern, ermöglichen
+<!--SR:!2024-09-21,1,279!2024-09-21,1,277-->
+marginalization(noun) () <-> Marginalisierung, Ausgrenzung
+<!--SR:!2024-09-23,3,298!2024-09-24,4,318-->
+to marginalize(verb) (We integrate minority groups and do not marginalize them.) <-> marginalisieren
+<!--SR:!2024-09-24,4,317!2024-09-24,4,318-->
+distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) <-> Verteilung, Vertrieb, Distribution
+<!--SR:!2024-09-23,3,297!2024-09-24,4,317-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) <-> verteilen, vertreiben, ausschütten
 <!--SR:!2024-09-23,3,297!2024-09-24,4,317-->

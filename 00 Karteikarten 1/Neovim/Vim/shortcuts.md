@@ -25,7 +25,7 @@ n: Increase Window Width ->\<C-Right>
 n: Prev Buffer ->\<S-h>
 <!--SR:!2024-09-21,4,170-->
 n: Next Buffer ->\<S-l>
-<!--SR:!2024-09-20,1,209-->
+<!--SR:!2024-09-23,3,229-->
 n: Prev Buffer -> [b
 <!--SR:!2024-10-22,33,287-->
 n: Next Buffer -> ]b
@@ -33,7 +33,7 @@ n: Next Buffer -> ]b
 n: Switch to Other Buffer ->\<leader>bb
 <!--SR:!2024-09-23,10,270-->
 n: Switch to Other Buffer ->\<leader>`
-<!--SR:!2024-09-20,1,169-->
+<!--SR:!2024-09-21,1,149-->
 n: Delete Buffer ->\<leader>bd
 <!--SR:!2024-09-21,8,269-->
 n: Delete Buffer and Window ->\<leader>bD
@@ -61,7 +61,7 @@ n: New File ->\<leader>fn
 n: Location List ->\<leader>xl
 <!--SR:!2024-09-26,11,246-->
 n: Quickfix List ->\<leader>xq
-<!--SR:!2024-09-20,1,169-->
+<!--SR:!2024-09-22,2,189-->
 n: Previous Quickfix -> [q
 <!--SR:!2024-09-23,10,289-->
 n: Next Quickfix -> ]q
@@ -75,7 +75,7 @@ n: Next Diagnostic -> ]d
 n: Prev Diagnostic -> [d
 <!--SR:!2024-09-26,13,289-->
 n: Next Error -> ]e
-<!--SR:!2024-09-20,7,229-->
+<!--SR:!2024-10-12,22,249-->
 n: Prev Error -> [e
 <!--SR:!2024-09-26,13,289-->
 n: Next Warning -> ]w
