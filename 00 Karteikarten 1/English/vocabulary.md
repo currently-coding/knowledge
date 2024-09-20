@@ -228,3 +228,9 @@ prosperity(noun) (His whole family lived in prosperity., I wished her luck and p
 <!--SR:!2024-09-20,1,270!2000-01-01,1,250-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) <-> beschleunigen, sich beschleunigen, vorantreiben
 <!--SR:!2024-09-23,4,311!2000-01-01,1,250-->
+to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) <-> erleichtern, fördern, ermöglichen 
+marginalization(noun) () <-> Marginalisierung, Ausgrenzung 
+to marginalize(verb) (We integrate minority groups and do not marginalize them.) <-> marginalisieren 
+distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) <-> Verteilung, Vertrieb, Distribution 
+to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) <-> verteilen, vertreiben, ausschütten 
+Distribution(noun) () <-> distribution 
