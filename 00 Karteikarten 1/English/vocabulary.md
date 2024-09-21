@@ -242,3 +242,6 @@ distribution(noun) (The distribution of goods must be done fairly., The distribu
 <!--SR:!2024-09-23,3,297!2024-09-24,4,317-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) <-> verteilen, vertreiben, ausschütten
 <!--SR:!2024-09-23,3,297!2024-09-24,4,317-->
+with this in mind() () <-> in diesem Sinne, zu diesem Zweck 
+fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) <-> Bruchteil, Fraktion, Bruch 
+memorable(adjective) (The royal wedding was a memorable event.) <-> denkwürdig, einprägsam, unvergesslich 
