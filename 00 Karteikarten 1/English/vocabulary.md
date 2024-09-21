@@ -223,8 +223,6 @@ recession(noun) (The recession is over and unemployment is declining., The boom 
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) <-> Wohlstand, Prosperität, Erfolg
 <!--SR:!2024-09-21,1,250!2024-09-24,4,319-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) <-> beschleunigen, sich beschleunigen, vorantreiben
-<<<<<<< HEAD
-
 <!--SR:!2024-09-23,4,311-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) <-> erleichtern, fördern, ermöglichen 
 marginalization(noun) () <-> Marginalisierung, Ausgrenzung 
@@ -233,8 +231,6 @@ distribution(noun) (The distribution of goods must be done fairly., The distribu
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) <-> verteilen, vertreiben, ausschütten 
 Distribution(noun) () <-> distribution 
 to a large extent(adverb) () <-> in hohem Maße, zum großen Teil, in hohem Ausmaß 
-=======
-
 <!--SR:!2024-09-23,4,311-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) <-> erleichtern, fördern, ermöglichen
 <!--SR:!2024-09-21,1,279!2024-09-21,1,277-->
@@ -246,4 +242,3 @@ distribution(noun) (The distribution of goods must be done fairly., The distribu
 <!--SR:!2024-09-23,3,297!2024-09-24,4,317-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) <-> verteilen, vertreiben, ausschütten
 <!--SR:!2024-09-23,3,297!2024-09-24,4,317-->
->>>>>>> origin/main
