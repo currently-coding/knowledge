@@ -42,7 +42,8 @@
       "11 Wirtschaft",
       "12 Latein",
       "13 Mathematik",
-      "00 Karteikarten 1/Ignore"
+      "00 Karteikarten 1/Ignore",
+      "14 CS"
     ],
     "openRandomNote": false,
     "autoNextNote": false,

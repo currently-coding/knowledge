@@ -50,7 +50,7 @@ adequate(adjective) (I finally received an adequate answer to my question., My i
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) <-> anpassen, einstellen, abstimmen, verstellen
 <!--SR:!2024-10-05,15,302!2024-09-21,4,297-->
 to adjust oneself(verb) () <-> sich anpassen
-<!--SR:!2024-09-21,4,301!2024-10-02,12,282-->
+<!--SR:!2024-10-07,16,321!2024-10-02,12,282-->
 to adjust oneself to(verb) () <-> sich anpassen an
 <!--SR:!2024-09-21,4,299!2024-10-01,11,282-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) <-> erschwinglich, bezahlbar, preiswert, kostengünstig
