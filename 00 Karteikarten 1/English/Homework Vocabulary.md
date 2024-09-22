@@ -11,7 +11,7 @@ to dominate sth. <-> etwas dominieren
 <!--SR:!2024-09-22,4,286!2024-09-21,4,276-->
 
 to face competition <-> (sich) einem Wettbewerb stellen
-<!--SR:!2024-09-21,4,276!2024-09-22,4,286-->
+<!--SR:!2024-09-21,4,276!2024-10-07,15,306-->
 
 at the expense of sb./sth. <-> auf Kosten/zulasten von jmd./etw.
 <!--SR:!2024-09-21,4,274!2024-09-21,4,276-->
