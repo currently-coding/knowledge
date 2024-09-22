@@ -260,3 +260,17 @@ greenhouse(noun) (Most greenhouses have a glass roof.) <-> Gewächshaus, Glashau
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) <-> Beteiligung, Anteil, Einsatz 
 to stake(verb) () <-> einsetzen, abstecken, pfählen 
 Stake(noun) () <-> pole, punt pole 
+in parallel(adverb) (Both events took place in parallel.) <-> nebeneinander, zeitgleich 
+versus(preposition) (Today's rugby match is England versus France.) <-> gegen, contra, kontra 
+versus(noun) () <-> Rückseite einer Münze 
+shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) <-> Aktionär, Gesellschafter, Anteilseigner 
+outstanding(adjective) () <-> ausgezeichnet, außergewöhnlich, fällig 
+dive(noun) () <-> Tauchen, Tauchgang, Sprung 
+to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) <-> tauchen, springen, untertauchen 
+probable(adjective) () <-> wahrscheinlich, voraussichtlich, vermutlich 
+nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) <-> heute, heutzutage, gegenwärtig 
+to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) <-> schrumpfen, sich verkleinern, einlaufen 
+shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) <-> Seelenklempner, Psychiater, Klapsdoktor 
+shrink(noun) () <-> Psychotherapeut, Psychotherapeutin 
+piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) <-> Stück, Teil, Spielfigur 
+to piece(verb) (She pieced the quilt from patches of cloth.) <-> zusammensetzen 

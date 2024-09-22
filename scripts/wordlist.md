@@ -1,12 +1,3 @@
-In parallel
-versus
-shareholder
-outstanding
-dive
-probable
-nowadays
-shrink
-piece)
 Besides
 As a consequence
 engender
