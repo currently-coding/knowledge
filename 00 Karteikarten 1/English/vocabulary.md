@@ -245,3 +245,18 @@ to distribute(verb) (My sister distributes leaflets to earn some pocket money., 
 with this in mind() () <-> in diesem Sinne, zu diesem Zweck 
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) <-> Bruchteil, Fraktion, Bruch 
 memorable(adjective) (The royal wedding was a memorable event.) <-> denkwürdig, einprägsam, unvergesslich 
+conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) <-> konventionell, herkömmlich, gängig 
+convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) <-> Übereinkommen, Konvention, Tagung 
+recipient(noun) (This year, the recipient of our donation will be a school.) <-> Empfänger, Abnehmer, Bezieher 
+recipient(adjective) () <-> empfangsbereit 
+electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) <-> elektronisch 
+theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) <-> theoretisch, rein gedanklich, kalkulatorisch 
+to tempt(verb) (The wonderful weather tempted me to leave early.) <-> verleiten, locken, verführen 
+passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) <-> leidenschaftlich, glühend, passioniert 
+receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) <-> Empfänger, Receiver, Hörer 
+to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) <-> empfangen, erhalten, bekommen 
+Receiver(noun) () <-> receiver 
+greenhouse(noun) (Most greenhouses have a glass roof.) <-> Gewächshaus, Glashaus, Treibhaus 
+stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) <-> Beteiligung, Anteil, Einsatz 
+to stake(verb) () <-> einsetzen, abstecken, pfählen 
+Stake(noun) () <-> pole, punt pole 

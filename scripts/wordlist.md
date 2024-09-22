@@ -1,12 +1,3 @@
-conventional
-recipient
-electronics
-theoretical
-tempt
-passionate
-receiver
-greenhouse
-stake
 In parallel
 versus
 shareholder
