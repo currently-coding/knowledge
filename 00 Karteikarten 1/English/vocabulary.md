@@ -50,7 +50,7 @@ adequate(adjective) (I finally received an adequate answer to my question., My i
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) <-> anpassen, einstellen, abstimmen, verstellen
 <!--SR:!2024-10-05,15,302!2024-09-21,4,297-->
 to adjust oneself(verb) () <-> sich anpassen
-<!--SR:!2024-09-21,4,301!2024-10-02,12,282-->
+<!--SR:!2024-10-07,16,321!2024-10-02,12,282-->
 to adjust oneself to(verb) () <-> sich anpassen an
 <!--SR:!2024-09-21,4,299!2024-10-01,11,282-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) <-> erschwinglich, bezahlbar, preiswert, kostengünstig
@@ -223,7 +223,15 @@ recession(noun) (The recession is over and unemployment is declining., The boom 
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) <-> Wohlstand, Prosperität, Erfolg
 <!--SR:!2024-09-21,1,250!2024-09-24,4,319-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) <-> beschleunigen, sich beschleunigen, vorantreiben
-<!--SR:!2024-09-23,4,311!2024-09-24,4,317-->
+<!--SR:!2024-09-23,4,311-->
+to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) <-> erleichtern, fördern, ermöglichen 
+marginalization(noun) () <-> Marginalisierung, Ausgrenzung 
+to marginalize(verb) (We integrate minority groups and do not marginalize them.) <-> marginalisieren 
+distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) <-> Verteilung, Vertrieb, Distribution 
+to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) <-> verteilen, vertreiben, ausschütten 
+Distribution(noun) () <-> distribution 
+to a large extent(adverb) () <-> in hohem Maße, zum großen Teil, in hohem Ausmaß 
+<!--SR:!2024-09-23,4,311-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) <-> erleichtern, fördern, ermöglichen
 <!--SR:!2024-09-21,1,279!2024-09-21,1,277-->
 marginalization(noun) () <-> Marginalisierung, Ausgrenzung
@@ -234,3 +242,35 @@ distribution(noun) (The distribution of goods must be done fairly., The distribu
 <!--SR:!2024-09-23,3,297!2024-09-24,4,317-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) <-> verteilen, vertreiben, ausschütten
 <!--SR:!2024-09-23,3,297!2024-09-24,4,317-->
+with this in mind() () <-> in diesem Sinne, zu diesem Zweck 
+fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) <-> Bruchteil, Fraktion, Bruch 
+memorable(adjective) (The royal wedding was a memorable event.) <-> denkwürdig, einprägsam, unvergesslich 
+conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) <-> konventionell, herkömmlich, gängig 
+convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) <-> Übereinkommen, Konvention, Tagung 
+recipient(noun) (This year, the recipient of our donation will be a school.) <-> Empfänger, Abnehmer, Bezieher 
+recipient(adjective) () <-> empfangsbereit 
+electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) <-> elektronisch 
+theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) <-> theoretisch, rein gedanklich, kalkulatorisch 
+to tempt(verb) (The wonderful weather tempted me to leave early.) <-> verleiten, locken, verführen 
+passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) <-> leidenschaftlich, glühend, passioniert 
+receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) <-> Empfänger, Receiver, Hörer 
+to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) <-> empfangen, erhalten, bekommen 
+Receiver(noun) () <-> receiver 
+greenhouse(noun) (Most greenhouses have a glass roof.) <-> Gewächshaus, Glashaus, Treibhaus 
+stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) <-> Beteiligung, Anteil, Einsatz 
+to stake(verb) () <-> einsetzen, abstecken, pfählen 
+Stake(noun) () <-> pole, punt pole 
+in parallel(adverb) (Both events took place in parallel.) <-> nebeneinander, zeitgleich 
+versus(preposition) (Today's rugby match is England versus France.) <-> gegen, contra, kontra 
+versus(noun) () <-> Rückseite einer Münze 
+shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) <-> Aktionär, Gesellschafter, Anteilseigner 
+outstanding(adjective) () <-> ausgezeichnet, außergewöhnlich, fällig 
+dive(noun) () <-> Tauchen, Tauchgang, Sprung 
+to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) <-> tauchen, springen, untertauchen 
+probable(adjective) () <-> wahrscheinlich, voraussichtlich, vermutlich 
+nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) <-> heute, heutzutage, gegenwärtig 
+to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) <-> schrumpfen, sich verkleinern, einlaufen 
+shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) <-> Seelenklempner, Psychiater, Klapsdoktor 
+shrink(noun) () <-> Psychotherapeut, Psychotherapeutin 
+piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) <-> Stück, Teil, Spielfigur 
+to piece(verb) (She pieced the quilt from patches of cloth.) <-> zusammensetzen 

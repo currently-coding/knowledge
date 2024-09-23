@@ -54,6 +54,26 @@
 
  to sustain <-> erhalten, unterstützen
 
+<<<<<<< HEAD
+<!--SR:!2024-09-24,6,250-->
+=======
+
+<!--SR:!2024-09-20,2,210-->
+
+ to linger <- verweilen, nachklingen, anhalten
+
+<!--SR:!2024-09-20,2,210-->
+
+ dread <- Grauen, Furcht
+
+ rear <- Rückseite, Heck
+
+<!--SR:!2024-09-20,2,210-->
+
+ zest <- Schwung, Lust, Elan
+
+<!--SR:!2024-09-20,2,230-->
+=======
  to linger <-> verweilen, nachklingen, anhalten
 <!--SR:!2024-09-18,1,210-->
 
@@ -64,15 +84,35 @@
 
  zest <-> Schwung, Lust, Elan
 <!--SR:!2024-09-14,1,230-->
+>>>>>>> origin/main
 
  to confess <-> bekennen, gestehen, zugeben
 
+<<<<<<< HEAD
+ incredulitiy <- Ungläubigkeit
+
+<!--SR:!2024-09-20,2,230-->
+=======
  incredulitiy <-> Ungläubigkeit
 <!--SR:!2024-09-14,1,230-->
+>>>>>>> origin/main
 
  to flounder <-> sich verhaspeln, zappeln
 <!--SR:!2024-09-19,2,230-->
 
+<<<<<<< HEAD
+ sullen <- mürrisch
+
+<!--SR:!2024-09-20,2,230-->
+ 
+ to balk <- sich scheuen, zurückschrecken
+
+<!--SR:!2024-09-20,2,230-->
+
+ quota <- Kontingent
+
+<!--SR:!2024-09-20,2,230-->
+=======
  sullen <-> mürrisch
  <!--SR:!2024-09-14,1,230-->
  
@@ -81,22 +121,41 @@
 
  quota <-> Kontingent
 <!--SR:!2024-09-14,1,230-->
+>>>>>>> origin/main
 
  to eradicate <-> ausrotten, beseitigen
 
+<<<<<<< HEAD
+ in-depth <- eingehend, detailliert
+
+<!--SR:!2024-09-20,2,230-->
+=======
  in-depth <-> eingehend, detailliert
 <!--SR:!2024-09-14,1,230-->
+>>>>>>> origin/main
 
  to be taken aback <-> bestürzt sein
 <!--SR:!2024-09-18,1,210-->
 
+<<<<<<< HEAD
+ dedication <- Einsatz, Engagement, HIngabe
+
+<!--SR:!2024-09-20,2,230-->
+=======
  dedication <-> Einsatz, Engagement, HIngabe
 <!--SR:!2024-09-14,1,230-->
+>>>>>>> origin/main
 
  apposite <-> treffend, passgenau
 
+<<<<<<< HEAD
+ manslaughter <- Totschlag
+
+<!--SR:!2024-09-25,7,250-->
+=======
  manslaughter <-> Totschlag
 <!--SR:!2024-09-16,3,250-->
+>>>>>>> origin/main
 
  relentless <-> unbarmherzig, schonungslos
 <!--SR:!2024-09-14,1,230-->
