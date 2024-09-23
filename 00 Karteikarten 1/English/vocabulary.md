@@ -52,7 +52,7 @@ to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust
 to adjust oneself(verb) () <-> sich anpassen
 <!--SR:!2024-10-07,16,321!2024-10-02,12,282-->
 to adjust oneself to(verb) () <-> sich anpassen an
-<!--SR:!2024-09-21,4,299!2024-10-01,11,282-->
+<!--SR:!2024-10-10,17,319!2024-10-01,11,282-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) <-> erschwinglich, bezahlbar, preiswert, kostengünstig
 <!--SR:!2024-09-21,4,297!2024-10-05,15,302-->
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) <-> Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
@@ -155,7 +155,7 @@ environmentalism(noun) () <-> Umweltschutz
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung
 <!--SR:!2024-09-24,4,318!2024-09-22,4,303-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen
-<!--SR:!2024-09-23,4,306!2024-09-22,4,300-->
+<!--SR:!2024-10-08,15,326!2024-09-22,4,300-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) <-> Lebensstandard, Lebenshaltung
 <!--SR:!2024-09-23,4,306!2024-09-22,4,303-->
 debt relief(noun) (The bank granted the company only partial debt relief.) <-> Schuldenerlass, Entschuldung, Schuldenerleichterung
@@ -213,7 +213,7 @@ to promote(verb) (Our university promotes international student exchange., We pr
 inequality(noun) (Inequalities need to be redressed.) <-> Ungleichheit, Ungleichstellung, Ungleichung
 <!--SR:!2024-09-24,4,317!2024-09-23,4,310-->
 wealth(noun) (Thanks to his wealth, he can buy anything he likes., The book contains a wealth of information., The family's wealth was based on the tenure of land.) <-> Reichtum, Fülle, Wohlstand
-<!--SR:!2024-09-23,3,298!2024-09-23,4,310-->
+<!--SR:!2024-09-23,3,298!2024-10-12,19,330-->
 tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) <-> Steuer, Abgabe, Zins
 <!--SR:!2024-09-24,4,311!2024-09-23,4,310-->
 to tax(verb) (The government decided to tax corporate profits., He taxed her patience for hours.) <-> besteuern, strapazieren, versteuern

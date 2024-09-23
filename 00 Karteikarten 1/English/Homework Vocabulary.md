@@ -8,7 +8,7 @@ to induce sth. <-> etwas herbeifuehren
 <!--SR:!2024-09-21,4,276!2024-09-24,4,270-->
 
 to dominate sth. <-> etwas dominieren
-<!--SR:!2024-09-22,4,286!2024-09-21,4,276-->
+<!--SR:!2024-09-22,4,286!2024-10-07,14,296-->
 
 to face competition <-> (sich) einem Wettbewerb stellen
 <!--SR:!2024-09-21,4,276!2024-10-07,15,306-->
@@ -23,7 +23,7 @@ to contribute to sth. <-> zu etwas beitragen
 <!--SR:!2024-09-21,4,276!2024-09-22,4,286-->
 
 to provide sth. <-> etwas bereitstellen
-<!--SR:!2024-09-21,4,276!2024-09-21,4,270-->
+<!--SR:!2024-09-21,4,276!2024-10-09,16,290-->
 
 to refer to sth. as sth. else <-> auf etw. als etw. beziehen
 <!--SR:!2024-09-21,4,284!2024-09-22,4,289-->
