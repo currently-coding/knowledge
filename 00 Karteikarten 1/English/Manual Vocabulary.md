@@ -36,7 +36,7 @@ zenith <-> highest, most successful point of a situation
 <!--SR:!2025-04-13,210,325!2025-01-30,144,310-->
 
 wanderlust <-> strong desire to travel
-<!--SR:!2024-09-22,59,317!2025-05-09,236,332-->
+<!--SR:!2025-06-07,257,337!2025-05-09,236,332-->
 
 tranquillity <-> peace, Frieden
 <!--SR:!2025-03-30,202,312!2024-09-21,58,317-->
@@ -69,7 +69,7 @@ to engage <-> einsetzen, beschäftigen, verpflichten, angreifen
 <!--SR:!2024-10-04,26,272!2024-10-07,28,288-->
 
 to obtain <-> erhalten, beziehen, bekommen, gewinnen
-<!--SR:!2024-09-21,13,292!2025-01-15,128,358-->
+<!--SR:!2024-11-16,54,312!2025-01-15,128,358-->
 
 apparent <-> erkennbar, offensichtlich
 <!--SR:!2024-10-12,59,332!2024-10-18,40,298-->
@@ -90,7 +90,7 @@ to target <-> anvisieren
 <!--SR:!2024-10-13,23,384!2024-10-21,32,382-->
 
 prevalent <-> vorherrschend
-<!--SR:!2024-09-21,6,364!2024-10-18,29,382-->
+<!--SR:!2024-10-24,31,384!2024-10-18,29,382-->
 
 commission <-> provision, auftrag
 <!--SR:!2024-10-07,56,338!2024-10-26,71,352-->
@@ -177,13 +177,13 @@ persist <-> bestehen, fortdauern
 <!--SR:!2024-11-01,76,358!2024-11-20,73,348-->
 
 contempt <-> Missachtung, Verachtung
-<!--SR:!2024-09-23,42,328!2024-10-14,29,338-->
+<!--SR:!2025-03-31,189,348!2024-10-14,29,338-->
 
 to plead <-> plädieren
 <!--SR:!2024-12-09,92,358!2024-12-08,90,368-->
 
 distinction <-> Unterscheidung, Abgrenzung, Auszeichnung
-<!--SR:!2024-09-21,43,338!2024-11-21,74,368-->
+<!--SR:!2025-04-10,199,358!2024-11-21,74,368-->
 
 to contend <-> kämpfen, behaupten
 <!--SR:!2024-12-02,85,368!2024-10-14,61,338-->
