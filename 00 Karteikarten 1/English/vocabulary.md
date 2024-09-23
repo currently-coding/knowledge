@@ -187,7 +187,7 @@ livelihood(noun) (I earn my livelihood by teaching English., Climatic changes af
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) <-> gedeihen, florieren, aufblühen
 <!--SR:!2024-09-23,4,306!2024-09-24,4,317-->
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) <-> Verzierung, Schnörkel, Fanfare
-<!--SR:!2024-09-23,3,266!2024-09-24,4,311-->
+<!--SR:!2024-10-04,11,286!2024-09-24,4,311-->
 supplier(noun) (Our supplier delivers high-quality products., The suppliers are selected through tendering., I am the only supplier of the brand in Italy., We are the largest supplier of electrical goods in the region., Car manufacturers buy parts from many suppliers.) <-> Lieferant, Anbieter, Zulieferer
 <!--SR:!2024-09-23,4,306!2024-09-24,4,317-->
 to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) <-> liefern, mitliefern, beliefern
