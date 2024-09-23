@@ -60,7 +60,7 @@ agriculture(noun) (Agriculture accounts for ten per cent of GDP.) <-> Landwirtsc
 aids(noun) <-> Hilfsmittel, Hilfen, Hilfe, Beihilfen
 <!--SR:!2024-09-21,4,297!2024-10-07,17,302-->
 aid(noun) (The foundation receives financial aid from donors.) <-> Unterstützung, Beihilfe, Hilfe, Fördermittel
-<!--SR:!2024-10-08,18,302!2024-09-21,4,297-->
+<!--SR:!2024-10-08,18,302!2024-10-11,18,317-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) <-> helfen, unterstützen, fördern, beispringen
 <!--SR:!2024-09-21,4,301!2024-10-01,11,282-->
 alien(noun) (Some people believe in aliens.) <-> Ausländer, Außerirdischer, Fremder, Außerirdische, Alien, Ausländerin, Fremdling
@@ -106,7 +106,7 @@ free trade(noun) () <-> Freihandel, freier Handel, Handelsfreiheit
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) <-> Handelshemmnis, Handelsbarriere, Handelsbeschränkung
 <!--SR:!2024-09-21,4,299!2024-09-21,4,299-->
 barrier to trade(noun) () <-> Handelshemmnis
-<!--SR:!2024-09-21,4,299!2024-09-21,3,259-->
+<!--SR:!2024-09-21,4,299!2024-09-29,6,259-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) <-> Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2024-09-24,4,318!2024-09-23,4,306-->
 <<<<<<< HEAD
@@ -129,7 +129,7 @@ to fund(verb) (The project is funded by private sponsors only., The government i
 deforestation(noun) () <-> Entwaldung, Abholzung, Rodung
 <!--SR:!2024-09-24,4,311!2024-09-23,4,306-->
 mechanization(noun) () <-> Mechanisierung, Technisierung
-<!--SR:!2024-09-23,4,306!2024-09-24,4,311-->
+<!--SR:!2024-10-10,17,326!2024-09-24,4,311-->
 to mechanize(verb) () <-> mechanisieren, technisieren
 <!--SR:!2024-09-23,4,306!2024-09-24,4,311-->
 assembly line(noun) (Cars are usually put together on an assembly line.) <-> Band, Fließband, Montagelinie
@@ -151,7 +151,7 @@ offshoring(noun) (The relocation of business processes to a foreign country is c
 Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) <-> offshoring
 <!--SR:!2024-09-23,4,310!2024-09-24,4,319-->
 environmentalism(noun) () <-> Umweltschutz
-<!--SR:!2024-09-21,4,299!2024-09-23,4,306-->
+<!--SR:!2024-09-21,4,299!2024-10-09,16,326-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung
 <!--SR:!2024-09-24,4,318!2024-09-22,4,303-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen
@@ -165,7 +165,7 @@ current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel
 <!--SR:!2024-09-22,3,286!2024-09-21,3,283-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
-<!--SR:!2024-09-23,4,280!2024-09-22,4,300-->
+<!--SR:!2024-10-03,10,280!2024-09-22,4,300-->
 mechanization(noun) () <-> Mechanisierung, Technisierung
 <!--SR:!2024-09-23,4,306!2024-09-22,4,303-->
 to mechanize(verb) () <-> mechanisieren, technisieren
@@ -183,7 +183,7 @@ Launch(noun) () <-> launch
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) <-> Wohlfahrt, Wohl, Wohlergehen
 <!--SR:!2024-09-23,4,306!2024-09-24,4,317-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) <-> Lebensunterhalt, Lebensgrundlage, Existenz
-<!--SR:!2024-09-23,3,298!2024-09-24,4,286-->
+<!--SR:!2024-10-06,13,318!2024-09-24,4,286-->
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) <-> gedeihen, florieren, aufblühen
 <!--SR:!2024-09-23,4,306!2024-09-24,4,317-->
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) <-> Verzierung, Schnörkel, Fanfare
@@ -221,7 +221,7 @@ to tax(verb) (The government decided to tax corporate profits., He taxed her pat
 recession(noun) (The recession is over and unemployment is declining., The boom after the recession meant many new jobs for the unemployed., The company registered a recession in sales., We have now overcome the recession and business is booming.) <-> Rezession, Rückgang, Flaute
 <!--SR:!2024-09-23,4,310!2024-09-24,4,317-->
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) <-> Wohlstand, Prosperität, Erfolg
-<!--SR:!2024-09-21,1,250!2024-09-24,4,319-->
+<!--SR:!2024-09-27,4,270!2024-09-24,4,319-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) <-> beschleunigen, sich beschleunigen, vorantreiben
 <!--SR:!2024-09-23,4,311-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) <-> erleichtern, fördern, ermöglichen 
@@ -239,9 +239,9 @@ marginalization(noun) () <-> Marginalisierung, Ausgrenzung
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) <-> marginalisieren
 <!--SR:!2024-09-24,4,317!2024-09-24,4,318-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) <-> Verteilung, Vertrieb, Distribution
-<!--SR:!2024-09-23,3,297!2024-09-24,4,317-->
+<!--SR:!2024-10-04,11,317!2024-09-24,4,317-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) <-> verteilen, vertreiben, ausschütten
-<!--SR:!2024-09-23,3,297!2024-09-24,4,317-->
+<!--SR:!2024-10-01,8,297!2024-09-24,4,317-->
 with this in mind() () <-> in diesem Sinne, zu diesem Zweck 
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) <-> Bruchteil, Fraktion, Bruch 
 memorable(adjective) (The royal wedding was a memorable event.) <-> denkwürdig, einprägsam, unvergesslich 
