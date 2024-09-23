@@ -109,9 +109,6 @@ barrier to trade(noun) () <-> Handelshemmnis
 <!--SR:!2024-10-10,17,319!2024-09-29,6,259-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) <-> Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2024-09-24,4,318!2024-10-11,18,326-->
-<<<<<<< HEAD
-
-<!--SR:!2024-09-21,4,299-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung
 <!--SR:!2024-09-21,1,246!2024-09-24,4,317-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen
