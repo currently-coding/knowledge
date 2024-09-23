@@ -94,7 +94,7 @@ animation(noun) (The computer game provides very authentic animations., The prog
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) <-> jährlich, alljährlich, einjährig
 <!--SR:!2024-09-21,4,299!2024-09-21,4,299-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) <-> verschmelzen, fusionieren, zusammenfügen
-<!--SR:!2024-10-03,13,301!2024-09-22,4,300-->
+<!--SR:!2024-10-03,13,301!2024-10-12,19,320-->
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) <-> Verschmelzung, Fusion, Zusammenschluss
 <!--SR:!2024-09-21,3,283!2024-09-22,4,281-->
 sweatshop(noun) () <-> Ausbeutungsbetrieb, Ausbeuterbetrieb
@@ -102,7 +102,7 @@ sweatshop(noun) () <-> Ausbeutungsbetrieb, Ausbeuterbetrieb
 multinational(adjective) (We are a well-known multinational company.) <-> multinational
 <!--SR:!2024-10-02,12,300!2024-09-21,4,299-->
 free trade(noun) () <-> Freihandel, freier Handel, Handelsfreiheit
-<!--SR:!2024-09-21,4,301!2024-09-21,4,299-->
+<!--SR:!2024-10-09,16,321!2024-09-21,4,299-->
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) <-> Handelshemmnis, Handelsbarriere, Handelsbeschränkung
 <!--SR:!2024-09-21,4,299!2024-09-21,4,299-->
 barrier to trade(noun) () <-> Handelshemmnis
