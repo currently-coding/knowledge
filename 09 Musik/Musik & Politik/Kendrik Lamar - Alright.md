@@ -8,4 +8,3 @@
 
 # Fazit
 >Musikalische Dieversität als Medium für gesellschaftliches ***Miteinander***, ***Aufbegehen*** und ***Hoffnung***
-
