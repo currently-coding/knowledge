@@ -6,7 +6,7 @@ abstract(adjective) (The artist is famous for his abstract paintings., Intellige
 abstract(noun) (I have to write an abstract for my dissertation.) <-> Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung
 <!--SR:!2024-10-04,15,290!2024-10-04,14,302-->
 to abstract(verb) (I will read the article and abstract the main ideas.) <-> trennen, abziehen, entnehmen
-<!--SR:!2024-09-24,1,210!2024-09-21,4,296-->
+<!--SR:!2024-09-24,1,210!2024-10-10,17,316-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) <-> Akzent, Betonung
 <!--SR:!2024-10-05,15,302!2024-10-06,17,290-->
 to accent(verb) <-> betonen, akzentuieren, hervorheben
@@ -149,20 +149,6 @@ Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man 
 <!--SR:!2024-10-08,15,330!2024-09-24,4,319-->
 environmentalism(noun) () <-> Umweltschutz
 <!--SR:!2024-09-21,4,299!2024-10-09,16,326-->
-exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) <-> Ausbeutung, Nutzung, Verwertung
-<!--SR:!2024-09-24,4,318!2024-10-09,16,323-->
-to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) <-> nutzen, ausnutzen, ausschöpfen
-<!--SR:!2024-10-08,15,326!2024-10-12,19,320-->
-standard of living(noun) (Our standard of living is higher than 100 years ago.) <-> Lebensstandard, Lebenshaltung
-<!--SR:!2024-09-23,4,306!2024-10-09,16,323-->
-debt relief(noun) (The bank granted the company only partial debt relief.) <-> Schuldenerlass, Entschuldung, Schuldenerleichterung
-<!--SR:!2024-10-12,19,323!2024-09-22,4,303-->
-current affairs(noun) () <-> aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
-<!--SR:!2024-10-06,13,303!2024-10-07,14,300-->
-fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) <-> Fonds, Investmentfonds, Geldmittel
-<!--SR:!2024-10-04,11,306!2024-10-03,10,303-->
-to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) <-> finanzieren, anlegen, investieren
-<!--SR:!2024-10-03,10,280!2024-10-10,17,320-->
 work ethic(noun) () <-> Arbeitsmoral, Arbeitsethik, Arbeitsethos
 <!--SR:!2024-09-24,4,318!2024-10-10,17,326-->
 to subsidize(verb) (Corn is cheap because it is subsidized by the government.) <-> subventionieren, bezuschussen, finanziell unterstützen

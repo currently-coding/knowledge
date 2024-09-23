@@ -5,7 +5,7 @@ rapid growth <-> rapider Anstieg
 <!--SR:!2024-10-07,14,296!2024-10-03,13,272-->
 
 to induce sth. <-> etwas herbeifuehren
-<!--SR:!2024-09-21,4,276!2024-09-24,4,270-->
+<!--SR:!2024-10-07,14,296!2024-09-24,4,270-->
 
 to dominate sth. <-> etwas dominieren
 <!--SR:!2024-10-10,17,306!2024-10-07,14,296-->
