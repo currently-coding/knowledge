@@ -15,3 +15,5 @@
 - Modernisierung/Enttraditionalisierung
 - Veränderte ökonomische Bedingungen
 - Wertewandel
+
+#learn 
