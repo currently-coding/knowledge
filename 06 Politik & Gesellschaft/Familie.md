@@ -1,2 +1,2 @@
 ## Funktionen
-- 
+- Regulierung der
