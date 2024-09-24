@@ -1,4 +1,4 @@
-#review
+#learn
 
 ## Platon
 ### Dialog: 'Das Gastmahl' - Sokrates und Aristophanes
