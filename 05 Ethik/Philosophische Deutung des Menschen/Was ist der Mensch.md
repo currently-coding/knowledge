@@ -17,6 +17,6 @@
 - Prometheus als:
 	- Held
 	- mutig
-	- Schoepfer
+	- Schöpfer
 	- entschlossen
 	- Herrscher der Erde und des Feuers
