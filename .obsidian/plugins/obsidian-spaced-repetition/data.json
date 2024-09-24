@@ -4,11 +4,11 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#flashcards"
+      ""
     ],
     "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
-    "burySiblingCards": false,
+    "burySiblingCards": true,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
@@ -32,9 +32,9 @@
       "00 Karteikarten 1/Ignore",
       "14 CS"
     ],
-    "openRandomNote": false,
+    "openRandomNote": true,
     "autoNextNote": true,
-    "disableFileMenuReviewOptions": false,
+    "disableFileMenuReviewOptions": true,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": false,
     "baseEase": 250,
