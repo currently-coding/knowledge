@@ -1,6 +1,6 @@
 ## Akteure
 - Laender
-
+- Internationale Organisationen(WTO, UN)
 - Konsumenten
 - Unternehmen
 
