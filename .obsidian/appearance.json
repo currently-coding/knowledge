@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Listive",
-  "accentColor": "#6bef74",
-  "theme": "system"
+  "cssTheme": "Minimal",
+  "accentColor": "#2aa3bb",
+  "theme": "system",
+  "baseFontSize": 17
 }
