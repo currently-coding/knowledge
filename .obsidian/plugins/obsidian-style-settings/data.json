@@ -95,5 +95,6 @@
   "Plugin@@colorful-checkbox": true,
   "Appearance-dark@@card-highlight-dark": true,
   "Editor@@codeblock-style-select": "codeblock-style-customize",
-  "Editor@@p-spacing-br": true
+  "Editor@@p-spacing-br": true,
+  "Editor@@text-align-justify": true
 }
