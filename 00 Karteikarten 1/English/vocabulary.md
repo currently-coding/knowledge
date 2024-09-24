@@ -253,3 +253,19 @@ shrink(noun) (My friend is a little bit crazy, I think he should really go see a
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin 
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur 
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen 
+besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) <-> neben, außer, abgesehen von 
+besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) <-> darüber hinaus, außerdem, daneben 
+as a consequence(adverb) () <-> somit, demzufolge, folglich 
+to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) <-> hervorrufen, erzeugen, schaffen 
+to fulfil(verb) (The products fulfilled our requirements.) <-> erfüllen, genügen, gerecht werden 
+to fulfil(verb) (He fulfilled his childhood dream.) <-> verwirklichen, erbringen 
+command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) <-> Befehl, Kommando, Beherrschung 
+to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) <-> beherrschen, befehlen, kommandieren 
+vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) <-> vage, ungenau, unklar 
+trauma(noun) (Patients who have experienced trauma require special care.) <-> Trauma, seelischer Schock 
+trauma(noun as adjective) () <->  
+Trauma(noun) (Patienten, die ein Trauma erlebt haben, benötigen besondere Sorgfalt.) <-> trauma 
+removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) <-> Entfernen, Beseitigung, Entfernung 
+to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., I removed the old battery and installed a new one., I removed the lid from the box., The surgeon removed her appendix., The technician removed the old mount for the television., The handyman removed the damaged valve and replaced it., The president removed the minister from office., The fisherman removed his wet boots., The board voted to remove the chairman., The rework is complete, all faults have now been removed., The workers removed the debris from the construction site.) <-> entfernen, beseitigen, entnehmen 
+to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) <-> überspringen, übergehen, auslassen 
+skip(noun) (A skip full of rubble stood in front of the building site.) <-> Container, Sprung, Fehlstelle 

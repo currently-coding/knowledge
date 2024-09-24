@@ -7,4 +7,4 @@
 - Frevelhaft <-> ABER werden wegen ihren Opfergaben gebraucht
 
 -> TEILUNG
-=> 
+=> Wesen mit Emotionen: Liebe + Sehnsucht (nach zweiter Haelfte)
