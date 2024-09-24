@@ -5,7 +5,7 @@ rapid growth ::: rapider Anstieg
 <!--SR:!2024-10-07,14,296!2024-10-03,13,272-->
 
 to induce sth. ::: etwas herbeifuehren
-<!--SR:!2024-10-07,14,296!2024-09-24,4,270-->
+<!--SR:!2024-10-07,14,296!2024-10-07,13,290-->
 
 to dominate sth. ::: etwas dominieren
 <!--SR:!2024-10-10,17,306!2024-10-07,14,296-->
@@ -20,7 +20,7 @@ outsourcing of work ::: Auslagerung von Arbeit
 <!--SR:!2024-10-07,14,292!2024-10-07,14,304-->
 
 to contribute to sth. ::: zu etwas beitragen
-<!--SR:!2024-10-08,15,296!2024-09-22,4,286-->
+<!--SR:!2024-10-08,15,296!2024-10-09,15,306-->
 
 to provide sth. ::: etwas bereitstellen
 <!--SR:!2024-10-07,14,296!2024-10-09,16,290-->

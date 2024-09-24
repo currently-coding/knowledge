@@ -30,7 +30,7 @@ solitude ::: state of isolation/loneliness
 <!--SR:!2025-05-09,235,330!2024-10-06,69,317-->
 
 to cherish ::: to care about smth and cultivate it with affection
-<!--SR:!2024-09-24,61,317!2025-03-03,176,310-->
+<!--SR:!2025-06-17,266,337!2025-03-03,176,310-->
 
 zenith ::: highest, most successful point of a situation
 <!--SR:!2025-04-13,210,325!2025-01-30,144,310-->
@@ -189,7 +189,7 @@ to contend ::: kämpfen, behaupten
 <!--SR:!2024-12-02,85,368!2024-10-14,61,338-->
 
 to perish ::: untergehen, sterben, zugrunde gehen
-<!--SR:!2024-09-24,6,308!2024-11-04,79,358-->
+<!--SR:!2024-10-19,25,328!2024-11-04,79,358-->
 
 to occupy ::: beschäftigen, belegen
 <!--SR:!2024-11-02,77,358!2024-11-25,78,368-->
