@@ -5,6 +5,7 @@ links:
 ---
 # Zeiger
 >Ein Zeiger(`pointer`) ist ein [[0511 Objekte|Objekt]], dessen Wert die (Speicher-)Adresse eines anderen Objekts repräsentiert.
+
 ```cpp
 int main() {
 	int i = 42;
