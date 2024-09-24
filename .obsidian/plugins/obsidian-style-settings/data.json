@@ -78,7 +78,7 @@
   "Components@@status-bar-autohide": true,
   "Components@@Ribbon-autohide": true,
   "Components@@nav-header-autohide": true,
-  "Components@@tab-title-bar-autohide": true,
+  "Components@@tab-title-bar-autohide": false,
   "Components@@vault-profile-autohide": true,
   "Components@@CTA-BTN-enable": false,
   "Components@@file-names-untrim": true,
@@ -94,5 +94,6 @@
   "Plugin@@Surfing-bookmark-bar-hide": true,
   "Plugin@@colorful-checkbox": true,
   "Appearance-dark@@card-highlight-dark": true,
-  "Editor@@codeblock-style-select": "codeblock-style-customize"
+  "Editor@@codeblock-style-select": "codeblock-style-customize",
+  "Editor@@p-spacing-br": true
 }
