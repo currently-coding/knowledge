@@ -19,7 +19,7 @@
   "Appearance-dark@@text-faint@@dark": "#928374",
   "Appearance-dark@@background-activated-tab-header-dark": "#ffffff13",
   "Appearance-dark@@card-layout-open-dark": true,
-  "Appearance-dark@@mod-left-split-background-select-dark": "mod-left-split-background-transparent-dark",
+  "Appearance-dark@@mod-left-split-background-select-dark": "mod-left-split-background-customize-dark",
   "Appearance-dark@@mod-right-split-background-select-dark": "mod-right-split-background-transparent-dark",
   "Appearance-dark@@background-underlying-select-dark": "background-underlying-secondary-dark",
   "Appearance-dark@@background-primary-alt@@dark": "#1d2021",
@@ -31,10 +31,13 @@
   "Appearance-dark@@interactive-normal@@dark": "#504945",
   "Appearance-dark@@interactive-hover@@dark": "#665c54",
   "Appearance-dark@@shadow-activated-tab-header-dark": "none",
-  "Appearance-dark@@indicator-remove-dark": true,
   "Editor@@border-focus-mode": true,
   "Editor@@line-normal-opacity": 1,
   "Editor@@line-active-bg@@dark": "#FB493496",
   "Editor@@line-active-bg@@light": "#FABD2F00",
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default"
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default",
+  "Appearance-light@@mod-left-split-background-select-light": "mod-left-split-background-primary-light",
+  "Appearance-light@@mod-root-split-background-select-light": "mod-root-split-background-primary-light",
+  "Appearance-light@@background-mod-root-split-light": "#FF0000",
+  "Appearance-dark@@background-mod-left-split-dark": "#3C3C3C"
 }

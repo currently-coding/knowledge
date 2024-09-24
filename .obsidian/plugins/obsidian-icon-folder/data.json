@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#40a4e2",
     "recentlyUsedIcons": [
-      "CoWindowCodeBlock",
-      "FabHackerrank",
-      "CoUserCardID",
-      "CoImage02",
-      "CoSlider01"
+      "◼",
+      "FabReadme",
+      "CoKeyboard",
+      "CoCheckBig",
+      "CoWindowCodeBlock"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,11 @@
     "debugMode": false
   },
   "Settings": "CoSlider01",
-  "Images": "CoImage02"
+  "Images": "CoImage02",
+  "Homework.md": "CoCheckBig",
+  "Hotkeys.md": "CoKeyboard",
+  "README.md": "FabReadme",
+  "Formeln.md": "◼",
+  "PDFs": "FabReadme",
+  "scripts": "CoWindowCodeBlock"
 }
