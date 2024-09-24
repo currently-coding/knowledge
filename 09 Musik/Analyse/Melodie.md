@@ -1,0 +1,4 @@
+- Ambitus
+	- ab `Octave`: `Octave` + `anderes Intervall`
+- Musikalische Schwerpunkte innerhalb des Ambitus
+- konkreter Verlauf der Tonhoehen(sprunghaft <-> linear)
