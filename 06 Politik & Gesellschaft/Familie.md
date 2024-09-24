@@ -1,2 +1,4 @@
 ## Funktionen
-- Regulierung der
+- Regulierung der Sexualitaet
+- Biologische Reproduktion
+- 
