@@ -75,11 +75,11 @@
     "blockquoteColor": "#928374"
   },
   "Components@@tab-autohide": true,
-  "Components@@status-bar-autohide": true,
+  "Components@@status-bar-autohide": false,
   "Components@@Ribbon-autohide": true,
   "Components@@nav-header-autohide": false,
   "Components@@tab-title-bar-autohide": false,
-  "Components@@vault-profile-autohide": true,
+  "Components@@vault-profile-autohide": false,
   "Components@@CTA-BTN-enable": false,
   "Components@@file-names-untrim": true,
   "Components@@folder-font-bold": true,
