@@ -45,7 +45,7 @@ n: Redraw / Clear hlsearch / Diff Update ->\<leader>ur
 n, x, o: Next Search Result ;; n
 <!--SR:!2024-10-29,51,308-->
 n, x, o: Prev Search Result ;; N
-<!--SR:!2024-09-25,12,289-->
+<!--SR:!2024-11-11,47,309-->
 i, x, n, s: Save File ->\<C-s>
 <!--SR:!2024-10-07,21,287-->
 n: Keywordprg ->\<leader>K
@@ -53,7 +53,7 @@ n: Keywordprg ->\<leader>K
 n: Add Comment Below ;; gco
 <!--SR:!2024-09-26,13,289-->
 n: Add Comment Above ;; gcO
-<!--SR:!2024-09-25,12,289-->
+<!--SR:!2024-11-10,46,309-->
 n: Lazy ->\<leader>l
 <!--SR:!2024-09-22,9,269-->
 n: New File ->\<leader>fn
