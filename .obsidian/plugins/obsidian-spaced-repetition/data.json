@@ -4,11 +4,11 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#flashcards"
+      ""
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
-    "burySiblingCards": false,
+    "burySiblingCards": true,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
@@ -18,7 +18,7 @@
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
-    "singleLineCardSeparator": "::",
+    "singleLineCardSeparator": ";;",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
