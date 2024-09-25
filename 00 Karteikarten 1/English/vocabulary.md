@@ -228,9 +228,9 @@ to distribute(verb) (My sister distributes leaflets to earn some pocket money., 
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
 <!--SR:!2000-01-01,1,250!2024-09-29,4,312-->
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
-<!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
-<!--SR:!2000-01-01,1,250!2024-09-28,4,332-->
+<!--SR:!2024-09-29,4,335!2024-09-28,4,332-->
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
 <!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
@@ -242,7 +242,7 @@ recipient(adjective) () ::: empfangsbereit
 electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) ::: elektronisch
 <!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
-<!--SR:!2024-09-28,4,332!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
 <!--SR:!2024-09-28,3,314!2024-09-27,3,312-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert

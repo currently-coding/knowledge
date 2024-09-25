@@ -92,6 +92,7 @@ to concern ::: betreffen, angehen, beunruhigen
 <!--SR:!2024-12-15,98,318-->
 
 to conduct ::: durchführen, betreiben, leiten
+<!--SR:!2000-01-01,1,250!2024-09-29,4,284-->
 
 <!--SR:!2024-10-10,59,332-->
 
@@ -195,6 +196,7 @@ to wander ::: schlendern, irren, bummeln
 <!--SR:!2024-10-30,75,358-->
 
 to inspire ::: inspirieren
+<!--SR:!2000-01-01,1,250!2024-09-29,4,284-->
 
 <!--SR:!2024-11-08,83,358-->
 
@@ -221,10 +223,12 @@ to venture ::: wagen, riskieren
 <!--SR:!2024-11-28,80,368-->
 
 to undertake ::: sich verpflichten, sich vornehmen, unternehmen, übernehmen(im Sinne von Verantwortung übernehmen)
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-12-04,82,278-->
 
 majority ::: Mehrzahl, Mehrheit
+<!--SR:!2000-01-01,1,250!2024-09-29,4,284-->
 
 <!--SR:!2024-12-02,85,368-->
 
@@ -289,6 +293,7 @@ to perish ::: untergehen, sterben, zugrunde gehen
 <!--SR:!2024-10-19,25,328-->
 
 to occupy ::: beschäftigen, belegen
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-11-02,77,358-->
 
@@ -307,6 +312,7 @@ to advocate ::: befürworten, unterstützen
 <!--SR:!2024-11-22,75,368-->
 
 to allege ::: behaupten
+<!--SR:!2000-01-01,1,250!2024-09-29,4,284-->
 
 <!--SR:!2024-12-12,94,368-->
 
