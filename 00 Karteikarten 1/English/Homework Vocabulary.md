@@ -3,6 +3,7 @@ human labour ::: Menschliche Arbeitskraft
 <!--SR:!2024-10-09,16,306-->
 
 rapid growth ::: rapider Anstieg
+<!--SR:!2024-09-29,4,276!2000-01-01,1,250-->
 
 <!--SR:!2024-10-07,14,296-->
 
@@ -21,6 +22,7 @@ to face competition ::: (sich) einem Wettbewerb stellen
 <!--SR:!2024-10-08,15,296-->
 
 at the expense of sb./sth. ::: auf Kosten/zulasten von jmd./etw.
+<!--SR:!2024-09-29,4,276!2000-01-01,1,250-->
 
 <!--SR:!2024-10-06,13,294-->
 

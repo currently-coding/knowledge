@@ -204,13 +204,13 @@ to accelerate(verb) (New scientific findings accelerated our research., Thanks t
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
-<!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
 <!--SR:!2024-09-29,4,335!2000-01-01,1,250-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2024-09-28,4,332!2000-01-01,1,250-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
-<!--SR:!2024-09-28,4,332!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 Distribution(noun) () ::: distribution
 <!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 to a large extent(adverb) () ::: in hohem Maße, zum großen Teil, in hohem Ausmaß
@@ -236,11 +236,11 @@ conventional(adjective) (The score has been written in conventional notation., H
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
-<!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,333!2024-09-26,1,295-->
 recipient(adjective) () ::: empfangsbereit
-<!--SR:!2024-09-28,4,332!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) ::: elektronisch
-<!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
@@ -250,11 +250,11 @@ passionate(adjective) (He gave his wife a long, passionate kiss., The two were c
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
 <!--SR:!2024-09-28,4,332!2024-09-29,4,334-->
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
-<!--SR:!2000-01-01,1,250!2024-09-28,4,332-->
+<!--SR:!2024-09-29,4,335!2024-09-28,4,332-->
 greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashaus, Treibhaus
 <!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
-<!--SR:!2024-09-28,4,332!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
 <!--SR:!2000-01-01,1,250!2024-09-29,4,313-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
@@ -270,19 +270,19 @@ outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
 <!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
-<!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
-<!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
 <!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
-<!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
 <!--SR:!2000-01-01,1,250!2024-09-29,4,312-->
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
-<!--SR:!2000-01-01,1,250!2024-09-28,4,332-->
+<!--SR:!2024-09-29,4,335!2024-09-28,4,332-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 <!--SR:!2000-01-01,1,250!2024-09-26,1,273-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) <-> neben, außer, abgesehen von 
