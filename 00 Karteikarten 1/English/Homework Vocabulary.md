@@ -16,6 +16,7 @@ to dominate sth. ::: etwas dominieren
 <!--SR:!2024-10-10,17,306-->
 
 to face competition ::: (sich) einem Wettbewerb stellen
+<!--SR:!2024-09-29,4,276!2000-01-01,1,250-->
 
 <!--SR:!2024-10-08,15,296-->
 
@@ -24,6 +25,7 @@ at the expense of sb./sth. ::: auf Kosten/zulasten von jmd./etw.
 <!--SR:!2024-10-06,13,294-->
 
 outsourcing of work ::: Auslagerung von Arbeit
+<!--SR:!2000-01-01,1,250!2024-09-29,4,276-->
 
 <!--SR:!2024-10-07,14,292-->
 

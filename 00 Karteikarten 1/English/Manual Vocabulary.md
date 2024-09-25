@@ -12,6 +12,7 @@ ubiquitous ::: allgegenwärtig, omnipräsent
 <!--SR:!2025-06-01,251,330-->
 
 ameliorate ::: verbessern
+<!--SR:!2000-01-01,1,250!2024-09-29,4,284-->
 
 <!--SR:!2024-10-05,19,382-->
 
@@ -20,6 +21,7 @@ eternity ::: Limitless amount of time
 <!--SR:!2025-05-23,245,332-->
 
 nefarious ::: wicked, evil
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-10-02,68,312-->
 
@@ -53,6 +55,7 @@ zenith ::: highest, most successful point of a situation
 <!--SR:!2025-04-13,210,325-->
 
 wanderlust ::: strong desire to travel
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2025-06-07,257,337-->
 
@@ -102,6 +105,7 @@ to engage ::: einsetzen, beschäftigen, verpflichten, angreifen
 <!--SR:!2024-10-04,26,272-->
 
 to obtain ::: erhalten, beziehen, bekommen, gewinnen
+<!--SR:!2000-01-01,1,250!2024-09-29,4,284-->
 
 <!--SR:!2024-11-16,54,312-->
 
@@ -137,14 +141,17 @@ prevalent ::: vorherrschend
 <!--SR:!2024-10-24,31,384-->
 
 commission ::: provision, auftrag
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-10-07,56,338-->
 
 to rendern ::: machen, erbringen, leisten
+<!--SR:!2000-01-01,1,250!2024-09-29,4,284-->
 
 <!--SR:!2024-12-03,86,357-->
 
 to affect ::: beeinträchtigen, betreffen, sich auswirken
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-11-10,85,352-->
 
@@ -197,6 +204,7 @@ to convince ::: überreden, überzeugen
 <!--SR:!2024-12-06,88,368-->
 
 to reflect ::: wiederspiegeln, reflektieren
+<!--SR:!2000-01-01,1,250!2024-09-29,4,284-->
 
 <!--SR:!2024-12-10,92,358-->
 
@@ -221,10 +229,12 @@ majority ::: Mehrzahl, Mehrheit
 <!--SR:!2024-12-02,85,368-->
 
 to assert ::: geltend machen, durchsetzen
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-09-27,10,278-->
 
 humble ::: bescheiden, einfach, demütig
+<!--SR:!2000-01-01,1,250!2024-09-29,4,284-->
 
 <!--SR:!2024-11-02,77,358-->
 
@@ -251,6 +261,7 @@ merit ::: Verdienst, Leistung
 <!--SR:!2024-11-07,60,348-->
 
 persist ::: bestehen, fortdauern
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-11-01,76,358-->
 
@@ -305,6 +316,7 @@ allegedly ::: angeblich, vermeintlich
 <!--SR:!2024-10-01,48,348-->
 
 exhilarate ::: erheitern, aufheitern
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-10-25,32,385-->
 

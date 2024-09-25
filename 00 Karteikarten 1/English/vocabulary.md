@@ -205,13 +205,14 @@ to facilitate(verb) (The new interface facilitates user input., The handout faci
 <!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 <!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
-to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren 
+to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
+<!--SR:!2024-09-29,4,335!2000-01-01,1,250-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2024-09-28,4,332!2000-01-01,1,250-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
 <!--SR:!2024-09-28,4,332!2000-01-01,1,250-->
 Distribution(noun) () ::: distribution
-<!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 to a large extent(adverb) () ::: in hohem Maße, zum großen Teil, in hohem Ausmaß
 <!--SR:!2024-10-09,16,331!2024-09-29,4,312-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
@@ -233,7 +234,7 @@ memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig,
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
 <!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
-<!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
 <!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
 recipient(adjective) () ::: empfangsbereit
@@ -245,7 +246,7 @@ theoretical(adjective) (First of all, I will outline the theoretical foundations
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
 <!--SR:!2024-09-28,3,314!2024-09-27,3,312-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
-<!--SR:!2000-01-01,1,250!2024-09-28,4,332-->
+<!--SR:!2024-09-26,1,295!2024-09-28,4,332-->
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
 <!--SR:!2024-09-28,4,332!2024-09-29,4,334-->
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
@@ -265,9 +266,9 @@ versus(noun) () ::: Rückseite einer Münze
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2024-09-27,3,313!2000-01-01,1,250-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
-<!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,333!2024-09-28,3,315-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
-<!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
 <!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
@@ -275,7 +276,7 @@ probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
 <!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
-<!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
 <!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
