@@ -128,7 +128,7 @@ mechanization(noun) () ::: Mechanisierung, Technisierung
 to mechanize(verb) () ::: mechanisieren, technisieren
 <!--SR:!2024-10-10,17,326!2024-10-11,17,331-->
 assembly line(noun) (Cars are usually put together on an assembly line.) ::: Band, Fließband, Montagelinie
-<!--SR:!2024-09-24,4,317!2024-10-10,16,306-->
+<!--SR:!2024-10-14,19,337!2024-10-10,16,306-->
 trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsdefizit
 <!--SR:!2024-10-10,16,338!2024-10-11,18,326-->
 urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
@@ -219,7 +219,7 @@ to facilitate(verb) (The new interface facilitates user input., The handout faci
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 <!--SR:!2024-10-06,13,318!2024-10-11,17,338-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
-<!--SR:!2024-09-24,4,317!2024-10-10,16,338-->
+<!--SR:!2024-10-13,18,337!2024-10-10,16,338-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2024-10-04,11,317!2024-10-14,20,337-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
@@ -243,11 +243,11 @@ electronic(adjective) (The flight attendant asked to turn off all electronic dev
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
 <!--SR:!2024-09-28,4,332!2000-01-01,1,250-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
-<!--SR:!2000-01-01,1,250!2024-09-27,3,312-->
+<!--SR:!2024-09-28,3,314!2024-09-27,3,312-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
 <!--SR:!2000-01-01,1,250!2024-09-28,4,332-->
-receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Receiver, Hörer
-<!--SR:!2024-09-28,4,332!2000-01-01,1,250-->
+receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
+<!--SR:!2024-09-28,4,332!2024-09-29,4,334-->
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
 <!--SR:!2000-01-01,1,250!2024-09-28,4,332-->
 greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashaus, Treibhaus
@@ -255,7 +255,7 @@ greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashau
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
 <!--SR:!2024-09-28,4,332!2000-01-01,1,250-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
-<!--SR:!2000-01-01,1,250!2024-09-25,1,293-->
+<!--SR:!2000-01-01,1,250!2024-09-29,4,313-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
 <!--SR:!2000-01-01,1,250!2024-09-29,4,313-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra

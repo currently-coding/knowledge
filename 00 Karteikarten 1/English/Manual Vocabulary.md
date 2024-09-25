@@ -7,6 +7,7 @@ Serendipity ::: Glücklicher Zufall, Spürsinn
 <!--SR:!2024-10-02,68,312-->
 
 ubiquitous ::: allgegenwärtig, omnipräsent
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2025-06-01,251,330-->
 
@@ -35,14 +36,17 @@ quintessence ::: quintessenz
 <!--SR:!2025-05-26,249,332-->
 
 solitude ::: state of isolation/loneliness
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2025-05-09,235,330-->
 
 to cherish ::: to care about smth and cultivate it with affection
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2025-06-17,266,337-->
 
 zenith ::: highest, most successful point of a situation
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2025-04-13,210,325-->
 
@@ -55,6 +59,7 @@ tranquillity ::: peace, Frieden
 <!--SR:!2025-03-30,202,312-->
 
 evident ::: erwiesen
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2024-10-26,71,352-->
 
@@ -63,14 +68,17 @@ to intend ::: beabsichtigen
 <!--SR:!2024-10-21,68,352-->
 
 intent ::: absicht
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2024-10-20,67,352-->
 
 suffocate ::: ersticken, würgen
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2024-10-27,72,352-->
 
 concern ::: Anliegen, Interesse
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2024-10-10,55,318-->
 
@@ -87,6 +95,7 @@ to establish ::: aufstellen, feststellen, etablieren, gründen
 <!--SR:!2025-01-21,134,358-->
 
 to engage ::: einsetzen, beschäftigen, verpflichten, angreifen
+<!--SR:!2024-09-28,3,250!2000-01-01,1,250-->
 
 <!--SR:!2024-10-04,26,272-->
 
@@ -95,6 +104,7 @@ to obtain ::: erhalten, beziehen, bekommen, gewinnen
 <!--SR:!2024-11-16,54,312-->
 
 apparent ::: erkennbar, offensichtlich
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-10-12,59,332-->
 
@@ -115,6 +125,7 @@ manslaughter ::: Totschlag
 <!--SR:!2024-10-09,22,383-->
 
 to target ::: anvisieren
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2024-10-13,23,384-->
 
@@ -147,6 +158,7 @@ theory ::: theorie
 <!--SR:!2024-12-04,87,368-->
 
 generate ::: generieren
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2024-12-13,95,368-->
 
@@ -167,6 +179,7 @@ to insist ::: pochen, insistieren
 <!--SR:!2024-12-06,89,358-->
 
 to wander ::: schlendern, irren, bummeln
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-10-30,75,358-->
 
@@ -175,6 +188,7 @@ to inspire ::: inspirieren
 <!--SR:!2024-11-08,83,358-->
 
 to convince ::: überreden, überzeugen
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-12-06,88,368-->
 
@@ -211,6 +225,7 @@ humble ::: bescheiden, einfach, demütig
 <!--SR:!2024-11-02,77,358-->
 
 scheme ::: ausgefeilter Plan, Intrige
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-11-29,82,368-->
 
@@ -247,10 +262,12 @@ distinction ::: Unterscheidung, Abgrenzung, Auszeichnung
 <!--SR:!2025-04-10,199,358-->
 
 to contend ::: kämpfen, behaupten
+<!--SR:!2000-01-01,1,250!2024-09-26,1,230-->
 
 <!--SR:!2024-12-02,85,368-->
 
 to perish ::: untergehen, sterben, zugrunde gehen
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-10-19,25,328-->
 
@@ -259,10 +276,12 @@ to occupy ::: beschäftigen, belegen
 <!--SR:!2024-11-02,77,358-->
 
 to toil ::: sich plagen, schuften
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2024-11-15,67,338-->
 
 toil ::: Mühe
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-12-02,85,358-->
 
@@ -275,6 +294,7 @@ to allege ::: behaupten
 <!--SR:!2024-12-12,94,368-->
 
 allegedly ::: angeblich, vermeintlich
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-10-01,48,348-->
 

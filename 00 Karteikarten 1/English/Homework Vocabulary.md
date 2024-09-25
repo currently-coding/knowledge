@@ -31,9 +31,11 @@ to contribute to sth. ::: zu etwas beitragen
 <!--SR:!2024-10-08,15,296-->
 
 to provide sth. ::: etwas bereitstellen
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-10-07,14,296-->
 
 to refer to sth. as sth. else ::: auf etw. als etw. beziehen
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-10-11,18,304-->
