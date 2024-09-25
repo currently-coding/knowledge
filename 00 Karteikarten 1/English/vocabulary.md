@@ -108,7 +108,7 @@ barrier to trade(noun) () ::: Handelshemmnis
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) ::: Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2024-10-14,20,338!2024-10-11,18,326-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) ::: Ausbeutung, Nutzung, Verwertung
-<!--SR:!2024-09-27,3,266!2024-09-24,4,317-->
+<!--SR:!2024-09-27,3,266!2024-10-12,17,337-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) ::: nutzen, ausnutzen, ausschöpfen
 <!--SR:!2024-10-11,17,337!2024-10-08,15,326-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) ::: Lebensstandard, Lebenshaltung
@@ -150,7 +150,7 @@ environmentalism(noun) () ::: Umweltschutz
 work ethic(noun) () ::: Arbeitsmoral, Arbeitsethik, Arbeitsethos
 <!--SR:!2024-10-13,19,338!2024-10-10,17,326-->
 to subsidize(verb) (Corn is cheap because it is subsidized by the government.) ::: subventionieren, bezuschussen, finanziell unterstützen
-<!--SR:!2024-09-24,4,286!2024-10-13,19,338-->
+<!--SR:!2024-10-11,16,306!2024-10-13,19,338-->
 launch(noun) (Mission control postponed the launch of the space shuttle., We are preparing the product launch., We are planning a pan-European launch for September., The launch of the new system went smoothly.) ::: Launch, Start, Markteinführung
 <!--SR:!2024-10-05,12,306!2024-10-12,18,337-->
 to launch(verb) (The space agency will launch a rocket next month., The company will launch a new product this year., The company launched a new communication system., The fireworks are launched at midnight., The shipping company launched their new cruise ship.) ::: starten, einführen
@@ -180,11 +180,11 @@ to commission(verb) (The company commissioned me to design its new logo., My bro
 state-of-the-art(adjective) (The new school will have state-of-the-art classrooms., The new alarm system uses state-of-the-art technology.) ::: hochmodern, modernst
 <!--SR:!2024-10-11,18,331!2024-10-13,19,339-->
 state of the art(noun) () ::: Stand der Technik
-<!--SR:!2024-09-24,4,319!2024-10-10,16,310-->
+<!--SR:!2024-10-11,16,339!2024-10-10,16,310-->
 decline(noun) (We have witnessed a sharp decline in oil prices., The decline in sales worries the investors., The investors are not worried by the decline in sales., The country's economic decline came after the crisis.) ::: Rückgang, Sinken, Abnahme
 <!--SR:!2024-10-10,17,330!2024-10-10,16,331-->
 to decline(verb) (Air pollution is declining due to ecological reforms., My friend declined my invitation for lunch., The recession is over and unemployment is declining., Unemployment has declined with the recovery of the economy., The mortality rate is declining, people are living longer., The growth rate of exports has recently declined., I can correctly decline most Latin nouns., For my homework, I had to decline ten nouns.) ::: sinken, ablehnen, zurückgehen
-<!--SR:!2024-10-08,14,310!2024-09-24,4,319-->
+<!--SR:!2024-10-08,14,310!2024-10-13,18,339-->
 to promote(verb) (Our university promotes international student exchange., We promote cooperation among companies., My institution promotes various ecological initiatives., A new manager was hired to promote development., We need to promote our new product if we want to sell more., The meeting is intended to promote cooperation., I was promoted to head of department today.) ::: fördern, promoten, unterstützen
 <!--SR:!2024-09-27,4,297!2024-10-10,17,330-->
 inequality(noun) (Inequalities need to be redressed.) ::: Ungleichheit, Ungleichstellung, Ungleichung
@@ -213,7 +213,7 @@ to distribute(verb) (My sister distributes leaflets to earn some pocket money., 
 Distribution(noun) () ::: distribution
 <!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
 to a large extent(adverb) () ::: in hohem Maße, zum großen Teil, in hohem Ausmaß
-<!--SR:!2024-10-09,16,331!2024-09-25,1,292-->
+<!--SR:!2024-10-09,16,331!2024-09-29,4,312-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2024-09-27,4,299!2024-09-28,4,297-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
@@ -225,7 +225,7 @@ distribution(noun) (The distribution of goods must be done fairly., The distribu
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
 <!--SR:!2024-10-01,8,297!2024-10-12,18,337-->
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
-<!--SR:!2000-01-01,1,250!2024-09-25,1,292-->
+<!--SR:!2000-01-01,1,250!2024-09-29,4,312-->
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
 <!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
@@ -257,11 +257,11 @@ stake(noun) (A few investors hold a stake in our company., My company owns a sma
 to stake(verb) () ::: einsetzen, abstecken, pfählen
 <!--SR:!2000-01-01,1,250!2024-09-25,1,293-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
-<!--SR:!2000-01-01,1,250!2024-09-25,1,293-->
+<!--SR:!2000-01-01,1,250!2024-09-29,4,313-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
 <!--SR:!2000-01-01,1,250!2024-09-29,4,313-->
 versus(noun) () ::: Rückseite einer Münze
-<!--SR:!2000-01-01,1,250!2024-09-25,1,292-->
+<!--SR:!2000-01-01,1,250!2024-09-29,4,312-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2024-09-27,3,313!2000-01-01,1,250-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
@@ -283,7 +283,7 @@ shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2000-01-01,1,250!2024-09-28,4,332-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
-<!--SR:!2000-01-01,1,250!2024-09-25,1,293-->
+<!--SR:!2000-01-01,1,250!2024-09-26,1,273-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) <-> neben, außer, abgesehen von 
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) <-> darüber hinaus, außerdem, daneben 
 as a consequence(adverb) () <-> somit, demzufolge, folglich 
