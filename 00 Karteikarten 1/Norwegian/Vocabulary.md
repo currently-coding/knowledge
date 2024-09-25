@@ -7,7 +7,7 @@ fra 	/¹frɑː/ :::	  	from
 <!--SR:!2024-09-28,4,278-->
 Frankrike 	/¹frɑŋˌkriːke/ :::	  	France
 god 	/¹guː/ godt, gode :::	good
-<!--SR:!2024-09-28,4,278-->
+<!--SR:!2024-09-28,4,278!2024-09-29,4,284-->
 hallo 	/hɑ¹luː/ :::	  	hello
 <!--SR:!2024-09-28,4,278-->
 hei 	/¹hæi/ :::	  	hi
@@ -20,7 +20,7 @@ hva 	/¹vɑː/ :::	  	what
 hvor 	/¹vur/ :::	  	where
 
 hyggelig 	/²hygeli/ 	hyggelig, hyggelige :::	nice, pleasant
-<!--SR:!2024-09-25,1,238-->
+<!--SR:!2024-09-27,2,238!2000-01-01,1,250-->
 hyggelig å hilse på deg! 	/²hygeli o ²hilse po ˌdæi/ :::	  	nice to meet you
 <!--SR:!2024-09-28,4,274-->
 jeg 	/¹jæi/ :::	  	I
