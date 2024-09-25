@@ -232,7 +232,7 @@ fraction(noun) (The boy told only a fraction of the whole story., One third is a
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
 <!--SR:!2024-09-29,4,335!2024-09-28,4,332-->
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
-<!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
@@ -264,7 +264,7 @@ versus(preposition) (Today's rugby match is England versus France.) ::: gegen, c
 versus(noun) () ::: Rückseite einer Münze
 <!--SR:!2000-01-01,1,250!2024-09-29,4,312-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
-<!--SR:!2024-09-27,3,313!2000-01-01,1,250-->
+<!--SR:!2024-09-27,3,313!2024-09-29,4,335-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 <!--SR:!2024-09-28,4,333!2024-09-28,3,315-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
