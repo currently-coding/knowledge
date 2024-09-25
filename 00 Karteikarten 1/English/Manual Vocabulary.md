@@ -111,6 +111,7 @@ apparent ::: erkennbar, offensichtlich
 <!--SR:!2024-10-12,59,332-->
 
 to eradicate ::: ausloeschen
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-10-06,19,382-->
 
@@ -173,6 +174,7 @@ to grant ::: gewähren, genehmigen
 <!--SR:!2024-11-03,78,358-->
 
 to yield ::: bringen, ergeben, nachgeben
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2024-10-24,45,298-->
 
@@ -236,6 +238,7 @@ keen ::: eifrig, begierig, willig
 <!--SR:!2025-01-17,130,348-->
 
 despair ::: Verzweiflung
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2024-11-27,79,368-->
 
