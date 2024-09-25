@@ -93,6 +93,7 @@ concern ::: Anliegen, Interesse
 <!--SR:!2024-10-10,55,318-->
 
 to concern ::: betreffen, angehen, beunruhigen
+<!--SR:!2000-01-01,1,250!2024-09-29,4,284-->
 
 <!--SR:!2024-12-15,98,318-->
 
@@ -127,10 +128,12 @@ to eradicate ::: ausloeschen
 <!--SR:!2024-10-06,19,382-->
 
 apposite ::: treffend
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-10-09,19,364-->
 
 dedication ::: Engagement, Einsatz
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-10-01,15,363-->
 
@@ -175,6 +178,7 @@ to appeal ::: appelieren, gefallen, sich wenden
 <!--SR:!2024-12-08,90,318-->
 
 theory ::: theorie
+<!--SR:!2024-09-29,4,284!2000-01-01,1,250-->
 
 <!--SR:!2024-12-04,87,368-->
 

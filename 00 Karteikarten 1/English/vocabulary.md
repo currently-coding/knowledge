@@ -202,7 +202,7 @@ prosperity(noun) (His whole family lived in prosperity., I wished her luck and p
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
 <!--SR:!2024-10-12,19,331!2024-09-28,4,333-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
-<!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 <!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
@@ -252,7 +252,7 @@ receiver(noun) (The technician repaired the receiver of our old television set.,
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
 <!--SR:!2024-09-29,4,335!2024-09-28,4,332-->
 greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashaus, Treibhaus
-<!--SR:!2000-01-01,1,250!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
@@ -274,7 +274,7 @@ to dive(verb) (He dives in order to explore the underwater world., I love diving
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
-<!--SR:!2024-09-28,4,333!2000-01-01,1,250-->
+<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor

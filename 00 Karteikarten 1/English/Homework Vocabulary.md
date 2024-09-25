@@ -1,4 +1,5 @@
 human labour ::: Menschliche Arbeitskraft
+<!--SR:!2000-01-01,1,250!2024-09-29,4,276-->
 
 <!--SR:!2024-10-09,16,306-->
 
