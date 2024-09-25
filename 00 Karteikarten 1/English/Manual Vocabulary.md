@@ -24,10 +24,12 @@ nefarious ::: wicked, evil
 <!--SR:!2024-10-02,68,312-->
 
 oblivion ::: state of unawareness of everything
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2025-02-19,164,312-->
 
 plethora ::: an abundance of something, Überfluss an etwas
+<!--SR:!2024-09-29,4,270!2000-01-01,1,250-->
 
 <!--SR:!2024-10-04,67,317-->
 
@@ -254,6 +256,7 @@ contempt ::: Missachtung, Verachtung
 <!--SR:!2025-03-31,189,348-->
 
 to plead ::: plädieren
+<!--SR:!2000-01-01,1,250!2024-09-29,4,270-->
 
 <!--SR:!2024-12-09,92,358-->
 
