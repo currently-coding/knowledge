@@ -23,7 +23,7 @@ def remove_duplicate_and_next(lines):
 
 
 # Read input from vocabulary.md
-with open("vocabulary.md", "r") as file:
+with open("Englisch", "r") as file:
     lines = file.readlines()  # Read all lines from the file
 
 # Process the lines to remove duplicates and the line beneath them
