@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Obsidian Nord",
-  "accentColor": "#6bef74",
-  "theme": "system"
+  "cssTheme": "Border",
+  "accentColor": "#2aa3bb",
+  "theme": "system",
+  "baseFontSize": 16
 }

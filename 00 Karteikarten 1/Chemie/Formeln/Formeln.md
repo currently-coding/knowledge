@@ -3,81 +3,81 @@ tags:
   - chemie
   - formeln
 ---
-Ammonium-Ion <-> $NH_4^+$
+Ammonium-Ion ::: $NH_4^+$
 <!--SR:!2025-05-21,249,338!2025-03-15,190,320-->
 
-Carbonat-Ion <-> $CO_3^{2-}$
+Carbonat-Ion ::: $CO_3^{2-}$
 <!--SR:!2025-02-21,166,326!2025-01-04,120,283-->
 
-Hydrogencarbonat-Ion <-> $HCO_3^-$
+Hydrogencarbonat-Ion ::: $HCO_3^-$
 <!--SR:!2024-11-12,90,280!2024-09-30,13,194-->
-Hydroxid-Ion <-> $OH^-$
+Hydroxid-Ion ::: $OH^-$
 <!--SR:!2025-01-10,126,306!2025-02-05,150,314-->
 
-Nitrat-Ion <-> $NO_3^-$
+Nitrat-Ion ::: $NO_3^-$
 <!--SR:!2025-02-15,162,314!2024-10-16,73,286-->
 
-Nitrit-Ion <-> $NO_2^-$
+Nitrit-Ion ::: $NO_2^-$
 <!--SR:!2025-01-25,141,303!2025-02-21,166,314-->
 
-Permanganat-Ion <-> $MnO_4^-$
+Permanganat-Ion ::: $MnO_4^-$
 <!--SR:!2025-03-06,179,314!2025-02-27,174,320-->
 
-Phosphat-Ion <-> $PO_4^{3-}$
+Phosphat-Ion ::: $PO_4^{3-}$
 <!--SR:!2025-04-05,207,320!2025-03-01,176,303-->
 
-Sulfat-Ion <-> $SO_4^{2-}$
+Sulfat-Ion ::: $SO_4^{2-}$
 <!--SR:!2025-01-07,123,283!2025-03-08,181,326-->
 
-Sulfit-Ion <-> $SO_3^{2-}$
+Sulfit-Ion ::: $SO_3^{2-}$
 <!--SR:!2025-03-26,199,320!2025-02-03,150,314-->
 
-Kalk <-> $CaCO_3$
+Kalk ::: $CaCO_3$
 <!--SR:!2024-10-01,8,240!2024-10-14,73,283-->
 
-Schwefelsäure <-> $H_2SO_4$
+Schwefelsäure ::: $H_2SO_4$
 <!--SR:!2024-11-07,88,274!2025-01-19,135,283-->
 
-Phosphorsäure <-> $H_3PO_4$
+Phosphorsäure ::: $H_3PO_4$
 <!--SR:!2025-01-21,137,286!2024-10-30,83,306-->
 
-Fluorwasserstoffsäure <-> $HF$
+Fluorwasserstoffsäure ::: $HF$
 <!--SR:!2024-10-03,24,280!2024-12-11,117,303-->
 
 
-Chlorwasserstoffsäure <-> $HCl$
+Chlorwasserstoffsäure ::: $HCl$
 <!--SR:!2025-01-11,127,303!2025-01-04,117,294-->
 
-Bromwasserstoffsäure <-> $HBr$
+Bromwasserstoffsäure ::: $HBr$
 <!--SR:!2025-03-03,178,320!2025-03-10,183,314-->
 
-Iodwasserstoffsäure <-> $HI$
+Iodwasserstoffsäure ::: $HI$
 <!--SR:!2025-02-10,157,319!2025-02-12,157,320-->
 
-Schwefelwasserstoffsäure <-> $H_2S$
+Schwefelwasserstoffsäure ::: $H_2S$
 <!--SR:!2024-09-27,19,286!2025-01-07,123,299-->
 
-Salpetersäure <-> $HNO_3$
+Salpetersäure ::: $HNO_3$
 <!--SR:!2024-12-02,108,299!2024-10-14,58,280-->
 
-Kohlensäure <-> $H_2CO_3$
+Kohlensäure ::: $H_2CO_3$
 <!--SR:!2025-02-25,170,320!2024-11-07,62,283-->
 
-Schwefelige Säure <-> $H_2SO_3$
+Schwefelige Säure ::: $H_2SO_3$
 <!--SR:!2024-11-18,73,274!2024-10-28,50,243-->
 
-Salpetrige Säure <-> $HNO_2$
+Salpetrige Säure ::: $HNO_2$
 <!--SR:!2024-12-26,111,286!2024-10-12,65,254-->
 
-Phosphorsäure <-> $H_3PO_4$
+Phosphorsäure ::: $H_3PO_4$
 <!--SR:!2024-11-02,86,283!2024-12-15,100,280-->
 
-Oxonium-Ion <-> $H_3O^+$
+Oxonium-Ion ::: $H_3O^+$
 <!--SR:!2025-04-12,211,326!2024-11-24,102,283-->
 
-Dichromat-Ion <-> $Cr_2O_7^{2-}$
+Dichromat-Ion ::: $Cr_2O_7^{2-}$
 <!--SR:!2024-10-08,21,243!2024-10-01,64,294-->
 
-Oxalat-Ion <-> $C_2O_4^{2-}$
+Oxalat-Ion ::: $C_2O_4^{2-}$
 <!--SR:!2024-10-09,25,286!2024-12-04,109,283-->
 

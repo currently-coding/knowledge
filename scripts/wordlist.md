@@ -1,12 +1,3 @@
-Besides
-As a consequence
-engender
-fulfil
-Command
-vague
-trauma
-removal
-skip
 stimulus
 exclude
 stark

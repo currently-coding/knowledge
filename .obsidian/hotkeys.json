@@ -2,8 +2,7 @@
   "graph:open-local": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Meta"
       ],
       "key": "G"
     }
@@ -78,5 +77,32 @@
       ],
       "key": "R"
     }
-  ]
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:undo-close-pane": []
 }
