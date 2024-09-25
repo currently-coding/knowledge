@@ -8,6 +8,7 @@ rapid growth ::: rapider Anstieg
 <!--SR:!2024-10-07,14,296-->
 
 to induce sth. ::: etwas herbeifuehren
+<!--SR:!2024-09-29,4,276!2000-01-01,1,250-->
 
 <!--SR:!2024-10-07,14,296-->
 
