@@ -302,3 +302,17 @@ removal(noun) (The gardener uses a spray for the removal of weeds., The city pay
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., I removed the old battery and installed a new one., I removed the lid from the box., The surgeon removed her appendix., The technician removed the old mount for the television., The handyman removed the damaged valve and replaced it., The president removed the minister from office., The fisherman removed his wet boots., The board voted to remove the chairman., The rework is complete, all faults have now been removed., The workers removed the debris from the construction site.) <-> entfernen, beseitigen, entnehmen 
 to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) <-> überspringen, übergehen, auslassen 
 skip(noun) (A skip full of rubble stood in front of the building site.) <-> Container, Sprung, Fehlstelle 
+stimulus(noun) (We are conditioned to react to sensory stimuli., The rats learned to react to a certain stimulus., The grant is meant to be a stimulus for new research.) <-> Reiz, Stimulus, Anreiz 
+Stimulus(noun) (Die Ratten lernten, auf einen bestimmten Stimulus zu reagieren.) <-> stimulus, impetus, incentive 
+to exclude(verb) () <-> ausschließen, ausnehmen, herausnehmen 
+stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) <-> schier, krass, nackt 
+stark(adjective) (Mein Freund ist stark genug, um den Sack mühelos anzuheben., Der Bohrer hat ein starkes Drehmoment., Der starke Motor des Fahrzeugs liefert den Antrieb., Starke Regenfälle behindern die Bauarbeiten., Der Kaffee hatte ein starkes Aroma., Während des Monsuns gab es starken Regen., Der Patient litt unter starker Schweißbildung.) <-> strong, powerful, heavy 
+stark(adjective) () <-> awesome 
+withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) <-> Rücktritt, Rückzug, Zurücknahme 
+to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) <-> konstruieren, bauen, sich ausdenken 
+construct(noun) (So far the idea is nothing more than a construct.) <-> Gedankengebäude, Konstrukt, Konstruktion 
+federal(adjective) () <-> föderal, föderativ, bundesstaatlich 
+broadly(adverb) () <-> weit, breit, allgemein 
+broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) <-> breit, umfassend, weit 
+to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) <-> sich drehen, drehen, rotieren 
+to equip(verb) () <-> ausstatten, ausrüsten, rüsten 
