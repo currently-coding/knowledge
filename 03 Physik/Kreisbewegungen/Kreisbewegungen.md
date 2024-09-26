@@ -1,4 +1,10 @@
 ## Groessen
+- Ortsvektor 
+$$\vec r(t) = (x(t); y(t))$$
+-  Umlaufdauer
+$$T$$
+- Strecke
+$$\Delta v$$
 
 
 ## gleichmaessige Bewegungen
@@ -28,11 +34,10 @@ $$
 v = w * r = \frac{2\pi r}{T}
 $$
 
-
 ## Beachte
-
-1. $\phi$ hat die Einheit *Bogenmaß*
-2. $[w] = \frac{1}{s}$
-3. $w$ hat *keine* *Richtung*
-4. $\vec v$ hat *Betrag* und *Richtung*
+> [!Note]
+> 1. $\phi$ hat die Einheit *Bogenmaß*
+> 2. $[w] = \frac{1}{s}$
+> 3. $w$ hat *keine* *Richtung*
+> 4. $\vec v$ hat *Betrag* und *Richtung*
 
