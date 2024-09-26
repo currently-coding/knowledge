@@ -1,5 +1,5 @@
 n, x: Down ;; j
-<!--SR:!2024-09-26,13,289-->
+<!--SR:!2024-11-14,49,309-->
 n, x: Down ->\<Down>
 <!--SR:!2024-09-23,10,289-->
 n, x: Up ;; k
@@ -51,7 +51,7 @@ i, x, n, s: Save File ->\<C-s>
 n: Keywordprg ->\<leader>K
 <!--SR:!2024-09-23,7,229-->
 n: Add Comment Below ;; gco
-<!--SR:!2024-09-26,13,289-->
+<!--SR:!2024-11-15,50,309-->
 n: Add Comment Above ;; gcO
 <!--SR:!2024-11-10,46,309-->
 n: Lazy ->\<leader>l
@@ -73,11 +73,11 @@ n: Line Diagnostics ->\<leader>cd
 n: Next Diagnostic ;; ]d
 <!--SR:!2024-10-29,35,309-->
 n: Prev Diagnostic ;; [d
-<!--SR:!2024-09-26,13,289-->
+<!--SR:!2024-11-13,48,309-->
 n: Next Error ;; ]e
 <!--SR:!2024-10-12,22,249-->
 n: Prev Error ;; [e
-<!--SR:!2024-09-26,13,289-->
+<!--SR:!2024-11-16,51,309-->
 n: Next Warning ;; ]w
 <!--SR:!2024-10-21,32,287-->
 n: Prev Warning ;; [w

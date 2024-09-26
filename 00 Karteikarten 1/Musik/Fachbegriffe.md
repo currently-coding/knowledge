@@ -8,7 +8,7 @@ Instrumentation/Besetzung ;; bestimmt den Aspekt der Klangfarbe bzw. die Differe
 <!--SR:!2024-09-29,9,253-->
 
 Artikulation/Phrasierung ;; bestimmt durch die Spielweise(kurz, lang gebunden, ...) die spezifische WIrkung von Einzeltoenen und erzeugt dadurch ggf. Gruppierungen(Melodische Phrasen)
-<!--SR:!2024-09-26,2,213-->
+<!--SR:!2024-09-30,4,213-->
 
 Agogik ;; regelt den Verlauf der musikalischen Gross- und Kleinphasen bezueglich der Tempogestaltung(Temposchwankungen)
 <!--SR:!2024-09-28,9,273-->
