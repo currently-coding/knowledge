@@ -10,4 +10,6 @@ $$
 >Funktionen, die fuer $x \rightarrow -\infty$ und $x \rightarrow +\infty$ einen Grenzwert haben nennt man **konvergent**. Haben sie dies nicht nennt man sie **divergent**
 
 >[!Note]
->Konvergenz bedeutet, dass eine Funktion ab einem best. $x$ Wert einen 
+>**Konvergenz** bedeutet, dass eine Funktion ab einem best. $x$ Wert einen Streifen definierter Breite niemals mehr verlaesst. Diese Breite nennt man **Toleranz**
+
+
