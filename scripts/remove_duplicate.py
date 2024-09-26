@@ -4,6 +4,9 @@ def remove_duplicate_and_next(lines):
     skip_next = False  # Flag to skip the next line after a duplicate
 
     for i, line in enumerate(lines):
+
+        if line.startswith("\n"):
+            continue
         if skip_next:  # If previous line was a duplicate, skip this one
             skip_next = False
             continue
@@ -23,12 +26,15 @@ def remove_duplicate_and_next(lines):
 
 
 # Read input from vocabulary.md
-with open("vocabulary.md", "r") as file:
+
+filename = "Englisch.md"
+
+with open(filename, "r") as file:
     lines = file.readlines()  # Read all lines from the file
 
 # Process the lines to remove duplicates and the line beneath them
 filtered_lines = remove_duplicate_and_next(lines)
 
 # Write the result back to the file (or a new file)
-with open("filtered_vocabulary.md", "w") as output_file:
+with open(filename, "w") as output_file:
     output_file.writelines(filtered_lines)
