@@ -24,6 +24,6 @@
 - zweiteilig
 	- Teil 1: Aussagen
 	- Teil 2: Bitten
-- starke Glaeubigkeit
+- starke Gläubigkeit
 
 

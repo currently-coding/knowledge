@@ -68,6 +68,7 @@ def write_output(file, entries):
 # Function to process and format translation data
 def process_translations(data, output_with_examples):
     new_entries = []
+    count = 0
     for entry in data:
         pos = entry.get('pos', 'N/A').split(',')[0]
         word = f"to {entry.get('text', 'N/A')}" if pos == "verb" else entry.get('text', 'N/A')
@@ -89,6 +90,9 @@ def process_translations(data, output_with_examples):
 
         entry_str = f"{word}({pos}) {src_examples_string} {separator} {', '.join(translations)} {dst_examples_string}\n"
         new_entries.append(entry_str)
+        if count > 1:
+            break
+        count += 1
     return new_entries
 
 

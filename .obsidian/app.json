@@ -3,5 +3,5 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "spellcheck": false
+  "spellcheck": true
 }
