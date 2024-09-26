@@ -12,9 +12,12 @@
 3. Pressling verbrennt vollstaendig
 4. enstandene Hitze erwaermt umgebendes Wasser
 -> Kann auf Brennwert geschlossen werden
-
+## Formel
+$$
+Q = \Delta T \cdot m(H_2O) \cdot c(H_2O)
+$$
 
 ## Beispiel: Erdnuss
 $$
-Q = \Delta T * m(H\lower
+Q = \Delta T \cdot m(H_2O) \cdot c(H_2O)
 $$

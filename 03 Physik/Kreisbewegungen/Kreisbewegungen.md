@@ -3,8 +3,35 @@
 $$\vec r(t) = (x(t); y(t))$$
 -  Umlaufdauer
 $$T$$
+$$
+[T] = 1s
+$$
+
+
 - Strecke
-$$\Delta v$$
+$$
+\Delta s
+$$
+$$
+[v] = 1m
+$$
+
+- Winkelgeschwindigkeit
+$$
+\omega = \frac{\Delta \varphi}{\Delta t} = \frac{2 \pi}{T}
+$$
+$$
+[\omega] = \frac{1}{s}
+$$
+- Bahngeschwindigkeit
+$$
+v = \frac{\Delta s}{\Delta t} = \frac{U}{T} = \frac{2 \pi r}{T}
+$$
+
+$$
+[v] = 1 \frac{m}{s}
+$$
+
 
 
 ## gleichmaessige Bewegungen
