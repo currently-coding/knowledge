@@ -306,7 +306,8 @@ removal(noun) (The gardener uses a spray for the removal of weeds., The city pay
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., I removed the old battery and installed a new one., I removed the lid from the box., The surgeon removed her appendix., The technician removed the old mount for the television., The handyman removed the damaged valve and replaced it., The president removed the minister from office., The fisherman removed his wet boots., The board voted to remove the chairman., The rework is complete, all faults have now been removed., The workers removed the debris from the construction site.) ::: entfernen, beseitigen, entnehmen
 <!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
 to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen 
-skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle 
+skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 stimulus(noun) (We are conditioned to react to sensory stimuli., The rats learned to react to a certain stimulus., The grant is meant to be a stimulus for new research.) ::: Reiz, Stimulus, Anreiz
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 Stimulus(noun) (Die Ratten lernten, auf einen bestimmten Stimulus zu reagieren.) ::: stimulus, impetus, incentive 
