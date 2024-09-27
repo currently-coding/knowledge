@@ -1,4 +1,6 @@
 reside
+compound
+conclude
 craft
 call attention to
 interpretation
@@ -934,7 +936,6 @@ reckon
 bring about
 curriculum
 perception
-compound
 opposition
 entertaining
 extension
