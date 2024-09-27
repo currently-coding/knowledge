@@ -25,15 +25,11 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#learn",
-      "#remember"
+      "#review"
     ],
-    "noteFoldersToIgnore": [
-      "00 Karteikarten 1/Ignore",
-      "14 CS"
-    ],
-    "openRandomNote": true,
-    "autoNextNote": true,
+    "noteFoldersToIgnore": [],
+    "openRandomNote": false,
+    "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": false,
@@ -44,15 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-09-26",
-  "buryList": [
-    "1b2df1fd8319b0",
-    "12beec310aad28",
-    "31a9ff7e9c251",
-    "847afeef30212",
-    "1a73ff0f1d735",
-    "ff406da219237",
-    "8cecc8d2d8e33"
-  ],
+  "buryDate": "2024-09-27",
+  "buryList": [],
   "historyDeck": null
 }
