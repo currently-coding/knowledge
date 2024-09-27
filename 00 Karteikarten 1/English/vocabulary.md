@@ -168,7 +168,7 @@ flourish(noun) (The composition has various flourishes., She decorated the birth
 supplier(noun) (Our supplier delivers high-quality products., The suppliers are selected through tendering., I am the only supplier of the brand in Italy., We are the largest supplier of electrical goods in the region., Car manufacturers buy parts from many suppliers.) ::: Lieferant, Anbieter, Zulieferer
 <!--SR:!2024-10-12,19,326!2024-10-10,16,337-->
 to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) ::: liefern, mitliefern, beliefern
-<!--SR:!2024-09-27,4,298!2024-10-09,16,326-->
+<!--SR:!2024-10-13,16,318!2024-10-09,16,326-->
 purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) ::: Kauf, Erwerb, Einkauf
 <!--SR:!2024-10-12,19,326!2024-10-11,17,331-->
 to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) ::: kaufen, erwerben, beschaffen
@@ -244,7 +244,7 @@ electronic(adjective) (The flight attendant asked to turn off all electronic dev
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
-<!--SR:!2024-09-28,3,314!2024-09-27,3,312-->
+<!--SR:!2024-09-28,3,314!2024-09-29,2,292-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
 <!--SR:!2024-09-30,4,315!2024-09-28,4,332-->
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
