@@ -308,7 +308,7 @@ distinction ::: Unterscheidung, Abgrenzung, Auszeichnung
 <!--SR:!2025-04-10,199,358-->
 
 to contend ::: kämpfen, behaupten
-<!--SR:!2000-01-01,1,250!2024-09-29,3,250-->
+<!--SR:!2024-10-01,4,307!2024-09-29,3,250-->
 
 <!--SR:!2024-12-02,85,368-->
 
