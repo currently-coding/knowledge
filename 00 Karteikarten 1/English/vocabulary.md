@@ -284,13 +284,17 @@ shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2024-09-29,4,335!2024-09-28,4,332-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
-<!--SR:!2000-01-01,1,250!2024-09-30,4,293-->
-besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von 
+<!--SR:!2024-10-01,4,337!2024-09-30,4,293-->
+besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
+<!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
-as a consequence(adverb) () ::: somit, demzufolge, folglich 
-to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen 
-to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden 
+as a consequence(adverb) () ::: somit, demzufolge, folglich
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden
+<!--SR:!2024-09-30,3,317!2000-01-01,1,250-->
 to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
@@ -301,45 +305,61 @@ vague(adjective) (Initially, our world trip was just a vague idea., With such va
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 trauma(noun) (Patients who have experienced trauma require special care.) ::: Trauma, seelischer Schock
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
-trauma(noun as adjective) () :::  Trauma(noun) (Patienten, die ein Trauma erlebt haben, benötigen besondere Sorgfalt.) ::: trauma 
+trauma(noun as adjective) () :::  Trauma(noun) (Patienten, die ein Trauma erlebt haben, benötigen besondere Sorgfalt.) ::: trauma
+<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., I removed the old battery and installed a new one., I removed the lid from the box., The surgeon removed her appendix., The technician removed the old mount for the television., The handyman removed the damaged valve and replaced it., The president removed the minister from office., The fisherman removed his wet boots., The board voted to remove the chairman., The rework is complete, all faults have now been removed., The workers removed the debris from the construction site.) ::: entfernen, beseitigen, entnehmen
 <!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
-to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen 
+to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen
+<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 stimulus(noun) (We are conditioned to react to sensory stimuli., The rats learned to react to a certain stimulus., The grant is meant to be a stimulus for new research.) ::: Reiz, Stimulus, Anreiz
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
-Stimulus(noun) (Die Ratten lernten, auf einen bestimmten Stimulus zu reagieren.) ::: stimulus, impetus, incentive 
+Stimulus(noun) (Die Ratten lernten, auf einen bestimmten Stimulus zu reagieren.) ::: stimulus, impetus, incentive
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
 <!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
-stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt 
+stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
+<!--SR:!2024-09-28,1,297!2000-01-01,1,250-->
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
 <!--SR:!2024-09-30,3,317!2000-01-01,1,250-->
-to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken 
-construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion 
-federal(adjective) () ::: föderal, föderativ, bundesstaatlich 
+to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
+<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
+construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+federal(adjective) () ::: föderal, föderativ, bundesstaatlich
+<!--SR:!2024-09-28,1,297!2000-01-01,1,250-->
 broadly(adverb) () ::: weit, breit, allgemein
 <!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
-broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit 
+broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit
+<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
-deck(noun) (She was standing on the deck, looking at the blue sea., The sailors had to scrub the deck.) ::: Deck, Terrasse, Kartenspiel 
-to deck(verb) (The room was decked with pretty flowers.) ::: schmücken, ausstaffieren, verzieren 
-Deck(noun) (Sie stand am Deck und blickte auf das blaue Meer., Die Matrosen mussten das Deck schrubben.) ::: deck, board, level 
-canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße 
-to can(verb) (A referee can never be partial towards one team., The traffic light signals when I can drive off.) ::: dürfen, konservieren, eindosen 
-can(noun) (I have a can of beer and a bottle of water., Peas can be bought fresh or in cans.) ::: Dose, Konserve, Kanne 
+deck(noun) (She was standing on the deck, looking at the blue sea., The sailors had to scrub the deck.) ::: Deck, Terrasse, Kartenspiel
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+to deck(verb) (The room was decked with pretty flowers.) ::: schmücken, ausstaffieren, verzieren
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße
+<!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
+to can(verb) (A referee can never be partial towards one team., The traffic light signals when I can drive off.) ::: dürfen, konservieren, eindosen
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+can(noun) (I have a can of beer and a bottle of water., Peas can be bought fresh or in cans.) ::: Dose, Konserve, Kanne
+<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) ::: Komfort, Bequemlichkeit, Nutzen
 <!--SR:!2000-01-01,1,250!2024-09-30,3,317-->
-to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern 
+to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern
+<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 to assure oneself(verb) () ::: sich versichern lassen
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
-provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler 
+provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
+<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
-reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung 
-whereby(adverb) () ::: wobei, wodurch, womit 
+reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+whereby(adverb) () ::: wobei, wodurch, womit
+<!--SR:!2024-09-30,3,317!2000-01-01,1,250-->
