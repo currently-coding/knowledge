@@ -15,7 +15,7 @@ in_file = 'wordlist.md'
 out_file = '../00 Karteikarten 1/English/vocabulary.md'
 
 output_with_examples = (True, False)
-separator = '<->'
+separator = ':::'
 amount_of_words_per_execution = 9
 
 # ================================

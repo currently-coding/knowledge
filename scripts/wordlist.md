@@ -1,22 +1,6 @@
-stimulus
-exclude
-stark
-withdrawal
-construct
-federal
-broadly
-rotate
-equip
-deck
-canal
-convenience
-assure
-provincial
-adj.,
-induce
-reminder
-whereby
 reside
+compound
+conclude
 craft
 call attention to
 interpretation
@@ -952,7 +936,6 @@ reckon
 bring about
 curriculum
 perception
-compound
 opposition
 entertaining
 extension

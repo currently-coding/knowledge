@@ -25,11 +25,15 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      "#learn",
+      "#remember"
     ],
-    "noteFoldersToIgnore": [],
-    "openRandomNote": false,
-    "autoNextNote": false,
+    "noteFoldersToIgnore": [
+      "00 Karteikarten 1/Ignore",
+      "14 CS"
+    ],
+    "openRandomNote": true,
+    "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": false,

@@ -4,7 +4,7 @@ abstract(adjective) (The artist is famous for his abstract paintings., Intellige
 abstract(noun) (I have to write an abstract for my dissertation.) ::: Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung
 <!--SR:!2024-10-04,15,290!2024-10-04,14,302-->
 to abstract(verb) (I will read the article and abstract the main ideas.) ::: trennen, abziehen, entnehmen
-<!--SR:!2024-09-26,2,210!2024-10-10,17,316-->
+<!--SR:!2024-10-01,5,230!2024-10-10,17,316-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2024-10-05,15,302!2024-10-06,17,290-->
 to accent(verb) ::: betonen, akzentuieren, hervorheben
@@ -20,7 +20,7 @@ to accommodate oneself(verb) () ::: sich akkommodieren
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
 <!--SR:!2024-09-29,11,270!2024-10-06,16,302-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
-<!--SR:!2024-09-26,7,259!2024-09-26,2,256-->
+<!--SR:!2024-09-26,7,259!2024-09-27,1,236-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
 <!--SR:!2024-10-06,16,302!2024-09-27,9,279-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
@@ -120,7 +120,7 @@ current affairs(noun) () ::: aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) ::: Fonds, Investmentfonds, Geldmittel
 <!--SR:!2024-10-12,18,339!2024-10-10,17,330-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) ::: finanzieren, anlegen, investieren
-<!--SR:!2024-10-08,15,330!2024-09-26,2,299-->
+<!--SR:!2024-10-08,15,330!2024-10-03,7,319-->
 deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
 <!--SR:!2024-10-09,15,331!2024-10-10,17,326-->
 mechanization(noun) () ::: Mechanisierung, Technisierung
@@ -206,7 +206,7 @@ to facilitate(verb) (The new interface facilitates user input., The handout faci
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 <!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
-<!--SR:!2024-09-29,4,335!2000-01-01,1,250-->
+<!--SR:!2024-09-29,4,335!2024-09-30,4,336-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
@@ -226,7 +226,7 @@ distribution(noun) (The distribution of goods must be done fairly., The distribu
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
 <!--SR:!2024-10-01,8,297!2024-10-12,18,337-->
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
-<!--SR:!2000-01-01,1,250!2024-09-29,4,312-->
+<!--SR:!2024-09-30,4,336!2024-09-29,4,312-->
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
 <!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
@@ -236,7 +236,7 @@ conventional(adjective) (The score has been written in conventional notation., H
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
-<!--SR:!2024-09-28,4,333!2024-09-26,1,295-->
+<!--SR:!2024-09-28,4,333!2024-09-27,1,275-->
 recipient(adjective) () ::: empfangsbereit
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) ::: elektronisch
@@ -246,7 +246,7 @@ theoretical(adjective) (First of all, I will outline the theoretical foundations
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
 <!--SR:!2024-09-28,3,314!2024-09-27,3,312-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
-<!--SR:!2024-09-26,1,295!2024-09-28,4,332-->
+<!--SR:!2024-09-30,4,315!2024-09-28,4,332-->
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
 <!--SR:!2024-09-28,4,332!2024-09-29,4,334-->
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
@@ -256,13 +256,13 @@ greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashau
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
-<!--SR:!2000-01-01,1,250!2024-09-29,4,313-->
+<!--SR:!2024-09-30,4,336!2024-09-29,4,313-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
-<!--SR:!2000-01-01,1,250!2024-09-29,4,313-->
+<!--SR:!2024-09-30,4,336!2024-09-29,4,313-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
-<!--SR:!2000-01-01,1,250!2024-09-29,4,313-->
+<!--SR:!2024-09-30,4,336!2024-09-29,4,313-->
 versus(noun) () ::: Rückseite einer Münze
-<!--SR:!2000-01-01,1,250!2024-09-29,4,312-->
+<!--SR:!2024-09-29,3,316!2024-09-29,4,312-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2024-09-27,3,313!2024-09-29,4,335-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
@@ -280,24 +280,48 @@ to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shr
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
 <!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
-<!--SR:!2000-01-01,1,250!2024-09-29,4,312-->
+<!--SR:!2024-09-30,4,336!2024-09-29,4,312-->
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2024-09-29,4,335!2024-09-28,4,332-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
-<!--SR:!2000-01-01,1,250!2024-09-26,1,273-->
-besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) <-> neben, außer, abgesehen von 
-besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) <-> darüber hinaus, außerdem, daneben 
-as a consequence(adverb) () <-> somit, demzufolge, folglich 
-to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) <-> hervorrufen, erzeugen, schaffen 
-to fulfil(verb) (The products fulfilled our requirements.) <-> erfüllen, genügen, gerecht werden 
-to fulfil(verb) (He fulfilled his childhood dream.) <-> verwirklichen, erbringen 
-command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) <-> Befehl, Kommando, Beherrschung 
-to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) <-> beherrschen, befehlen, kommandieren 
-vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) <-> vage, ungenau, unklar 
-trauma(noun) (Patients who have experienced trauma require special care.) <-> Trauma, seelischer Schock 
-trauma(noun as adjective) () <->  
-Trauma(noun) (Patienten, die ein Trauma erlebt haben, benötigen besondere Sorgfalt.) <-> trauma 
-removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) <-> Entfernen, Beseitigung, Entfernung 
-to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., I removed the old battery and installed a new one., I removed the lid from the box., The surgeon removed her appendix., The technician removed the old mount for the television., The handyman removed the damaged valve and replaced it., The president removed the minister from office., The fisherman removed his wet boots., The board voted to remove the chairman., The rework is complete, all faults have now been removed., The workers removed the debris from the construction site.) <-> entfernen, beseitigen, entnehmen 
-to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) <-> überspringen, übergehen, auslassen 
-skip(noun) (A skip full of rubble stood in front of the building site.) <-> Container, Sprung, Fehlstelle
+<!--SR:!2000-01-01,1,250!2024-09-30,4,293-->
+besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von 
+besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben 
+as a consequence(adverb) () ::: somit, demzufolge, folglich 
+to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen 
+to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden 
+to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen 
+command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung 
+to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren 
+vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar 
+trauma(noun) (Patients who have experienced trauma require special care.) ::: Trauma, seelischer Schock 
+trauma(noun as adjective) () :::  Trauma(noun) (Patienten, die ein Trauma erlebt haben, benötigen besondere Sorgfalt.) ::: trauma 
+removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung 
+to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., I removed the old battery and installed a new one., I removed the lid from the box., The surgeon removed her appendix., The technician removed the old mount for the television., The handyman removed the damaged valve and replaced it., The president removed the minister from office., The fisherman removed his wet boots., The board voted to remove the chairman., The rework is complete, all faults have now been removed., The workers removed the debris from the construction site.) ::: entfernen, beseitigen, entnehmen 
+to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen 
+skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle 
+stimulus(noun) (We are conditioned to react to sensory stimuli., The rats learned to react to a certain stimulus., The grant is meant to be a stimulus for new research.) ::: Reiz, Stimulus, Anreiz 
+Stimulus(noun) (Die Ratten lernten, auf einen bestimmten Stimulus zu reagieren.) ::: stimulus, impetus, incentive 
+to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen 
+stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt 
+withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme 
+to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken 
+construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion 
+federal(adjective) () ::: föderal, föderativ, bundesstaatlich 
+broadly(adverb) () ::: weit, breit, allgemein 
+broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit 
+to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren 
+deck(noun) (She was standing on the deck, looking at the blue sea., The sailors had to scrub the deck.) ::: Deck, Terrasse, Kartenspiel 
+to deck(verb) (The room was decked with pretty flowers.) ::: schmücken, ausstaffieren, verzieren 
+Deck(noun) (Sie stand am Deck und blickte auf das blaue Meer., Die Matrosen mussten das Deck schrubben.) ::: deck, board, level 
+canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße 
+to can(verb) (A referee can never be partial towards one team., The traffic light signals when I can drive off.) ::: dürfen, konservieren, eindosen 
+can(noun) (I have a can of beer and a bottle of water., Peas can be bought fresh or in cans.) ::: Dose, Konserve, Kanne 
+convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) ::: Komfort, Bequemlichkeit, Nutzen 
+to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern 
+to assure oneself(verb) () ::: sich versichern lassen 
+provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch 
+provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler 
+to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen 
+reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung 
+whereby(adverb) () ::: wobei, wodurch, womit 
