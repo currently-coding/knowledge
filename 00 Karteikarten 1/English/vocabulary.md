@@ -286,7 +286,8 @@ piece(noun) (Each boy gets a piece of cake., After adding the last piece, the pu
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 <!--SR:!2000-01-01,1,250!2024-09-30,4,293-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von 
-besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben 
+besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich 
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen 
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden 
@@ -294,9 +295,11 @@ to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung 
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren 
 vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar 
-trauma(noun) (Patients who have experienced trauma require special care.) ::: Trauma, seelischer Schock 
+trauma(noun) (Patients who have experienced trauma require special care.) ::: Trauma, seelischer Schock
+<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 trauma(noun as adjective) () :::  Trauma(noun) (Patienten, die ein Trauma erlebt haben, benötigen besondere Sorgfalt.) ::: trauma 
-removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung 
+removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., I removed the old battery and installed a new one., I removed the lid from the box., The surgeon removed her appendix., The technician removed the old mount for the television., The handyman removed the damaged valve and replaced it., The president removed the minister from office., The fisherman removed his wet boots., The board voted to remove the chairman., The rework is complete, all faults have now been removed., The workers removed the debris from the construction site.) ::: entfernen, beseitigen, entnehmen 
 to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen 
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle 
@@ -308,9 +311,11 @@ withdrawal(noun) (The minister announced his withdrawal from government., The wi
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken 
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion 
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich 
-broadly(adverb) () ::: weit, breit, allgemein 
+broadly(adverb) () ::: weit, breit, allgemein
+<!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
 broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit 
-to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren 
+to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
+<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 deck(noun) (She was standing on the deck, looking at the blue sea., The sailors had to scrub the deck.) ::: Deck, Terrasse, Kartenspiel 
 to deck(verb) (The room was decked with pretty flowers.) ::: schmücken, ausstaffieren, verzieren 
 Deck(noun) (Sie stand am Deck und blickte auf das blaue Meer., Die Matrosen mussten das Deck schrubben.) ::: deck, board, level 
@@ -319,7 +324,8 @@ to can(verb) (A referee can never be partial towards one team., The traffic ligh
 can(noun) (I have a can of beer and a bottle of water., Peas can be bought fresh or in cans.) ::: Dose, Konserve, Kanne 
 convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) ::: Komfort, Bequemlichkeit, Nutzen 
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern 
-to assure oneself(verb) () ::: sich versichern lassen 
+to assure oneself(verb) () ::: sich versichern lassen
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch 
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler 
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen 
