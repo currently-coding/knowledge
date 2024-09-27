@@ -9,4 +9,3 @@ Gib die Formel der Frequenz an. ;; $f = \frac{N}{\Delta t}$
 
 Gib die Formel der Umlaufdauer $T$ an ;; $T = \frac{\Delta t}{U}$
 
-
