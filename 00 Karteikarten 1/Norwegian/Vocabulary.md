@@ -19,14 +19,14 @@ hei 	/¹hæi/ :::	  	hi
 heter (å hete) 	/²heːter/ :::	  	am/is/are named
 <!--SR:!2024-09-29,3,272!2024-09-29,4,285-->
 å 	hilse 	/o ²hilse/ 	hilser, hilste, har hilst :::	to greet
-<!--SR:!2024-09-27,1,252!2024-09-29,4,285-->
+<!--SR:!2024-10-01,4,272!2024-09-29,4,285-->
 hva 	/¹vɑː/ :::	  	what
 <!--SR:!2024-10-08,14,290!2024-09-29,4,285-->
 hvor 	/¹vur/ :::	  	where
 <!--SR:!2024-09-29,4,285!2024-09-30,4,292-->
 
 hyggelig 	/²hygeli/ 	hyggelig, hyggelige :::	nice, pleasant
-<!--SR:!2024-09-27,2,238!2024-09-30,4,292-->
+<!--SR:!2024-10-03,6,258!2024-09-30,4,292-->
 hyggelig å hilse på deg! 	/²hygeli o ²hilse po ˌdæi/ :::	  	nice to meet you
 <!--SR:!2024-09-28,4,274!2024-09-29,4,285-->
 jeg 	/¹jæi/ :::	  	I
