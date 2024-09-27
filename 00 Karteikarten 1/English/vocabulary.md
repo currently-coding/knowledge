@@ -314,3 +314,17 @@ federal(adjective) () <-> föderal, föderativ, bundesstaatlich
 broadly(adverb) () <-> weit, breit, allgemein 
 broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) <-> breit, umfassend, weit 
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) <-> sich drehen, drehen, rotieren 
+deck(noun) (She was standing on the deck, looking at the blue sea., The sailors had to scrub the deck.) <-> Deck, Terrasse, Kartenspiel 
+to deck(verb) (The room was decked with pretty flowers.) <-> schmücken, ausstaffieren, verzieren 
+Deck(noun) (Sie stand am Deck und blickte auf das blaue Meer., Die Matrosen mussten das Deck schrubben.) <-> deck, board, level 
+canal(noun) (Boat trips on the canal are a popular tourist attraction.) <-> Kanal, Gracht, Wasserstraße 
+to can(verb) (A referee can never be partial towards one team., The traffic light signals when I can drive off.) <-> dürfen, konservieren, eindosen 
+can(noun) (I have a can of beer and a bottle of water., Peas can be bought fresh or in cans.) <-> Dose, Konserve, Kanne 
+convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) <-> Komfort, Bequemlichkeit, Nutzen 
+to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) <-> versichern, gewährleisten, sichern 
+to assure oneself(verb) () <-> sich versichern lassen 
+provincial(adjective) () <-> provinziell, kleinstädtisch, provinzlerisch 
+provincial(noun) () <-> Provinzbewohner, Kleinstädter, Provinzler 
+to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) <-> veranlassen, hervorrufen, anregen 
+reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) <-> Mahnung, Erinnerung, Zahlungserinnerung 
+whereby(adverb) () <-> wobei, wodurch, womit 

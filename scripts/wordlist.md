@@ -1,12 +1,3 @@
-deck
-canal
-convenience
-assure
-provincial
-adj.,
-induce
-reminder
-whereby
 reside
 craft
 call attention to
