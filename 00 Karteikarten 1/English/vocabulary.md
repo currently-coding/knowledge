@@ -293,7 +293,8 @@ to engender(verb) (The controversial film engendered a lively discussion., Mutua
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden 
 to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
-command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung 
+command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
+<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
 <!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
 vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar
@@ -338,6 +339,7 @@ to assure oneself(verb) () ::: sich versichern lassen
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler 
-to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen 
+to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
+<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung 
 whereby(adverb) () ::: wobei, wodurch, womit 
