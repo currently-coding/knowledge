@@ -203,15 +203,15 @@ to accelerate(verb) (New scientific findings accelerated our research., Thanks t
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
-<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-10-18,20,353-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
 <!--SR:!2024-09-29,4,335!2024-09-30,4,336-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
-<!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
+<!--SR:!2024-10-14,16,352!2024-09-29,4,335-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 Distribution(noun) () ::: distribution
-<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-10-14,16,353-->
 to a large extent(adverb) () ::: in hohem Maße, zum großen Teil, in hohem Ausmaß
 <!--SR:!2024-10-09,16,331!2024-09-29,4,312-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
@@ -229,7 +229,7 @@ with this in mind() () ::: in diesem Sinne, zu diesem Zweck
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
 <!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
-<!--SR:!2024-09-29,4,335!2024-09-28,4,332-->
+<!--SR:!2024-09-29,4,335!2024-10-17,19,352-->
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
@@ -249,9 +249,9 @@ passionate(adjective) (He gave his wife a long, passionate kiss., The two were c
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
 <!--SR:!2024-09-28,4,332!2024-09-29,4,334-->
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
-<!--SR:!2024-09-29,4,335!2024-09-28,4,332-->
+<!--SR:!2024-09-29,4,335!2024-10-16,18,352-->
 greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashaus, Treibhaus
-<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-10-18,20,353-->
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
@@ -269,15 +269,15 @@ outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
 <!--SR:!2024-09-29,4,335!2024-10-15,17,353-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
-<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
+<!--SR:!2024-10-16,18,353!2024-09-29,4,335-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
-<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
+<!--SR:!2024-10-17,19,353!2024-09-29,4,335-->
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
-<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-10-15,17,353-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
 <!--SR:!2024-09-30,4,336!2024-09-29,4,312-->
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
@@ -291,7 +291,7 @@ besides(adverb) (I am overqualified for the job, and besides, I have another off
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
-<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+<!--SR:!2000-01-01,1,250!2024-09-29,1,277-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden
 <!--SR:!2024-09-30,3,317!2000-01-01,1,250-->
 to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
@@ -317,17 +317,17 @@ skip(noun) (A skip full of rubble stood in front of the building site.) ::: Cont
 stimulus(noun) (We are conditioned to react to sensory stimuli., The rats learned to react to a certain stimulus., The grant is meant to be a stimulus for new research.) ::: Reiz, Stimulus, Anreiz
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 Stimulus(noun) (Die Ratten lernten, auf einen bestimmten Stimulus zu reagieren.) ::: stimulus, impetus, incentive
-<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+<!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
 <!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
 stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
-<!--SR:!2024-09-28,1,297!2000-01-01,1,250-->
+<!--SR:!2024-10-01,3,297!2000-01-01,1,250-->
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
 <!--SR:!2024-09-30,3,317!2000-01-01,1,250-->
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
-<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+<!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
 <!--SR:!2024-09-28,1,297!2000-01-01,1,250-->
 broadly(adverb) () ::: weit, breit, allgemein
@@ -337,7 +337,7 @@ broad(adjective) (His broad shoulders make him look stronger than he is., We off
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 deck(noun) (She was standing on the deck, looking at the blue sea., The sailors had to scrub the deck.) ::: Deck, Terrasse, Kartenspiel
-<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+<!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 to deck(verb) (The room was decked with pretty flowers.) ::: schmücken, ausstaffieren, verzieren
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße
