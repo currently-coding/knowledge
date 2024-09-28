@@ -1,12 +1,3 @@
-subscription
-palm
-gay
-revenge
-consistently
-thrilled
-harbour
-To clarify
-formulate
 oxygen
 (long
 wipe

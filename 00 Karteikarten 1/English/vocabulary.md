@@ -378,3 +378,18 @@ Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., D
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig 
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon 
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem 
+subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription 
+palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand 
+to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren 
+gay(adjective) (One of my best friends is gay, the other is straight., Her smile showed she was in a gay mood.) ::: homosexuell, schwul, heiter 
+gay(noun) (Gay is a colloquial term for a homosexual.) ::: Schwuler 
+revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung 
+to revenge oneself(verb) () ::: sich rächen 
+consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder 
+consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent 
+thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, hocherfreut, freudig erregt 
+to thrill(verb) (The audience was thrilled by the dance performance.) ::: erfreuen, fesseln, begeistern 
+harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschlupf 
+to harbour(verb) (A dishcloth can harbour germs.) ::: beherbergen, bergen, hegen 
+to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern 
+to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren 
