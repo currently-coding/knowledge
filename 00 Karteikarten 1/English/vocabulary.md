@@ -357,7 +357,7 @@ provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
-<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+<!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 whereby(adverb) () ::: wobei, wodurch, womit
