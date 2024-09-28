@@ -201,7 +201,7 @@ prosperity(noun) (His whole family lived in prosperity., I wished her luck and p
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
 <!--SR:!2024-10-12,19,331!2024-10-17,19,353-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
-<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
+<!--SR:!2024-10-09,11,333!2024-09-29,4,335-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 <!--SR:!2024-09-29,4,335!2024-10-18,20,353-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
@@ -239,7 +239,7 @@ recipient(noun) (This year, the recipient of our donation will be a school.) :::
 recipient(adjective) () ::: empfangsbereit
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) ::: elektronisch
-<!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
+<!--SR:!2024-10-15,17,353!2024-09-29,4,335-->
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
@@ -351,7 +351,7 @@ convenience(noun) (We provide pillows for your convenience., I do not like cooki
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 to assure oneself(verb) () ::: sich versichern lassen
-<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+<!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
