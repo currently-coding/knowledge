@@ -1,12 +1,3 @@
-reside
-compound
-conclude
-craft
-call attention to
-interpretation
-ongoing
-Yet
-invade
 subscription
 palm
 gay

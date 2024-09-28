@@ -325,3 +325,19 @@ provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen 
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung 
 whereby(adverb) () ::: wobei, wodurch, womit 
+to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren 
+compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager 
+compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt 
+to compound(verb) () ::: verbinden, erschweren, zusammensetzen 
+to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen, abschließen 
+craft(noun) (I want to learn a craft like mosaics or carving., The craft crossed the river in a few minutes.) ::: Handwerk, Schiff, Fahrzeug 
+to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen 
+to call attention(verb) () ::: aufmerksam machen 
+to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf 
+interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung 
+to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen 
+Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction 
+ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig 
+yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon 
+yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem 
+to invade(verb) (The Vikings were known for invading coastal towns.) ::: eindringen, überfallen, invadieren 
