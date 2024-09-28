@@ -1,4 +1,3 @@
-<!--SR:!2024-10-01,11,294!2024-10-05,15,302-->
 abstract(adjective) (The artist is famous for his abstract paintings., Intelligence tests measure abstract reasoning.) ::: abstrakt, gegenstandslos, unbenannt, theoretisch, kurz gefasst
 <!--SR:!2024-10-04,15,290!2024-10-06,16,302-->
 abstract(noun) (I have to write an abstract for my dissertation.) ::: Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung
