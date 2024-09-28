@@ -19,7 +19,7 @@ to accommodate oneself(verb) () ::: sich akkommodieren
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
 <!--SR:!2024-09-29,11,270!2024-10-06,16,302-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
-<!--SR:!2024-09-26,7,259!2024-09-30,3,256-->
+<!--SR:!2024-10-22,24,279!2024-09-30,3,256-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
 <!--SR:!2024-10-06,16,302!2024-10-31,34,299-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
@@ -199,7 +199,7 @@ recession(noun) (The recession is over and unemployment is declining., The boom 
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
 <!--SR:!2024-10-11,14,290!2024-10-07,13,319-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
-<!--SR:!2024-10-12,19,331!2024-09-28,4,333-->
+<!--SR:!2024-10-12,19,331!2024-10-17,19,353-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
@@ -243,9 +243,9 @@ electronic(adjective) (The flight attendant asked to turn off all electronic dev
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
 <!--SR:!2024-09-28,4,332!2024-09-29,4,335-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
-<!--SR:!2024-09-28,3,314!2024-09-29,2,292-->
+<!--SR:!2024-10-10,12,334!2024-09-29,2,292-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
-<!--SR:!2024-09-30,4,315!2024-09-28,4,332-->
+<!--SR:!2024-09-30,4,315!2024-10-18,20,352-->
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
 <!--SR:!2024-09-28,4,332!2024-09-29,4,334-->
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
@@ -265,9 +265,9 @@ versus(noun) () ::: Rückseite einer Münze
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2024-10-07,10,313!2024-09-29,4,335-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
-<!--SR:!2024-09-28,4,333!2024-09-28,3,315-->
+<!--SR:!2024-09-28,4,333!2024-09-30,2,295-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
-<!--SR:!2024-09-29,4,335!2024-09-28,4,333-->
+<!--SR:!2024-09-29,4,335!2024-10-15,17,353-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
 <!--SR:!2024-09-28,4,333!2024-09-29,4,335-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
@@ -287,7 +287,7 @@ to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
 <!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
-<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+<!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
@@ -295,7 +295,7 @@ to engender(verb) (The controversial film engendered a lively discussion., Mutua
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden
 <!--SR:!2024-09-30,3,317!2000-01-01,1,250-->
 to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
-<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+<!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
@@ -359,7 +359,7 @@ provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
 <!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
-<!--SR:!2000-01-01,1,250!2024-09-28,1,297-->
+<!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 whereby(adverb) () ::: wobei, wodurch, womit
 <!--SR:!2024-09-30,3,317!2000-01-01,1,250-->
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren 
