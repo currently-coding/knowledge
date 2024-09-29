@@ -355,9 +355,9 @@ to assure oneself(verb) () ::: sich versichern lassen
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
-<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
+<!--SR:!2024-10-03,4,341!2024-10-01,4,337-->
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
-<!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
+<!--SR:!2024-10-03,4,341!2024-10-02,4,317-->
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
 <!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 whereby(adverb) () ::: wobei, wodurch, womit
@@ -383,7 +383,8 @@ to call attention to(verb) (The speaker wants to call attention to the sensitive
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung 
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
 <!--SR:!2024-10-02,4,339!2000-01-01,1,250-->
-Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction 
+Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction
+<!--SR:!2000-01-01,1,250!2024-10-03,4,341-->
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig
 <!--SR:!2000-01-01,1,250!2024-09-30,1,279-->
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon
