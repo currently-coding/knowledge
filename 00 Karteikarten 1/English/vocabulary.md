@@ -15,9 +15,9 @@ accidental(adjective) (He felt very sorry for the accidental mix-up., The news a
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
 <!--SR:!2024-09-29,11,270!2024-10-08,18,302-->
 to accommodate oneself(verb) () ::: sich akkommodieren
-<!--SR:!2024-09-30,12,270!2024-09-29,9,282-->
+<!--SR:!2024-09-30,12,270!2024-11-02,34,302-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
-<!--SR:!2024-09-29,11,270!2024-10-06,16,302-->
+<!--SR:!2024-11-08,40,290!2024-10-06,16,302-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
 <!--SR:!2024-10-22,24,279!2024-09-30,3,256-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
@@ -79,7 +79,7 @@ amusing(adjective / present participle) (The comedy was very amusing.) ::: erhei
 amusing oneself(present participle) () ::: sich unterhaltend
 <!--SR:!2024-09-30,11,282!2024-10-07,14,317-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
-<!--SR:!2024-10-09,16,317!2024-09-29,10,282-->
+<!--SR:!2024-10-09,16,317!2024-11-06,38,302-->
 to amuse oneself(verb) (The teenagers amused themselves at the fair.) ::: sich vergnügen, sich unterhalten, sich amüsieren
 <!--SR:!2024-10-01,11,297!2024-10-07,17,302-->
 Analyst(noun) () ::: analyst
@@ -103,7 +103,7 @@ free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) ::: Handelshemmnis, Handelsbarriere, Handelsbeschränkung
 <!--SR:!2024-10-08,15,319!2024-10-08,15,319-->
 barrier to trade(noun) () ::: Handelshemmnis
-<!--SR:!2024-10-10,17,319!2024-09-29,6,259-->
+<!--SR:!2024-10-10,17,319!2024-10-20,21,279-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) ::: Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2024-10-14,20,338!2024-10-11,18,326-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) ::: Ausbeutung, Nutzung, Verwertung
@@ -207,7 +207,7 @@ marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
 <!--SR:!2024-09-29,4,335!2024-09-30,4,336-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
-<!--SR:!2024-10-14,16,352!2024-09-29,4,335-->
+<!--SR:!2024-10-14,16,352!2024-10-19,20,355-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
 <!--SR:!2024-10-18,20,352!2024-09-29,4,335-->
 Distribution(noun) () ::: distribution
@@ -231,15 +231,15 @@ fraction(noun) (The boy told only a fraction of the whole story., One third is a
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
 <!--SR:!2024-09-29,4,335!2024-10-17,19,352-->
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
-<!--SR:!2024-10-10,12,333!2024-09-29,4,335-->
+<!--SR:!2024-10-10,12,333!2024-10-19,20,355-->
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
 <!--SR:!2024-10-16,18,353!2024-09-29,4,335-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
 <!--SR:!2024-10-14,16,353!2024-10-01,4,295-->
 recipient(adjective) () ::: empfangsbereit
-<!--SR:!2024-10-13,15,332!2024-09-29,4,335-->
+<!--SR:!2024-10-13,15,332!2024-10-19,20,355-->
 electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) ::: elektronisch
-<!--SR:!2024-10-15,17,353!2024-09-29,4,335-->
+<!--SR:!2024-10-15,17,353!2024-10-19,20,355-->
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
 <!--SR:!2024-10-15,17,352!2024-09-29,4,335-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
@@ -261,21 +261,21 @@ in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zei
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
 <!--SR:!2024-09-30,4,336!2024-09-29,4,313-->
 versus(noun) () ::: Rückseite einer Münze
-<!--SR:!2024-09-29,3,316!2024-09-29,4,312-->
+<!--SR:!2024-10-12,13,336!2024-09-29,4,312-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2024-10-07,10,313!2024-09-29,4,335-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
-<!--SR:!2024-09-28,4,333!2024-09-30,2,295-->
+<!--SR:!2024-10-19,20,353!2024-09-30,2,295-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
 <!--SR:!2024-09-29,4,335!2024-10-15,17,353-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
 <!--SR:!2024-10-16,18,353!2024-09-29,4,335-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
-<!--SR:!2024-10-17,19,353!2024-09-29,4,335-->
+<!--SR:!2024-10-17,19,353!2024-10-19,20,355-->
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
 <!--SR:!2024-10-17,19,353!2024-09-29,4,335-->
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
-<!--SR:!2024-10-14,16,353!2024-09-29,4,335-->
+<!--SR:!2024-10-14,16,353!2024-10-19,20,355-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
 <!--SR:!2024-09-29,4,335!2024-10-15,17,353-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
@@ -371,7 +371,7 @@ compound(adjective) (The lesson was about compound adjectives.) ::: zusammengese
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 <!--SR:!2024-10-01,3,319!2000-01-01,1,250-->
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen, abschließen
-<!--SR:!2000-01-01,1,250!2024-09-29,1,299-->
+<!--SR:!2000-01-01,1,250!2024-09-30,1,279-->
 craft(noun) (I want to learn a craft like mosaics or carving., The craft crossed the river in a few minutes.) ::: Handwerk, Schiff, Fahrzeug
 <!--SR:!2024-10-02,4,339!2000-01-01,1,250-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
@@ -417,7 +417,7 @@ harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschl
 to harbour(verb) (A dishcloth can harbour germs.) ::: beherbergen, bergen, hegen
 <!--SR:!2024-10-01,3,319!2000-01-01,1,250-->
 to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern
-<!--SR:!2000-01-01,1,250!2024-09-29,1,299-->
+<!--SR:!2000-01-01,1,250!2024-09-30,1,279-->
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren 
 oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff 
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß 
