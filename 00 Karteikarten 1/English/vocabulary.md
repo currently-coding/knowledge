@@ -303,7 +303,7 @@ to command(verb) (The sergeant commanded the troop to march., The admiral comman
 vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar
 <!--SR:!2024-10-02,4,339!2024-10-01,4,337-->
 trauma(noun) (Patients who have experienced trauma require special care.) ::: Trauma, seelischer Schock
-<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
+<!--SR:!2024-10-03,4,341!2024-10-01,4,337-->
 trauma(noun as adjective) () :::  Trauma(noun) (Patienten, die ein Trauma erlebt haben, benötigen besondere Sorgfalt.) ::: trauma
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
@@ -325,9 +325,9 @@ stark(adjective) (There is a stark contrast between city life and country life.,
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
 <!--SR:!2024-09-30,3,317!2000-01-01,1,250-->
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
-<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
+<!--SR:!2024-10-03,4,341!2024-10-01,4,337-->
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
-<!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
+<!--SR:!2024-10-03,4,341!2024-10-02,4,317-->
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
 <!--SR:!2024-10-02,4,317!2000-01-01,1,250-->
 broadly(adverb) () ::: weit, breit, allgemein
@@ -365,7 +365,7 @@ whereby(adverb) () ::: wobei, wodurch, womit
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren
 <!--SR:!2000-01-01,1,250!2024-10-02,4,339-->
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
-<!--SR:!2000-01-01,1,250!2024-10-02,4,339-->
+<!--SR:!2024-10-03,4,341!2024-10-02,4,339-->
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
 <!--SR:!2000-01-01,1,250!2024-10-02,4,339-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
@@ -377,10 +377,11 @@ craft(noun) (I want to learn a craft like mosaics or carving., The craft crossed
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
 <!--SR:!2000-01-01,1,250!2024-10-02,4,339-->
 to call attention(verb) () ::: aufmerksam machen
-<!--SR:!2024-10-02,4,339!2000-01-01,1,250-->
+<!--SR:!2024-10-02,4,339!2024-10-03,4,341-->
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
-<!--SR:!2000-01-01,1,250!2024-10-02,4,339-->
-interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung 
+<!--SR:!2024-10-03,4,341!2024-10-02,4,339-->
+interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
+<!--SR:!2000-01-01,1,250!2024-10-03,4,341-->
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
 <!--SR:!2024-10-02,4,339!2000-01-01,1,250-->
 Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction
@@ -421,13 +422,17 @@ to clarify(verb) (In the first place, the police officer needed to clarify the f
 <!--SR:!2000-01-01,1,250!2024-09-30,1,279-->
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren
 <!--SR:!2000-01-01,1,250!2024-10-02,3,321-->
-oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff 
+oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff
+<!--SR:!2000-01-01,1,250!2024-10-03,4,341-->
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
 <!--SR:!2000-01-01,1,250!2024-10-03,4,341-->
 long(adverb) () ::: längst 
-long.(noun) () ::: geografische Länge 
-to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen 
-wipe(noun) () ::: Wischen, Tuch, Reinigungstuch 
+long.(noun) () ::: geografische Länge
+<!--SR:!2000-01-01,1,250!2024-09-30,1,301-->
+to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
+<!--SR:!2000-01-01,1,250!2024-10-03,4,341-->
+wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
+<!--SR:!2000-01-01,1,250!2024-09-30,1,301-->
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung 
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
 <!--SR:!2000-01-01,1,250!2024-10-03,4,341-->
@@ -436,7 +441,8 @@ Upgrade(noun) (Für diese Software ist ein Upgrade verfügbar., Gegenwärtig sin
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner 
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
 <!--SR:!2024-10-03,4,341!2000-01-01,1,250-->
-enhance() () ::: optimieren 
+enhance() () ::: optimieren
+<!--SR:!2024-10-02,3,321!2000-01-01,1,250-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung 
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen 
 radiate(adjective) () ::: radiär
