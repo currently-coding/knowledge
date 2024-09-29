@@ -13,7 +13,7 @@ accidentally(adverb) (The cat accidentally scratched my arm., I accidentally swa
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2024-10-06,16,302!2024-10-05,16,290-->
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
-<!--SR:!2024-09-29,11,270!2024-10-08,18,302-->
+<!--SR:!2024-11-08,40,290!2024-10-08,18,302-->
 to accommodate oneself(verb) () ::: sich akkommodieren
 <!--SR:!2024-09-30,12,270!2024-11-02,34,302-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
@@ -203,17 +203,17 @@ to accelerate(verb) (New scientific findings accelerated our research., Thanks t
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2024-10-09,11,333!2024-09-29,4,335-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
-<!--SR:!2024-09-29,4,335!2024-10-18,20,353-->
+<!--SR:!2024-10-17,18,355!2024-10-18,20,353-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
 <!--SR:!2024-09-29,4,335!2024-09-30,4,336-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2024-10-14,16,352!2024-10-19,20,355-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
-<!--SR:!2024-10-18,20,352!2024-09-29,4,335-->
+<!--SR:!2024-10-18,20,352!2024-10-19,20,355-->
 Distribution(noun) () ::: distribution
-<!--SR:!2024-09-29,4,335!2024-10-14,16,353-->
+<!--SR:!2024-10-19,20,355!2024-10-14,16,353-->
 to a large extent(adverb) () ::: in hohem Maße, zum großen Teil, in hohem Ausmaß
-<!--SR:!2024-10-09,16,331!2024-09-29,4,312-->
+<!--SR:!2024-10-09,16,331!2024-10-16,17,332-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2024-10-14,17,319!2024-10-13,15,317-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
@@ -225,15 +225,15 @@ distribution(noun) (The distribution of goods must be done fairly., The distribu
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
 <!--SR:!2024-10-01,8,297!2024-10-12,18,337-->
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
-<!--SR:!2024-09-30,4,336!2024-09-29,4,312-->
+<!--SR:!2024-09-30,4,336!2024-10-16,17,332-->
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
-<!--SR:!2024-09-29,4,335!2024-10-17,19,353-->
+<!--SR:!2024-10-19,20,355!2024-10-17,19,353-->
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
 <!--SR:!2024-09-29,4,335!2024-10-17,19,352-->
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
 <!--SR:!2024-10-10,12,333!2024-10-19,20,355-->
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
-<!--SR:!2024-10-16,18,353!2024-09-29,4,335-->
+<!--SR:!2024-10-16,18,353!2024-10-19,20,355-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
 <!--SR:!2024-10-14,16,353!2024-10-01,4,295-->
 recipient(adjective) () ::: empfangsbereit
@@ -241,7 +241,7 @@ recipient(adjective) () ::: empfangsbereit
 electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) ::: elektronisch
 <!--SR:!2024-10-15,17,353!2024-10-19,20,355-->
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
-<!--SR:!2024-10-15,17,352!2024-09-29,4,335-->
+<!--SR:!2024-10-15,17,352!2024-10-19,20,355-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
 <!--SR:!2024-10-10,12,334!2024-09-29,2,292-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
@@ -251,15 +251,15 @@ receiver(noun) (The technician repaired the receiver of our old television set.,
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
 <!--SR:!2024-09-29,4,335!2024-10-16,18,352-->
 greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashaus, Treibhaus
-<!--SR:!2024-09-29,4,335!2024-10-18,20,353-->
+<!--SR:!2024-10-17,18,355!2024-10-18,20,353-->
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
 <!--SR:!2024-10-10,12,332!2024-09-29,4,335-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
-<!--SR:!2024-09-30,4,336!2024-09-29,4,313-->
+<!--SR:!2024-09-30,4,336!2024-10-17,18,333-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
 <!--SR:!2024-09-30,4,336!2024-09-29,4,313-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
-<!--SR:!2024-09-30,4,336!2024-09-29,4,313-->
+<!--SR:!2024-09-30,4,336!2024-10-17,18,333-->
 versus(noun) () ::: Rückseite einer Münze
 <!--SR:!2024-10-12,13,336!2024-09-29,4,312-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
@@ -269,17 +269,17 @@ outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
 <!--SR:!2024-09-29,4,335!2024-10-15,17,353-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
-<!--SR:!2024-10-16,18,353!2024-09-29,4,335-->
+<!--SR:!2024-10-16,18,353!2024-10-19,20,355-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
 <!--SR:!2024-10-17,19,353!2024-10-19,20,355-->
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
-<!--SR:!2024-10-17,19,353!2024-09-29,4,335-->
+<!--SR:!2024-10-17,19,353!2024-10-18,19,355-->
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
 <!--SR:!2024-10-14,16,353!2024-10-19,20,355-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
-<!--SR:!2024-09-29,4,335!2024-10-15,17,353-->
+<!--SR:!2024-10-19,20,355!2024-10-15,17,353-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
-<!--SR:!2024-09-30,4,336!2024-09-29,4,312-->
+<!--SR:!2024-09-30,4,336!2024-10-17,18,332-->
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2024-09-29,4,335!2024-10-15,17,352-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
@@ -291,7 +291,7 @@ besides(adverb) (I am overqualified for the job, and besides, I have another off
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2000-01-01,1,250!2024-09-29,1,277-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
-<!--SR:!2000-01-01,1,250!2024-09-29,1,277-->
+<!--SR:!2000-01-01,1,250!2024-09-30,1,257-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden
 <!--SR:!2024-09-30,3,317!2024-10-02,4,339-->
 to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
@@ -361,7 +361,7 @@ to induce(verb) (Certain medications can induce drowsiness., The current economi
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
 <!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 whereby(adverb) () ::: wobei, wodurch, womit
-<!--SR:!2024-09-30,3,317!2024-09-29,1,299-->
+<!--SR:!2024-09-30,3,317!2024-10-03,4,319-->
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren
 <!--SR:!2000-01-01,1,250!2024-10-02,4,339-->
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
@@ -409,7 +409,7 @@ consistently(adverb) (The scientist consistently pursues his goal., The product 
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
 <!--SR:!2000-01-01,1,250!2024-10-02,4,339-->
 thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, hocherfreut, freudig erregt
-<!--SR:!2000-01-01,1,250!2024-09-29,1,299-->
+<!--SR:!2000-01-01,1,250!2024-10-03,4,319-->
 to thrill(verb) (The audience was thrilled by the dance performance.) ::: erfreuen, fesseln, begeistern
 <!--SR:!2000-01-01,1,250!2024-09-29,1,299-->
 harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschlupf
