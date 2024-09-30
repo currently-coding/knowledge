@@ -437,3 +437,49 @@ radiate(adjective) () ::: radiär
 sigh(noun) () ::: Seufzer, Seufzen 
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln 
 surveillance(noun) (The building is under surveillance., Satellites allow an exhaustive surveillance., The police have the suspect under surveillance.) ::: Überwachung, Aufsicht, Kontrolle 
+restoration(noun) (The restoration of the old church took many years., Her job is the restoration of damaged artworks., The restoration of the castle took long, but it was worth it., The restoration of the castle took several years.) ::: Wiederherstellung, Restauration, Restaurierung 
+restoration(noun as adjective) () :::  
+to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen 
+widow(noun) (The widow overcame her grief with the help of her friends.) ::: Witwe, Hurenkind, Wwe. 
+to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen 
+embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung 
+specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling 
+dot(noun) (She wore a dress with red dots., He drew a straight line from one dot to the other.) ::: Punkt, Pünktchen, Tüpfelchen 
+to dot(verb) (One can dot an entire canvas and thereby create a masterpiece., The artist had dotted the statue with red paint.) ::: punktieren, sprenkeln, übersäen 
+transformation(noun) (The Internet has led to a transformation of society.) ::: Umwandlung, Transformation, Umsetzung 
+Transformation(noun) (Das Internet hat zu einer Transformation der Gesellschaft geführt.) ::: transformation 
+rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellion, Aufstand, Aufruhr 
+Rebellion(noun) () ::: rebellion, revolt, insurgency 
+dramatically(adverb) (The company's market share rose dramatically over the weekend., The actor strutted dramatically across the stage.) ::: dramatisch, drastisch, deutlich 
+dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch 
+jet(noun) (He owns a private airport and five jets., The jet from the hose was cold.) ::: Jet, Strahl, Düse 
+to jet(verb) () ::: ausstoßen, ausströmen 
+Jet(noun) (Er besitzt einen Privatflughafen und fünf Jets.) ::: jet 
+tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung 
+one-to-one tuition(noun) () ::: Einzelunterricht 
+moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner 
+ray(noun) () ::: Strahl, Lichtstrahl, Rochen 
+to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen 
+address(noun) (If you don't write an address on the envelope, the letter cannot be delivered., She moved to her current address in June., The address is on the envelope., I have to inform my bank about my new address., After the move, she changed her address., The post office will redirect my package to my new address., The president thanked the citizens in her address.) ::: Adresse, Anschrift, Ansprache 
+to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen, adressieren 
+to address oneself to(verb) () ::: sich an wenden, ansprechen 
+to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen 
+consult(noun) () ::: Befragung 
+diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich 
+diverse(adjective) () ::: sundry 
+divers(adjective) (Bei dem Meeting diskutierten wir diverse Themen., Die Firma verkauft diverse Werkzeuge und Maschinen.) ::: divers, diverse, various 
+awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: umständlich, schwierig, heikel 
+ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult 
+ritual(adjective) () ::: rituell, kultisch 
+Ritual(noun) (Das Ritual wurde vom Duft des Weihrauchs begleitet.) ::: ritual, rite 
+homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos 
+home(adjective) () ::: einheimisch, inländisch 
+helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske 
+underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend 
+applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin 
+to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., The rework is complete, all faults have now been removed., I removed the old battery and installed a new one., I removed the lid from the box., The surgeon removed her appendix., The technician removed the old mount for the television., The handyman removed the damaged valve and replaced it., The president removed the minister from office., The fisherman removed his wet boots., The board voted to remove the chairman., The workers removed the debris from the construction site.) ::: entfernen, beseitigen, beheben 
+refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium 
+sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre 
+to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen 
+exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat 
+to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern 
