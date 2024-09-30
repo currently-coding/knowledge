@@ -15,7 +15,7 @@ accidental(adjective) (He felt very sorry for the accidental mix-up., The news a
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
 <!--SR:!2024-11-08,40,290!2024-10-08,18,302-->
 to accommodate oneself(verb) () ::: sich akkommodieren
-<!--SR:!2024-09-30,12,270!2024-11-02,34,302-->
+<!--SR:!2024-11-13,44,290!2024-11-02,34,302-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
 <!--SR:!2024-11-08,40,290!2024-10-06,16,302-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
@@ -25,7 +25,7 @@ to account(verb) (The police asked him to account for his whereabouts at the tim
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
 <!--SR:!2024-10-08,18,302!2024-10-04,15,290-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) ::: genau, korrekt, sorgfältig, richtig
-<!--SR:!2024-10-04,15,299!2024-09-30,7,282-->
+<!--SR:!2024-10-04,15,299!2024-10-26,26,302-->
 accurately(adverb) (The report accurately portrays the economic situation., We use templates to reproduce shapes accurately.) ::: genau, akkurat, exakt, richtig
 <!--SR:!2024-10-07,18,299!2024-10-04,14,302-->
 acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
@@ -77,7 +77,7 @@ ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwag
 amusing(adjective / present participle) (The comedy was very amusing.) ::: erheiternd, belustigend
 <!--SR:!2024-10-07,14,296!2024-10-06,16,302-->
 amusing oneself(present participle) () ::: sich unterhaltend
-<!--SR:!2024-09-30,11,282!2024-10-07,14,317-->
+<!--SR:!2024-11-11,42,302!2024-10-07,14,317-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
 <!--SR:!2024-10-09,16,317!2024-11-06,38,302-->
 to amuse oneself(verb) (The teenagers amused themselves at the fair.) ::: sich vergnügen, sich unterhalten, sich amüsieren
@@ -205,7 +205,7 @@ to facilitate(verb) (The new interface facilitates user input., The handout faci
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 <!--SR:!2024-10-17,18,355!2024-10-18,20,353-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
-<!--SR:!2024-10-19,20,355!2024-09-30,4,336-->
+<!--SR:!2024-10-19,20,355!2024-10-21,21,356-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2024-10-14,16,352!2024-10-19,20,355-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
@@ -257,7 +257,7 @@ stake(noun) (A few investors hold a stake in our company., My company owns a sma
 to stake(verb) () ::: einsetzen, abstecken, pfählen
 <!--SR:!2024-09-30,4,336!2024-10-17,18,333-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
-<!--SR:!2024-09-30,4,336!2024-10-18,19,333-->
+<!--SR:!2024-10-21,21,356!2024-10-18,19,333-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
 <!--SR:!2024-09-30,4,336!2024-10-17,18,333-->
 versus(noun) () ::: Rückseite einer Münze
@@ -283,7 +283,7 @@ shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2024-10-19,20,355!2024-10-15,17,352-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
-<!--SR:!2024-10-01,4,337!2024-09-30,4,293-->
+<!--SR:!2024-10-01,4,337!2024-10-18,18,313-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
 <!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
@@ -291,7 +291,7 @@ besides(adverb) (I am overqualified for the job, and besides, I have another off
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2000-01-01,1,250!2024-10-03,4,297-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
-<!--SR:!2000-01-01,1,250!2024-09-30,1,257-->
+<!--SR:!2000-01-01,1,250!2024-10-04,4,277-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden
 <!--SR:!2024-09-30,3,317!2024-10-02,4,339-->
 to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
@@ -361,7 +361,7 @@ to induce(verb) (Certain medications can induce drowsiness., The current economi
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
 <!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 whereby(adverb) () ::: wobei, wodurch, womit
-<!--SR:!2024-09-30,3,317!2024-10-03,4,319-->
+<!--SR:!2024-10-12,12,337!2024-10-03,4,319-->
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren
 <!--SR:!2000-01-01,1,250!2024-10-02,4,339-->
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
@@ -387,9 +387,9 @@ to interpret(verb) (Every critic interpreted the play differently., I am not sur
 Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction
 <!--SR:!2000-01-01,1,250!2024-10-03,4,341-->
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig
-<!--SR:!2000-01-01,1,250!2024-09-30,1,279-->
+<!--SR:!2000-01-01,1,250!2024-10-04,4,299-->
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon
-<!--SR:!2024-10-02,4,339!2024-09-30,1,301-->
+<!--SR:!2024-10-02,4,339!2024-10-04,4,321-->
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem
 <!--SR:!2000-01-01,1,250!2024-10-01,3,319-->
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
