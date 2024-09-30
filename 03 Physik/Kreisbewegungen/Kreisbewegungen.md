@@ -6,8 +6,6 @@ $$T$$
 $$
 [T] = 1s
 $$
-
-
 - Strecke
 $$
 \Delta s
@@ -18,14 +16,14 @@ $$
 
 - Winkelgeschwindigkeit
 $$
-\omega = \frac{\Delta \varphi}{\Delta t} = \frac{2 \pi}{T}
+\omega = \frac{\Delta \varphi}{\Delta t}
 $$
 $$
 [\omega] = \frac{1}{s}
 $$
 - Bahngeschwindigkeit
 $$
-v = \frac{\Delta s}{\Delta t} = \frac{U}{T} = \frac{2 \pi r}{T}
+v = \frac{\Delta s}{\Delta t}
 $$
 
 $$
@@ -58,7 +56,7 @@ w = \frac{2 \pi}{T}
 $$
 daraus folgt
 $$
-v = w * r = \frac{2\pi r}{T}
+v = w \cdot r = \frac{2\pi r}{T}
 $$
 
 ## Beachte
