@@ -19,7 +19,7 @@ to accommodate oneself(verb) () ::: sich akkommodieren
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
 <!--SR:!2024-11-08,40,290!2024-10-06,16,302-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
-<!--SR:!2024-10-22,24,279!2024-09-30,3,256-->
+<!--SR:!2024-10-22,24,279!2024-10-09,9,276-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
 <!--SR:!2024-10-06,16,302!2024-10-31,34,299-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
@@ -225,7 +225,7 @@ distribution(noun) (The distribution of goods must be done fairly., The distribu
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
 <!--SR:!2024-10-01,8,297!2024-10-12,18,337-->
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
-<!--SR:!2024-09-30,4,336!2024-10-16,17,332-->
+<!--SR:!2024-10-21,21,356!2024-10-16,17,332-->
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
 <!--SR:!2024-10-19,20,355!2024-10-17,19,353-->
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
@@ -259,7 +259,7 @@ to stake(verb) () ::: einsetzen, abstecken, pfählen
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
 <!--SR:!2024-10-21,21,356!2024-10-18,19,333-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
-<!--SR:!2024-09-30,4,336!2024-10-17,18,333-->
+<!--SR:!2024-10-21,21,356!2024-10-17,18,333-->
 versus(noun) () ::: Rückseite einer Münze
 <!--SR:!2024-10-12,13,336!2024-09-29,4,312-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
@@ -279,7 +279,7 @@ to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shr
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
 <!--SR:!2024-10-19,20,355!2024-10-15,17,353-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
-<!--SR:!2024-09-30,4,336!2024-10-17,18,332-->
+<!--SR:!2024-10-21,21,356!2024-10-17,18,332-->
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2024-10-19,20,355!2024-10-15,17,352-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
@@ -313,7 +313,7 @@ to remove(verb) (I removed the stain with soap and water., I removed the leaves 
 to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen
 <!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
-<!--SR:!2024-09-30,1,301!2024-10-02,4,317-->
+<!--SR:!2024-10-04,4,321!2024-10-02,4,317-->
 stimulus(noun) (We are conditioned to react to sensory stimuli., The rats learned to react to a certain stimulus., The grant is meant to be a stimulus for new research.) ::: Reiz, Stimulus, Anreiz
 <!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 Stimulus(noun) (Die Ratten lernten, auf einen bestimmten Stimulus zu reagieren.) ::: stimulus, impetus, incentive
@@ -323,7 +323,7 @@ to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
 stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
 <!--SR:!2024-10-01,3,297!2000-01-01,1,250-->
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
-<!--SR:!2024-09-30,3,317!2000-01-01,1,250-->
+<!--SR:!2024-10-11,11,337!2000-01-01,1,250-->
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
 <!--SR:!2024-10-03,4,341!2024-10-01,4,337-->
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
@@ -413,7 +413,7 @@ consistent(adjective) (When it comes to parenting, it is important to be consist
 thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, hocherfreut, freudig erregt
 <!--SR:!2000-01-01,1,250!2024-10-03,4,319-->
 to thrill(verb) (The audience was thrilled by the dance performance.) ::: erfreuen, fesseln, begeistern
-<!--SR:!2000-01-01,1,250!2024-09-30,1,279-->
+<!--SR:!2000-01-01,1,250!2024-10-04,4,299-->
 harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschlupf
 <!--SR:!2024-10-02,4,339!2000-01-01,1,250-->
 to harbour(verb) (A dishcloth can harbour germs.) ::: beherbergen, bergen, hegen
