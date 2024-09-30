@@ -1,8 +1,6 @@
 [
   "obsidian-git",
-  "excalibrain",
   "dataview",
-  "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-spaced-repetition",
   "templater-obsidian",
@@ -10,7 +8,6 @@
   "chem",
   "better-mathjax",
   "obsidian-reading-time",
-  "obsidian-annotator",
   "ketcher",
   "obsidian-style-settings"
 ]

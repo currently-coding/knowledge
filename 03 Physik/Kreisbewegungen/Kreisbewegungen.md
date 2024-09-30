@@ -47,7 +47,7 @@ $$ v = \frac{\Delta s}{\Delta t} = \frac{U}{T} = \frac{2\pi r}{T}$$
 - Richtung $\vec v$ ist tangential zur [[#Bahn]]
 $$ [v] = 1\frac{m}{s}$$
 ### Winkelgeschwindigkeit
-#### Gleichmäßige Kriesbewegungen
+#### Gleichmäßige Kreisbewegungen
 $$
 w = \frac{\Delta \varphi }{\Delta t} = \frac{2 \pi}{T}
 $$

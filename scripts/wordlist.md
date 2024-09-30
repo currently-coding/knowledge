@@ -1,37 +1,3 @@
-deck
-canal
-convenience
-assure
-provincial
-adj.,
-induce
-reminder
-whereby
-reside
-craft
-call attention to
-interpretation
-ongoing
-Yet
-invade
-subscription
-palm
-gay
-revenge
-consistently
-thrilled
-harbour
-To clarify
-formulate
-oxygen
-(long
-wipe
-upgrade
-villager
-enhance
-radiation
-sigh
-surveillance
 restoration
 comprehend
 widow
@@ -943,7 +909,6 @@ reckon
 bring about
 curriculum
 perception
-compound
 opposition
 entertaining
 extension
