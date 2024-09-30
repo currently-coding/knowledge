@@ -6,8 +6,6 @@ $$T$$
 $$
 [T] = 1s
 $$
-
-
 - Strecke
 $$
 \Delta s
