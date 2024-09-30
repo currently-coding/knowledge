@@ -1,5 +1,5 @@
 >[!Note]
->Global Player -> Unternehmen und Konzerne, die auf der ganzen Welt produzieren, Handel treiben und Waren kaufen/verkaufen
+>Global Player := Unternehmen und Konzerne, die auf der ganzen Welt produzieren, Handel treiben und Waren kaufen/verkaufen
 
 - nutzt stragisch globale Lieferketten und Infrastruktur(Spezialisierung)
 - verfügt über finanzielle, technische und politische Macht
@@ -10,7 +10,7 @@
 a -> b
 
 >[!Note]
->Outsourcing -> Auslagerung von Produktionsschritten oder Dienstleistungen an ausländische Unternehmen
+>Outsourcing := Auslagerung von Produktionsschritten oder Dienstleistungen an ausländische Unternehmen
 >
 >Bevorzugt werden Laender mit niedrigen Arbeits- und Betriebskosten oder Verfügbarkeit von Ressourcen und Arbeitskräften
 
