@@ -285,7 +285,7 @@ piece(noun) (Each boy gets a piece of cake., After adding the last piece, the pu
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 <!--SR:!2024-10-01,4,337!2024-10-18,18,313-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
-<!--SR:!2024-10-01,4,337!2000-01-01,1,250-->
+<!--SR:!2024-10-01,4,337!2024-10-03,3,325-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
 <!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
@@ -383,7 +383,7 @@ to call attention to(verb) (The speaker wants to call attention to the sensitive
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
 <!--SR:!2000-01-01,1,250!2024-10-03,4,341-->
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
-<!--SR:!2024-10-02,4,339!2000-01-01,1,250-->
+<!--SR:!2024-10-02,4,339!2024-10-04,4,345-->
 Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction
 <!--SR:!2024-10-04,4,345!2024-10-03,4,341-->
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig
@@ -478,9 +478,11 @@ jet(noun) (He owns a private airport and five jets., The jet from the hose was c
 to jet(verb) () ::: ausstoßen, ausströmen 
 Jet(noun) (Er besitzt einen Privatflughafen und fünf Jets.) ::: jet
 <!--SR:!2000-01-01,1,250!2024-10-04,4,345-->
-tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung 
+tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
+<!--SR:!2000-01-01,1,250!2024-10-04,4,345-->
 one-to-one tuition(noun) () ::: Einzelunterricht 
-moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner 
+moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
+<!--SR:!2000-01-01,1,250!2024-10-03,3,325-->
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen 
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen 
 address(noun) (If you don't write an address on the envelope, the letter cannot be delivered., She moved to her current address in June., The address is on the envelope., I have to inform my bank about my new address., After the move, she changed her address., The post office will redirect my package to my new address., The president thanked the citizens in her address.) ::: Adresse, Anschrift, Ansprache 
@@ -489,7 +491,8 @@ to address oneself to(verb) () ::: sich an wenden, ansprechen
 <!--SR:!2000-01-01,1,250!2024-10-01,1,305-->
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
 <!--SR:!2000-01-01,1,250!2024-10-04,4,345-->
-consult(noun) () ::: Befragung 
+consult(noun) () ::: Befragung
+<!--SR:!2000-01-01,1,250!2024-10-01,1,305-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich 
 diverse(adjective) () ::: sundry 
 divers(adjective) (Bei dem Meeting diskutierten wir diverse Themen., Die Firma verkauft diverse Werkzeuge und Maschinen.) ::: divers, diverse, various
