@@ -7,8 +7,10 @@
 - steuert Standorte/Niederlassungen in vielen Ländern
 - zielt auf Globalen Markt(Absatz & Beschaffung)
 
+a -> b
+
 >[!Note]
->Auslagerung von Produktionsschritten oder Dienstleistungen an ausländische Unternehmen
+>Outsourcing -> Auslagerung von Produktionsschritten oder Dienstleistungen an ausländische Unternehmen
 >
 >Bevorzugt werden Laender mit niedrigen Arbeits- und Betriebskosten oder Verfügbarkeit von Ressourcen und Arbeitskräften
 
