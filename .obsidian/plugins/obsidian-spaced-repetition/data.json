@@ -41,6 +41,9 @@
     "showDebugMessages": false
   },
   "buryDate": "2024-10-01",
-  "buryList": [],
+  "buryList": [
+    "15faaae74eb0ad",
+    "14ce556619b121"
+  ],
   "historyDeck": null
 }
