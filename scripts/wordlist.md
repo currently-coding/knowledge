@@ -1,3 +1,20 @@
+deteriorate
+remedie
+sustain
+unyield
+caveat
+notion
+net result
+reminisce
+systematic
+making
+inevitable
+strip
+sanction
+boost
+commander
+vessel
+Compel
 booking
 transmission
 donation
