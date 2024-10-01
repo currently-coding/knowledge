@@ -81,7 +81,7 @@ amusing oneself(present participle) () ::: sich unterhaltend
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
 <!--SR:!2024-10-09,16,317!2024-11-06,38,302-->
 to amuse oneself(verb) (The teenagers amused themselves at the fair.) ::: sich vergnügen, sich unterhalten, sich amüsieren
-<!--SR:!2024-10-01,11,297!2024-10-07,17,302-->
+<!--SR:!2024-11-14,44,317!2024-10-07,17,302-->
 Analyst(noun) () ::: analyst
 <!--SR:!2024-10-04,14,302!2024-10-07,14,317-->
 ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfahr, Ahnin
@@ -223,7 +223,7 @@ to marginalize(verb) (We integrate minority groups and do not marginalize them.)
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2024-10-04,11,317!2024-10-14,20,337-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
-<!--SR:!2024-10-01,8,297!2024-10-12,18,337-->
+<!--SR:!2024-11-02,32,317!2024-10-12,18,337-->
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
 <!--SR:!2024-10-21,21,356!2024-10-16,17,332-->
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
@@ -235,7 +235,7 @@ conventional(adjective) (The score has been written in conventional notation., H
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
 <!--SR:!2024-10-16,18,353!2024-10-19,20,355-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
-<!--SR:!2024-10-14,16,353!2024-10-01,4,295-->
+<!--SR:!2024-10-14,16,353!2024-10-16,15,315-->
 recipient(adjective) () ::: empfangsbereit
 <!--SR:!2024-10-13,15,332!2024-10-19,20,355-->
 electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) ::: elektronisch
@@ -283,7 +283,7 @@ shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2024-10-19,20,355!2024-10-15,17,352-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
-<!--SR:!2024-10-01,4,337!2024-10-18,18,313-->
+<!--SR:!2024-10-20,19,357!2024-10-18,18,313-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
 <!--SR:!2024-10-01,4,337!2024-10-03,3,325-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
@@ -299,7 +299,7 @@ to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
 <!--SR:!2024-10-02,4,339!2024-10-01,4,337-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
-<!--SR:!2024-10-01,4,337!2024-10-02,4,339-->
+<!--SR:!2024-10-21,20,357!2024-10-02,4,339-->
 vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar
 <!--SR:!2024-10-02,4,339!2024-10-01,4,337-->
 trauma(noun) (Patients who have experienced trauma require special care.) ::: Trauma, seelischer Schock
@@ -325,7 +325,7 @@ stark(adjective) (There is a stark contrast between city life and country life.,
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
 <!--SR:!2024-10-11,11,337!2000-01-01,1,250-->
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
-<!--SR:!2024-10-03,4,341!2024-10-01,4,337-->
+<!--SR:!2024-10-03,4,341!2024-10-18,17,357-->
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
 <!--SR:!2024-10-03,4,341!2024-10-02,4,317-->
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
@@ -345,7 +345,7 @@ canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kana
 to can(verb) (A referee can never be partial towards one team., The traffic light signals when I can drive off.) ::: dürfen, konservieren, eindosen
 <!--SR:!2024-10-03,4,341!2024-10-02,4,317-->
 can(noun) (I have a can of beer and a bottle of water., Peas can be bought fresh or in cans.) ::: Dose, Konserve, Kanne
-<!--SR:!2024-10-02,4,339!2024-10-01,4,337-->
+<!--SR:!2024-10-02,4,339!2024-10-03,2,317-->
 convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) ::: Komfort, Bequemlichkeit, Nutzen
 <!--SR:!2000-01-01,1,250!2024-10-02,2,297-->
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern
@@ -353,7 +353,7 @@ to assure(verb) (I assured my mother that I would take care of everything., We a
 to assure oneself(verb) () ::: sich versichern lassen
 <!--SR:!2000-01-01,1,250!2024-10-02,4,317-->
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
-<!--SR:!2000-01-01,1,250!2024-10-01,4,337-->
+<!--SR:!2000-01-01,1,250!2024-10-19,18,357-->
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
 <!--SR:!2024-10-03,4,341!2024-10-01,4,337-->
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
@@ -405,7 +405,7 @@ gay(noun) (Gay is a colloquial term for a homosexual.) ::: Schwuler
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
 <!--SR:!2024-10-02,4,339!2000-01-01,1,250-->
 to revenge oneself(verb) () ::: sich rächen
-<!--SR:!2024-10-04,4,345!2024-10-01,3,319-->
+<!--SR:!2024-10-04,4,345!2024-10-16,15,339-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
 <!--SR:!2024-10-02,4,339!2000-01-01,1,250-->
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
@@ -417,7 +417,7 @@ to thrill(verb) (The audience was thrilled by the dance performance.) ::: erfreu
 harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschlupf
 <!--SR:!2024-10-02,4,339!2000-01-01,1,250-->
 to harbour(verb) (A dishcloth can harbour germs.) ::: beherbergen, bergen, hegen
-<!--SR:!2024-10-01,3,319!2000-01-01,1,250-->
+<!--SR:!2024-10-13,12,339!2000-01-01,1,250-->
 to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern
 <!--SR:!2000-01-01,1,250!2024-10-04,4,299-->
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren
@@ -492,7 +492,7 @@ to address oneself to(verb) () ::: sich an wenden, ansprechen
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
 <!--SR:!2000-01-01,1,250!2024-10-04,4,345-->
 consult(noun) () ::: Befragung
-<!--SR:!2000-01-01,1,250!2024-10-01,1,305-->
+<!--SR:!2000-01-01,1,250!2024-10-02,1,285-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich 
 diverse(adjective) () ::: sundry 
 divers(adjective) (Bei dem Meeting diskutierten wir diverse Themen., Die Firma verkauft diverse Werkzeuge und Maschinen.) ::: divers, diverse, various
@@ -503,14 +503,14 @@ ritual(adjective) () ::: rituell, kultisch
 Ritual(noun) (Das Ritual wurde vom Duft des Weihrauchs begleitet.) ::: ritual, rite 
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos 
 home(adjective) () ::: einheimisch, inländisch
-<!--SR:!2000-01-01,1,250!2024-10-01,1,305-->
+<!--SR:!2000-01-01,1,250!2024-10-05,4,325-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
 <!--SR:!2000-01-01,1,250!2024-10-04,4,345-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend 
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin 
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., The rework is complete, all faults have now been removed., I removed the old battery and installed a new one., I removed the lid from the box., The surgeon removed her appendix., The technician removed the old mount for the television., The handyman removed the damaged valve and replaced it., The president removed the minister from office., The fisherman removed his wet boots., The board voted to remove the chairman., The workers removed the debris from the construction site.) ::: entfernen, beseitigen, beheben 
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
-<!--SR:!2024-10-01,1,305!2000-01-01,1,250-->
+<!--SR:!2024-10-04,3,305!2000-01-01,1,250-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2024-10-04,4,345!2000-01-01,1,250-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
