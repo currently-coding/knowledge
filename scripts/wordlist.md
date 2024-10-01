@@ -1,3 +1,11 @@
+deteriorate
+remedie
+sustain
+unyield
+caveat
+notion
+net result
+reminisce
 systematic
 making
 inevitable
