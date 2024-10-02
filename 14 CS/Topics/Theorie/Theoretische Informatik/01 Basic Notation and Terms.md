@@ -12,7 +12,7 @@ $$
 $$
 ## Sets
 
-
+- powersets
 ### Set Operations
 
 ## Tuple(Vector)
