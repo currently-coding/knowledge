@@ -3,13 +3,13 @@
 - Function Arguments: $\lparen \rparen$
 - Bracketing [[#Sets]]: $\brace$
 
+$$
+
+$$
+
 >[!Note]
 >0 is a **natural** number $0 \in \N$
 >
-
-$$
-\leftarrowa
-$$
 ## Sets
 
 - powersets
