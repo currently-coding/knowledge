@@ -3,14 +3,14 @@
 - Function Arguments: $\lparen \rparen$
 - Bracketing [[#Sets]]: $\brace$
 
-$$
-
-$$
 
 >[!Note]
 >0 is a **natural** number $0 \in \N$
 >
 ## Sets
+$$
+A \cup B := {a | a \in A \& a \in B}
+$$
 
 - powersets
 ### Set Operations
