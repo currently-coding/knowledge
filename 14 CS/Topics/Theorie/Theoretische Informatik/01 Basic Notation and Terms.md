@@ -7,8 +7,9 @@
 >0 is a **natural** number $0 \in \N$
 >
 
-$a \stackrel{\mathrm{df}}{=}$
-
+$$
+\leftarrowa
+$$
 ## Sets
 
 
