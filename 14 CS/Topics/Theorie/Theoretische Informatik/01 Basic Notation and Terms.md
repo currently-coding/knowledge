@@ -23,4 +23,7 @@ $$
 
 ## Functions
 
+- Bild: Pfeile zwischen Mengen 
+- inverse Funktion nur von injekive Funktionen zu bilden( da sonst ein x zwei y abbildet)
+
 ## C
