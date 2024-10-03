@@ -1,8 +1,8 @@
 {
   "settings": {
-    "flashcardEasyText": "Easy",
+    "flashcardEasyText": "Too easy",
     "flashcardGoodText": "Good",
-    "flashcardHardText": "Hard",
+    "flashcardHardText": "Did not know",
     "flashcardTags": [
       ""
     ],
