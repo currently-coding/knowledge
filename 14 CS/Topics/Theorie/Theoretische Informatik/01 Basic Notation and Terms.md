@@ -25,7 +25,9 @@ $a \in M$ ::: $a$ is an element of the set $M$
 <!--SR:!2024-10-07,4,274!2000-01-01,1,250-->
 $a \notin M$ ::: $a$ is no element of the set $M$
 $M \subseteq N$ ::: for all $a$, if $a \in M$, then $a \in N$ (M is subset of N)
+<!--SR:!2024-10-07,4,274!2000-01-01,1,250-->
 $M \not\subseteq N$ ::: it does not hold $M \subseteq N$ (M is no subset of N)
+<!--SR:!2000-01-01,1,250!2024-10-07,4,274-->
 $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 <!--SR:!2024-10-06,3,254!2000-01-01,1,250-->
 ### Operations
@@ -36,6 +38,7 @@ $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A
 $A - B$ := $A \setminus B$ (Difference of A and B)
 <!--SR:!2024-10-06,3,254-->
 $A$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
+<!--SR:!2024-10-04,1,234-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
 <!--SR:!2024-10-04,1,234-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
@@ -46,6 +49,7 @@ $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in thi
 ### Cartesian Products
 $A_1 \times A_2 \times \ldots \times A_n$ := $\{(a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ for all } i\}$ (Cartesian product of sets $A_1,A_2, \ldots, A_n$)
 $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of set A)
+<!--SR:!2024-10-04,1,234-->
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
 ## Quantifiers
 $\exists$ := “there exist(s)”
@@ -63,7 +67,11 @@ $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of de
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
 <!--SR:!2024-10-07,4,270-->
 $f$ is total ::: $D_f = A$
+<!--SR:!2024-10-06,3,254!2000-01-01,1,250-->
 $f$ is surjective ::: $R_f = B$
+<!--SR:!2000-01-01,1,250!2024-10-06,3,254-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
+<!--SR:!2000-01-01,1,250!2024-10-06,3,254-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
-If $f$ is injective, there exists the inverse function $f^{-1} : B \to A$ with $f^{-1}(b)$ := the $a \in A$ with $f(a) = b$.
+If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.
+<!--SR:!2024-10-06,3,254-->
