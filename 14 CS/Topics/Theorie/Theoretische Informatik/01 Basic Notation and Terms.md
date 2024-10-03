@@ -60,8 +60,10 @@ $A^n$ := $A \times A \times \dots \times A$ (n-dimensional Cartesian product)
 
 ## Quantifiers
 $\exists$ := "There exist(s)"
+<!--SR:!2024-10-07,4,270-->
 
 $\forall$ := "For all"
+<!--SR:!2024-10-07,4,270-->
 
 ## Functions
 $f : A \to B$ := A function $f$ from set $A$ (domain) to set $B$ (codomain)
