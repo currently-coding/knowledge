@@ -19,7 +19,8 @@ $\mathbb{Z}$ := $\{\ldots, -2, -1, 0, 1, 2, \ldots\}$ (Set of integers)
 $\emptyset$ := empty set
 <!--SR:!2024-10-06,3,250-->
 Important: $0$ is a natural number.
-For $x \in N$, $y \in N^+$ let $(x \mod y)$ := $x - zy$, where $z \in N$ is the greatest number with $zy \leq x$.
+For $x \in N$, $y \in N^+$ let $(x \mod y)$ = $x - zy$, where $z \in N$ is the greatest number with $zy \leq x$. := (just a reminder)
+<!--SR:!2024-10-07,4,274-->
 ### Element relationship and inclusion
 $a \in M$ ::: $a$ is an element of the set $M$
 <!--SR:!2024-10-07,4,274!2000-01-01,1,250-->
