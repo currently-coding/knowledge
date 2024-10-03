@@ -11,6 +11,7 @@
 ## Set
 ### Definition
 $\mathbb{N}$ := $\{0, 1, \ldots\}$ (Set of natural numbers)
+<!--SR:!2024-10-07,4,274-->
 $\mathbb{N}^+$ := $\{1, 2, \ldots\}$ (Set of positive natural numbers)
 $P$ := $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
 $\mathbb{Z}$ := $\{\ldots, -2, -1, 0, 1, 2, \ldots\}$ (Set of integers)
@@ -20,10 +21,12 @@ Important: $0$ is a natural number.
 For $x \in N$, $y \in N^+$ let $(x \mod y)$ := $x - zy$, where $z \in N$ is the greatest number with $zy \leq x$.
 ### Element relationship and inclusion
 $a \in M$ ::: $a$ is an element of the set $M$
+<!--SR:!2024-10-07,4,274!2000-01-01,1,250-->
 $a \notin M$ ::: $a$ is no element of the set $M$
 $M \subseteq N$ ::: for all $a$, if $a \in M$, then $a \in N$ (M is subset of N)
 $M \not\subseteq N$ ::: it does not hold $M \subseteq N$ (M is no subset of N)
 $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
+<!--SR:!2024-10-06,3,254!2000-01-01,1,250-->
 ### Operations
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
@@ -41,6 +44,7 @@ $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
 ## Quantifiers
 $\exists$ := “there exist(s)”
+<!--SR:!2024-10-07,4,274-->
 $\forall$ := “for all”
 ## Functions
 ### Definition 1.1
