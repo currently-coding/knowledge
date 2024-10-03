@@ -14,7 +14,8 @@ $\mathbb{N}$ := $\{0, 1, \ldots\}$ (Set of natural numbers)
 <!--SR:!2024-10-07,4,274-->
 $\mathbb{N}^+$ := $\{1, 2, \ldots\}$ (Set of positive natural numbers)
 <!--SR:!2024-10-07,4,274-->
-$P$ := $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
+$\mathbb{P}$ := $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
+<!--SR:!2024-10-06,3,254-->
 $\mathbb{Z}$ := $\{\ldots, -2, -1, 0, 1, 2, \ldots\}$ (Set of integers)
 $\emptyset$ := empty set
 <!--SR:!2024-10-06,3,250-->
