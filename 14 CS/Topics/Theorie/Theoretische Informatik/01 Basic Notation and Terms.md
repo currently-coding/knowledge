@@ -13,6 +13,7 @@
 $\mathbb{N}$ := $\{0, 1, \ldots\}$ (Set of natural numbers)
 <!--SR:!2024-10-07,4,274-->
 $\mathbb{N}^+$ := $\{1, 2, \ldots\}$ (Set of positive natural numbers)
+<!--SR:!2024-10-07,4,274-->
 $P$ := $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
 $\mathbb{Z}$ := $\{\ldots, -2, -1, 0, 1, 2, \ldots\}$ (Set of integers)
 $\emptyset$ := empty set
@@ -29,15 +30,19 @@ $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 <!--SR:!2024-10-06,3,254!2000-01-01,1,250-->
 ### Operations
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
+<!--SR:!2024-10-04,1,234-->
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
 $A - B$ := $A \setminus B$ (Difference of A and B)
+<!--SR:!2024-10-06,3,254-->
 $A$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
+<!--SR:!2024-10-04,1,234-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
 <!--SR:!2024-10-07,4,270!2000-01-01,1,250-->
 ## Tuple
 $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in this order (n-tuple, n-dimensional vector)
+<!--SR:!2024-10-07,4,274-->
 ### Cartesian Products
 $A_1 \times A_2 \times \ldots \times A_n$ := $\{(a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ for all } i\}$ (Cartesian product of sets $A_1,A_2, \ldots, A_n$)
 $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of set A)
@@ -53,6 +58,7 @@ If $(a, b) \in G_f$, then $f(a)$ = $b$.
 If there is no $b \in B$ with $f(a) = b$, then $f(a)$ is not defined (notation: $f(a) = n.d.$).
 
 $g \circ f$ := $f : A \to C$ with $(g \circ f)(x)$ := $g(f(x))$ (composition of functions).
+<!--SR:!2024-10-06,3,254-->
 $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of definition of f)
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
 <!--SR:!2024-10-07,4,270-->
