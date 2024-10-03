@@ -10,7 +10,7 @@
 
 ## Set
 ### Definition
-$N$ := $\{0, 1, \ldots\}$ (Set of natural numbers)
+$\mathbb{N}$ := $\{0, 1, \ldots\}$ (Set of natural numbers)
 $\mathbb{N}^+$ := $\{1, 2, \ldots\}$ (Set of positive natural numbers)
 $P$ := $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
 $\mathbb{Z}$ := $\{\ldots, -2, -1, 0, 1, 2, \ldots\}$ (Set of integers)
