@@ -40,8 +40,3 @@ const int num = 42;
 const int* const num_pointer = &42;
 ```
 
-
-# Code Beispiele/Aufgaben
-[]()
-
-# Flashcards

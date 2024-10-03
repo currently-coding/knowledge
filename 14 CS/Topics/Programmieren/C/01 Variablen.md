@@ -46,20 +46,19 @@ int main() {
 ```
 
 ## Flashcards
-Deklaration:::Spezifizieren des Datentypes und Variablennamens. Dadurch erfährt der Compiler von der Existenz der Variable. Speicher wird **nicht** reserviert
-<!--SR:!2024-10-05,4,274!2024-10-04,4,270-->
+Deklaration := Spezifizieren des Datentypes und Variablennamens. Dadurch erfährt der Compiler von der Existenz der Variable.
+<!--SR:!2024-10-05,4,274-->
 
 
 <!--SR:!2025-06-10,297,310-->
-Definition:::Der Compiler allokiert Speicher für die Variable
-<!--SR:!2024-10-05,4,274!2024-10-04,4,270-->
+Definition := Der Compiler allokiert Speicher für die Variable
+<!--SR:!2024-10-05,4,274-->
 
 
 <!--SR:!2025-01-24,160,310-->
-Initialisierung:::Der Variable wird ein initialer Wert zugewiesen
-<!--SR:!2000-01-01,1,250!2024-10-02,1,234-->
+Initialisierung := Der Variable wird ein initialer Wert zugewiesen
 
 
 <!--SR:!2025-03-23,218,330-->
-Reihenfolge der Schritte beim Erstellen einer Variable::Deklaration -> Definition -> Initialisierung
+Reihenfolge der Schritte beim Erstellen einer Variable := Deklaration -> Definition -> Initialisierung
 <!--SR:!2025-02-09,176,310-->

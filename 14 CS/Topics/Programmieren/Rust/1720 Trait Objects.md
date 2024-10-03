@@ -64,16 +64,3 @@ where
 	- resulting code does *[[1721 Static+Dynamic Dispatch|static dispatch]]*
 ## Code Beispiele/Aufgaben
 
-
-## Flashcards
-How does a **trait object** work ? :: It points to an *instance of the type implementing the specific trait* and a *table to look up trait methods on that type at runtime*
-
-<!--SR:!2024-09-30,44,270-->
-
-Explain the difference in code behaviour between using **trait objects** and **generics + trait bounds**.
-?
-**Generics** will be replace with 1 specific type at compile time, thus a vector cannot be filled with different types all implementing the trait. In contrast **trait objects** stored in a vector allow for different types to be stored as long as they implement the trait without breaking the homogeneous character of the vector. **Trait objects** enhance our code at a small performance cost with more flexibility. **Generics** just become 1 specific type at compile time, which does not add much flexibility besides being able to call functions/methods with different types as parameters consecutively. E.g. `Vector`:
-- Generic: Vector can only store type `a`
-- Trait object: Vector can store types `a`, `b`, `c`, etc. as long as they implement a trait
-
-<!--SR:!2024-11-14,89,290-->

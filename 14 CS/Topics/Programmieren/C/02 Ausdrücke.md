@@ -18,7 +18,3 @@ int add(int a, int b) {
 int result = add(3, 4);
 ```
 
-## Flashcards
-- Wann werden Ausdruecke berechnet::Beim compilen
-- Ist der Wert eines Ausdrucks statisch::Ja
-- 

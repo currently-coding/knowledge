@@ -13,9 +13,7 @@ links: "[[100 Generic Types, Traits and Lifetimes]]"
 - Runtime:
 	- *Pointers* inside trait objects point to the objects relative methods
 	- lookup occurs on *runtime* <-> [[#Static Dispatch]] is performed during compile time
-<!--SR:!2000-01-01,1,250!2024-08-21,4,270-->
 	-> prevents some optimizations during compile time
-<!--SR:!2024-08-21,4,270-->
 	-> more flexibility within our code
 ## Code Beispiele/Aufgaben
 

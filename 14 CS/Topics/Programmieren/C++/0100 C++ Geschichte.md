@@ -24,8 +24,3 @@ links: "[[0000 C++]]"
 - beeinflusst aktuellste Standards: #rust #java #go #swift
 
 ## Code Beispiele/Aufgaben
-
-## Flashcards
-- Nenne 3 Bereiche in denen C++ verwendet/gebraucht wird::High Performance Computing, systemnahe Programmierung, Hardwaretreiber, Datenbankimplementierung, Multimedia Streaming, Video-Spiele
-
-<!--SR:!2025-03-22,217,330-->
