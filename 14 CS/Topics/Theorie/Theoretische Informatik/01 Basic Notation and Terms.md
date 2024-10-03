@@ -17,6 +17,7 @@ $\mathbb{N}^+$ := $\{1, 2, \ldots\}$ (Set of positive natural numbers)
 $\mathbb{P}$ := $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
 <!--SR:!2024-10-06,3,254-->
 $\mathbb{Z}$ := $\{\ldots, -2, -1, 0, 1, 2, \ldots\}$ (Set of integers)
+<!--SR:!2024-10-07,4,277-->
 $\emptyset$ := empty set
 <!--SR:!2024-10-06,3,250-->
 Important: $0$ is a natural number.
@@ -26,6 +27,7 @@ For $x \in N$, $y \in N^+$ let $(x \mod y)$ = $x - zy$, where $z \in N$ is the g
 $a \in M$ ::: $a$ is an element of the set $M$
 <!--SR:!2024-10-07,4,274!2000-01-01,1,250-->
 $a \notin M$ ::: $a$ is no element of the set $M$
+<!--SR:!2000-01-01,1,250!2024-10-07,4,277-->
 $M \subseteq N$ ::: for all $a$, if $a \in M$, then $a \in N$ (M is subset of N)
 <!--SR:!2024-10-07,4,274!2000-01-01,1,250-->
 $M \not\subseteq N$ ::: it does not hold $M \subseteq N$ (M is no subset of N)
@@ -36,7 +38,9 @@ $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
 <!--SR:!2024-10-04,1,234-->
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
+<!--SR:!2024-10-06,3,257-->
 $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
+<!--SR:!2024-10-04,1,237-->
 $A - B$ := $A \setminus B$ (Difference of A and B)
 <!--SR:!2024-10-06,3,254-->
 $A$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
@@ -50,6 +54,7 @@ $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in thi
 <!--SR:!2024-10-07,4,274-->
 ### Cartesian Products
 $A_1 \times A_2 \times \ldots \times A_n$ := $\{(a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ for all } i\}$ (Cartesian product of sets $A_1,A_2, \ldots, A_n$)
+<!--SR:!2024-10-06,3,257-->
 $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of set A)
 <!--SR:!2024-10-04,1,234-->
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
@@ -57,6 +62,7 @@ The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )
 $\exists$ := “there exist(s)”
 <!--SR:!2024-10-07,4,274-->
 $\forall$ := “for all”
+<!--SR:!2024-10-07,4,277-->
 ## Functions
 ### Definition 1.1
 $f : A \to B$ is determined by the source set (aka domain) $A$, the target set (aka codomain) $B$, and the graph $G_f \subseteq A \times B$, where for every $a \in A$ there is at most one $b \in B$ with $(a, b) \in G_f$
