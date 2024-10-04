@@ -310,10 +310,6 @@ to skip(verb) (We can skip this chapter and move on to the next., The speaker sk
 <!--SR:!2024-10-05,4,349!2024-10-20,19,357-->
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
 <!--SR:!2024-10-04,4,321!2024-10-02,4,317-->
-stimulus(noun) (We are conditioned to react to sensory stimuli., The rats learned to react to a certain stimulus., The grant is meant to be a stimulus for new research.) ::: Reiz, Stimulus, Anreiz
-<!--SR:!2024-10-06,5,348!2024-10-02,4,317-->
-Stimulus(noun) (Die Ratten lernten, auf einen bestimmten Stimulus zu reagieren.) ::: stimulus, impetus, incentive
-<!--SR:!2024-10-04,4,345!2024-10-02,4,317-->
 to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
 <!--SR:!2024-10-03,2,317!2024-10-05,4,325-->
 stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
@@ -338,8 +334,6 @@ convenience(noun) (We provide pillows for your convenience., I do not like cooki
 <!--SR:!2024-10-02,1,308!2024-10-02,2,297-->
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern
 <!--SR:!2024-10-13,12,339!2024-10-19,18,357-->
-to assure oneself(verb) () ::: sich versichern lassen
-<!--SR:!2024-10-07,6,348!2024-10-02,4,317-->
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
 <!--SR:!2024-10-06,5,349!2024-10-19,18,357-->
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
@@ -353,7 +347,7 @@ whereby(adverb) () ::: wobei, wodurch, womit
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren
 <!--SR:!2024-10-04,4,345!2024-10-02,4,339-->
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
-<!--SR:!2024-10-03,4,341!2024-10-02,4,339-->
+<!--SR:!2024-10-22,18,361!2024-10-02,4,339-->
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
 <!--SR:!2024-10-07,6,348!2024-10-02,4,339-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
@@ -363,7 +357,7 @@ to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
 <!--SR:!2024-10-02,4,339!2024-10-07,6,347-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
-<!--SR:!2024-10-06,5,347!2024-10-02,4,339-->
+<!--SR:!2024-10-06,5,347!2024-10-22,18,359-->
 to call attention(verb) () ::: aufmerksam machen
 <!--SR:!2024-10-02,4,339!2024-10-03,4,341-->
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
@@ -413,7 +407,7 @@ to formulate(verb) (Abstract ideas are very hard to formulate., The project mana
 oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff
 <!--SR:!2024-10-06,5,347!2024-10-03,4,341-->
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
-<!--SR:!2024-10-06,5,347!2024-10-03,4,341-->
+<!--SR:!2024-10-06,5,347!2024-10-21,17,361-->
 to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
 <!--SR:!2024-10-05,4,348!2024-10-03,4,341-->
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
@@ -425,7 +419,7 @@ to upgrade(verb) (He has upgraded the software on his computer., The museum has 
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
 <!--SR:!2024-10-06,5,349!2024-10-05,4,325-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
-<!--SR:!2024-10-03,4,341!2024-10-05,4,325-->
+<!--SR:!2024-10-16,12,341!2024-10-05,4,325-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
 <!--SR:!2024-10-04,4,345!2024-10-06,5,348-->
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
@@ -531,6 +525,6 @@ sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2024-10-03,3,325!2024-10-05,4,349-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
-<!--SR:!2024-10-03,3,325!2024-10-06,5,347-->
+<!--SR:!2024-10-13,9,325!2024-10-06,5,347-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
 <!--SR:!2000-01-01,1,250!2024-10-06,5,348-->
