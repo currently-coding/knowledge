@@ -24,3 +24,6 @@
 - Konsumverhalten hinterfragen 
 
 ### Ziel: Internalisierung
+>[!Note]
+>Internalisierung := Verbrauchern Anreiz geben die sozialen Kosten und Nutzen einzubeziehen
+
