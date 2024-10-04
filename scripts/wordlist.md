@@ -1,8 +1,3 @@
-notion
-net result
-reminisce
-systematic
-making
 inevitable
 strip
 sanction
