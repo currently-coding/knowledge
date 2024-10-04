@@ -67,7 +67,7 @@ n: Previous Quickfix  :=  [q
 n: Next Quickfix  :=  ]q
 <!--SR:!2024-11-06,43,309-->
 n, v: Format  := \<leader>cf
-<!--SR:!2024-09-28,11,229-->
+<!--SR:!2024-11-08,35,249-->
 n: Line Diagnostics  := \<leader>cd
 <!--SR:!2024-09-21,4,189-->
 n: Next Diagnostic  :=  ]d
