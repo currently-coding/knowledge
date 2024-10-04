@@ -23,15 +23,15 @@ to account(verb) (The police asked him to account for his whereabouts at the tim
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
 <!--SR:!2024-10-08,18,302!2024-11-16,43,290-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) ::: genau, korrekt, sorgfältig, richtig
-<!--SR:!2024-10-04,15,299!2024-10-26,26,302-->
+<!--SR:!2024-12-04,61,319!2024-10-26,26,302-->
 acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
 <!--SR:!2024-10-02,12,282!2024-11-28,55,310-->
 acid(adjective) (I do not like acid fruits.) ::: sauer
-<!--SR:!2024-10-08,18,314!2024-10-04,15,299-->
+<!--SR:!2024-10-08,18,314!2024-12-03,60,319-->
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) ::: aktivieren, betätigen, freischalten, einschalten, auslösen
 <!--SR:!2024-10-05,15,302!2024-10-02,13,290-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) ::: Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
-<!--SR:!2024-10-07,17,302!2024-10-02,13,290-->
+<!--SR:!2024-10-07,17,302!2024-11-24,51,310-->
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) ::: zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei
 <!--SR:!2024-10-07,18,299!2024-10-07,17,302-->
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) ::: zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
@@ -56,12 +56,6 @@ aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützun
 <!--SR:!2024-10-08,18,302!2024-10-11,18,317-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
 <!--SR:!2024-10-09,16,321!2024-11-12,42,302-->
-alien(noun) (Some people believe in aliens.) ::: Ausländer, Außerirdischer, Fremder, Außerirdische, Alien, Ausländerin, Fremdling
-<!--SR:!2024-10-09,16,317!2024-11-30,57,322-->
-alien(adjective) (The way of life of the local people seemed alien to me.) ::: fremd, ausländisch, artfremd, außerirdisch, fremdartig, wesensfremd
-<!--SR:!2024-10-06,16,302!2024-10-09,16,317-->
-Alien(noun) () ::: alien
-<!--SR:!2024-10-04,14,302!2024-10-11,18,317-->
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
 <!--SR:!2024-11-23,50,302!2024-10-04,14,296-->
 alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längsseits
@@ -187,7 +181,7 @@ wealth(noun) (Thanks to his wealth, he can buy anything he likes., The book cont
 tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) ::: Steuer, Abgabe, Zins
 <!--SR:!2024-10-09,15,331!2024-10-11,18,330-->
 to tax(verb) (The government decided to tax corporate profits., He taxed her patience for hours.) ::: besteuern, strapazieren, versteuern
-<!--SR:!2024-10-02,9,290!2024-10-14,20,337-->
+<!--SR:!2024-11-10,37,310!2024-10-14,20,337-->
 recession(noun) (The recession is over and unemployment is declining., The boom after the recession meant many new jobs for the unemployed., The company registered a recession in sales., We have now overcome the recession and business is booming.) ::: Rezession, Rückgang, Flaute
 <!--SR:!2024-10-08,15,330!2024-10-10,16,337-->
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
@@ -367,7 +361,7 @@ to interpret(verb) (Every critic interpreted the play differently., I am not sur
 Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction
 <!--SR:!2024-10-04,4,345!2024-10-22,18,361-->
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig
-<!--SR:!2024-10-02,1,308!2024-10-04,4,299-->
+<!--SR:!2024-10-08,4,328!2024-10-04,4,299-->
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon
 <!--SR:!2024-10-24,20,359!2024-10-04,4,321-->
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem
@@ -383,7 +377,7 @@ revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Rev
 to revenge oneself(verb) () ::: sich rächen
 <!--SR:!2024-10-23,19,365!2024-10-16,15,339-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
-<!--SR:!2024-10-02,4,339!2024-10-02,1,307-->
+<!--SR:!2024-10-21,17,359!2024-10-02,1,307-->
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
 <!--SR:!2024-10-03,3,325!2024-10-19,15,339-->
 thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, hocherfreut, freudig erregt
@@ -443,7 +437,7 @@ transformation(noun) (The Internet has led to a transformation of society.) ::: 
 rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellion, Aufstand, Aufruhr
 <!--SR:!2024-10-06,5,348!2024-10-07,6,348-->
 dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
-<!--SR:!2024-10-04,4,345!2024-10-06,5,348-->
+<!--SR:!2024-10-22,18,365!2024-10-06,5,348-->
 tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
 <!--SR:!2024-10-19,15,348!2024-10-04,4,345-->
 one-to-one tuition(noun) () ::: Einzelunterricht
@@ -453,11 +447,11 @@ moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen
 <!--SR:!2024-10-07,6,349!2024-10-08,4,327-->
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
-<!--SR:!2024-10-05,4,349!2024-10-02,1,307-->
+<!--SR:!2024-10-05,4,349!2024-10-08,4,327-->
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen, adressieren
 <!--SR:!2024-10-05,4,348!2024-10-05,4,347-->
 to address oneself to(verb) () ::: sich etw. widmen
-<!--SR:!2024-10-02,1,308!2024-10-02,1,285-->
+<!--SR:!2024-10-02,1,308!2024-10-08,4,305-->
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
 <!--SR:!2024-10-06,5,347!2024-10-23,19,365-->
 consult(noun) () ::: Befragung
@@ -473,7 +467,7 @@ homeless(adjective) (He has finally found a home and is no longer homeless., The
 home(adjective) () ::: einheimisch, inländisch
 <!--SR:!2024-10-05,4,348!2024-10-05,4,325-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
-<!--SR:!2024-10-07,6,348!2024-10-04,4,345-->
+<!--SR:!2024-10-07,6,348!2024-10-25,21,365-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
 <!--SR:!2024-10-05,4,349!2024-10-07,3,307-->
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
