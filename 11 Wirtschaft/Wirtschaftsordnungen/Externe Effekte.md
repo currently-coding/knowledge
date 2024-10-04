@@ -5,14 +5,18 @@
 ### Externe Kosten
 >[!Note]
 >externe Kosten := Kosten, die durch negative [[Externe Effekte]] verursacht werden
-#### negative externe Kosten
-##### Staatliche Loesung
+#### Staatliche Loesung
 - Steuern
 
-##### private Loesung
+#### private Loesung
 - politisches Engagement
 - Konsumentscheidung
-###### Beispiele
+##### Beispiele
 - Umweltschutz, OPNV, Fahrrad fahren
+#### externer Nutzen
+>[!Note]
+>externer Nutzen := positive externe Effekte
+#### Staatliche Unterstuetzung
+- [[Subventionen]]
 
-
+#### Private 
