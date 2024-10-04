@@ -239,7 +239,7 @@ electronic(adjective) (The flight attendant asked to turn off all electronic dev
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
 <!--SR:!2024-10-15,17,352!2024-10-19,20,355-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
-<!--SR:!2024-10-10,12,334!2024-10-04,4,292-->
+<!--SR:!2024-10-10,12,334!2024-10-19,15,312-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
 <!--SR:!2024-10-13,13,315!2024-10-18,20,352-->
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
@@ -380,10 +380,6 @@ palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 <!--SR:!2024-10-02,4,339!2024-10-04,4,345-->
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
 <!--SR:!2024-10-22,18,361!2024-10-02,4,339-->
-gay(adjective) (One of my best friends is gay, the other is straight., Her smile showed she was in a gay mood.) ::: homosexuell, schwul, heiter
-<!--SR:!2024-10-21,17,359!2024-10-02,1,307-->
-gay(noun) (Gay is a colloquial term for a homosexual.) ::: Schwuler
-<!--SR:!2024-10-02,4,339!2024-10-03,4,341-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
 <!--SR:!2024-10-02,4,339!2024-10-07,6,347-->
 to revenge oneself(verb) () ::: sich rächen
