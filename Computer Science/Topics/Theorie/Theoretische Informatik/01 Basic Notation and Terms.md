@@ -48,7 +48,7 @@ $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
 <!--SR:!2024-10-06,2,234-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
-<!--SR:!2024-10-07,4,270!2000-01-01,1,250-->
+<!--SR:!2024-10-07,4,270!2024-10-05,1,239-->
 ## Tuple
 $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in this order (n-tuple, n-dimensional vector)
 <!--SR:!2024-10-07,4,274-->
@@ -76,7 +76,7 @@ $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of de
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
 <!--SR:!2024-10-07,4,270-->
 $f$ is total ::: $D_f = A$
-<!--SR:!2024-10-06,3,254!2000-01-01,1,250-->
+<!--SR:!2024-10-06,3,254!2024-10-08,4,279-->
 $f$ is surjective ::: $R_f = B$
 <!--SR:!2024-10-07,3,258!2024-10-06,3,254-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
