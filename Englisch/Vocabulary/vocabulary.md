@@ -21,7 +21,7 @@ accountant(noun) (As he likes working with numbers, he will train to become an a
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
 <!--SR:!2024-10-06,16,302!2024-10-31,34,299-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
-<!--SR:!2024-10-08,18,302!2024-10-04,15,290-->
+<!--SR:!2024-10-08,18,302!2024-11-16,43,290-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) ::: genau, korrekt, sorgfältig, richtig
 <!--SR:!2024-10-04,15,299!2024-10-26,26,302-->
 acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
@@ -93,7 +93,7 @@ merger(noun) (The merger went well and nobody lost their job., The merger had gr
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
 <!--SR:!2024-10-08,15,323!2024-10-10,17,301-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
-<!--SR:!2024-10-02,12,300!2024-10-12,19,319-->
+<!--SR:!2024-11-22,49,320!2024-10-12,19,319-->
 free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
 <!--SR:!2024-10-09,16,321!2024-10-10,17,319-->
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) ::: Handelshemmnis, Handelsbarriere, Handelsbeschränkung
@@ -283,11 +283,11 @@ to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
 <!--SR:!2024-10-19,18,357!2024-10-03,3,325-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
-<!--SR:!2024-10-07,6,347!2024-10-02,4,317-->
+<!--SR:!2024-10-07,6,347!2024-10-22,18,337-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2024-10-02,1,307!2024-10-03,4,297-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
-<!--SR:!2024-10-04,3,328!2024-10-04,4,277-->
+<!--SR:!2024-10-13,9,328!2024-10-04,4,277-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden
 <!--SR:!2024-10-09,9,317!2024-10-02,4,339-->
 to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
@@ -349,7 +349,7 @@ to reside(verb) (My parents reside in another country., During our last vacation
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
 <!--SR:!2024-10-22,18,361!2024-10-02,4,339-->
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
-<!--SR:!2024-10-07,6,348!2024-10-02,4,339-->
+<!--SR:!2024-10-07,6,348!2024-10-21,17,359-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 <!--SR:!2024-10-14,13,339!2024-10-05,4,348-->
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen, abschließen
@@ -367,7 +367,7 @@ interpretation(noun) (This is clearly the only feasible interpretation.) ::: Aus
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
 <!--SR:!2024-10-24,20,359!2024-10-04,4,345-->
 Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction
-<!--SR:!2024-10-04,4,345!2024-10-03,4,341-->
+<!--SR:!2024-10-04,4,345!2024-10-22,18,361-->
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig
 <!--SR:!2024-10-02,1,308!2024-10-04,4,299-->
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon
@@ -383,7 +383,7 @@ to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lasse
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
 <!--SR:!2024-10-02,4,339!2024-10-07,6,347-->
 to revenge oneself(verb) () ::: sich rächen
-<!--SR:!2024-10-04,4,345!2024-10-16,15,339-->
+<!--SR:!2024-10-23,19,365!2024-10-16,15,339-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
 <!--SR:!2024-10-02,4,339!2024-10-02,1,307-->
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
@@ -409,7 +409,7 @@ to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the bla
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
 <!--SR:!2024-10-04,3,327!2024-10-04,4,321-->
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
-<!--SR:!2024-10-04,3,327!2024-10-05,4,349-->
+<!--SR:!2024-10-19,15,347!2024-10-05,4,349-->
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
 <!--SR:!2024-10-07,6,348!2024-10-03,4,341-->
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
