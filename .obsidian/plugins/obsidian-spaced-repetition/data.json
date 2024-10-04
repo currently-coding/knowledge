@@ -1,8 +1,8 @@
 {
   "settings": {
-    "flashcardEasyText": "Too easy",
+    "flashcardEasyText": "Easy",
     "flashcardGoodText": "Good",
-    "flashcardHardText": "Did not know",
+    "flashcardHardText": "Hard",
     "flashcardTags": [
       ""
     ],
@@ -25,17 +25,11 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#learn",
-      "#mon",
-      "#tue",
-      "#wed",
-      "#thu",
-      "#fri",
-      ""
+      "#review"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
-    "autoNextNote": true,
+    "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": false,
