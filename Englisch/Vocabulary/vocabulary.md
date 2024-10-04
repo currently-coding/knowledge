@@ -291,7 +291,7 @@ to command(verb) (The sergeant commanded the troop to march., The admiral comman
 vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar
 <!--SR:!2024-10-23,19,359!2024-10-19,18,357-->
 trauma(noun) (Patients who have experienced trauma require special care.) ::: Trauma, seelischer Schock
-<!--SR:!2024-10-03,4,341!2024-10-18,17,357-->
+<!--SR:!2024-10-22,18,361!2024-10-18,17,357-->
 trauma(noun as adjective) () :::  Trauma(noun) (Patienten, die ein Trauma erlebt haben, benötigen besondere Sorgfalt.) ::: trauma
 <!--SR:!2024-10-05,4,349!2024-10-18,17,357-->
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
