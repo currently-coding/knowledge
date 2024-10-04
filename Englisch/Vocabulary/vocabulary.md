@@ -87,7 +87,7 @@ annual(adjective) (We are preparing our annual midsummer festival., The annual f
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) ::: verschmelzen, fusionieren, zusammenfügen
 <!--SR:!2024-11-26,53,321!2024-10-12,19,320-->
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) ::: Verschmelzung, Fusion, Zusammenschluss
-<!--SR:!2024-10-03,10,303!2024-10-09,16,301-->
+<!--SR:!2024-11-16,43,323!2024-10-09,16,301-->
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
 <!--SR:!2024-10-08,15,323!2024-10-10,17,301-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
@@ -289,7 +289,7 @@ to engender(verb) (The controversial film engendered a lively discussion., Mutua
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden
 <!--SR:!2024-10-09,9,317!2024-10-21,17,359-->
 to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
-<!--SR:!2024-10-05,4,348!2024-10-02,4,317-->
+<!--SR:!2024-10-05,4,348!2024-10-22,18,337-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
 <!--SR:!2024-10-02,4,339!2024-10-18,17,357-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
@@ -375,7 +375,7 @@ yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
 <!--SR:!2024-10-23,19,359!2024-10-06,5,348-->
 palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
-<!--SR:!2024-10-02,4,339!2024-10-04,4,345-->
+<!--SR:!2024-10-02,4,339!2024-10-24,20,365-->
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
 <!--SR:!2024-10-22,18,361!2024-10-02,4,339-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
@@ -449,7 +449,7 @@ tuition(noun) (Tuition takes place at our modern classrooms., Private schools us
 one-to-one tuition(noun) () ::: Einzelunterricht
 <!--SR:!2024-10-06,5,348!2024-10-05,4,347-->
 moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
-<!--SR:!2024-10-04,3,328!2024-10-03,3,325-->
+<!--SR:!2024-10-04,3,328!2024-10-17,13,345-->
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen
 <!--SR:!2024-10-07,6,349!2024-10-08,4,327-->
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
