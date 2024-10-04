@@ -323,7 +323,7 @@ federal(adjective) () ::: föderal, föderativ, bundesstaatlich
 broadly(adverb) () ::: weit, breit, allgemein
 <!--SR:!2024-10-21,20,357!2024-10-22,18,359-->
 broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit
-<!--SR:!2024-10-02,4,339!2024-10-20,19,357-->
+<!--SR:!2024-10-23,19,359!2024-10-20,19,357-->
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
 <!--SR:!2024-10-25,21,359!2024-10-20,19,357-->
 canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße
@@ -341,7 +341,7 @@ to induce(verb) (Certain medications can induce drowsiness., The current economi
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
 <!--SR:!2024-10-05,4,348!2024-10-02,4,317-->
 whereby(adverb) () ::: wobei, wodurch, womit
-<!--SR:!2024-10-12,12,337!2024-10-03,4,319-->
+<!--SR:!2024-10-12,12,337!2024-10-20,16,339-->
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren
 <!--SR:!2024-10-21,17,365!2024-10-02,4,339-->
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
@@ -499,7 +499,7 @@ strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced 
 to strip(verb) (The electrician stripped the cable and installed the lamp., It is hard to strip wallpaper off a wall., We stripped the paint with sandpaper.) ::: abisolieren, abziehen, abkratzen
 <!--SR:!2024-10-02,1,307!2024-10-17,13,349-->
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
-<!--SR:!2024-10-04,3,327!2024-10-07,6,348-->
+<!--SR:!2024-10-13,9,327!2024-10-07,6,348-->
 to sanction(verb) (The committee sanctioned the expenditure for the project.) ::: genehmigen, sanktionieren, billigen
 <!--SR:!2024-10-07,6,349!2024-10-05,1,287-->
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
