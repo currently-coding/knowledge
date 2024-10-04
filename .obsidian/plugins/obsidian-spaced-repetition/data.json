@@ -25,14 +25,20 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      "#learn",
+      "#mon",
+      "#tue",
+      "#wed",
+      "#thu",
+      "#fri",
+      ""
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
-    "initiallyExpandAllSubdecksInTree": true,
+    "initiallyExpandAllSubdecksInTree": false,
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.3,
