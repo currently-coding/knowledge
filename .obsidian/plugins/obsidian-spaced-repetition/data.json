@@ -1,8 +1,8 @@
 {
   "settings": {
-    "flashcardEasyText": "Too easy",
+    "flashcardEasyText": "Too esay",
     "flashcardGoodText": "Good",
-    "flashcardHardText": "Did not know",
+    "flashcardHardText": "DId not know",
     "flashcardTags": [
       ""
     ],
@@ -32,7 +32,7 @@
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
-    "initiallyExpandAllSubdecksInTree": true,
+    "initiallyExpandAllSubdecksInTree": false,
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.3,
@@ -40,20 +40,10 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-10-03",
+  "buryDate": "2024-10-04",
   "buryList": [
-    "c512e6aba38fe",
-    "ff406da219237",
-    "162cc4a286e12f",
-    "39448475b43c0",
-    "dbfe723ac7a71",
-    "107724a388307b",
-    "727d4fba90bd6",
-    "c5a2e0d3c60fc",
-    "122ff8d514b283",
-    "fdeab6a6485be",
-    "1ff4d2bacb91f6",
-    "1824bdb0ae923c"
+    "149f7b237f392c",
+    "1793af3148101d"
   ],
   "historyDeck": null
 }
