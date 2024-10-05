@@ -36,7 +36,7 @@ $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 <!--SR:!2024-10-06,3,254!2024-10-07,3,258-->
 ### Operations
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
-<!--SR:!2024-10-05,1,214-->
+<!--SR:!2024-10-06,1,194-->
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 <!--SR:!2024-10-06,3,257-->
 $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
@@ -48,7 +48,7 @@ $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
 <!--SR:!2024-10-06,2,234-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
-<!--SR:!2024-10-07,4,270!2024-10-05,1,239-->
+<!--SR:!2024-10-07,4,270!2024-10-08,3,259-->
 ## Tuple
 $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in this order (n-tuple, n-dimensional vector)
 <!--SR:!2024-10-07,4,274-->
