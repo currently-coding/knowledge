@@ -1,8 +1,8 @@
 {
   "settings": {
-    "flashcardEasyText": "Easy",
+    "flashcardEasyText": "Too easy",
     "flashcardGoodText": "Good",
-    "flashcardHardText": "Hard",
+    "flashcardHardText": "Did not know",
     "flashcardTags": [
       ""
     ],
@@ -25,11 +25,17 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      "#learn",
+      "#mon",
+      "#tue",
+      "#wed",
+      "#thu",
+      "#fri",
+      ""
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
-    "autoNextNote": false,
+    "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": false,
@@ -41,8 +47,6 @@
     "showDebugMessages": false
   },
   "buryDate": "2024-10-05",
-  "buryList": [
-    "ff406da219237"
-  ],
+  "buryList": [],
   "historyDeck": null
 }
