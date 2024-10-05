@@ -11,3 +11,4 @@
 
 >[!GDuB]
 >Quellen := Texte, Gegenstände, Bilder aus der Vergangenheit die entweder zufällig erhalten geblieben sind(Überrest) oder absichtlich überliefert wurden(Überlieferung), sowie Zeitzeugenaussagen
+<!--SR:!2024-10-06,1,230-->
