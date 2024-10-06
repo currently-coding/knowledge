@@ -459,7 +459,7 @@ ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, R
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
 <!--SR:!2024-10-07,6,347!2024-10-07,6,349-->
 home(adjective) () ::: einheimisch, inländisch
-<!--SR:!2024-10-05,4,348!2024-10-05,4,325-->
+<!--SR:!2024-10-05,4,348!2024-10-23,17,345-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
 <!--SR:!2024-10-07,6,348!2024-10-25,21,365-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
