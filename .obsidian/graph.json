@@ -8,115 +8,101 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"14 CS\"  ",
+      "query": "path:\"CS\"  ",
       "color": {
         "a": 1,
         "rgb": 2582995
       }
     },
     {
-      "query": "path:\"00 Karteikarten 1\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:\"00 Karteikarten 2\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:\"01 Informatik\"  ",
+      "query": "path:\"Informatik\"  ",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
     },
     {
-      "query": "path:\"03 Physik\"  ",
+      "query": "path:\"Physik\"  ",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "path:\"02 Chemie\"  ",
+      "query": "path:\"Chemie\"  ",
       "color": {
         "a": 1,
         "rgb": 6073814
       }
     },
     {
-      "query": "path:\"04 Geschichte\"  ",
+      "query": "path:\"Geschichte\"  ",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "path:\"06 Politik & Gesellschaft\"  ",
+      "query": "path:\"Politik & Gesellschaft\"  ",
       "color": {
         "a": 1,
         "rgb": 11361494
       }
     },
     {
-      "query": "path:\"07 Englisch\"  ",
+      "query": "path:\"Englisch\"  ",
       "color": {
         "a": 1,
         "rgb": 14048429
       }
     },
     {
-      "query": "path:\"08 Deutsch\"  ",
+      "query": "path:\"Deutsch\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:\"05 Ethik\"  ",
+      "query": "path:\"Ethik\"  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:\"09 Musik\"  ",
+      "query": "path:\"Musik\"  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "path:\"10 Geographie\"  ",
+      "query": "path:\"Geographie\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 4545077
       }
     },
     {
-      "query": "path:\"11 Wirtschaft\"  ",
+      "query": "path:\"Wirtschaft\"  ",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "path:\"12 Latein\"  ",
+      "query": "path:\"Latein\"  ",
       "color": {
         "a": 1,
         "rgb": 6073814
       }
     },
     {
-      "query": "path:\"13 Mathematik\"  ",
+      "query": "path:\"Mathematik\"  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 1081076
       }
     },
     {
@@ -151,6 +137,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7395331661731093,
-  "close": true
+  "scale": 0.32115828794587875,
+  "close": false
 }
