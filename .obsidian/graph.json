@@ -11,63 +11,63 @@
       "query": "path:\"CS\"  ",
       "color": {
         "a": 1,
-        "rgb": 2582995
+        "rgb": 2736127
       }
     },
     {
       "query": "path:\"Informatik\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 11601392
       }
     },
     {
       "query": "path:\"Physik\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 11037573
       }
     },
     {
       "query": "path:\"Chemie\"  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 9877111
       }
     },
     {
       "query": "path:\"Geschichte\"  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 7755540
       }
     },
     {
       "query": "path:\"Politik & Gesellschaft\"  ",
       "color": {
         "a": 1,
-        "rgb": 11361494
+        "rgb": 12097832
       }
     },
     {
       "query": "path:\"Englisch\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048429
+        "rgb": 9115277
       }
     },
     {
       "query": "path:\"Deutsch\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 12895428
       }
     },
     {
       "query": "path:\"Ethik\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16101673
       }
     },
     {
@@ -88,14 +88,14 @@
       "query": "path:\"Wirtschaft\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 7681280
       }
     },
     {
       "query": "path:\"Latein\"  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 10631481
       }
     },
     {
@@ -137,6 +137,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.32115828794587875,
+  "scale": 0.3211582879458792,
   "close": false
 }
