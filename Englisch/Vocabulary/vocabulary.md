@@ -410,8 +410,6 @@ radiation(noun) (There is no radiation leaking from the reactor., The decay of a
 <!--SR:!2024-10-21,17,365!2024-10-06,5,348-->
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
 <!--SR:!2024-10-05,4,349!2024-10-02,1,307-->
-radiate(adjective) () ::: radiär
-<!--SR:!2024-10-03,4,341!2024-10-20,16,347-->
 sigh(noun) () ::: Seufzer, Seufzen
 <!--SR:!2024-10-04,4,345!2024-10-30,24,367-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
@@ -453,7 +451,7 @@ to consult(verb) (If the symptoms persist, consult your doctor., I will consult 
 consult(noun) () ::: Befragung
 <!--SR:!2024-10-10,4,309!2024-10-02,1,285-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
-<!--SR:!2024-10-06,5,349!2024-10-07,6,347-->
+<!--SR:!2024-10-29,23,369!2024-10-07,6,347-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
 <!--SR:!2024-10-08,2,327!2024-10-05,4,348-->
 ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
