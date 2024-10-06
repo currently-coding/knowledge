@@ -57,7 +57,7 @@ aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützun
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
 <!--SR:!2024-10-09,16,321!2024-11-12,42,302-->
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
-<!--SR:!2024-11-23,50,302!2024-10-04,14,296-->
+<!--SR:!2024-11-23,50,302!2024-12-02,57,316-->
 alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längsseits
 <!--SR:!2024-10-22,24,282!2024-10-08,15,317-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) ::: insgesamt, im Ganzen, alles in allem
@@ -311,7 +311,7 @@ to construct(verb) (He constructed a wall around his house., She constructed a n
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
 <!--SR:!2024-10-03,4,341!2024-10-21,17,337-->
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
-<!--SR:!2024-10-24,20,337!2024-10-06,5,347-->
+<!--SR:!2024-10-24,20,337!2024-10-28,22,367-->
 broadly(adverb) () ::: weit, breit, allgemein
 <!--SR:!2024-10-21,20,357!2024-10-22,18,359-->
 broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit
@@ -393,7 +393,7 @@ to formulate(verb) (Abstract ideas are very hard to formulate., The project mana
 oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff
 <!--SR:!2024-11-02,27,367!2024-10-03,4,341-->
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
-<!--SR:!2024-10-06,5,347!2024-10-21,17,361-->
+<!--SR:!2024-10-21,15,347!2024-10-21,17,361-->
 to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
 <!--SR:!2024-10-27,21,368!2024-10-23,19,361-->
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
@@ -407,9 +407,9 @@ villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
 <!--SR:!2024-10-16,12,341!2024-10-25,19,345-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
-<!--SR:!2024-10-21,17,365!2024-10-06,5,348-->
+<!--SR:!2024-10-21,17,365!2024-10-27,21,368-->
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
-<!--SR:!2024-10-05,4,349!2024-10-02,1,307-->
+<!--SR:!2024-10-05,4,349!2024-10-10,4,327-->
 sigh(noun) () ::: Seufzer, Seufzen
 <!--SR:!2024-10-04,4,345!2024-10-30,24,367-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
@@ -419,7 +419,7 @@ surveillance(noun) (The building is under surveillance., Satellites allow an exh
 restoration(noun) (The restoration of the old church took many years., Her job is the restoration of damaged artworks., The restoration of the castle took long, but it was worth it., The restoration of the castle took several years.) ::: Wiederherstellung, Restauration, Restaurierung
 <!--SR:!2024-10-24,18,365!2024-10-18,14,347-->
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
-<!--SR:!2024-10-13,9,329!2024-10-05,4,325-->
+<!--SR:!2024-10-13,9,329!2024-10-08,2,305-->
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
 <!--SR:!2024-10-07,6,348!2024-10-25,19,367-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
@@ -489,7 +489,7 @@ sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zusti
 to sanction(verb) (The committee sanctioned the expenditure for the project.) ::: genehmigen, sanktionieren, billigen
 <!--SR:!2024-10-07,6,349!2024-10-05,1,287-->
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
-<!--SR:!2024-10-19,15,347!2024-10-06,5,349-->
+<!--SR:!2024-10-19,15,347!2024-10-22,16,349-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
 <!--SR:!2024-10-07,6,348!2024-10-28,22,367-->
 commander(noun) (The commander is in charge of the troop., The captain of a ship is also the commander of it.) ::: Kommandant, Befehlshaber, Kommandeur

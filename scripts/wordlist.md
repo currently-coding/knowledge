@@ -1,3 +1,6 @@
+delapidate
+possession
+interwoven
 assumption
 eliminate
 lately
