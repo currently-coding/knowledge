@@ -25,7 +25,7 @@ accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key eleme
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) ::: genau, korrekt, sorgfältig, richtig
 <!--SR:!2024-12-04,61,319!2024-10-26,26,302-->
 acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
-<!--SR:!2024-10-02,12,282!2024-11-28,55,310-->
+<!--SR:!2024-11-21,46,302!2024-11-28,55,310-->
 acid(adjective) (I do not like acid fruits.) ::: sauer
 <!--SR:!2024-10-08,18,314!2024-12-03,60,319-->
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) ::: aktivieren, betätigen, freischalten, einschalten, auslösen
@@ -121,7 +121,7 @@ urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
 to urbanize(verb) () ::: urbanisieren, verstädtern
 <!--SR:!2024-10-11,18,326!2024-10-11,17,338-->
 to diversify(verb) (The trader wants to diversify his portfolio.) ::: diversifizieren, variieren, differenzieren
-<!--SR:!2024-10-05,12,317!2024-10-09,16,326-->
+<!--SR:!2024-11-27,52,337!2024-10-09,16,326-->
 commerce(noun) (A lot of commerce was conducted in this town a century ago.) ::: Handel, Verkehr, Kommerz
 <!--SR:!2024-10-10,17,326!2024-10-12,18,338-->
 e-commerce(noun) (Retailers sell a lot by e-commerce nowadays.) ::: E-Commerce, elektronischer Geschäftsverkehr
@@ -291,7 +291,7 @@ vague(adjective) (Initially, our world trip was just a vague idea., With such va
 trauma(noun) (Patients who have experienced trauma require special care.) ::: Trauma, seelischer Schock
 <!--SR:!2024-10-22,18,361!2024-10-18,17,357-->
 trauma(noun as adjective) () :::  Trauma(noun) (Patienten, die ein Trauma erlebt haben, benötigen besondere Sorgfalt.) ::: trauma
-<!--SR:!2024-10-05,4,349!2024-10-18,17,357-->
+<!--SR:!2024-10-23,17,369!2024-10-18,17,357-->
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
 <!--SR:!2024-10-23,17,361!2024-10-21,17,337-->
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., I removed the old battery and installed a new one.) ::: entfernen, beseitigen, entnehmen
@@ -342,8 +342,8 @@ compound(adjective) (The lesson was about compound adjectives.) ::: zusammengese
 <!--SR:!2024-10-07,6,348!2024-10-21,17,359-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 <!--SR:!2024-10-14,13,339!2024-10-05,4,348-->
-to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen, abschließen
-<!--SR:!2024-10-07,6,347!2024-10-04,4,299-->
+to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
+<!--SR:!2024-10-07,6,347!2024-10-22,16,319-->
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
 <!--SR:!2024-10-23,19,359!2024-10-07,6,347-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
@@ -365,11 +365,11 @@ yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go 
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem
 <!--SR:!2024-10-05,4,349!2024-10-15,14,339-->
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
-<!--SR:!2024-10-23,19,359!2024-10-06,5,348-->
+<!--SR:!2024-10-23,19,359!2024-10-28,22,368-->
 palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 <!--SR:!2024-10-02,4,339!2024-10-24,20,365-->
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
-<!--SR:!2024-10-22,18,361!2024-10-02,4,339-->
+<!--SR:!2024-10-22,18,361!2024-10-24,18,359-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
 <!--SR:!2024-10-02,4,339!2024-10-07,6,347-->
 to revenge oneself(verb) () ::: sich rächen
@@ -423,7 +423,7 @@ restoration(noun) (The restoration of the old church took many years., Her job i
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
 <!--SR:!2024-10-13,9,329!2024-10-05,4,325-->
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
-<!--SR:!2024-10-07,6,348!2024-10-05,4,347-->
+<!--SR:!2024-10-07,6,348!2024-10-25,19,367-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
 <!--SR:!2024-10-29,23,367!2024-10-25,21,365-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
@@ -437,7 +437,7 @@ dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
 tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
 <!--SR:!2024-10-19,15,348!2024-10-04,4,345-->
 one-to-one tuition(noun) () ::: Einzelunterricht
-<!--SR:!2024-10-06,5,348!2024-10-05,4,347-->
+<!--SR:!2024-10-29,23,368!2024-10-05,4,347-->
 moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
 <!--SR:!2024-10-04,3,328!2024-10-17,13,345-->
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen
@@ -447,11 +447,11 @@ to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen, adressieren
 <!--SR:!2024-10-05,4,348!2024-10-05,4,347-->
 to address oneself to(verb) () ::: sich etw. widmen
-<!--SR:!2024-10-02,1,308!2024-10-08,4,305-->
+<!--SR:!2024-10-10,4,328!2024-10-08,4,305-->
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
 <!--SR:!2024-10-31,25,367!2024-10-23,19,365-->
 consult(noun) () ::: Befragung
-<!--SR:!2024-10-05,1,289!2024-10-02,1,285-->
+<!--SR:!2024-10-10,4,309!2024-10-02,1,285-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
 <!--SR:!2024-10-06,5,349!2024-10-07,6,347-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
@@ -476,8 +476,6 @@ sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2024-10-06,5,349!2024-10-27,21,367-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2024-10-24,18,367!2024-10-06,5,348-->
-exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
-<!--SR:!2024-10-06,5,349!2024-10-07,6,347-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
 <!--SR:!2024-10-08,4,327!2000-01-01,1,250-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
@@ -503,7 +501,7 @@ vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the po
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
 <!--SR:!2024-10-05,4,347!2024-10-27,21,369-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
-<!--SR:!2024-10-04,3,305!2024-10-06,5,348-->
+<!--SR:!2024-10-04,3,305!2024-11-02,27,368-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2024-10-24,20,365!2024-10-07,6,349-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
