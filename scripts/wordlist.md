@@ -1,10 +1,3 @@
-vessel
-Compel
-booking
-transmission
-donation
-disappoint
-icon
 assumption
 eliminate
 lately
