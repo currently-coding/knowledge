@@ -7,7 +7,7 @@ to abstract(verb) (I will read the article and abstract the main ideas.) ::: tre
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2024-10-05,15,302!2024-10-06,17,290-->
 to accent(verb) ::: betonen, akzentuieren, hervorheben
-<!--SR:!2024-10-07,17,302!2024-10-06,17,299-->
+<!--SR:!2024-10-07,17,302!2024-12-14,69,319-->
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2024-10-06,16,302!2024-10-05,16,290-->
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
@@ -295,7 +295,7 @@ trauma(noun) (Patients who have experienced trauma require special care.) ::: Tr
 trauma(noun as adjective) () :::  Trauma(noun) (Patienten, die ein Trauma erlebt haben, benötigen besondere Sorgfalt.) ::: trauma
 <!--SR:!2024-10-05,4,349!2024-10-18,17,357-->
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
-<!--SR:!2024-10-03,4,341!2024-10-21,17,337-->
+<!--SR:!2024-10-23,17,361!2024-10-21,17,337-->
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., I removed the old battery and installed a new one.) ::: entfernen, beseitigen, entnehmen
 <!--SR:!2024-10-22,21,357!2024-10-07,6,349-->
 to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen
@@ -377,7 +377,7 @@ revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Rev
 to revenge oneself(verb) () ::: sich rächen
 <!--SR:!2024-10-23,19,365!2024-10-16,15,339-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
-<!--SR:!2024-10-21,17,359!2024-10-02,1,307-->
+<!--SR:!2024-10-21,17,359!2024-10-10,4,327-->
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
 <!--SR:!2024-10-03,3,325!2024-10-19,15,339-->
 thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, hocherfreut, freudig erregt
@@ -397,7 +397,7 @@ oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., T
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
 <!--SR:!2024-10-06,5,347!2024-10-21,17,361-->
 to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
-<!--SR:!2024-10-05,4,348!2024-10-23,19,361-->
+<!--SR:!2024-10-27,21,368!2024-10-23,19,361-->
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
 <!--SR:!2024-10-04,3,327!2024-10-21,17,341-->
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
@@ -431,7 +431,7 @@ to embrace(verb) (I embraced my friend before she got on the train., The book em
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
 <!--SR:!2024-10-29,23,367!2024-10-25,21,365-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
-<!--SR:!2024-10-07,6,349!2024-10-02,1,308-->
+<!--SR:!2024-10-07,6,349!2024-10-07,1,288-->
 transformation(noun) (The Internet has led to a transformation of society.) ::: Umwandlung, Transformation, Umsetzung
 <!--SR:!2024-10-05,4,349!2024-10-06,5,348-->
 rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellion, Aufstand, Aufruhr
@@ -485,13 +485,13 @@ exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
 <!--SR:!2024-10-08,4,327!2000-01-01,1,250-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
-<!--SR:!2024-10-05,4,348!2024-10-06,5,349-->
+<!--SR:!2024-10-24,18,368!2024-10-06,5,349-->
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
-<!--SR:!2024-10-06,5,347!2024-10-07,6,348-->
+<!--SR:!2024-10-30,24,367!2024-10-07,6,348-->
 strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced the chicken into strips., A narrow strip of land connects the two islands., I used a strip of cloth to mend my dress., The tailor cut the fabric into strips., Me and the boys want to go on the strip tonight.) ::: Streifen, Band, Piste
 <!--SR:!2024-10-07,6,347!2024-10-07,6,349-->
 to strip(verb) (The electrician stripped the cable and installed the lamp., It is hard to strip wallpaper off a wall., We stripped the paint with sandpaper.) ::: abisolieren, abziehen, abkratzen
-<!--SR:!2024-10-02,1,307!2024-10-17,13,349-->
+<!--SR:!2024-10-09,3,307!2024-10-17,13,349-->
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
 <!--SR:!2024-10-13,9,327!2024-10-07,6,348-->
 to sanction(verb) (The committee sanctioned the expenditure for the project.) ::: genehmigen, sanktionieren, billigen
