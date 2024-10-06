@@ -74,8 +74,6 @@ to amuse oneself(verb) (The teenagers amused themselves at the fair.) ::: sich v
 <!--SR:!2024-11-14,44,317!2024-10-07,17,302-->
 ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfahr, Ahnin
 <!--SR:!2024-10-09,16,317!2024-10-07,17,302-->
-animation(noun) (The computer game provides very authentic animations., The programmer rendered the object for animation., I love the children's animation and exuberance.) ::: Animation, Lebhaftigkeit, Belebung
-<!--SR:!2024-10-06,13,297!2024-11-06,38,302-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) ::: jährlich, alljährlich, einjährig
 <!--SR:!2024-10-09,16,319!2024-10-09,16,319-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) ::: verschmelzen, fusionieren, zusammenfügen
@@ -339,7 +337,7 @@ whereby(adverb) () ::: wobei, wodurch, womit
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren
 <!--SR:!2024-10-21,17,365!2024-10-02,4,339-->
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
-<!--SR:!2024-10-22,18,361!2024-10-02,4,339-->
+<!--SR:!2024-10-22,18,361!2024-10-26,20,359-->
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
 <!--SR:!2024-10-07,6,348!2024-10-21,17,359-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
@@ -349,7 +347,7 @@ to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
 <!--SR:!2024-10-23,19,359!2024-10-07,6,347-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
-<!--SR:!2024-10-06,5,347!2024-10-22,18,359-->
+<!--SR:!2024-10-22,16,347!2024-10-22,18,359-->
 to call attention(verb) () ::: aufmerksam machen
 <!--SR:!2024-10-22,18,359!2024-10-03,4,341-->
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
@@ -363,7 +361,7 @@ Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., D
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig
 <!--SR:!2024-10-08,4,328!2024-10-04,4,299-->
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon
-<!--SR:!2024-10-24,20,359!2024-10-04,4,321-->
+<!--SR:!2024-10-24,20,359!2024-10-22,16,341-->
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem
 <!--SR:!2024-10-05,4,349!2024-10-15,14,339-->
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
@@ -393,7 +391,7 @@ to clarify(verb) (In the first place, the police officer needed to clarify the f
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren
 <!--SR:!2024-10-05,4,348!2024-10-15,11,341-->
 oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff
-<!--SR:!2024-10-06,5,347!2024-10-03,4,341-->
+<!--SR:!2024-11-02,27,367!2024-10-03,4,341-->
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
 <!--SR:!2024-10-06,5,347!2024-10-21,17,361-->
 to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
@@ -401,11 +399,11 @@ to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the bla
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
 <!--SR:!2024-10-04,3,327!2024-10-21,17,341-->
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
-<!--SR:!2024-10-19,15,347!2024-10-05,4,349-->
+<!--SR:!2024-10-19,15,347!2024-10-25,19,369-->
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
 <!--SR:!2024-10-07,6,348!2024-10-23,19,361-->
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
-<!--SR:!2024-10-06,5,349!2024-10-05,4,325-->
+<!--SR:!2024-10-06,5,349!2024-10-08,2,305-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
 <!--SR:!2024-10-16,12,341!2024-10-25,19,345-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
@@ -424,8 +422,6 @@ restoration(noun) (The restoration of the old church took many years., Her job i
 <!--SR:!2024-10-24,18,365!2024-10-18,14,347-->
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
 <!--SR:!2024-10-13,9,329!2024-10-05,4,325-->
-widow(noun) (The widow overcame her grief with the help of her friends.) ::: Witwe, Hurenkind, Wwe.
-<!--SR:!2024-10-06,5,349!2024-10-05,4,325-->
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
 <!--SR:!2024-10-07,6,348!2024-10-05,4,347-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
@@ -499,9 +495,9 @@ to sanction(verb) (The committee sanctioned the expenditure for the project.) ::
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
 <!--SR:!2024-10-19,15,347!2024-10-06,5,349-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
-<!--SR:!2024-10-07,6,348!2024-10-06,5,347-->
+<!--SR:!2024-10-07,6,348!2024-10-28,22,367-->
 commander(noun) (The commander is in charge of the troop., The captain of a ship is also the commander of it.) ::: Kommandant, Befehlshaber, Kommandeur
-<!--SR:!2024-10-07,6,348!2024-10-05,4,346-->
+<!--SR:!2024-10-07,6,348!2024-10-25,19,366-->
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
 <!--SR:!2024-10-07,6,349!2024-10-05,4,348-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
