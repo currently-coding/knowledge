@@ -10,6 +10,7 @@
 - Image: *Ausbeuterbetrieb*
 - globale Interdependenzen
 	- Zölle, Kriege, Katastrophen
+## Arbeitnehmer
 ### Chancen
 - höhere Löhne
 - mehr Arbeitsplätze
