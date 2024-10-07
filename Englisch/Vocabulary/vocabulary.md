@@ -33,7 +33,7 @@ to activate(verb) (Movement activates the alarm., The security guard activated t
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) ::: Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
 <!--SR:!2024-12-16,70,322!2024-11-24,51,310-->
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) ::: zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei
-<!--SR:!2024-10-07,18,299!2024-10-07,17,302-->
+<!--SR:!2024-12-20,74,319!2024-10-07,17,302-->
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) ::: zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
 <!--SR:!2024-11-28,55,310!2024-12-15,69,322-->
 adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
@@ -51,7 +51,7 @@ affordable(adjective) (We offer good quality at affordable prices., This laptop 
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
 <!--SR:!2024-12-06,60,337!2024-12-11,66,322-->
 aids(noun) ::: Hilfsmittel, Hilfen, Hilfe, Beihilfen
-<!--SR:!2024-10-08,15,317!2024-10-07,17,302-->
+<!--SR:!2024-10-08,15,317!2024-12-16,70,322-->
 aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützung, Beihilfe, Hilfe, Fördermittel
 <!--SR:!2024-10-08,18,302!2024-10-11,18,317-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
@@ -341,7 +341,7 @@ to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
 <!--SR:!2024-10-07,6,347!2024-10-22,16,319-->
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
-<!--SR:!2024-10-23,19,359!2024-10-07,6,347-->
+<!--SR:!2024-10-23,19,359!2024-11-04,28,367-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
 <!--SR:!2024-10-22,16,347!2024-10-22,18,359-->
 to call attention(verb) () ::: aufmerksam machen
@@ -497,7 +497,7 @@ to compel(verb) (The rain compelled me to stay home., The contract compels the t
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
 <!--SR:!2024-10-17,11,325!2024-11-02,27,368-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
-<!--SR:!2024-10-24,20,365!2024-10-07,6,349-->
+<!--SR:!2024-10-24,20,365!2024-11-03,27,369-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2024-10-18,12,345!2024-10-27,21,369-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
