@@ -1,7 +1,0 @@
-## Arbeitgeber
-### Chancen
-
-
-### Risiken
-
-## Arbeitnehmer
