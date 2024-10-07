@@ -11,7 +11,7 @@
 ## Set
 ### Definition
 $\mathbb{N}$ := $\{0, 1, \ldots\}$ (Set of natural numbers)
-<!--SR:!2024-10-07,4,274-->
+<!--SR:!2024-10-23,16,294-->
 $\mathbb{N}^+$ := $\{1, 2, \ldots\}$ (Set of positive natural numbers)
 <!--SR:!2024-10-21,14,294-->
 $\mathbb{P}$ := $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
@@ -21,8 +21,8 @@ $\mathbb{Z}$ := $\{\ldots, -2, -1, 0, 1, 2, \ldots\}$ (Set of integers)
 $\emptyset$ := empty set
 <!--SR:!2024-10-16,10,270-->
 Important: $0$ is a natural number.
-For $x \in N$, $y \in N^+$ let $(x \mod y)$ = $x - zy$, where $z \in N$ is the greatest number with $zy \leq x$. := (just a reminder)
-<!--SR:!2024-10-07,4,274-->
+For $x \in N$, $y \in N^+$ let $(x \mod y)$ := $x - zy$, where $z \in N$ is the greatest number with $zy \leq x$. (just a reminder)
+<!--SR:!2024-10-22,15,294-->
 ### Element relationship and inclusion
 $a \in M$ ::: $a$ is an element of the set $M$
 <!--SR:!2024-10-22,15,294!2024-10-08,4,278-->
@@ -74,11 +74,11 @@ $g \circ f$ := $f : A \to C$ with $(g \circ f)(x)$ := $g(f(x))$ (composition of 
 $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of definition of f)
 <!--SR:!2024-10-13,7,254-->
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
-<!--SR:!2024-10-07,4,270-->
+<!--SR:!2024-10-17,10,270-->
 $f$ is total ::: $D_f = A$
 <!--SR:!2024-10-16,10,274!2024-10-08,4,279-->
 $f$ is surjective ::: $R_f = B$
-<!--SR:!2024-10-07,3,258!2024-10-14,8,254-->
+<!--SR:!2024-10-09,2,238!2024-10-14,8,254-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
 <!--SR:!2024-10-08,2,218!2024-10-15,8,254-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
