@@ -245,7 +245,7 @@ versus(preposition) (Today's rugby match is England versus France.) ::: gegen, c
 versus(noun) () ::: Rückseite einer Münze
 <!--SR:!2024-10-12,13,336!2024-10-19,19,332-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
-<!--SR:!2024-10-07,10,313!2024-10-19,20,355-->
+<!--SR:!2024-11-18,42,333!2024-10-19,20,355-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 <!--SR:!2024-10-19,20,353!2024-10-08,8,315-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
