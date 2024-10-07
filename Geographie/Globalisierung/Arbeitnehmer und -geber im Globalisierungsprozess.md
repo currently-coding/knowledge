@@ -2,21 +2,29 @@
 
 ### Chancen
 - Kostensenkung durch [[outsourcing]]
+- geringere Sicherheitsausgaben
+- geringerer Image-Verlust bei Unfällen
+- Marketingvorteile durch kulturellen Austausch
+- Konkurrenz- und Wettbewerbssicherheit(Forschung und Entwicklung)
 
 ### Risiken
 - Image: *Ausbeuterbetrieb*
+- globale Interdependenzen
+	- Zölle, Kriege, Katastrophen
 
 
 ## Arbeitnehmer
 
 ### Chancen
-- besserer Arbeitsplatz, da mehr internationale Aufmerksamkeit Standort unter Druck setzt
-
+- hoehere Loehne
+- mehr Arbeitsplaetze
+- Wertetransfer
+	- Mitbestimmung
+- mehr Kontrollen
+	- mehr Sicherheit
 ### Risiken
-
-
->[!Note]
->Outsourcing := Auslagerung von Produktionsschritten oder Dienstleistungen an ausländische Unternehmen
-<!--SR:!2024-10-20,15,290-->
->
->Bevorzugt werden Laender mit niedrigen Arbeits- und Betriebskosten oder Verfügbarkeit von Ressourcen und Arbeitskräften
+- unsicherer Arbeitsplatz -> Ersetzbarkeit
+- inhumane Arbeitsbedingungen
+	- lange Arbeitszeiten
+	- gefaehrliche Arbeitsbedingungen
+- wirtschaftliche und politische Einfluesse/Abhaengigkeit
