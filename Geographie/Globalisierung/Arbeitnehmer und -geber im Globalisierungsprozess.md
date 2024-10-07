@@ -6,18 +6,13 @@
 - geringerer Image-Verlust bei Unfällen
 - Marketingvorteile durch kulturellen Austausch
 - Konkurrenz- und Wettbewerbssicherheit(Forschung und Entwicklung)
-
 ### Risiken
 - Image: *Ausbeuterbetrieb*
 - globale Interdependenzen
 	- Zölle, Kriege, Katastrophen
-
-
-## Arbeitnehmer
-
 ### Chancen
-- hoehere Loehne
-- mehr Arbeitsplaetze
+- höhere Löhne
+- mehr Arbeitsplätze
 - Wertetransfer
 	- Mitbestimmung
 - mehr Kontrollen
@@ -26,5 +21,5 @@
 - unsicherer Arbeitsplatz -> Ersetzbarkeit
 - inhumane Arbeitsbedingungen
 	- lange Arbeitszeiten
-	- gefaehrliche Arbeitsbedingungen
-- wirtschaftliche und politische Einfluesse/Abhaengigkeit
+	- gefährliche Arbeitsbedingungen
+- wirtschaftliche und politische Einflüsse/Abhängigkeit
