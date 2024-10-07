@@ -43,7 +43,7 @@ adequate(adjective) (I finally received an adequate answer to my question., My i
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
 <!--SR:!2024-11-21,46,302!2024-10-08,14,317-->
 to adjust oneself(verb) () ::: sich anpassen
-<!--SR:!2024-10-07,16,321!2024-11-19,44,302-->
+<!--SR:!2024-12-18,72,341!2024-11-19,44,302-->
 to adjust oneself to(verb) () ::: sich anpassen an
 <!--SR:!2024-10-10,17,319!2024-11-11,41,302-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) ::: erschwinglich, bezahlbar, preiswert, kostengünstig
@@ -435,7 +435,7 @@ one-to-one tuition(noun) () ::: Einzelunterricht
 moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
 <!--SR:!2024-10-21,15,348!2024-10-17,13,345-->
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen
-<!--SR:!2024-10-07,6,349!2024-10-08,4,327-->
+<!--SR:!2024-11-01,25,369!2024-10-08,4,327-->
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 <!--SR:!2024-10-19,13,349!2024-10-08,4,327-->
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen, adressieren
@@ -487,7 +487,7 @@ to sanction(verb) (The committee sanctioned the expenditure for the project.) ::
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
 <!--SR:!2024-10-19,15,347!2024-10-22,16,349-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
-<!--SR:!2024-10-07,6,348!2024-10-28,22,367-->
+<!--SR:!2024-11-05,29,368!2024-10-28,22,367-->
 commander(noun) (The commander is in charge of the troop., The captain of a ship is also the commander of it.) ::: Kommandant, Befehlshaber, Kommandeur
 <!--SR:!2024-11-02,26,368!2024-10-25,19,366-->
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
