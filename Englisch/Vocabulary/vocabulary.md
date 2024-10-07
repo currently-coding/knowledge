@@ -66,12 +66,8 @@ ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwag
 <!--SR:!2024-10-09,16,316!2024-10-07,17,302-->
 amusing(adjective / present participle) (The comedy was very amusing.) ::: erheiternd, belustigend
 <!--SR:!2024-10-07,14,296!2024-12-15,70,322-->
-amusing oneself(present participle) () ::: sich unterhaltend
-<!--SR:!2024-11-11,42,302!2024-10-07,14,317-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
 <!--SR:!2024-10-09,16,317!2024-11-06,38,302-->
-to amuse oneself(verb) (The teenagers amused themselves at the fair.) ::: sich vergnügen, sich unterhalten, sich amüsieren
-<!--SR:!2024-11-14,44,317!2024-10-07,17,302-->
 ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfahr, Ahnin
 <!--SR:!2024-10-09,16,317!2024-10-07,17,302-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) ::: jährlich, alljährlich, einjährig
@@ -183,7 +179,7 @@ to tax(verb) (The government decided to tax corporate profits., He taxed her pat
 recession(noun) (The recession is over and unemployment is declining., The boom after the recession meant many new jobs for the unemployed., The company registered a recession in sales., We have now overcome the recession and business is booming.) ::: Rezession, Rückgang, Flaute
 <!--SR:!2024-10-08,15,330!2024-10-10,16,337-->
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
-<!--SR:!2024-10-11,14,290!2024-10-07,13,319-->
+<!--SR:!2024-10-11,14,290!2024-12-02,56,339-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
 <!--SR:!2024-10-12,19,331!2024-10-17,19,353-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
@@ -371,7 +367,7 @@ palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
 <!--SR:!2024-10-22,18,361!2024-10-24,18,359-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
-<!--SR:!2024-10-25,19,359!2024-10-07,6,347-->
+<!--SR:!2024-10-25,19,359!2024-11-04,28,367-->
 to revenge oneself(verb) () ::: sich rächen
 <!--SR:!2024-10-23,19,365!2024-10-16,15,339-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
@@ -413,9 +409,9 @@ to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun
 sigh(noun) () ::: Seufzer, Seufzen
 <!--SR:!2024-10-24,18,365!2024-10-30,24,367-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
-<!--SR:!2024-10-07,6,349!2024-10-27,21,367-->
+<!--SR:!2024-11-02,26,369!2024-10-27,21,367-->
 surveillance(noun) (The building is under surveillance., Satellites allow an exhaustive surveillance., The police have the suspect under surveillance.) ::: Überwachung, Aufsicht, Kontrolle
-<!--SR:!2024-10-07,6,347!2024-10-07,6,349-->
+<!--SR:!2024-10-07,6,347!2024-11-04,28,369-->
 restoration(noun) (The restoration of the old church took many years., Her job is the restoration of damaged artworks., The restoration of the castle took long, but it was worth it., The restoration of the castle took several years.) ::: Wiederherstellung, Restauration, Restaurierung
 <!--SR:!2024-10-24,18,365!2024-10-18,14,347-->
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
@@ -475,7 +471,7 @@ sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2024-10-24,18,367!2024-10-28,22,368-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
-<!--SR:!2024-10-08,4,327!2024-10-07,1,316-->
+<!--SR:!2024-10-08,4,327!2024-10-10,3,316-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
 <!--SR:!2024-10-24,18,368!2024-10-29,23,369-->
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
@@ -495,7 +491,7 @@ boost(noun) (The new model meant a boost to the sales., The donation gave the co
 commander(noun) (The commander is in charge of the troop., The captain of a ship is also the commander of it.) ::: Kommandant, Befehlshaber, Kommandeur
 <!--SR:!2024-10-07,6,348!2024-10-25,19,366-->
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
-<!--SR:!2024-10-07,6,349!2024-10-24,18,368-->
+<!--SR:!2024-11-03,27,369!2024-10-24,18,368-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
 <!--SR:!2024-10-23,17,367!2024-10-27,21,369-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
