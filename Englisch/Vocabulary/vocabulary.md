@@ -49,7 +49,7 @@ to adjust oneself to(verb) () ::: sich anpassen an
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) ::: erschwinglich, bezahlbar, preiswert, kostengünstig
 <!--SR:!2024-10-08,14,317!2024-12-07,62,322-->
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
-<!--SR:!2024-10-07,14,317!2024-12-11,66,322-->
+<!--SR:!2024-12-06,60,337!2024-12-11,66,322-->
 aids(noun) ::: Hilfsmittel, Hilfen, Hilfe, Beihilfen
 <!--SR:!2024-10-08,15,317!2024-10-07,17,302-->
 aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützung, Beihilfe, Hilfe, Fördermittel
@@ -417,7 +417,7 @@ restoration(noun) (The restoration of the old church took many years., Her job i
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
 <!--SR:!2024-10-13,9,329!2024-10-08,2,305-->
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
-<!--SR:!2024-10-07,6,348!2024-10-25,19,367-->
+<!--SR:!2024-10-10,3,328!2024-10-25,19,367-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
 <!--SR:!2024-10-29,23,367!2024-10-25,21,365-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
