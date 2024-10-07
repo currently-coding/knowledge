@@ -25,11 +25,11 @@ For $x \in N$, $y \in N^+$ let $(x \mod y)$ = $x - zy$, where $z \in N$ is the g
 <!--SR:!2024-10-07,4,274-->
 ### Element relationship and inclusion
 $a \in M$ ::: $a$ is an element of the set $M$
-<!--SR:!2024-10-07,4,274!2024-10-08,4,278-->
+<!--SR:!2024-10-22,15,294!2024-10-08,4,278-->
 $a \notin M$ ::: $a$ is no element of the set $M$
-<!--SR:!2024-10-08,4,278!2024-10-07,4,277-->
+<!--SR:!2024-10-08,4,278!2024-10-23,16,297-->
 $M \subseteq N$ ::: for all $a$, if $a \in M$, then $a \in N$
-<!--SR:!2024-10-07,4,274!2024-10-07,3,258-->
+<!--SR:!2024-10-22,15,294!2024-10-07,3,258-->
 $M \not\subseteq N$ ::: it does not hold $M \subseteq N$
 <!--SR:!2024-10-07,3,258!2024-10-07,4,274-->
 $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
@@ -56,7 +56,7 @@ $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in thi
 $A_1 \times A_2 \times \ldots \times A_n$ := $\{(a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ for all } i\}$ (Cartesian product of sets $A_1,A_2, \ldots, A_n$)
 <!--SR:!2024-10-14,8,257-->
 $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of set A)
-<!--SR:!2024-10-07,3,254-->
+<!--SR:!2024-10-19,12,274-->
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
 ## Quantifiers
 $\exists$ := “there exist(s)”
@@ -80,7 +80,7 @@ $f$ is total ::: $D_f = A$
 $f$ is surjective ::: $R_f = B$
 <!--SR:!2024-10-07,3,258!2024-10-14,8,254-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
-<!--SR:!2024-10-08,2,218!2024-10-06,3,254-->
+<!--SR:!2024-10-08,2,218!2024-10-15,8,254-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
 <!--SR:!2024-10-07,4,274!2024-10-08,4,278-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.
