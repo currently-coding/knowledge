@@ -33,7 +33,7 @@ $M \subseteq N$ ::: for all $a$, if $a \in M$, then $a \in N$
 $M \not\subseteq N$ ::: it does not hold $M \subseteq N$
 <!--SR:!2024-10-07,3,258!2024-10-07,4,274-->
 $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
-<!--SR:!2024-10-15,9,274!2024-10-07,3,258-->
+<!--SR:!2024-10-15,9,274!2024-10-19,12,278-->
 ### Operations
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
 <!--SR:!2024-10-08,2,194-->
@@ -48,7 +48,7 @@ $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
 <!--SR:!2024-10-07,1,214-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
-<!--SR:!2024-10-07,4,270!2024-10-08,3,259-->
+<!--SR:!2024-10-20,13,290!2024-10-08,3,259-->
 ## Tuple
 $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in this order (n-tuple, n-dimensional vector)
 <!--SR:!2024-10-07,4,274-->
