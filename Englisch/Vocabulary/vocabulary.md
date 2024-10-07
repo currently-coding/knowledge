@@ -7,7 +7,7 @@ to abstract(verb) (I will read the article and abstract the main ideas.) ::: tre
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2024-12-07,62,322!2024-12-13,68,310-->
 to accent(verb) ::: betonen, akzentuieren, hervorheben
-<!--SR:!2024-10-07,17,302!2024-12-14,69,319-->
+<!--SR:!2024-12-17,71,322!2024-12-14,69,319-->
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2024-12-11,66,322!2024-12-10,65,310-->
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
@@ -397,7 +397,7 @@ wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
 <!--SR:!2024-10-19,15,347!2024-10-25,19,369-->
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
-<!--SR:!2024-10-07,6,348!2024-10-23,19,361-->
+<!--SR:!2024-11-01,25,368!2024-10-23,19,361-->
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
 <!--SR:!2024-10-28,22,369!2024-10-08,2,305-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
@@ -421,11 +421,11 @@ to embrace(verb) (I embraced my friend before she got on the train., The book em
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
 <!--SR:!2024-10-29,23,367!2024-10-25,21,365-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
-<!--SR:!2024-10-07,6,349!2024-10-07,1,288-->
+<!--SR:!2024-10-10,3,329!2024-10-07,1,288-->
 transformation(noun) (The Internet has led to a transformation of society.) ::: Umwandlung, Transformation, Umsetzung
 <!--SR:!2024-10-27,21,369!2024-10-29,23,368-->
 rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellion, Aufstand, Aufruhr
-<!--SR:!2024-10-29,23,368!2024-10-07,6,348-->
+<!--SR:!2024-10-29,23,368!2024-11-02,26,368-->
 dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
 <!--SR:!2024-10-22,18,365!2024-11-01,26,368-->
 tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
@@ -453,7 +453,7 @@ awkward(adjective) (The speaker's greeting was very formal and awkward., He was 
 ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
 <!--SR:!2024-11-01,25,367!2024-10-28,22,369-->
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
-<!--SR:!2024-10-07,6,347!2024-10-07,6,349-->
+<!--SR:!2024-11-03,27,367!2024-10-07,6,349-->
 home(adjective) () ::: einheimisch, inländisch
 <!--SR:!2024-10-23,17,368!2024-10-23,17,345-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
@@ -477,7 +477,7 @@ systematic(adjective) () ::: systematisch, planmäßig, planvoll
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
 <!--SR:!2024-10-30,24,367!2024-11-02,26,368-->
 strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced the chicken into strips., A narrow strip of land connects the two islands., I used a strip of cloth to mend my dress., The tailor cut the fabric into strips., Me and the boys want to go on the strip tonight.) ::: Streifen, Band, Piste
-<!--SR:!2024-10-07,6,347!2024-10-07,6,349-->
+<!--SR:!2024-11-05,29,367!2024-10-07,6,349-->
 to strip(verb) (The electrician stripped the cable and installed the lamp., It is hard to strip wallpaper off a wall., We stripped the paint with sandpaper.) ::: abisolieren, abziehen, abkratzen
 <!--SR:!2024-10-09,3,307!2024-10-17,13,349-->
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
