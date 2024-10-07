@@ -46,7 +46,7 @@ $A - B$ := $A \setminus B$ (Difference of A and B)
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 <!--SR:!2024-10-12,6,254-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
-<!--SR:!2024-10-07,1,214-->
+<!--SR:!2024-10-10,3,234-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
 <!--SR:!2024-10-20,13,290!2024-10-08,3,259-->
 ## Tuple
@@ -60,7 +60,7 @@ $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
 ## Quantifiers
 $\exists$ := “there exist(s)”
-<!--SR:!2024-10-07,4,274-->
+<!--SR:!2024-10-24,17,294-->
 $\forall$ := “for all”
 <!--SR:!2024-10-20,13,297-->
 ## Functions
