@@ -459,13 +459,13 @@ home(adjective) () ::: einheimisch, inländisch
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
 <!--SR:!2024-10-07,6,348!2024-10-25,21,365-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
-<!--SR:!2024-10-24,18,369!2024-10-07,3,307-->
+<!--SR:!2024-10-24,18,369!2024-10-19,12,327-->
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
 <!--SR:!2024-10-23,17,368!2024-11-02,26,367-->
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first.) ::: entfernen, beseitigen, beheben
 <!--SR:!2024-10-29,23,368!2024-10-23,17,368-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
-<!--SR:!2024-10-07,6,349!2024-10-11,5,356-->
+<!--SR:!2024-11-07,31,369!2024-10-11,5,356-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2024-11-02,27,369!2024-10-27,21,367-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
