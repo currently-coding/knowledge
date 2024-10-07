@@ -8,7 +8,6 @@
 - steuert Standorte/Niederlassungen in vielen Ländern
 - zielt auf Globalen Markt(Absatz & Beschaffung)
 
-a -> b
 
 ![[outsourcing]]
 
