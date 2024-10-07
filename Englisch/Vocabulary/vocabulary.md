@@ -65,7 +65,7 @@ altogether(adverb) (He needed two hours to finish his project altogether., Altog
 ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwagen, Ambulanz, Rettungswagen
 <!--SR:!2024-10-09,16,316!2024-12-14,68,322-->
 amusing(adjective / present participle) (The comedy was very amusing.) ::: erheiternd, belustigend
-<!--SR:!2024-10-07,14,296!2024-12-15,70,322-->
+<!--SR:!2024-12-03,57,316!2024-12-15,70,322-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
 <!--SR:!2024-10-09,16,317!2024-11-06,38,302-->
 ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfahr, Ahnin
