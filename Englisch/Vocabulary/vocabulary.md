@@ -339,7 +339,7 @@ compound(adjective) (The lesson was about compound adjectives.) ::: zusammengese
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 <!--SR:!2024-10-14,13,339!2024-10-25,19,368-->
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
-<!--SR:!2024-10-07,6,347!2024-10-22,16,319-->
+<!--SR:!2024-11-05,29,367!2024-10-22,16,319-->
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
 <!--SR:!2024-10-23,19,359!2024-11-04,28,367-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
@@ -349,7 +349,7 @@ to call attention(verb) () ::: aufmerksam machen
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
 <!--SR:!2024-10-22,18,361!2024-10-27,21,359-->
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
-<!--SR:!2024-10-07,6,348!2024-10-18,14,341-->
+<!--SR:!2024-11-01,25,368!2024-10-18,14,341-->
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
 <!--SR:!2024-10-24,20,359!2024-10-23,19,365-->
 Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction
@@ -461,7 +461,7 @@ helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: H
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
 <!--SR:!2024-10-24,18,369!2024-10-07,3,307-->
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
-<!--SR:!2024-10-23,17,368!2024-10-07,6,347-->
+<!--SR:!2024-10-23,17,368!2024-11-02,26,367-->
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first.) ::: entfernen, beseitigen, beheben
 <!--SR:!2024-10-29,23,368!2024-10-23,17,368-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
@@ -481,7 +481,7 @@ strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced 
 to strip(verb) (The electrician stripped the cable and installed the lamp., It is hard to strip wallpaper off a wall., We stripped the paint with sandpaper.) ::: abisolieren, abziehen, abkratzen
 <!--SR:!2024-10-09,3,307!2024-10-17,13,349-->
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
-<!--SR:!2024-10-13,9,327!2024-10-07,6,348-->
+<!--SR:!2024-10-13,9,327!2024-11-06,30,368-->
 to sanction(verb) (The committee sanctioned the expenditure for the project.) ::: genehmigen, sanktionieren, billigen
 <!--SR:!2024-10-28,21,349!2024-10-10,4,307-->
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
