@@ -39,7 +39,7 @@ additional(adjective) (Additional information can be found on the website., This
 adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
 <!--SR:!2024-10-08,18,302!2024-10-09,15,317-->
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) ::: angemessen, hinreichend, ausreichend
-<!--SR:!2024-10-07,17,302!2024-10-09,16,316-->
+<!--SR:!2024-12-15,69,322!2024-10-09,16,316-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
 <!--SR:!2024-11-21,46,302!2024-10-08,14,317-->
 to adjust oneself(verb) () ::: sich anpassen
@@ -61,7 +61,7 @@ alongside(preposition) (I love walking alongside the river.) ::: neben, entlang,
 alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längsseits
 <!--SR:!2024-10-22,24,282!2024-10-08,15,317-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) ::: insgesamt, im Ganzen, alles in allem
-<!--SR:!2024-12-10,65,322!2024-10-07,14,316-->
+<!--SR:!2024-12-10,65,322!2024-12-06,60,336-->
 ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwagen, Ambulanz, Rettungswagen
 <!--SR:!2024-10-09,16,316!2024-12-14,68,322-->
 amusing(adjective / present participle) (The comedy was very amusing.) ::: erheiternd, belustigend
@@ -447,7 +447,7 @@ to consult(verb) (If the symptoms persist, consult your doctor., I will consult 
 consult(noun) () ::: Befragung
 <!--SR:!2024-10-10,4,309!2024-10-10,4,305-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
-<!--SR:!2024-10-29,23,369!2024-10-07,6,347-->
+<!--SR:!2024-10-29,23,369!2024-11-09,33,367-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
 <!--SR:!2024-10-08,2,327!2024-10-18,12,348-->
 ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
@@ -457,7 +457,7 @@ homeless(adjective) (He has finally found a home and is no longer homeless., The
 home(adjective) () ::: einheimisch, inländisch
 <!--SR:!2024-10-23,17,368!2024-10-23,17,345-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
-<!--SR:!2024-10-07,6,348!2024-10-25,21,365-->
+<!--SR:!2024-11-08,32,368!2024-10-25,21,365-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
 <!--SR:!2024-10-24,18,369!2024-10-19,12,327-->
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
