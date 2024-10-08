@@ -57,7 +57,7 @@ Definition := Der Compiler allokiert Speicher für die Variable
 
 <!--SR:!2025-01-24,160,310-->
 Initialisierung := Der Variable wird ein initialer Wert zugewiesen
-<!--SR:!2024-10-07,4,281-->
+<!--SR:!2024-10-22,15,301-->
 
 
 <!--SR:!2025-03-23,218,330-->

@@ -1,10 +1,3 @@
-go above and beyond
-excruciating
-
-fathom
-Nonetheless
-strain
-creativity
 distinguish
 resume
 lane
