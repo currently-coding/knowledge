@@ -27,7 +27,7 @@ accurate(adjective) (We need accurate figures with two digits after the decimal 
 acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
 <!--SR:!2024-11-21,46,302!2024-11-28,55,310-->
 acid(adjective) (I do not like acid fruits.) ::: sauer
-<!--SR:!2024-10-08,18,314!2024-12-03,60,319-->
+<!--SR:!2024-12-24,77,334!2024-12-03,60,319-->
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) ::: aktivieren, betätigen, freischalten, einschalten, auslösen
 <!--SR:!2024-12-05,60,322!2024-11-26,51,310-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) ::: Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
@@ -381,7 +381,7 @@ to thrill(verb) (The audience was thrilled by the dance performance.) ::: erfreu
 harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschlupf
 <!--SR:!2024-10-19,15,339!2024-10-10,4,327-->
 to harbour(verb) (A dishcloth can harbour germs.) ::: beherbergen, bergen, hegen
-<!--SR:!2024-10-13,12,339!2024-10-08,4,328-->
+<!--SR:!2024-10-13,12,339!2024-10-25,17,348-->
 to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern
 <!--SR:!2024-10-27,21,367!2024-10-20,16,319-->
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren
