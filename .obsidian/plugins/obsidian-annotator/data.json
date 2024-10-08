@@ -2,14 +2,14 @@
   "deafultDarkMode": true,
   "darkReaderSettings": {
     "brightness": 150,
-    "contrast": 85,
-    "sepia": 0
+    "contrast": 150,
+    "sepia": 100
   },
   "debugLogging": false,
   "customDefaultPath": "",
   "epubSettings": {
     "readingMode": "pagination",
-    "fontSize": 100
+    "fontSize": 90
   },
   "annotationMarkdownSettings": {
     "annotationModeByDefault": true,
