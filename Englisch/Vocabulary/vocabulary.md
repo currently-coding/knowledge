@@ -355,7 +355,7 @@ to interpret(verb) (Every critic interpreted the play differently., I am not sur
 Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction
 <!--SR:!2024-10-20,14,345!2024-10-22,18,361-->
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig
-<!--SR:!2024-10-08,4,328!2024-10-21,15,319-->
+<!--SR:!2024-10-22,14,328!2024-10-21,15,319-->
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon
 <!--SR:!2024-10-24,20,359!2024-10-22,16,341-->
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem
