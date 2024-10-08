@@ -40,10 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-10-06",
-  "buryList": [
-    "8c52d21053c7a",
-    "727d4fba90bd6"
-  ],
+  "buryDate": "2024-10-08",
+  "buryList": [],
   "historyDeck": null
 }
