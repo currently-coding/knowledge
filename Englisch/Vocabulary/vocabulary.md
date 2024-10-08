@@ -273,7 +273,7 @@ besides(adverb) (I am overqualified for the job, and besides, I have another off
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2024-10-24,16,347!2024-10-21,15,317-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
-<!--SR:!2024-10-13,9,328!2024-10-08,2,257-->
+<!--SR:!2024-10-13,9,328!2024-10-14,6,277-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden
 <!--SR:!2024-10-09,9,317!2024-10-21,17,359-->
 to fulfil(verb) (He fulfilled his childhood dream.) ::: verwirklichen, erbringen
