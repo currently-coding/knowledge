@@ -11,7 +11,7 @@ to accent(verb) ::: betonen, akzentuieren, hervorheben
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2024-12-11,66,322!2024-12-10,65,310-->
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
-<!--SR:!2024-11-08,40,290!2024-10-08,18,302-->
+<!--SR:!2024-11-08,40,290!2024-12-18,71,322-->
 to accommodate oneself(verb) () ::: sich akkommodieren
 <!--SR:!2024-11-13,44,290!2024-11-02,34,302-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
@@ -37,7 +37,7 @@ additionally(adverb) (Additionally, you will receive a discount on your next boo
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) ::: zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
 <!--SR:!2024-11-28,55,310!2024-12-15,69,322-->
 adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
-<!--SR:!2024-10-08,18,302!2024-10-09,15,317-->
+<!--SR:!2024-12-21,74,322!2024-10-09,15,317-->
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) ::: angemessen, hinreichend, ausreichend
 <!--SR:!2024-12-15,69,322!2024-10-09,16,316-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
@@ -51,9 +51,9 @@ affordable(adjective) (We offer good quality at affordable prices., This laptop 
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
 <!--SR:!2024-12-06,60,337!2024-12-11,66,322-->
 aids(noun) ::: Hilfsmittel, Hilfen, Hilfe, Beihilfen
-<!--SR:!2024-10-08,15,317!2024-12-16,70,322-->
+<!--SR:!2024-12-11,64,337!2024-12-16,70,322-->
 aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützung, Beihilfe, Hilfe, Fördermittel
-<!--SR:!2024-10-08,18,302!2024-10-11,18,317-->
+<!--SR:!2024-12-20,73,322!2024-10-11,18,317-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
 <!--SR:!2024-10-09,16,321!2024-11-12,42,302-->
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
@@ -77,7 +77,7 @@ to merge(verb) (In the author's new book reality and fantasy merge seamlessly., 
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) ::: Verschmelzung, Fusion, Zusammenschluss
 <!--SR:!2024-11-16,43,323!2024-10-09,16,301-->
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
-<!--SR:!2024-10-08,15,323!2024-10-10,17,301-->
+<!--SR:!2024-12-13,66,343!2024-10-10,17,301-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
 <!--SR:!2024-11-22,49,320!2024-10-12,19,319-->
 free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
@@ -271,7 +271,7 @@ besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted 
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
 <!--SR:!2024-11-03,27,367!2024-10-22,18,337-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
-<!--SR:!2024-10-08,4,327!2024-10-21,15,317-->
+<!--SR:!2024-10-24,16,347!2024-10-21,15,317-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
 <!--SR:!2024-10-13,9,328!2024-10-08,2,257-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden
@@ -399,7 +399,7 @@ upgrade(noun) (There is an upgrade available for this software., Currently, ther
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
 <!--SR:!2024-11-01,25,368!2024-10-23,19,361-->
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
-<!--SR:!2024-10-28,22,369!2024-10-08,2,305-->
+<!--SR:!2024-10-28,22,369!2024-10-13,5,305-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
 <!--SR:!2024-10-16,12,341!2024-10-25,19,345-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
@@ -471,7 +471,7 @@ sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2024-10-24,18,367!2024-10-28,22,368-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
-<!--SR:!2024-10-08,4,327!2024-10-10,3,316-->
+<!--SR:!2024-10-10,2,307!2024-10-10,3,316-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
 <!--SR:!2024-10-24,18,368!2024-10-29,23,369-->
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
