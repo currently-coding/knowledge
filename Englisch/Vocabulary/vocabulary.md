@@ -7,11 +7,11 @@ to abstract(verb) (I will read the article and abstract the main ideas.) ::: tre
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2024-12-07,62,322!2024-12-13,68,310-->
 to accent(verb) ::: betonen, akzentuieren, hervorheben
-<!--SR:!2024-10-07,17,302!2024-12-14,69,319-->
+<!--SR:!2024-12-17,71,322!2024-12-14,69,319-->
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2024-12-11,66,322!2024-12-10,65,310-->
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
-<!--SR:!2024-11-08,40,290!2024-10-08,18,302-->
+<!--SR:!2024-11-08,40,290!2024-12-18,71,322-->
 to accommodate oneself(verb) () ::: sich akkommodieren
 <!--SR:!2024-11-13,44,290!2024-11-02,34,302-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
@@ -27,33 +27,33 @@ accurate(adjective) (We need accurate figures with two digits after the decimal 
 acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
 <!--SR:!2024-11-21,46,302!2024-11-28,55,310-->
 acid(adjective) (I do not like acid fruits.) ::: sauer
-<!--SR:!2024-10-08,18,314!2024-12-03,60,319-->
+<!--SR:!2024-12-24,77,334!2024-12-03,60,319-->
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) ::: aktivieren, betätigen, freischalten, einschalten, auslösen
 <!--SR:!2024-12-05,60,322!2024-11-26,51,310-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) ::: Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
-<!--SR:!2024-10-07,17,302!2024-11-24,51,310-->
+<!--SR:!2024-12-16,70,322!2024-11-24,51,310-->
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) ::: zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei
-<!--SR:!2024-10-07,18,299!2024-10-07,17,302-->
+<!--SR:!2024-12-20,74,319!2024-10-07,17,302-->
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) ::: zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
-<!--SR:!2024-11-28,55,310!2024-10-07,17,302-->
+<!--SR:!2024-11-28,55,310!2024-12-15,69,322-->
 adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
-<!--SR:!2024-10-08,18,302!2024-10-09,15,317-->
+<!--SR:!2024-12-21,74,322!2024-10-09,15,317-->
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) ::: angemessen, hinreichend, ausreichend
-<!--SR:!2024-10-07,17,302!2024-10-09,16,316-->
+<!--SR:!2024-12-15,69,322!2024-10-09,16,316-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
 <!--SR:!2024-11-21,46,302!2024-10-08,14,317-->
 to adjust oneself(verb) () ::: sich anpassen
-<!--SR:!2024-10-07,16,321!2024-11-19,44,302-->
+<!--SR:!2024-12-18,72,341!2024-11-19,44,302-->
 to adjust oneself to(verb) () ::: sich anpassen an
 <!--SR:!2024-10-10,17,319!2024-11-11,41,302-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) ::: erschwinglich, bezahlbar, preiswert, kostengünstig
 <!--SR:!2024-10-08,14,317!2024-12-07,62,322-->
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
-<!--SR:!2024-10-07,14,317!2024-12-11,66,322-->
+<!--SR:!2024-12-06,60,337!2024-12-11,66,322-->
 aids(noun) ::: Hilfsmittel, Hilfen, Hilfe, Beihilfen
-<!--SR:!2024-10-08,15,317!2024-10-07,17,302-->
+<!--SR:!2024-12-11,64,337!2024-12-16,70,322-->
 aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützung, Beihilfe, Hilfe, Fördermittel
-<!--SR:!2024-10-08,18,302!2024-10-11,18,317-->
+<!--SR:!2024-12-20,73,322!2024-10-11,18,317-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
 <!--SR:!2024-10-09,16,321!2024-11-12,42,302-->
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
@@ -61,19 +61,15 @@ alongside(preposition) (I love walking alongside the river.) ::: neben, entlang,
 alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längsseits
 <!--SR:!2024-10-22,24,282!2024-10-08,15,317-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) ::: insgesamt, im Ganzen, alles in allem
-<!--SR:!2024-12-10,65,322!2024-10-07,14,316-->
+<!--SR:!2024-12-10,65,322!2024-12-06,60,336-->
 ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwagen, Ambulanz, Rettungswagen
-<!--SR:!2024-10-09,16,316!2024-10-07,17,302-->
+<!--SR:!2024-10-09,16,316!2024-12-14,68,322-->
 amusing(adjective / present participle) (The comedy was very amusing.) ::: erheiternd, belustigend
-<!--SR:!2024-10-07,14,296!2024-12-15,70,322-->
-amusing oneself(present participle) () ::: sich unterhaltend
-<!--SR:!2024-11-11,42,302!2024-10-07,14,317-->
+<!--SR:!2024-12-03,57,316!2024-12-15,70,322-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
 <!--SR:!2024-10-09,16,317!2024-11-06,38,302-->
-to amuse oneself(verb) (The teenagers amused themselves at the fair.) ::: sich vergnügen, sich unterhalten, sich amüsieren
-<!--SR:!2024-11-14,44,317!2024-10-07,17,302-->
 ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfahr, Ahnin
-<!--SR:!2024-10-09,16,317!2024-10-07,17,302-->
+<!--SR:!2024-10-09,16,317!2024-12-13,67,322-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) ::: jährlich, alljährlich, einjährig
 <!--SR:!2024-10-09,16,319!2024-10-09,16,319-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) ::: verschmelzen, fusionieren, zusammenfügen
@@ -81,7 +77,7 @@ to merge(verb) (In the author's new book reality and fantasy merge seamlessly., 
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) ::: Verschmelzung, Fusion, Zusammenschluss
 <!--SR:!2024-11-16,43,323!2024-10-09,16,301-->
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
-<!--SR:!2024-10-08,15,323!2024-10-10,17,301-->
+<!--SR:!2024-12-13,66,343!2024-10-10,17,301-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
 <!--SR:!2024-11-22,49,320!2024-10-12,19,319-->
 free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
@@ -183,7 +179,7 @@ to tax(verb) (The government decided to tax corporate profits., He taxed her pat
 recession(noun) (The recession is over and unemployment is declining., The boom after the recession meant many new jobs for the unemployed., The company registered a recession in sales., We have now overcome the recession and business is booming.) ::: Rezession, Rückgang, Flaute
 <!--SR:!2024-10-08,15,330!2024-10-10,16,337-->
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
-<!--SR:!2024-10-11,14,290!2024-10-07,13,319-->
+<!--SR:!2024-10-11,14,290!2024-12-02,56,339-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
 <!--SR:!2024-10-12,19,331!2024-10-17,19,353-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
@@ -249,7 +245,7 @@ versus(preposition) (Today's rugby match is England versus France.) ::: gegen, c
 versus(noun) () ::: Rückseite einer Münze
 <!--SR:!2024-10-12,13,336!2024-10-19,19,332-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
-<!--SR:!2024-10-07,10,313!2024-10-19,20,355-->
+<!--SR:!2024-11-18,42,333!2024-10-19,20,355-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 <!--SR:!2024-10-19,20,353!2024-10-08,8,315-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
@@ -273,9 +269,9 @@ to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
 <!--SR:!2024-10-19,18,357!2024-10-16,12,345-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
-<!--SR:!2024-10-07,6,347!2024-10-22,18,337-->
+<!--SR:!2024-11-03,27,367!2024-10-22,18,337-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
-<!--SR:!2024-10-08,4,327!2024-10-21,15,317-->
+<!--SR:!2024-10-24,16,347!2024-10-21,15,317-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
 <!--SR:!2024-10-13,9,328!2024-10-08,2,257-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, genügen, gerecht werden
@@ -295,7 +291,7 @@ trauma(noun as adjective) () :::  Trauma(noun) (Patienten, die ein Trauma erlebt
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
 <!--SR:!2024-10-23,17,361!2024-10-21,17,337-->
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first., I will remove the dirt from the stairs., I removed the old battery and installed a new one.) ::: entfernen, beseitigen, entnehmen
-<!--SR:!2024-10-22,21,357!2024-10-07,6,349-->
+<!--SR:!2024-10-22,21,357!2024-11-05,29,369-->
 to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen
 <!--SR:!2024-10-25,19,369!2024-10-20,19,357-->
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
@@ -339,13 +335,13 @@ to reside(verb) (My parents reside in another country., During our last vacation
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
 <!--SR:!2024-10-22,18,361!2024-10-26,20,359-->
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
-<!--SR:!2024-10-07,6,348!2024-10-21,17,359-->
+<!--SR:!2024-11-03,27,368!2024-10-21,17,359-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 <!--SR:!2024-10-14,13,339!2024-10-25,19,368-->
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
-<!--SR:!2024-10-07,6,347!2024-10-22,16,319-->
+<!--SR:!2024-11-05,29,367!2024-10-22,16,319-->
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
-<!--SR:!2024-10-23,19,359!2024-10-07,6,347-->
+<!--SR:!2024-10-23,19,359!2024-11-04,28,367-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
 <!--SR:!2024-10-22,16,347!2024-10-22,18,359-->
 to call attention(verb) () ::: aufmerksam machen
@@ -353,7 +349,7 @@ to call attention(verb) () ::: aufmerksam machen
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
 <!--SR:!2024-10-22,18,361!2024-10-27,21,359-->
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
-<!--SR:!2024-10-07,6,348!2024-10-18,14,341-->
+<!--SR:!2024-11-01,25,368!2024-10-18,14,341-->
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
 <!--SR:!2024-10-24,20,359!2024-10-23,19,365-->
 Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction
@@ -371,7 +367,7 @@ palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
 <!--SR:!2024-10-22,18,361!2024-10-24,18,359-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
-<!--SR:!2024-10-25,19,359!2024-10-07,6,347-->
+<!--SR:!2024-10-25,19,359!2024-11-04,28,367-->
 to revenge oneself(verb) () ::: sich rächen
 <!--SR:!2024-10-23,19,365!2024-10-16,15,339-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
@@ -385,7 +381,7 @@ to thrill(verb) (The audience was thrilled by the dance performance.) ::: erfreu
 harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschlupf
 <!--SR:!2024-10-19,15,339!2024-10-10,4,327-->
 to harbour(verb) (A dishcloth can harbour germs.) ::: beherbergen, bergen, hegen
-<!--SR:!2024-10-13,12,339!2024-10-08,4,328-->
+<!--SR:!2024-10-13,12,339!2024-10-25,17,348-->
 to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern
 <!--SR:!2024-10-27,21,367!2024-10-20,16,319-->
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren
@@ -401,9 +397,9 @@ wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
 <!--SR:!2024-10-19,15,347!2024-10-25,19,369-->
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
-<!--SR:!2024-10-07,6,348!2024-10-23,19,361-->
+<!--SR:!2024-11-01,25,368!2024-10-23,19,361-->
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
-<!--SR:!2024-10-28,22,369!2024-10-08,2,305-->
+<!--SR:!2024-10-28,22,369!2024-10-13,5,305-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
 <!--SR:!2024-10-16,12,341!2024-10-25,19,345-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
@@ -413,23 +409,23 @@ to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun
 sigh(noun) () ::: Seufzer, Seufzen
 <!--SR:!2024-10-24,18,365!2024-10-30,24,367-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
-<!--SR:!2024-10-07,6,349!2024-10-27,21,367-->
+<!--SR:!2024-11-02,26,369!2024-10-27,21,367-->
 surveillance(noun) (The building is under surveillance., Satellites allow an exhaustive surveillance., The police have the suspect under surveillance.) ::: Überwachung, Aufsicht, Kontrolle
-<!--SR:!2024-10-07,6,347!2024-10-07,6,349-->
+<!--SR:!2024-10-07,6,347!2024-11-04,28,369-->
 restoration(noun) (The restoration of the old church took many years., Her job is the restoration of damaged artworks., The restoration of the castle took long, but it was worth it., The restoration of the castle took several years.) ::: Wiederherstellung, Restauration, Restaurierung
 <!--SR:!2024-10-24,18,365!2024-10-18,14,347-->
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
 <!--SR:!2024-10-13,9,329!2024-10-08,2,305-->
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
-<!--SR:!2024-10-07,6,348!2024-10-25,19,367-->
+<!--SR:!2024-10-10,3,328!2024-10-25,19,367-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
 <!--SR:!2024-10-29,23,367!2024-10-25,21,365-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
-<!--SR:!2024-10-07,6,349!2024-10-07,1,288-->
+<!--SR:!2024-10-10,3,329!2024-10-07,1,288-->
 transformation(noun) (The Internet has led to a transformation of society.) ::: Umwandlung, Transformation, Umsetzung
 <!--SR:!2024-10-27,21,369!2024-10-29,23,368-->
 rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellion, Aufstand, Aufruhr
-<!--SR:!2024-10-29,23,368!2024-10-07,6,348-->
+<!--SR:!2024-10-29,23,368!2024-11-02,26,368-->
 dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
 <!--SR:!2024-10-22,18,365!2024-11-01,26,368-->
 tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
@@ -439,11 +435,11 @@ one-to-one tuition(noun) () ::: Einzelunterricht
 moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
 <!--SR:!2024-10-21,15,348!2024-10-17,13,345-->
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen
-<!--SR:!2024-10-07,6,349!2024-10-08,4,327-->
+<!--SR:!2024-11-01,25,369!2024-10-08,4,327-->
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 <!--SR:!2024-10-19,13,349!2024-10-08,4,327-->
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen, adressieren
-<!--SR:!2024-10-05,4,348!2024-10-26,20,367-->
+<!--SR:!2024-10-20,13,348!2024-10-26,20,367-->
 to address oneself to(verb) () ::: sich etw. widmen
 <!--SR:!2024-10-10,4,328!2024-10-08,4,305-->
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
@@ -451,60 +447,69 @@ to consult(verb) (If the symptoms persist, consult your doctor., I will consult 
 consult(noun) () ::: Befragung
 <!--SR:!2024-10-10,4,309!2024-10-10,4,305-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
-<!--SR:!2024-10-29,23,369!2024-10-07,6,347-->
+<!--SR:!2024-10-29,23,369!2024-11-09,33,367-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
 <!--SR:!2024-10-08,2,327!2024-10-18,12,348-->
 ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
-<!--SR:!2024-10-07,6,347!2024-10-28,22,369-->
+<!--SR:!2024-11-01,25,367!2024-10-28,22,369-->
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
-<!--SR:!2024-10-07,6,347!2024-10-07,6,349-->
+<!--SR:!2024-11-03,27,367!2024-10-07,6,349-->
 home(adjective) () ::: einheimisch, inländisch
 <!--SR:!2024-10-23,17,368!2024-10-23,17,345-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
-<!--SR:!2024-10-07,6,348!2024-10-25,21,365-->
+<!--SR:!2024-11-08,32,368!2024-10-25,21,365-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
-<!--SR:!2024-10-24,18,369!2024-10-07,3,307-->
+<!--SR:!2024-10-24,18,369!2024-10-19,12,327-->
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
-<!--SR:!2024-10-23,17,368!2024-10-07,6,347-->
+<!--SR:!2024-10-23,17,368!2024-11-02,26,367-->
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first.) ::: entfernen, beseitigen, beheben
 <!--SR:!2024-10-29,23,368!2024-10-23,17,368-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
-<!--SR:!2024-10-07,6,349!2024-10-11,5,356-->
+<!--SR:!2024-11-07,31,369!2024-10-11,5,356-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2024-11-02,27,369!2024-10-27,21,367-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2024-10-24,18,367!2024-10-28,22,368-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
-<!--SR:!2024-10-08,4,327!2024-10-07,1,316-->
+<!--SR:!2024-10-10,2,307!2024-10-10,3,316-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
 <!--SR:!2024-10-24,18,368!2024-10-29,23,369-->
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
-<!--SR:!2024-10-30,24,367!2024-10-07,6,348-->
+<!--SR:!2024-10-30,24,367!2024-11-02,26,368-->
 strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced the chicken into strips., A narrow strip of land connects the two islands., I used a strip of cloth to mend my dress., The tailor cut the fabric into strips., Me and the boys want to go on the strip tonight.) ::: Streifen, Band, Piste
-<!--SR:!2024-10-07,6,347!2024-10-07,6,349-->
+<!--SR:!2024-11-05,29,367!2024-10-07,6,349-->
 to strip(verb) (The electrician stripped the cable and installed the lamp., It is hard to strip wallpaper off a wall., We stripped the paint with sandpaper.) ::: abisolieren, abziehen, abkratzen
 <!--SR:!2024-10-09,3,307!2024-10-17,13,349-->
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
-<!--SR:!2024-10-13,9,327!2024-10-07,6,348-->
+<!--SR:!2024-10-13,9,327!2024-11-06,30,368-->
 to sanction(verb) (The committee sanctioned the expenditure for the project.) ::: genehmigen, sanktionieren, billigen
-<!--SR:!2024-10-07,6,349!2024-10-10,4,307-->
+<!--SR:!2024-10-28,21,349!2024-10-10,4,307-->
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
 <!--SR:!2024-10-19,15,347!2024-10-22,16,349-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
-<!--SR:!2024-10-07,6,348!2024-10-28,22,367-->
+<!--SR:!2024-11-05,29,368!2024-10-28,22,367-->
 commander(noun) (The commander is in charge of the troop., The captain of a ship is also the commander of it.) ::: Kommandant, Befehlshaber, Kommandeur
-<!--SR:!2024-10-07,6,348!2024-10-25,19,366-->
+<!--SR:!2024-11-02,26,368!2024-10-25,19,366-->
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
-<!--SR:!2024-10-07,6,349!2024-10-24,18,368-->
+<!--SR:!2024-11-03,27,369!2024-10-24,18,368-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
 <!--SR:!2024-10-23,17,367!2024-10-27,21,369-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
 <!--SR:!2024-10-17,11,325!2024-11-02,27,368-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
-<!--SR:!2024-10-24,20,365!2024-10-07,6,349-->
+<!--SR:!2024-10-24,20,365!2024-11-03,27,369-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2024-10-18,12,345!2024-10-27,21,369-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
 <!--SR:!2024-10-13,9,325!2024-10-28,22,367-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
 <!--SR:!2024-10-09,3,336!2024-10-28,22,368-->
+excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich 
+to excruciate(verb) () ::: quälen 
+to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen 
+fathom(noun) (A fathom is a unit to measure the depth of water.) ::: Faden, nautischer Faden, Klafter 
+nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl 
+strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm 
+to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen 
+creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: Kreativität, Schaffen, Schöpferkraft 
+creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch 

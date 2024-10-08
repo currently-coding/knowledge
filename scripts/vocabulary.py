@@ -1,4 +1,3 @@
-import json
 from time import sleep
 import requests
 import os
@@ -12,7 +11,7 @@ guess_direction = False
 follow_corrections = "always"
 
 in_file = "wordlist.md"
-out_file = "../00 Karteikarten 1/English/vocabulary.md"
+out_file = "../Englisch/Vocabulary/vocabulary.md"
 
 output_with_examples = (True, False)
 separator = ":::"
@@ -130,10 +129,11 @@ for word in new_words:
 
     new_entries.extend(process_translations(data, output_with_examples))
 
+print("Writing data to output file...")
+write_output(out_file, new_entries)
+
 print("Requests complete. Removing words from file...")
 replace_file(in_file + ".tmp", in_file)
 
-print("Writing data to output file...")
-write_output(out_file, new_entries)
 
 print("Execution successful. Exiting...")
