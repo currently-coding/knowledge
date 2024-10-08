@@ -1,4 +1,3 @@
-> [!NOTE]
 > Der **schnelle** Tag ist hin / die Nacht schwingt ihre Fahn / - geht schnell
 > Und führt die Sternen auff. Der Menschen müde Scharen
 > Verlassen feld und werck / Wo Thier und Vögel waren
@@ -9,7 +8,6 @@
 > Ich / du / und was man hat / und was man siht / hinfahren.
 > Diß Leben kömmt mir vor alß eine **renne bahn.** - schnell
 > 
-> ---
 > 
 > Laß höchster Gott mich doch nicht auff dem Lauffplatz gleiten
 > Laß mich nicht ach / nicht pracht / nicht lust / nicht angst verleiten.
