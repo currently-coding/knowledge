@@ -8,5 +8,3 @@ graph TD;
 ```
 
 ### > **Wer** produziert **was**, **wie**, fuer **wen**?
-
-#learn 

@@ -17,5 +17,3 @@
 
 ### Rise again?
 - cheap property -> businesses returning
-
-#learn 
