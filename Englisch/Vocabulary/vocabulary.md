@@ -41,6 +41,7 @@ adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) ::: angemessen, hinreichend, ausreichend
 <!--SR:!2024-12-15,69,322!2024-12-17,69,336-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
+<!--SR:!2000-01-01,1,250!2024-10-13,4,361-->
 to adjust oneself(verb) () ::: sich anpassen
 <!--SR:!2024-12-18,72,341!2024-11-19,44,302-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) ::: erschwinglich, bezahlbar, preiswert, kostengünstig
@@ -100,7 +101,7 @@ fund(noun) (The city set up a fund to help the homeless., The charity is respons
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) ::: finanzieren, anlegen, investieren
 <!--SR:!2024-12-14,66,350!2024-11-03,30,339-->
 deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
-<!--SR:!2024-10-09,15,331!2024-10-10,17,326-->
+<!--SR:!2024-12-15,67,351!2024-10-10,17,326-->
 mechanization(noun) () ::: Mechanisierung, Technisierung
 <!--SR:!2024-10-10,17,326!2024-10-12,18,331-->
 to mechanize(verb) () ::: mechanisieren, technisieren
@@ -271,8 +272,8 @@ as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2024-10-24,16,347!2024-10-21,15,317-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
 <!--SR:!2024-10-13,9,328!2024-10-14,6,277-->
-to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden, 
-<!--SR:!2024-10-08,2,328!2024-10-22,18,337-->
+to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden,
+<!--SR:!2024-10-17,8,348!2024-10-22,18,337-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
 <!--SR:!2024-10-26,20,359!2024-10-18,17,357-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
@@ -499,12 +500,21 @@ exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat
 <!--SR:!2024-10-13,9,325!2024-10-28,22,367-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
 <!--SR:!2024-10-22,13,356!2024-10-28,22,368-->
-excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich 
-to excruciate(verb) () ::: quälen 
-to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen 
-fathom(noun) (A fathom is a unit to measure the depth of water.) ::: Faden, nautischer Faden, Klafter 
-nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl 
-strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm 
-to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen 
-creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: Kreativität, Schaffen, Schöpferkraft 
-creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch 
+excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich
+<!--SR:!2000-01-01,1,250!2024-10-10,1,321-->
+to excruciate(verb) () ::: quälen
+<!--SR:!2000-01-01,1,250!2024-10-13,4,361-->
+to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
+<!--SR:!2000-01-01,1,250!2024-10-10,1,321-->
+fathom(noun) (A fathom is a unit to measure the depth of water.) ::: Faden, nautischer Faden, Klafter
+<!--SR:!2024-10-10,1,321!2000-01-01,1,250-->
+nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
+<!--SR:!2000-01-01,1,250!2024-10-10,1,321-->
+strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
+<!--SR:!2024-10-14,5,361!2000-01-01,1,250-->
+to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
+<!--SR:!2024-10-14,5,361!2000-01-01,1,250-->
+creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: Kreativität, Schaffen, Schöpferkraft
+<!--SR:!2000-01-01,1,250!2024-10-13,4,361-->
+creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch
+<!--SR:!2024-10-15,6,361!2000-01-01,1,250-->
