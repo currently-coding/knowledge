@@ -4,7 +4,7 @@
 - Bracketing [[#Set|Sets]]: $\brace$
 
 >[!Note]
->0 is a **natural** number $0 \in \nutnums$
+>0 is a **natural** number $0 \in \mathbb{N}$
 >
 
 

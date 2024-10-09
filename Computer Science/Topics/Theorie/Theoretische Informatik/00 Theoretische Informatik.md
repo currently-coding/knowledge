@@ -34,4 +34,4 @@
 - Ingo Wegener: Theoretische Informatik, Teubner, 2005
 
 ## Related
-- 
+-
