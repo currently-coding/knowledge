@@ -41,11 +41,8 @@ adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) ::: angemessen, hinreichend, ausreichend
 <!--SR:!2024-12-15,69,322!2024-10-09,16,316-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
-<!--SR:!2024-11-21,46,302!2024-12-09,62,337-->
 to adjust oneself(verb) () ::: sich anpassen
 <!--SR:!2024-12-18,72,341!2024-11-19,44,302-->
-to adjust oneself to(verb) () ::: sich anpassen an
-<!--SR:!2024-10-10,17,319!2024-11-11,41,302-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) ::: erschwinglich, bezahlbar, preiswert, kostengünstig
 <!--SR:!2024-10-08,14,317!2024-12-07,62,322-->
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
@@ -355,7 +352,7 @@ to interpret(verb) (Every critic interpreted the play differently., I am not sur
 Interpretation(noun) (Dies ist eindeutig die einzig mögliche Interpretation., Die moderne Interpretation der Melodie ist so gut wie das Original.) ::: interpretation, rendition, construction
 <!--SR:!2024-10-20,14,345!2024-10-22,18,361-->
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig
-<!--SR:!2024-10-08,4,328!2024-10-21,15,319-->
+<!--SR:!2024-10-22,14,328!2024-10-21,15,319-->
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon
 <!--SR:!2024-10-24,20,359!2024-10-22,16,341-->
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem
@@ -435,7 +432,7 @@ one-to-one tuition(noun) () ::: Einzelunterricht
 moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
 <!--SR:!2024-10-21,15,348!2024-10-17,13,345-->
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen
-<!--SR:!2024-11-01,25,369!2024-10-08,4,327-->
+<!--SR:!2024-11-01,25,369!2024-10-25,17,347-->
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 <!--SR:!2024-10-19,13,349!2024-10-08,4,327-->
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen, adressieren
