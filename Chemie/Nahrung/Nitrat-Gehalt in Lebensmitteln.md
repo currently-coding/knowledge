@@ -11,3 +11,5 @@ $$
 $$
 \text{Ox: } \text({Farbstoff(farblos)} \rightarrow \text{Farbstoff(roetlich)} + n \cdot e^-
 $$
+
+- Natrium ist ein [[Konservierungsmittel]] und haelt Farbe von z.B. Wurst
