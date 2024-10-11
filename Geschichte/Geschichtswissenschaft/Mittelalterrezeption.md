@@ -1,6 +1,6 @@
 ## Historischer Roman
 ### Roman
--> populaere Rezeption
+-> populäre Rezeption
 - besondere Zuneigung zwischen Staufer und seiner 2. Gatten Beatrix
 
 ### Historische Forschung
