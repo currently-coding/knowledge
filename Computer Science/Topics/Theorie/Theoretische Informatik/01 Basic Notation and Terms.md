@@ -7,7 +7,6 @@
 >0 is a **natural** number $0 \in \mathbb{N}$
 >
 
-
 ## Set
 ### Definition
 $\mathbb{N}$ := $\{0, 1, \ldots\}$ (Set of natural numbers)
