@@ -51,7 +51,7 @@ agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtsc
 aids(noun) ::: Hilfsmittel, Hilfen, Hilfe, Beihilfen
 <!--SR:!2024-12-11,64,337!2024-12-16,70,322-->
 aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützung, Beihilfe, Hilfe, Fördermittel
-<!--SR:!2024-12-20,73,322!2024-10-11,18,317-->
+<!--SR:!2024-12-20,73,322!2024-12-28,78,337-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
 <!--SR:!2024-12-19,71,341!2024-11-12,42,302-->
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
