@@ -2,7 +2,6 @@ Seien $A(0|6)$ und $B(10|10)$ 2 Punkte auf $G_f$, was der Graph der zu bestimmen
 >[!Aufbau von f(x)]
 >$f(x) = a \cdot b^x$
 ## Bestimmung durch Verdoppelungszeit
-- Wie es im Unterricht gemacht wurde
 ### $b$ herausfinden
 #### Beobachtung
 - alle $12.5$ Temperatureinheiten verdoppelt sich die Luftfeuchte
@@ -25,7 +24,6 @@ $$
 \Rightarrow f(x) = (ergebnis) \cdot 2^\frac{x}{12.5}
 $$
 ## Normal
-- einfacher(finde ich)
 ### $a$ berechnen
 #### Y-Achsen-Schnittpunkt
 - $A(0|6)$
@@ -54,9 +52,9 @@ $$
  \Rightarrow f(x) = 6 \cdot b(rechnen)^x
  $$
 ##  Wann was?
-### Verdopplungszeit
+#### Verdoppelungszeit
 - wenn nur Y-Achsenschnittpunkt unbekannt
-- wenn Verdopplungszeit gut ablesbar
-### Anders
+- wenn Verdoppelungszeit gut ablesbar
+#### Anders
 - wenn Y-Achsenschnittpunkt ablesbar
 - min. 1 anderer Punkt auch ablesbar
