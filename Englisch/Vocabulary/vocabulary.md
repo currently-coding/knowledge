@@ -133,7 +133,7 @@ to subsidize(verb) (Corn is cheap because it is subsidized by the government.) :
 launch(noun) (Mission control postponed the launch of the space shuttle., We are preparing the product launch., We are planning a pan-European launch for September., The launch of the new system went smoothly.) ::: Launch, Start, Markteinführung
 <!--SR:!2024-11-25,50,326!2025-01-03,83,357-->
 to launch(verb) (The space agency will launch a rocket next month., The company will launch a new product this year., The company launched a new communication system., The fireworks are launched at midnight., The shipping company launched their new cruise ship.) ::: starten, einführen
-<!--SR:!2024-10-12,18,339!2024-10-12,19,326-->
+<!--SR:!2025-01-03,83,359!2024-10-12,19,326-->
 Launch(noun) () ::: launch
 <!--SR:!2025-01-03,83,346!2024-10-14,20,339-->
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
@@ -149,7 +149,7 @@ supplier(noun) (Our supplier delivers high-quality products., The suppliers are 
 to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) ::: liefern, mitliefern, beliefern
 <!--SR:!2024-10-13,16,318!2024-12-24,76,346-->
 purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) ::: Kauf, Erwerb, Einkauf
-<!--SR:!2024-10-12,19,326!2024-10-11,17,331-->
+<!--SR:!2024-10-12,19,326!2024-12-28,77,351-->
 to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) ::: kaufen, erwerben, beschaffen
 <!--SR:!2024-12-23,74,359!2024-10-12,19,326-->
 commission(noun) (The commission will deal with this issue next week., The commission has agreed on a new resolution., I will get a commission for the good service.) ::: Kommission, Provision, Auftrag
@@ -295,7 +295,7 @@ skip(noun) (A skip full of rubble stood in front of the building site.) ::: Cont
 to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
 <!--SR:!2024-10-13,9,337!2024-10-24,18,345-->
 stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
-<!--SR:!2024-10-11,10,317!2024-10-28,18,348-->
+<!--SR:!2024-11-24,43,337!2024-10-28,18,348-->
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
 <!--SR:!2024-10-11,11,337!2024-11-02,27,367-->
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
