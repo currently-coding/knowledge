@@ -35,15 +35,15 @@ $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 <!--SR:!2024-10-15,9,274!2024-10-19,12,278-->
 ### Operations
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
-<!--SR:!2024-10-11,1,154-->
+<!--SR:!2024-10-14,2,154-->
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 <!--SR:!2024-10-18,12,277-->
 $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
-<!--SR:!2024-10-11,5,257-->
+<!--SR:!2024-10-24,12,257-->
 $A - B$ := $A \setminus B$ (Difference of A and B)
 <!--SR:!2024-10-13,7,254-->
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
-<!--SR:!2024-10-12,6,254-->
+<!--SR:!2024-11-01,20,274-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
 <!--SR:!2024-10-20,10,254-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
@@ -75,7 +75,7 @@ $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of de
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
 <!--SR:!2024-10-17,10,270-->
 $f$ is total ::: $D_f = A$
-<!--SR:!2024-10-16,10,274!2024-10-11,2,259-->
+<!--SR:!2024-10-16,10,274!2024-10-18,6,279-->
 $f$ is surjective ::: $R_f = B$
 <!--SR:!2024-10-16,7,258!2024-10-14,8,254-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
