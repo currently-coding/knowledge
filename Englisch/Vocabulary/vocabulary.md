@@ -15,7 +15,7 @@ to accommodate(verb) (We accommodated six refugees in our house., Our hotel can 
 to accommodate oneself(verb) () ::: sich akkommodieren
 <!--SR:!2024-11-13,44,290!2024-11-02,34,302-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
-<!--SR:!2024-11-08,40,290!2024-10-12,6,282-->
+<!--SR:!2024-11-08,40,290!2024-10-15,3,262-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
 <!--SR:!2024-10-22,24,279!2024-11-12,34,296-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
@@ -77,7 +77,7 @@ merger(noun) (The merger went well and nobody lost their job., The merger had gr
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
 <!--SR:!2024-12-13,66,343!2024-12-17,68,321-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
-<!--SR:!2024-11-22,49,320!2024-10-12,19,319-->
+<!--SR:!2024-11-22,49,320!2025-01-03,83,339-->
 free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
 <!--SR:!2024-12-17,69,341!2024-12-23,74,339-->
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) ::: Handelshemmnis, Handelsbarriere, Handelsbeschränkung
@@ -85,15 +85,15 @@ trade barrier(noun) (The trade barrier was part of the sanctions., The trade bar
 barrier to trade(noun) () ::: Handelshemmnis
 <!--SR:!2024-12-22,73,339!2024-10-20,21,279-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) ::: Wechselkurs, Kurs, Devisenkurs
-<!--SR:!2024-10-14,20,338!2024-10-11,18,326-->
+<!--SR:!2024-10-14,20,338!2024-12-31,80,346-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) ::: Ausbeutung, Nutzung, Verwertung
 <!--SR:!2024-11-24,46,306!2024-10-12,17,337-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) ::: nutzen, ausnutzen, ausschöpfen
 <!--SR:!2024-10-11,17,337!2024-12-15,68,346-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) ::: Lebensstandard, Lebenshaltung
-<!--SR:!2024-10-11,17,338!2024-12-24,75,346-->
+<!--SR:!2024-12-29,78,358!2024-12-24,75,346-->
 debt relief(noun) (The bank granted the company only partial debt relief.) ::: Schuldenerlass, Entschuldung, Schuldenerleichterung
-<!--SR:!2024-12-23,75,346!2024-10-11,17,331-->
+<!--SR:!2024-12-23,75,346!2024-12-29,78,351-->
 current affairs(noun) () ::: aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 <!--SR:!2024-10-12,19,326!2024-10-12,18,339-->
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) ::: Fonds, Investmentfonds, Geldmittel
@@ -103,25 +103,25 @@ to fund(verb) (The project is funded by private sponsors only., The government i
 deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
 <!--SR:!2024-12-15,67,351!2024-12-24,75,346-->
 mechanization(noun) () ::: Mechanisierung, Technisierung
-<!--SR:!2024-12-25,76,346!2024-10-12,18,331-->
+<!--SR:!2024-12-25,76,346!2025-01-01,81,351-->
 to mechanize(verb) () ::: mechanisieren, technisieren
-<!--SR:!2024-12-28,79,346!2024-10-11,17,331-->
+<!--SR:!2024-12-28,79,346!2024-12-25,74,351-->
 assembly line(noun) (Cars are usually put together on an assembly line.) ::: Band, Fließband, Montagelinie
 <!--SR:!2024-10-14,19,337!2024-12-16,67,326-->
 trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsdefizit
 <!--SR:!2024-12-22,73,358!2024-10-11,18,326-->
 urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
-<!--SR:!2024-10-11,17,337!2024-10-12,19,326-->
+<!--SR:!2024-12-27,76,357!2024-10-12,19,326-->
 to urbanize(verb) () ::: urbanisieren, verstädtern
-<!--SR:!2024-10-11,18,326!2024-10-11,17,338-->
+<!--SR:!2024-10-11,18,326!2024-12-30,79,358-->
 to diversify(verb) (The trader wants to diversify his portfolio.) ::: diversifizieren, variieren, differenzieren
 <!--SR:!2024-11-27,52,337!2024-12-22,74,346-->
 commerce(noun) (A lot of commerce was conducted in this town a century ago.) ::: Handel, Verkehr, Kommerz
-<!--SR:!2024-12-29,80,346!2024-10-12,18,338-->
+<!--SR:!2024-12-29,80,346!2025-01-02,82,358-->
 e-commerce(noun) (Retailers sell a lot by e-commerce nowadays.) ::: E-Commerce, elektronischer Geschäftsverkehr
-<!--SR:!2024-10-12,19,326!2024-10-12,18,339-->
+<!--SR:!2024-10-12,19,326!2025-01-04,84,359-->
 offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) ::: Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung
-<!--SR:!2024-12-12,63,326!2024-10-11,17,338-->
+<!--SR:!2024-12-12,63,326!2024-12-29,78,358-->
 Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) ::: offshoring
 <!--SR:!2024-12-01,53,330!2024-10-14,20,339-->
 environmentalism(noun) () ::: Umweltschutz
@@ -129,23 +129,23 @@ environmentalism(noun) () ::: Umweltschutz
 work ethic(noun) () ::: Arbeitsmoral, Arbeitsethik, Arbeitsethos
 <!--SR:!2024-10-13,19,338!2024-12-27,78,346-->
 to subsidize(verb) (Corn is cheap because it is subsidized by the government.) ::: subventionieren, bezuschussen, finanziell unterstützen
-<!--SR:!2024-10-11,16,306!2024-10-13,19,338-->
+<!--SR:!2024-12-18,67,326!2024-10-13,19,338-->
 launch(noun) (Mission control postponed the launch of the space shuttle., We are preparing the product launch., We are planning a pan-European launch for September., The launch of the new system went smoothly.) ::: Launch, Start, Markteinführung
-<!--SR:!2024-11-25,50,326!2024-10-12,18,337-->
+<!--SR:!2024-11-25,50,326!2025-01-03,83,357-->
 to launch(verb) (The space agency will launch a rocket next month., The company will launch a new product this year., The company launched a new communication system., The fireworks are launched at midnight., The shipping company launched their new cruise ship.) ::: starten, einführen
 <!--SR:!2024-10-12,18,339!2024-10-12,19,326-->
 Launch(noun) () ::: launch
-<!--SR:!2024-10-11,18,326!2024-10-14,20,339-->
+<!--SR:!2025-01-03,83,346!2024-10-14,20,339-->
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
 <!--SR:!2024-12-21,72,346!2024-10-11,17,337-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) ::: Lebensunterhalt, Lebensgrundlage, Existenz
 <!--SR:!2024-12-01,56,338!2024-12-06,58,326-->
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) ::: gedeihen, florieren, aufblühen
-<!--SR:!2024-10-11,18,326!2024-10-11,17,337-->
+<!--SR:!2024-10-11,18,326!2024-12-27,76,357-->
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) ::: Verzierung, Schnörkel, Fanfare
 <!--SR:!2024-11-03,30,286!2024-12-14,66,351-->
 supplier(noun) (Our supplier delivers high-quality products., The suppliers are selected through tendering., I am the only supplier of the brand in Italy., We are the largest supplier of electrical goods in the region., Car manufacturers buy parts from many suppliers.) ::: Lieferant, Anbieter, Zulieferer
-<!--SR:!2024-10-12,19,326!2024-12-19,70,357-->
+<!--SR:!2025-01-07,87,346!2024-12-19,70,357-->
 to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) ::: liefern, mitliefern, beliefern
 <!--SR:!2024-10-13,16,318!2024-12-24,76,346-->
 purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) ::: Kauf, Erwerb, Einkauf
@@ -157,7 +157,7 @@ commission(noun) (The commission will deal with this issue next week., The commi
 to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) ::: beauftragen, in Dienst stellen, in Auftrag geben
 <!--SR:!2024-12-24,75,346!2024-10-14,20,337-->
 state-of-the-art(adjective) (The new school will have state-of-the-art classrooms., The new alarm system uses state-of-the-art technology.) ::: hochmodern, modernst
-<!--SR:!2024-10-11,18,331!2024-10-13,19,339-->
+<!--SR:!2025-01-06,86,351!2024-10-13,19,339-->
 state of the art(noun) () ::: Stand der Technik
 <!--SR:!2024-10-11,16,339!2024-12-15,66,330-->
 decline(noun) (We have witnessed a sharp decline in oil prices., The decline in sales worries the investors., The investors are not worried by the decline in sales., The country's economic decline came after the crisis.) ::: Rückgang, Sinken, Abnahme
@@ -169,7 +169,7 @@ to promote(verb) (Our university promotes international student exchange., We pr
 inequality(noun) (Inequalities need to be redressed.) ::: Ungleichheit, Ungleichstellung, Ungleichung
 <!--SR:!2024-12-27,78,357!2024-12-20,72,350-->
 wealth(noun) (Thanks to his wealth, he can buy anything he likes., The book contains a wealth of information., The family's wealth was based on the tenure of land.) ::: Reichtum, Fülle, Wohlstand
-<!--SR:!2024-11-30,55,338!2024-10-12,19,330-->
+<!--SR:!2024-11-30,55,338!2025-01-08,88,350-->
 tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) ::: Steuer, Abgabe, Zins
 <!--SR:!2024-12-12,64,351!2024-10-11,18,330-->
 to tax(verb) (The government decided to tax corporate profits., He taxed her patience for hours.) ::: besteuern, strapazieren, versteuern
@@ -179,7 +179,7 @@ recession(noun) (The recession is over and unemployment is declining., The boom 
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
 <!--SR:!2024-10-11,14,290!2024-12-02,56,339-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
-<!--SR:!2024-10-12,19,331!2024-10-17,19,353-->
+<!--SR:!2025-01-10,90,351!2024-10-17,19,353-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2024-11-14,36,333!2024-10-17,18,355-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
@@ -325,7 +325,7 @@ to induce(verb) (Certain medications can induce drowsiness., The current economi
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
 <!--SR:!2024-10-26,20,368!2024-10-22,16,337-->
 whereby(adverb) () ::: wobei, wodurch, womit
-<!--SR:!2024-10-12,12,337!2024-10-20,16,339-->
+<!--SR:!2024-12-06,55,357!2024-10-20,16,339-->
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren
 <!--SR:!2024-10-21,17,365!2024-10-24,18,359-->
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
@@ -401,7 +401,7 @@ to enhance(verb) (The application can enhance the image quality., The agreement 
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
 <!--SR:!2024-10-21,17,365!2024-10-27,21,368-->
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
-<!--SR:!2024-10-26,20,369!2024-10-12,2,307-->
+<!--SR:!2024-10-26,20,369!2024-10-22,10,327-->
 sigh(noun) () ::: Seufzer, Seufzen
 <!--SR:!2024-10-24,18,365!2024-10-30,24,367-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
@@ -417,7 +417,7 @@ to embrace(verb) (I embraced my friend before she got on the train., The book em
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
 <!--SR:!2024-10-29,23,367!2024-10-25,21,365-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
-<!--SR:!2024-10-23,13,349!2024-10-12,3,288-->
+<!--SR:!2024-10-23,13,349!2024-10-26,14,308-->
 transformation(noun) (The Internet has led to a transformation of society.) ::: Umwandlung, Transformation, Umsetzung
 <!--SR:!2024-10-27,21,369!2024-10-29,23,368-->
 rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellion, Aufstand, Aufruhr
@@ -461,11 +461,9 @@ applicant(noun) (Applicants for a loan can fill in a form online., Applicants ha
 to remove(verb) (I removed the stain with soap and water., I removed the leaves from the gutter., We need to remove the covering first.) ::: entfernen, beseitigen, beheben
 <!--SR:!2024-10-29,23,368!2024-10-23,17,368-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
-<!--SR:!2024-11-07,31,369!2024-10-11,5,356-->
+<!--SR:!2024-11-07,31,369!2024-11-03,22,376-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2024-11-02,27,369!2024-10-27,21,367-->
-to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
-<!--SR:!2024-10-24,18,367!2024-10-28,22,368-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
 <!--SR:!2024-10-10,2,307!2024-10-25,15,336-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
@@ -505,7 +503,7 @@ excruciating(adjective) (She was finally relieved from her excruciating pain.) :
 to excruciate(verb) () ::: quälen
 <!--SR:!2024-10-14,4,362!2024-10-13,4,361-->
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
-<!--SR:!2000-01-01,1,250!2024-10-11,1,301-->
+<!--SR:!2000-01-01,1,250!2024-10-16,4,321-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
 <!--SR:!2000-01-01,1,250!2024-10-11,1,301-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
