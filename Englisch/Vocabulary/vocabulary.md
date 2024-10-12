@@ -113,7 +113,7 @@ trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsde
 urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
 <!--SR:!2024-12-27,76,357!2024-10-12,19,326-->
 to urbanize(verb) () ::: urbanisieren, verstädtern
-<!--SR:!2024-10-11,18,326!2024-12-30,79,358-->
+<!--SR:!2024-12-31,80,346!2024-12-30,79,358-->
 to diversify(verb) (The trader wants to diversify his portfolio.) ::: diversifizieren, variieren, differenzieren
 <!--SR:!2024-11-27,52,337!2024-12-22,74,346-->
 commerce(noun) (A lot of commerce was conducted in this town a century ago.) ::: Handel, Verkehr, Kommerz
