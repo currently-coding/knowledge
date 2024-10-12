@@ -530,3 +530,17 @@ to seize(verb) (She seized the opportunity and started a new life., The customs 
 headquarters(noun) (The company's headquarters are situated in Paris., Many companies have their headquarters in New York., The distribution of our products is managed from the headquarters., Headquarters is responsible for the commissioning of external suppliers.) ::: Hauptsitz, Zentrale, Hauptgeschäftsstelle 
 headquarters(noun) () ::: Hauptquartier 
 protocol(noun) (They followed the procedures described in the protocol.) ::: Protokoll, diplomatische Etikette, Verhandlungsprotokoll 
+prior(noun) () ::: Prior, Vorrang 
+prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer 
+Prior(noun) () ::: prior 
+globalization(noun) () ::: Globalisierung 
+to globalize(verb) () ::: globalisieren 
+to slam(verb) (The film critic slammed the new movie in a brutal review., The leader of the opposition slams the president's policy.) ::: knallen, zuschlagen, verreißen 
+slam(noun) () ::: Zuschlagen, Zuknallen, Aufschlagen 
+design(noun) (The watch is available in a variety of designs., The new computer has a very sleek design., I spent many hours on the design of the website., The graphic design of the game is very complex., The committee is responsible for the design of new strategies., The clever design protects the house from wind damage., The design of the components ensures that the machine works., She drew the design to be printed on the fabric., The design of the new dress was very striking.) ::: Design, Gestaltung, Entwicklung 
+to design(verb) (He designed the website for his small business himself., The company commissioned me to design its new logo., Nobody has designed a flying car yet., The model was designed by an architect., We designed the car for two people only., Our graphic artist has designed a new company logo., The designer is designing her new collection., The architect designed a new school building., The architect designed the model of the house., I want to become an architect and design luxury villas.) ::: gestalten, entwickeln, konzipieren 
+Design(noun) (Die Uhr ist in verschiedenen Designs erhältlich., Der neue Computer hat ein sehr elegantes Design.) ::: design, look, styling 
+to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten 
+lifetime(noun) (This battery has an average lifetime of five years.) ::: Lebensdauer, Leben, Lebzeiten 
+lifetime(adjective) (This watch has a lifetime guarantee.) ::: lebenslang, lebenslänglich 
+to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen 
