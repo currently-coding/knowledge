@@ -71,7 +71,7 @@ ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfa
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) ::: jährlich, alljährlich, einjährig
 <!--SR:!2024-12-19,70,339!2024-12-21,73,339-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) ::: verschmelzen, fusionieren, zusammenfügen
-<!--SR:!2024-11-26,53,321!2024-10-12,19,320-->
+<!--SR:!2024-11-26,53,321!2025-01-07,86,340-->
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) ::: Verschmelzung, Fusion, Zusammenschluss
 <!--SR:!2024-11-16,43,323!2024-12-12,64,321-->
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
@@ -475,7 +475,7 @@ strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced 
 to strip(verb) (The electrician stripped the cable and installed the lamp., It is hard to strip wallpaper off a wall., We stripped the paint with sandpaper.) ::: abisolieren, abziehen, abkratzen
 <!--SR:!2024-10-21,12,327!2024-10-17,13,349-->
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
-<!--SR:!2024-10-13,9,327!2024-11-06,30,368-->
+<!--SR:!2024-11-21,39,347!2024-11-06,30,368-->
 to sanction(verb) (The committee sanctioned the expenditure for the project.) ::: genehmigen, sanktionieren, billigen
 <!--SR:!2024-10-28,21,349!2024-10-21,11,307-->
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
@@ -505,7 +505,7 @@ to excruciate(verb) () ::: quälen
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
 <!--SR:!2000-01-01,1,250!2024-10-16,4,321-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
-<!--SR:!2000-01-01,1,250!2024-10-11,1,301-->
+<!--SR:!2000-01-01,1,250!2024-10-14,1,281-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
 <!--SR:!2024-10-14,5,361!2024-10-16,6,362-->
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
