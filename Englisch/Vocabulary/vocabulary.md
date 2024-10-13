@@ -125,7 +125,7 @@ offshoring(noun) (The relocation of business processes to a foreign country is c
 Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) ::: offshoring
 <!--SR:!2024-12-01,53,330!2024-10-14,20,339-->
 environmentalism(noun) () ::: Umweltschutz
-<!--SR:!2024-10-13,19,319!2024-12-19,71,346-->
+<!--SR:!2025-01-03,82,339!2024-12-19,71,346-->
 work ethic(noun) () ::: Arbeitsmoral, Arbeitsethik, Arbeitsethos
 <!--SR:!2024-10-13,19,338!2024-12-27,78,346-->
 to subsidize(verb) (Corn is cheap because it is subsidized by the government.) ::: subventionieren, bezuschussen, finanziell unterstützen
