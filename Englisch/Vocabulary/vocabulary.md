@@ -203,7 +203,7 @@ to marginalize(verb) (We integrate minority groups and do not marginalize them.)
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2024-11-20,47,337!2024-10-14,20,337-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
-<!--SR:!2024-11-02,32,317!2024-10-12,18,337-->
+<!--SR:!2024-11-02,32,317!2024-10-21,8,317-->
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
 <!--SR:!2024-10-21,21,356!2024-10-16,17,332-->
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
@@ -293,7 +293,7 @@ to skip(verb) (We can skip this chapter and move on to the next., The speaker sk
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
 <!--SR:!2024-10-23,17,341!2024-10-20,16,337-->
 to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
-<!--SR:!2024-10-13,9,337!2024-10-24,18,345-->
+<!--SR:!2024-11-25,43,357!2024-10-24,18,345-->
 stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
 <!--SR:!2024-11-24,43,337!2024-10-28,18,348-->
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
