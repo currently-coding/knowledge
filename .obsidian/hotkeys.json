@@ -19,7 +19,15 @@
   ],
   "file-explorer:new-file-in-new-pane": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "markdown:toggle-preview": [],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
   "obsidian-git:push": [
     {
       "modifiers": [
