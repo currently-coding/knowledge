@@ -1,10 +1,3 @@
-segment
-firework
-disorder
-revolutionary
-astonishing
-generate
-renew
 purely
 punk
 timely
