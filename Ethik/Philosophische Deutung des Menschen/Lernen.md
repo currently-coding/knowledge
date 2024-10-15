@@ -1,4 +1,3 @@
-## Unterschiede im Lernverhalten
 ## Problem
 ### Lösung
 
@@ -11,7 +10,5 @@
 | ----------------------------- | ------------------------------------------------------ | ----------- |
 | *vom* anderen lernen          | *durch* den anderen lernen => **Wagenhebereffekt**     | siehe links |
 | intelligente Tiere & Menschen | durch Symbole(*Sprache*) und Verstehen der *Intention* | siehe links |
-
-
 - nur der Mensch kann durch **Instruktion** und **Kooperation** lernen
 
