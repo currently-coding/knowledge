@@ -35,13 +35,13 @@ $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 <!--SR:!2024-11-17,32,294!2024-10-19,12,278-->
 ### Operations
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
-<!--SR:!2024-10-21,5,174-->
+<!--SR:!2024-10-17,3,154-->
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 <!--SR:!2024-10-18,12,277-->
 $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
 <!--SR:!2024-10-24,12,257-->
 $A - B$ := $A \setminus B$ (Difference of A and B)
-<!--SR:!2024-11-11,26,274-->
+<!--SR:!2024-11-07,24,274-->
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 <!--SR:!2024-11-01,20,274-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
@@ -53,7 +53,7 @@ $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in thi
 <!--SR:!2024-10-23,16,294-->
 ### Cartesian Products
 $A_1 \times A_2 \times \ldots \times A_n$ := $\{(a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ for all } i\}$ (Cartesian product of sets $A_1,A_2, \ldots, A_n$)
-<!--SR:!2024-11-13,28,277-->
+<!--SR:!2024-11-14,31,277-->
 $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of set A)
 <!--SR:!2024-10-19,12,274-->
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
@@ -71,7 +71,7 @@ If there is no $b \in B$ with $f(a) = b$, then $f(a)$ is not defined (notation: 
 $g \circ f$ := $f : A \to C$ with $(g \circ f)(x)$ := $g(f(x))$ (composition of functions).
 <!--SR:!2024-11-09,24,274-->
 $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of definition of f)
-<!--SR:!2024-11-10,25,274-->
+<!--SR:!2024-11-07,24,274-->
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
 <!--SR:!2024-10-17,10,270-->
 $f$ is total ::: $D_f = A$
@@ -83,4 +83,4 @@ $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
 $f$ is bijective ::: $f$ is total, surjective, and injective
 <!--SR:!2024-10-24,17,294!2024-10-26,17,298-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.
-<!--SR:!2024-11-15,30,274-->
+<!--SR:!2024-10-16,7,258!2024-11-10,27,274-->
