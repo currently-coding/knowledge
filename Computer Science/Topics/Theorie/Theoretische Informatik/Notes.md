@@ -31,3 +31,6 @@ Insbesondere die Equivalence von Programmen ist schwer zu testen => ist f(a) zu 
 $$
 f_3(x) = \sum_{i=0}^xx
 $$
+
+
+## Registermaschinen
