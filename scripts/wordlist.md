@@ -1,24 +1,3 @@
-purely
-punk
-timely
-cute
-globe
-shoot
-cheek
-steer
-mortgage
-regardless
-prospective
-Comparable to
-random
-predictable
-rotation
-modest
-venture
-youngster
-supervise
-In like manner
-dynamic
 genuinely
 mechanical
 regime
