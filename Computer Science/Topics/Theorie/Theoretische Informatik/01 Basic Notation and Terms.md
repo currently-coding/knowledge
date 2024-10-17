@@ -14,11 +14,11 @@ $\mathbb{N}$ := $\{0, 1, \ldots\}$ (Set of natural numbers)
 $\mathbb{N}^+$ := $\{1, 2, \ldots\}$ (Set of positive natural numbers)
 <!--SR:!2024-10-21,14,294-->
 $\mathbb{P}$ := $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
-<!--SR:!2024-10-15,9,274-->
+<!--SR:!2024-11-18,33,294-->
 $\mathbb{Z}$ := $\{\ldots, -2, -1, 0, 1, 2, \ldots\}$ (Set of integers)
 <!--SR:!2024-10-22,15,297-->
 $\emptyset$ := empty set
-<!--SR:!2024-10-16,10,270-->
+<!--SR:!2024-11-21,36,290-->
 Important: $0$ is a natural number.
 For $x \in N$, $y \in N^+$ let $(x \mod y)$ := $x - zy$, where $z \in N$ is the greatest number with $zy \leq x$. (just a reminder)
 <!--SR:!2024-10-22,15,294-->
@@ -32,7 +32,7 @@ $M \subseteq N$ ::: for all $a$, if $a \in M$, then $a \in N$
 $M \not\subseteq N$ ::: it does not hold $M \subseteq N$
 <!--SR:!2024-10-21,12,278!2024-10-23,16,294-->
 $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
-<!--SR:!2024-10-15,9,274!2024-10-19,12,278-->
+<!--SR:!2024-11-17,32,294!2024-10-19,12,278-->
 ### Operations
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
 <!--SR:!2024-10-17,3,154-->
@@ -69,18 +69,18 @@ If $(a, b) \in G_f$, then $f(a)$ = $b$.
 If there is no $b \in B$ with $f(a) = b$, then $f(a)$ is not defined (notation: $f(a) = n.d.$).
 
 $g \circ f$ := $f : A \to C$ with $(g \circ f)(x)$ := $g(f(x))$ (composition of functions).
-<!--SR:!2024-11-06,23,274-->
+<!--SR:!2024-11-09,24,274-->
 $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of definition of f)
 <!--SR:!2024-11-07,24,274-->
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
 <!--SR:!2024-10-17,10,270-->
 $f$ is total ::: $D_f = A$
-<!--SR:!2024-10-16,10,274!2024-10-18,6,279-->
+<!--SR:!2024-11-22,37,294!2024-10-18,6,279-->
 $f$ is surjective ::: $R_f = B$
-<!--SR:!2024-10-16,7,258!2024-11-10,27,274-->
+<!--SR:!2024-11-10,25,278!2024-10-14,8,254-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
-<!--SR:!2024-10-27,13,238!2024-10-15,8,254-->
+<!--SR:!2024-10-13,4,218!2024-11-13,28,274-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
 <!--SR:!2024-10-24,17,294!2024-10-26,17,298-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.
-<!--SR:!2024-11-10,27,274-->
+<!--SR:!2024-11-09,24,278-->
