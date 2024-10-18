@@ -609,3 +609,20 @@ Youngster(noun) () ::: youngster
 to supervise(verb) (To ensure quality, production is constantly supervised., The professor supervises the student's work., The senior doctor is supervising the interns., A foreman supervises the other workers.) ::: überwachen, betreuen, beaufsichtigen 
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant 
 dynamic(noun) () ::: Dynamik 
+genuinely(adverb) () ::: wirklich, echt, authentisch 
+genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft 
+mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell 
+regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System 
+Regime(noun) (Nach der Revolution wurde das Land von einem neuen Regime geführt.) ::: regime 
+puzzle(noun) (The child added the final piece to the puzzle., Typically, a puzzle for small children consists of less than 50 pieces., The origin of the virus remains a puzzle to scientists.) ::: Puzzle, Rätsel, Puzzlespiel 
+to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen 
+Puzzle(noun) (Das Kind fügte das letzte Teil zum Puzzle hinzu., Typischerweise besteht ein Puzzle für Kleinkinder aus weniger als 50 Teilen., Das Puzzle hat eine große Anzahl kleiner Teile., Das Puzzle hat über tausend Teile.) ::: puzzle, jigsaw puzzle, jigsaw 
+trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug 
+to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen 
+Trigger(noun) () ::: trigger 
+intellectual(adjective) (The article remains intellectual property of the author.) ::: geistig, intellektuell, gedanklich 
+intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch 
+intellectual(noun) () ::: Intelligenzler 
+crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt 
+to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen 
+crack(interjection) () ::: knack 

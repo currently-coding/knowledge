@@ -137,5 +137,14 @@
       ],
       "key": "Q"
     }
+  ],
+  "workspace:close-tab-group": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
   ]
 }

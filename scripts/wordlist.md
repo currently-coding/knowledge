@@ -1,10 +1,3 @@
-genuinely
-mechanical
-regime
-puzzle
-trigger
-intellectual
-crack
 Success
 openly
 reluctant
