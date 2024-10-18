@@ -15,4 +15,4 @@
 
 ### Was erschwert die Aufarbeitung?
 - Bürokratie beider Länder
-- Anzahl der Beteilgten
+- Anzahl der Beteiligten
