@@ -21,7 +21,7 @@
 - Komplexitätsklassen P und NP
 
 ## Competences
-- die in der Vorlesung behandelten wissenschaftlichen Inhalte zu verstehen und anzuwenden (3
+- die in der Vorlesung behandelten wissenschaftlichen Inhalte zu verstehen und anzuwenden (3#)
 
 - Anmerkung: **1 - kennen, 2 - können, 3 - verstehen und anwenden**
 
