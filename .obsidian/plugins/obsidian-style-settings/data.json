@@ -74,11 +74,11 @@
     "codeBackgroundColor": "#3c3836",
     "blockquoteColor": "#928374"
   },
-  "Components@@tab-autohide": false,
+  "Components@@tab-autohide": true,
   "Components@@status-bar-autohide": true,
-  "Components@@Ribbon-autohide": true,
+  "Components@@Ribbon-autohide": false,
   "Components@@nav-header-autohide": false,
-  "Components@@tab-title-bar-autohide": false,
+  "Components@@tab-title-bar-autohide": true,
   "Components@@vault-profile-autohide": true,
   "Components@@CTA-BTN-enable": false,
   "Components@@file-names-untrim": true,
@@ -97,5 +97,7 @@
   "Editor@@codeblock-style-select": "codeblock-style-customize",
   "Editor@@p-spacing-br": true,
   "Editor@@text-align-justify": true,
-  "Components@@anim-speed": 1
+  "Components@@anim-speed": 1,
+  "Components@@new-tab-btn-select": "new-tab-text-btn-restore",
+  "Components@@new-tab-image-select": "new-tab-image-old"
 }
