@@ -1,17 +1,3 @@
-Success
-openly
-reluctant
-hook
-spam
-Owing to the fact that
-fix
-miner
-genetic
-total
-assistance
-relevance
-obstacle
-protein
 ruling
 illusion
 Further to this
