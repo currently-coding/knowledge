@@ -1,0 +1,8 @@
+- [ ] Exercise 2
+	- [ ] Hand in Task 3
+- [ ] Read slides
+	- [ ] Alphabets and Formal Languages
+	- [ ] While Programs
+	- [ ] Register Machines
+	- [ ] Mini-While Programs
+- [ ] Create Flashcards
