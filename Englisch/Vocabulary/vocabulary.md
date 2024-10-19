@@ -626,3 +626,27 @@ intellectual(noun) () ::: Intelligenzler
 crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt 
 to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen 
 crack(interjection) () ::: knack 
+success(noun) (His first book was a great success, everybody loved it., The book was a huge success.) ::: Erfolg, Gelingen, Triumph 
+openly(adverb) () ::: offen, frei, öffentlich 
+open(adjective) (The window was open, but I am closing it now., I put a wedge under the door to keep it open., My new store has been open since last week., The bar is open till midnight., The archive is open to interested researchers., The villagers were open and kind, even to strangers., A friend pointed out an open position in his company to me., Even after a long discussion, the issue remained open., The police are working on a number of open cases., I appreciate your open and sincere manner.) ::: offen, zugänglich, aufgeschlossen 
+to open(verb) (It is very easy to open the new window., The link opens in a new tab., The company is opening new branches in ten towns., I went to the bank to open a securities account., The entrepreneur opened a new market in China., I opened your letter by mistake., The new window is very hard to open., She opened her book and began to read.) ::: öffnen, sich öffnen, eröffnen 
+reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig 
+hook(noun) (He hung his coat on a hook by the door., There are some hooks on the wall to hang coats.) ::: Haken, Hook, Häkchen 
+to hook(verb) () ::: haken, anhaken, festhaken 
+to hook(verb) (The thief tried to hook the lady's handbag.) ::: klauen 
+spam(noun) () ::: Spam, Schinkenfleisch, Frühstücksfleisch 
+Spam(noun) () ::: spam 
+to fix(verb) (We fixed a date for the wedding., She took a brush and began to fix her hair., The hook was fixed to the wall., I fixed the cable with a clamp., He fixed my bike., He fixed the engine of his car himself., I have fixed an appointment with the mechanic., The bicycle mechanic fixed my bike.) ::: festlegen, richten, befestigen 
+fix(noun) (I really am in a fix now.) ::: Patsche, Klemme, Dilemma 
+fix(adjective) (Da es fixe Kosten sind, können sie nicht verringert werden., Der Junge hat einen sehr fixen Verstand.) ::: fixed, quick, smart 
+miner(noun) () ::: Bergmann, Bergarbeiter, Kumpel 
+genetic(adjective) (There are many genetic matches between twins.) ::: genetisch, gentechnisch 
+total(noun) (The company invested a total of ten million dollars.) ::: Total, Gesamtbetrag, Gesamtzahl 
+total(adjective) (The total number of participants was 25., The course permits total immersion in the language.) ::: total, gesamt, völlig 
+to total(verb) (In the evening she totals her store's sales.) ::: zusammenrechnen, summieren, zusammenzählen 
+assistance(noun) (The countries have promised their financial assistance.) ::: Unterstützung, Hilfe, Assistenz 
+to assist(verb) (It's her job to assist the project manager., The pupil assisted the teacher with the experiment., The girl assisted her father with the cooking., I will always assist my brother in times of need., He assisted his friends in the kitchen., If any problems arise, we will assist our partners., The consultant assisted the company in drawing up a marketing plan., The nurse assisted the doctor during the operation.) ::: unterstützen, fördern, helfen 
+relevance(noun) (I could not see the relevance of his argument., The solution of the problem is of the highest relevance.) ::: Relevanz, Bedeutung, Wichtigkeit 
+obstacle(noun) (We can overcome any obstacle if we do not give up., Obstacles on the track can cause an obstruction., They have successfully overcome the last obstacle., If she wants to attend the class, the cost should not be an obstacle.) ::: Hindernis, Hürde, Hinderungsgrund 
+protein(noun) (I ingest a lot of protein and carbohydrates.) ::: Protein, Eiweiß, Eiweißstoff 
+Protein(noun) (Ich nehme viel Protein und Kohlenhydrate auf.) ::: protein 
