@@ -650,3 +650,41 @@ relevance(noun) (I could not see the relevance of his argument., The solution of
 obstacle(noun) (We can overcome any obstacle if we do not give up., Obstacles on the track can cause an obstruction., They have successfully overcome the last obstacle., If she wants to attend the class, the cost should not be an obstacle.) ::: Hindernis, Hürde, Hinderungsgrund 
 protein(noun) (I ingest a lot of protein and carbohydrates.) ::: Protein, Eiweiß, Eiweißstoff 
 Protein(noun) (Ich nehme viel Protein und Kohlenhydrate auf.) ::: protein 
+ruling(noun) (The judge announced that she will issue a ruling tomorrow., The ruling applied to all companies, whether large or small.) ::: Entscheidung, Urteil, Regelung 
+ruling(adjective) (The ruling party won the election again.) ::: regierend, herrschend, beherrschend 
+illusion(noun) (The magician was a master of deception and illusion.) ::: Illusion, Täuschung, Wahn 
+Illusion(noun) (Der Zauberkünstler war ein Meister der Täuschung und Illusion.) ::: illusion, delusion, mirage 
+ranking(noun) (My name was in third place in the ranking., The ranking of the candidates took several hours.) ::: Rangliste, Einstufung, Ranking 
+ranking(present participle) () ::: reihend, rangierend 
+to rank(verb) (She ranks among the best scientists in the world., The project manager ranked the offers according to price.) ::: zählen, einordnen, rangieren 
+invasion(noun) () ::: Invasion, Einmarsch, Überfall 
+Invasion(noun) () ::: invasion 
+index(noun) (I took a look at the index before buying the stocks., Every library has a bibliographic index., The chapter numbers are listed in the index.) ::: Index, Zeigefinger, Verzeichnis 
+to index(verb) (I index all my documents in order to find them more easily.) ::: indizieren, erschließen, indexieren 
+Index(noun) (Ich sah mir den Index an, bevor ich die Aktien kaufte.) ::: index, subscript, subindex 
+suspicious(adjective) (I heard suspicious noises in the attic., The investigator gave me a suspicious look.) ::: verdächtig, misstrauisch, argwöhnisch 
+governor(noun) (The governor of my home state was elected by a vast majority.) ::: Gouverneur, Statthalter, Landeshauptmann 
+spare(noun) (I have bought spares for the repair of my car., He lost his key, but luckily he had a spare.) ::: Ersatzteil, Ersatz, Reserve 
+to spare(verb) (Luckily, the butcher spared me a detailed description of his work., I will give you the money I can spare., Fortunately, my son was spared from the sickness.) ::: ersparen, erübrigen, verschonen 
+spare(adjective) (There are still a few spare seats on the plane., I gave my spare money to my sister because I did not need it.) ::: frei, übrig, sparsam 
+graphic(noun) (The process is illustrated in the graphic below.) ::: Grafik, Graphik, Abbildung 
+graphic(adjective) (The graphic design of the game is very complex., A chart is a graphic representation of numbers.) ::: grafisch, graphisch, zeichnerisch 
+firm(noun) (My brother runs a successful firm., The firm was taken over by a large group.) ::: Firma, Unternehmen, Betrieb 
+firm(adjective) (The material is rigid and firm., Our company values trust as a firm basis for business., He is firm with his children.) ::: fest, solide, streng 
+Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses 
+fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif 
+to fare(verb) () ::: ergehen, gehen, laufen 
+lyric(noun) () ::: Lyrik 
+lyric(adjective) () ::: lyrisch, gefühlvoll 
+determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung 
+to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln 
+senator(noun) (The senators are trying to amend some laws.) ::: Senator, Senatorin 
+Senator(noun) (Die Senatoren versuchen, einige Gesetze zu ändern.) ::: senator 
+casual(adjective) (I wear casual clothes outside the office., This is an informal event; you can wear casual clothing., I like parties with a casual atmosphere., I made a casual remark about the weather., I like the casual feel of beach parties., To a casual observer, the scene might appear normal., I prefer simple and casual clothing.) ::: lässig, leger, zwanglos 
+casual(noun) () ::: Trotteur 
+monthly(adjective) (Thanks to a promotion, my monthly income has increased., Each member of the club pays a monthly fee.) ::: monatlich, allmonatlich 
+monthly(adverb) () ::: monatsweise, einmal im Monat, einmal pro Monat 
+a month(adverb) (He goes grocery shopping a few times a month.) ::: monatlich 
+to insist(verb) (The woman did not give up and insisted on her rights.) ::: pochen, insistieren 
+reflection(noun) (The article offers an interesting reflection on the current situation., She accepted the offer after a short reflection., The pond is so calm you can see your reflection., The reflection of the sunlight on the water is beautiful.) ::: Reflexion, Überlegung, Spiegelbild 
+to forbid(verb) (The hotel management has forbidden smoking at the pool., The art gallery forbids flash photography.) ::: untersagen, verbieten, verhindern 
