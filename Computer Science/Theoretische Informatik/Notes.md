@@ -35,3 +35,9 @@ $$
 
 ## Registermaschinen
 119
+
+
+
+
+
+pow10 => convert to using + instead of for due to fixed amount
