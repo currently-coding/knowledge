@@ -1,24 +1,3 @@
-ruling
-illusion
-Further to this
-ranking
-invasion
-index
-suspicious
-governor
-spare
-graphic
-firm
-fare
-lyric
-determination
-senator
-casual
-monthly
-insist
-In a similar vein
-reflection
-forbid
 orchestra
 convincing
 occupation
