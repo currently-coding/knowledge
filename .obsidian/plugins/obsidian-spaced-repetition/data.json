@@ -46,20 +46,16 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-10-19",
+  "buryDate": "2024-10-20",
   "buryList": [
-    "1793af3148101d",
-    "62c76a34657b8",
-    "fbe34db2fcc2b",
-    "111131d94c0319",
-    "bea8786c8abc4",
-    "2b0112e9ba267",
-    "19768e287813ae",
-    "1910b3af3bfc40",
-    "1b9afa3c970da4",
-    "1567ef26d0b348",
-    "c1b536a6565ed",
-    "bd95db78d859d"
+    "1b4c92dd2b68bb",
+    "1b975eb847e91e",
+    "147ee41b99b8d7",
+    "2314192a5dc3",
+    "1da043f8c89930",
+    "847afeef30212",
+    "22763368656fb",
+    "1d7aa5512f5b06"
   ],
   "historyDeck": null
 }
