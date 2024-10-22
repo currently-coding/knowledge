@@ -25,7 +25,6 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#learn",
       "#mon",
       "#tue",
       "#wed",
@@ -46,7 +45,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-10-20",
+  "buryDate": "2024-10-22",
   "buryList": [],
   "historyDeck": null
 }
