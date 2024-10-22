@@ -688,3 +688,27 @@ a month(adverb) (He goes grocery shopping a few times a month.) ::: monatlich
 to insist(verb) (The woman did not give up and insisted on her rights.) ::: pochen, insistieren 
 reflection(noun) (The article offers an interesting reflection on the current situation., She accepted the offer after a short reflection., The pond is so calm you can see your reflection., The reflection of the sunlight on the water is beautiful.) ::: Reflexion, Überlegung, Spiegelbild 
 to forbid(verb) (The hotel management has forbidden smoking at the pool., The art gallery forbids flash photography.) ::: untersagen, verbieten, verhindern 
+orchestra(noun) (The orchestra played several musical works.) ::: Orchester, Kapelle, Klangkörper 
+convincing(adjective / present participle) (The salesman had some very convincing arguments for the product., The ad for this laundry powder is very convincing.) ::: überzeugend 
+to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, überreden 
+to convince oneself(verb) () ::: sich überzeugen 
+occupation(noun) (The judge asked the witness to state his name and occupation., The occupation of the town was over and there was peace., My skills allowed me to find a better occupation., The country declared independence after a long period of occupation., The new office building is ready for occupation.) ::: Beschäftigung, Beruf, Besetzung 
+to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren 
+fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur 
+ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote 
+Ratio(noun) (Ratio und Emotion können einander widersprechen.) ::: reason, rational logic 
+to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of old remnants.) ::: weben, flechten, verweben 
+weave(noun) () ::: Gewebe, Webart, Bindung 
+to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen 
+worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen 
+worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert 
+provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members., Members must conform to the provisions of the contract., The institution is responsible for the provision of food., Companies are allowed to make provisions for future investments., They took sufficient provisions for the long journey., The contract includes provisions on protection of personal information.) ::: Bestimmung, Regelung, Bereitstellung 
+to provision(verb) (The troops must be provisioned.) ::: mit Proviant beliefern, die Verpflegung liefern, verproviantieren 
+to provide(verb) (A roof provides protection from rain., We provide sustainable transport solutions., The manual provides a description of the device., The article provided some useful background information., The school will provide everything needed for the trip., Everything the children need during the school trip will be provided by the school., Linen is provided by the landlord., The language institute provides courses for beginners., He provided for his family., My family provides me with food and money., The parents provide their children with everything they need., Fruit and vegetables provide us with important vitamins., The document provides an overview of the financial status., We can also provide you with ancillary equipment.) ::: bieten, liefern, bereitstellen 
+full time(noun) () ::: Vollzeit, reguläre Spielzeit 
+full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig 
+full-time(adverb) (I work full-time in an office.) ::: ganztags 
+jail(noun) (The man was in jail for theft.) ::: Gefängnis, Knast, Kerker 
+to jail(verb) () ::: ins Gefängnis bringen, einsperren 
+ink(noun) (As per the instructions, I filled out the form in blue ink., The squid discharges ink to defend itself.) ::: Tinte, Farbe, Tusche 
+to ink(verb) (Both parties inked the agreement.) ::: unterzeichnen, einfärben, tätowieren 

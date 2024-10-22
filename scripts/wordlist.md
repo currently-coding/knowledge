@@ -1,17 +1,3 @@
-orchestra
-convincing
-occupation
-classify
-fabric
-ratio
-weave
-elevate
-worthy
-provision
-full-time
-jail
-ink
-adj./adv.
 vibrant
 To Improve
 newly
