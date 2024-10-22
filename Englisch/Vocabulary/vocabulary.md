@@ -389,7 +389,7 @@ long(adjective) (Long skirts were in fashion then., She has long and slender leg
 to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
 <!--SR:!2024-10-27,21,368!2024-10-23,19,361-->
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
-<!--SR:!2024-10-18,12,347!2024-10-21,17,341-->
+<!--SR:!2024-10-18,12,347!2025-01-09,79,361-->
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
 <!--SR:!2024-10-19,15,347!2024-10-25,19,369-->
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
@@ -521,8 +521,8 @@ resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
 resume(noun) () ::: Zusammenfassung 
 lane(noun) (The right lane is closed due to construction work.) ::: Spur, Fahrspur, Bahn 
 one lane(noun) () ::: eine Spur 
-LAN(noun) () ::: LAN
-<!--SR:!2024-10-20,6,365!2000-01-01,1,250-->
+to be deleted := delete
+<!--SR:!2024-11-23,32,385!2000-01-01,1,250-->
 craft(noun) (I want to learn a craft like mosaics or carving., The craft crossed the river in a few minutes.) ::: Handwerk, Schiff, Fahrzeug
 <!--SR:!2000-01-01,1,250!2024-11-04,16,365-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
