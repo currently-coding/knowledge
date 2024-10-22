@@ -1,10 +1,3 @@
-vibrant
-To Improve
-newly
-duration
-upcoming
-portion
-ballet
 secular
 storage
 width

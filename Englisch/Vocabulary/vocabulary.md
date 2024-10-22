@@ -712,3 +712,15 @@ jail(noun) (The man was in jail for theft.) ::: Gefängnis, Knast, Kerker
 to jail(verb) () ::: ins Gefängnis bringen, einsperren 
 ink(noun) (As per the instructions, I filled out the form in blue ink., The squid discharges ink to defend itself.) ::: Tinte, Farbe, Tusche 
 to ink(verb) (Both parties inked the agreement.) ::: unterzeichnen, einfärben, tätowieren 
+vibrant(adjective) (The city is famous for its vibrant cultural life., She was wearing a pullover in vibrant hues.) ::: lebendig, leuchtend, vital 
+to improve(verb) (The condition improved after a higher dose was given., I am sure we can improve our language skills in the course., We use the data to improve user experience., Advertising can improve the image of a company., The gold medal was an incentive for him to improve his performance further., Due to regular practice, the dancers increasingly improved., He took a class to improve his already good Japanese.) ::: sich verbessern, verbessern, steigern 
+newly(adverb) (The hotel rooms are renovated and newly furnished.) ::: neu, neuartig, frisch 
+new(adjective) (My father bought himself a new car., My car has new tyres., Congrats on your new job!, The exotic spices were new to me.) ::: neu, ungewohnt, fremdartig 
+duration(noun) (The duration of the tests will not exceed two weeks., The duration of the project is six months.) ::: Dauer, Laufzeit, Zeitraum 
+upcoming(adjective) (The department is preparing for the upcoming inspection., They handed out flyers for the upcoming concert., We will need more staff for the upcoming event., The trainee talked to her mentor about the upcoming exam.) ::: anstehend, bevorstehend, kommend 
+portion(noun) (I am not hungry, you can have my portion of cake., I divided the cake into four portions., He could not finish his double portion of cake., I cut the cake into six equal portions.) ::: Teil, Portion, Stück 
+portion(noun) () ::: Mitgift 
+to portion(verb) () ::: teilen, zuteilen, aufteilen 
+ballet(noun) () ::: Ballett 
+Ballen(noun) () ::: bales, pads, rolls 
+Ballen(noun) (Der Bauer bündelt das Heu zu Ballen., Ich gab meinem Pferd einen neuen Ballen Heu.) ::: bale, ball, bunion 
