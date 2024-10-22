@@ -181,7 +181,7 @@ prosperity(noun) (His whole family lived in prosperity., I wished her luck and p
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
 <!--SR:!2025-01-10,90,351!2024-10-17,19,353-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
-<!--SR:!2024-11-14,36,333!2024-10-17,18,355-->
+<!--SR:!2024-11-14,36,333!2025-01-17,87,375-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 <!--SR:!2025-01-13,86,375!2024-10-18,20,353-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
@@ -211,7 +211,7 @@ fraction(noun) (The boy told only a fraction of the whole story., One third is a
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
 <!--SR:!2024-12-25,67,355!2024-10-17,19,352-->
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
-<!--SR:!2024-12-05,56,353!2024-10-19,20,355-->
+<!--SR:!2024-12-05,56,353!2025-01-27,97,375-->
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
 <!--SR:!2024-10-16,18,353!2025-01-25,97,375-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
