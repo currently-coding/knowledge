@@ -253,7 +253,7 @@ to dive(verb) (He dives in order to explore the underwater world., I love diving
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
 <!--SR:!2024-10-17,19,353!2024-10-19,20,355-->
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
-<!--SR:!2024-10-17,19,353!2024-12-23,65,355-->
+<!--SR:!2025-01-20,90,373!2024-12-23,65,355-->
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
 <!--SR:!2024-12-31,78,373!2024-10-19,20,355-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
