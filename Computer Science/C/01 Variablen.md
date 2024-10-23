@@ -47,17 +47,17 @@ int main() {
 
 ## Flashcards
 Deklaration := Spezifizieren des Datentypes und Variablennamens. Dadurch erfährt der Compiler von der Existenz der Variable.
-<!--SR:!2024-10-19,14,294-->
+<!--SR:!2024-12-18,56,314-->
 
 
 <!--SR:!2025-06-10,297,310-->
 Definition := Der Compiler allokiert Speicher für die Variable
-<!--SR:!2024-10-18,13,294-->
+<!--SR:!2024-12-14,52,314-->
 
 
 <!--SR:!2025-01-24,160,310-->
 Initialisierung := Der Variable wird ein initialer Wert zugewiesen
-<!--SR:!2024-10-22,15,301-->
+<!--SR:!2024-12-24,62,321-->
 
 
 <!--SR:!2025-03-23,218,330-->
