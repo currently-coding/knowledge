@@ -25,6 +25,7 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
+      "#learn",
       "#mon",
       "#tue",
       "#wed",
@@ -45,22 +46,14 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-10-22",
+  "buryDate": "2024-10-23",
   "buryList": [
-    "11b57736d49c76",
-    "1984bc169977ab",
-    "15606b1b5958b2",
-    "155a659b64cfed",
-    "701f9df500ba0",
-    "d1b40ff4e13d3",
-    "7480432411a08",
-    "19680b20dc981d",
-    "196ccc05d4fc7c",
-    "d361ce03d8fff",
-    "1a396353ccb847",
-    "1532488790b25",
-    "1d601142eb171d",
-    "a3b18b9a6c8ec"
+    "dbfe723ac7a71",
+    "cbbd0d6b51afd",
+    "1824bdb0ae923c",
+    "162cc4a286e12f",
+    "beb1cc573f959",
+    "1383497d5457b"
   ],
   "historyDeck": null
 }
