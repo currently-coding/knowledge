@@ -514,7 +514,8 @@ creative(adjective) (I am an engineer, but I have a creative side., A book is th
 <!--SR:!2024-11-20,29,381!2024-11-02,19,382-->
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
 <!--SR:!2000-01-01,1,250!2024-10-27,4,352-->
-to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun 
+to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun
+<!--SR:!2024-10-27,4,353!2000-01-01,1,250-->
 to resume(verb) (After a short break, they resumed negotiations., She resumed her work after lunch.) ::: wieder aufnehmen, fortsetzen, wiederaufnehmen 
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf 
 lane(noun) (The right lane is closed due to construction work.) ::: Spur, Fahrspur, Bahn 
@@ -641,7 +642,8 @@ to open(verb) (It is very easy to open the new window., The link opens in a new 
 reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig 
 hook(noun) (He hung his coat on a hook by the door., There are some hooks on the wall to hang coats.) ::: Haken, Hook, Häkchen 
 to hook(verb) () ::: haken, anhaken, festhaken 
-to hook(verb) (The thief tried to hook the lady's handbag.) ::: klauen 
+to hook(verb) (The thief tried to hook the lady's handbag.) ::: klauen
+<!--SR:!2000-01-01,1,250!2024-10-24,1,333-->
 spam(noun) () ::: Spam, Schinkenfleisch, Frühstücksfleisch
 <!--SR:!2024-10-24,1,332!2000-01-01,1,250-->
 Spam(noun) () ::: spam 
@@ -693,11 +695,13 @@ Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen lie
 <!--SR:!2024-10-27,4,352!2000-01-01,1,250-->
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif 
 to fare(verb) () ::: ergehen, gehen, laufen 
-lyric(noun) () ::: Lyrik 
+lyric(noun) () ::: Lyrik
+<!--SR:!2024-10-27,4,353!2000-01-01,1,250-->
 lyric(adjective) () ::: lyrisch, gefühlvoll 
 determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung
 <!--SR:!2024-10-24,1,332!2000-01-01,1,250-->
-to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln 
+to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln
+<!--SR:!2024-10-27,4,353!2000-01-01,1,250-->
 senator(noun) (The senators are trying to amend some laws.) ::: Senator, Senatorin 
 Senator(noun) (Die Senatoren versuchen, einige Gesetze zu ändern.) ::: senator 
 casual(adjective) (I wear casual clothes outside the office., This is an informal event; you can wear casual clothing., I like parties with a casual atmosphere., I made a casual remark about the weather., I like the casual feel of beach parties., To a casual observer, the scene might appear normal., I prefer simple and casual clothing.) ::: lässig, leger, zwanglos 
