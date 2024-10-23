@@ -569,7 +569,8 @@ disorder(noun) (There is a good treatment for this mental disorder., The nursery
 to disorder(verb) () ::: zerrütten, in Unordnung bringen 
 revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The scientists' latest invention was revolutionary.) ::: revolutionär, bahnbrechend, umwälzend 
 revolutionary(noun) (As a revolutionary, my grandmother fought against the government's policies.) ::: Revolutionär, Revolutionärin 
-astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) ::: umwerfend, beeindruckend, überwältigend 
+astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) ::: umwerfend, beeindruckend, überwältigend
+<!--SR:!2024-10-24,1,333!2000-01-01,1,250-->
 to astonish(verb) (The surprising discovery astonished the scientists., The young pianist astonished the audience with his talent.) ::: erstaunen, überraschen, verblüffen 
 to generate(verb) (The batteries generate power for the radio., I can generate a query for the database., The company generates high profits., The company had generated sufficient retained earnings.) ::: generieren, erzeugen, erstellen 
 to renew(verb) (I renewed my newspaper subscription., A good polish renews the shine of the wood.) ::: erneuern, verlängern, auffrischen 
@@ -592,7 +593,8 @@ cheek(noun) (I kissed her on the cheek., He caressed her cheek., He gave her a k
 to steer(verb) (The captain steers the ship away from the cliffs., It is hard to steer a ship through the narrow., The driver saw the dog and steered in the other direction.) ::: steuern, lenken, führen 
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht 
 to mortgage(verb) (I mortgaged my house to open a bar.) ::: verpfänden, hypothekarisch belasten, als Pfand geben 
-regardless(adjective) () ::: rücksichtslos, achtlos, unbekümmert 
+regardless(adjective) () ::: rücksichtslos, achtlos, unbekümmert
+<!--SR:!2024-10-24,1,333!2000-01-01,1,250-->
 regardless(adverb) (It started to rain, but we carried on regardless.) ::: trotzdem, ohne Bezug, achtlos 
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen 
 prospective(adjective) (The local industry is ready for prospective challenges., The local industry is prepared for prospective challenges., We are well prepared for prospective challenges., We are going to meet a prospective business partner.) ::: künftig, prospektiv, voraussichtlich 
@@ -622,14 +624,16 @@ genuinely(adverb) () ::: wirklich, echt, authentisch
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft 
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell 
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System 
-Regime(noun) (Nach der Revolution wurde das Land von einem neuen Regime geführt.) ::: regime 
+Regime(noun) (Nach der Revolution wurde das Land von einem neuen Regime geführt.) ::: regime
+<!--SR:!2000-01-01,1,250!2024-10-29,6,373-->
 puzzle(noun) (The child added the final piece to the puzzle., Typically, a puzzle for small children consists of less than 50 pieces., The origin of the virus remains a puzzle to scientists.) ::: Puzzle, Rätsel, Puzzlespiel 
 to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen 
 Puzzle(noun) (Das Kind fügte das letzte Teil zum Puzzle hinzu., Typischerweise besteht ein Puzzle für Kleinkinder aus weniger als 50 Teilen., Das Puzzle hat eine große Anzahl kleiner Teile., Das Puzzle hat über tausend Teile.) ::: puzzle, jigsaw puzzle, jigsaw 
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug 
 to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen 
 intellectual(adjective) (The article remains intellectual property of the author.) ::: geistig, intellektuell, gedanklich 
-intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch 
+intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
+<!--SR:!2024-10-29,6,373!2000-01-01,1,250-->
 crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt 
 to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen
 <!--SR:!2024-10-28,5,371!2000-01-01,1,250-->
@@ -641,7 +645,8 @@ open(adjective) (The window was open, but I am closing it now., I put a wedge un
 to open(verb) (It is very easy to open the new window., The link opens in a new tab., The company is opening new branches in ten towns., I went to the bank to open a securities account., The entrepreneur opened a new market in China., I opened your letter by mistake., The new window is very hard to open., She opened her book and began to read.) ::: öffnen, sich öffnen, eröffnen 
 reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig 
 hook(noun) (He hung his coat on a hook by the door., There are some hooks on the wall to hang coats.) ::: Haken, Hook, Häkchen 
-to hook(verb) () ::: haken, anhaken, festhaken 
+to hook(verb) () ::: haken, anhaken, festhaken
+<!--SR:!2000-01-01,1,250!2024-10-28,5,373-->
 to hook(verb) (The thief tried to hook the lady's handbag.) ::: klauen
 <!--SR:!2000-01-01,1,250!2024-10-24,1,333-->
 spam(noun) () ::: Spam, Schinkenfleisch, Frühstücksfleisch
@@ -671,7 +676,8 @@ illusion(noun) (The magician was a master of deception and illusion.) ::: Illusi
 Illusion(noun) (Der Zauberkünstler war ein Meister der Täuschung und Illusion.) ::: illusion, delusion, mirage 
 ranking(noun) (My name was in third place in the ranking., The ranking of the candidates took several hours.) ::: Rangliste, Einstufung, Ranking 
 ranking(present participle) () ::: reihend, rangierend 
-to rank(verb) (She ranks among the best scientists in the world., The project manager ranked the offers according to price.) ::: zählen, einordnen, rangieren 
+to rank(verb) (She ranks among the best scientists in the world., The project manager ranked the offers according to price.) ::: zählen, einordnen, rangieren
+<!--SR:!2024-10-24,1,333!2000-01-01,1,250-->
 invasion(noun) () ::: Invasion, Einmarsch, Überfall
 <!--SR:!2024-10-29,6,372!2000-01-01,1,250-->
 Invasion(noun) () ::: invasion 
@@ -728,7 +734,8 @@ weave(noun) () ::: Gewebe, Webart, Bindung
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen 
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen 
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert 
-provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members., Members must conform to the provisions of the contract., The institution is responsible for the provision of food., Companies are allowed to make provisions for future investments., They took sufficient provisions for the long journey., The contract includes provisions on protection of personal information.) ::: Bestimmung, Regelung, Bereitstellung 
+provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members., Members must conform to the provisions of the contract., The institution is responsible for the provision of food., Companies are allowed to make provisions for future investments., They took sufficient provisions for the long journey., The contract includes provisions on protection of personal information.) ::: Bestimmung, Regelung, Bereitstellung
+<!--SR:!2000-01-01,1,250!2024-10-24,1,333-->
 to provision(verb) (The troops must be provisioned.) ::: mit Proviant beliefern, die Verpflegung liefern, verproviantieren 
 to provide(verb) (A roof provides protection from rain., We provide sustainable transport solutions., The manual provides a description of the device., The article provided some useful background information., The school will provide everything needed for the trip., Everything the children need during the school trip will be provided by the school., Linen is provided by the landlord., The language institute provides courses for beginners., He provided for his family., My family provides me with food and money., The parents provide their children with everything they need., Fruit and vegetables provide us with important vitamins., The document provides an overview of the financial status., We can also provide you with ancillary equipment.) ::: bieten, liefern, bereitstellen 
 full time(noun) () ::: Vollzeit, reguläre Spielzeit 
