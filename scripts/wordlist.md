@@ -1,17 +1,3 @@
-secular
-storage
-width
-reasonably
-well
-Analogously
-litre
-succession
-elbow
-ownership
-honesty
-rear
-sword
-legend
 Put differently
 hunger
 Particularly

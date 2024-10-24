@@ -724,3 +724,27 @@ to portion(verb) () ::: teilen, zuteilen, aufteilen
 ballet(noun) () ::: Ballett 
 Ballen(noun) () ::: bales, pads, rolls 
 Ballen(noun) (Der Bauer bündelt das Heu zu Ballen., Ich gab meinem Pferd einen neuen Ballen Heu.) ::: bale, ball, bunion 
+secular(adjective) (A secular state does not have any official religion.) ::: säkular, weltlich, laizistisch 
+storage(noun) (The storage of cheese changes its taste., A dry and dark place is ideal for the storage of wine., Proper storage of vegetables is important., The price includes transport and storage., The correct storage of wine can be quite difficult., He uses his garage for storage., The hard drive is used for the storage of data.) ::: Lagerung, Lager, Speicherung 
+width(noun) (Width, length and height are equal in a cube., I asked for the length and width in yards., The width of the sleeve is adjustable.) ::: Breite, Weite, Bandbreite 
+reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig 
+reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig 
+well() () ::: so, also 
+well(adjective) (I was ill last week but now I am well again.) ::: gesund 
+well(adverb) (She slept well in the comfortable bed., I hope you are doing well.) ::: gut, sehr, wohl 
+analogously(adverb) () ::: analog, sinngemäß 
+analogous(adjective) () ::: analog, entsprechend, sinngemäß 
+analogue(adjective) () ::: analog 
+litre(noun) () ::: Liter, L 
+succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge 
+elbow(noun) (The plumber joined the two pipes with an elbow.) ::: Ellbogen, Ellenbogen, Winkel 
+to elbow(verb) (He elbowed his way through the crowd.) ::: drängen 
+ownership(noun) (After payment, ownership passes on to the buyer., The city took ownership of the land.) ::: Eigentum, Besitz, Eigentumsrecht 
+honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufrichtigkeit 
+rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite 
+rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres 
+to rear(verb) (The farmer reared the lamb with the bottle., They reared their children to be responsible adults., The proud mother had reared seven children., The horse reared when the dog barked.) ::: aufziehen, erziehen, großziehen 
+sword(noun) (The point of the sword is very sharp., He put his sword back into its sheath.) ::: Schwert, Degen, Säbel 
+legend(noun) () ::: Legende, Sage, Mythos 
+legend(adjective / present participle) () ::: laying 
+sich legend(adjective / present participle) () ::: abating 
