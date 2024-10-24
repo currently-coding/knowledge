@@ -1,14 +1,14 @@
 {
   "settings": {
-    "flashcardEasyText": "Too easy",
+    "flashcardEasyText": "Easy",
     "flashcardGoodText": "Good",
-    "flashcardHardText": "Did not know",
+    "flashcardHardText": "Hard",
     "flashcardTags": [
-      ""
+      "#flashcards"
     ],
-    "convertFoldersToDecks": true,
+    "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
-    "burySiblingCards": true,
+    "burySiblingCards": false,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
@@ -18,24 +18,18 @@
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
-    "singleLineCardSeparator": ":=",
+    "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#learn",
-      "#mon",
-      "#tue",
-      "#wed",
-      "#thu",
-      "#fri",
-      ""
+      "#review"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
-    "autoNextNote": true,
+    "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": false,
