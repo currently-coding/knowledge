@@ -231,7 +231,7 @@ receiver(noun) (The technician repaired the receiver of our old television set.,
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
 <!--SR:!2025-01-25,98,375!2025-01-18,87,372-->
 greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashaus, Treibhaus
-<!--SR:!2024-10-17,18,355!2025-01-27,96,373-->
+<!--SR:!2025-01-19,87,375!2025-01-27,96,373-->
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
 <!--SR:!2024-12-05,56,352!2025-01-20,92,375-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
@@ -425,7 +425,7 @@ dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
 tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
 <!--SR:!2024-12-13,51,348!2024-10-25,19,365-->
 one-to-one tuition(noun) () ::: Einzelunterricht
-<!--SR:!2024-10-29,23,368!2024-10-24,18,367-->
+<!--SR:!2024-10-29,23,368!2025-01-22,90,387-->
 moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
 <!--SR:!2024-12-30,69,368!2024-12-26,64,365-->
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen
@@ -654,7 +654,7 @@ spam(noun) () ::: Spam, Schinkenfleisch, Frühstücksfleisch
 Spam(noun) () ::: spam 
 to fix(verb) (We fixed a date for the wedding., She took a brush and began to fix her hair., The hook was fixed to the wall., I fixed the cable with a clamp., He fixed my bike., He fixed the engine of his car himself., I have fixed an appointment with the mechanic., The bicycle mechanic fixed my bike.) ::: festlegen, richten, befestigen 
 fix(noun) (I really am in a fix now.) ::: Patsche, Klemme, Dilemma
-<!--SR:!2024-10-24,1,332!2000-01-01,1,250-->
+<!--SR:!2024-10-25,1,312!2000-01-01,1,250-->
 fix(adjective) (Da es fixe Kosten sind, können sie nicht verringert werden., Der Junge hat einen sehr fixen Verstand.) ::: fixed, quick, smart 
 miner(noun) () ::: Bergmann, Bergarbeiter, Kumpel 
 genetic(adjective) (There are many genetic matches between twins.) ::: genetisch, gentechnisch 
