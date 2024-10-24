@@ -15,3 +15,7 @@
 ## Thursday
 
 ## Friday
+
+
+
+- redo zellij - find reddit post

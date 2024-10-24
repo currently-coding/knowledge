@@ -1,4 +1,4 @@
-- Da konstante Richungsänderung von $\vec v$ -> [[beschleunigte Bewegung]]
+- Da konstante Richtungsänderung von $\vec v$ -> [[beschleunigte Bewegung]]
 => die Bewegung eines Körpers entlang einer Kreisbahn mit konstanter Geschwindigkeit erfordert eine *Kraft*: die **Zentripetalkraft**
 
 ## Betrag
@@ -10,3 +10,7 @@ $$
 ## Richtung
 - glf. Kreisbewegung => nur die Richtung - nicht der Betrag - von $\vec{v}$ ändert sich => $\vec{F_z}$ muss senkrecht zur Bahngeschwindigkeit wirken, d.h. $\vec{F_z}$ wirkt in *radialer* Richtung
 - In jedem Bahnpunkt wirkt die erforderliche Zentripetalkraft *radial zum Kreismittelpunkt*(=> auch $a_z$ wirkt radial zum Kreismittelpunkt)
+
+## Beispiel: Kettenkarussel
+#todo skizze importieren
+
