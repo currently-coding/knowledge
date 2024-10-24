@@ -1,6 +1,7 @@
 
 86 
 LOOP := Menge aller LOOP Funktionen
+<!--SR:!2024-10-26,3,250-->
 
 
 103:
