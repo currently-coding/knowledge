@@ -1,10 +1,3 @@
-Put differently
-hunger
-Particularly
-thread
-healthcare
-Call for
-sole
 corporation
 questionnaire
 surge
