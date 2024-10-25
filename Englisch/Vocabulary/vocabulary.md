@@ -6,7 +6,7 @@ to abstract(verb) (I will read the article and abstract the main ideas.) ::: tre
 <!--SR:!2024-12-17,55,270!2024-10-26,4,276-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2024-12-07,62,322!2024-12-13,68,310-->
-to accent(verb) ::: betonen, akzentuieren, hervorheben
+to accent(verb) ::: betonen, akzentuieren, hervorhebe
 <!--SR:!2024-12-17,71,322!2024-12-14,69,319-->
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2024-12-11,66,322!2024-12-10,65,310-->
