@@ -767,3 +767,16 @@ honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufr
 rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite 
 rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres 
 sword(noun) (The point of the sword is very sharp., He put his sword back into its sheath.) ::: Schwert, Degen, Säbel 
+hunger(noun) (After the big meal, my hunger was satisfied.) ; Hunger 
+to hunger(verb) (Mankind hungers for peace and justice.) ; hungern 
+Hunger(noun) (Nach dem großen Essen war mein Hunger gestillt.) ; hunger, famine, starvation 
+particularly(adverb) (She particularly likes yellow roses., In the third movement of the symphony, the violin was particularly beautiful., Particularly successful employees receive a bonus., My girlfriend likes roses, particularly yellow ones.) ; insbesondere, besonders, vor allem 
+particular(adjective) (I passed the exam without any particular difficulties., I pay very particular attention to grammar mistakes., In this particular election, only members of the council are eligible., The software is aimed at a particular bracket of users., My aunt is very particular about films.) ; besondere, besonderer, speziell 
+thread(noun) (Users can discuss suggestions in a thread., She used dark blue thread for the embroidery., The thread on the screw is worn down.) ; Thread, Faden, Gewinde 
+to thread(verb) (It can be difficult to thread cotton through a needle., She threaded the beads to make a necklace., When I was a kid, I loved to thread perls on a necklace.) ; einfädeln, auffädeln, aufziehen 
+Thread(noun) (Benutzer können Vorschläge in einem Thread diskutieren.) ; thread 
+healthcare(noun) (Prevention is a key element of healthcare.) ; Gesundheitswesen, Gesundheitsversorgung, Gesundheitsfürsorge 
+to call for(verb) (The prosecution is calling for a conviction., Special situations call for special measures., This problem calls for an innovative solution., The manager called for an urgent meeting., This task calls for his undivided attention.) ; fordern, erfordern, verlangen 
+sole(adjective) (The young prince was the king's sole heir., My father is the sole provider for our family.) ; einzig, alleinig, ausschließlich 
+sole(noun) (These shoes have red soles., The sole with almonds was delicious.) ; Sohle, Seezunge, Boden 
+to sole(verb) (I need to have my old shoes soled again.) ; sohlen, besohlen 
