@@ -91,7 +91,7 @@ false // boolean
 - Bestandteil von [[0304 Ausdrücke|Ausdrücken]] oder [[0305 Anweisungen]]
 -  individuelle, kontextabhängige Bedeutung
 - More: [[0308 Operatoren]]
-## Code Beispiele/Aufgaben
+## Code 
 ```cpp
 include <iostream> // preprocessor directive: including header file
 #define number unsigned int // preprocessor directive: macro
