@@ -1,10 +1,3 @@
-fond
-immigration
-pump
-resignation
-publicity
-validity
-likewise
 democratic
 dairy
 warfare
