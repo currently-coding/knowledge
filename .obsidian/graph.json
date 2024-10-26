@@ -11,56 +11,70 @@
       "query": "path:\"Computer Science\"",
       "color": {
         "a": 1,
-        "rgb": 8684285
+        "rgb": 11111485
+      }
+    },
+    {
+      "query": "path:Karteikarten 1",
+      "color": {
+        "a": 1,
+        "rgb": 14372849
+      }
+    },
+    {
+      "query": "path:Karteikarten 2",
+      "color": {
+        "a": 1,
+        "rgb": 14372849
       }
     },
     {
       "query": "path:Informatik",
       "color": {
         "a": 1,
-        "rgb": 8565518
+        "rgb": 8591890
       }
     },
     {
       "query": "path:Physik",
       "color": {
         "a": 1,
-        "rgb": 8724244
+        "rgb": 8762843
       }
     },
     {
       "query": "path:Chemie",
       "color": {
         "a": 1,
-        "rgb": 13421772
+        "rgb": 8684285
       }
     },
     {
       "query": "path:Geschichte",
       "color": {
         "a": 1,
-        "rgb": 8684285
+        "rgb": 8591890
       }
     },
     {
       "query": "path:Politik & Gesellschaft",
       "color": {
         "a": 1,
-        "rgb": 11711199
+        "rgb": 11821984
       }
     },
     {
       "query": "path:Englisch",
       "color": {
         "a": 1,
-        "rgb": 14908182
+        "rgb": 15144514
       }
     },
     {
       "query": "path:Deutsch",
       "color": {
         "a": 1,
-        "rgb": 14908065
+        "rgb": 15144385
       }
     },
     {
@@ -81,14 +95,14 @@
       "query": "path:Geographie",
       "color": {
         "a": 1,
-        "rgb": 8565518
+        "rgb": 8591890
       }
     },
     {
       "query": "path:Wirtschaft",
       "color": {
         "a": 1,
-        "rgb": 8724244
+        "rgb": 8762843
       }
     },
     {
@@ -102,7 +116,7 @@
       "query": "path:Mathematik",
       "color": {
         "a": 1,
-        "rgb": 8565518
+        "rgb": 8591890
       }
     },
     {
@@ -133,7 +147,7 @@
   "nodeSizeMultiplier": 1.2484375,
   "lineSizeMultiplier": 1.35052083333333,
   "collapse-forces": false,
-  "centerStrength": 0.411458333333333,
+  "centerStrength": 0.505208333333333,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
