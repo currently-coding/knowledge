@@ -1,4 +1,5 @@
 leap
+to widen the gap
 drawback
 to diminish
 flounder
