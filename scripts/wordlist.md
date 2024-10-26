@@ -1,24 +1,12 @@
-Put differently
-hunger
-Particularly
-thread
-healthcare
-Call for
-sole
-corporation
-questionnaire
-surge
-produce
-incentive
-Enforce
-triumph
-fond
-immigration
-pump
-resignation
-publicity
-validity
-likewise
+leap
+hyperbole(hi\`perbolli)
+to widen the gap
+to culminate
+drawback
+to diminish
+flounder
+to be lifted out of
+skyrocket
 democratic
 dairy
 warfare
