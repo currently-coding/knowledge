@@ -8,6 +8,9 @@
 ${CO2 + C -> 2 CO}$
 $\ce{ HG^2+ -> HgI2  -> [Hg^{II}I4]^2}$$
 
+```smiles
+(COOH)C
+```
 
 ```smiles
 OC(=O)C(C)=CC1=CC=CC=C1
@@ -21,7 +24,7 @@ C1=CC=C=C1
 ```smiles
 CC(C)C(=O)C(C)C
 ```
-
+ = `CC(C)C(=O)C(C)C`
 ```smiles
 C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C))))))))))))))))))))C
 ```

@@ -1,18 +1,10 @@
 [
   "obsidian-git",
-  "dataview",
-  "table-editor-obsidian",
   "obsidian-spaced-repetition",
   "templater-obsidian",
   "obsidian-hider",
-  "chem",
   "better-mathjax",
-  "obsidian-reading-time",
-  "ketcher",
   "obsidian-style-settings",
-  "obsidian-annotator",
   "obsidian-excalidraw-plugin",
-  "excalibrain",
-  "pdf-plus",
-  "obsidian-pandoc"
+  "pdf-plus"
 ]
