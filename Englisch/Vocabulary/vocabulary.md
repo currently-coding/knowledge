@@ -793,3 +793,17 @@ to enforce(verb) (The police are going to enforce the new regulation., The sente
 triumph(noun) (My team's victory was a great triumph.) ; Triumph, Sieg, Siegeszug 
 to triumph(verb) (One team will triumph at the end of the game., Justice triumphed in the courtroom.) ; siegen, den Sieg davontragen, gewinnen 
 Triumph(noun) (Der Sieg meiner Mannschaft war ein großer Triumph.) ; triumph, victory, success 
+fond(adjective) (He looked at her with a fond expression in his eyes.) ; verliebt, sehnlich, naiv 
+Fond(noun) (Kinder sollten im Fond des Autos sitzen., Ich verwendete Wasser statt Fond, um die Linsen zu kochen.) ; back, meat stock, meat juice 
+immigration(noun) () ; Immigration, Einwanderung, Zuwanderung 
+to immigrate(verb) () ; einwandern, immigrieren, zuwandern 
+Immigration(noun) () ; immigration 
+to pump(verb) (The heart pumps blood around the body.) ; pumpen, aufpumpen 
+pump(noun) (There are two pumps to fill the pool with water., The overflow is caused by a faulty pump.) ; Pumpe 
+pump(noun) (The pumps are too large for my feet.) ; Turnschuh, Sportschuh 
+resignation(noun) (The politician announced his resignation., Taking action is better than resignation., I handed in my resignation and found a new job.) ; Rücktritt, Resignation, Kündigung 
+Resignation(noun) (Etwas zu unternehmen ist besser als Resignation.) ; resignation 
+publicity(noun) (The publicity for the new book attracted many readers., My company has had good publicity in the media.) ; Werbung, Publicity, Publizität 
+Publicity(noun) (Meine Firma hat in den Medien gute Publicity bekommen.) ; publicity, exposure, hype 
+validity(noun) (The results confirm the validity of the assumption., The validity of his arguments is unquestionable.) ; Gültigkeit, Richtigkeit, Aussagekraft 
+likewise(adverb) (Everybody started dancing, so I did likewise., Your brother is studying hard and you should do likewise.) ; ebenfalls, gleichfalls, ebenso 
