@@ -1,5 +1,7 @@
 leap
+hyperbole(hi\`perbolli)
 to widen the gap
+to culminate
 drawback
 to diminish
 flounder
