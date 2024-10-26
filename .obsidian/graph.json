@@ -5,152 +5,159 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"14 CS\"  ",
+      "query": "path:\"Computer Science\"  ",
       "color": {
         "a": 1,
-        "rgb": 2582995
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:\"00 Karteikarten 1\"  ",
+      "query": "path:Chemie  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 14725458
       }
     },
     {
-      "query": "path:\"00 Karteikarten 2\"  ",
+      "query": "path:Deutsch  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 11657298
       }
     },
     {
-      "query": "path:\"01 Informatik\"  ",
+      "query": "path:Englisch  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 5431378
       }
     },
     {
-      "query": "path:\"03 Physik\"  ",
+      "query": "path:Ethik  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 5431473
       }
     },
     {
-      "query": "path:\"02 Chemie\"  ",
+      "query": "path:Excalidraw  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 5419488
       }
     },
     {
-      "query": "path:\"04 Geschichte\"  ",
+      "query": "path:Geographie  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 5395168
       }
     },
     {
-      "query": "path:\"06 Politik & Gesellschaft\"  ",
+      "query": "path:Geschichte  ",
       "color": {
         "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "path:\"07 Englisch\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
-      }
-    },
-    {
-      "query": "path:\"08 Deutsch\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:\"05 Ethik\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"09 Musik\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:\"10 Geographie\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "path:\"11 Wirtschaft\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "path:\"12 Latein\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "path:\"13 Mathematik\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
+        "rgb": 11621088
       }
     },
     {
       "query": "path:Images  ",
       "color": {
         "a": 1,
-        "rgb": 13092807
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:Informatik  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Latein  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Mathematik  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Musik  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:PDFs  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Physik  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Politik & Gesellschaft\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     },
     {
       "query": "path:Settings  ",
       "color": {
         "a": 1,
-        "rgb": 3552822
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Vim  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
+    },
+    {
+      "query": "path:Wirtschaft  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     },
     {
       "query": "path:scripts  ",
       "color": {
         "a": 1,
-        "rgb": 9737364
+        "rgb": 5395026
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.27395833333333,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.35052083333333,
+  "lineSizeMultiplier": 1.35052083333333,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.505208333333333,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22907432640962713,
-  "close": true
+  "scale": 0.22907432640962694,
+  "close": false
 }

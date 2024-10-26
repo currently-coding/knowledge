@@ -6,7 +6,7 @@ to abstract(verb) (I will read the article and abstract the main ideas.) ::: tre
 <!--SR:!2024-12-17,55,270!2024-10-26,4,276-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2024-12-07,62,322!2024-12-13,68,310-->
-to accent(verb) ::: betonen, akzentuieren, hervorheben
+to accent(verb) ::: betonen, akzentuieren, hervorhebe
 <!--SR:!2024-12-17,71,322!2024-12-14,69,319-->
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2024-12-11,66,322!2024-12-10,65,310-->
@@ -767,3 +767,43 @@ honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufr
 rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite 
 rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres 
 sword(noun) (The point of the sword is very sharp., He put his sword back into its sheath.) ::: Schwert, Degen, Säbel 
+hunger(noun) (After the big meal, my hunger was satisfied.) ; Hunger 
+to hunger(verb) (Mankind hungers for peace and justice.) ; hungern 
+Hunger(noun) (Nach dem großen Essen war mein Hunger gestillt.) ; hunger, famine, starvation 
+particularly(adverb) (She particularly likes yellow roses., In the third movement of the symphony, the violin was particularly beautiful., Particularly successful employees receive a bonus., My girlfriend likes roses, particularly yellow ones.) ; insbesondere, besonders, vor allem 
+particular(adjective) (I passed the exam without any particular difficulties., I pay very particular attention to grammar mistakes., In this particular election, only members of the council are eligible., The software is aimed at a particular bracket of users., My aunt is very particular about films.) ; besondere, besonderer, speziell 
+thread(noun) (Users can discuss suggestions in a thread., She used dark blue thread for the embroidery., The thread on the screw is worn down.) ; Thread, Faden, Gewinde 
+to thread(verb) (It can be difficult to thread cotton through a needle., She threaded the beads to make a necklace., When I was a kid, I loved to thread perls on a necklace.) ; einfädeln, auffädeln, aufziehen 
+Thread(noun) (Benutzer können Vorschläge in einem Thread diskutieren.) ; thread 
+healthcare(noun) (Prevention is a key element of healthcare.) ; Gesundheitswesen, Gesundheitsversorgung, Gesundheitsfürsorge 
+to call for(verb) (The prosecution is calling for a conviction., Special situations call for special measures., This problem calls for an innovative solution., The manager called for an urgent meeting., This task calls for his undivided attention.) ; fordern, erfordern, verlangen 
+sole(adjective) (The young prince was the king's sole heir., My father is the sole provider for our family.) ; einzig, alleinig, ausschließlich 
+sole(noun) (These shoes have red soles., The sole with almonds was delicious.) ; Sohle, Seezunge, Boden 
+to sole(verb) (I need to have my old shoes soled again.) ; sohlen, besohlen 
+corporation(noun) (The businessman founded a corporation., The corporation has holdings of several other companies., My father works for a big international corporation., The corporation distributed dividends to its shareholders., The investors united to form a corporation., The board is planning the affiliation of two companies to the corporation.) ; Gesellschaft, Unternehmen, Aktiengesellschaft 
+corporate(adjective) (The project involves a corporate responsibility of all team members., The company is a corporate member of the association.) ; gemeinsam, körperschaftlich, korporativ 
+questionnaire(noun) (The respondents filled in the questionnaire., I checked all the boxes on the questionnaire., The company sent a questionnaire to all employees.) ; Fragebogen, Umfrage, Fragenkatalog 
+surge(noun) (The surge in temperatures in the summer was not unexpected., The surge in demand was very beneficial for the company., An electrical surge damaged the computer., The minister's speech caused a surge of enthusiasm., We sat at the beach and listened to the surge.) ; Anstieg, Überspannung, Welle 
+to surge(verb) (We opened the doors and people surged into the hall., It was raining, and the waves were surging around the pier.) ; strömen, wogen, drängen 
+to produce(verb) (The farm mainly produces milk and cheese., The country produces many goods and exports them abroad., The synergy of hydrogen and oxygen produces water., The filament heats up and produces light., The factory produces high-quality tools., I work for a company which produces cars., My online search only produced two hits., The company produces tailored suits for men., The new operating system only produces more errors., Many people worked in mines to produce coal., Please produce the necessary documents at the counter.) ; produzieren, erzeugen, fertigen 
+produce(noun) (Organic produce can be bought in the farm shop.) ; Produkte, Produkt, Erzeugnisse 
+incentive(noun) (The gold medal was an incentive for him to improve his performance further., My termination was a good incentive to look for a better job., The medal was an incentive for him to improve his performance even more.) ; Anreiz, Anreize, Ansporn 
+incentive(present participle) () ; anfeuernd 
+to enforce(verb) (The police are going to enforce the new regulation., The sentence was enforced.) ; durchsetzen, vollstrecken, durchführen 
+triumph(noun) (My team's victory was a great triumph.) ; Triumph, Sieg, Siegeszug 
+to triumph(verb) (One team will triumph at the end of the game., Justice triumphed in the courtroom.) ; siegen, den Sieg davontragen, gewinnen 
+Triumph(noun) (Der Sieg meiner Mannschaft war ein großer Triumph.) ; triumph, victory, success 
+fond(adjective) (He looked at her with a fond expression in his eyes.) ; verliebt, sehnlich, naiv 
+Fond(noun) (Kinder sollten im Fond des Autos sitzen., Ich verwendete Wasser statt Fond, um die Linsen zu kochen.) ; back, meat stock, meat juice 
+immigration(noun) () ; Immigration, Einwanderung, Zuwanderung 
+to immigrate(verb) () ; einwandern, immigrieren, zuwandern 
+Immigration(noun) () ; immigration 
+to pump(verb) (The heart pumps blood around the body.) ; pumpen, aufpumpen 
+pump(noun) (There are two pumps to fill the pool with water., The overflow is caused by a faulty pump.) ; Pumpe 
+pump(noun) (The pumps are too large for my feet.) ; Turnschuh, Sportschuh 
+resignation(noun) (The politician announced his resignation., Taking action is better than resignation., I handed in my resignation and found a new job.) ; Rücktritt, Resignation, Kündigung 
+Resignation(noun) (Etwas zu unternehmen ist besser als Resignation.) ; resignation 
+publicity(noun) (The publicity for the new book attracted many readers., My company has had good publicity in the media.) ; Werbung, Publicity, Publizität 
+Publicity(noun) (Meine Firma hat in den Medien gute Publicity bekommen.) ; publicity, exposure, hype 
+validity(noun) (The results confirm the validity of the assumption., The validity of his arguments is unquestionable.) ; Gültigkeit, Richtigkeit, Aussagekraft 
+likewise(adverb) (Everybody started dancing, so I did likewise., Your brother is studying hard and you should do likewise.) ; ebenfalls, gleichfalls, ebenso 
