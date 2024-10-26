@@ -1,3 +1,9 @@
+leap
+drawback
+to diminish
+flounder
+to be lifted out of
+skyrocket
 democratic
 dairy
 warfare
