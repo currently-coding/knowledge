@@ -11,126 +11,126 @@
       "query": "path:\"14 CS\"  ",
       "color": {
         "a": 1,
-        "rgb": 2582995
+        "rgb": 8720084
       }
     },
     {
       "query": "path:\"00 Karteikarten 1\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 13421772
       }
     },
     {
       "query": "path:\"00 Karteikarten 2\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 13421772
       }
     },
     {
       "query": "path:\"01 Informatik\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 8565518
       }
     },
     {
       "query": "path:\"03 Physik\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 8724244
       }
     },
     {
       "query": "path:\"02 Chemie\"  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 8684285
       }
     },
     {
       "query": "path:\"04 Geschichte\"  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 8565518
       }
     },
     {
       "query": "path:\"06 Politik & Gesellschaft\"  ",
       "color": {
         "a": 1,
-        "rgb": 11361494
+        "rgb": 11711199
       }
     },
     {
       "query": "path:\"07 Englisch\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048429
+        "rgb": 14908182
       }
     },
     {
       "query": "path:\"08 Deutsch\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14908065
       }
     },
     {
       "query": "path:\"05 Ethik\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 14928644
       }
     },
     {
       "query": "path:\"09 Musik\"  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 11792768
       }
     },
     {
       "query": "path:\"10 Geographie\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 8565518
       }
     },
     {
       "query": "path:\"11 Wirtschaft\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 8724244
       }
     },
     {
       "query": "path:\"12 Latein\"  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 8684285
       }
     },
     {
       "query": "path:\"13 Mathematik\"  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 8565518
       }
     },
     {
       "query": "path:Images  ",
       "color": {
         "a": 1,
-        "rgb": 13092807
+        "rgb": 13421772
       }
     },
     {
       "query": "path:Settings  ",
       "color": {
         "a": 1,
-        "rgb": 3552822
+        "rgb": 3566206
       }
     },
     {
@@ -151,6 +151,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3436114896144407,
-  "close": true
+  "scale": 0.3436114896144405,
+  "close": false
 }
