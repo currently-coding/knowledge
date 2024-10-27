@@ -23,7 +23,7 @@ to account(verb) (The police asked him to account for his whereabouts at the tim
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
 <!--SR:!2024-12-25,77,322!2024-11-16,43,290-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) ::: genau, korrekt, sorgfältig, richtig
-<!--SR:!2024-12-04,61,319!2024-10-26,26,302-->
+<!--SR:!2024-12-04,61,319!2025-02-12,108,322-->
 acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
 <!--SR:!2024-11-21,46,302!2024-11-28,55,310-->
 acid(adjective) (I do not like acid fruits.) ::: sauer
@@ -361,7 +361,7 @@ revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Rev
 to revenge oneself(verb) () ::: sich rächen
 <!--SR:!2025-01-27,96,385!2024-12-29,70,359-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
-<!--SR:!2025-01-13,83,379!2024-10-27,17,347-->
+<!--SR:!2025-01-13,83,379!2025-01-15,80,367-->
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
 <!--SR:!2024-11-30,37,345!2025-01-02,71,359-->
 thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, hocherfreut, freudig erregt
@@ -377,11 +377,11 @@ to clarify(verb) (In the first place, the police officer needed to clarify the f
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren
 <!--SR:!2024-10-25,19,368!2024-12-11,50,361-->
 oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff
-<!--SR:!2024-11-02,27,367!2024-10-25,19,361-->
+<!--SR:!2024-11-02,27,367!2025-01-28,93,381-->
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
 <!--SR:!2025-01-03,73,367!2025-01-15,84,381-->
 to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
-<!--SR:!2024-10-27,21,368!2025-01-28,97,381-->
+<!--SR:!2025-02-08,104,388!2025-01-28,97,381-->
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
 <!--SR:!2024-12-20,58,367!2025-01-09,79,361-->
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
@@ -399,7 +399,7 @@ to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun
 sigh(noun) () ::: Seufzer, Seufzen
 <!--SR:!2025-01-21,89,385!2024-10-30,24,367-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
-<!--SR:!2024-11-02,26,369!2024-10-27,21,367-->
+<!--SR:!2024-11-02,26,369!2025-02-09,105,387-->
 surveillance(noun) (The building is under surveillance., Satellites allow an exhaustive surveillance., The police have the suspect under surveillance.) ::: Überwachung, Aufsicht, Kontrolle
 <!--SR:!2024-11-05,27,367!2024-11-04,28,369-->
 restoration(noun) (The restoration of the old church took many years., Her job is the restoration of damaged artworks., The restoration of the castle took long, but it was worth it., The restoration of the castle took several years.) ::: Wiederherstellung, Restauration, Restaurierung
@@ -544,7 +544,7 @@ to expect(verb) (The professor expects a term paper from every student., I expec
 reproduction(noun) (The reproduction of bootlegs is strictly prohibited.) ::: Vervielfältigung, Reproduktion, Wiedergabe
 <!--SR:!2024-10-29,2,331!2000-01-01,1,250-->
 cabin(noun) (The captain has a private cabin on the ship., My parents own a cabin in the mountains., The cabin has no heating, so it is only occupied in the summer., The ship's cabin was surprisingly spacious.) ::: Kabine, Hütte, Kajüte
-<!--SR:!2024-10-27,4,352!2000-01-01,1,250-->
+<!--SR:!2024-11-14,18,372!2000-01-01,1,250-->
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich 
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
 <!--SR:!2000-01-01,1,250!2024-11-15,23,385-->
@@ -567,7 +567,7 @@ revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The 
 <!--SR:!2024-10-29,5,373!2000-01-01,1,250-->
 revolutionary(noun) (As a revolutionary, my grandmother fought against the government's policies.) ::: Revolutionär, Revolutionärin 
 astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) ::: umwerfend, beeindruckend, überwältigend
-<!--SR:!2024-10-27,3,333!2000-01-01,1,250-->
+<!--SR:!2024-11-09,13,353!2000-01-01,1,250-->
 to astonish(verb) (The surprising discovery astonished the scientists., The young pianist astonished the audience with his talent.) ::: erstaunen, überraschen, verblüffen 
 to generate(verb) (The batteries generate power for the radio., I can generate a query for the database., The company generates high profits., The company had generated sufficient retained earnings.) ::: generieren, erzeugen, erstellen 
 to renew(verb) (I renewed my newspaper subscription., A good polish renews the shine of the wood.) ::: erneuern, verlängern, auffrischen 
@@ -662,7 +662,7 @@ illusion(noun) (The magician was a master of deception and illusion.) ::: Illusi
 ranking(noun) (My name was in third place in the ranking., The ranking of the candidates took several hours.) ::: Rangliste, Einstufung, Ranking 
 ranking(present participle) () ::: reihend, rangierend 
 to rank(verb) (She ranks among the best scientists in the world., The project manager ranked the offers according to price.) ::: einordnen
-<!--SR:!2024-10-27,3,333!2000-01-01,1,250-->
+<!--SR:!2024-11-10,14,353!2000-01-01,1,250-->
 invasion(noun) () ::: Invasion, Einmarsch, Überfall
 <!--SR:!2024-10-29,6,372!2000-01-01,1,250-->
 index(noun) (I took a look at the index before buying the stocks., Every library has a bibliographic index., The chapter numbers are listed in the index.) ::: Index, Zeigefinger, Verzeichnis 
@@ -710,7 +710,7 @@ to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen 
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert 
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members., Members must conform to the provisions of the contract., The institution is responsible for the provision of food., Companies are allowed to make provisions for future investments., They took sufficient provisions for the long journey., The contract includes provisions on protection of personal information.) ::: Bestimmung, Regelung, Bereitstellung
-<!--SR:!2000-01-01,1,250!2024-10-25,1,313-->
+<!--SR:!2000-01-01,1,250!2024-10-30,3,313-->
 to provision(verb) (The troops must be provisioned.) ::: mit Proviant beliefern, die Verpflegung liefern, verproviantieren 
 to provide(verb) (A roof provides protection from rain., We provide sustainable transport solutions., The manual provides a description of the device., The article provided some useful background information., The school will provide everything needed for the trip., Everything the children need during the school trip will be provided by the school., Linen is provided by the landlord., The language institute provides courses for beginners., He provided for his family., My family provides me with food and money., The parents provide their children with everything they need., Fruit and vegetables provide us with important vitamins., The document provides an overview of the financial status., We can also provide you with ancillary equipment.) ::: bieten, liefern, bereitstellen 
 full time(noun) () ::: Vollzeit, reguläre Spielzeit
