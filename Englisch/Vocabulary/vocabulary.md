@@ -521,7 +521,8 @@ craft(noun) (I want to learn a craft like mosaics or carving., The craft crossed
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
 <!--SR:!2000-01-01,1,250!2024-11-15,24,385-->
 to seize(verb) (She seized the opportunity and started a new life., The customs officer seized the undeclared goods., The police seized the suspect when he tried to run., She seized the opportunity to start her own business., Banks sometimes seize debtors' assets., The illegal items were seized at the border., The police seized the stolen goods., The invaders seized the castle after a tough battle.) ::: ergreifen, beschlagnahmen, packen 
-headquarters(noun) (The company's headquarters are situated in Paris., Many companies have their headquarters in New York., The distribution of our products is managed from the headquarters., Headquarters is responsible for the commissioning of external suppliers.) ::: Hauptsitz, Zentrale, Hauptgeschäftsstelle 
+headquarters(noun) (The company's headquarters are situated in Paris., Many companies have their headquarters in New York., The distribution of our products is managed from the headquarters., Headquarters is responsible for the commissioning of external suppliers.) ::: Hauptsitz, Zentrale, Hauptgeschäftsstelle
+<!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
 headquarters(noun) () ::: Hauptquartier
 <!--SR:!2000-01-01,1,250!2024-10-29,6,372-->
 protocol(noun) (They followed the procedures described in the protocol.) ::: Protokoll, diplomatische Etikette, Verhandlungsprotokoll 
@@ -533,7 +534,8 @@ to globalize(verb) () ::: globalisieren
 <!--SR:!2024-10-28,5,372!2024-11-13,24,385-->
 to slam(verb) (The film critic slammed the new movie in a brutal review., The leader of the opposition slams the president's policy.) ::: knallen, zuschlagen, verreißen
 <!--SR:!2024-11-01,13,365!2000-01-01,1,250-->
-slam(noun) () ::: Zuschlagen, Zuknallen, Aufschlagen 
+slam(noun) () ::: Zuschlagen, Zuknallen, Aufschlagen
+<!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
 design(noun) (The watch is available in a variety of designs., The new computer has a very sleek design., I spent many hours on the design of the website., The graphic design of the game is very complex., The committee is responsible for the design of new strategies., The clever design protects the house from wind damage., The design of the components ensures that the machine works., She drew the design to be printed on the fabric., The design of the new dress was very striking.) ::: Design, Gestaltung
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
 to design(verb) (He designed the website for his small business himself., The company commissioned me to design its new logo., Nobody has designed a flying car yet., The model was designed by an architect., We designed the car for two people only., Our graphic artist has designed a new company logo., The designer is designing her new collection., The architect designed a new school building., The architect designed the model of the house., I want to become an architect and design luxury villas.) ::: gestalten, entwickeln, konzipieren
@@ -563,7 +565,8 @@ disagreement(noun) (They resolved their disagreement with a compromise., The par
 to interact(verb) (In modern computer games, you can interact with other players., The experiment showed how atoms interact with each other.) ::: interagieren, wechselwirken, zusammenwirken
 <!--SR:!2024-10-28,5,371!2000-01-01,1,250-->
 notably(adverb) (The tax reform will affect many people, notably entrepreneurs., The tax reform will benefit many, notably young people.) ::: insbesondere, besonders, vor allem 
-notable(adjective) (The designer was a notable figure in the fashion world., The reform led to a notable improvement of public health., The scientist made a notable discovery., There is a notable want of teachers in my school district., The painter was a notable artist of his time., The hotel welcomes many notable guests.) ::: wichtig, deutlich, bemerkenswert 
+notable(adjective) (The designer was a notable figure in the fashion world., The reform led to a notable improvement of public health., The scientist made a notable discovery., There is a notable want of teachers in my school district., The painter was a notable artist of his time., The hotel welcomes many notable guests.) ::: wichtig, deutlich, bemerkenswert
+<!--SR:!2024-10-31,4,356!2000-01-01,1,250-->
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt 
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
 <!--SR:!2024-10-28,5,372!2000-01-01,1,250-->
@@ -610,7 +613,8 @@ predictable(adjective) (There were clouds in the sky, so the rain was predictabl
 <!--SR:!2000-01-01,1,250!2024-10-29,6,372-->
 to predict(verb) (The weather forecast predicts sunshine for the weekend., Experts predict a positive economic development for next year., The weather forecast predicts rain., Experts predict a positive economic development.) ::: vorhersagen, prognostizieren, voraussagen
 <!--SR:!2024-10-28,5,372!2024-11-02,6,375-->
-rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung 
+rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung
+<!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
 to rot(verb) (Organic substances rot after a while., The fruit was no longer fresh and started to rot.) ::: verrotten, faulen, verfaulen 
 modest(adjective) (He contented himself with a modest dinner.) ::: bescheiden, schlicht, dezent
 <!--SR:!2024-10-28,1,335!2000-01-01,1,250-->
@@ -643,7 +647,7 @@ intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
 <!--SR:!2024-10-29,6,373!2024-11-02,6,375-->
 crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt 
 to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen
-<!--SR:!2024-10-28,5,371!2000-01-01,1,250-->
+<!--SR:!2024-10-28,5,371!2024-11-01,5,376-->
 crack(interjection) () ::: knack 
 success(noun) (His first book was a great success, everybody loved it., The book was a huge success.) ::: Erfolg, Gelingen, Triumph
 <!--SR:!2024-10-28,5,372!2000-01-01,1,250-->
@@ -651,7 +655,7 @@ reluctant(adjective) (I was reluctant at first, but they managed to convince me.
 <!--SR:!2000-01-01,1,250!2024-10-28,1,335-->
 hook(noun) (He hung his coat on a hook by the door., There are some hooks on the wall to hang coats.) ::: Haken, Hook, Häkchen 
 to hook(verb) () ::: haken, anhaken, festhaken
-<!--SR:!2000-01-01,1,250!2024-10-28,1,293-->
+<!--SR:!2024-10-31,4,356!2024-10-28,1,293-->
 to fix(verb) (We fixed a date for the wedding., She took a brush and began to fix her hair., The hook was fixed to the wall., I fixed the cable with a clamp., He fixed my bike., He fixed the engine of his car himself., I have fixed an appointment with the mechanic., The bicycle mechanic fixed my bike.) ::: festlegen, richten, befestigen 
 total(noun) (The company invested a total of ten million dollars.) ::: Total, Gesamtbetrag, Gesamtzahl
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
@@ -725,7 +729,8 @@ weave(noun) () ::: Gewebe, Webart, Bindung
 <!--SR:!2024-10-28,1,335!2000-01-01,1,250-->
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen 
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen 
-worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert 
+worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
+<!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members., Members must conform to the provisions of the contract., The institution is responsible for the provision of food., Companies are allowed to make provisions for future investments., They took sufficient provisions for the long journey., The contract includes provisions on protection of personal information.) ::: Bestimmung, Regelung, Bereitstellung
 <!--SR:!2000-01-01,1,250!2024-10-30,3,313-->
 to provision(verb) (The troops must be provisioned.) ::: mit Proviant beliefern, die Verpflegung liefern, verproviantieren 
@@ -736,7 +741,7 @@ full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig
 <!--SR:!2000-01-01,1,250!2024-10-30,6,352-->
 full-time(adverb) (I work full-time in an office.) ::: ganztags 
 jail(noun) (The man was in jail for theft.) ::: Gefängnis, Knast, Kerker
-<!--SR:!2024-11-01,5,375!2000-01-01,1,250-->
+<!--SR:!2024-11-01,5,375!2024-11-01,5,376-->
 to jail(verb) () ::: ins Gefängnis bringen, einsperren 
 ink(noun) (As per the instructions, I filled out the form in blue ink., The squid discharges ink to defend itself.) ::: Tinte, Farbe, Tusche
 <!--SR:!2024-11-01,5,375!2000-01-01,1,250-->
@@ -757,7 +762,8 @@ portion(noun) () ::: Mitgift
 to portion(verb) () ::: teilen, zuteilen, aufteilen
 <!--SR:!2000-01-01,1,250!2024-10-28,1,335-->
 secular(adjective) (A secular state does not have any official religion.) ::: säkular, weltlich, laizistisch 
-storage(noun) (The storage of cheese changes its taste., A dry and dark place is ideal for the storage of wine., Proper storage of vegetables is important., The price includes transport and storage., The correct storage of wine can be quite difficult., He uses his garage for storage., The hard drive is used for the storage of data.) ::: Lagerung, Lager, Speicherung 
+storage(noun) (The storage of cheese changes its taste., A dry and dark place is ideal for the storage of wine., Proper storage of vegetables is important., The price includes transport and storage., The correct storage of wine can be quite difficult., He uses his garage for storage., The hard drive is used for the storage of data.) ::: Lagerung, Lager, Speicherung
+<!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
 width(noun) (Width, length and height are equal in a cube., I asked for the length and width in yards., The width of the sleeve is adjustable.) ::: Breite, Weite, Bandbreite
 <!--SR:!2024-11-02,6,375!2000-01-01,1,250-->
 reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig 
