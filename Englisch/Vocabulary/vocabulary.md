@@ -650,7 +650,8 @@ to fix(verb) (We fixed a date for the wedding., She took a brush and began to fi
 total(noun) (The company invested a total of ten million dollars.) ::: Total, Gesamtbetrag, Gesamtzahl
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
 total(adjective) (The total number of participants was 25., The course permits total immersion in the language.) ::: total, gesamt, völlig 
-assistance(noun) (The countries have promised their financial assistance.) ::: Unterstützung, Hilfe, Assistenz 
+assistance(noun) (The countries have promised their financial assistance.) ::: Unterstützung, Hilfe, Assistenz
+<!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
 to assist(verb) (It's her job to assist the project manager., The pupil assisted the teacher with the experiment., The girl assisted her father with the cooking., I will always assist my brother in times of need., He assisted his friends in the kitchen., If any problems arise, we will assist our partners., The consultant assisted the company in drawing up a marketing plan., The nurse assisted the doctor during the operation.) ::: unterstützen, fördern, helfen
 <!--SR:!2024-11-02,6,375!2000-01-01,1,250-->
 relevance(noun) (I could not see the relevance of his argument., The solution of the problem is of the highest relevance.) ::: Relevanz, Bedeutung, Wichtigkeit
@@ -672,7 +673,8 @@ index(noun) (I took a look at the index before buying the stocks., Every library
 <!--SR:!2024-11-01,5,375!2000-01-01,1,250-->
 to index(verb) (I index all my documents in order to find them more easily.) ::: indizieren, erschließen, indexieren
 <!--SR:!2000-01-01,1,250!2024-10-29,6,371-->
-suspicious(adjective) (I heard suspicious noises in the attic., The investigator gave me a suspicious look.) ::: verdächtig, misstrauisch, argwöhnisch 
+suspicious(adjective) (I heard suspicious noises in the attic., The investigator gave me a suspicious look.) ::: verdächtig, misstrauisch, argwöhnisch
+<!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
 governor(noun) (The governor of my home state was elected by a vast majority.) ::: Gouverneur, Statthalter, Landeshauptmann 
 spare(noun) (I have bought spares for the repair of my car., He lost his key, but luckily he had a spare.) ::: Ersatzteil, Ersatz, Reserve 
 to spare(verb) (Luckily, the butcher spared me a detailed description of his work., I will give you the money I can spare., Fortunately, my son was spared from the sickness.) ::: ersparen, erübrigen, verschonen
@@ -737,7 +739,8 @@ to improve(verb) (The condition improved after a higher dose was given., I am su
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
 newly(adverb) (The hotel rooms are renovated and newly furnished.) ::: neu, neuartig, frisch
 <!--SR:!2000-01-01,1,250!2024-10-31,4,355-->
-new(adjective) (My father bought himself a new car., My car has new tyres., Congrats on your new job!, The exotic spices were new to me.) ::: neu, ungewohnt, fremdartig 
+new(adjective) (My father bought himself a new car., My car has new tyres., Congrats on your new job!, The exotic spices were new to me.) ::: neu, ungewohnt, fremdartig
+<!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
 duration(noun) (The duration of the tests will not exceed two weeks., The duration of the project is six months.) ::: Dauer, Laufzeit, Zeitraum
 <!--SR:!2024-11-02,6,375!2000-01-01,1,250-->
 upcoming(adjective) (The department is preparing for the upcoming inspection., They handed out flyers for the upcoming concert., We will need more staff for the upcoming event., The trainee talked to her mentor about the upcoming exam.) ::: anstehend, bevorstehend, kommend
