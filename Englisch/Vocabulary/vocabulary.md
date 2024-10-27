@@ -526,7 +526,7 @@ headquarters(noun) () ::: Hauptquartier
 <!--SR:!2000-01-01,1,250!2024-10-29,6,372-->
 protocol(noun) (They followed the procedures described in the protocol.) ::: Protokoll, diplomatische Etikette, Verhandlungsprotokoll 
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
-<!--SR:!2000-01-01,1,250!2024-10-28,5,372-->
+<!--SR:!2024-11-01,5,376!2024-10-28,5,372-->
 globalization(noun) () ::: Globalisierung
 <!--SR:!2024-11-11,19,385!2024-11-02,6,375-->
 to globalize(verb) () ::: globalisieren
@@ -580,7 +580,8 @@ to astonish(verb) (The surprising discovery astonished the scientists., The youn
 to generate(verb) (The batteries generate power for the radio., I can generate a query for the database., The company generates high profits., The company had generated sufficient retained earnings.) ::: generieren, erzeugen, erstellen 
 to renew(verb) (I renewed my newspaper subscription., A good polish renews the shine of the wood.) ::: erneuern, verlängern, auffrischen
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
-purely(adverb) (I am asking purely to understand better.) ::: pur, bloß, lauter 
+purely(adverb) (I am asking purely to understand better.) ::: pur, bloß, lauter
+<!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
 pure(adjective) (It was pure coincidence that they were in the same city that day., We only use natural oils and pure essences., The necklace was made of pure gold., She looked at the gift with pure joy.) ::: rein, pur, unverfälscht 
 timely(adjective) (Timely procurement of raw materials is essential for production., The supplier is responsible for timely delivery.) ::: rechtzeitig, fristgerecht, zeitgerecht
 <!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
