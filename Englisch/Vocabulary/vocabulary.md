@@ -579,7 +579,8 @@ to renew(verb) (I renewed my newspaper subscription., A good polish renews the s
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
 purely(adverb) (I am asking purely to understand better.) ::: pur, bloß, lauter 
 pure(adjective) (It was pure coincidence that they were in the same city that day., We only use natural oils and pure essences., The necklace was made of pure gold., She looked at the gift with pure joy.) ::: rein, pur, unverfälscht 
-timely(adjective) (Timely procurement of raw materials is essential for production., The supplier is responsible for timely delivery.) ::: rechtzeitig, fristgerecht, zeitgerecht 
+timely(adjective) (Timely procurement of raw materials is essential for production., The supplier is responsible for timely delivery.) ::: rechtzeitig, fristgerecht, zeitgerecht
+<!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
 cute(adjective) (This little dog is cute., Our kitten is really cute., I now have an adorable, cute kitten., My little niece is incredibly cute.) ::: niedlich, putzig, süß 
 globe(noun) () ::: Welt, Globus, Erdball 
 to shoot(verb) (An archer shoots arrows at a target., He shoots with pinpoint precision., The director decided to shoot the scene outside., With this new camera, you can shoot in any light., The boy pulled the trigger but the toy pistol did not shoot., The seedlings began to shoot after two weeks.) ::: schießen, drehen, fotografieren
@@ -602,7 +603,7 @@ random(adjective) (I had a random encounter with an old friend today., The selec
 predictable(adjective) (There were clouds in the sky, so the rain was predictable., My friend is pretty predictable, I always know what he is going to say., We offer all our services at predictable costs.) ::: vorhersehbar, berechenbar, kalkulierbar
 <!--SR:!2000-01-01,1,250!2024-10-29,6,372-->
 to predict(verb) (The weather forecast predicts sunshine for the weekend., Experts predict a positive economic development for next year., The weather forecast predicts rain., Experts predict a positive economic development.) ::: vorhersagen, prognostizieren, voraussagen
-<!--SR:!2024-10-28,5,372!2000-01-01,1,250-->
+<!--SR:!2024-10-28,5,372!2024-11-02,6,375-->
 rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung 
 to rot(verb) (Organic substances rot after a while., The fruit was no longer fresh and started to rot.) ::: verrotten, faulen, verfaulen 
 modest(adjective) (He contented himself with a modest dinner.) ::: bescheiden, schlicht, dezent
@@ -621,7 +622,8 @@ dynamic(noun) () ::: Dynamik
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft 
-mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell 
+mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
+<!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
 <!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
 puzzle(noun) (The child added the final piece to the puzzle., Typically, a puzzle for small children consists of less than 50 pieces., The origin of the virus remains a puzzle to scientists.) ::: Puzzle, Rätsel, Puzzlespiel 
@@ -682,7 +684,7 @@ graphic(adjective) (The graphic design of the game is very complex., A chart is 
 firm(noun) (My brother runs a successful firm., The firm was taken over by a large group.) ::: Firma, Unternehmen, Betrieb
 <!--SR:!2024-11-01,5,375!2000-01-01,1,250-->
 firm(adjective) (The material is rigid and firm., Our company values trust as a firm basis for business., He is firm with his children.) ::: fest, solide, streng
-<!--SR:!2024-11-11,15,352!2000-01-01,1,250-->
+<!--SR:!2024-11-11,15,352!2024-11-02,6,375-->
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
 <!--SR:!2024-11-09,13,352!2000-01-01,1,250-->
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif
@@ -730,13 +732,15 @@ ink(noun) (As per the instructions, I filled out the form in blue ink., The squi
 <!--SR:!2024-11-01,5,375!2000-01-01,1,250-->
 to ink(verb) (Both parties inked the agreement.) ::: unterzeichnen, einfärben, tätowieren 
 vibrant(adjective) (The city is famous for its vibrant cultural life., She was wearing a pullover in vibrant hues.) ::: lebendig, leuchtend, vital 
-to improve(verb) (The condition improved after a higher dose was given., I am sure we can improve our language skills in the course., We use the data to improve user experience., Advertising can improve the image of a company., The gold medal was an incentive for him to improve his performance further., Due to regular practice, the dancers increasingly improved., He took a class to improve his already good Japanese.) ::: sich verbessern, verbessern, steigern 
+to improve(verb) (The condition improved after a higher dose was given., I am sure we can improve our language skills in the course., We use the data to improve user experience., Advertising can improve the image of a company., The gold medal was an incentive for him to improve his performance further., Due to regular practice, the dancers increasingly improved., He took a class to improve his already good Japanese.) ::: sich verbessern, verbessern, steigern
+<!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
 newly(adverb) (The hotel rooms are renovated and newly furnished.) ::: neu, neuartig, frisch
 <!--SR:!2000-01-01,1,250!2024-10-31,4,355-->
 new(adjective) (My father bought himself a new car., My car has new tyres., Congrats on your new job!, The exotic spices were new to me.) ::: neu, ungewohnt, fremdartig 
 duration(noun) (The duration of the tests will not exceed two weeks., The duration of the project is six months.) ::: Dauer, Laufzeit, Zeitraum
 <!--SR:!2024-11-02,6,375!2000-01-01,1,250-->
-upcoming(adjective) (The department is preparing for the upcoming inspection., They handed out flyers for the upcoming concert., We will need more staff for the upcoming event., The trainee talked to her mentor about the upcoming exam.) ::: anstehend, bevorstehend, kommend 
+upcoming(adjective) (The department is preparing for the upcoming inspection., They handed out flyers for the upcoming concert., We will need more staff for the upcoming event., The trainee talked to her mentor about the upcoming exam.) ::: anstehend, bevorstehend, kommend
+<!--SR:!2024-11-02,6,375!2000-01-01,1,250-->
 portion(noun) (I am not hungry, you can have my portion of cake., I divided the cake into four portions., He could not finish his double portion of cake., I cut the cake into six equal portions.) ::: Teil, Portion, Stück 
 portion(noun) () ::: Mitgift 
 to portion(verb) () ::: teilen, zuteilen, aufteilen
@@ -755,7 +759,7 @@ analogously(adverb) () ::: analog, sinngemäß
 succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge 
 to elbow(verb) (He elbowed his way through the crowd.) ::: drängen 
 ownership(noun) (After payment, ownership passes on to the buyer., The city took ownership of the land.) ::: Eigentum, Besitz, Eigentumsrecht
-<!--SR:!2024-11-02,6,375!2000-01-01,1,250-->
+<!--SR:!2024-11-02,6,375!2024-11-02,6,375-->
 honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufrichtigkeit 
 rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite 
 rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres 
