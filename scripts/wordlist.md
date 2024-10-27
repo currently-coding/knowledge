@@ -1,5 +1,6 @@
 leap
-hyperbole(hi\`perbolli)
+henceforth
+hyperbole
 to widen the gap
 to culminate
 drawback
