@@ -634,7 +634,7 @@ to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger stro
 <!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
 intellectual(adjective) (The article remains intellectual property of the author.) ::: geistig, intellektuell, gedanklich 
 intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
-<!--SR:!2024-10-29,6,373!2000-01-01,1,250-->
+<!--SR:!2024-10-29,6,373!2024-11-02,6,375-->
 crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt 
 to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen
 <!--SR:!2024-10-28,5,371!2000-01-01,1,250-->
