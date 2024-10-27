@@ -618,7 +618,8 @@ to supervise(verb) (To ensure quality, production is constantly supervised., The
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant
 <!--SR:!2024-10-29,6,372!2000-01-01,1,250-->
 dynamic(noun) () ::: Dynamik 
-genuinely(adverb) () ::: wirklich, echt, authentisch 
+genuinely(adverb) () ::: wirklich, echt, authentisch
+<!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft 
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell 
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
