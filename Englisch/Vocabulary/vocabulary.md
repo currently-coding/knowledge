@@ -561,7 +561,8 @@ prompt(noun) (I got a prompt to save the file., The speaker uses cards with prom
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen 
 victory(noun) (The new player led the team to victory., I will strive for victory.) ::: Sieg, Triumph
 <!--SR:!2024-11-19,22,392!2024-11-01,5,376-->
-disagreement(noun) (They resolved their disagreement with a compromise., The parties managed to avoid disagreements.) ::: Uneinigkeit, Unstimmigkeit, Meinungsverschiedenheit 
+disagreement(noun) (They resolved their disagreement with a compromise., The parties managed to avoid disagreements.) ::: Uneinigkeit, Unstimmigkeit, Meinungsverschiedenheit
+<!--SR:!2000-01-01,1,250!2024-11-02,5,377-->
 to interact(verb) (In modern computer games, you can interact with other players., The experiment showed how atoms interact with each other.) ::: interagieren, wechselwirken, zusammenwirken
 <!--SR:!2024-11-23,26,391!2000-01-01,1,250-->
 notably(adverb) (The tax reform will affect many people, notably entrepreneurs., The tax reform will benefit many, notably young people.) ::: insbesondere, besonders, vor allem 
@@ -649,7 +650,8 @@ intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
 crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt 
 to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen
 <!--SR:!2024-11-22,25,391!2024-11-01,5,376-->
-crack(interjection) () ::: knack 
+crack(interjection) () ::: knack
+<!--SR:!2024-11-02,5,377!2000-01-01,1,250-->
 success(noun) (His first book was a great success, everybody loved it., The book was a huge success.) ::: Erfolg, Gelingen, Triumph
 <!--SR:!2024-11-21,24,392!2000-01-01,1,250-->
 reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig
@@ -679,7 +681,7 @@ ranking(present participle) () ::: reihend, rangierend
 to rank(verb) (She ranks among the best scientists in the world., The project manager ranked the offers according to price.) ::: einordnen
 <!--SR:!2024-11-10,14,353!2000-01-01,1,250-->
 invasion(noun) () ::: Invasion, Einmarsch, Überfall
-<!--SR:!2024-10-29,6,372!2000-01-01,1,250-->
+<!--SR:!2024-10-29,6,372!2024-11-02,5,377-->
 index(noun) (I took a look at the index before buying the stocks., Every library has a bibliographic index., The chapter numbers are listed in the index.) ::: Index, Zeigefinger, Verzeichnis
 <!--SR:!2024-11-01,5,375!2024-11-01,5,376-->
 to index(verb) (I index all my documents in order to find them more easily.) ::: indizieren, erschließen, indexieren
@@ -715,7 +717,8 @@ casual(adjective) (I wear casual clothes outside the office., This is an informa
 to insist(verb) (The woman did not give up and insisted on her rights.) ::: pochen, insistieren 
 reflection(noun) (The article offers an interesting reflection on the current situation., She accepted the offer after a short reflection., The pond is so calm you can see your reflection., The reflection of the sunlight on the water is beautiful.) ::: Reflexion, Überlegung, Spiegelbild
 <!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
-to forbid(verb) (The hotel management has forbidden smoking at the pool., The art gallery forbids flash photography.) ::: untersagen, verbieten, verhindern 
+to forbid(verb) (The hotel management has forbidden smoking at the pool., The art gallery forbids flash photography.) ::: untersagen, verbieten, verhindern
+<!--SR:!2000-01-01,1,250!2024-11-02,5,377-->
 convincing(adjective / present participle) (The salesman had some very convincing arguments for the product., The ad for this laundry powder is very convincing.) ::: überzeugend 
 to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, überreden
 <!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
@@ -732,7 +735,7 @@ weave(noun) () ::: Gewebe, Webart, Bindung
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen 
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen 
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
-<!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
+<!--SR:!2024-11-01,5,376!2024-11-02,5,377-->
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members., Members must conform to the provisions of the contract., The institution is responsible for the provision of food., Companies are allowed to make provisions for future investments., They took sufficient provisions for the long journey., The contract includes provisions on protection of personal information.) ::: Bestimmung, Regelung, Bereitstellung
 <!--SR:!2000-01-01,1,250!2024-10-30,3,313-->
 to provision(verb) (The troops must be provisioned.) ::: mit Proviant beliefern, die Verpflegung liefern, verproviantieren 
@@ -750,7 +753,7 @@ ink(noun) (As per the instructions, I filled out the form in blue ink., The squi
 to ink(verb) (Both parties inked the agreement.) ::: unterzeichnen, einfärben, tätowieren 
 vibrant(adjective) (The city is famous for its vibrant cultural life., She was wearing a pullover in vibrant hues.) ::: lebendig, leuchtend, vital 
 to improve(verb) (The condition improved after a higher dose was given., I am sure we can improve our language skills in the course., We use the data to improve user experience., Advertising can improve the image of a company., The gold medal was an incentive for him to improve his performance further., Due to regular practice, the dancers increasingly improved., He took a class to improve his already good Japanese.) ::: sich verbessern, verbessern, steigern
-<!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
+<!--SR:!2024-11-02,5,377!2024-11-02,6,375-->
 newly(adverb) (The hotel rooms are renovated and newly furnished.) ::: neu, neuartig, frisch
 <!--SR:!2000-01-01,1,250!2024-10-31,4,355-->
 new(adjective) (My father bought himself a new car., My car has new tyres., Congrats on your new job!, The exotic spices were new to me.) ::: neu, ungewohnt, fremdartig
