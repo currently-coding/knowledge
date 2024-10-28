@@ -1,0 +1,25 @@
+Nikolaus Kopernikus behauptet, dass sich die Erde um die Sonne dreht := 1514
+James Watt erfindet die Dampfmaschine := 1768
+Galvani entdeckt die galvanische Elektrizität := 1771
+<!--SR:!2024-11-01,4,270-->
+ARPANET := 1989, October 29
+Email (on ARPANET) := 1971
+TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
+DNS(Domain Name System): maps IPs to human readable domain names := 1984
+WWW: Tim Berners-Lee proposed and developed the WWW at CERN := 1989 - 1990
+First Web Browser := Mosaic - 1993 - provided a graphical interface
+First Search Engine := Yahoo! - 1994
+Google := 1998 - better algorithm
+Wi-Fi introduced := 1997 - IEEE 802.11 -> established wireless internet connections
+Introduction of Social Media := 2003-2004: MySpace(2003), Facebook(2004), etc. launched
+First iPhone := 2007 - enabled mobile internet usage and app-based ecosystems
+Cloud Computing Services := Late 2000s - AWS(2006), etc.
+4G/LTE := 2009 - improved speed -> enabled video streaming and advanced mobile apps
+Bitcoin and Blockchain := 2009  - The first decenttralized cryptocurrency, Bitcoin, launched.
+5G Networks begin to roll out := 2019 - higher speeds and lower latency -> enabled real time applications
+First commercially available computer :=UNIVAC I - 1951
+First OS := 1961 - IBMs OS/360 standardized the concept of an OS -> introduced multitasking and process management
+Moore's Law := 1965  - number of transistors/chip double every ~2 years
+First commercially available microprocessor := Intel 4004 Microprocessor - 1971
+First PCs := 1970s and 1980s - Apple's Apple II(1997) and IBM's PC(1981) introduced affordable, personal computing to the public
+Open-Source Software Movement := 1985 - Richard Stallman launched the *Free Software Foundation* promoting software freedom -> lead to projets like Linux(1991)
