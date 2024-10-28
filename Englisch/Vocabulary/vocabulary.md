@@ -475,7 +475,7 @@ to sanction(verb) (The committee sanctioned the expenditure for the project.) ::
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
 <!--SR:!2025-01-04,76,367!2025-01-07,76,369-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
-<!--SR:!2024-11-05,29,368!2024-10-28,22,367-->
+<!--SR:!2024-11-05,29,368!2024-11-07,10,347-->
 commander(noun) (The commander is in charge of the troop., The captain of a ship is also the commander of it.) ::: Kommandant, Befehlshaber, Kommandeur
 <!--SR:!2024-11-02,26,368!2025-01-29,94,386-->
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
@@ -569,7 +569,7 @@ notable(adjective) (The designer was a notable figure in the fashion world., The
 <!--SR:!2024-10-31,4,356!2000-01-01,1,250-->
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt 
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
-<!--SR:!2024-10-28,5,372!2000-01-01,1,250-->
+<!--SR:!2024-11-20,23,392!2000-01-01,1,250-->
 firework(noun) () ::: Feuerwerkskörper, Feuerwerksartikel 
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung 
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
@@ -690,7 +690,7 @@ spare(noun) (I have bought spares for the repair of my car., He lost his key, bu
 to spare(verb) (Luckily, the butcher spared me a detailed description of his work., I will give you the money I can spare., Fortunately, my son was spared from the sickness.) ::: ersparen, erübrigen, verschonen
 <!--SR:!2000-01-01,1,250!2024-10-29,6,372-->
 spare(adjective) (There are still a few spare seats on the plane., I gave my spare money to my sister because I did not need it.) ::: frei, übrig, sparsam
-<!--SR:!2024-10-28,5,372!2000-01-01,1,250-->
+<!--SR:!2024-11-21,24,392!2000-01-01,1,250-->
 graphic(noun) (The process is illustrated in the graphic below.) ::: Grafik, Graphik, Abbildung
 <!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
 graphic(adjective) (The graphic design of the game is very complex., A chart is a graphic representation of numbers.) ::: grafisch, graphisch, zeichnerisch 
