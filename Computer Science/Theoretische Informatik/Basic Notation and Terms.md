@@ -24,13 +24,13 @@ For $x \in N$, $y \in N^+$ let $(x \mod y)$ := $x - zy$, where $z \in N$ is the 
 <!--SR:!2024-12-21,59,314-->
 ### Element relationship and inclusion
 $a \in M$ ::: $a$ is an element of the set $M$
-<!--SR:!2024-10-22,15,294!2024-12-21,59,318-->
+<!--SR:!2024-12-27,60,314!2024-12-21,59,318-->
 $a \notin M$ ::: $a$ is no element of the set $M$
-<!--SR:!2024-10-23,14,298!2024-12-31,69,317-->
+<!--SR:!2024-12-24,57,318!2024-12-31,69,317-->
 $M \subseteq N$ ::: for all $a$, if $a \in M$, then $a \in N$
-<!--SR:!2024-12-22,60,314!2024-10-21,12,278-->
+<!--SR:!2024-12-22,60,314!2024-12-13,46,298-->
 $M \not\subseteq N$ ::: it does not hold $M \subseteq N$
-<!--SR:!2024-12-05,43,298!2024-10-23,16,294-->
+<!--SR:!2024-12-05,43,298!2024-12-31,64,314-->
 $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 <!--SR:!2024-11-17,32,294!2024-12-07,45,298-->
 ### Operations
@@ -39,7 +39,7 @@ $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 <!--SR:!2024-12-12,50,297-->
 $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
-<!--SR:!2024-10-24,12,257-->
+<!--SR:!2024-12-09,42,277-->
 $A - B$ := $A \setminus B$ (Difference of A and B)
 <!--SR:!2024-11-07,24,274-->
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
@@ -47,7 +47,7 @@ $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
 <!--SR:!2024-11-27,35,274-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
-<!--SR:!2024-12-17,55,310!2024-10-21,12,279-->
+<!--SR:!2024-12-17,55,310!2024-12-13,46,299-->
 ## Tuple
 $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in this order (n-tuple, n-dimensional vector)
 <!--SR:!2024-12-29,67,314-->
@@ -59,7 +59,7 @@ $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
 ## Quantifiers
 $\exists$ := “there exist(s)”
-<!--SR:!2024-10-24,17,294-->
+<!--SR:!2025-01-03,67,314-->
 $\forall$ := “for all”
 <!--SR:!2024-12-15,53,317-->
 ## Functions
@@ -81,6 +81,6 @@ $f$ is surjective ::: $R_f = B$
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
 <!--SR:!2024-11-03,11,238!2024-11-13,28,274-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
-<!--SR:!2024-10-24,17,294!2024-10-26,17,298-->
+<!--SR:!2025-01-04,68,314!2024-10-26,17,298-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.
 <!--SR:!2024-11-09,24,278-->
