@@ -766,7 +766,7 @@ to improve(verb) (The condition improved after a higher dose was given., I am su
 newly(adverb) (The hotel rooms are renovated and newly furnished.) ::: neu, neuartig, frisch
 <!--SR:!2024-11-02,5,377!2024-10-31,4,355-->
 new(adjective) (My father bought himself a new car., My car has new tyres., Congrats on your new job!, The exotic spices were new to me.) ::: neu, ungewohnt, fremdartig
-<!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
+<!--SR:!2024-11-02,5,378!2024-11-01,5,375-->
 duration(noun) (The duration of the tests will not exceed two weeks., The duration of the project is six months.) ::: Dauer, Laufzeit, Zeitraum
 <!--SR:!2024-11-02,6,375!2000-01-01,1,250-->
 upcoming(adjective) (The department is preparing for the upcoming inspection., They handed out flyers for the upcoming concert., We will need more staff for the upcoming event., The trainee talked to her mentor about the upcoming exam.) ::: anstehend, bevorstehend, kommend
