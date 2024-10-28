@@ -1,10 +1,3 @@
-leap
-henceforth
-hyperbole
-to widen the gap
-to culminate
-drawback
-to diminish
 flounder
 to be lifted out of
 skyrocket

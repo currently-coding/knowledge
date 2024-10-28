@@ -796,3 +796,11 @@ publicity(noun) (The publicity for the new book attracted many readers., My comp
 Publicity(noun) (Meine Firma hat in den Medien gute Publicity bekommen.) ; publicity, exposure, hype 
 validity(noun) (The results confirm the validity of the assumption., The validity of his arguments is unquestionable.) ; Gültigkeit, Richtigkeit, Aussagekraft 
 likewise(adverb) (Everybody started dancing, so I did likewise., Your brother is studying hard and you should do likewise.) ; ebenfalls, gleichfalls, ebenso 
+leap(noun) (The cat made a leap over the fence., All of her friends watched her daring leap off the tree.) ; Sprung, Satz 
+leap(noun) () ; Entwicklungssprung 
+to leap(verb) (The child leaped over the puddle., The horse leaped over the hurdle.) ; hüpfen, springen, überspringen 
+henceforth(adverb) (The new provision shall henceforth apply to all members., Henceforth, the new provision applies to all members.) ; künftig, fortan, im Folgenden 
+hyperbole(noun) () ; Übertreibung, Hyperbel 
+to culminate(verb) (The festival culminated in a large fireworks display., The initiative culminated in a global movement., His athletic career culminated when he was 23.) ; kulminieren, gipfeln, zum Höhepunkt kommen 
+drawback(noun) (The only drawback of my job is the low salary.) ; Nachteil, Erstattung, Rückerstattung 
+to diminish(verb) (The new guidelines diminish risks at the workplace., My gratefulness did not diminish over the years., The gratefulness I felt did not diminish over the years., The risk of disease diminishes when we eat healthily.) ; verringern, sich verringern, reduzieren 
