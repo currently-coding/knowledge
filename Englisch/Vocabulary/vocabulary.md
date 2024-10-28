@@ -599,7 +599,7 @@ cheek(noun) (I kissed her on the cheek., He caressed her cheek., He gave her a k
 to steer(verb) (The captain steers the ship away from the cliffs., It is hard to steer a ship through the narrow., The driver saw the dog and steered in the other direction.) ::: steuern, lenken, führen
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
-<!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
+<!--SR:!2024-11-03,6,377!2024-11-02,6,375-->
 to mortgage(verb) (I mortgaged my house to open a bar.) ::: verpfänden, hypothekarisch belasten, als Pfand geben
 <!--SR:!2000-01-01,1,250!2024-11-01,5,376-->
 regardless(adjective) () ::: ungeachtet, trotzdem
