@@ -24,11 +24,11 @@ For $x \in N$, $y \in N^+$ let $(x \mod y)$ := $x - zy$, where $z \in N$ is the 
 <!--SR:!2024-12-21,59,314-->
 ### Element relationship and inclusion
 $a \in M$ ::: $a$ is an element of the set $M$
-<!--SR:!2024-10-22,15,294!2024-12-21,59,318-->
+<!--SR:!2024-12-27,60,314!2024-12-21,59,318-->
 $a \notin M$ ::: $a$ is no element of the set $M$
-<!--SR:!2024-10-23,14,298!2024-12-31,69,317-->
+<!--SR:!2024-12-24,57,318!2024-12-31,69,317-->
 $M \subseteq N$ ::: for all $a$, if $a \in M$, then $a \in N$
-<!--SR:!2024-12-22,60,314!2024-10-21,12,278-->
+<!--SR:!2024-12-22,60,314!2024-12-13,46,298-->
 $M \not\subseteq N$ ::: it does not hold $M \subseteq N$
 <!--SR:!2024-12-05,43,298!2024-12-31,64,314-->
 $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
