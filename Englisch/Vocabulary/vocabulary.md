@@ -617,7 +617,7 @@ rotation(noun) (I watched the tube's rotation around its own axis., This button 
 <!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
 to rot(verb) (Organic substances rot after a while., The fruit was no longer fresh and started to rot.) ::: verrotten, faulen, verfaulen 
 modest(adjective) (He contented himself with a modest dinner.) ::: bescheiden, schlicht, dezent
-<!--SR:!2024-10-28,1,335!2000-01-01,1,250-->
+<!--SR:!2024-10-29,1,315!2000-01-01,1,250-->
 venture(noun) (The company invests in various ventures., I saved money to invest in a new venture.) ::: Unternehmen, Unternehmung, Projekt
 <!--SR:!2024-10-30,3,312!2000-01-01,1,250-->
 to venture(verb) (I ventured a guess about the company's profit., He ventured a small sum in hopes of a large profit.) ::: wagen, riskieren
