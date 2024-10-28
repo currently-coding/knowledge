@@ -291,7 +291,7 @@ skip(noun) (A skip full of rubble stood in front of the building site.) ::: Cont
 to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
 <!--SR:!2024-11-25,43,357!2025-01-16,84,365-->
 stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
-<!--SR:!2024-11-24,43,337!2024-10-28,18,348-->
+<!--SR:!2024-11-24,43,337!2025-01-21,85,368-->
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
 <!--SR:!2024-12-02,50,357!2024-11-02,27,367-->
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
@@ -299,7 +299,7 @@ to construct(verb) (He constructed a wall around his house., She constructed a n
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
 <!--SR:!2025-02-01,97,381!2025-01-10,79,357-->
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
-<!--SR:!2025-01-24,92,357!2024-10-28,22,367-->
+<!--SR:!2025-01-24,92,357!2025-02-15,110,387-->
 broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit
 <!--SR:!2025-01-24,93,379!2025-01-20,92,377-->
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
@@ -365,7 +365,7 @@ consistently(adverb) (The scientist consistently pursues his goal., The product 
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
 <!--SR:!2024-11-30,37,345!2025-01-02,71,359-->
 thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, hocherfreut, freudig erregt
-<!--SR:!2024-10-28,6,327!2024-12-05,47,339-->
+<!--SR:!2024-11-26,29,347!2024-12-05,47,339-->
 to thrill(verb) (The audience was thrilled by the dance performance.) ::: erfreuen, fesseln, begeistern
 <!--SR:!2024-12-23,61,367!2025-01-01,69,339-->
 harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschlupf
@@ -389,13 +389,13 @@ upgrade(noun) (There is an upgrade available for this software., Currently, ther
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
 <!--SR:!2024-11-01,25,368!2025-01-25,94,381-->
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
-<!--SR:!2024-10-28,22,369!2024-10-28,14,305-->
+<!--SR:!2025-02-13,108,389!2024-10-28,14,305-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
 <!--SR:!2024-12-11,52,361!2025-01-24,89,365-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
 <!--SR:!2025-01-15,84,385!2025-02-09,105,388-->
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
-<!--SR:!2025-02-05,101,389!2024-10-28,5,307-->
+<!--SR:!2025-02-05,101,389!2024-11-20,23,327-->
 sigh(noun) () ::: Seufzer, Seufzen
 <!--SR:!2025-01-21,89,385!2024-10-30,24,367-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
@@ -407,7 +407,7 @@ restoration(noun) (The restoration of the old church took many years., Her job i
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
 <!--SR:!2024-11-23,40,349!2024-11-30,39,345-->
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
-<!--SR:!2024-10-28,5,308!2025-02-01,97,387-->
+<!--SR:!2024-11-19,22,328!2025-02-01,97,387-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
 <!--SR:!2024-10-29,23,367!2025-02-08,104,385-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
@@ -427,11 +427,11 @@ moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen
 <!--SR:!2024-11-01,25,369!2025-01-18,83,367-->
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
-<!--SR:!2024-12-20,59,369!2024-10-28,19,347-->
+<!--SR:!2024-12-20,59,369!2025-01-26,90,367-->
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen
 <!--SR:!2024-12-20,61,368!2025-02-04,100,387-->
 to address oneself to(verb) () ::: sich etw. widmen
-<!--SR:!2024-10-28,18,348!2025-01-06,71,345-->
+<!--SR:!2025-01-20,84,368!2025-01-06,71,345-->
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
 <!--SR:!2024-10-31,25,367!2025-01-25,94,385-->
 consult(noun) () ::: Befragung
@@ -441,7 +441,7 @@ diverse(adjective) (The artist used diverse materials for his sculptures., The m
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
 <!--SR:!2024-11-09,26,347!2024-12-17,58,368-->
 ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
-<!--SR:!2024-11-01,25,367!2024-10-28,22,369-->
+<!--SR:!2024-11-01,25,367!2025-02-12,107,389-->
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
 <!--SR:!2024-11-03,27,367!2024-11-10,32,369-->
 home(adjective) () ::: einheimisch, inländisch
@@ -471,7 +471,7 @@ to strip(verb) (The electrician stripped the cable and installed the lamp., It i
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
 <!--SR:!2024-11-21,39,347!2024-11-06,30,368-->
 to sanction(verb) (The committee sanctioned the expenditure for the project.) ::: genehmigen, sanktionieren, billigen
-<!--SR:!2024-10-28,21,349!2024-12-08,46,327-->
+<!--SR:!2025-02-05,100,369!2024-12-08,46,327-->
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
 <!--SR:!2025-01-04,76,367!2025-01-07,76,369-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
@@ -489,9 +489,9 @@ sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2024-12-20,58,365!2025-02-06,102,389-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
-<!--SR:!2024-11-21,39,345!2024-10-28,22,367-->
+<!--SR:!2024-11-21,39,345!2025-02-14,109,387-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
-<!--SR:!2024-10-28,6,336!2024-10-28,22,368-->
+<!--SR:!2024-11-26,29,356!2024-10-28,22,368-->
 excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich
 <!--SR:!2000-01-01,1,250!2024-11-03,20,361-->
 to excruciate(verb) () ::: quälen
@@ -499,7 +499,7 @@ to excruciate(verb) () ::: quälen
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
 <!--SR:!2024-11-11,23,385!2024-11-09,17,341-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
-<!--SR:!2000-01-01,1,250!2024-10-28,1,261-->
+<!--SR:!2000-01-01,1,250!2024-10-29,1,241-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
 <!--SR:!2024-11-07,24,381!2024-11-17,29,382-->
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
@@ -527,11 +527,11 @@ headquarters(noun) () ::: Hauptquartier
 <!--SR:!2000-01-01,1,250!2024-10-29,6,372-->
 protocol(noun) (They followed the procedures described in the protocol.) ::: Protokoll, diplomatische Etikette, Verhandlungsprotokoll 
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
-<!--SR:!2024-11-01,5,376!2024-10-28,5,372-->
+<!--SR:!2024-11-01,5,376!2024-11-21,24,392-->
 globalization(noun) () ::: Globalisierung
 <!--SR:!2024-11-11,19,385!2024-11-02,6,375-->
 to globalize(verb) () ::: globalisieren
-<!--SR:!2024-10-28,5,372!2024-11-13,24,385-->
+<!--SR:!2024-11-25,28,392!2024-11-13,24,385-->
 to slam(verb) (The film critic slammed the new movie in a brutal review., The leader of the opposition slams the president's policy.) ::: knallen, zuschlagen, verreißen
 <!--SR:!2024-11-01,13,365!2000-01-01,1,250-->
 slam(noun) () ::: Zuschlagen, Zuknallen, Aufschlagen
@@ -545,7 +545,7 @@ Design(noun) (Die Uhr ist in verschiedenen Designs erhältlich., Der neue Comput
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
 lifetime(noun) (This battery has an average lifetime of five years.) ::: Lebensdauer, Leben, Lebzeiten
-<!--SR:!2024-10-28,5,372!2024-11-06,15,365-->
+<!--SR:!2024-11-20,23,392!2024-11-06,15,365-->
 lifetime(adjective) (This watch has a lifetime guarantee.) ::: lebenslang, lebenslänglich
 <!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
@@ -555,15 +555,15 @@ reproduction(noun) (The reproduction of bootlegs is strictly prohibited.) ::: Ve
 cabin(noun) (The captain has a private cabin on the ship., My parents own a cabin in the mountains., The cabin has no heating, so it is only occupied in the summer., The ship's cabin was surprisingly spacious.) ::: Kabine, Hütte, Kajüte
 <!--SR:!2024-11-14,18,372!2000-01-01,1,250-->
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
-<!--SR:!2024-10-28,1,335!2000-01-01,1,250-->
+<!--SR:!2024-11-03,6,355!2000-01-01,1,250-->
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
 <!--SR:!2000-01-01,1,250!2024-11-15,23,385-->
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen 
 victory(noun) (The new player led the team to victory., I will strive for victory.) ::: Sieg, Triumph
-<!--SR:!2024-10-28,5,372!2024-11-01,5,376-->
+<!--SR:!2024-11-19,22,392!2024-11-01,5,376-->
 disagreement(noun) (They resolved their disagreement with a compromise., The parties managed to avoid disagreements.) ::: Uneinigkeit, Unstimmigkeit, Meinungsverschiedenheit 
 to interact(verb) (In modern computer games, you can interact with other players., The experiment showed how atoms interact with each other.) ::: interagieren, wechselwirken, zusammenwirken
-<!--SR:!2024-10-28,5,371!2000-01-01,1,250-->
+<!--SR:!2024-11-23,26,391!2000-01-01,1,250-->
 notably(adverb) (The tax reform will affect many people, notably entrepreneurs., The tax reform will benefit many, notably young people.) ::: insbesondere, besonders, vor allem 
 notable(adjective) (The designer was a notable figure in the fashion world., The reform led to a notable improvement of public health., The scientist made a notable discovery., There is a notable want of teachers in my school district., The painter was a notable artist of his time., The hotel welcomes many notable guests.) ::: wichtig, deutlich, bemerkenswert
 <!--SR:!2024-10-31,4,356!2000-01-01,1,250-->
@@ -600,11 +600,11 @@ mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, 
 to mortgage(verb) (I mortgaged my house to open a bar.) ::: verpfänden, hypothekarisch belasten, als Pfand geben
 <!--SR:!2000-01-01,1,250!2024-11-01,5,376-->
 regardless(adjective) () ::: ungeachtet, trotzdem
-<!--SR:!2024-10-28,4,353!2000-01-01,1,250-->
+<!--SR:!2024-11-13,16,353!2000-01-01,1,250-->
 regardless(adverb) (It started to rain, but we carried on regardless.) ::: trotzdem, ohne Bezug, achtlos 
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen 
 prospective(adjective) (The local industry is ready for prospective challenges., The local industry is prepared for prospective challenges., We are well prepared for prospective challenges., We are going to meet a prospective business partner.) ::: künftig, prospektiv, voraussichtlich
-<!--SR:!2024-11-01,5,375!2024-10-28,1,335-->
+<!--SR:!2024-11-01,5,375!2024-11-02,5,355-->
 comparable(adjective) (We can offer a comparable alternative.) ::: vergleichbar
 <!--SR:!2024-10-29,6,372!2000-01-01,1,250-->
 random(adjective) (I had a random encounter with an old friend today., The selection of participants is completely random., The collage shows a random selection of photos., The magician called a random spectator to the stage.) ::: zufällig, willkürlich, stichprobenartig
@@ -612,7 +612,7 @@ random(adjective) (I had a random encounter with an old friend today., The selec
 predictable(adjective) (There were clouds in the sky, so the rain was predictable., My friend is pretty predictable, I always know what he is going to say., We offer all our services at predictable costs.) ::: vorhersehbar, berechenbar, kalkulierbar
 <!--SR:!2000-01-01,1,250!2024-10-29,6,372-->
 to predict(verb) (The weather forecast predicts sunshine for the weekend., Experts predict a positive economic development for next year., The weather forecast predicts rain., Experts predict a positive economic development.) ::: vorhersagen, prognostizieren, voraussagen
-<!--SR:!2024-10-28,5,372!2024-11-02,6,375-->
+<!--SR:!2024-11-21,24,392!2024-11-02,6,375-->
 rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung
 <!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
 to rot(verb) (Organic substances rot after a while., The fruit was no longer fresh and started to rot.) ::: verrotten, faulen, verfaulen 
@@ -621,11 +621,11 @@ modest(adjective) (He contented himself with a modest dinner.) ::: bescheiden, s
 venture(noun) (The company invests in various ventures., I saved money to invest in a new venture.) ::: Unternehmen, Unternehmung, Projekt
 <!--SR:!2024-10-30,3,312!2000-01-01,1,250-->
 to venture(verb) (I ventured a guess about the company's profit., He ventured a small sum in hopes of a large profit.) ::: wagen, riskieren
-<!--SR:!2024-10-28,4,351!2000-01-01,1,250-->
+<!--SR:!2024-11-17,20,371!2000-01-01,1,250-->
 youngster(noun) (The youngsters like to hang out at the mall., My guitar tutor teaches both youngsters and adults.) ::: Jugendliche, Junge, Kind 
 Youngster(noun) () ::: youngster 
 to supervise(verb) (To ensure quality, production is constantly supervised., The professor supervises the student's work., The senior doctor is supervising the interns., A foreman supervises the other workers.) ::: überwachen, betreuen, beaufsichtigen
-<!--SR:!2024-10-28,5,372!2000-01-01,1,250-->
+<!--SR:!2024-11-20,23,392!2000-01-01,1,250-->
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant
 <!--SR:!2024-10-29,6,372!2000-01-01,1,250-->
 dynamic(noun) () ::: Dynamik
@@ -647,15 +647,15 @@ intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
 <!--SR:!2024-10-29,6,373!2024-11-02,6,375-->
 crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt 
 to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen
-<!--SR:!2024-10-28,5,371!2024-11-01,5,376-->
+<!--SR:!2024-11-22,25,391!2024-11-01,5,376-->
 crack(interjection) () ::: knack 
 success(noun) (His first book was a great success, everybody loved it., The book was a huge success.) ::: Erfolg, Gelingen, Triumph
-<!--SR:!2024-10-28,5,372!2000-01-01,1,250-->
+<!--SR:!2024-11-21,24,392!2000-01-01,1,250-->
 reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig
-<!--SR:!2000-01-01,1,250!2024-10-28,1,335-->
+<!--SR:!2000-01-01,1,250!2024-11-02,5,355-->
 hook(noun) (He hung his coat on a hook by the door., There are some hooks on the wall to hang coats.) ::: Haken, Hook, Häkchen 
 to hook(verb) () ::: haken, anhaken, festhaken
-<!--SR:!2024-10-31,4,356!2024-10-28,1,293-->
+<!--SR:!2024-10-31,4,356!2024-11-01,4,313-->
 to fix(verb) (We fixed a date for the wedding., She took a brush and began to fix her hair., The hook was fixed to the wall., I fixed the cable with a clamp., He fixed my bike., He fixed the engine of his car himself., I have fixed an appointment with the mechanic., The bicycle mechanic fixed my bike.) ::: festlegen, richten, befestigen 
 total(noun) (The company invested a total of ten million dollars.) ::: Total, Gesamtbetrag, Gesamtzahl
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
@@ -701,15 +701,15 @@ firm(adjective) (The material is rigid and firm., Our company values trust as a 
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
 <!--SR:!2024-11-09,13,352!2000-01-01,1,250-->
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif
-<!--SR:!2000-01-01,1,250!2024-10-28,1,335-->
+<!--SR:!2000-01-01,1,250!2024-11-03,6,355-->
 to fare(verb) () ::: ergehen, gehen, laufen 
 determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung
-<!--SR:!2024-10-28,1,292!2000-01-01,1,250-->
+<!--SR:!2024-10-31,3,292!2000-01-01,1,250-->
 to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln
 <!--SR:!2024-11-08,12,353!2000-01-01,1,250-->
 senator(noun) (The senators are trying to amend some laws.) ::: Senator, Senatorin 
 casual(adjective) (I wear casual clothes outside the office., This is an informal event; you can wear casual clothing., I like parties with a casual atmosphere., I made a casual remark about the weather., I like the casual feel of beach parties., To a casual observer, the scene might appear normal., I prefer simple and casual clothing.) ::: lässig, leger, zwanglos
-<!--SR:!2024-10-28,1,335!2000-01-01,1,250-->
+<!--SR:!2024-11-02,5,355!2000-01-01,1,250-->
 to insist(verb) (The woman did not give up and insisted on her rights.) ::: pochen, insistieren 
 reflection(noun) (The article offers an interesting reflection on the current situation., She accepted the offer after a short reflection., The pond is so calm you can see your reflection., The reflection of the sunlight on the water is beautiful.) ::: Reflexion, Überlegung, Spiegelbild
 <!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
@@ -718,7 +718,7 @@ convincing(adjective / present participle) (The salesman had some very convincin
 to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, überreden
 <!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
 occupation(noun) (The judge asked the witness to state his name and occupation., The occupation of the town was over and there was peace., My skills allowed me to find a better occupation., The country declared independence after a long period of occupation., The new office building is ready for occupation.) ::: Beschäftigung, Beruf, Besetzung
-<!--SR:!2024-10-28,5,371!2024-11-02,6,375-->
+<!--SR:!2024-11-24,27,391!2024-11-02,6,375-->
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren 
 fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur
 <!--SR:!2024-10-29,6,371!2024-11-01,5,375-->
@@ -726,7 +726,7 @@ ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one.
 Ratio(noun) (Ratio und Emotion können einander widersprechen.) ::: reason, rational logic 
 to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of old remnants.) ::: weben, flechten, verweben 
 weave(noun) () ::: Gewebe, Webart, Bindung
-<!--SR:!2024-10-28,1,335!2000-01-01,1,250-->
+<!--SR:!2024-10-31,3,335!2000-01-01,1,250-->
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen 
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen 
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
@@ -760,7 +760,7 @@ upcoming(adjective) (The department is preparing for the upcoming inspection., T
 portion(noun) (I am not hungry, you can have my portion of cake., I divided the cake into four portions., He could not finish his double portion of cake., I cut the cake into six equal portions.) ::: Teil, Portion, Stück 
 portion(noun) () ::: Mitgift 
 to portion(verb) () ::: teilen, zuteilen, aufteilen
-<!--SR:!2000-01-01,1,250!2024-10-28,1,335-->
+<!--SR:!2000-01-01,1,250!2024-11-02,5,355-->
 secular(adjective) (A secular state does not have any official religion.) ::: säkular, weltlich, laizistisch 
 storage(noun) (The storage of cheese changes its taste., A dry and dark place is ideal for the storage of wine., Proper storage of vegetables is important., The price includes transport and storage., The correct storage of wine can be quite difficult., He uses his garage for storage., The hard drive is used for the storage of data.) ::: Lagerung, Lager, Speicherung
 <!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
