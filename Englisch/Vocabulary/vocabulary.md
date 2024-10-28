@@ -611,7 +611,7 @@ comparable(adjective) (We can offer a comparable alternative.) ::: vergleichbar
 random(adjective) (I had a random encounter with an old friend today., The selection of participants is completely random., The collage shows a random selection of photos., The magician called a random spectator to the stage.) ::: zufällig, willkürlich, stichprobenartig
 <!--SR:!2024-11-01,5,375!2000-01-01,1,250-->
 predictable(adjective) (There were clouds in the sky, so the rain was predictable., My friend is pretty predictable, I always know what he is going to say., We offer all our services at predictable costs.) ::: vorhersehbar, berechenbar, kalkulierbar
-<!--SR:!2000-01-01,1,250!2024-10-29,6,372-->
+<!--SR:!2024-11-02,5,377!2024-10-29,6,372-->
 to predict(verb) (The weather forecast predicts sunshine for the weekend., Experts predict a positive economic development for next year., The weather forecast predicts rain., Experts predict a positive economic development.) ::: vorhersagen, prognostizieren, voraussagen
 <!--SR:!2024-11-21,24,392!2024-11-02,6,375-->
 rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung
