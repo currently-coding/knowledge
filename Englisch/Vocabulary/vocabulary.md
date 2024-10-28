@@ -672,7 +672,7 @@ assistance(noun) (The countries have promised their financial assistance.) ::: U
 to assist(verb) (It's her job to assist the project manager., The pupil assisted the teacher with the experiment., The girl assisted her father with the cooking., I will always assist my brother in times of need., He assisted his friends in the kitchen., If any problems arise, we will assist our partners., The consultant assisted the company in drawing up a marketing plan., The nurse assisted the doctor during the operation.) ::: unterstützen, fördern, helfen
 <!--SR:!2024-11-02,6,375!2000-01-01,1,250-->
 relevance(noun) (I could not see the relevance of his argument., The solution of the problem is of the highest relevance.) ::: Relevanz, Bedeutung, Wichtigkeit
-<!--SR:!2024-10-29,6,371!2000-01-01,1,250-->
+<!--SR:!2024-10-29,6,371!2024-11-02,5,378-->
 obstacle(noun) (We can overcome any obstacle if we do not give up., Obstacles on the track can cause an obstruction., They have successfully overcome the last obstacle., If she wants to attend the class, the cost should not be an obstacle.) ::: Hindernis, Hürde, Hinderungsgrund
 <!--SR:!2000-01-01,1,250!2024-10-31,4,353-->
 ruling(noun) (The judge announced that she will issue a ruling tomorrow., The ruling applied to all companies, whether large or small.) ::: Entscheidung, Urteil, Regelung
