@@ -351,7 +351,7 @@ yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go 
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem
 <!--SR:!2025-02-05,101,389!2024-12-21,63,359-->
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
-<!--SR:!2025-01-23,92,379!2024-10-28,22,368-->
+<!--SR:!2025-01-23,92,379!2025-02-17,112,388-->
 palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 <!--SR:!2025-01-23,88,379!2025-02-02,101,385-->
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
@@ -573,7 +573,7 @@ to segment(verb) (The company segmented its client data into different target gr
 firework(noun) () ::: Feuerwerkskörper, Feuerwerksartikel 
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung 
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
-<!--SR:!2024-10-28,1,335!2000-01-01,1,250-->
+<!--SR:!2024-11-03,6,355!2000-01-01,1,250-->
 revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The scientists' latest invention was revolutionary.) ::: revolutionär, bahnbrechend, umwälzend
 <!--SR:!2024-10-29,5,373!2000-01-01,1,250-->
 revolutionary(noun) (As a revolutionary, my grandmother fought against the government's policies.) ::: Revolutionär, Revolutionärin 
@@ -585,7 +585,8 @@ to renew(verb) (I renewed my newspaper subscription., A good polish renews the s
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
 purely(adverb) (I am asking purely to understand better.) ::: pur, bloß, lauter
 <!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
-pure(adjective) (It was pure coincidence that they were in the same city that day., We only use natural oils and pure essences., The necklace was made of pure gold., She looked at the gift with pure joy.) ::: rein, pur, unverfälscht 
+pure(adjective) (It was pure coincidence that they were in the same city that day., We only use natural oils and pure essences., The necklace was made of pure gold., She looked at the gift with pure joy.) ::: rein, pur, unverfälscht
+<!--SR:!2000-01-01,1,250!2024-10-29,1,337-->
 timely(adjective) (Timely procurement of raw materials is essential for production., The supplier is responsible for timely delivery.) ::: rechtzeitig, fristgerecht, zeitgerecht
 <!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
 cute(adjective) (This little dog is cute., Our kitten is really cute., I now have an adorable, cute kitten., My little niece is incredibly cute.) ::: niedlich, putzig, süß 
@@ -693,7 +694,8 @@ spare(adjective) (There are still a few spare seats on the plane., I gave my spa
 <!--SR:!2024-11-21,24,392!2000-01-01,1,250-->
 graphic(noun) (The process is illustrated in the graphic below.) ::: Grafik, Graphik, Abbildung
 <!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
-graphic(adjective) (The graphic design of the game is very complex., A chart is a graphic representation of numbers.) ::: grafisch, graphisch, zeichnerisch 
+graphic(adjective) (The graphic design of the game is very complex., A chart is a graphic representation of numbers.) ::: grafisch, graphisch, zeichnerisch
+<!--SR:!2000-01-01,1,250!2024-11-03,6,377-->
 firm(noun) (My brother runs a successful firm., The firm was taken over by a large group.) ::: Firma, Unternehmen, Betrieb
 <!--SR:!2024-11-01,5,375!2000-01-01,1,250-->
 firm(adjective) (The material is rigid and firm., Our company values trust as a firm basis for business., He is firm with his children.) ::: fest, solide, streng
