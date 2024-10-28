@@ -1,7 +1,7 @@
 
 86 
 LOOP := Menge aller LOOP Funktionen(/Programme wobei ein Programm nur eine Funktion enthaelt)
-<!--SR:!2024-10-26,3,250-->
+<!--SR:!2024-11-07,10,270-->
 
 
 103:

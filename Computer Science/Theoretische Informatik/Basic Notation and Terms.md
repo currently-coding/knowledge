@@ -30,7 +30,7 @@ $a \notin M$ ::: $a$ is no element of the set $M$
 $M \subseteq N$ ::: for all $a$, if $a \in M$, then $a \in N$
 <!--SR:!2024-12-22,60,314!2024-10-21,12,278-->
 $M \not\subseteq N$ ::: it does not hold $M \subseteq N$
-<!--SR:!2024-12-05,43,298!2024-10-23,16,294-->
+<!--SR:!2024-12-05,43,298!2024-12-31,64,314-->
 $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 <!--SR:!2024-11-17,32,294!2024-12-07,45,298-->
 ### Operations
