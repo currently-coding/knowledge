@@ -39,7 +39,7 @@ $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 <!--SR:!2024-12-12,50,297-->
 $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
-<!--SR:!2024-10-24,12,257-->
+<!--SR:!2024-12-09,42,277-->
 $A - B$ := $A \setminus B$ (Difference of A and B)
 <!--SR:!2024-11-07,24,274-->
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
@@ -47,7 +47,7 @@ $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
 <!--SR:!2024-11-27,35,274-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
-<!--SR:!2024-12-17,55,310!2024-10-21,12,279-->
+<!--SR:!2024-12-17,55,310!2024-12-13,46,299-->
 ## Tuple
 $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in this order (n-tuple, n-dimensional vector)
 <!--SR:!2024-12-29,67,314-->
@@ -59,7 +59,7 @@ $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
 ## Quantifiers
 $\exists$ := “there exist(s)”
-<!--SR:!2024-10-24,17,294-->
+<!--SR:!2025-01-03,67,314-->
 $\forall$ := “for all”
 <!--SR:!2024-12-15,53,317-->
 ## Functions
@@ -81,6 +81,6 @@ $f$ is surjective ::: $R_f = B$
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
 <!--SR:!2024-11-03,11,238!2024-11-13,28,274-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
-<!--SR:!2024-10-24,17,294!2024-10-26,17,298-->
+<!--SR:!2025-01-04,68,314!2024-10-26,17,298-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.
 <!--SR:!2024-11-09,24,278-->
