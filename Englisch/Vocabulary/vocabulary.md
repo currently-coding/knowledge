@@ -512,7 +512,8 @@ to distinguish(verb) (Small children cannot distinguish left from right.) ::: un
 <!--SR:!2000-01-01,1,250!2024-11-14,18,372-->
 to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun
 <!--SR:!2024-11-13,17,373!2000-01-01,1,250-->
-to resume(verb) (After a short break, they resumed negotiations., She resumed her work after lunch.) ::: wieder aufnehmen, fortsetzen, wiederaufnehmen 
+to resume(verb) (After a short break, they resumed negotiations., She resumed her work after lunch.) ::: wieder aufnehmen, fortsetzen, wiederaufnehmen
+<!--SR:!2024-11-02,5,377!2000-01-01,1,250-->
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf 
 lane(noun) (The right lane is closed due to construction work.) ::: Spur, Fahrspur, Bahn
 <!--SR:!2024-11-01,5,375!2024-11-01,5,375-->
@@ -537,7 +538,7 @@ to slam(verb) (The film critic slammed the new movie in a brutal review., The le
 slam(noun) () ::: Zuschlagen, Zuknallen, Aufschlagen
 <!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
 design(noun) (The watch is available in a variety of designs., The new computer has a very sleek design., I spent many hours on the design of the website., The graphic design of the game is very complex., The committee is responsible for the design of new strategies., The clever design protects the house from wind damage., The design of the components ensures that the machine works., She drew the design to be printed on the fabric., The design of the new dress was very striking.) ::: Design, Gestaltung
-<!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
+<!--SR:!2024-11-02,5,377!2024-11-02,6,375-->
 to design(verb) (He designed the website for his small business himself., The company commissioned me to design its new logo., Nobody has designed a flying car yet., The model was designed by an architect., We designed the car for two people only., Our graphic artist has designed a new company logo., The designer is designing her new collection., The architect designed a new school building., The architect designed the model of the house., I want to become an architect and design luxury villas.) ::: gestalten, entwickeln, konzipieren
 <!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
 Design(noun) (Die Uhr ist in verschiedenen Designs erhältlich., Der neue Computer hat ein sehr elegantes Design.) ::: design, look, styling
@@ -551,7 +552,7 @@ lifetime(adjective) (This watch has a lifetime guarantee.) ::: lebenslang, leben
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
 <!--SR:!2024-10-31,4,356!2000-01-01,1,250-->
 reproduction(noun) (The reproduction of bootlegs is strictly prohibited.) ::: Vervielfältigung, Reproduktion, Wiedergabe
-<!--SR:!2024-10-29,2,331!2000-01-01,1,250-->
+<!--SR:!2024-10-29,2,331!2024-11-02,5,377-->
 cabin(noun) (The captain has a private cabin on the ship., My parents own a cabin in the mountains., The cabin has no heating, so it is only occupied in the summer., The ship's cabin was surprisingly spacious.) ::: Kabine, Hütte, Kajüte
 <!--SR:!2024-11-14,18,372!2000-01-01,1,250-->
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
@@ -571,7 +572,6 @@ notable(adjective) (The designer was a notable figure in the fashion world., The
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt 
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
 <!--SR:!2024-11-20,23,392!2000-01-01,1,250-->
-firework(noun) () ::: Feuerwerkskörper, Feuerwerksartikel 
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung 
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
 <!--SR:!2024-11-03,6,355!2000-01-01,1,250-->
@@ -597,7 +597,7 @@ to shoot(verb) (An archer shoots arrows at a target., He shoots with pinpoint pr
 cheek(noun) (I kissed her on the cheek., He caressed her cheek., He gave her a kiss on the cheek., She had the cheek to leave me waiting for an hour., I have a mole on my left cheek.) ::: Wange, Backe, Frechheit
 <!--SR:!2024-11-03,6,377!2000-01-01,1,250-->
 to steer(verb) (The captain steers the ship away from the cliffs., It is hard to steer a ship through the narrow., The driver saw the dog and steered in the other direction.) ::: steuern, lenken, führen
-<!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
+<!--SR:!2024-11-02,5,377!2024-11-02,6,375-->
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
 <!--SR:!2024-11-03,6,377!2024-11-02,6,375-->
 to mortgage(verb) (I mortgaged my house to open a bar.) ::: verpfänden, hypothekarisch belasten, als Pfand geben
@@ -639,8 +639,9 @@ genuine(adjective) (The bag is made of genuine leather., The customer has a genu
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
-<!--SR:!2024-10-31,4,355!2000-01-01,1,250-->
-puzzle(noun) (The child added the final piece to the puzzle., Typically, a puzzle for small children consists of less than 50 pieces., The origin of the virus remains a puzzle to scientists.) ::: Puzzle, Rätsel, Puzzlespiel 
+<!--SR:!2024-10-31,4,355!2024-11-02,5,377-->
+puzzle(noun) (The child added the final piece to the puzzle., Typically, a puzzle for small children consists of less than 50 pieces., The origin of the virus remains a puzzle to scientists.) ::: Puzzle, Rätsel, Puzzlespiel
+<!--SR:!2024-11-02,5,377!2000-01-01,1,250-->
 to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen
 <!--SR:!2024-11-01,4,357!2000-01-01,1,250-->
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug 
@@ -664,7 +665,8 @@ to hook(verb) () ::: haken, anhaken, festhaken
 to fix(verb) (We fixed a date for the wedding., She took a brush and began to fix her hair., The hook was fixed to the wall., I fixed the cable with a clamp., He fixed my bike., He fixed the engine of his car himself., I have fixed an appointment with the mechanic., The bicycle mechanic fixed my bike.) ::: festlegen, richten, befestigen 
 total(noun) (The company invested a total of ten million dollars.) ::: Total, Gesamtbetrag, Gesamtzahl
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
-total(adjective) (The total number of participants was 25., The course permits total immersion in the language.) ::: total, gesamt, völlig 
+total(adjective) (The total number of participants was 25., The course permits total immersion in the language.) ::: total, gesamt, völlig
+<!--SR:!2000-01-01,1,250!2024-11-02,5,377-->
 assistance(noun) (The countries have promised their financial assistance.) ::: Unterstützung, Hilfe, Assistenz
 <!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
 to assist(verb) (It's her job to assist the project manager., The pupil assisted the teacher with the experiment., The girl assisted her father with the cooking., I will always assist my brother in times of need., He assisted his friends in the kitchen., If any problems arise, we will assist our partners., The consultant assisted the company in drawing up a marketing plan., The nurse assisted the doctor during the operation.) ::: unterstützen, fördern, helfen
@@ -697,7 +699,7 @@ to spare(verb) (Luckily, the butcher spared me a detailed description of his wor
 spare(adjective) (There are still a few spare seats on the plane., I gave my spare money to my sister because I did not need it.) ::: frei, übrig, sparsam
 <!--SR:!2024-11-21,24,392!2000-01-01,1,250-->
 graphic(noun) (The process is illustrated in the graphic below.) ::: Grafik, Graphik, Abbildung
-<!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
+<!--SR:!2024-11-03,6,377!2024-11-01,5,375-->
 graphic(adjective) (The graphic design of the game is very complex., A chart is a graphic representation of numbers.) ::: grafisch, graphisch, zeichnerisch
 <!--SR:!2000-01-01,1,250!2024-11-03,6,377-->
 firm(noun) (My brother runs a successful firm., The firm was taken over by a large group.) ::: Firma, Unternehmen, Betrieb
@@ -729,13 +731,15 @@ occupation(noun) (The judge asked the witness to state his name and occupation.,
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren 
 fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur
 <!--SR:!2024-10-29,6,371!2024-11-01,5,375-->
-ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote 
+ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote
+<!--SR:!2024-11-02,5,377!2000-01-01,1,250-->
 Ratio(noun) (Ratio und Emotion können einander widersprechen.) ::: reason, rational logic 
 to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of old remnants.) ::: weben, flechten, verweben 
 weave(noun) () ::: Gewebe, Webart, Bindung
 <!--SR:!2024-10-31,3,335!2000-01-01,1,250-->
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen 
-worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen 
+worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen
+<!--SR:!2000-01-01,1,250!2024-10-29,1,337-->
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
 <!--SR:!2024-11-01,5,376!2024-11-02,5,377-->
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members., Members must conform to the provisions of the contract., The institution is responsible for the provision of food., Companies are allowed to make provisions for future investments., They took sufficient provisions for the long journey., The contract includes provisions on protection of personal information.) ::: Bestimmung, Regelung, Bereitstellung
@@ -749,7 +753,8 @@ full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig
 full-time(adverb) (I work full-time in an office.) ::: ganztags 
 jail(noun) (The man was in jail for theft.) ::: Gefängnis, Knast, Kerker
 <!--SR:!2024-11-01,5,375!2024-11-01,5,376-->
-to jail(verb) () ::: ins Gefängnis bringen, einsperren 
+to jail(verb) () ::: ins Gefängnis bringen, einsperren
+<!--SR:!2024-11-02,5,377!2000-01-01,1,250-->
 ink(noun) (As per the instructions, I filled out the form in blue ink., The squid discharges ink to defend itself.) ::: Tinte, Farbe, Tusche
 <!--SR:!2024-11-01,5,375!2000-01-01,1,250-->
 to ink(verb) (Both parties inked the agreement.) ::: unterzeichnen, einfärben, tätowieren 
@@ -758,7 +763,7 @@ vibrant(adjective) (The city is famous for its vibrant cultural life., She was w
 to improve(verb) (The condition improved after a higher dose was given., I am sure we can improve our language skills in the course., We use the data to improve user experience., Advertising can improve the image of a company., The gold medal was an incentive for him to improve his performance further., Due to regular practice, the dancers increasingly improved., He took a class to improve his already good Japanese.) ::: sich verbessern, verbessern, steigern
 <!--SR:!2024-11-02,5,377!2024-11-02,6,375-->
 newly(adverb) (The hotel rooms are renovated and newly furnished.) ::: neu, neuartig, frisch
-<!--SR:!2000-01-01,1,250!2024-10-31,4,355-->
+<!--SR:!2024-11-02,5,377!2024-10-31,4,355-->
 new(adjective) (My father bought himself a new car., My car has new tyres., Congrats on your new job!, The exotic spices were new to me.) ::: neu, ungewohnt, fremdartig
 <!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
 duration(noun) (The duration of the tests will not exceed two weeks., The duration of the project is six months.) ::: Dauer, Laufzeit, Zeitraum
@@ -774,10 +779,11 @@ storage(noun) (The storage of cheese changes its taste., A dry and dark place is
 <!--SR:!2024-11-01,5,376!2000-01-01,1,250-->
 width(noun) (Width, length and height are equal in a cube., I asked for the length and width in yards., The width of the sleeve is adjustable.) ::: Breite, Weite, Bandbreite
 <!--SR:!2024-11-02,6,375!2000-01-01,1,250-->
-reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig 
+reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig
+<!--SR:!2000-01-01,1,250!2024-10-29,1,337-->
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig 
 analogously(adverb) () ::: analog, sinngemäß
-<!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
+<!--SR:!2024-11-02,5,377!2024-11-02,6,375-->
 succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge
 <!--SR:!2000-01-01,1,250!2024-10-29,1,337-->
 to elbow(verb) (He elbowed his way through the crowd.) ::: drängen 
@@ -786,7 +792,8 @@ ownership(noun) (After payment, ownership passes on to the buyer., The city took
 honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufrichtigkeit
 <!--SR:!2000-01-01,1,250!2024-11-01,5,375-->
 rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite 
-rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres 
+rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres
+<!--SR:!2024-11-02,5,377!2000-01-01,1,250-->
 sword(noun) (The point of the sword is very sharp., He put his sword back into its sheath.) ::: Schwert, Degen, Säbel 
 hunger(noun) (After the big meal, my hunger was satisfied.) ; Hunger 
 to hunger(verb) (Mankind hungers for peace and justice.) ; hungern 
