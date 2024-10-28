@@ -737,7 +737,8 @@ Ratio(noun) (Ratio und Emotion können einander widersprechen.) ::: reason, rati
 to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of old remnants.) ::: weben, flechten, verweben 
 weave(noun) () ::: Gewebe, Webart, Bindung
 <!--SR:!2024-10-31,3,335!2000-01-01,1,250-->
-to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen 
+to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen
+<!--SR:!2000-01-01,1,250!2024-11-01,4,358-->
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen
 <!--SR:!2000-01-01,1,250!2024-10-29,1,337-->
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
