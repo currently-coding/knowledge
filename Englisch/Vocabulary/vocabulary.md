@@ -777,7 +777,8 @@ reasonably(adverb) (The hotel room was reasonably comfortable, considering the c
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig 
 analogously(adverb) () ::: analog, sinngemäß
 <!--SR:!2000-01-01,1,250!2024-11-02,6,375-->
-succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge 
+succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge
+<!--SR:!2000-01-01,1,250!2024-10-29,1,337-->
 to elbow(verb) (He elbowed his way through the crowd.) ::: drängen 
 ownership(noun) (After payment, ownership passes on to the buyer., The city took ownership of the land.) ::: Eigentum, Besitz, Eigentumsrecht
 <!--SR:!2024-11-02,6,375!2024-11-02,6,375-->
