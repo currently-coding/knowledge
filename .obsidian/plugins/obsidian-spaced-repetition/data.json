@@ -1,14 +1,14 @@
 {
   "settings": {
-    "flashcardEasyText": "Easy",
+    "flashcardEasyText": "Too easy",
     "flashcardGoodText": "Good",
-    "flashcardHardText": "Hard",
+    "flashcardHardText": "Did not know",
     "flashcardTags": [
-      "#flashcards"
+      ""
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
-    "burySiblingCards": false,
+    "burySiblingCards": true,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
@@ -18,18 +18,23 @@
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
-    "singleLineCardSeparator": "::",
+    "singleLineCardSeparator": ":=",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      "#mon",
+      "#tue",
+      "#wed",
+      "#thu",
+      "#fri",
+      ""
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
-    "autoNextNote": false,
+    "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "initiallyExpandAllSubdecksInTree": false,
@@ -40,7 +45,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-10-30",
+  "buryDate": "2024-10-31",
   "buryList": [],
   "historyDeck": null
 }
