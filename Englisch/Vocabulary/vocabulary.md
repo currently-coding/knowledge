@@ -844,3 +844,75 @@ hyperbole(noun) () ; Übertreibung, Hyperbel
 to culminate(verb) (The festival culminated in a large fireworks display., The initiative culminated in a global movement., His athletic career culminated when he was 23.) ; kulminieren, gipfeln, zum Höhepunkt kommen 
 drawback(noun) (The only drawback of my job is the low salary.) ; Nachteil, Erstattung, Rückerstattung 
 to diminish(verb) (The new guidelines diminish risks at the workplace., My gratefulness did not diminish over the years., The gratefulness I felt did not diminish over the years., The risk of disease diminishes when we eat healthily.) ; verringern, sich verringern, reduzieren 
+flounder(noun) () ; Flunder, Butt 
+to flounder(verb) (Nervous people sometimes flounder when they speak., Some businesses floundered during the economic crisis., Three large fish were floundering in the fishing net.) ; sich verhaspeln, ins Trudeln geraten, zappeln 
+skyrocket(noun) () ; Rakete 
+to skyrocket(verb) () ; sprunghaft ansteigen, emporschnellen, in die Höhe schießen 
+democratic(adjective) () ; demokratisch 
+dairy(noun) (This dairy is famous for its yoghurt.) ; Molkerei, Käserei, Milch 
+warfare(noun) (Technology has deeply changed warfare.) ; Kriegsführung, Krieg, Kampfführung 
+pause(noun) (Press pause to stop the music., After a brief pause, I continued.) ; Pause, Unterbrechung, Wartezeit 
+to pause(verb) (I need to briefly pause and think., You can pause the playback with this button., We had to pause the film several times because of its length.) ; innehalten, pausieren, unterbrechen 
+Pause(noun) (Ich habe in meiner Pause einen Salat gegessen., Wir haben genug Zeit, um eine Pause zu machen., Drücken Sie auf Pause, um die Musik anzuhalten., Nach einer kurzen Pause machte ich weiter., Die Wanderer beschlossen, eine kurze Pause zu machen., Er braucht eine Pause, um seine Kraft wiederzugewinnen., Wir arbeiteten ohne Pause an dem neuen Projekt., Ich ging nach einer Pause von zwei Jahren zurück zur Arbeit., Während der Pause laufen alle Kinder normalerweise herum und spielen.) ; break, pause, stop 
+demonstration(noun) (Activists gathered in a peaceful demonstration., There was no riot, just a peaceful demonstration., Media coverage of the demonstration was very brief., After a demonstration in a department store, I bought a food processor., I bought you roses as a demonstration of my love., Many people took part in a large demonstration outside the town hall., The vendor gave a demonstration of his product.) ; Demonstration, Vorführung, Beweis 
+Demonstration(noun) (Aktivisten versammelten sich bei einer friedlichen Demonstration., Es gab keinen Aufruhr, nur eine friedliche Demonstration., Die Berichterstattung über die Demonstration war sehr kurz., Die Polizei löste die Demonstration auf., Tausende von Menschen nahmen an der Demonstration für Frauenrechte teil.) ; demonstration, protest, march 
+to evolve(verb) (In the past decades, China's economy has been evolving rapidly., In the past decades, China's economy has been evolving rapidly., The liquid evolves flammable fumes.) ; sich entwickeln, entwickeln, abgeben 
+circuit(noun) (This electronic circuit contains several jumpers., The circuit is protected by the fuse., The electric circuit is protected by a fuse.) ; Schaltung, Rennstrecke, Stromkreis 
+to circuit(verb) (The Earth circuits around the Sun., The small boat could not circuit the island because of the wind.) ; kreisen, umschiffen, umfliegen 
+scrutiny(noun) () ; Prüfung, Überprüfung, Untersuchung 
+seldom(adjective) () ; selten 
+seldom(adverb) (I seldom see my sister, since she lives far away., My brother is very even-tempered and seldom gets angry.) ; selten, kaum, nicht oft 
+permanently(adverb) (I had not permanently deleted the data.) ; dauerhaft, permanent, nachhaltig 
+permanent(adjective) (The actor got a permanent engagement., The patient is under permanent monitoring., Small children demand permanent attention from their parents., His boss offered him a permanent position., The solution is temporary, not permanent.) ; dauerhaft, permanent, ständig 
+failed(adjective / past participle) (After three failed attempts, the team scored a goal., He was sure he had failed the exam, but the reverse was true.) ;  
+to fail(verb) (Words fail me right now., If you fail, you need to try again., After my first attempt had failed, I tried again., During the storm, the mobile phone connection failed., Good students never fail to do their homework., He was sure he had failed the exam, but the reverse was true., I took the exam despite my fear of failing., The student failed the exam and has to take it again.) ; fehlen, scheitern, ausfallen 
+refusal(noun) (Our proposal was met with a flat refusal., His refusal to accept the truth is annoying., The scientific committee justified their refusal of the proposal.) ; Ablehnung, Verweigerung, Weigerung 
+stability(noun) (Large ships have tanks for ballast to improve stability.) ; Stabilität, Beständigkeit, Standsicherheit 
+stability(noun) () ; Lenkfähigkeitskontrolle in der Kurve 
+stable(adjective) (Prices are stable and not constantly changing., This year, the company's net sales remained stable., The new base of the lamp is very stable., Rather than a temporary contract, I would like a stable job., Wine must be stored at a stable temperature., Despite its dilapidated look, the bridge is very stable., My internet connection is fast and stable.) ; stabil, standfest, fest 
+founder(noun) (The founder of the company still runs it today.) ; Gründer, Gründerin, Stifter 
+to founder(verb) (The project must not founder.) ; scheitern, fehlschlagen, sinken 
+spectacle(noun) (The circus offered the audience a breathtaking spectacle.) ; Spektakel, Schauspiel, Show 
+choir(noun) (The choir sings a refrain after every strophe., We rehearse once a week with our choir.) ; Chor, Gesangverein, Kantorei 
+highlight(noun) (The last song was the special highlight of the show., The presentation of the award is the highlight of the event., The highlight of our visit to the city was the imposing cathedral., The highlight of my new kitchen is the induction stove.) ; Highlight, Höhepunkt, Clou 
+to highlight(verb) (The director highlighted the positive trend in his presentation., I highlighted some important passages in my book., The correct range was clearly highlighted on the display., I would like to highlight the growing importance of renewable energies.) ; hervorheben, markieren, betonen 
+Highlight(noun) (Das letzte Lied war das besondere Highlight der Show.) ; highlight, must-see 
+remains(noun) (The remains of the ancient city are still admired today., Many cultures bury mortal remains.) ; Überreste, Reste, Ruinen 
+to remain(verb) (Peacekeeping remains our key objective., A judge has to try to remain impartial., He went into the desert and remained there for a week., An amount of 900 euros remains in the bank account., Only one piece of cake remained in the box., He remained at the door for a moment, and then he knocked., The fog remained all morning.) ; bleiben, verbleiben, übrig bleiben 
+equally important(adjective) (The different natural sciences are equally important to each other.) ; ebenso wichtig, gleichermaßen wichtig, gleichrangig 
+settlement(noun) (Parts of ancient settlements were found in this forest., The accountant handles all settlements., The lawyers worked towards a settlement of the dispute., The parties agreed on an out-of-court settlement., The accountants discussed the settlement of the bills., The settlement of the invoice amount was carried out by transfer., The disputes may be resolved by a settlement.) ; Siedlung, Abwicklung, Abrechnung 
+landing(noun) (The pilot performed a perfect landing., After landing, the plane taxied to the terminal., There was turbulence shortly before landing.) ; Landung, Landen, Treppenabsatz 
+landing(present participle) () ; anlegend 
+to land(verb) (The plane has just landed at the airport., The ship landed at the port in the early afternoon.) ; landen, anlegen, anlanden 
+obesity(noun) (Obesity is a major health problem in Europe.) ; Fettleibigkeit, Adipositas, Fettsucht 
+psychological(adjective) () ; psychologisch, psychisch, seelisch 
+substantially(adverb) (The new plan reduced our spendings substantially., Life expectancy has increased substantially since the last century.) ; wesentlich, im Wesentlichen, erheblich 
+substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ; wesentlich, erheblich, reichhaltig 
+brick(noun) (The house was built of bricks., The falling brick almost brained me., The builder needed four tons of bricks to build the wall.) ; Ziegel, Stein, Backstein 
+brick(adjective) () ; ziegelrot 
+to brick(verb) () ; funktionsunfähig machen 
+with(preposition) (The boy is going to the cinema with his friends, not alone., I style my hair with gel., He has been with this bank for many years., He trembled with excitement when he received the award.) ; mit, zu, bei 
+racist(adjective) () ; rassistisch 
+racist(noun) () ; Rassist, Rassistin 
+entrepreneur(noun) (The entrepreneur opened a new market in China., The new community hall was founded by a wealthy entrepreneur., The entrepreneur is looking for new business opportunities., The entrepreneur invests in promising business ideas., The entrepreneur has started several businesses., The entrepreneur opened a new business in China.) ; Unternehmer, Entrepreneur, Unternehmerin 
+Entrepreneur(noun) (Der Entrepreneur hält Ausschau nach neuen Geschäftschancen., Der Entrepreneur investiert in vielversprechende Geschäftsideen., Der Entrepreneur hat mehrere Unternehmen gegründet., Der Entrepreneur eröffnete ein neues Geschäft in China.) ; entrepreneur 
+clinic(noun) (I am a doctor and I work at a small clinic.) ; Klinik, Krankenhaus, Klinikum 
+sensitivity(noun) (The training helps to develop sensitivity for other cultures., Dry skin has a heightened sensitivity to cold., He showed great sensitivity in dealing with the child.) ; Sensibilität, Empfindlichkeit, Feingefühl 
+sensitive(adjective) (This cream can also be used on sensitive skin., Sensitive skin needs special care., Baby skin is very sensitive to chemicals., Sensitive issues are difficult to discuss., Nurses should be both competent and sensitive., My skin is very sensitive.) ; sensibel, empfindlich, heikel 
+to stun(verb) (Some fish use electricity to stun their prey.) ; betäuben, verblüffen 
+editorial(adjective) (The magazine made some editorial changes.) ; redaktionell, Redaktions-, editorisch 
+editorial(noun) (I like the editorials in this newspaper.) ; Editorial, Leitartikel 
+Editorial(noun) () ; editorial 
+elementary(adjective) (The beginner's course teaches elementary skills., A secure job was of elementary importance for him.) ; elementar, grundlegend, wesentlich 
+notebook(noun) (He wrote in his notebook every day., I recorded the results of the discussion in my notebook.) ; Notebook, Notizbuch, Heft 
+Notebook(noun) () ; notebook, notebook computer, laptop computer 
+to soar(verb) (After the start, the rocket soared straight into the sky., A falcon was soaring above the forest., The value of the shares soared temporarily.) ; steigen, segeln, hochschnellen 
+transparent(adjective) (The appraisal system is fair and transparent., I can see through the window because it is transparent., The appraisal system must be fair and transparent.) ; transparent, durchsichtig, durchschaubar 
+transparent(adjective) (Das Beurteilungssystem ist fair und transparent.) ; transparent, clear, lucent 
+transparent(adverb) () ; transparently, lucently, diaphanously 
+to devote oneself to(verb) (The woman devoted herself to her scientific studies., The lawyer had devoted herself to fighting injustice.) ; sich hingeben, sich verschreiben 
+devot(adjective) () ; submissive, devout, humble 
+devot(adverb) () ; submissively, humbly, obsequiously 
+nursing(noun) () ; Pflege, Krankenpflege, Stillen 
+nursing(adjective / present participle) () ; säugend 
+to nurse(verb) (He nursed the sick little kitten., I nursed an abandoned bird.) ; pflegen, großziehen, kurieren 
