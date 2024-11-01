@@ -35,7 +35,7 @@ $M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 <!--SR:!2024-11-17,32,294!2024-12-07,45,298-->
 ### Operations
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
-<!--SR:!2024-10-30,7,174-->
+<!--SR:!2024-11-05,4,154-->
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 <!--SR:!2024-12-12,50,297-->
 $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
@@ -43,7 +43,7 @@ $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A
 $A - B$ := $A \setminus B$ (Difference of A and B)
 <!--SR:!2024-11-07,24,274-->
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
-<!--SR:!2024-11-01,20,274-->
+<!--SR:!2024-12-25,54,274-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
 <!--SR:!2024-11-27,35,274-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
@@ -81,6 +81,6 @@ $f$ is surjective ::: $R_f = B$
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
 <!--SR:!2024-11-03,11,238!2024-11-13,28,274-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
-<!--SR:!2025-01-04,68,314!2024-10-26,17,298-->
+<!--SR:!2025-01-04,68,314!2025-01-09,69,318-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.
 <!--SR:!2024-11-09,24,278-->
