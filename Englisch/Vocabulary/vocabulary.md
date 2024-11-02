@@ -916,3 +916,14 @@ devot(adverb) () ; submissively, humbly, obsequiously
 nursing(noun) () ; Pflege, Krankenpflege, Stillen 
 nursing(adjective / present participle) () ; säugend 
 to nurse(verb) (He nursed the sick little kitten., I nursed an abandoned bird.) ; pflegen, großziehen, kurieren 
+to convey(verb) (The film conveys an important message., The belt conveys the goods to the warehouse., A belt conveys the materials to the next work area., The pipeline conveys gas to the city.) ; vermitteln, transportieren, fördern 
+regulatory(adjective) (A regulatory framework is a system of rules., We will get the project if we comply with all regulatory requirements.) ; behördlich, regulatorisch, regulativ 
+necessity(noun) (For many people, coffee is a necessity in the morning., He made a virtue of necessity.) ; Notwendigkeit, Not, Bedarf 
+opera(noun) (We met in front of the opera at eight.) ; Oper 
+divorce(noun) (The housekeeper leaked the information about the couple's divorce.) ; Scheidung, Trennung, Ehescheidung 
+to divorce(verb) () ; sich scheiden 
+torture(noun) (The aim of the institution is the global prohibition of torture.) ; Folter, Folterung, Qual 
+to torture(verb) () ; martern, quälen, foltern 
+automatically(adverb) (The software compiles the information automatically., My CD player changes CDs automatically.) ; automatisch, selbsttätig, von selbst 
+automatic(adjective) (The building has an automatic door., The user can manually override the automatic locking function.) ; automatisch, selbsttätig, maschinell 
+automatical(adjective) () ; selbstbeweglich 
