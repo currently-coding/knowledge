@@ -17,7 +17,7 @@
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
-    "convertCurlyBracketsToClozes": false,
+    "convertCurlyBracketsToClozes": true,
     "singleLineCardSeparator": ":=",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
