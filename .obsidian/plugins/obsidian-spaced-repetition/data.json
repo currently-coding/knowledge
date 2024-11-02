@@ -17,7 +17,7 @@
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
-    "convertCurlyBracketsToClozes": true,
+    "convertCurlyBracketsToClozes": false,
     "singleLineCardSeparator": ":=",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
@@ -45,7 +45,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-11-01",
+  "buryDate": "2024-11-02",
   "buryList": [],
   "historyDeck": null
 }
