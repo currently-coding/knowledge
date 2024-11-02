@@ -565,7 +565,7 @@ segment(noun) (He divided the film into several segments., The director divided 
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
 <!--SR:!2024-11-20,23,392!2024-11-07,5,383-->
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung
-<!--SR:!2024-11-06,4,363!2000-01-01,1,250-->
+<!--SR:!2024-11-06,4,363!2024-11-07,5,383-->
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
 <!--SR:!2024-11-03,6,355!2024-11-03,1,341-->
 revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The scientists' latest invention was revolutionary.) ::: revolutionär, bahnbrechend, umwälzend
@@ -589,7 +589,7 @@ timely(adjective) (Timely procurement of raw materials is essential for producti
 cute(adjective) (This little dog is cute., Our kitten is really cute., I now have an adorable, cute kitten., My little niece is incredibly cute.) ::: niedlich, putzig, süß
 <!--SR:!2024-11-08,6,382!2024-11-07,5,382-->
 globe(noun) () ::: Welt, Globus, Erdball
-<!--SR:!2024-11-08,6,383!2000-01-01,1,250-->
+<!--SR:!2024-11-08,6,383!2024-11-03,1,343-->
 to shoot(verb) (An archer shoots arrows at a target., He shoots with pinpoint precision., The director decided to shoot the scene outside., With this new camera, you can shoot in any light., The boy pulled the trigger but the toy pistol did not shoot., The seedlings began to shoot after two weeks.) ::: schießen, drehen, fotografieren
 <!--SR:!2024-12-02,30,395!2024-11-08,6,381-->
 cheek(noun) (I kissed her on the cheek., He caressed her cheek., He gave her a kiss on the cheek., She had the cheek to leave me waiting for an hour., I have a mole on my left cheek.) ::: Wange, Backe, Frechheit
@@ -631,7 +631,7 @@ dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, 
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2024-11-04,2,335!2024-11-07,5,383-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
-<!--SR:!2000-01-01,1,250!2024-11-06,4,363-->
+<!--SR:!2024-11-06,4,363!2024-11-06,4,363-->
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
 <!--SR:!2024-11-08,6,383!2024-12-04,32,395-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
