@@ -1,10 +1,3 @@
-gorgeous
-coincidence
-reassure
-manufacture
-herb
-litter
-chop
 generate
 innovation
 progressive
