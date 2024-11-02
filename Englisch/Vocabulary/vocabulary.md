@@ -927,3 +927,16 @@ to torture(verb) () ; martern, quälen, foltern
 automatically(adverb) (The software compiles the information automatically., My CD player changes CDs automatically.) ; automatisch, selbsttätig, von selbst 
 automatic(adjective) (The building has an automatic door., The user can manually override the automatic locking function.) ; automatisch, selbsttätig, maschinell 
 automatical(adjective) () ; selbstbeweglich 
+gorgeous(adjective) (The landscape in this country is just gorgeous., From the hill we had a gorgeous view at the sea.) ; wunderschön, großartig, herrlich 
+coincidence(noun) (It was pure coincidence that they were in the same city that day.) ; Zufall, Zusammentreffen, Koinzidenz 
+to coincide(verb) (Her statement coincides with my opinion., The holiday coincides with a weekend., My goals coincide with those of the company., My visit coincides with the annual music festival.) ; übereinstimmen, zusammenfallen, sich decken 
+to reassure(verb) (The boy was scared about seeing the doctor, but his mother reassured him.) ; beruhigen, rückversichern 
+manufacture(noun) () ; Herstellung, Fertigung, Produktion 
+to manufacture(verb) (His company manufactures bicycle parts., The factory manufactures cars on a production line., This company manufactures bicycle parts., The cars we manufacture here are famous for their longevity., The factory manufactures bicycle parts.) ; fertigen, herstellen, erzeugen 
+herb(noun) (This cream contains essences of herbs., Certain herbs are very effective against headaches., I plant herbs for the kitchen on my balcony.) ; Kraut, Gewürz, Küchenkraut 
+herb(adjective) () ; bitter, austere, tangy 
+herb(adverb) () ; bitterly, austerely, harshly 
+litter(noun) (The cat breeder is proud of his cat's litter., After our picnic, we put the litter in the bin.) ; Wurf, Streu, Müll 
+to litter(verb) (The sow is in pig and will litter soon., Please keep the lawn clean and do not litter., I take my rubbish home and never litter the countryside.) ; abferkeln, Abfall verstreuen, verschmutzen 
+to chop(verb) (She chopped some vegetables to make a salad., I peeled and chopped the garlic for the sauce.) ; hacken, zerkleinern, schneiden 
+chop(noun) (The gardener removed the branch with a single chop.) ; Hieb, Siegel, Kotelett 
