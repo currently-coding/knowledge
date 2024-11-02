@@ -717,7 +717,7 @@ determination(noun) (The determination of the best strategy will take place tomo
 to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln
 <!--SR:!2024-11-08,12,353!2024-11-03,1,343-->
 senator(noun) (The senators are trying to amend some laws.) ::: Senator, Senatorin
-<!--SR:!2024-11-07,5,383!2000-01-01,1,250-->
+<!--SR:!2024-11-07,5,383!2024-11-08,6,383-->
 casual(adjective) (I wear casual clothes outside the office., This is an informal event; you can wear casual clothing., I like parties with a casual atmosphere., I made a casual remark about the weather., I like the casual feel of beach parties., To a casual observer, the scene might appear normal., I prefer simple and casual clothing.) ::: lässig, leger, zwanglos
 <!--SR:!2024-11-18,16,355!2024-11-08,6,382-->
 to insist(verb) (The woman did not give up and insisted on her rights.) ::: pochen, insistieren
