@@ -19,9 +19,8 @@ Welche Bedingung muss erfüllt sein, damit $f(x)$ achsensymmetrisch zur Y-Achse 
 $$
 f(x)=g(-x)
 $$
+- $cos(x) = cos(-x)$
 ### X-Achse
 $$
 f(x) = -g(x)
 $$
-- $cos(x) = cos(-x)$
-- 
