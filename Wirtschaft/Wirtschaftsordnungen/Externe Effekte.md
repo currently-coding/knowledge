@@ -1,7 +1,7 @@
 ## Externe Effekte
 > [!Note]
 > Externe Effekte := Kosten/Nutzen, die sich nicht auf Verbraucher sondern Unbeteiligte auswirken(z.B. $CO_2$-Ausstoss)
-<!--SR:!2024-10-24,1,210-->
+<!--SR:!2024-11-04,2,210-->
 
 ### Externe Kosten
 >[!Note]
@@ -29,5 +29,5 @@
 ### Ziel: Internalisierung
 >[!Note]
 >Internalisierung := Verbrauchern Anreiz geben die sozialen Kosten und Nutzen einzubeziehen
-<!--SR:!2024-10-25,2,230-->
+<!--SR:!2024-11-03,1,210-->
 
