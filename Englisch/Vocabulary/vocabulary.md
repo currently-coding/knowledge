@@ -765,7 +765,6 @@ particularly(adverb) (She particularly likes yellow roses., In the third movemen
 particular(adjective) (I passed the exam without any particular difficulties., I pay very particular attention to grammar mistakes., In this particular election, only members of the council are eligible., The software is aimed at a particular bracket of users., My aunt is very particular about films.) ::: besondere, besonderer, speziell 
 thread(noun) (Users can discuss suggestions in a thread., She used dark blue thread for the embroidery., The thread on the screw is worn down.) ::: Thread, Faden, Gewinde 
 to thread(verb) (It can be difficult to thread cotton through a needle., She threaded the beads to make a necklace., When I was a kid, I loved to thread perls on a necklace.) ::: einfädeln, auffädeln, aufziehen 
-Thread(noun) (Benutzer können Vorschläge in einem Thread diskutieren.) ::: thread 
 healthcare(noun) (Prevention is a key element of healthcare.) ::: Gesundheitswesen, Gesundheitsversorgung, Gesundheitsfürsorge 
 to call for(verb) (The prosecution is calling for a conviction., Special situations call for special measures., This problem calls for an innovative solution., The manager called for an urgent meeting., This task calls for his undivided attention.) ::: fordern, erfordern, verlangen 
 sole(adjective) (The young prince was the king's sole heir., My father is the sole provider for our family.) ::: einzig, alleinig, ausschließlich 
@@ -776,7 +775,6 @@ corporate(adjective) (The project involves a corporate responsibility of all tea
 questionnaire(noun) (The respondents filled in the questionnaire., I checked all the boxes on the questionnaire., The company sent a questionnaire to all employees.) ::: Fragebogen, Umfrage, Fragenkatalog 
 surge(noun) (The surge in temperatures in the summer was not unexpected., The surge in demand was very beneficial for the company., An electrical surge damaged the computer., The minister's speech caused a surge of enthusiasm., We sat at the beach and listened to the surge.) ::: Anstieg, Überspannung, Welle 
 to surge(verb) (We opened the doors and people surged into the hall., It was raining, and the waves were surging around the pier.) ::: strömen, wogen, drängen 
-to produce(verb) (The farm mainly produces milk and cheese., The country produces many goods and exports them abroad., The synergy of hydrogen and oxygen produces water., The filament heats up and produces light., The factory produces high-quality tools., I work for a company which produces cars., My online search only produced two hits., The company produces tailored suits for men., The new operating system only produces more errors., Many people worked in mines to produce coal., Please produce the necessary documents at the counter.) ::: produzieren, erzeugen, fertigen 
 produce(noun) (Organic produce can be bought in the farm shop.) ::: Produkte, Produkt, Erzeugnisse 
 incentive(noun) (The gold medal was an incentive for him to improve his performance further., My termination was a good incentive to look for a better job., The medal was an incentive for him to improve his performance even more.) ::: Anreiz, Anreize, Ansporn 
 to enforce(verb) (The police are going to enforce the new regulation., The sentence was enforced.) ::: durchsetzen, vollstrecken, durchführen 
@@ -784,7 +782,6 @@ triumph(noun) (My team's victory was a great triumph.) ::: Triumph, Sieg, Sieges
 to triumph(verb) (One team will triumph at the end of the game., Justice triumphed in the courtroom.) ::: siegen, den Sieg davontragen, gewinnen 
 Triumph(noun) (Der Sieg meiner Mannschaft war ein großer Triumph.) ::: triumph, victory, success 
 fond(adjective) (He looked at her with a fond expression in his eyes.) ::: verliebt, sehnlich, naiv 
-Fond(noun) (Kinder sollten im Fond des Autos sitzen., Ich verwendete Wasser statt Fond, um die Linsen zu kochen.) ::: back, meat stock, meat juice 
 immigration(noun) () ::: Immigration, Einwanderung, Zuwanderung 
 to immigrate(verb) () ::: einwandern, immigrieren, zuwandern 
 Immigration(noun) () ::: immigration 
@@ -792,13 +789,10 @@ to pump(verb) (The heart pumps blood around the body.) ::: pumpen, aufpumpen
 pump(noun) (There are two pumps to fill the pool with water., The overflow is caused by a faulty pump.) ::: Pumpe 
 pump(noun) (The pumps are too large for my feet.) ::: Turnschuh, Sportschuh 
 resignation(noun) (The politician announced his resignation., Taking action is better than resignation., I handed in my resignation and found a new job.) ::: Rücktritt, Resignation, Kündigung 
-Resignation(noun) (Etwas zu unternehmen ist besser als Resignation.) ::: resignation 
 publicity(noun) (The publicity for the new book attracted many readers., My company has had good publicity in the media.) ::: Werbung, Publicity, Publizität 
-Publicity(noun) (Meine Firma hat in den Medien gute Publicity bekommen.) ::: publicity, exposure, hype 
 validity(noun) (The results confirm the validity of the assumption., The validity of his arguments is unquestionable.) ::: Gültigkeit, Richtigkeit, Aussagekraft 
 likewise(adverb) (Everybody started dancing, so I did likewise., Your brother is studying hard and you should do likewise.) ::: ebenfalls, gleichfalls, ebenso 
-leap(noun) (The cat made a leap over the fence., All of her friends watched her daring leap off the tree.) ::: Sprung, Satz 
-leap(noun) () ::: Entwicklungssprung 
+leap(noun) (The cat made a leap over the fence., All of her friends watched her daring leap off the tree.) ::: Sprung, Satz, Entwicklungssprung
 to leap(verb) (The child leaped over the puddle., The horse leaped over the hurdle.) ::: hüpfen, springen, überspringen 
 henceforth(adverb) (The new provision shall henceforth apply to all members., Henceforth, the new provision applies to all members.) ::: künftig, fortan, im Folgenden 
 hyperbole(noun) () ::: Übertreibung, Hyperbel 
@@ -823,12 +817,10 @@ to circuit(verb) (The Earth circuits around the Sun., The small boat could not c
 scrutiny(noun) () ::: Prüfung, Überprüfung, Untersuchung 
 seldom(adjective) () ::: selten 
 seldom(adverb) (I seldom see my sister, since she lives far away., My brother is very even-tempered and seldom gets angry.) ::: selten, kaum, nicht oft 
-permanently(adverb) (I had not permanently deleted the data.) ::: dauerhaft, permanent, nachhaltig 
 permanent(adjective) (The actor got a permanent engagement., The patient is under permanent monitoring., Small children demand permanent attention from their parents., His boss offered him a permanent position., The solution is temporary, not permanent.) ::: dauerhaft, permanent, ständig 
 to fail(verb) (Words fail me right now., If you fail, you need to try again., After my first attempt had failed, I tried again., During the storm, the mobile phone connection failed., Good students never fail to do their homework., He was sure he had failed the exam, but the reverse was true., I took the exam despite my fear of failing., The student failed the exam and has to take it again.) ::: fehlen, scheitern, ausfallen 
 refusal(noun) (Our proposal was met with a flat refusal., His refusal to accept the truth is annoying., The scientific committee justified their refusal of the proposal.) ::: Ablehnung, Verweigerung, Weigerung 
 stability(noun) (Large ships have tanks for ballast to improve stability.) ::: Stabilität, Beständigkeit, Standsicherheit 
-stability(noun) () ::: Lenkfähigkeitskontrolle in der Kurve 
 stable(adjective) (Prices are stable and not constantly changing., This year, the company's net sales remained stable., The new base of the lamp is very stable., Rather than a temporary contract, I would like a stable job., Wine must be stored at a stable temperature., Despite its dilapidated look, the bridge is very stable., My internet connection is fast and stable.) ::: stabil, standfest, fest 
 founder(noun) (The founder of the company still runs it today.) ::: Gründer, Gründerin, Stifter 
 to founder(verb) (The project must not founder.) ::: scheitern, fehlschlagen, sinken 
@@ -860,15 +852,8 @@ sensitivity(noun) (The training helps to develop sensitivity for other cultures.
 sensitive(adjective) (This cream can also be used on sensitive skin., Sensitive skin needs special care., Baby skin is very sensitive to chemicals., Sensitive issues are difficult to discuss., Nurses should be both competent and sensitive., My skin is very sensitive.) ::: sensibel, empfindlich, heikel 
 to stun(verb) (Some fish use electricity to stun their prey.) ::: betäuben, verblüffen 
 elementary(adjective) (The beginner's course teaches elementary skills., A secure job was of elementary importance for him.) ::: elementar, grundlegend, wesentlich 
-notebook(noun) (He wrote in his notebook every day., I recorded the results of the discussion in my notebook.) ::: Notebook, Notizbuch, Heft 
-Notebook(noun) () ::: notebook, notebook computer, laptop computer 
 to soar(verb) (After the start, the rocket soared straight into the sky., A falcon was soaring above the forest., The value of the shares soared temporarily.) ::: steigen, segeln, hochschnellen 
-transparent(adjective) (The appraisal system is fair and transparent., I can see through the window because it is transparent., The appraisal system must be fair and transparent.) ::: transparent, durchsichtig, durchschaubar 
-transparent(adjective) (Das Beurteilungssystem ist fair und transparent.) ::: transparent, clear, lucent 
-transparent(adverb) () ::: transparently, lucently, diaphanously 
 to devote oneself to(verb) (The woman devoted herself to her scientific studies., The lawyer had devoted herself to fighting injustice.) ::: sich hingeben, sich verschreiben 
-devot(adjective) () ::: submissive, devout, humble 
-devot(adverb) () ::: submissively, humbly, obsequiously 
 nursing(noun) () ::: Pflege, Krankenpflege, Stillen 
 to nurse(verb) (He nursed the sick little kitten., I nursed an abandoned bird.) ::: pflegen, großziehen, kurieren 
 to convey(verb) (The film conveys an important message., The belt conveys the goods to the warehouse., A belt conveys the materials to the next work area., The pipeline conveys gas to the city.) ::: vermitteln, transportieren, fördern 
@@ -915,3 +900,21 @@ yield(noun) (The farmer was pleased with the high yield., Farmers are interested
 to yield(verb) (The cuts will yield savings in expenditure., I finally yielded to temptation and had some cake., Constant exercise yields well-being and fitness., The investment started to yield profits.) ::: ergeben, nachgeben, bringen 
 to yield to(verb) () ::: Platz machen 
 district(noun) (There are no schools in this district., I live in a very quiet district of Amsterdam., In our district, waste is collected on Wednesdays., Most capitals are divided into several districts.) ::: Bezirk, Stadtteil, Kreis 
+monument(noun) (The monument acts as a reminder of the past., He chisels the monument from a block of marble.) ::: Denkmal, Monument, Baudenkmal 
+Monument(noun) () ::: monument 
+robust(adjective) (Wood is a robust building material., The system is robust and not susceptible to errors., The house is robust enough to withstand strong winds.) ::: robust, solide, stark 
+robust(adjective) (Holz ist ein robustes Baumaterial., Das System ist robust und nicht anfällig für Störungen., Dieses Zelt besteht aus einem robusten und wasserdichten Stoff., Der solide Stahlrahmen ist robust und belastbar., Das Material ist robust und kann Hitze und Kälte standhalten., Gummi ist ein robustes Material., Die Schuhe sind aus robusten Materialien gefertigt.) ::: robust, strong, rugged 
+robust(adverb) () ::: robustly, sturdily, ruggedly 
+pulse(noun) (Beans and peas are types of pulses.) ::: Puls, Impuls, Hülsenfrucht 
+to pulse(verb) (He felt the blood pulsing in his veins.) ::: pulsieren, pochen, pulsen 
+Pulse(noun) () ::: pulses 
+seal(noun) (He checks the royal seal on the letter., The seals prevent water from entering., We saw some seals lying on the rocks in the sea., The seal popped up briefly, then vanished in the water., The lawyer added his seal and signature to the document.) ::: Siegel, Dichtung, Seehund 
+to seal(verb) (I stamped and sealed the envelopes., I used adhesive tape to seal the box., If you notice leakage in a water pipe you must quickly seal it., I sealed the envelope before sending it., The surface can be sealed with varnish., They sealed the agreement with an oath.) ::: verschließen, abdichten, versiegeln 
+specification(noun) (The technical specifications are listed in the manual., The specifications listed in the manual are quite confusing., The specifications of the project are detailed in the report., I assembled the table according to the specification., The specifications of the project are clear and precise.) ::: Spezifikation, Angabe, Festlegung 
+to specify(verb) (The manager specified the deadline for applications., I specified all values in the contract., The contents are specified on the back of the package., I must specify the payee in the transaction form., The customer can specify the time of delivery.) ::: festlegen, angeben, bestimmen 
+standing(noun) (His standing in the community goes back to his social commitment., Their relationship is already of long standing., The company has a very good standing all over the world.) ::: Stand, Ansehen, Dauer 
+standing(adjective / present participle) (The current purchase price is not a standing offer.) ::: stehend 
+to stand(verb) (I'm standing at the corner waiting for you., A herd of cows was standing in the field., The doctor asked me if I could stand the pain., He could not stand the burning sun for long., Sensitive stomachs cannot stand spicy food., I cannot stand rudeness.) ::: stehen, ertragen, aushalten 
+graphics(noun) () ::: Grafiken, Grafik, Graphiken 
+graphic(noun) (The process is illustrated in the graphic below.) ::: Grafik, Graphik, Abbildung 
+graphic(adjective) (The graphic design of the game is very complex., A chart is a graphic representation of numbers.) ::: grafisch, zeichnerisch, graphisch 
