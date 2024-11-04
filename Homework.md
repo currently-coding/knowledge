@@ -10,8 +10,9 @@
 
 ## Wednesday
 - Latein
-	- [ ] S.14/-> 8
-	- [ ] WS entsprechend
+	- WS: 144f -> incidere
+	- Wdh: Z. 11-17 + Inhalt
+	- WS: S.18/Z. 1-3
 ## Thursday
 - Physik
 	- [ ] Karusell aufgabe
