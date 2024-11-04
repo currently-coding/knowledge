@@ -1,10 +1,3 @@
-monument
-robust
-pulse
-seal
-specification
-standing
-graphics
 undergraduate
 perceive
 successor
