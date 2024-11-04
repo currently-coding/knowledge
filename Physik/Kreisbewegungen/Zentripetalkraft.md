@@ -14,6 +14,5 @@ $$
 ## Beispiel: Kettenkarussell
 #todo skizze importieren
 
-
 ## Beispiel: Kurvenfahrt
 ![[Phyik-Kurvenfahrt]]
