@@ -24,3 +24,9 @@ $$
 $$
 f(x) = -g(x)
 $$
+
+### Beispiele
+### $-0.5\cdot 2^{x+3}$
+- Verschoben um  $-3$ LE
+- Streckung entlang der $Y$-Achse um $0.5$
+- Spiegelung an der $X$-Achse
