@@ -1,17 +1,3 @@
-generate
-innovation
-progressive
-smash
-furious
-recount1
-triumph
-hence
-clip
-replacement
-mechanism
-rebel
-yield
-distract
 monument
 robust
 pulse

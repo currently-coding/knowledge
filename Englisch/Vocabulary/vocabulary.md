@@ -940,3 +940,30 @@ litter(noun) (The cat breeder is proud of his cat's litter., After our picnic, w
 to litter(verb) (The sow is in pig and will litter soon., Please keep the lawn clean and do not litter., I take my rubbish home and never litter the countryside.) ; abferkeln, Abfall verstreuen, verschmutzen 
 to chop(verb) (She chopped some vegetables to make a salad., I peeled and chopped the garlic for the sauce.) ; hacken, zerkleinern, schneiden 
 chop(noun) (The gardener removed the branch with a single chop.) ; Hieb, Siegel, Kotelett 
+to generate(verb) (The batteries generate power for the radio., I can generate a query for the database., The company generates high profits., The company had generated sufficient retained earnings.) ; generieren, erzeugen, erstellen 
+innovation(noun) (Innovation is just one ingredient for continued growth., The technical innovations make the new model much faster.) ; Innovation, Neuerung, Innovationskraft 
+to innovate(verb) () ; erneuern, innovieren, Neuerungen einführen 
+Innovation(noun) (Innovation ist nur ein Bestandteil von anhaltendem Wachstum.) ; innovation 
+progressive(adjective) () ; fortschreitend, fortschrittlich, fortlaufend 
+progressive(noun) () ; Progressiv 
+to smash(verb) (The burglar smashed a window to get into the house., He smashed the ball into the opponent's field.) ; zerschlagen, einschlagen, schmettern 
+smash(noun) () ; Zerbrechen, Krachen, Schmetterschlag 
+furious(adjective) (Yesterday's meeting ended in a furious argument.) ; wütend, zornig, wild 
+recounts(noun) () ; Berichte 
+recount(noun) () ; Nachzählung, Bericht, Neuauszählung 
+to recount(verb) (The travel guide recounted his adventures with evident pleasure., Election officials recounted the votes to confirm the results.) ; erzählen, nachzählen 
+triumph(noun) (My team's victory was a great triumph.) ; Triumph, Sieg, Siegeszug 
+to triumph(verb) (One team will triumph at the end of the game., Justice triumphed in the courtroom.) ; siegen, den Sieg davontragen, gewinnen 
+Triumph(noun) (Der Sieg meiner Mannschaft war ein großer Triumph.) ; triumph, victory, success 
+hence(adverb) (The contract is signed, hence it is valid., These screws are more robust and hence last longer.) ; daher, dadurch, deshalb 
+clip(noun) (I need a clip to hold the papers together.) ; Klemme, Klammer, Schelle 
+to clip(verb) (We should clip our hedge., He clips whole syllables when he talks quickly., He clipped the string with a pair of scissors., I clip my nails before they get too long.) ; schneiden, verschlucken, abtrennen 
+replacement(noun) (We guarantee a free replacement of defective goods., I asked for the replacement of obsolete equipment., The company guarantees free replacement of defective goods., The replacement of broken parts is included in the warranty.) ; Ersatz, Ersatzlieferung, Ersetzen 
+mechanism(noun) (The engineer explained the mechanism of the machine., A special mechanism prevents the device from overheating.) ; Mechanismus, Mechanik, Vorrichtung 
+rebel(noun) (The rebels schemed to overthrow the king.) ; Rebell, Rebellin, Aufrührer 
+to rebel(verb) (The opposition rebelled against the new draft law.) ; rebellieren, sich auflehnen, aufbegehren 
+rebel(adjective) () ; rebellisch, abtrünnig 
+yield(noun) (The farmer was pleased with the high yield., Farmers are interested in crops with a higher yield., Despite the cold summer, the yield of vegetables was satisfactory., The yield of the sale is higher than expected.) ; Ertrag, Ausbeute, Gewinn 
+to yield(verb) (The cuts will yield savings in expenditure., I finally yielded to temptation and had some cake., Constant exercise yields well-being and fitness., The investment started to yield profits.) ; ergeben, nachgeben, bringen 
+to yield to(verb) () ; Platz machen 
+district(noun) (There are no schools in this district., I live in a very quiet district of Amsterdam., In our district, waste is collected on Wednesdays., Most capitals are divided into several districts.) ; Bezirk, Stadtteil, Kreis 
