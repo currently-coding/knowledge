@@ -34,7 +34,7 @@ Abbildung 2.2
 ---
 ## Auswertung
 Die Regressionsgeraden in den Abbildungen 1.1 sowie 2.1 schneiden sowohl X- als auch Y-Achse nahe des Ursprungs. Ungeachtet der Messungenauigkeiten kann man deshalb annehmen, das die Regressionsgeraden in einem optimalen Fall Ursprungsgeraden sind. Demnach wäre $a_z \propto r$.
-Abbildung 3 legt dar, dass $\omega^2  \propto a_z$ ist, da die Regressionsgerade ebenfalls den Ursprung schneidet. Die Steigung $m$ letzterer beträgt ebenfalls $m=0.071$ also gilt ungeachtet der Messungenauigkeiten $m=r$, woraus folgt, das $\frac{a_z}{\omega^2}=r$. Demnach gilt
+Abbildung 3 legt dar, dass $\omega^2  \propto a_z$ ist, da die Regressionsgerade ebenfalls den Ursprung schneidet. Die Steigung $m$ letzterer beträgt ebenfalls $m=0.071$ also gilt ungeachtet der Messungenauigkeiten $m=r$, demnach gilt$$\frac{a_z}{\omega^2}=r$$
 $$
 a_z = \omega^2 \cdot r
 $$
