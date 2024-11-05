@@ -38,6 +38,3 @@ Abbildung 3 legt dar, dass $\omega^2  \propto a_z$ ist, da die Regressionsgerade
 $$
 a_z = \omega^2 \cdot r
 $$
-
-
-
