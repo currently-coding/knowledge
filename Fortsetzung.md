@@ -13,7 +13,7 @@ Da nicht genügend Messwerte erfasst wurden um eine korrekte Regressionsgerade d
 Abbildung 1.1 
 
 ---
-![[Pasted image 20241105193613.png]]
+![[Pasted image 20241105200427.png]]
 Abbildung 1.2
 
 ---
@@ -28,7 +28,7 @@ Abbildung 2.2
 ---
 ### $\omega^2-a_z-Diagramm$
 - $r=0.08[m]$
-![[Pasted image 20241105181052.png]]
+![[Pasted image 20241105200506.png]]
  Abbildung 3
 
 ---
