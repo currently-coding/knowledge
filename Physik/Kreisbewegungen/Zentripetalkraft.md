@@ -11,6 +11,8 @@ $$
 - glf. Kreisbewegung => nur die Richtung - nicht der Betrag - von $\vec{v}$ ändert sich => $\vec{F_z}$ muss senkrecht zur Bahngeschwindigkeit wirken, d.h. $\vec{F_z}$ wirkt in *radialer* Richtung
 - In jedem Bahnpunkt wirkt die erforderliche Zentripetalkraft *radial zum Kreismittelpunkt*(=> auch $a_z$ wirkt radial zum Kreismittelpunkt)
 
-## Beispiel: Kettenkarussel
+## Beispiel: Kettenkarussell
 #todo skizze importieren
 
+## Beispiel: Kurvenfahrt
+![[Phyik-Kurvenfahrt]]
