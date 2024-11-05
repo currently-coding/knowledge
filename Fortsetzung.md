@@ -10,19 +10,33 @@ Das Smartphone wird in drei verschieden großen Radien (Radius $\hat{=}$ Distanz
 Da nicht genügend Messwerte erfasst wurden um eine korrekte Regressionsgerade darzustellen wurde zur Veranschaulichung in den Abbildungen 1.2 und 2.2 der Punkt $(0|0)$ künstlich hinzugefügt.
 #### $f=0.55\frac{1}{s}$
 ![[Pasted image 20241105194213.png]]
-Abbildung 1.1
+Abbildung 1.1 
+
+---
 ![[Pasted image 20241105193613.png]]
 Abbildung 1.2
+
+---
 #### $f=0.75\frac{1}{s}$
 ![[Pasted image 20241105194232.png]]
 Abbildung 2.1
+
+---
 ![[Pasted image 20241105191412.png]]
 Abbildung 2.2
+
+---
 ### $\omega^2-a_z-Diagramm$
 ![[Pasted image 20241105181052.png]]
  Abbildung 3
 
+---
 ## Auswertung
 Die Regressionsgeraden in den Abbildungen 1.1 sowie 2.1 schneiden sowohl X- als auch Y-Achse nahe des Ursprungs. Ungeachtet der Messungenauigkeiten kann man deshalb annehmen, das die Regressionsgeraden in einem optimalen Fall Ursprungsgeraden sind. Demnach wäre $a_z \propto r$.
-Abbildung 3 legt dar, dass $\omega^2  \propto a_z$ ist, da die Regressionsgerade ebenfalls den Ursprung schneidet. Die Steigung der letzterer betraegt ebenfalls $
+Abbildung 3 legt dar, dass $\omega^2  \propto a_z$ ist, da die Regressionsgerade ebenfalls den Ursprung schneidet. Die Steigung $m$ letzterer beträgt ebenfalls $m=0.071$ also gilt ungeachtet der Messungenauigkeiten $m=r$, woraus folgt, das $\frac{a_z}{\omega^2}=r$. Demnach gilt
+$$
+a_z = \omega^2 \cdot r
+$$
+
+
 
