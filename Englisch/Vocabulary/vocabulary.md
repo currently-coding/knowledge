@@ -918,3 +918,23 @@ to stand(verb) (I'm standing at the corner waiting for you., A herd of cows was 
 graphics(noun) () ::: Grafiken, Grafik, Graphiken 
 graphic(noun) (The process is illustrated in the graphic below.) ::: Grafik, Graphik, Abbildung 
 graphic(adjective) (The graphic design of the game is very complex., A chart is a graphic representation of numbers.) ::: grafisch, zeichnerisch, graphisch 
+undergraduate(noun) () ::: Student 
+to perceive(verb) (The discovery was perceived as a major breakthrough., Long-term trends are often difficult to perceive.) ::: wahrnehmen, erkennen, betrachten 
+successor(noun) (The head of the company designated his successor today., The outgoing mayor congratulated his successor.) ::: Nachfolger, Nachfolgerin, Nachfolgemodell 
+whip(noun) (The driver cracked the whip and the horses ran faster., The party promoted her to whip.) ::: Peitsche, Fraktionsvorsitzende, Gerte 
+to whip(verb) (The wind whipped the rain into her face., I whipped the cream until it was stiff., In the Middle Ages it was common to whip criminal offenders., The pupils whipped into the classroom when they saw their teacher.) ::: peitschen, schlagen, auspeitschen 
+residue(noun) (My drink left a sticky residue in my glass.) ::: Rückstände, Rückstand, Rest 
+navigation(noun) (A compass is used for navigation and orientation., The mouse and keyboard are used for navigation.) ::: Navigation, Schifffahrt, Steuerung 
+Navigation(noun) (Ein Kompass wird zur Navigation und Orientierung genutzt.) ::: navigation 
+fever(noun) (I went to the doctor because I had a fever.) ::: Fieber, Fieberkrankheit, Fieberzustand 
+to implement(verb) (The reforms will be implemented as soon as possible., The government implemented significant tax reforms., Companies implement new technologies to stay competitive., The company implemented the new store concept in two branches., I have implemented the changes.) ::: umsetzen, durchführen, einführen 
+implement(noun) (The gardener uses a wide set of implements., The carpenter uses various implements to work wood.) ::: Gerät, Werkzeug, Instrument 
+saint(noun) () ::: Heilige, Heiliger 
+saint(adjective) () ::: heilig 
+to saint(verb) () ::: heilig sprechen 
+rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn 
+to rail(verb) (She railed at the car drivers who tried to overtake her.) ::: schimpfen, wettern, fluchen 
+placement(noun) (The placement of products on the shelf affects sales., The company arranges my placement during the business trip.) ::: Platzierung, Vermittlung, Unterbringung 
+placement(noun) () ::: Praktikum 
+rally(noun) (The driver that wins the rally receives a trophy., The candidate held a rally in front of the town hall., The demonstrators held a rally near the station.) ::: Rallye, Kundgebung, Zusammenkunft 
+to rally(verb) (The country rallied quickly after the economic crisis., Thousands of people rallied for the demonstration.) ::: sich erholen, sich versammeln, um sich scharen 
