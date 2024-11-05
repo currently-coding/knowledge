@@ -9,7 +9,7 @@ Das Smartphone wird in drei verschieden großen Radien (Radius $\hat{=}$ Distanz
 ###  $a_z - r - \text{Diagramme}$
 Da nicht genügend Messwerte erfasst wurden um eine korrekte Regressionsgerade darzustellen wurde zur Veranschaulichung in den Abbildungen 1.2 und 2.2 der Punkt $(0|0)$ künstlich hinzugefügt.
 #### $f=0.55\frac{1}{s}$
-![[Pasted image 20241105194213.png]]
+![[Pasted image 20241105200150.png]]
 Abbildung 1.1 
 
 ---
@@ -18,15 +18,16 @@ Abbildung 1.2
 
 ---
 #### $f=0.75\frac{1}{s}$
-![[Pasted image 20241105194232.png]]
+![[Pasted image 20241105200221.png]]
 Abbildung 2.1
 
 ---
-![[Pasted image 20241105191412.png]]
+![[Pasted image 20241105200415.png]]
 Abbildung 2.2
 
 ---
 ### $\omega^2-a_z-Diagramm$
+- $r=0.08[m]$
 ![[Pasted image 20241105181052.png]]
  Abbildung 3
 
