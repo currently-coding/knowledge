@@ -90,7 +90,7 @@ to exploit(verb) (The company exploited their competitive advantage to become th
 <!--SR:!2024-12-31,78,357!2024-12-15,68,346-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) ::: Lebensstandard, Lebenshaltung
 <!--SR:!2024-12-29,78,358!2024-12-24,75,346-->
-debt relief(noun) (The bank granted the company only partial debt relief.) ::: Schuldenerlass, Entschuldung, Schuldenerleichterung
+debt relief(noun) (The bank granted the company only partial debt relief.) ::: Schuldenerlass, Entschuldung
 <!--SR:!2024-12-23,75,346!2024-12-29,78,351-->
 current affairs(noun) () ::: aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 <!--SR:!2025-01-15,84,346!2025-01-04,82,359-->
