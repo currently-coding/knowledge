@@ -265,7 +265,7 @@ to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
 <!--SR:!2025-01-15,87,377!2024-12-17,56,365-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
-<!--SR:!2024-11-03,27,367!2025-01-12,81,357-->
+<!--SR:!2025-02-12,98,367!2025-01-12,81,357-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2025-01-07,75,367!2024-12-12,50,317-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
@@ -311,7 +311,7 @@ provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
 <!--SR:!2024-12-21,62,361!2025-01-09,82,377-->
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
-<!--SR:!2025-01-04,74,361!2024-11-05,13,317-->
+<!--SR:!2025-01-04,74,361!2024-12-16,40,317-->
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
 <!--SR:!2025-02-06,102,388!2025-01-04,73,357-->
 whereby(adverb) () ::: wobei, wodurch, womit
@@ -353,7 +353,7 @@ palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
 <!--SR:!2025-01-19,88,381!2025-01-19,87,379-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
-<!--SR:!2025-01-27,92,379!2024-11-04,28,367-->
+<!--SR:!2025-01-27,92,379!2025-03-26,140,387-->
 to revenge oneself(verb) () ::: sich rächen
 <!--SR:!2025-01-27,96,385!2024-12-29,70,359-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
@@ -501,7 +501,7 @@ creativity(noun) (Some games stimulate the children's creativity., Regular guest
 creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch
 <!--SR:!2024-11-20,29,381!2025-02-08,98,402-->
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
-<!--SR:!2024-11-06,4,363!2024-11-14,18,372-->
+<!--SR:!2024-11-26,20,383!2024-11-14,18,372-->
 to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun
 <!--SR:!2024-11-13,17,373!2024-11-08,6,381-->
 to resume(verb) (After a short break, they resumed negotiations., She resumed her work after lunch.) ::: wieder aufnehmen, fortsetzen, wiederaufnehmen
@@ -527,7 +527,7 @@ reproduction(noun) (The reproduction of bootlegs is strictly prohibited.) ::: Ve
 cabin(noun) (The captain has a private cabin on the ship., My parents own a cabin in the mountains., The cabin has no heating, so it is only occupied in the summer., The ship's cabin was surprisingly spacious.) ::: Kabine, Hütte, Kajüte
 <!--SR:!2024-11-14,18,372!2024-11-07,5,381-->
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
-<!--SR:!2024-11-03,6,355!2024-11-03,1,342-->
+<!--SR:!2024-11-03,6,355!2024-11-12,6,362-->
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
 <!--SR:!2024-11-06,4,362!2024-11-15,23,385-->
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen
@@ -591,7 +591,7 @@ to predict(verb) (The weather forecast predicts sunshine for the weekend., Exper
 rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung
 <!--SR:!2024-11-28,26,396!2024-11-08,6,382-->
 to rot(verb) (Organic substances rot after a while., The fruit was no longer fresh and started to rot.) ::: verrotten, faulen, verfaulen
-<!--SR:!2024-11-06,4,361!2024-11-07,5,382-->
+<!--SR:!2024-11-23,17,381!2024-11-07,5,382-->
 modest(adjective) (He contented himself with a modest dinner.) ::: bescheiden, schlicht, dezent
 <!--SR:!2024-11-03,1,295!2024-11-08,6,382-->
 venture(noun) (The company invests in various ventures., I saved money to invest in a new venture.) ::: Unternehmen, Unternehmung, Projekt
@@ -605,7 +605,7 @@ dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, 
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2024-11-04,2,335!2024-11-07,5,383-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
-<!--SR:!2024-11-06,4,363!2024-11-06,4,363-->
+<!--SR:!2024-11-27,21,383!2024-11-06,4,363-->
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
 <!--SR:!2024-11-08,6,383!2024-12-04,32,395-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
@@ -627,13 +627,13 @@ to crack(verb) (The police are trying to crack the code., The ice on the puddle 
 success(noun) (His first book was a great success, everybody loved it., The book was a huge success.) ::: Erfolg, Gelingen, Triumph
 <!--SR:!2024-11-21,24,392!2024-11-06,4,363-->
 reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig
-<!--SR:!2024-11-06,4,362!2024-11-24,22,375-->
+<!--SR:!2024-11-28,22,382!2024-11-24,22,375-->
 hook(noun) (He hung his coat on a hook by the door., There are some hooks on the wall to hang coats.) ::: Haken, Hook, Häkchen
 <!--SR:!2024-11-08,6,381!2024-11-07,5,383-->
 to hook(verb) () ::: haken, anhaken, festhaken
 <!--SR:!2024-11-22,20,376!2024-11-19,17,333-->
 to fix(verb) (We fixed a date for the wedding., She took a brush and began to fix her hair., The hook was fixed to the wall., I fixed the cable with a clamp., He fixed my bike., He fixed the engine of his car himself., I have fixed an appointment with the mechanic., The bicycle mechanic fixed my bike.) ::: festlegen, richten, befestigen
-<!--SR:!2024-11-03,1,343!2000-01-01,1,250-->
+<!--SR:!2024-11-11,5,363!2000-01-01,1,250-->
 total(noun) (The company invested a total of ten million dollars.) ::: Total, Gesamtbetrag, Gesamtzahl
 <!--SR:!2024-11-07,5,383!2024-12-02,30,395-->
 total(adjective) (The total number of participants was 25., The course permits total immersion in the language.) ::: total, gesamt, völlig
@@ -661,7 +661,7 @@ suspicious(adjective) (I heard suspicious noises in the attic., The investigator
 governor(noun) (The governor of my home state was elected by a vast majority.) ::: Gouverneur, Statthalter, Landeshauptmann
 <!--SR:!2024-11-08,6,382!2024-11-07,5,382-->
 spare(noun) (I have bought spares for the repair of my car., He lost his key, but luckily he had a spare.) ::: Ersatzteil, Ersatz, Reserve
-<!--SR:!2024-11-06,4,363!2024-11-06,4,362-->
+<!--SR:!2024-11-24,18,383!2024-11-06,4,362-->
 to spare(verb) (Luckily, the butcher spared me a detailed description of his work., I will give you the money I can spare., Fortunately, my son was spared from the sickness.) ::: ersparen, erübrigen, verschonen
 <!--SR:!2024-11-08,6,382!2024-12-05,33,392-->
 spare(adjective) (There are still a few spare seats on the plane., I gave my spare money to my sister because I did not need it.) ::: frei, übrig, sparsam
@@ -703,13 +703,13 @@ to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of ol
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen
 <!--SR:!2024-11-07,5,382!2024-11-04,2,338-->
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen
-<!--SR:!2024-11-06,4,363!2024-11-06,4,357-->
+<!--SR:!2024-11-06,4,363!2024-11-25,19,377-->
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
 <!--SR:!2024-11-26,24,396!2024-11-27,25,397-->
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members.) ::: Bestimmung, Regelung, Bereitstellung
 <!--SR:!2024-11-03,1,342!2024-11-04,2,293-->
 to provide(verb) (A roof provides protection from rain., We provide sustainable transport solutions., The manual provides a description of the device., The article provided some useful background information.) ::: bieten, liefern, bereitstellen
-<!--SR:!2024-11-07,5,382!2024-11-03,1,343-->
+<!--SR:!2024-11-07,5,382!2024-11-07,1,323-->
 full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig
 <!--SR:!2024-11-07,5,382!2024-12-03,31,372-->
 jail(noun) (The man was in jail for theft.) ::: Gefängnis, Knast, Kerker
@@ -739,7 +739,7 @@ storage(noun) (The storage of cheese changes its taste., A dry and dark place is
 width(noun) (Width, length and height are equal in a cube., I asked for the length and width in yards., The width of the sleeve is adjustable.) ::: Breite, Weite, Bandbreite
 <!--SR:!2024-12-03,31,395!2024-11-07,5,382-->
 reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig
-<!--SR:!2024-11-03,1,343!2024-11-03,1,317-->
+<!--SR:!2024-11-03,1,343!2024-11-07,1,297-->
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig
 <!--SR:!2024-11-03,1,342!2024-11-07,5,381-->
 analogously(adverb) () ::: analog, sinngemäß
