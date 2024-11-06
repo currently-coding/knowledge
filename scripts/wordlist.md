@@ -1,10 +1,3 @@
-respective
-forecast
-controversy
-greatly
-structural
-striking
-test
 clarify
 exit
 raid

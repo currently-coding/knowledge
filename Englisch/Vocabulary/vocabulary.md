@@ -938,3 +938,17 @@ placement(noun) (The placement of products on the shelf affects sales., The comp
 placement(noun) () ::: Praktikum 
 rally(noun) (The driver that wins the rally receives a trophy., The candidate held a rally in front of the town hall., The demonstrators held a rally near the station.) ::: Rallye, Kundgebung, Zusammenkunft 
 to rally(verb) (The country rallied quickly after the economic crisis., Thousands of people rallied for the demonstration.) ::: sich erholen, sich versammeln, um sich scharen 
+respective(adjective) (The dogs ran back to their respective owners., You can follow the lecture on the respective pages in the textbook.) ::: jeweilig, betreffend, einschlägig 
+forecast(noun) (According to the forecast, it's going to be cloudy tomorrow., The forecast was positive, so I invested some money.) ::: Vorhersage, Prognose, Voraussage 
+to forecast(verb) (Experts forecast an increase in energy demand., The met office is forecasting rain for this weekend., The meteorologists forecast rain this weekend.) ::: prognostizieren, vorhersagen, voraussagen 
+controversy(noun) () ::: Kontroverse, Auseinandersetzung, Streitigkeit 
+greatly(adverb) (I greatly admire this painter., The merger had greatly increased the company's goodwill.) ::: stark, sehr, erheblich 
+great(adjective) (The job requires a great sense of responsibility., The king ruled over a great kingdom., The famous director has made some great films., Thanks again for the great party!, She had a great trip to Scotland., The dress looks great, right?, The waiter was great; I am going to tip him generously.) ::: groß, großartig, super 
+great(adjective) () ::: fantastisch 
+structural(adjective) (The structural changes had an appreciable impact on the employees.) ::: strukturell, baulich, bautechnisch 
+to structure(verb) (It is important to structure an essay carefully., I structure my lessons according to the syllabus., It is important to structure an essay clearly.) ::: strukturieren, aufbauen, gliedern 
+striking(adjective / present participle) (There is a striking resemblance between my brother and my father.) ::: streikend 
+to strike(verb) (He convinced the fighters not to strike., He would never strike a person outside the boxing ring., The baseball bat struck the ball., In some countries civil servants are not allowed to strike., The pianist struck the keys like a virtuoso., His strange looks struck me immediately.) ::: zuschlagen, schlagen, treffen 
+to test(verb) (We should test the new model to find out if it is better than the old one., The climber needs to test the strength of the rope., We tested the accuracy of these claims., The scientists tested the water quality of the lake., The scientists tested the water quality of the lake., We tested the accuracy of these claims., I tested a new cake recipe.) ::: testen, überprüfen, prüfen 
+test(noun) (I took two tests today and passed them both., The test only takes fifteen minutes., He studied a lot and passed the test., You passed the final test. Well done!, The new product has passed all the tests., He used a stencil to evaluate the tests.) ::: Test, Prüfung, Kontrolle 
+Test(noun) (Ich habe heute zwei Tests geschrieben und beide bestanden., Der Test dauert nur fünfzehn Minuten.) ::: test, trial, check 
