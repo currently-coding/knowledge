@@ -3,9 +3,9 @@
 - always in a state from the finite set of states $S$
 - a program $f$ controls the activity
 - start state := $s_0$
-<!--SR:!2024-11-05,4,270-->
+<!--SR:!2024-11-19,13,290-->
 - stop state := $s_1$
-<!--SR:!2024-11-05,4,270-->
+<!--SR:!2024-11-20,14,290-->
 
 ## Tapes
 - divided into cells
