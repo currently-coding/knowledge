@@ -952,3 +952,30 @@ to strike(verb) (He convinced the fighters not to strike., He would never strike
 to test(verb) (We should test the new model to find out if it is better than the old one., The climber needs to test the strength of the rope., We tested the accuracy of these claims., The scientists tested the water quality of the lake., The scientists tested the water quality of the lake., We tested the accuracy of these claims., I tested a new cake recipe.) ::: testen, überprüfen, prüfen 
 test(noun) (I took two tests today and passed them both., The test only takes fifteen minutes., He studied a lot and passed the test., You passed the final test. Well done!, The new product has passed all the tests., He used a stencil to evaluate the tests.) ::: Test, Prüfung, Kontrolle 
 Test(noun) (Ich habe heute zwei Tests geschrieben und beide bestanden., Der Test dauert nur fünfzehn Minuten.) ::: test, trial, check 
+to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern 
+exit(noun) (This car park has two exits., The exit of the museum is to the right of the gift shop., We will meet at the exit of the exhibition.) ::: Ausfahrt, Abfahrt, Ausgang 
+to exit(verb) (The actors exit the stage once the show has ended., All passengers must exit the train at the terminal., You can exit the computer game by hitting one key.) ::: verlassen, aussteigen, beenden 
+raid(noun) (The police planned a raid on the suspect's home., The police found no drugs in the raid., The police caught the robbers after an unsuccessful raid., Raids and attacks were common in coastal cities centuries ago., The police planned a raid on the infamous nightclub.) ::: Angriff, Razzia, Raubzug 
+to raid(verb) (Enemy troops tried to raid the city., My son is allowed to raid the fridge if he gets hungry., The robbers raided the local bank., The police raided the club in order to look for drugs.) ::: angreifen, plündern, überfallen 
+to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen 
+consequently(adverb) (I have worked a lot and consequently I need some rest., I played all my cards and consequently won the game.) ::: folglich, somit, dadurch 
+consequent(adjective) () ::: folgerichtig, folgend, resultierend 
+viable(adjective) (The project seems viable in the long run., The new regulations are perfectly viable.) ::: lebensfähig, durchführbar, umsetzbar 
+supervision(noun) (This machine should only be operated under supervision., The machine may only be used under the supervision of an expert.) ::: Aufsicht, Supervision, Überwachung 
+Supervision(noun) () ::: supervision 
+mate(noun) (He meets with his mates in the pub every Friday.) ::: Kumpel, Kollege, Maat 
+mate(noun) () ::: Spezi 
+to mate(verb) (Elephants mate rarely and have only one calf.) ::: sich paaren, verbinden, sich verpaaren 
+to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern 
+surface(noun) (The surface of the lake was completely calm., The surface of a table should be plane., I need an even surface to iron my shirt., The glue should be evenly spread on the surface., The surface of the new driveway is not dry yet.) ::: Oberfläche, Fläche, Belag 
+surface(adjective) () ::: oberflächlich 
+to surface(verb) (The submarine surfaced.) ::: auftauchen, an die Oberfläche kommen, belegen 
+packet(noun) (The postman brought this packet for you today.) ::: Paket, Datenpaket, Packung 
+to packet(verb) () ::: paketieren 
+Packen(noun) () ::: packing, pile 
+critically(adverb) () ::: kritisch, entscheidend, bedenklich 
+critical(adjective) (My parents constantly stressed the importance of critical thinking., The scientist wrote a critical paper., Good management is critical for a successful company.) ::: kritisch, wesentlich, wichtig 
+prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg 
+fortunate(adjective) (The jackpot will be split between four fortunate winners.) ::: glücklich, günstig 
+to testify(verb) (In court, witnesses must testify under oath., The defendant asked me to testify.) ::: bezeugen, aussagen, als Zeuge aussagen 
+to testify to(verb) () ::: bezeugen, für zeugen 
