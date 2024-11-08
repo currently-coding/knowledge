@@ -15,7 +15,7 @@ out_file = "../Englisch/Vocabulary/vocabulary.md"
 
 output_with_examples = (True, False)
 separator = ":::"
-amount_of_words_per_execution = 7
+amount_of_words_per_execution = 3
 
 # ================================
 
