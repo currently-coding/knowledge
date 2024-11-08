@@ -1,7 +1,12 @@
+mediocrities
+abound
+edify
+crave
+indulgently
+profound
+mincer
 toss
-prep.,
 retrieve
-adj.,
 whilst
 substantial
 clothes/a
@@ -30,7 +35,7 @@ terrific
 investor
 vicious
 peer
-To Cause
+cause
 slavery
 republic
 vocal
