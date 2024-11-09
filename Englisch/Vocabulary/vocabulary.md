@@ -449,7 +449,7 @@ underlying(adjective) (The underlying theory made it easier to discuss the ideas
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
 <!--SR:!2025-01-16,85,388!2025-03-12,130,387-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
-<!--SR:!2024-11-07,31,369!2024-11-03,22,376-->
+<!--SR:!2024-11-07,31,369!2025-03-01,112,396-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2025-03-18,136,389!2025-02-09,105,387-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
@@ -539,7 +539,7 @@ disagreement(noun) (They resolved their disagreement with a compromise., The par
 to interact(verb) (In modern computer games, you can interact with other players., The experiment showed how atoms interact with each other.) ::: interagieren, wechselwirken, zusammenwirken
 <!--SR:!2024-11-23,26,391!2024-11-07,5,383-->
 notably(adverb) (The tax reform will affect many people, notably entrepreneurs., The tax reform will benefit many, notably young people.) ::: insbesondere, besonders, vor allem
-<!--SR:!2024-11-03,1,343!2024-11-03,1,342-->
+<!--SR:!2024-11-03,1,343!2024-11-14,5,362-->
 notable(adjective) (The designer was a notable figure in the fashion world., The reform led to a notable improvement of public health., The scientist made a notable discovery., There is a notable want of teachers in my school district., The painter was a notable artist of his time., The hotel welcomes many notable guests.) ::: wichtig, deutlich, bemerkenswert
 <!--SR:!2024-11-14,12,356!2024-11-08,6,383-->
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt
@@ -629,7 +629,7 @@ success(noun) (His first book was a great success, everybody loved it., The book
 reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig
 <!--SR:!2024-11-28,22,382!2024-11-24,22,375-->
 hook(noun) (He hung his coat on a hook by the door., There are some hooks on the wall to hang coats.) ::: Haken, Hook, Häkchen
-<!--SR:!2024-11-08,6,381!2024-11-07,5,383-->
+<!--SR:!2024-12-09,30,401!2024-11-07,5,383-->
 to hook(verb) () ::: haken, anhaken, festhaken
 <!--SR:!2024-11-22,20,376!2024-11-19,17,333-->
 to fix(verb) (We fixed a date for the wedding., She took a brush and began to fix her hair., The hook was fixed to the wall., I fixed the cable with a clamp., He fixed my bike., He fixed the engine of his car himself., I have fixed an appointment with the mechanic., The bicycle mechanic fixed my bike.) ::: festlegen, richten, befestigen
@@ -675,7 +675,7 @@ Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen lie
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif
 <!--SR:!2024-12-08,29,403!2024-11-03,6,355-->
 determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung
-<!--SR:!2024-11-13,11,312!2024-11-03,1,342-->
+<!--SR:!2024-11-13,11,312!2024-11-13,4,362-->
 to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln
 <!--SR:!2024-12-20,41,353!2024-11-03,1,343-->
 senator(noun) (The senators are trying to amend some laws.) ::: Senator, Senatorin
@@ -759,7 +759,8 @@ rear(adjective) (I always make sure that the rear door of the shop is locked.) :
 sword(noun) (The point of the sword is very sharp., He put his sword back into its sheath.) ::: Schwert, Degen, Säbel
 <!--SR:!2024-12-09,30,403!2024-11-08,6,382-->
 <!--SR:!2000-01-01,1,250!2024-11-15,6,383-->
-Hunger(noun) (Nach dem großen Essen war mein Hunger gestillt.) ::: hunger, famine, starvation 
+Hunger(noun) (Nach dem großen Essen war mein Hunger gestillt.) ::: hunger, famine, starvation
+<!--SR:!2024-11-10,1,344!2000-01-01,1,250-->
 particularly(adverb) (She particularly likes yellow roses., In the third movement of the symphony, the violin was particularly beautiful., Particularly successful employees receive a bonus., My girlfriend likes roses, particularly yellow ones.) ::: insbesondere, besonders, vor allem 
 particular(adjective) (I passed the exam without any particular difficulties., I pay very particular attention to grammar mistakes., In this particular election, only members of the council are eligible., The software is aimed at a particular bracket of users., My aunt is very particular about films.) ::: besondere, besonderer, speziell 
 thread(noun) (Users can discuss suggestions in a thread., She used dark blue thread for the embroidery., The thread on the screw is worn down.) ::: Thread, Faden, Gewinde 
@@ -798,7 +799,8 @@ resignation(noun) (The politician announced his resignation., Taking action is b
 publicity(noun) (The publicity for the new book attracted many readers., My company has had good publicity in the media.) ::: Werbung, Publicity, Publizität
 <!--SR:!2000-01-01,1,250!2024-11-15,6,383-->
 validity(noun) (The results confirm the validity of the assumption., The validity of his arguments is unquestionable.) ::: Gültigkeit, Richtigkeit, Aussagekraft 
-likewise(adverb) (Everybody started dancing, so I did likewise., Your brother is studying hard and you should do likewise.) ::: ebenfalls, gleichfalls, ebenso 
+likewise(adverb) (Everybody started dancing, so I did likewise., Your brother is studying hard and you should do likewise.) ::: ebenfalls, gleichfalls, ebenso
+<!--SR:!2000-01-01,1,250!2024-11-10,1,344-->
 leap(noun) (The cat made a leap over the fence., All of her friends watched her daring leap off the tree.) ::: Sprung, Satz, Entwicklungssprung
 to leap(verb) (The child leaped over the puddle., The horse leaped over the hurdle.) ::: hüpfen, springen, überspringen 
 henceforth(adverb) (The new provision shall henceforth apply to all members., Henceforth, the new provision applies to all members.) ::: künftig, fortan, im Folgenden 
@@ -959,7 +961,8 @@ Navigation(noun) (Ein Kompass wird zur Navigation und Orientierung genutzt.) :::
 fever(noun) (I went to the doctor because I had a fever.) ::: Fieber, Fieberkrankheit, Fieberzustand 
 to implement(verb) (The reforms will be implemented as soon as possible., The government implemented significant tax reforms., Companies implement new technologies to stay competitive., The company implemented the new store concept in two branches., I have implemented the changes.) ::: umsetzen, durchführen, einführen 
 implement(noun) (The gardener uses a wide set of implements., The carpenter uses various implements to work wood.) ::: Gerät, Werkzeug, Instrument 
-saint(noun) () ::: Heilige, Heiliger 
+saint(noun) () ::: Heilige, Heiliger
+<!--SR:!2024-11-14,5,384!2000-01-01,1,250-->
 saint(adjective) () ::: heilig 
 <!--SR:!2000-01-01,1,250!2024-11-10,1,344-->
 rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn 
