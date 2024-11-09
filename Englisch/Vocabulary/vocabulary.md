@@ -517,7 +517,7 @@ prior(adjective) (The candidate must have prior experience in the position., You
 to slam(verb) (The film critic slammed the new movie in a brutal review., The leader of the opposition slams the president's policy.) ::: knallen, zuschlagen, verreißen
 <!--SR:!2024-12-18,46,365!2024-11-07,5,383-->
 slam(noun) () ::: Zuschlagen, Zuknallen, Aufschlagen
-<!--SR:!2024-11-05,3,356!2024-11-07,5,383-->
+<!--SR:!2024-11-23,14,376!2024-11-07,5,383-->
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
 <!--SR:!2024-11-07,5,382!2024-12-05,33,395-->
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
@@ -788,7 +788,8 @@ fond(adjective) (He looked at her with a fond expression in his eyes.) ::: verli
 immigration(noun) () ::: Immigration, Einwanderung, Zuwanderung
 <!--SR:!2024-11-14,5,384!2000-01-01,1,250-->
 to immigrate(verb) () ::: einwandern, immigrieren, zuwandern 
-Immigration(noun) () ::: immigration 
+Immigration(noun) () ::: immigration
+<!--SR:!2000-01-01,1,250!2024-11-15,6,384-->
 to pump(verb) (The heart pumps blood around the body.) ::: pumpen, aufpumpen
 <!--SR:!2024-11-14,5,384!2000-01-01,1,250-->
 pump(noun) (There are two pumps to fill the pool with water., The overflow is caused by a faulty pump.) ::: Pumpe
@@ -842,7 +843,8 @@ to founder(verb) (The project must not founder.) ::: scheitern, fehlschlagen, si
 spectacle(noun) (The circus offered the audience a breathtaking spectacle.) ::: Spektakel, Schauspiel, Show 
 choir(noun) (The choir sings a refrain after every strophe., We rehearse once a week with our choir.) ::: Chor, Gesangverein, Kantorei
 <!--SR:!2000-01-01,1,250!2024-11-15,6,384-->
-to highlight(verb) (The director highlighted the positive trend in his presentation., I highlighted some important passages in my book., The correct range was clearly highlighted on the display., I would like to highlight the growing importance of renewable energies.) ::: hervorheben, markieren, betonen 
+to highlight(verb) (The director highlighted the positive trend in his presentation., I highlighted some important passages in my book., The correct range was clearly highlighted on the display., I would like to highlight the growing importance of renewable energies.) ::: hervorheben, markieren, betonen
+<!--SR:!2000-01-01,1,250!2024-11-15,6,384-->
 remains(noun) (The remains of the ancient city are still admired today., Many cultures bury mortal remains.) ::: Überreste, Reste, Ruinen 
 to remain(verb) (Peacekeeping remains our key objective., A judge has to try to remain impartial., He went into the desert and remained there for a week., An amount of 900 euros remains in the bank account., Only one piece of cake remained in the box., He remained at the door for a moment, and then he knocked., The fog remained all morning.) ::: bleiben, verbleiben, übrig bleiben
 <!--SR:!2024-11-15,6,383!2000-01-01,1,250-->
