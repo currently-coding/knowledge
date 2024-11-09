@@ -739,7 +739,7 @@ storage(noun) (The storage of cheese changes its taste., A dry and dark place is
 width(noun) (Width, length and height are equal in a cube., I asked for the length and width in yards., The width of the sleeve is adjustable.) ::: Breite, Weite, Bandbreite
 <!--SR:!2024-12-03,31,395!2024-11-07,5,382-->
 reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig
-<!--SR:!2024-11-03,1,343!2024-11-07,1,297-->
+<!--SR:!2024-11-12,3,343!2024-11-07,1,297-->
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig
 <!--SR:!2024-11-03,1,342!2024-11-07,5,381-->
 analogously(adverb) () ::: analog, sinngemäß
