@@ -12,10 +12,12 @@ follow_corrections = "always"
 
 in_file = "wordlist.md"
 out_file = "../Englisch/Vocabulary/vocabulary.md"
+closure_start = "{{"
+closure_end = "}}"
 
 output_with_examples = (True, False)
 separator = ":::"
-amount_of_words_per_execution = 7
+amount_of_words_per_execution = 3
 
 # ================================
 
