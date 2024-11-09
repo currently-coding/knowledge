@@ -433,7 +433,7 @@ to consult(verb) (If the symptoms persist, consult your doctor., I will consult 
 consult(noun) () ::: Befragung
 <!--SR:!2025-01-13,72,349!2025-01-10,75,345-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
-<!--SR:!2025-02-25,115,389!2024-11-09,33,367-->
+<!--SR:!2025-02-25,115,389!2025-04-23,165,387-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
 <!--SR:!2024-11-09,26,347!2024-12-17,58,368-->
 ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
@@ -545,7 +545,7 @@ notable(adjective) (The designer was a notable figure in the fashion world., The
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt
 <!--SR:!2024-11-08,6,382!2024-11-07,5,383-->
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
-<!--SR:!2024-11-20,23,392!2024-11-07,5,383-->
+<!--SR:!2024-11-20,23,392!2024-12-04,25,403-->
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung
 <!--SR:!2024-11-06,4,363!2024-12-04,25,403-->
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
@@ -581,7 +581,7 @@ to regard(verb) (I regard my manager as a very intelligent person., Using a type
 prospective(adjective) (The local industry is ready for prospective challenges., The local industry is prepared for prospective challenges., We are well prepared for prospective challenges., We are going to meet a prospective business partner.) ::: künftig, prospektiv, voraussichtlich
 <!--SR:!2024-11-30,28,395!2024-11-23,21,375-->
 comparable(adjective) (We can offer a comparable alternative.) ::: vergleichbar
-<!--SR:!2024-12-04,32,392!2024-11-08,6,383-->
+<!--SR:!2024-12-04,32,392!2024-12-09,30,403-->
 random(adjective) (I had a random encounter with an old friend today., The selection of participants is completely random., The collage shows a random selection of photos., The magician called a random spectator to the stage.) ::: zufällig, willkürlich, stichprobenartig
 <!--SR:!2024-11-25,23,395!2024-11-07,5,382-->
 predictable(adjective) (There were clouds in the sky, so the rain was predictable., My friend is pretty predictable, I always know what he is going to say., We offer all our services at predictable costs.) ::: vorhersehbar, berechenbar, kalkulierbar
@@ -854,7 +854,8 @@ psychological(adjective) () ::: psychologisch, psychisch, seelisch
 substantially(adverb) (The new plan reduced our spendings substantially., Life expectancy has increased substantially since the last century.) ::: wesentlich, im Wesentlichen, erheblich 
 substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig
 <!--SR:!2024-11-13,4,363!2000-01-01,1,250-->
-brick(noun) (The house was built of bricks., The falling brick almost brained me., The builder needed four tons of bricks to build the wall.) ::: Ziegel, Stein, Backstein 
+brick(noun) (The house was built of bricks., The falling brick almost brained me., The builder needed four tons of bricks to build the wall.) ::: Ziegel, Stein, Backstein
+<!--SR:!2000-01-01,1,250!2024-11-15,6,384-->
 entrepreneur(noun) (The entrepreneur opened a new market in China., The new community hall was founded by a wealthy entrepreneur., The entrepreneur is looking for new business opportunities., The entrepreneur invests in promising business ideas., The entrepreneur has started several businesses., The entrepreneur opened a new business in China.) ::: Unternehmer, Entrepreneur, Unternehmerin
 <!--SR:!2024-11-13,4,363!2024-11-15,6,383-->
 Entrepreneur(noun) (Der Entrepreneur hält Ausschau nach neuen Geschäftschancen., Der Entrepreneur investiert in vielversprechende Geschäftsideen., Der Entrepreneur hat mehrere Unternehmen gegründet., Der Entrepreneur eröffnete ein neues Geschäft in China.) ::: entrepreneur 
@@ -879,7 +880,8 @@ divorce(noun) (The housekeeper leaked the information about the couple's divorce
 <!--SR:!2024-11-14,5,384!2000-01-01,1,250-->
 to divorce(verb) () ::: sich scheiden 
 torture(noun) (The aim of the institution is the global prohibition of torture.) ::: Folter, Folterung, Qual 
-to torture(verb) () ::: martern, quälen, foltern 
+to torture(verb) () ::: martern, quälen, foltern
+<!--SR:!2024-11-15,6,384!2000-01-01,1,250-->
 gorgeous(adjective) (The landscape in this country is just gorgeous., From the hill we had a gorgeous view at the sea.) ::: wunderschön, großartig, herrlich 
 coincidence(noun) (It was pure coincidence that they were in the same city that day.) ::: Zufall, Zusammentreffen, Koinzidenz
 <!--SR:!2024-11-15,6,383!2000-01-01,1,250-->
@@ -938,7 +940,7 @@ seal(noun) (He checks the royal seal on the letter., The seals prevent water fro
 to seal(verb) (I stamped and sealed the envelopes., I used adhesive tape to seal the box., If you notice leakage in a water pipe you must quickly seal it., I sealed the envelope before sending it., The surface can be sealed with varnish., They sealed the agreement with an oath.) ::: verschließen, abdichten, versiegeln
 <!--SR:!2024-11-13,4,363!2000-01-01,1,250-->
 specification(noun) (The technical specifications are listed in the manual., The specifications listed in the manual are quite confusing., The specifications of the project are detailed in the report., I assembled the table according to the specification., The specifications of the project are clear and precise.) ::: Spezifikation, Angabe, Festlegung
-<!--SR:!2024-11-15,6,383!2000-01-01,1,250-->
+<!--SR:!2024-11-15,6,383!2024-11-15,6,384-->
 to specify(verb) (The manager specified the deadline for applications., I specified all values in the contract., The contents are specified on the back of the package., I must specify the payee in the transaction form., The customer can specify the time of delivery.) ::: festlegen, angeben, bestimmen 
 standing(noun) (His standing in the community goes back to his social commitment., Their relationship is already of long standing., The company has a very good standing all over the world.) ::: Stand, Ansehen, Dauer 
 undergraduate(noun) () ::: Student 
