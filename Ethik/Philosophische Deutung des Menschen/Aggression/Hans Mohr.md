@@ -3,4 +3,6 @@
 ## These
 - Sesshaftigkeit -> Verteidigung des Besitzes -> gestiegene Aggressivität
 => Vererbung -> heute noch vorhanden
-ABER: *kulturelle Ubertg*
+- ABER: *kulturelle Uberformung* -> nicht mehr direkt sichtbar
+	-> koennen jederzeit losbrechen
+	-> werden nur mit Muehe gezaehmt
