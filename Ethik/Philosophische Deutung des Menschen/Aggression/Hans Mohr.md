@@ -3,4 +3,4 @@
 ## These
 - Sesshaftigkeit -> Verteidigung des Besitzes -> gestiegene Aggressivität
 => Vererbung -> heute noch vorhanden
-ABER: *kulturelle Ub*
+ABER: *kulturelle Ubertg*
