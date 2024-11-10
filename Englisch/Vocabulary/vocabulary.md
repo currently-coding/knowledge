@@ -707,7 +707,7 @@ worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, ang
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
 <!--SR:!2024-11-26,24,396!2024-11-27,25,397-->
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members.) ::: Bestimmung, Regelung, Bereitstellung
-<!--SR:!2024-11-03,1,342!2024-11-04,2,293-->
+<!--SR:!2024-11-11,1,322!2024-11-04,2,293-->
 to provide(verb) (A roof provides protection from rain., We provide sustainable transport solutions., The manual provides a description of the device., The article provided some useful background information.) ::: bieten, liefern, bereitstellen
 <!--SR:!2024-11-07,5,382!2024-11-07,1,323-->
 full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig
@@ -1014,5 +1014,6 @@ critical(adjective) (My parents constantly stressed the importance of critical t
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg 
 fortunate(adjective) (The jackpot will be split between four fortunate winners.) ::: glücklich, günstig
 <!--SR:!2024-11-14,5,384!2000-01-01,1,250-->
-to testify(verb) (In court, witnesses must testify under oath., The defendant asked me to testify.) ::: bezeugen, aussagen, als Zeuge aussagen 
+to testify(verb) (In court, witnesses must testify under oath., The defendant asked me to testify.) ::: bezeugen, aussagen, als Zeuge aussagen
+<!--SR:!2024-11-16,6,384!2000-01-01,1,250-->
 to testify to(verb) () ::: bezeugen, für zeugen 
