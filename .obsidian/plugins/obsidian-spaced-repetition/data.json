@@ -4,17 +4,17 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      ""
+      "#flashcards"
     ],
     "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
     "burySiblingCards": true,
-    "showContextInCards": false,
+    "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "randomizeCardOrder": null,
-    "flashcardCardOrder": "EveryCardRandomDeckAndCard",
-    "flashcardDeckOrder": "PrevDeckComplete_Random",
+    "flashcardCardOrder": "DueFirstRandom",
+    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": true,

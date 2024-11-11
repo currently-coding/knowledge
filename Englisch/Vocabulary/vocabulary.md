@@ -269,7 +269,7 @@ besides(adverb) (I am overqualified for the job, and besides, I have another off
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2025-01-07,75,367!2024-12-12,50,317-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
-<!--SR:!2024-11-22,40,348!2024-11-06,23,297-->
+<!--SR:!2024-11-22,40,348!2025-02-08,94,317-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden,
 <!--SR:!2024-11-18,27,348!2025-01-14,83,357-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
@@ -453,7 +453,7 @@ refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zu
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2025-03-18,136,389!2025-02-09,105,387-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
-<!--SR:!2024-11-28,35,327!2024-11-03,7,316-->
+<!--SR:!2024-11-28,35,327!2024-12-06,30,336-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
 <!--SR:!2025-01-24,92,388!2025-02-24,114,389-->
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
@@ -485,13 +485,13 @@ exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
 <!--SR:!2024-11-26,29,356!2025-02-20,110,388-->
 excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich
-<!--SR:!2024-11-07,5,383!2024-11-03,20,361-->
+<!--SR:!2024-11-07,5,383!2025-02-11,97,381-->
 to excruciate(verb) () ::: quälen
-<!--SR:!2024-11-11,19,382!2024-11-06,23,381-->
+<!--SR:!2024-11-11,19,382!2025-03-05,119,401-->
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
 <!--SR:!2024-11-11,23,385!2024-11-09,17,341-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
-<!--SR:!2024-11-08,6,382!2024-11-03,1,221-->
+<!--SR:!2024-11-08,6,382!2024-11-09,3,241-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
 <!--SR:!2024-11-07,24,381!2024-11-17,29,382-->
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
@@ -517,7 +517,6 @@ prior(adjective) (The candidate must have prior experience in the position., You
 to slam(verb) (The film critic slammed the new movie in a brutal review., The leader of the opposition slams the president's policy.) ::: knallen, zuschlagen, verreißen
 <!--SR:!2024-12-18,46,365!2024-11-07,5,383-->
 slam(noun) () ::: Zuschlagen, Zuknallen, Aufschlagen
-<!--SR:!2024-11-23,14,376!2024-11-07,5,383-->
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
 <!--SR:!2024-11-07,5,382!2024-12-05,33,395-->
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
@@ -593,7 +592,7 @@ rotation(noun) (I watched the tube's rotation around its own axis., This button 
 to rot(verb) (Organic substances rot after a while., The fruit was no longer fresh and started to rot.) ::: verrotten, faulen, verfaulen
 <!--SR:!2024-11-23,17,381!2024-11-07,5,382-->
 modest(adjective) (He contented himself with a modest dinner.) ::: bescheiden, schlicht, dezent
-<!--SR:!2024-11-03,1,295!2024-11-08,6,382-->
+<!--SR:!2024-11-07,1,275!2024-11-08,6,382-->
 venture(noun) (The company invests in various ventures., I saved money to invest in a new venture.) ::: Unternehmen, Unternehmung, Projekt
 <!--SR:!2024-11-10,8,312!2024-12-04,25,402-->
 to venture(verb) (I ventured a guess about the company's profit., He ventured a small sum in hopes of a large profit.) ::: wagen, riskieren
@@ -677,7 +676,6 @@ fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Pre
 determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung
 <!--SR:!2024-11-13,11,312!2024-11-13,4,362-->
 to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln
-<!--SR:!2024-12-20,41,353!2024-11-03,1,343-->
 senator(noun) (The senators are trying to amend some laws.) ::: Senator, Senatorin
 <!--SR:!2024-11-07,5,383!2024-12-09,30,403-->
 casual(adjective) (I wear casual clothes outside the office., This is an informal event; you can wear casual clothing., I like parties with a casual atmosphere., I made a casual remark about the weather., I like the casual feel of beach parties., To a casual observer, the scene might appear normal., I prefer simple and casual clothing.) ::: lässig, leger, zwanglos
@@ -707,7 +705,7 @@ worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, ang
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
 <!--SR:!2024-11-26,24,396!2024-11-27,25,397-->
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members.) ::: Bestimmung, Regelung, Bereitstellung
-<!--SR:!2024-11-11,1,322!2024-11-04,2,293-->
+<!--SR:!2024-11-07,1,322!2024-11-04,2,293-->
 to provide(verb) (A roof provides protection from rain., We provide sustainable transport solutions., The manual provides a description of the device., The article provided some useful background information.) ::: bieten, liefern, bereitstellen
 <!--SR:!2024-11-07,5,382!2024-11-07,1,323-->
 full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig
@@ -733,7 +731,7 @@ portion(noun) (I am not hungry, you can have my portion of cake., I divided the 
 to portion(verb) () ::: teilen, zuteilen, aufteilen
 <!--SR:!2024-11-07,5,383!2024-11-05,3,335-->
 secular(adjective) (A secular state does not have any official religion.) ::: säkular, weltlich, laizistisch
-<!--SR:!2024-11-03,1,343!2024-11-03,1,342-->
+<!--SR:!2024-11-09,3,343!2024-11-03,1,342-->
 storage(noun) (The storage of cheese changes its taste., A dry and dark place is ideal for the storage of wine., Proper storage of vegetables is important., The price includes transport and storage., The correct storage of wine can be quite difficult., He uses his garage for storage., The hard drive is used for the storage of data.) ::: Lagerung, Lager, Speicherung
 <!--SR:!2024-11-27,25,396!2024-11-08,6,383-->
 width(noun) (Width, length and height are equal in a cube., I asked for the length and width in yards., The width of the sleeve is adjustable.) ::: Breite, Weite, Bandbreite
