@@ -16,6 +16,7 @@
 ## Thursday
 - Physik
 	- [ ] Karusell aufgabe
+	- [ ] S. 36/a-c
 
 ## Friday
 
