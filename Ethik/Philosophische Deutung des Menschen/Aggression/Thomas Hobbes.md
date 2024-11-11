@@ -1,7 +1,7 @@
 - Philosoph, Staatstheoretiker, Mathematiker
 - 1588-1679
 - biologisch-soziologische Sichtweise
-
+## These
 >Der Mensch ist dem Menschen ein Wolf
 
 - naturgegebener Selbsterhaltungstrieb
