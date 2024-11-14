@@ -3,3 +3,5 @@ A deterministic finite automaton(DFA)...
 - receives a word as input
 - reads this input word character by character from *left to right*
 - can change its state *after* each character read
+
+![[3.1]]
