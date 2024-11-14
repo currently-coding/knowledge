@@ -979,3 +979,24 @@ prosperity(noun) (His whole family lived in prosperity., I wished her luck and p
 fortunate(adjective) (The jackpot will be split between four fortunate winners.) ::: glücklich, günstig 
 to testify(verb) (In court, witnesses must testify under oath., The defendant asked me to testify.) ::: bezeugen, aussagen, als Zeuge aussagen 
 to testify to(verb) () ::: bezeugen, für zeugen 
+mediocrities(noun) () ::: unbedeutende Menschen 
+to abound(verb) () ::: im Überfluss vorhanden sein, strotzen, reichlich vorhanden sein 
+abound(adjective) () ::: reichlich 
+to edify(verb) () ::: erbauen 
+to crave(verb) (After this long winter, I am craving some sunshine., I am craving lobster and caviar tonight.) ::: sich sehnen, nach gelüsten, ersehnen 
+indulgently(adverb) () ::: nachsichtig, duldsam, schonend 
+indulgent(adjective) () ::: nachsichtig, nachgiebig, duldsam 
+profound(adjective) (The scientist was able to convince everyone with her profound knowledge., The article provides a profound analysis of the situation.) ::: tief, tiefgreifend, fundiert 
+mincer(noun) () ::: Fleischwolf, Wolf 
+to toss(verb) (When I toss a ball, my dog always brings it back.) ::: werfen, schleudern, knobeln 
+toss(noun) (The toss of the coin will decide everything.) ::: Wurf, Einwurf 
+to retrieve(verb) (We can easily retrieve the stored information from the system., He throws the stick and the dog retrieves it., We can easily retrieve the data stored in the system., Some computer software can retrieve lost data., My dog loves to retrieve balls.) ::: abrufen, zurückholen, wiederherstellen 
+whilst(conjunction) (Whilst working I cannot take calls., The road will be closed whilst the construction is in progress.) ::: während, solange, indem 
+whilst(conjunction) () ::: obwohl, indes 
+substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig 
+clothes(noun) (He folded his clothes neatly., We sell clothes made of cotton and linen., Purple clothes don't suit most people., My wife's wardrobe is filled with beautiful clothes., I want to get rid of some clothes, so I will donate them., These clothes are very trendy right now.) ::: Kleidung, Kleider, Kleidungsstücke 
+cloth(noun) (You can clean the surface with a cloth., The dye had colored the cloth red., The constant friction wore out the cloth., His shirt scratched, because it was made of coarse cloth., I always clean the windows with a soft cloth.) ::: Tuch, Leinen, Stoff 
+residential(adjective) () :::  
+to tolerate(verb) (The teacher does not tolerate disruptive noises.) ::: dulden, tolerieren, vertragen 
+fundamentally(adverb) () ::: grundsätzlich, grundlegend, wesentlich 
+fundamental(adjective) (We discussed some fundamental questions., Freedom is a fundamental right., Freedom of speech is a fundamental human right., Sympathy is a fundamental part of good relations.) ::: grundlegend, fundamental, grundsätzlich 
