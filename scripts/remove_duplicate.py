@@ -16,8 +16,8 @@ def remove_duplicate_and_next(lines):
             continue
 
         if line in seen:  # If the line is a duplicate
+            print("Removing line: ", line)
             skip_next = True  # Set the flag to skip the next line
-            print("skipping line")
         else:
             seen.add(line)  # Add line to seen set
             result.append(line)  # Add line to result if it's not a duplicate
@@ -27,7 +27,7 @@ def remove_duplicate_and_next(lines):
 
 # Read input from vocabulary.md
 
-filename = "Englisch.md"
+filename = "../Englisch/Vocabulary/vocabulary.md"
 
 with open(filename, "r") as file:
     lines = file.readlines()  # Read all lines from the file

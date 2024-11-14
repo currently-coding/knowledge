@@ -1,44 +1,5 @@
 # README
 
-## Inhalt
-- [Karteikarten](#karteikarten)
-- [Links vs Tags](#links-vs-tags---was-wann-verwenden)
-- [Installation](#installation)
-
----
-
-## Karteikarten
-
-### Aufbau:
-```
-<Vorderseite der Karteikarte> <Trennzeichen> <Rückseite der Karteikarte>
-```
-
-Zwischen den Einträgen können beliebig viele Leerzeichen stehen. Die Trennzeichen sind:
-- `->` für unidirektionale Karteikarten
-- `<->` für bidirektionale Karteikarten
-
-#### Beispiel:
-- **Unidirektional:** `H -> Wasserstoff`
-- **Bidirektional:** `H <-> Wasserstoff`
-
----
-
-## Links vs Tags - Wann was verwenden
-
-### Links
-Links werden verwendet, um mehr Informationen zu einem Thema zu verknüpfen.
-
-#### Syntax für Links:
-- `[[<Dateiname>|<Text, der angezeigt werden soll>]]` -> Verlinkt die gesamte Notiz.
-- `[[<Dateiname>#<Überschrift>|<Text, der angezeigt werden soll>]]` -> Verlinkt direkt zu einer bestimmten Überschrift innerhalb der Notiz.
-
-#### Beispiel:
-```markdown
-...Oxidation von [[0332 Alkohole|Alkoholen]]...
-```
-
----
 ## Installation
 
 ### Voraussetzungen:
