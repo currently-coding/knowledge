@@ -15,7 +15,7 @@ def remove_duplicate_and_next(lines):
             result.append(line)
             continue
 
-        if line in seen:  # If the line is a duplicate
+        if line.strip(":")[0] in seen:  # If the line is a duplicate
             print("Removing line: ", line)
             skip_next = True  # Set the flag to skip the next line
         else:
