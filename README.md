@@ -20,11 +20,10 @@
       - Falls bereits ein Vault geöffnet ist, `<Ctrl> + P` drücken und `open another vault` auswählen.
    2. Wähle den zuvor geklonten Ordner aus.
    3. Bestätige mit `Trust author and enable plugins`.
- -> Die Einrichtung des lesenden Zugriffs ist nun abgeschlossen. Der Vault wird sich automatisch updaten(alle 5min) und immer die neueste Version von Dateien beinhalten.
+3. Die Einrichtung des lesenden Zugriffs ist nun abgeschlossen. Der Vault wird sich automatisch updaten(alle 5min) und immer die neueste Version von Dateien beinhalten.
 
 
-(nur für schreibenden Zugriff)
-3. **Git Plugin einrichten**
+4. **Git Plugin einrichten**(nur für schreibenden Zugriff)
    1. Drücke `<Ctrl> + ,`, um die Einstellungen zu öffnen.
    2. Wähle `community plugins`.
    3. Unter `Installed Plugins` das `Git` Plugin auswählen
