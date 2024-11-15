@@ -15,7 +15,7 @@ to accommodate(verb) (We accommodated six refugees in our house., Our hotel can 
 to accommodate oneself(verb) () ::: sich akkommodieren
 <!--SR:!2024-11-13,44,290!2025-03-23,141,322-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
-<!--SR:!2024-11-18,4,366!2000-01-01,1,250-->
+cccccc3
 #<!--SR:!2025-04-18,160,310!2024-11-04,13,282-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
 <!--SR:!2025-01-19,89,299!2025-04-02,139,316-->
