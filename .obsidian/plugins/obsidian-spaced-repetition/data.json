@@ -13,7 +13,7 @@
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "randomizeCardOrder": null,
-    "flashcardCardOrder": "EveryCardRandomDeckAndCard",
+    "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
