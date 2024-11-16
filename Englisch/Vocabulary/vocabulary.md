@@ -6,17 +6,14 @@ to abstract(verb) (I will read the article and abstract the main ideas.) ::: tre
 <!--SR:!2024-12-17,55,270!2024-11-10,8,276-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2024-12-07,62,322!2024-12-13,68,310-->
-to accent(verb) ::: betonen, akzentuieren, hervorhebe
+to accent(verb) ::: betonen, akzentuieren, hervorheben
 <!--SR:!2024-12-17,71,322!2024-12-14,69,319-->
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2024-12-11,66,322!2024-12-10,65,310-->
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
 <!--SR:!2024-11-08,40,290!2024-12-18,71,322-->
-to accommodate oneself(verb) () ::: sich akkommodieren
-<!--SR:!2024-11-13,44,290!2025-03-23,141,322-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
-cccccc3
-#<!--SR:!2025-04-18,160,310!2024-11-04,13,282-->
+<!--SR:!2025-04-18,160,310!2024-11-04,13,282-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
 <!--SR:!2025-01-19,89,299!2025-04-02,139,316-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
@@ -49,8 +46,6 @@ affordable(adjective) (We offer good quality at affordable prices., This laptop 
 <!--SR:!2024-12-08,60,337!2024-12-07,62,322-->
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
 <!--SR:!2024-12-06,60,337!2024-12-11,66,322-->
-aids(noun) ::: Hilfsmittel, Hilfen, Hilfe, Beihilfen
-<!--SR:!2024-12-11,64,337!2024-12-16,70,322-->
 aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützung, Beihilfe, Hilfe, Fördermittel
 <!--SR:!2024-12-20,73,322!2024-12-28,78,337-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
@@ -87,7 +82,7 @@ exchange rate(noun) (Prices vary according to the current exchange rate., The ex
 <!--SR:!2025-01-14,92,358!2024-12-31,80,346-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) ::: Ausbeutung, Nutzung, Verwertung
 <!--SR:!2024-11-24,46,306!2025-01-03,81,357-->
-to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) ::: nutzen, ausnutzen, ausschöpfen
+to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) ::: nutzen, ausnutzen, ausschöpfen, erschließen(business context)
 <!--SR:!2024-12-31,78,357!2024-12-15,68,346-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) ::: Lebensstandard, Lebenshaltung
 <!--SR:!2024-12-29,78,358!2024-12-24,75,346-->
@@ -117,8 +112,6 @@ to diversify(verb) (The trader wants to diversify his portfolio.) ::: diversifiz
 <!--SR:!2024-11-27,52,337!2024-12-22,74,346-->
 commerce(noun) (A lot of commerce was conducted in this town a century ago.) ::: Handel, Verkehr, Kommerz
 <!--SR:!2024-12-29,80,346!2025-01-02,82,358-->
-e-commerce(noun) (Retailers sell a lot by e-commerce nowadays.) ::: E-Commerce, elektronischer Geschäftsverkehr
-<!--SR:!2025-01-06,84,346!2025-01-04,84,359-->
 offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) ::: Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung
 <!--SR:!2024-12-12,63,326!2024-12-29,78,358-->
 Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) ::: offshoring
@@ -133,8 +126,6 @@ launch(noun) (Mission control postponed the launch of the space shuttle., We are
 <!--SR:!2024-11-25,50,326!2025-01-03,83,357-->
 to launch(verb) (The space agency will launch a rocket next month., The company will launch a new product this year., The company launched a new communication system., The fireworks are launched at midnight., The shipping company launched their new cruise ship.) ::: starten, einführen
 <!--SR:!2025-01-03,83,359!2025-01-06,84,346-->
-Launch(noun) () ::: launch
-<!--SR:!2025-01-03,83,346!2025-01-12,90,359-->
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
 <!--SR:!2024-12-21,72,346!2025-01-01,79,357-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) ::: Lebensunterhalt, Lebensgrundlage, Existenz
@@ -492,8 +483,6 @@ to resume(verb) (After a short break, they resumed negotiations., She resumed he
 <!--SR:!2024-11-26,24,397!2024-12-04,25,401-->
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
 <!--SR:!2024-12-09,30,402!2024-11-08,6,383-->
-lane(noun) (The right lane is closed due to construction work.) ::: Spur, Fahrspur, Bahn
-<!--SR:!2024-11-27,25,395!2024-11-30,28,395-->
 to seize(verb) (She seized the opportunity and started a new life., The customs officer seized the undeclared goods., The police seized the suspect when he tried to run., She seized the opportunity to start her own business., Banks sometimes seize debtors' assets., The illegal items were seized at the border., The police seized the stolen goods., The invaders seized the castle after a tough battle.) ::: ergreifen, beschlagnahmen, packen
 <!--SR:!2024-11-05,1,322!2024-11-08,6,382-->
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
@@ -549,8 +538,6 @@ pure(adjective) (It was pure coincidence that they were in the same city that da
 <!--SR:!2024-11-08,6,382!2024-12-05,21,377-->
 timely(adjective) (Timely procurement of raw materials is essential for production., The supplier is responsible for timely delivery.) ::: rechtzeitig, fristgerecht, zeitgerecht
 <!--SR:!2024-11-21,19,375!2024-11-18,4,363-->
-cute(adjective) (This little dog is cute., Our kitten is really cute., I now have an adorable, cute kitten., My little niece is incredibly cute.) ::: niedlich, putzig, süß
-<!--SR:!2024-12-13,29,402!2024-12-05,26,402-->
 globe(noun) () ::: Welt, Globus, Erdball
 <!--SR:!2024-11-08,6,383!2024-11-03,1,343-->
 to steer(verb) (The captain steers the ship away from the cliffs., It is hard to steer a ship through the narrow., The driver saw the dog and steered in the other direction.) ::: steuern, lenken, führen
@@ -700,8 +687,6 @@ to jail(verb) () ::: ins Gefängnis bringen, einsperren
 <!--SR:!2024-11-28,26,397!2024-12-09,30,401-->
 vibrant(adjective) (The city is famous for its vibrant cultural life., She was wearing a pullover in vibrant hues.) ::: lebendig, leuchtend, vital
 <!--SR:!2024-11-06,4,363!2024-11-06,4,357-->
-to improve(verb) (The condition improved after a higher dose was given., I am sure we can improve our language skills in the course., We use the data to improve user experience., Advertising can improve the image of a company., The gold medal was an incentive for him to improve his performance further., Due to regular practice, the dancers increasingly improved., He took a class to improve his already good Japanese.) ::: sich verbessern, verbessern, steigern
-<!--SR:!2024-11-29,27,397!2024-11-29,27,395-->
 newly(adverb) (The hotel rooms are renovated and newly furnished.) ::: neu, neuartig, frisch
 <!--SR:!2024-11-29,27,397!2024-11-21,19,375-->
 new(adjective) (My father bought himself a new car., My car has new tyres., Congrats on your new job!, The exotic spices were new to me.) ::: neu, ungewohnt, fremdartig
@@ -876,8 +861,6 @@ to reassure(verb) (The boy was scared about seeing the doctor, but his mother re
 manufacture(noun) () ::: Herstellung, Fertigung, Produktion 
 to manufacture(verb) (His company manufactures bicycle parts., The factory manufactures cars on a production line., This company manufactures bicycle parts., The cars we manufacture here are famous for their longevity., The factory manufactures bicycle parts.) ::: fertigen, herstellen, erzeugen 
 herb(noun) (This cream contains essences of herbs., Certain herbs are very effective against headaches., I plant herbs for the kitchen on my balcony.) ::: Kraut, Gewürz, Küchenkraut 
-innovation(noun) (Innovation is just one ingredient for continued growth., The technical innovations make the new model much faster.) ::: Innovation, Neuerung, Innovationskraft
-<!--SR:!2000-01-01,1,250!2024-11-20,6,386-->
 to innovate(verb) () ::: erneuern, innovieren, Neuerungen einführen 
 progressive(adjective) () ::: fortschreitend, fortschrittlich, fortlaufend 
 progressive(noun) () ::: Progressiv
@@ -1019,3 +1002,51 @@ to tolerate(verb) (The teacher does not tolerate disruptive noises.) ::: dulden,
 fundamentally(adverb) () ::: grundsätzlich, grundlegend, wesentlich
 <!--SR:!2000-01-01,1,250!2024-11-15,1,345-->
 fundamental(adjective) (We discussed some fundamental questions., Freedom is a fundamental right., Freedom of speech is a fundamental human right., Sympathy is a fundamental part of good relations.) ::: grundlegend, fundamental, grundsätzlich 
+## ChatGPT eloquent
+elucidate (verb) (The professor took a moment to elucidate the theory., The article elucidates complex scientific concepts., She elucidated her reasons for the decision.) ::: erläutern, erklären, verdeutlichen
+
+meticulous (adjective) (The artist was meticulous in her attention to detail., His meticulous nature helped him succeed., She kept meticulous records of all transactions.) ::: sorgfältig, akribisch, gewissenhaft
+
+plethora (noun) (A plethora of options were available at the store., The library offers a plethora of resources., He has a plethora of interests and hobbies.) ::: Fülle, Überfluss, Vielzahl
+
+ephemeral (adjective) (The beauty of the sunset was ephemeral., The fame she enjoyed was fleeting and ephemeral., Childhood is often seen as ephemeral.) ::: vergänglich, kurzlebig, flüchtig
+
+ubiquitous (adjective) (Smartphones have become ubiquitous in modern society., The scent of coffee was ubiquitous in the café., The brand's logo was ubiquitous across the city.) ::: allgegenwärtig, überall, omnipräsent
+
+serendipity (noun) (They found each other by pure serendipity., The discovery was a case of scientific serendipity., Travel often brings unexpected serendipities.) ::: Glücksfall, Zufall, Schicksalsfügung
+
+idiosyncrasy (noun) (Her unique style is an idiosyncrasy of hers., He has an idiosyncrasy of tapping his pen while thinking., Each artist has their own idiosyncrasies.) ::: Eigenart, Besonderheit, Eigenheit
+
+juxtaposition (noun) (The juxtaposition of colors was striking., The film uses juxtaposition to highlight contrasts., Her art often involves the juxtaposition of natural and artificial elements.) ::: Nebeneinanderstellung, Gegenüberstellung, Kontrastierung
+
+quintessential (adjective) (She is the quintessential example of grace., The book is a quintessential piece of literature., His style is quintessentially minimalist.) ::: typisch, exemplarisch, vollkommen
+
+paradigm (noun) (The model shifted the paradigm in economics., She introduced a new paradigm in her research., The paradigm of traditional teaching is changing.) ::: Paradigma, Muster, Modell
+
+galvanize (verb) (The speech galvanized the crowd into action., His passion galvanized the team., The event galvanized support for the cause.) ::: motivieren, antreiben, wachrütteln
+
+obfuscate (verb) (The instructions obfuscate rather than clarify., Some politicians obfuscate their intentions., His statement was meant to obfuscate the truth.) ::: verschleiern, vernebeln, verwirren
+
+ruminate (verb) (He ruminated over the choices he had., She likes to ruminate on philosophical questions., The decision required her to ruminate deeply.) ::: grübeln, nachdenken, sinnieren
+
+burgeon (verb) (The city's population began to burgeon., Her creativity burgeoned in the new environment., The company is beginning to burgeon.) ::: gedeihen, aufblühen, florieren
+
+placate (verb) (He tried to placate the angry customer., The apology was meant to placate her., She placated his fears with comforting words.) ::: besänftigen, beruhigen, beschwichtigen
+
+ineffable (adjective) (The beauty of the mountains was ineffable., The feeling of joy was ineffable., Her gratitude was ineffable.) ::: unaussprechlich, unbeschreiblich, unsagbar
+
+halcyon (adjective) (She looked back on the halcyon days of her youth., The halcyon weather was perfect for a picnic., They longed for the halcyon times of peace.) ::: friedlich, glücklich, idyllisch
+
+sagacious (adjective) (He gave a sagacious answer to the question., The leader was known for his sagacious decisions., Her sagacious insight was appreciated.) ::: weise, klug, scharfsinnig
+
+luminous (adjective) (The painting had luminous colors., Her smile was luminous., The city skyline was luminous at night.) ::: leuchtend, strahlend, hell
+
+labyrinthine (adjective) (The castle had a labyrinthine structure., His argument was labyrinthine and complex., They got lost in the labyrinthine streets.) ::: verworren, labyrinthartig, verschlungen
+
+ostensibly (adverb) (She went ostensibly to help, but was curious., The deal was ostensibly beneficial for all., He left ostensibly for work, but had other plans.) ::: angeblich, scheinbar, vorgeblich
+
+perennially (adverb) (She is perennially optimistic., The issue is perennially discussed in meetings., The flowers bloom perennially.) ::: beständig, unaufhörlich, ewig
+
+resolutely (adverb) (She resolutely defended her beliefs., He resolutely pursued his goal., They resolutely stood by each other.) ::: entschlossen, entschieden, konsequent
+
+circumspectly (adverb) (He approached the matter circumspectly., She circumspectly evaluated the options., The company circumspectly navigated the issue.) ::: umsichtig, vorsichtig, besonnen
