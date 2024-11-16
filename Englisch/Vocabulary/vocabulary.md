@@ -1128,8 +1128,6 @@ quantifizieren (verb) (Es ist schwierig, den Einfluss zu quantifizieren.) ::: to
 
 kontextualisieren (verb) (Die Ergebnisse müssen kontextualisiert werden.) ::: to contextualize, to put in context, to frame
 
-operationalisieren (verb) (Das Konzept muss operationalisiert werden, um messbar zu sein.) ::: to operationalize, to define in measurable terms, to make actionable
-
 analysieren (verb) (Die Daten wurden gründlich analysiert.) ::: to analyze, to examine, to evaluate
 
 diskreditieren (verb) (Die Kritik sollte die Argumente nicht diskreditieren.) ::: to discredit, to undermine, to refute
