@@ -1003,6 +1003,7 @@ fundamentally(adverb) () ::: grundsätzlich, grundlegend, wesentlich
 <!--SR:!2000-01-01,1,250!2024-11-15,1,345-->
 fundamental(adjective) (We discussed some fundamental questions., Freedom is a fundamental right., Freedom of speech is a fundamental human right., Sympathy is a fundamental part of good relations.) ::: grundlegend, fundamental, grundsätzlich 
 ## ChatGPT eloquent
+### English - German
 elucidate (verb) (The professor took a moment to elucidate the theory., The article elucidates complex scientific concepts., She elucidated her reasons for the decision.) ::: erläutern, erklären, verdeutlichen
 
 meticulous (adjective) (The artist was meticulous in her attention to detail., His meticulous nature helped him succeed., She kept meticulous records of all transactions.) ::: sorgfältig, akribisch, gewissenhaft
@@ -1050,3 +1051,105 @@ perennially (adverb) (She is perennially optimistic., The issue is perennially d
 resolutely (adverb) (She resolutely defended her beliefs., He resolutely pursued his goal., They resolutely stood by each other.) ::: entschlossen, entschieden, konsequent
 
 circumspectly (adverb) (He approached the matter circumspectly., She circumspectly evaluated the options., The company circumspectly navigated the issue.) ::: umsichtig, vorsichtig, besonnen
+
+### German - English
+#### Nouns
+Zweckmäßigkeit (noun) (Die Zweckmäßigkeit dieser Methode ist fragwürdig.) ::: expediency, appropriateness, practicality
+
+Evidenz (noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) ::: evidence, clarity, self-evidence
+
+Ambivalenz (noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) ::: ambivalence, duality, mixed feelings
+
+Rückschluss (noun) (Ein Rückschluss auf die Ursachen ist schwierig.) ::: inference, deduction, conclusion
+
+Resilienz (noun) (Die Resilienz der Systeme wird in Krisen deutlich.) ::: resilience, adaptability, robustness
+
+Kausalität (noun) (Die Kausalität zwischen den Ereignissen muss überprüft werden.) ::: causality, cause-and-effect relationship
+
+Paradigmenwechsel (noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) ::: paradigm shift, fundamental change
+
+Kohärenz (noun) (Seine Argumentation besticht durch Kohärenz.) ::: coherence, consistency, logical flow
+
+Redundanz (noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) ::: redundancy, duplication, reliability-enhancing repetition
+
+Prämisse (noun) (Die Prämisse der Theorie ist umstritten.) ::: premise, assumption, foundational idea
+
+Axiom (noun) (Das Axiom bildet die Grundlage der Berechnungen.) ::: axiom, self-evident truth, unproven principle
+
+Substanz (noun) (Die Substanz seiner Argumente ist überzeugend.) ::: substance, core, fundamental value
+
+Diskrepanz (noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) ::: discrepancy, inconsistency, gap
+
+Hypothese (noun) (Die Hypothese wurde umfassend getestet.) ::: hypothesis, proposed explanation, conjecture
+
+Konvergenz (noun) (Die Konvergenz der Ansichten ist bemerkenswert.) ::: convergence, alignment, merging
+
+Divergenz (noun) (Die Divergenz in den Ergebnissen wirft Fragen auf.) ::: divergence, difference, discrepancy
+
+Validität (noun) (Die Validität der Daten wurde bestätigt.) ::: validity, soundness, reliability
+
+Korrelation (noun) (Die Korrelation zwischen den Variablen ist hoch.) ::: correlation, interdependence, relation
+
+Präzedenzfall (noun) (Dieser Präzedenzfall wird oft zitiert.) ::: precedent, prior example, case reference
+
+Differenzierung (noun) (Eine Differenzierung der Faktoren ist notwendig.) ::: differentiation, nuanced distinction, granularity
+
+Antithese (noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) ::: antithesis, opposition, contrasting viewpoint
+
+Implikation (noun) (Die Implikationen dieser Forschung sind weitreichend.) ::: implication, consequence, inference
+
+Synthese (noun) (Die Synthese dieser Ideen führte zu einer neuen Theorie.) ::: synthesis, combination, integration
+
+Kontingenz (noun) (Die Kontingenz der Ereignisse lässt Raum für Spekulation.) ::: contingency, dependency, conditionality
+
+Empirie (noun) (Empirie ist ein zentraler Bestandteil dieser Untersuchung.) ::: empiricism, observational evidence, experiential data
+#### Verbs
+verifizieren (verb) (Die Ergebnisse müssen verifiziert werden.) ::: to verify, to confirm, to validate
+
+falsifizieren (verb) (Die Theorie konnte falsifiziert werden.) ::: to falsify, to refute, to disprove
+
+implizieren (verb) (Seine Worte implizieren eine Zustimmung.) ::: to imply, to suggest, to entail
+
+extrapolieren (verb) (Die Daten erlauben es uns, zukünftige Trends zu extrapolieren.) ::: to extrapolate, to predict based on data, to project
+
+konvergieren (verb) (Die Meinungen konvergieren in einem Punkt.) ::: to converge, to come together, to align
+
+divergieren (verb) (Die Ansichten der Experten divergieren stark.) ::: to diverge, to differ, to split
+
+synthetisieren (verb) (Die Studie synthetisiert die Ergebnisse mehrerer Forschungen.) ::: to synthesize, to integrate, to combine
+
+diffundieren (verb) (Das Wissen diffundiert langsam in die Gesellschaft.) ::: to diffuse, to spread gradually, to permeate
+
+modifizieren (verb) (Das Modell wurde modifiziert, um präziser zu sein.) ::: to modify, to adjust, to change
+
+korrelieren (verb) (Die Variablen korrelieren miteinander.) ::: to correlate, to show a relationship, to relate
+
+quantifizieren (verb) (Es ist schwierig, den Einfluss zu quantifizieren.) ::: to quantify, to measure, to assess numerically
+
+kontextualisieren (verb) (Die Ergebnisse müssen kontextualisiert werden.) ::: to contextualize, to put in context, to frame
+
+operationalisieren (verb) (Das Konzept muss operationalisiert werden, um messbar zu sein.) ::: to operationalize, to define in measurable terms, to make actionable
+
+analysieren (verb) (Die Daten wurden gründlich analysiert.) ::: to analyze, to examine, to evaluate
+
+diskreditieren (verb) (Die Kritik sollte die Argumente nicht diskreditieren.) ::: to discredit, to undermine, to refute
+
+substantiieren (verb) (Er konnte seine These mit Beweisen substantiieren.) ::: to substantiate, to provide evidence for, to validate
+
+evaluieren (verb) (Die Methode wurde im Detail evaluiert.) ::: to evaluate, to assess, to appraise
+
+antizipieren (verb) (Er antizipierte die möglichen Probleme.) ::: to anticipate, to foresee, to predict
+
+deduzieren (verb) (Aus den Fakten kann man eine Schlussfolgerung deduzieren.) ::: to deduce, to infer, to conclude
+
+akkumulieren (verb) (Mit der Zeit akkumuliert sich das Wissen in diesem Bereich.) ::: to accumulate, to gather, to amass
+
+diskutieren (verb) (Die Teilnehmer diskutierten über die Ergebnisse.) ::: to discuss, to debate, to deliberate
+
+implizieren (verb) (Seine Aussage implizierte eine Zustimmung.) ::: to imply, to suggest, to hint at
+
+rekonstruieren (verb) (Die Ereignisse wurden aus verschiedenen Berichten rekonstruiert.) ::: to reconstruct, to recreate, to piece together
+
+koordinieren (verb) (Die Forscher koordinierten ihre Experimente.) ::: to coordinate, to organize, to align
+
+isolieren (verb) (Sie isolierten die variable Komponente im Experiment.) ::: to isolate, to separate, to single out
