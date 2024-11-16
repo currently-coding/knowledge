@@ -949,7 +949,6 @@ saint(adjective) () ::: heilig
 rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn 
 to rail(verb) (She railed at the car drivers who tried to overtake her.) ::: schimpfen, wettern, fluchen 
 placement(noun) (The placement of products on the shelf affects sales., The company arranges my placement during the business trip.) ::: Platzierung, Vermittlung, Unterbringung 
-placement(noun) () ::: Praktikum
 rally(noun) (The driver that wins the rally receives a trophy., The candidate held a rally in front of the town hall., The demonstrators held a rally near the station.) ::: Rallye, Kundgebung, Zusammenkunft
 <!--SR:!2024-11-15,1,323!2000-01-01,1,250-->
 to rally(verb) (The country rallied quickly after the economic crisis., Thousands of people rallied for the demonstration.) ::: sich erholen, sich versammeln, um sich scharen 
