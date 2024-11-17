@@ -41,5 +41,6 @@ $\pi \cdot 6r^2 = x$
 $a = 6cm$
 $s = 5cm$
 ges: $h, h_a, \alpha$
-G = 36
-h = 4
+$G = 36$
+$h_a = 4$
+$h = 
