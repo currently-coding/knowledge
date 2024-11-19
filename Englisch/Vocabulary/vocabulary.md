@@ -926,8 +926,8 @@ implement(noun) (The gardener uses a wide set of implements., The carpenter uses
 <!--SR:!2000-01-01,1,250!2024-11-15,1,345-->
 saint(noun) () ::: Heilige, Heiliger
 <!--SR:!2024-12-08,24,404!2024-11-19,5,386-->
-saint(adjective) () ::: heilig 
-<!--SR:!2000-01-01,1,250!2024-11-10,1,344-->
+saint(adjective) () ::: heilig
+<!--SR:!2000-01-01,1,250!2024-11-23,4,364-->
 rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn 
 to rail(verb) (She railed at the car drivers who tried to overtake her.) ::: schimpfen, wettern, fluchen 
 placement(noun) (The placement of products on the shelf affects sales., The company arranges my placement during the business trip.) ::: Platzierung, Vermittlung, Unterbringung 
