@@ -13,7 +13,7 @@
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "randomizeCardOrder": null,
-    "flashcardCardOrder": "DueFirstRandom",
+    "flashcardCardOrder": "EveryCardRandomDeckAndCard",
     "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
@@ -28,7 +28,7 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "Attachments"
+      "excalidraw"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
@@ -42,7 +42,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-11-18",
+  "buryDate": "2024-11-19",
   "buryList": [],
   "historyDeck": null
 }
