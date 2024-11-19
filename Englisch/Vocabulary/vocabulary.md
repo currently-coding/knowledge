@@ -488,7 +488,7 @@ to seize(verb) (She seized the opportunity and started a new life., The customs 
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
 <!--SR:!2024-11-27,25,396!2024-11-21,24,392-->
 to slam(verb) (The film critic slammed the new movie in a brutal review., The leader of the opposition slams the president's policy.) ::: knallen, zuschlagen, verreißen
-<!--SR:!2024-12-18,46,365!2024-11-07,5,383-->
+<!--SR:!2024-12-18,46,365!2024-12-15,26,403-->
 slam(noun) () ::: Zuschlagen, Zuknallen, Aufschlagen
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
 <!--SR:!2024-12-12,28,402!2024-12-05,33,395-->
@@ -503,7 +503,7 @@ prompt(adjective) (This query needs a prompt response., The users expect a promp
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
 <!--SR:!2024-11-30,21,382!2024-11-15,23,385-->
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen
-<!--SR:!2024-11-30,16,363!2024-11-07,5,381-->
+<!--SR:!2024-11-30,16,363!2024-12-16,27,401-->
 victory(noun) (The new player led the team to victory., I will strive for victory.) ::: Sieg, Triumph
 <!--SR:!2024-11-19,22,392!2024-11-29,27,396-->
 disagreement(noun) (They resolved their disagreement with a compromise., The parties managed to avoid disagreements.) ::: Uneinigkeit, Unstimmigkeit, Meinungsverschiedenheit
@@ -1004,7 +1004,8 @@ profound(adjective) (The scientist was able to convince everyone with her profou
 mincer(noun) () ::: Fleischwolf, Wolf 
 to toss(verb) (When I toss a ball, my dog always brings it back.) ::: werfen, schleudern, knobeln 
 toss(noun) (The toss of the coin will decide everything.) ::: Wurf, Einwurf 
-to retrieve(verb) (We can easily retrieve the stored information from the system., He throws the stick and the dog retrieves it., We can easily retrieve the data stored in the system., Some computer software can retrieve lost data., My dog loves to retrieve balls.) ::: abrufen, zurückholen, wiederherstellen 
+to retrieve(verb) (We can easily retrieve the stored information from the system., He throws the stick and the dog retrieves it., We can easily retrieve the data stored in the system., Some computer software can retrieve lost data., My dog loves to retrieve balls.) ::: abrufen, zurückholen, wiederherstellen
+<!--SR:!2000-01-01,1,250!2024-11-20,1,346-->
 whilst(conjunction) (Whilst working I cannot take calls., The road will be closed whilst the construction is in progress.) ::: während, solange, indem 
 whilst(conjunction) () ::: obwohl, indes 
 substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig 
