@@ -772,7 +772,6 @@ to diminish(verb) (The new guidelines diminish risks at the workplace., My grate
 flounder(noun) () ::: Flunder, Butt 
 to flounder(verb) (Nervous people sometimes flounder when they speak., Some businesses floundered during the economic crisis., Three large fish were floundering in the fishing net.) ::: sich verhaspeln, ins Trudeln geraten, zappeln
 <!--SR:!2000-01-01,1,250!2024-11-25,6,386-->
-skyrocket(noun) () ::: Rakete 
 to skyrocket(verb) () ::: sprunghaft ansteigen, emporschnellen, in die Höhe schießen 
 democratic(adjective) () ::: demokratisch
 <!--SR:!2024-11-15,6,383!2024-11-19,5,386-->
@@ -865,7 +864,7 @@ to coincide(verb) (Her statement coincides with my opinion., The holiday coincid
 <!--SR:!2000-01-01,1,250!2024-11-21,1,346-->
 to reassure(verb) (The boy was scared about seeing the doctor, but his mother reassured him.) ::: beruhigen, rückversichern 
 manufacture(noun) () ::: Herstellung, Fertigung, Produktion
-<!--SR:!2000-01-01,1,250!2024-11-23,4,366-->
+<!--SR:!2024-11-25,5,386!2024-11-23,4,366-->
 to manufacture(verb) (His company manufactures bicycle parts., The factory manufactures cars on a production line., This company manufactures bicycle parts., The cars we manufacture here are famous for their longevity., The factory manufactures bicycle parts.) ::: fertigen, herstellen, erzeugen 
 herb(noun) (This cream contains essences of herbs., Certain herbs are very effective against headaches., I plant herbs for the kitchen on my balcony.) ::: Kraut, Gewürz, Küchenkraut 
 to innovate(verb) () ::: erneuern, innovieren, Neuerungen einführen 
