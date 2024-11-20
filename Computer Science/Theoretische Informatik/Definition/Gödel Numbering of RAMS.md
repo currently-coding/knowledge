@@ -1,4 +1,5 @@
-1. Encoding of individual RAM instructions:
+1.
+<!--SR:!2024-11-24,4,270-->Encoding of individual RAM instructions:
 ![[Pasted image 20241106161040.png]]
 2. Encoding of RAM $M$ with instructions $b_1, ..., b_s$:
 $$
@@ -6,7 +7,7 @@ $$
 $$
 3. For $i \in \mathbb{N}$ let 
 $$
-M_i := 
+ 
 \begin{cases}
 	M \text{, if } i = \langle M \rangle \text{ for a RAM } M\\
 	M^* \text{, if } i \text{ is not code of a RAM},
