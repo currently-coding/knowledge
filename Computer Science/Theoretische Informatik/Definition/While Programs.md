@@ -1,2 +1,6 @@
-If `def f(a1, a2, ..., aN): ...` is the last function declaration in a While Program  $P$, then *the function computed by $P$* is the function $\psi$ := $\psi_P:\mathbb{Z}^n \rightarrow \mathbb{Z} \text{ with: } \psi_P(x_1, ..., x_n) = \{ f(x_1, ..., x_n)\text{, if that is defined, }n.d. \text{ else.}$
+If `def f(a1, a2, ..., aN): ...` is the last function declaration in a While Program  $P$, then *the function computed by $P$* is the function $\psi$ := $\psi_P:\mathbb{Z}^n \rightarrow \mathbb{Z} \text{ with: } \psi_P(x_1, ..., x_n) = 
+\begin{cases}
+f(x_1, ..., x_n) \text{, if that is defined,}\\
+n.d. \text{ else.}\\
+\end{cases}
 <!--SR:!2024-11-12,11,270-->

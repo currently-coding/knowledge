@@ -5,7 +5,7 @@ aliases:
 ---
 ## Allgemein
 - $pH$ := $-log_{10}\{c(H_3O^+)\}$
-<!--SR:!2024-11-06,4,270-->
+<!--SR:!2024-12-02,16,290-->
 -> $pH=7$ => $c(H_3O^+)=10^{-7}\frac{mol}{l}$
 
 ## in wässrigen Lösungen

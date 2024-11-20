@@ -12,7 +12,7 @@ $$
 
 $$
 Welche Bedingung muss erfüllt sein, damit $f(x)$ achsensymmetrisch zur Y-Achse oder punktsymmetrisch zum Ursprung ist? := $f(x) = f(-x)$(Achsensymmetrie)  $-f(-x) = f(x)$(Punktsymmetrie)
-<!--SR:!2024-11-06,4,270-->
+<!--SR:!2024-11-29,13,290-->
 
 ### Spiegeln
 #### Y-Achse
