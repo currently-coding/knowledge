@@ -20,7 +20,7 @@ $c(Säurelösung)=\frac{n(Säurelösung)}{V(Säurelösung)}$
 $n(Säurelösung) = a \cdot n(Base)$ - $a$ aus Reaktionsgleichung aus ablesen
 
 $$
-\Rightarrow c(x) = a \cdot \frac{V(Base)\cdot c(Base)}{V(Säurelösung)}
+\Rightarrow c(x) = \frac{a \cdot V(Base)\cdot c(Base)}{V(Säurelösung)}
 $$
 ## Beispiel
 - Bestimmen der Konzentration einer Citronensäurelösung
@@ -31,6 +31,6 @@ $$
  
  $geg.: V(H_3Cit)=20mL, V(NaOH^-)=7,7mL, c(NaOH^-)=1,0\frac{mol}{L}$
 $ges.: c(H_3Cit)$
-$c(H_3Cit)=\frac{1}{3}\cdot \frac{7,7mL \cdot 1,0 \frac{mol}{L}}{20mL}=...$
+$c(H_3Cit)=\frac{1}{3}\cdot \frac{7,7mL \cdot 1,0 \frac{mol}{L}}{20mL}=$...
 
 

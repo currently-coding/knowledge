@@ -41,7 +41,7 @@ $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 $A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
 <!--SR:!2024-12-09,42,277-->
 $A - B$ := $A \setminus B$ (Difference of A and B)
-<!--SR:!2024-11-07,24,274-->
+<!--SR:!2025-02-17,90,294-->
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 <!--SR:!2024-12-25,54,274-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
@@ -53,7 +53,7 @@ $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in thi
 <!--SR:!2024-12-29,67,314-->
 ### Cartesian Products
 $A_1 \times A_2 \times \ldots \times A_n$ := $\{(a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ for all } i\}$ (Cartesian product of sets $A_1,A_2, \ldots, A_n$)
-<!--SR:!2024-11-14,31,277-->
+<!--SR:!2025-03-14,119,297-->
 $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of set A)
 <!--SR:!2024-12-07,45,294-->
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
@@ -75,12 +75,12 @@ $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of de
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
 <!--SR:!2024-12-01,39,290-->
 $f$ is total ::: $D_f = A$
-<!--SR:!2024-11-22,37,294!2024-11-14,22,299-->
+<!--SR:!2024-11-22,37,294!2025-02-13,90,319-->
 $f$ is surjective ::: $R_f = B$
-<!--SR:!2024-11-10,25,278!2024-11-21,29,274-->
+<!--SR:!2025-02-19,96,298!2024-11-21,29,274-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
-<!--SR:!2024-12-12,36,258!2024-11-13,28,274-->
+<!--SR:!2024-12-12,36,258!2025-03-01,106,294-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
 <!--SR:!2025-01-04,68,314!2025-01-09,69,318-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.
-<!--SR:!2024-11-09,24,278-->
+<!--SR:!2025-02-22,95,298-->

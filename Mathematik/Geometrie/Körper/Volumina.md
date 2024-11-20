@@ -1,6 +1,7 @@
 ## Zylinder
 $$ \pi r^2 h $$
 ## Kegel
-$$  \frac{\pi r^2 h}{3} $$
-# Pyramide
-$$ \frac{G*h}{3} $$
+$$  \frac{1}{3}\cdot
+\pi \cdot r^2\cdot h$$
+## Pyramide
+$$ \frac{1}{3}\cdot G \cdot H $$
