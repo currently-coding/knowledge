@@ -6,5 +6,7 @@
   "better-mathjax",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
-  "pdf-plus"
+  "pdf-plus",
+  "cmdr",
+  "slash-commander"
 ]
