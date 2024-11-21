@@ -838,7 +838,7 @@ elementary(adjective) (The beginner's course teaches elementary skills., A secur
 to soar(verb) (After the start, the rocket soared straight into the sky., A falcon was soaring above the forest., The value of the shares soared temporarily.) ::: steigen, segeln, hochschnellen
 <!--SR:!2000-01-01,1,250!2024-11-22,6,385-->
 to devote oneself to(verb) (The woman devoted herself to her scientific studies., The lawyer had devoted herself to fighting injustice.) ::: sich hingeben, sich verschreiben
-<!--SR:!2000-01-01,1,250!2024-11-17,1,346-->
+<!--SR:!2000-01-01,1,250!2024-11-22,1,326-->
 nursing(noun) () ::: Pflege, Krankenpflege, Stillen
 <!--SR:!2000-01-01,1,250!2024-11-10,1,344-->
 to nurse(verb) (He nursed the sick little kitten., I nursed an abandoned bird.) ::: pflegen, großziehen, kurieren 
@@ -1043,6 +1043,7 @@ obfuscate(verb) (The instructions obfuscate rather than clarify., Some politicia
 ruminate(verb) (He ruminated over the choices he had., She likes to ruminate on philosophical questions., The decision required her to ruminate deeply.) ::: grübeln, nachdenken, sinnieren
 burgeon(verb) (The city's population began to burgeon., Her creativity burgeoned in the new environment., The company is beginning to burgeon.) ::: gedeihen, aufblühen, florieren
 placate(verb) (He tried to placate the angry customer., The apology was meant to placate her., She placated his fears with comforting words.) ::: besänftigen, beruhigen, beschwichtigen
+<!--SR:!2000-01-01,1,250!2024-11-22,1,346-->
 ineffable(adjective) (The beauty of the mountains was ineffable., The feeling of joy was ineffable., Her gratitude was ineffable.) ::: unaussprechlich, unbeschreiblich, unsagbar
 halcyon(adjective) (She looked back on the halcyon days of her youth., The halcyon weather was perfect for a picnic., They longed for the halcyon times of peace.) ::: friedlich, glücklich, idyllisch
 sagacious(adjective) (He gave a sagacious answer to the question., The leader was known for his sagacious decisions., Her sagacious insight was appreciated.) ::: weise, klug, scharfsinnig
