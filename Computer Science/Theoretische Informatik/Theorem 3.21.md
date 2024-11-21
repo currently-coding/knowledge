@@ -29,8 +29,8 @@ $L=L(A_1)$ mit $A_1 = (\sum, S_1, \delta_1, s_{10}, F_1)$
 $L'=L(A_2)$ mit $A_2 = (\sum, S_2, \delta_2, s_{20}, F_2)$
 - beides sind **NFAs** mit $S_1 \cap S_2 = \emptyset$
 ### Idee
-- von alle akzeptierenden Zustaenden in $A_1$ in, dem startzustand von $A_2$ folgende Zustaende
-- Dabei werden alle Akzeptierenden Zustaende von $A_1$ nicht akzeptierend
+- von alle akzeptierenden Zuständen in $A_1$ in, dem Startzustand von $A_2$ folgende Zustände
+- Dabei werden alle Akzeptierenden Zustände von $A_1$ nicht akzeptierend
 	- Ausnahme: $s_20$ von $A_2$ ist akzeptierend -> alle akzeptierenden in $A_1$ bleiben akzeptierend
 
 wir konstruieren einen NFA $A = (\sum, S, \delta, s_0, F)$ mit $L(A) = L \cdot L'$
