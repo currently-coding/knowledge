@@ -803,7 +803,7 @@ stable(adjective) (Prices are stable and not constantly changing., This year, th
 <!--SR:!2024-12-04,18,383!2024-11-15,1,346-->
 founder(noun) (The founder of the company still runs it today.) ::: Gründer, Gründerin, Stifter 
 to founder(verb) (The project must not founder.) ::: scheitern, fehlschlagen, sinken
-<!--SR:!2000-01-01,1,250!2024-11-20,1,346-->
+<!--SR:!2000-01-01,1,250!2024-11-26,5,366-->
 spectacle(noun) (The circus offered the audience a breathtaking spectacle.) ::: Spektakel, Schauspiel, Show
 <!--SR:!2024-11-21,5,386!2000-01-01,1,250-->
 choir(noun) (The choir sings a refrain after every strophe., We rehearse once a week with our choir.) ::: Chor, Gesangverein, Kantorei
@@ -894,7 +894,8 @@ to yield(verb) (The cuts will yield savings in expenditure., I finally yielded t
 <!--SR:!2000-01-01,1,250!2024-11-20,6,385-->
 to yield to(verb) () ::: Platz machen
 <!--SR:!2000-01-01,1,250!2024-11-10,1,343-->
-district(noun) (There are no schools in this district., I live in a very quiet district of Amsterdam., In our district, waste is collected on Wednesdays., Most capitals are divided into several districts.) ::: Bezirk, Stadtteil, Kreis 
+district(noun) (There are no schools in this district., I live in a very quiet district of Amsterdam., In our district, waste is collected on Wednesdays., Most capitals are divided into several districts.) ::: Bezirk, Stadtteil, Kreis
+<!--SR:!2000-01-01,1,250!2024-11-22,1,346-->
 robust(adjective) (Wood is a robust building material., The system is robust and not susceptible to errors., The house is robust enough to withstand strong winds.) ::: robust, solide, stark
 <!--SR:!2024-11-20,6,386!2024-11-10,1,344-->
 robust(adjective) (Holz ist ein robustes Baumaterial., Das System ist robust und nicht anfällig für Störungen., Dieses Zelt besteht aus einem robusten und wasserdichten Stoff., Der solide Stahlrahmen ist robust und belastbar., Das Material ist robust und kann Hitze und Kälte standhalten., Gummi ist ein robustes Material., Die Schuhe sind aus robusten Materialien gefertigt.) ::: robust, strong, rugged
