@@ -2,7 +2,14 @@
 - Sei $L = L(A)$ mit **DFA** $A = (\sum, S, \delta, s_0, F)$
 => $\bar{L} = L(A')$ mit $A' = (\sum, S, \delta, s_0, S-F)$
 >[!Note]
->nur mit **DFA** moeglich da NFAs auch wenn nicht alle derzeitigen Zustaende akzeptieren, ein Wort akzeptieren koennen. Wechselt man nun alle Zustaende, so wird auch der Situation
+>nur mit **DFA** möglich da NFAs auch wenn nicht alle derzeitigen Zustände akzeptierend sind, ein Wort akzeptieren können. Wechselt man nun alle Zustände, so wird aus der akzeptierenden Situation $\{s_0, s_1, s_4\}$($s_4$ ist akzeptierend) die gleiche situation mit $\{s_0, s_1\} \in F$ -> Umkehrung funktioniert nicht, da zuvor akzeptierende Situation immer noch akzeptierend ist 
+>
+>---
+>Lösung:
+>NFA erst in DFA umwandeln, dann DFA Zustände vertauschen: $F_2 = S_1-F_1$
+
+
+
 ### Idee
 - alle akzeptierenden und nicht-akzeptierenden States vertauschen($F' = S-F$)
 
