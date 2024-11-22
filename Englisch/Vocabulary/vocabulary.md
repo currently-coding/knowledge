@@ -539,7 +539,7 @@ pure(adjective) (It was pure coincidence that they were in the same city that da
 timely(adjective) (Timely procurement of raw materials is essential for production., The supplier is responsible for timely delivery.) ::: rechtzeitig, fristgerecht, zeitgerecht
 <!--SR:!2024-11-21,19,375!2024-12-11,19,383-->
 globe(noun) () ::: Welt, Globus, Erdball
-<!--SR:!2024-11-08,6,383!2024-11-03,1,343-->
+<!--SR:!2024-12-22,30,403!2024-11-03,1,343-->
 to steer(verb) (The captain steers the ship away from the cliffs., It is hard to steer a ship through the narrow., The driver saw the dog and steered in the other direction.) ::: steuern, lenken, führen
 <!--SR:!2024-11-27,25,397!2024-12-01,29,395-->
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
@@ -728,7 +728,7 @@ particularly(adverb) (She particularly likes yellow roses., In the third movemen
 <!--SR:!2024-11-17,1,346!2000-01-01,1,250-->
 particular(adjective) (I passed the exam without any particular difficulties., I pay very particular attention to grammar mistakes., In this particular election, only members of the council are eligible., The software is aimed at a particular bracket of users., My aunt is very particular about films.) ::: besondere, besonderer, speziell 
 thread(noun) (Users can discuss suggestions in a thread., She used dark blue thread for the embroidery., The thread on the screw is worn down.) ::: Thread, Faden, Gewinde
-<!--SR:!2000-01-01,1,250!2024-11-21,5,386-->
+<!--SR:!2000-01-01,1,250!2024-12-18,26,406-->
 to thread(verb) (It can be difficult to thread cotton through a needle., She threaded the beads to make a necklace., When I was a kid, I loved to thread perls on a necklace.) ::: einfädeln, auffädeln, aufziehen
 <!--SR:!2000-01-01,1,250!2024-12-17,25,384-->
 healthcare(noun) (Prevention is a key element of healthcare.) ::: Gesundheitswesen, Gesundheitsversorgung, Gesundheitsfürsorge 
@@ -808,7 +808,7 @@ to founder(verb) (The project must not founder.) ::: scheitern, fehlschlagen, si
 spectacle(noun) (The circus offered the audience a breathtaking spectacle.) ::: Spektakel, Schauspiel, Show
 <!--SR:!2024-12-18,26,406!2000-01-01,1,250-->
 choir(noun) (The choir sings a refrain after every strophe., We rehearse once a week with our choir.) ::: Chor, Gesangverein, Kantorei
-<!--SR:!2000-01-01,1,250!2024-11-15,6,384-->
+<!--SR:!2000-01-01,1,250!2024-12-23,31,404-->
 to highlight(verb) (The director highlighted the positive trend in his presentation., I highlighted some important passages in my book., The correct range was clearly highlighted on the display., I would like to highlight the growing importance of renewable energies.) ::: hervorheben, markieren, betonen
 <!--SR:!2000-01-01,1,250!2024-12-23,31,404-->
 remains(noun) (The remains of the ancient city are still admired today., Many cultures bury mortal remains.) ::: Überreste, Reste, Ruinen 
