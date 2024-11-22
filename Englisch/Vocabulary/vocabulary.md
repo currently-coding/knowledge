@@ -41,7 +41,7 @@ adequate(adjective) (I finally received an adequate answer to my question., My i
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
 <!--SR:!2025-03-20,124,402!2025-03-02,108,401-->
 to adjust oneself(verb) () ::: sich anpassen
-<!--SR:!2024-12-18,72,341!2024-11-19,44,302-->
+<!--SR:!2024-12-18,72,341!2025-05-25,184,322-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) ::: erschwinglich, bezahlbar, preiswert, kostengünstig
 <!--SR:!2024-12-08,60,337!2024-12-07,62,322-->
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
@@ -416,7 +416,7 @@ consult(noun) () ::: Befragung
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
 <!--SR:!2025-02-25,115,389!2025-04-23,165,387-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
-<!--SR:!2024-11-09,26,347!2024-12-17,58,368-->
+<!--SR:!2025-02-20,90,347!2024-12-17,58,368-->
 ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
 <!--SR:!2025-03-07,125,387!2025-02-12,107,389-->
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
@@ -450,7 +450,7 @@ to sanction(verb) (The committee sanctioned the expenditure for the project.) ::
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
 <!--SR:!2025-01-04,76,367!2025-01-07,76,369-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
-<!--SR:!2024-11-05,29,368!2024-12-20,34,347-->
+<!--SR:!2025-04-17,146,388!2024-12-20,34,347-->
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
 <!--SR:!2025-04-01,136,389!2025-01-23,91,388-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
@@ -511,7 +511,7 @@ disagreement(noun) (They resolved their disagreement with a compromise., The par
 to interact(verb) (In modern computer games, you can interact with other players., The experiment showed how atoms interact with each other.) ::: interagieren, wechselwirken, zusammenwirken
 <!--SR:!2024-11-23,26,391!2024-12-14,25,403-->
 notably(adverb) (The tax reform will affect many people, notably entrepreneurs., The tax reform will benefit many, notably young people.) ::: insbesondere, besonders, vor allem
-<!--SR:!2024-11-20,4,363!2024-11-14,5,362-->
+<!--SR:!2024-12-12,20,383!2024-11-14,5,362-->
 notable(adjective) (The designer was a notable figure in the fashion world., The reform led to a notable improvement of public health., The scientist made a notable discovery., There is a notable want of teachers in my school district., The painter was a notable artist of his time., The hotel welcomes many notable guests.) ::: wichtig, deutlich, bemerkenswert
 <!--SR:!2025-01-22,61,376!2024-12-14,30,403-->
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt
@@ -535,7 +535,7 @@ to generate(verb) (The batteries generate power for the radio., I can generate a
 to renew(verb) (I renewed my newspaper subscription., A good polish renews the shine of the wood.) ::: erneuern, verlängern, auffrischen
 <!--SR:!2024-12-09,30,402!2024-12-05,33,395-->
 pure(adjective) (It was pure coincidence that they were in the same city that day., We only use natural oils and pure essences., The necklace was made of pure gold., She looked at the gift with pure joy.) ::: rein, pur, unverfälscht
-<!--SR:!2024-11-08,6,382!2024-12-05,21,377-->
+<!--SR:!2024-12-22,30,402!2024-12-05,21,377-->
 timely(adjective) (Timely procurement of raw materials is essential for production., The supplier is responsible for timely delivery.) ::: rechtzeitig, fristgerecht, zeitgerecht
 <!--SR:!2024-11-21,19,375!2024-12-11,19,383-->
 globe(noun) () ::: Welt, Globus, Erdball
@@ -557,7 +557,7 @@ random(adjective) (I had a random encounter with an old friend today., The selec
 predictable(adjective) (There were clouds in the sky, so the rain was predictable., My friend is pretty predictable, I always know what he is going to say., We offer all our services at predictable costs.) ::: vorhersehbar, berechenbar, kalkulierbar
 <!--SR:!2024-11-27,25,397!2024-12-05,33,392-->
 to predict(verb) (The weather forecast predicts sunshine for the weekend., Experts predict a positive economic development for next year., The weather forecast predicts rain., Experts predict a positive economic development.) ::: vorhersagen, prognostizieren, voraussagen
-<!--SR:!2024-11-21,24,392!2024-12-03,31,395-->
+<!--SR:!2025-04-03,132,412!2024-12-03,31,395-->
 rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung
 <!--SR:!2024-11-28,26,396!2024-11-08,6,382-->
 to rot(verb) (Organic substances rot after a while., The fruit was no longer fresh and started to rot.) ::: verrotten, faulen, verfaulen
@@ -668,9 +668,9 @@ fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The 
 ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote
 <!--SR:!2024-11-26,24,397!2024-12-07,23,382-->
 to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of old remnants.) ::: weben, flechten, verweben
-<!--SR:!2024-11-08,6,382!2024-11-08,6,383-->
+<!--SR:!2024-11-08,6,382!2024-12-22,30,403-->
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen
-<!--SR:!2024-11-07,5,382!2024-11-15,1,318-->
+<!--SR:!2024-12-19,27,402!2024-11-15,1,318-->
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen
 <!--SR:!2024-11-28,14,363!2024-11-25,19,377-->
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
@@ -718,12 +718,12 @@ honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufr
 rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite
 <!--SR:!2024-12-16,32,403!2024-12-03,24,401-->
 rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres
-<!--SR:!2024-12-01,29,397!2024-11-07,5,383-->
+<!--SR:!2024-12-01,29,397!2024-12-18,26,403-->
 sword(noun) (The point of the sword is very sharp., He put his sword back into its sheath.) ::: Schwert, Degen, Säbel
 <!--SR:!2024-12-09,30,403!2024-12-17,33,402-->
 <!--SR:!2000-01-01,1,250!2024-11-15,6,383-->
 Hunger(noun) (Nach dem großen Essen war mein Hunger gestillt.) ::: hunger, famine, starvation
-<!--SR:!2024-11-19,3,344!2000-01-01,1,250-->
+<!--SR:!2024-12-06,14,364!2000-01-01,1,250-->
 particularly(adverb) (She particularly likes yellow roses., In the third movement of the symphony, the violin was particularly beautiful., Particularly successful employees receive a bonus., My girlfriend likes roses, particularly yellow ones.) ::: insbesondere, besonders, vor allem
 <!--SR:!2024-11-17,1,346!2000-01-01,1,250-->
 particular(adjective) (I passed the exam without any particular difficulties., I pay very particular attention to grammar mistakes., In this particular election, only members of the council are eligible., The software is aimed at a particular bracket of users., My aunt is very particular about films.) ::: besondere, besonderer, speziell 
@@ -774,7 +774,7 @@ to flounder(verb) (Nervous people sometimes flounder when they speak., Some busi
 <!--SR:!2000-01-01,1,250!2024-11-25,6,386-->
 to skyrocket(verb) () ::: sprunghaft ansteigen, emporschnellen, in die Höhe schießen 
 democratic(adjective) () ::: demokratisch
-<!--SR:!2024-11-15,6,383!2024-11-19,5,386-->
+<!--SR:!2024-11-15,6,383!2024-12-17,25,406-->
 dairy(noun) (This dairy is famous for its yoghurt.) ::: Molkerei, Käserei, Milch
 <!--SR:!2000-01-01,1,250!2024-11-23,4,366-->
 warfare(noun) (Technology has deeply changed warfare.) ::: Kriegsführung, Krieg, Kampfführung 
@@ -791,7 +791,7 @@ circuit(noun) (This electronic circuit contains several jumpers., The circuit is
 to circuit(verb) (The Earth circuits around the Sun., The small boat could not circuit the island because of the wind.) ::: kreisen, umschiffen, umfliegen
 <!--SR:!2024-11-15,1,345!2000-01-01,1,250-->
 scrutiny(noun) () ::: Prüfung, Überprüfung, Untersuchung
-<!--SR:!2000-01-01,1,250!2024-11-10,1,343-->
+<!--SR:!2000-01-01,1,250!2024-11-23,1,323-->
 seldom(adjective) () ::: selten 
 seldom(adverb) (I seldom see my sister, since she lives far away., My brother is very even-tempered and seldom gets angry.) ::: selten, kaum, nicht oft 
 permanent(adjective) (The actor got a permanent engagement., The patient is under permanent monitoring., Small children demand permanent attention from their parents., His boss offered him a permanent position., The solution is temporary, not permanent.) ::: dauerhaft, permanent, ständig 
@@ -861,7 +861,7 @@ to torture(verb) () ::: martern, quälen, foltern
 <!--SR:!2024-11-15,6,384!2000-01-01,1,250-->
 gorgeous(adjective) (The landscape in this country is just gorgeous., From the hill we had a gorgeous view at the sea.) ::: wunderschön, großartig, herrlich 
 coincidence(noun) (It was pure coincidence that they were in the same city that day.) ::: Zufall, Zusammentreffen, Koinzidenz
-<!--SR:!2024-11-15,6,383!2000-01-01,1,250-->
+<!--SR:!2024-12-23,31,403!2000-01-01,1,250-->
 to coincide(verb) (Her statement coincides with my opinion., The holiday coincides with a weekend., My goals coincide with those of the company., My visit coincides with the annual music festival.) ::: übereinstimmen, zusammenfallen, sich decken
 <!--SR:!2000-01-01,1,250!2024-11-27,5,366-->
 to reassure(verb) (The boy was scared about seeing the doctor, but his mother reassured him.) ::: beruhigen, rückversichern 
@@ -899,7 +899,7 @@ to yield to(verb) () ::: Platz machen
 district(noun) (There are no schools in this district., I live in a very quiet district of Amsterdam., In our district, waste is collected on Wednesdays., Most capitals are divided into several districts.) ::: Bezirk, Stadtteil, Kreis
 <!--SR:!2000-01-01,1,250!2024-11-22,1,346-->
 robust(adjective) (Wood is a robust building material., The system is robust and not susceptible to errors., The house is robust enough to withstand strong winds.) ::: robust, solide, stark
-<!--SR:!2024-11-20,6,386!2024-11-10,1,344-->
+<!--SR:!2024-11-20,6,386!2024-11-25,3,344-->
 robust(adjective) (Holz ist ein robustes Baumaterial., Das System ist robust und nicht anfällig für Störungen., Dieses Zelt besteht aus einem robusten und wasserdichten Stoff., Der solide Stahlrahmen ist robust und belastbar., Das Material ist robust und kann Hitze und Kälte standhalten., Gummi ist ein robustes Material., Die Schuhe sind aus robusten Materialien gefertigt.) ::: robust, strong, rugged
 <!--SR:!2024-11-13,4,364!2024-11-26,6,386-->
 robust(adverb) () ::: robustly, sturdily, ruggedly 
@@ -928,7 +928,7 @@ to whip(verb) (The wind whipped the rain into her face., I whipped the cream unt
 residue(noun) (My drink left a sticky residue in my glass.) ::: Rückstände, Rückstand, Rest
 <!--SR:!2024-12-19,27,404!2000-01-01,1,250-->
 navigation(noun) (A compass is used for navigation and orientation., The mouse and keyboard are used for navigation.) ::: Navigation, Schifffahrt, Steuerung
-<!--SR:!2000-01-01,1,250!2024-11-14,5,383-->
+<!--SR:!2000-01-01,1,250!2024-12-19,27,403-->
 Navigation(noun) (Ein Kompass wird zur Navigation und Orientierung genutzt.) ::: navigation
 <!--SR:!2024-12-24,32,406!2000-01-01,1,250-->
 fever(noun) (I went to the doctor because I had a fever.) ::: Fieber, Fieberkrankheit, Fieberzustand
@@ -949,7 +949,7 @@ rally(noun) (The driver that wins the rally receives a trophy., The candidate he
 to rally(verb) (The country rallied quickly after the economic crisis., Thousands of people rallied for the demonstration.) ::: sich erholen, sich versammeln, um sich scharen 
 respective(adjective) (The dogs ran back to their respective owners., You can follow the lecture on the respective pages in the textbook.) ::: jeweilig, betreffend, einschlägig 
 forecast(noun) (According to the forecast, it's going to be cloudy tomorrow., The forecast was positive, so I invested some money.) ::: Vorhersage, Prognose, Voraussage
-<!--SR:!2024-11-18,4,366!2024-11-15,1,346-->
+<!--SR:!2024-11-18,4,366!2024-11-27,5,366-->
 to forecast(verb) (Experts forecast an increase in energy demand., The met office is forecasting rain for this weekend., The meteorologists forecast rain this weekend.) ::: prognostizieren, vorhersagen, voraussagen
 <!--SR:!2024-11-15,6,383!2000-01-01,1,250-->
 controversy(noun) () ::: Kontroverse, Auseinandersetzung, Streitigkeit
@@ -972,13 +972,13 @@ to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 consequently(adverb) (I have worked a lot and consequently I need some rest., I played all my cards and consequently won the game.) ::: folglich, somit, dadurch
 <!--SR:!2024-11-15,6,383!2024-12-25,33,406-->
 consequent(adjective) () ::: folgerichtig, folgend, resultierend
-<!--SR:!2024-11-21,5,386!2024-11-21,1,346-->
+<!--SR:!2024-12-17,25,406!2024-11-21,1,346-->
 viable(adjective) (The project seems viable in the long run., The new regulations are perfectly viable.) ::: lebensfähig, durchführbar, umsetzbar 
 supervision(noun) (This machine should only be operated under supervision., The machine may only be used under the supervision of an expert.) ::: Aufsicht, Supervision, Überwachung
 <!--SR:!2024-12-04,20,384!2000-01-01,1,250-->
 Supervision(noun) () ::: supervision 
 to mate(verb) (Elephants mate rarely and have only one calf.) ::: sich paaren, verbinden, sich verpaaren
-<!--SR:!2000-01-01,1,250!2024-11-15,1,346-->
+<!--SR:!2000-01-01,1,250!2024-11-23,1,326-->
 surface(noun) (The surface of the lake was completely calm., The surface of a table should be plane., I need an even surface to iron my shirt., The glue should be evenly spread on the surface., The surface of the new driveway is not dry yet.) ::: Oberfläche, Fläche, Belag
 <!--SR:!2024-11-15,6,384!2000-01-01,1,250-->
 surface(adjective) () ::: oberflächlich
@@ -997,9 +997,9 @@ to testify to(verb) () ::: bezeugen, für zeugen
 to abound(verb) () ::: im Überfluss vorhanden sein, strotzen, reichlich vorhanden sein 
 abound(adjective) () ::: reichlich 
 to edify(verb) () ::: erbauen
-<!--SR:!2024-11-22,6,385!2000-01-01,1,250-->
+<!--SR:!2024-12-24,32,405!2000-01-01,1,250-->
 to crave(verb) (After this long winter, I am craving some sunshine., I am craving lobster and caviar tonight.) ::: sich sehnen, nach gelüsten, ersehnen
-<!--SR:!2024-11-20,6,386!2000-01-01,1,250-->
+<!--SR:!2024-12-25,33,406!2000-01-01,1,250-->
 indulgently(adverb) () ::: nachsichtig, duldsam, schonend
 <!--SR:!2000-01-01,1,250!2024-11-24,4,366-->
 indulgent(adjective) () ::: nachsichtig, nachgiebig, duldsam
@@ -1010,7 +1010,7 @@ mincer(noun) () ::: Fleischwolf, Wolf
 to toss(verb) (When I toss a ball, my dog always brings it back.) ::: werfen, schleudern, knobeln 
 toss(noun) (The toss of the coin will decide everything.) ::: Wurf, Einwurf 
 to retrieve(verb) (We can easily retrieve the stored information from the system., He throws the stick and the dog retrieves it., We can easily retrieve the data stored in the system., Some computer software can retrieve lost data., My dog loves to retrieve balls.) ::: abrufen, zurückholen, wiederherstellen
-<!--SR:!2000-01-01,1,250!2024-11-20,1,346-->
+<!--SR:!2000-01-01,1,250!2024-11-23,1,326-->
 whilst(conjunction) (Whilst working I cannot take calls., The road will be closed whilst the construction is in progress.) ::: während, solange, indem 
 whilst(conjunction) () ::: obwohl, indes 
 substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig 
@@ -1039,7 +1039,7 @@ idiosyncrasy(noun) (Her unique style is an idiosyncrasy of hers., He has an idio
 juxtaposition(noun) (The juxtaposition of colors was striking., The film uses juxtaposition to highlight contrasts., Her art often involves the juxtaposition of natural and artificial elements.) ::: Nebeneinanderstellung, Gegenüberstellung, Kontrastierung
 <!--SR:!2024-11-24,4,366!2000-01-01,1,250-->
 quintessential(adjective) (She is the quintessential example of grace., The book is a quintessential piece of literature., His style is quintessentially minimalist.) ::: typisch, exemplarisch, vollkommen
-<!--SR:!2000-01-01,1,250!2024-11-22,1,346-->
+<!--SR:!2000-01-01,1,250!2024-11-23,1,326-->
 paradigm(noun) (The model shifted the paradigm in economics., She introduced a new paradigm in her research., The paradigm of traditional teaching is changing.) ::: Paradigma, Muster, Modell
 galvanize(verb) (The speech galvanized the crowd into action., His passion galvanized the team., The event galvanized support for the cause.) ::: motivieren, antreiben, wachrütteln
 <!--SR:!2024-11-17,1,346!2024-11-26,5,386-->
@@ -1093,7 +1093,7 @@ falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to 
 implizieren(verb) (Seine Worte implizieren eine Zustimmung.) := to imply, to suggest, to entail
 extrapolieren(verb) (Die Daten erlauben es uns, zukünftige Trends zu extrapolieren.) := to extrapolate, to predict based on data, to project
 konvergieren(verb) (Die Meinungen konvergieren in einem Punkt.) := to converge, to come together, to align
-<!--SR:!2024-11-20,4,366-->
+<!--SR:!2024-12-08,16,366-->
 divergieren(verb) (Die Ansichten der Experten divergieren stark.) := to diverge, to differ, to split
 synthetisieren(verb) (Die Studie synthetisiert die Ergebnisse mehrerer Forschungen.) := to synthesize, to integrate, to combine
 diffundieren(verb) (Das Wissen diffundiert langsam in die Gesellschaft.) := to diffuse, to spread gradually, to permeate
