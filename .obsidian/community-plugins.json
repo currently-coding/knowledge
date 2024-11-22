@@ -1,16 +1,12 @@
 [
   "obsidian-git",
   "obsidian-spaced-repetition",
-  "obsidian-hider",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "pdf-plus",
   "inline-math",
   "auto-displaystyle-inline-math",
-  "obsidian-latex-suite",
   "mathlinks",
-  "rendered-block-link-suggestions",
-  "math-in-callout",
-  "slash-commander",
-  "dataview"
+  "better-mathjax",
+  "quick-latex"
 ]
