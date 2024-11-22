@@ -1,0 +1,102 @@
+{
+  "confirmDeletion": false,
+  "showDescriptions": false,
+  "showSourcesForDuplicates": true,
+  "debug": false,
+  "mainTrigger": "/",
+  "extraTriggers": [],
+  "useExtraTriggers": false,
+  "triggerOnlyOnNewLine": true,
+  "queryPattern": {},
+  "bindings": [
+    {
+      "name": "table",
+      "id": "editor:insert-table",
+      "icon": "table-2",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "name": "quote",
+      "id": "editor:insert-callout",
+      "icon": "indent",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "name": "code",
+      "id": "editor:insert-codeblock",
+      "icon": "terminal",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "name": "math",
+      "id": "editor:insert-mathblock",
+      "icon": "percent",
+      "mode": "dbdacbdc713b4104",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "name": "embed",
+      "id": "editor:insert-embed",
+      "icon": "sticky-note",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "name": "attachment",
+      "id": "editor:attach-file",
+      "icon": "paperclip",
+      "mode": "desktop",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "name": "property",
+      "id": "markdown:add-metadata-property",
+      "icon": "plus-circle",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "name": "draw",
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+      "icon": "image",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "name": "Template",
+      "id": "templater-obsidian:insert-templater",
+      "icon": "book-copy",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "id": "editor:toggle-inline-math",
+      "icon": "lucide-sigma",
+      "name": "/m",
+      "mode": "any",
+      "chosen": false,
+      "selected": false
+    }
+  ]
+}
