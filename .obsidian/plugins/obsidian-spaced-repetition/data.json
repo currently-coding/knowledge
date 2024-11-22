@@ -1,10 +1,10 @@
 {
   "settings": {
     "flashcardTags": [
-      ""
+      "#flashcards"
     ],
     "convertFoldersToDecks": true,
-    "burySiblingCards": true,
+    "burySiblingCards": false,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
@@ -55,40 +55,6 @@
     "showParserDebugMessages": false
   },
   "buryDate": "",
-  "buryList": [
-    "1988436c9ccaa8",
-    "18919b05819fc",
-    "1358b7fe02b72",
-    "75e05e89be9e3",
-    "dd5f35013e112",
-    "13cfd7cbf6ef01",
-    "5f614290978a9",
-    "b2d0b75426bb5",
-    "1fc78435023f4c",
-    "5212d2f23c79f",
-    "18d7d72ca881f6",
-    "8cd4651c33bca",
-    "1415ccf30b6743",
-    "16146af81c467b",
-    "1d889615a62f55",
-    "1726b65a3894d5",
-    "10c5c04704b5b9",
-    "b902a8a790163",
-    "af5cd3272f5d6",
-    "1dca0303a70e65",
-    "13c63c332859c4",
-    "1ad89352d8b56",
-    "3c4d0f928529",
-    "1dc7bd25393cd2",
-    "192a8a61b1110a",
-    "da916ca831a2e",
-    "1928c39c4cf62b",
-    "1839182b1aa8c9",
-    "6f38ab64344e8",
-    "193b5f7b2df90d",
-    "1584a246efc594",
-    "2dda44ebbc32d",
-    "cbfff203fce26"
-  ],
+  "buryList": [],
   "historyDeck": null
 }
