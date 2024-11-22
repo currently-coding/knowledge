@@ -13,7 +13,7 @@ accidental(adjective) (He felt very sorry for the accidental mix-up., The news a
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
 <!--SR:!2025-03-19,118,290!2024-12-18,71,322-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
-<!--SR:!2025-04-18,160,310!2024-11-04,13,282-->
+<!--SR:!2025-04-18,160,310!2025-01-11,50,302-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
 <!--SR:!2025-01-19,89,299!2025-04-02,139,316-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
@@ -378,7 +378,7 @@ sigh(noun) () ::: Seufzer, Seufzen
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
 <!--SR:!2025-03-11,129,389!2025-02-09,105,387-->
 surveillance(noun) (The building is under surveillance., Satellites allow an exhaustive surveillance., The police have the suspect under surveillance.) ::: Überwachung, Aufsicht, Kontrolle
-<!--SR:!2025-03-29,135,387!2024-11-04,28,369-->
+<!--SR:!2025-03-29,135,387!2024-12-06,14,349-->
 restoration(noun) (The restoration of the old church took many years., Her job is the restoration of damaged artworks., The restoration of the castle took long, but it was worth it., The restoration of the castle took several years.) ::: Wiederherstellung, Restauration, Restaurierung
 <!--SR:!2025-01-24,92,385!2024-12-24,66,367-->
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
@@ -517,7 +517,7 @@ notable(adjective) (The designer was a notable figure in the fashion world., The
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt
 <!--SR:!2024-12-14,30,402!2024-11-07,5,383-->
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
-<!--SR:!2024-11-20,23,392!2024-12-04,25,403-->
+<!--SR:!2025-03-23,121,412!2024-12-04,25,403-->
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung
 <!--SR:!2024-11-06,4,363!2024-12-04,25,403-->
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
@@ -613,7 +613,7 @@ to assist(verb) (It's her job to assist the project manager., The pupil assisted
 relevance(noun) (I could not see the relevance of his argument., The solution of the problem is of the highest relevance.) ::: Relevanz, Bedeutung, Wichtigkeit
 <!--SR:!2024-12-01,29,391!2024-11-26,24,398-->
 obstacle(noun) (We can overcome any obstacle if we do not give up., Obstacles on the track can cause an obstruction., They have successfully overcome the last obstacle., If she wants to attend the class, the cost should not be an obstacle.) ::: Hindernis, Hürde, Hinderungsgrund
-<!--SR:!2024-11-08,6,382!2024-11-20,18,373-->
+<!--SR:!2024-12-22,30,402!2024-11-20,18,373-->
 ruling(noun) (The judge announced that she will issue a ruling tomorrow., The ruling applied to all companies, whether large or small.) ::: Entscheidung, Urteil, Regelung
 <!--SR:!2024-11-23,21,375!2024-11-17,3,363-->
 ruling(adjective) (The ruling party won the election again.) ::: regierend, herrschend, beherrschend
@@ -664,7 +664,7 @@ occupation(noun) (The judge asked the witness to state his name and occupation.,
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren
 <!--SR:!2024-12-01,17,382!2024-11-08,6,382-->
 fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur
-<!--SR:!2024-11-30,28,391!2024-11-05,3,355-->
+<!--SR:!2024-11-30,28,391!2024-12-06,14,375-->
 ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote
 <!--SR:!2024-11-26,24,397!2024-12-07,23,382-->
 to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of old remnants.) ::: weben, flechten, verweben
@@ -852,7 +852,7 @@ necessity(noun) (For many people, coffee is a necessity in the morning., He made
 opera(noun) (We met in front of the opera at eight.) ::: Oper
 <!--SR:!2024-11-26,6,386!2000-01-01,1,250-->
 divorce(noun) (The housekeeper leaked the information about the couple's divorce.) ::: Scheidung, Trennung, Ehescheidung
-<!--SR:!2024-11-14,5,384!2000-01-01,1,250-->
+<!--SR:!2024-12-17,25,404!2000-01-01,1,250-->
 to divorce(verb) () ::: sich scheiden
 <!--SR:!2024-11-20,6,385!2000-01-01,1,250-->
 torture(noun) (The aim of the institution is the global prohibition of torture.) ::: Folter, Folterung, Qual
@@ -880,7 +880,7 @@ triumph(noun) (My team's victory was a great triumph.) ::: Triumph, Sieg, Sieges
 <!--SR:!2000-01-01,1,250!2024-12-23,31,404-->
 hence(adverb) (The contract is signed, hence it is valid., These screws are more robust and hence last longer.) ::: daher, dadurch, deshalb 
 clip(noun) (I need a clip to hold the papers together.) ::: Klemme, Klammer, Schelle
-<!--SR:!2000-01-01,1,250!2024-11-15,1,346-->
+<!--SR:!2000-01-01,1,250!2024-11-27,5,366-->
 to clip(verb) (We should clip our hedge., He clips whole syllables when he talks quickly., He clipped the string with a pair of scissors., I clip my nails before they get too long.) ::: schneiden, verschlucken, abtrennen 
 replacement(noun) (We guarantee a free replacement of defective goods., I asked for the replacement of obsolete equipment., The company guarantees free replacement of defective goods., The replacement of broken parts is included in the warranty.) ::: Ersatz, Ersatzlieferung, Ersetzen
 <!--SR:!2000-01-01,1,250!2024-11-20,1,346-->
@@ -930,7 +930,7 @@ residue(noun) (My drink left a sticky residue in my glass.) ::: Rückstände, R�
 navigation(noun) (A compass is used for navigation and orientation., The mouse and keyboard are used for navigation.) ::: Navigation, Schifffahrt, Steuerung
 <!--SR:!2000-01-01,1,250!2024-11-14,5,383-->
 Navigation(noun) (Ein Kompass wird zur Navigation und Orientierung genutzt.) ::: navigation
-<!--SR:!2024-11-20,6,386!2000-01-01,1,250-->
+<!--SR:!2024-12-24,32,406!2000-01-01,1,250-->
 fever(noun) (I went to the doctor because I had a fever.) ::: Fieber, Fieberkrankheit, Fieberzustand
 <!--SR:!2024-11-25,6,386!2000-01-01,1,250-->
 to implement(verb) (The reforms will be implemented as soon as possible., The government implemented significant tax reforms., Companies implement new technologies to stay competitive., The company implemented the new store concept in two branches., I have implemented the changes.) ::: umsetzen, durchführen, einführen
@@ -970,7 +970,7 @@ raid(noun) (The police planned a raid on the suspect's home., The police found n
 to raid(verb) (Enemy troops tried to raid the city., My son is allowed to raid the fridge if he gets hungry., The robbers raided the local bank., The police raided the club in order to look for drugs.) ::: angreifen, plündern, überfallen 
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen 
 consequently(adverb) (I have worked a lot and consequently I need some rest., I played all my cards and consequently won the game.) ::: folglich, somit, dadurch
-<!--SR:!2024-11-15,6,383!2024-11-20,6,386-->
+<!--SR:!2024-11-15,6,383!2024-12-25,33,406-->
 consequent(adjective) () ::: folgerichtig, folgend, resultierend
 <!--SR:!2024-11-21,5,386!2024-11-21,1,346-->
 viable(adjective) (The project seems viable in the long run., The new regulations are perfectly viable.) ::: lebensfähig, durchführbar, umsetzbar 
@@ -1067,7 +1067,7 @@ Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inferen
 Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability, robustness
 Kausalität(noun) (Die Kausalität zwischen den Ereignissen muss überprüft werden.) := causality, cause-and-effect relationship
 Paradigmenwechsel(noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) := paradigm shift, fundamental change
-<!--SR:!2024-11-17,1,346-->
+<!--SR:!2024-11-27,5,366-->
 Kohärenz(noun) (Seine Argumentation besticht durch Kohärenz.) := coherence, consistency, logical flow
 Redundanz(noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) := redundancy, duplication, reliability-enhancing repetition
 <!--SR:!2024-11-23,4,366-->
