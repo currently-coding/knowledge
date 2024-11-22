@@ -3,7 +3,7 @@ abstract(adjective) (The artist is famous for his abstract paintings., Intellige
 abstract(noun) (I have to write an abstract for my dissertation.) ::: Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung
 <!--SR:!2024-12-04,61,310!2024-12-03,58,322-->
 to abstract(verb) (I will read the article and abstract the main ideas.) ::: trennen, abziehen, entnehmen
-<!--SR:!2024-12-17,55,270!2024-11-10,8,276-->
+<!--SR:!2024-12-17,55,270!2024-12-23,32,296-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2024-12-07,62,322!2024-12-13,68,310-->
 to accent(verb) ::: betonen, akzentuieren, hervorheben
@@ -1024,7 +1024,8 @@ to tolerate(verb) (The teacher does not tolerate disruptive noises.) ::: dulden,
 <!--SR:!2000-01-01,1,250!2024-11-22,6,386-->
 fundamentally(adverb) () ::: grundsätzlich, grundlegend, wesentlich
 <!--SR:!2000-01-01,1,250!2024-11-15,1,345-->
-fundamental(adjective) (We discussed some fundamental questions., Freedom is a fundamental right., Freedom of speech is a fundamental human right., Sympathy is a fundamental part of good relations.) ::: grundlegend, fundamental, grundsätzlich 
+fundamental(adjective) (We discussed some fundamental questions., Freedom is a fundamental right., Freedom of speech is a fundamental human right., Sympathy is a fundamental part of good relations.) ::: grundlegend, fundamental, grundsätzlich
+<!--SR:!2024-11-26,5,386!2000-01-01,1,250-->
 ## ChatGPT eloquent
 ### English - German
 elucidate(verb) (The professor took a moment to elucidate the theory., The article elucidates complex scientific concepts., She elucidated her reasons for the decision.) ::: erläutern, erklären, verdeutlichen
