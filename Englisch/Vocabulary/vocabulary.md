@@ -67,7 +67,7 @@ annual(adjective) (We are preparing our annual midsummer festival., The annual f
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) ::: verschmelzen, fusionieren, zusammenfügen
 <!--SR:!2024-11-26,53,321!2025-01-07,86,340-->
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) ::: Verschmelzung, Fusion, Zusammenschluss
-<!--SR:!2024-11-16,43,323!2024-12-12,64,321-->
+<!--SR:!2025-06-01,191,343!2024-12-12,64,321-->
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
 <!--SR:!2024-12-13,66,343!2024-12-17,68,321-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
@@ -223,7 +223,7 @@ versus(preposition) (Today's rugby match is England versus France.) ::: gegen, c
 versus(noun) () ::: Rückseite einer Münze
 <!--SR:!2024-12-12,59,356!2025-01-16,86,352-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
-<!--SR:!2024-11-18,42,333!2025-01-29,101,375-->
+<!--SR:!2025-06-02,192,353!2025-01-29,101,375-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 <!--SR:!2025-01-27,97,373!2024-11-29,15,315-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
@@ -462,7 +462,7 @@ exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat
 excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich
 <!--SR:!2024-12-14,28,403!2025-02-11,97,381-->
 to excruciate(verb) () ::: quälen
-<!--SR:!2024-11-11,19,382!2025-03-05,119,401-->
+<!--SR:!2025-03-03,101,402!2025-03-05,119,401-->
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
 <!--SR:!2025-03-14,120,405!2025-02-07,79,361-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
@@ -474,7 +474,7 @@ to strain(verb) (Working in the garden often strains the back., I always strain 
 creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: Kreativität, Schaffen, Schöpferkraft
 <!--SR:!2025-03-18,124,402!2024-11-05,22,381-->
 creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch
-<!--SR:!2024-11-20,29,381!2025-02-08,98,402-->
+<!--SR:!2025-04-20,149,401!2025-02-08,98,402-->
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
 <!--SR:!2024-11-26,20,383!2024-11-14,18,372-->
 to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun
@@ -493,15 +493,15 @@ slam(noun) () ::: Zuschlagen, Zuknallen, Aufschlagen
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
 <!--SR:!2024-12-12,28,402!2024-12-05,33,395-->
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
-<!--SR:!2024-11-22,20,376!2024-11-08,6,383-->
+<!--SR:!2024-11-22,20,376!2024-12-23,31,403-->
 reproduction(noun) (The reproduction of bootlegs is strictly prohibited.) ::: Vervielfältigung, Reproduktion, Wiedergabe
 <!--SR:!2024-12-13,27,351!2024-11-27,25,397-->
 cabin(noun) (The captain has a private cabin on the ship., My parents own a cabin in the mountains., The cabin has no heating, so it is only occupied in the summer., The ship's cabin was surprisingly spacious.) ::: Kabine, Hütte, Kajüte
 <!--SR:!2025-02-18,91,392!2024-12-13,29,401-->
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
-<!--SR:!2024-11-03,6,355!2024-12-13,29,382-->
+<!--SR:!2024-12-21,29,375!2024-12-13,29,382-->
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
-<!--SR:!2024-11-30,21,382!2024-11-15,23,385-->
+<!--SR:!2024-11-30,21,382!2025-03-22,120,405-->
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen
 <!--SR:!2024-11-30,16,363!2024-12-16,27,401-->
 victory(noun) (The new player led the team to victory., I will strive for victory.) ::: Sieg, Triumph
@@ -525,7 +525,7 @@ to disorder(verb) () ::: zerrütten, in Unordnung bringen
 revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The scientists' latest invention was revolutionary.) ::: revolutionär, bahnbrechend, umwälzend
 <!--SR:!2024-11-26,24,393!2024-12-08,29,403-->
 revolutionary(noun) (As a revolutionary, my grandmother fought against the government's policies.) ::: Revolutionär, Revolutionärin
-<!--SR:!2024-11-07,5,383!2024-11-08,6,382-->
+<!--SR:!2024-12-17,25,403!2024-11-08,6,382-->
 astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) ::: umwerfend, beeindruckend, überwältigend
 <!--SR:!2025-01-10,62,373!2024-12-14,30,401-->
 to astonish(verb) (The surprising discovery astonished the scientists., The young pianist astonished the audience with his talent.) ::: erstaunen, überraschen, verblüffen
@@ -662,7 +662,7 @@ to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, ü
 occupation(noun) (The judge asked the witness to state his name and occupation., The occupation of the town was over and there was peace., My skills allowed me to find a better occupation., The country declared independence after a long period of occupation., The new office building is ready for occupation.) ::: Beschäftigung, Beruf, Besetzung
 <!--SR:!2024-11-24,27,391!2024-12-05,33,395-->
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren
-<!--SR:!2024-12-01,17,382!2024-11-08,6,382-->
+<!--SR:!2024-12-01,17,382!2024-12-22,30,402-->
 fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur
 <!--SR:!2024-11-30,28,391!2024-12-06,14,375-->
 ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote
@@ -704,11 +704,11 @@ width(noun) (Width, length and height are equal in a cube., I asked for the leng
 reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig
 <!--SR:!2024-11-12,3,343!2024-11-26,4,317-->
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig
-<!--SR:!2024-11-15,1,322!2024-12-12,26,401-->
+<!--SR:!2024-11-26,4,342!2024-12-12,26,401-->
 analogously(adverb) () ::: analog, sinngemäß
 <!--SR:!2024-11-25,23,397!2024-12-02,30,395-->
 succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge
-<!--SR:!2024-11-07,5,382!2024-12-06,17,377-->
+<!--SR:!2024-12-18,26,402!2024-12-06,17,377-->
 to elbow(verb) (He elbowed his way through the crowd.) ::: drängen
 <!--SR:!2024-12-04,25,402!2024-12-19,35,402-->
 ownership(noun) (After payment, ownership passes on to the buyer., The city took ownership of the land.) ::: Eigentum, Besitz, Eigentumsrecht
@@ -918,7 +918,7 @@ specification(noun) (The technical specifications are listed in the manual., The
 to specify(verb) (The manager specified the deadline for applications., I specified all values in the contract., The contents are specified on the back of the package., I must specify the payee in the transaction form., The customer can specify the time of delivery.) ::: festlegen, angeben, bestimmen 
 standing(noun) (His standing in the community goes back to his social commitment., Their relationship is already of long standing., The company has a very good standing all over the world.) ::: Stand, Ansehen, Dauer 
 undergraduate(noun) () ::: Student
-<!--SR:!2000-01-01,1,250!2024-11-17,1,346-->
+<!--SR:!2000-01-01,1,250!2024-11-27,5,366-->
 to perceive(verb) (The discovery was perceived as a major breakthrough., Long-term trends are often difficult to perceive.) ::: wahrnehmen, erkennen, betrachten
 <!--SR:!2024-12-22,33,404!2024-11-25,5,386-->
 successor(noun) (The head of the company designated his successor today., The outgoing mayor congratulated his successor.) ::: Nachfolger, Nachfolgerin, Nachfolgemodell 
@@ -991,7 +991,7 @@ prosperity(noun) (His whole family lived in prosperity., I wished her luck and p
 fortunate(adjective) (The jackpot will be split between four fortunate winners.) ::: glücklich, günstig
 <!--SR:!2024-11-14,5,384!2000-01-01,1,250-->
 to testify(verb) (In court, witnesses must testify under oath., The defendant asked me to testify.) ::: bezeugen, aussagen, als Zeuge aussagen
-<!--SR:!2024-11-16,6,384!2024-11-22,6,385-->
+<!--SR:!2024-12-25,33,404!2024-11-22,6,385-->
 to testify to(verb) () ::: bezeugen, für zeugen
 <!--SR:!2000-01-01,1,250!2024-11-18,4,366-->
 to abound(verb) () ::: im Überfluss vorhanden sein, strotzen, reichlich vorhanden sein 
@@ -1019,7 +1019,7 @@ cloth(noun) (You can clean the surface with a cloth., The dye had colored the cl
 <!--SR:!2024-11-24,5,386!2000-01-01,1,250-->
 residential(adjective) () :::  
 to tolerate(verb) (The teacher does not tolerate disruptive noises.) ::: dulden, tolerieren, vertragen
-<!--SR:!2000-01-01,1,250!2024-11-22,6,386-->
+<!--SR:!2000-01-01,1,250!2024-12-24,32,406-->
 fundamentally(adverb) () ::: grundsätzlich, grundlegend, wesentlich
 <!--SR:!2000-01-01,1,250!2024-11-15,1,345-->
 fundamental(adjective) (We discussed some fundamental questions., Freedom is a fundamental right., Freedom of speech is a fundamental human right., Sympathy is a fundamental part of good relations.) ::: grundlegend, fundamental, grundsätzlich
@@ -1032,7 +1032,7 @@ meticulous(adjective) (The artist was meticulous in her attention to detail., Hi
 plethora(noun) (A plethora of options were available at the store., The library offers a plethora of resources., He has a plethora of interests and hobbies.) ::: Fülle, Überfluss, Vielzahl
 <!--SR:!2000-01-01,1,250!2024-11-26,6,386-->
 ephemeral(adjective) (The beauty of the sunset was ephemeral., The fame she enjoyed was fleeting and ephemeral., Childhood is often seen as ephemeral.) ::: vergänglich, kurzlebig, flüchtig
-<!--SR:!2024-11-20,1,346!2000-01-01,1,250-->
+<!--SR:!2024-11-23,1,326!2000-01-01,1,250-->
 ubiquitous(adjective) (Smartphones have become ubiquitous in modern society., The scent of coffee was ubiquitous in the café., The brand's logo was ubiquitous across the city.) ::: allgegenwärtig, überall, omnipräsent
 serendipity(noun) (They found each other by pure serendipity., The discovery was a case of scientific serendipity., Travel often brings unexpected serendipities.) ::: Glücksfall, Zufall, Schicksalsfügung
 idiosyncrasy(noun) (Her unique style is an idiosyncrasy of hers., He has an idiosyncrasy of tapping his pen while thinking., Each artist has their own idiosyncrasies.) ::: Eigenart, Besonderheit, Eigenheit
