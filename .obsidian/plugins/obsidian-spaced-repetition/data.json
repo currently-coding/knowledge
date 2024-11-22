@@ -1,9 +1,9 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards"
+      ""
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "burySiblingCards": true,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
@@ -55,6 +55,14 @@
     "showParserDebugMessages": false
   },
   "buryDate": "",
-  "buryList": [],
+  "buryList": [
+    "1988436c9ccaa8",
+    "18919b05819fc",
+    "1358b7fe02b72",
+    "75e05e89be9e3",
+    "dd5f35013e112",
+    "13cfd7cbf6ef01",
+    "5f614290978a9"
+  ],
   "historyDeck": null
 }

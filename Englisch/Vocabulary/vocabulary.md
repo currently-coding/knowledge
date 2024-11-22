@@ -547,7 +547,7 @@ mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, 
 regardless(adjective) () ::: ungeachtet, trotzdem
 <!--SR:!2025-01-30,77,373!2024-12-07,21,383-->
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen
-<!--SR:!2024-11-07,5,382!2024-11-08,6,382-->
+<!--SR:!2024-11-07,5,382!2024-12-23,31,402-->
 prospective(adjective) (The local industry is ready for prospective challenges., The local industry is prepared for prospective challenges., We are well prepared for prospective challenges., We are going to meet a prospective business partner.) ::: künftig, prospektiv, voraussichtlich
 <!--SR:!2024-11-30,28,395!2024-11-23,21,375-->
 comparable(adjective) (We can offer a comparable alternative.) ::: vergleichbar
@@ -583,7 +583,7 @@ regime(noun) (After the revolution, the country was run by a new regime., Revolu
 to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen
 <!--SR:!2024-11-25,11,357!2024-11-03,1,342-->
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug
-<!--SR:!2024-12-14,30,401!2024-11-07,5,383-->
+<!--SR:!2024-12-14,30,401!2024-12-19,27,403-->
 to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen
 <!--SR:!2024-11-18,16,355!2024-12-09,30,403-->
 intellectual(adjective) (The article remains intellectual property of the author.) ::: geistig, intellektuell, gedanklich
@@ -603,7 +603,7 @@ hook(noun) (He hung his coat on a hook by the door., There are some hooks on the
 to hook(verb) () ::: haken, anhaken, festhaken
 <!--SR:!2024-11-22,20,376!2024-11-19,17,333-->
 to fix(verb) (We fixed a date for the wedding., She took a brush and began to fix her hair., The hook was fixed to the wall., I fixed the cable with a clamp., He fixed my bike., He fixed the engine of his car himself., I have fixed an appointment with the mechanic., The bicycle mechanic fixed my bike.) ::: festlegen, richten, befestigen
-<!--SR:!2024-11-11,5,363!2000-01-01,1,250-->
+<!--SR:!2024-12-10,18,363!2000-01-01,1,250-->
 total(noun) (The company invested a total of ten million dollars.) ::: Total, Gesamtbetrag, Gesamtzahl
 <!--SR:!2024-12-09,25,403!2024-12-02,30,395-->
 total(adjective) (The total number of participants was 25., The course permits total immersion in the language.) ::: total, gesamt, völlig
@@ -621,9 +621,9 @@ ruling(adjective) (The ruling party won the election again.) ::: regierend, herr
 illusion(noun) (The magician was a master of deception and illusion.) ::: Illusion, Täuschung, Wahn
 <!--SR:!2024-11-08,6,383!2024-11-07,5,382-->
 ranking(noun) (My name was in third place in the ranking., The ranking of the candidates took several hours.) ::: Rangliste, Einstufung, Ranking
-<!--SR:!2024-11-19,5,362!2024-11-07,5,382-->
+<!--SR:!2024-12-18,26,382!2024-11-07,5,382-->
 to rank(verb) (She ranks among the best scientists in the world., The project manager ranked the offers according to price.) ::: einordnen
-<!--SR:!2024-11-10,14,353!2024-11-07,5,382-->
+<!--SR:!2024-11-10,14,353!2024-12-19,27,402-->
 invasion(noun) () ::: Invasion, Einmarsch, Überfall
 <!--SR:!2024-12-07,35,392!2024-11-28,26,397-->
 suspicious(adjective) (I heard suspicious noises in the attic., The investigator gave me a suspicious look.) ::: verdächtig, misstrauisch, argwöhnisch
@@ -643,7 +643,7 @@ firm(adjective) (The material is rigid and firm., Our company values trust as a 
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
 <!--SR:!2025-01-15,62,372!2024-11-07,5,383-->
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif
-<!--SR:!2024-12-08,29,403!2024-11-03,6,355-->
+<!--SR:!2024-12-08,29,403!2024-11-25,3,335-->
 determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung
 <!--SR:!2024-11-13,11,312!2024-11-13,4,362-->
 to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln
@@ -654,7 +654,7 @@ casual(adjective) (I wear casual clothes outside the office., This is an informa
 to insist(verb) (The woman did not give up and insisted on her rights.) ::: pochen, insistieren
 <!--SR:!2024-12-15,31,402!2024-12-04,25,401-->
 reflection(noun) (The article offers an interesting reflection on the current situation., She accepted the offer after a short reflection., The pond is so calm you can see your reflection., The reflection of the sunlight on the water is beautiful.) ::: Reflexion, Überlegung, Spiegelbild
-<!--SR:!2024-11-21,19,375!2024-11-08,6,382-->
+<!--SR:!2025-02-27,97,395!2024-11-08,6,382-->
 to forbid(verb) (The hotel management has forbidden smoking at the pool., The art gallery forbids flash photography.) ::: untersagen, verbieten, verhindern
 <!--SR:!2024-12-08,29,402!2024-11-26,24,397-->
 to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, überreden
@@ -841,7 +841,7 @@ to soar(verb) (After the start, the rocket soared straight into the sky., A falc
 to devote oneself to(verb) (The woman devoted herself to her scientific studies., The lawyer had devoted herself to fighting injustice.) ::: sich hingeben, sich verschreiben
 <!--SR:!2000-01-01,1,250!2024-11-22,1,326-->
 nursing(noun) () ::: Pflege, Krankenpflege, Stillen
-<!--SR:!2000-01-01,1,250!2024-11-10,1,344-->
+<!--SR:!2000-01-01,1,250!2024-11-23,1,324-->
 to nurse(verb) (He nursed the sick little kitten., I nursed an abandoned bird.) ::: pflegen, großziehen, kurieren 
 to convey(verb) (The film conveys an important message., The belt conveys the goods to the warehouse., A belt conveys the materials to the next work area., The pipeline conveys gas to the city.) ::: vermitteln, transportieren, fördern
 <!--SR:!2000-01-01,1,250!2024-11-10,1,343-->
@@ -904,7 +904,7 @@ robust(adjective) (Holz ist ein robustes Baumaterial., Das System ist robust und
 <!--SR:!2024-11-13,4,364!2024-11-26,6,386-->
 robust(adverb) () ::: robustly, sturdily, ruggedly 
 pulse(noun) (Beans and peas are types of pulses.) ::: Puls, Impuls, Hülsenfrucht
-<!--SR:!2000-01-01,1,250!2024-11-15,6,384-->
+<!--SR:!2000-01-01,1,250!2024-11-25,3,364-->
 to pulse(verb) (He felt the blood pulsing in his veins.) ::: pulsieren, pochen, pulsen
 <!--SR:!2024-11-21,5,386!2024-11-15,6,383-->
 Pulse(noun) () ::: pulses
@@ -1101,7 +1101,7 @@ synthetisieren(verb) (Die Studie synthetisiert die Ergebnisse mehrerer Forschung
 diffundieren(verb) (Das Wissen diffundiert langsam in die Gesellschaft.) := to diffuse, to spread gradually, to permeate
 modifizieren(verb) (Das Modell wurde modifiziert, um präziser zu sein.) := to modify, to adjust, to change
 korrelieren(verb) (Die Variablen korrelieren miteinander.) := to correlate, to show a relationship, to relate
-<!--SR:!2024-11-20,1,346-->
+<!--SR:!2024-11-25,3,346-->
 quantifizieren(verb) (Es ist schwierig, den Einfluss zu quantifizieren.) := to quantify, to measure, to assess numerically
 kontextualisieren(verb) (Die Ergebnisse müssen kontextualisiert werden.) := to contextualize, to put in context, to frame
 analysieren(verb) (Die Daten wurden gründlich analysiert.) := to analyze, to examine, to evaluate
