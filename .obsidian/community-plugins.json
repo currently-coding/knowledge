@@ -7,6 +7,7 @@
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "pdf-plus",
-  "cmdr",
-  "slash-commander"
+  "inline-math",
+  "auto-displaystyle-inline-math",
+  "obsidian-latex-suite"
 ]
