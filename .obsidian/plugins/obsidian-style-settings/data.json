@@ -102,6 +102,6 @@
   "Components@@new-tab-image-select": "new-tab-image-old",
   "Editor@@blockquote-background-dark": "body {     background: linear-gradient(135deg, #4a90e2, #50e3c2)     height: 100vh /* Full height */     margin: 0 /* Remove default margin */ }",
   "Editor@@callout-title-color@@dark": "#FABD2F",
-  "Editor@@callout-content-background@@dark": "#282828",
-  "Editor@@callout-content-radius": "5000"
+  "Editor@@callout-content-radius": "5000",
+  "Editor@@callout-content-background@@dark": "#28282800"
 }
