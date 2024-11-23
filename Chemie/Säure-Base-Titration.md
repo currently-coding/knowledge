@@ -34,5 +34,3 @@ $$
 $ges.: c(H_3Cit)$
 $c(H_3Cit)=\frac{1}{3}\cdot \frac{7,7mL \cdot 1,0 \frac{mol}{L}}{20mL}=$...
 
-
-![[Säure-Base-Titration]]
