@@ -21,7 +21,7 @@ $c(Säurelösung)=\frac{n(Säurelösung)}{V(Säurelösung)}$
 $n(Säurelösung) = a \cdot n(Base)$ - $a$ aus Reaktionsgleichung aus ablesen
 
 $$
-\Rightarrow c(x) = \frac{a \cdot V(Base)\cdot c(Base)}{V(Säurelösung)}
+\rightarrow c(x) = \frac{a \cdot v(base)\cdot c(base)}{v(säurelösung)}
 $$
 ## Beispiel
 - Bestimmen der Konzentration einer Citronensäurelösung
@@ -35,3 +35,4 @@ $ges.: c(H_3Cit)$
 $c(H_3Cit)=\frac{1}{3}\cdot \frac{7,7mL \cdot 1,0 \frac{mol}{L}}{20mL}=$...
 
 
+![[Säure-Base-Titration]]
