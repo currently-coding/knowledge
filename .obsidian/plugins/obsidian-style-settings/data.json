@@ -99,5 +99,6 @@
   "Editor@@text-align-justify": true,
   "Components@@anim-speed": 1,
   "Components@@new-tab-btn-select": "new-tab-text-btn-restore",
-  "Components@@new-tab-image-select": "new-tab-image-old"
+  "Components@@new-tab-image-select": "new-tab-image-old",
+  "Editor@@blockquote-background-dark": "#33333"
 }
