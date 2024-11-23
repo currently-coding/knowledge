@@ -15,6 +15,6 @@
 -> Toleranz
 ## Literatur
 - [[Lessing]]
-
+ 
 ## Gesellschaftssystem
 - [[Absolutismus]]
