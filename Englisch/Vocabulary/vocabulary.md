@@ -789,7 +789,7 @@ Demonstration(noun) (Aktivisten versammelten sich bei einer friedlichen Demonstr
 to evolve(verb) (In the past decades, China's economy has been evolving rapidly., In the past decades, China's economy has been evolving rapidly., The liquid evolves flammable fumes.) ::: sich entwickeln, entwickeln, abgeben 
 circuit(noun) (This electronic circuit contains several jumpers., The circuit is protected by the fuse., The electric circuit is protected by a fuse.) ::: Schaltung, Rennstrecke, Stromkreis 
 to circuit(verb) (The Earth circuits around the Sun., The small boat could not circuit the island because of the wind.) ::: kreisen, umschiffen, umfliegen
-<!--SR:!2024-11-15,1,345!2000-01-01,1,250-->
+<!--SR:!2024-11-27,5,365!2000-01-01,1,250-->
 scrutiny(noun) () ::: Prüfung, Überprüfung, Untersuchung
 <!--SR:!2000-01-01,1,250!2024-11-23,1,323-->
 seldom(adjective) () ::: selten 
@@ -961,7 +961,7 @@ great(adjective) () ::: fantastisch
 structural(adjective) (The structural changes had an appreciable impact on the employees.) ::: strukturell, baulich, bautechnisch
 <!--SR:!2024-11-18,4,270!2024-11-15,6,383-->
 to structure(verb) (It is important to structure an essay carefully., I structure my lessons according to the syllabus., It is important to structure an essay clearly.) ::: strukturieren, aufbauen, gliedern
-<!--SR:!2024-11-15,6,383!2024-11-26,5,386-->
+<!--SR:!2024-12-22,30,403!2024-11-26,5,386-->
 striking(adjective / present participle) (There is a striking resemblance between my brother and my father.) ::: streikend
 <!--SR:!2024-11-20,4,366!2000-01-01,1,250-->
 to strike(verb) (He convinced the fighters not to strike., He would never strike a person outside the boxing ring., The baseball bat struck the ball., In some countries civil servants are not allowed to strike., The pianist struck the keys like a virtuoso., His strange looks struck me immediately.) ::: zuschlagen, schlagen, treffen
