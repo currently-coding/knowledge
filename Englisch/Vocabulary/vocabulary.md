@@ -549,7 +549,7 @@ regardless(adjective) () ::: ungeachtet, trotzdem
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen
 <!--SR:!2024-11-07,5,382!2024-12-23,31,402-->
 prospective(adjective) (The local industry is ready for prospective challenges., The local industry is prepared for prospective challenges., We are well prepared for prospective challenges., We are going to meet a prospective business partner.) ::: künftig, prospektiv, voraussichtlich
-<!--SR:!2024-11-30,28,395!2024-11-23,21,375-->
+<!--SR:!2024-11-30,28,395!2025-03-10,107,395-->
 comparable(adjective) (We can offer a comparable alternative.) ::: vergleichbar
 <!--SR:!2024-12-04,32,392!2024-12-09,30,403-->
 random(adjective) (I had a random encounter with an old friend today., The selection of participants is completely random., The collage shows a random selection of photos., The magician called a random spectator to the stage.) ::: zufällig, willkürlich, stichprobenartig
@@ -737,7 +737,7 @@ to call for(verb) (The prosecution is calling for a conviction., Special situati
 sole(adjective) (The young prince was the king's sole heir., My father is the sole provider for our family.) ::: einzig, alleinig, ausschließlich 
 corporation(noun) (The businessman founded a corporation., The corporation has holdings of several other companies., My father works for a big international corporation., The corporation distributed dividends to its shareholders., The investors united to form a corporation., The board is planning the affiliation of two companies to the corporation.) ::: Gesellschaft, Unternehmen, Aktiengesellschaft 
 corporate(adjective) (The project involves a corporate responsibility of all team members., The company is a corporate member of the association.) ::: gemeinsam, körperschaftlich, korporativ
-<!--SR:!2024-11-17,1,346!2000-01-01,1,250-->
+<!--SR:!2024-11-24,1,326!2000-01-01,1,250-->
 questionnaire(noun) (The respondents filled in the questionnaire., I checked all the boxes on the questionnaire., The company sent a questionnaire to all employees.) ::: Fragebogen, Umfrage, Fragenkatalog
 <!--SR:!2000-01-01,1,250!2024-11-30,8,364-->
 surge(noun) (The surge in temperatures in the summer was not unexpected., The surge in demand was very beneficial for the company., An electrical surge damaged the computer., The minister's speech caused a surge of enthusiasm., We sat at the beach and listened to the surge.) ::: Anstieg, Überspannung, Welle
@@ -908,7 +908,7 @@ pulse(noun) (Beans and peas are types of pulses.) ::: Puls, Impuls, Hülsenfruch
 to pulse(verb) (He felt the blood pulsing in his veins.) ::: pulsieren, pochen, pulsen
 <!--SR:!2024-12-18,26,406!2024-11-15,6,383-->
 Pulse(noun) () ::: pulses
-<!--SR:!2024-11-22,1,346!2000-01-01,1,250-->
+<!--SR:!2024-11-28,5,366!2000-01-01,1,250-->
 seal(noun) (He checks the royal seal on the letter., The seals prevent water from entering., We saw some seals lying on the rocks in the sea., The seal popped up briefly, then vanished in the water., The lawyer added his seal and signature to the document.) ::: Siegel, Dichtung, Seehund
 <!--SR:!2000-01-01,1,250!2024-12-24,32,405-->
 to seal(verb) (I stamped and sealed the envelopes., I used adhesive tape to seal the box., If you notice leakage in a water pipe you must quickly seal it., I sealed the envelope before sending it., The surface can be sealed with varnish., They sealed the agreement with an oath.) ::: verschließen, abdichten, versiegeln
