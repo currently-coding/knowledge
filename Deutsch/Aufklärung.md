@@ -17,4 +17,4 @@
 - [[Lessing]]
 
 ## Gesellschaftssystem
-- [[Absolutismu]]
+- [[Absolutismus]]
