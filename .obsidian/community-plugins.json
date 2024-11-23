@@ -8,5 +8,7 @@
   "auto-displaystyle-inline-math",
   "mathlinks",
   "better-mathjax",
-  "quick-latex"
+  "quick-latex",
+  "math-in-callout",
+  "rendered-block-link-suggestions"
 ]
