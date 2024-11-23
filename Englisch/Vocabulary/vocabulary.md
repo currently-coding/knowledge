@@ -382,7 +382,7 @@ surveillance(noun) (The building is under surveillance., Satellites allow an exh
 restoration(noun) (The restoration of the old church took many years., Her job is the restoration of damaged artworks., The restoration of the castle took long, but it was worth it., The restoration of the castle took several years.) ::: Wiederherstellung, Restauration, Restaurierung
 <!--SR:!2025-01-24,92,385!2024-12-24,66,367-->
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
-<!--SR:!2024-11-23,40,349!2024-11-30,39,345-->
+<!--SR:!2025-06-04,193,369!2024-11-30,39,345-->
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
 <!--SR:!2025-03-03,100,348!2025-02-01,97,387-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
@@ -430,7 +430,7 @@ underlying(adjective) (The underlying theory made it easier to discuss the ideas
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
 <!--SR:!2025-01-16,85,388!2025-03-12,130,387-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
-<!--SR:!2024-11-07,31,369!2025-03-01,112,396-->
+<!--SR:!2025-04-29,157,389!2025-03-01,112,396-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2025-03-18,136,389!2025-02-09,105,387-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
@@ -478,7 +478,7 @@ creative(adjective) (I am an engineer, but I have a creative side., A book is th
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
 <!--SR:!2024-11-26,20,383!2025-02-23,92,392-->
 to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun
-<!--SR:!2025-01-17,62,373!2024-11-08,6,381-->
+<!--SR:!2025-01-17,62,373!2024-12-25,32,401-->
 to resume(verb) (After a short break, they resumed negotiations., She resumed her work after lunch.) ::: wieder aufnehmen, fortsetzen, wiederaufnehmen
 <!--SR:!2024-11-26,24,397!2024-12-04,25,401-->
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
@@ -519,7 +519,7 @@ segment(noun) (He divided the film into several segments., The director divided 
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
 <!--SR:!2025-03-23,121,412!2024-12-04,25,403-->
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung
-<!--SR:!2024-11-06,4,363!2024-12-04,25,403-->
+<!--SR:!2024-12-12,19,383!2024-12-04,25,403-->
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
 <!--SR:!2024-12-21,29,375!2024-11-20,6,361-->
 revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The scientists' latest invention was revolutionary.) ::: revolutionär, bahnbrechend, umwälzend
@@ -581,7 +581,7 @@ mechanical(adjective) (For precision work, suitable mechanical instruments are n
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
 <!--SR:!2025-02-21,91,395!2024-12-01,29,397-->
 to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen
-<!--SR:!2024-11-25,11,357!2024-11-23,1,322-->
+<!--SR:!2024-11-25,11,357!2024-11-27,4,342-->
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug
 <!--SR:!2024-12-14,30,401!2024-12-19,27,403-->
 to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen
@@ -678,7 +678,7 @@ worth(adjective) (My grandmother's earrings are worth a lot of money., The actor
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members.) ::: Bestimmung, Regelung, Bereitstellung
 <!--SR:!2024-11-19,3,322!2024-11-29,7,313-->
 to provide(verb) (A roof provides protection from rain., We provide sustainable transport solutions., The manual provides a description of the device., The article provided some useful background information.) ::: bieten, liefern, bereitstellen
-<!--SR:!2024-12-03,19,382!2024-11-22,1,303-->
+<!--SR:!2024-12-03,19,382!2024-11-27,4,323-->
 full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig
 <!--SR:!2024-12-11,25,402!2024-12-03,31,372-->
 jail(noun) (The man was in jail for theft.) ::: Gefängnis, Knast, Kerker
@@ -692,7 +692,7 @@ duration(noun) (The duration of the tests will not exceed two weeks., The durati
 upcoming(adjective) (The department is preparing for the upcoming inspection., They handed out flyers for the upcoming concert., We will need more staff for the upcoming event., The trainee talked to her mentor about the upcoming exam.) ::: anstehend, bevorstehend, kommend
 <!--SR:!2024-12-05,33,395!2024-12-10,18,382-->
 portion(noun) (I am not hungry, you can have my portion of cake., I divided the cake into four portions., He could not finish his double portion of cake., I cut the cake into six equal portions.) ::: Teil, Portion, Stück
-<!--SR:!2024-11-13,4,363!2024-12-04,25,401-->
+<!--SR:!2024-12-13,20,383!2024-12-04,25,401-->
 to portion(verb) () ::: teilen, zuteilen, aufteilen
 <!--SR:!2024-12-11,25,403!2024-12-01,15,355-->
 secular(adjective) (A secular state does not have any official religion.) ::: säkular, weltlich, laizistisch
@@ -760,7 +760,7 @@ publicity(noun) (The publicity for the new book attracted many readers., My comp
 <!--SR:!2024-11-15,1,346!2024-11-15,6,383-->
 validity(noun) (The results confirm the validity of the assumption., The validity of his arguments is unquestionable.) ::: Gültigkeit, Richtigkeit, Aussagekraft 
 likewise(adverb) (Everybody started dancing, so I did likewise., Your brother is studying hard and you should do likewise.) ::: ebenfalls, gleichfalls, ebenso
-<!--SR:!2000-01-01,1,250!2024-11-20,1,284-->
+<!--SR:!2000-01-01,1,250!2024-11-27,4,304-->
 leap(noun) (The cat made a leap over the fence., All of her friends watched her daring leap off the tree.) ::: Sprung, Satz, Entwicklungssprung
 to leap(verb) (The child leaped over the puddle., The horse leaped over the hurdle.) ::: hüpfen, springen, überspringen 
 henceforth(adverb) (The new provision shall henceforth apply to all members., Henceforth, the new provision applies to all members.) ::: künftig, fortan, im Folgenden 
@@ -940,12 +940,12 @@ implement(noun) (The gardener uses a wide set of implements., The carpenter uses
 saint(noun) () ::: Heilige, Heiliger
 <!--SR:!2024-12-08,24,404!2024-11-19,5,386-->
 saint(adjective) () ::: heilig
-<!--SR:!2000-01-01,1,250!2024-11-23,4,364-->
+<!--SR:!2000-01-01,1,250!2024-12-12,19,384-->
 rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn 
 to rail(verb) (She railed at the car drivers who tried to overtake her.) ::: schimpfen, wettern, fluchen 
 placement(noun) (The placement of products on the shelf affects sales., The company arranges my placement during the business trip.) ::: Platzierung, Vermittlung, Unterbringung 
 rally(noun) (The driver that wins the rally receives a trophy., The candidate held a rally in front of the town hall., The demonstrators held a rally near the station.) ::: Rallye, Kundgebung, Zusammenkunft
-<!--SR:!2024-11-15,1,323!2000-01-01,1,250-->
+<!--SR:!2024-11-27,4,343!2000-01-01,1,250-->
 to rally(verb) (The country rallied quickly after the economic crisis., Thousands of people rallied for the demonstration.) ::: sich erholen, sich versammeln, um sich scharen 
 respective(adjective) (The dogs ran back to their respective owners., You can follow the lecture on the respective pages in the textbook.) ::: jeweilig, betreffend, einschlägig 
 forecast(noun) (According to the forecast, it's going to be cloudy tomorrow., The forecast was positive, so I invested some money.) ::: Vorhersage, Prognose, Voraussage
