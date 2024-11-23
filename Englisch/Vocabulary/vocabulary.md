@@ -529,7 +529,7 @@ revolutionary(noun) (As a revolutionary, my grandmother fought against the gover
 astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) ::: umwerfend, beeindruckend, überwältigend
 <!--SR:!2025-01-10,62,373!2024-12-14,30,401-->
 to astonish(verb) (The surprising discovery astonished the scientists., The young pianist astonished the audience with his talent.) ::: erstaunen, überraschen, verblüffen
-<!--SR:!2024-11-07,5,382!2024-11-07,5,381-->
+<!--SR:!2024-11-07,5,382!2024-12-20,27,401-->
 to generate(verb) (The batteries generate power for the radio., I can generate a query for the database., The company generates high profits., The company had generated sufficient retained earnings.) ::: generieren, erzeugen, erstellen
 <!--SR:!2024-12-08,29,402!2024-12-09,25,402-->
 to renew(verb) (I renewed my newspaper subscription., A good polish renews the shine of the wood.) ::: erneuern, verlängern, auffrischen
@@ -575,7 +575,7 @@ dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, 
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2024-11-30,8,355!2024-12-17,28,403-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
-<!--SR:!2024-11-27,21,383!2024-11-06,4,363-->
+<!--SR:!2024-11-27,21,383!2024-12-07,14,363-->
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
 <!--SR:!2024-12-17,33,403!2024-12-04,32,395-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
@@ -619,7 +619,7 @@ ruling(noun) (The judge announced that she will issue a ruling tomorrow., The ru
 ruling(adjective) (The ruling party won the election again.) ::: regierend, herrschend, beherrschend
 <!--SR:!2024-12-05,33,392!2024-12-19,27,402-->
 illusion(noun) (The magician was a master of deception and illusion.) ::: Illusion, Täuschung, Wahn
-<!--SR:!2024-11-08,6,383!2024-11-07,5,382-->
+<!--SR:!2024-12-24,31,403!2024-11-07,5,382-->
 ranking(noun) (My name was in third place in the ranking., The ranking of the candidates took several hours.) ::: Rangliste, Einstufung, Ranking
 <!--SR:!2024-12-18,26,382!2024-11-07,5,382-->
 to rank(verb) (She ranks among the best scientists in the world., The project manager ranked the offers according to price.) ::: einordnen
@@ -914,7 +914,7 @@ seal(noun) (He checks the royal seal on the letter., The seals prevent water fro
 to seal(verb) (I stamped and sealed the envelopes., I used adhesive tape to seal the box., If you notice leakage in a water pipe you must quickly seal it., I sealed the envelope before sending it., The surface can be sealed with varnish., They sealed the agreement with an oath.) ::: verschließen, abdichten, versiegeln
 <!--SR:!2024-12-13,20,383!2000-01-01,1,250-->
 specification(noun) (The technical specifications are listed in the manual., The specifications listed in the manual are quite confusing., The specifications of the project are detailed in the report., I assembled the table according to the specification., The specifications of the project are clear and precise.) ::: Spezifikation, Angabe, Festlegung
-<!--SR:!2024-12-15,29,403!2024-11-15,6,384-->
+<!--SR:!2024-12-15,29,403!2024-12-26,33,404-->
 to specify(verb) (The manager specified the deadline for applications., I specified all values in the contract., The contents are specified on the back of the package., I must specify the payee in the transaction form., The customer can specify the time of delivery.) ::: festlegen, angeben, bestimmen 
 standing(noun) (His standing in the community goes back to his social commitment., Their relationship is already of long standing., The company has a very good standing all over the world.) ::: Stand, Ansehen, Dauer 
 undergraduate(noun) () ::: Student
@@ -951,7 +951,7 @@ respective(adjective) (The dogs ran back to their respective owners., You can fo
 forecast(noun) (According to the forecast, it's going to be cloudy tomorrow., The forecast was positive, so I invested some money.) ::: Vorhersage, Prognose, Voraussage
 <!--SR:!2024-11-18,4,366!2024-11-27,5,366-->
 to forecast(verb) (Experts forecast an increase in energy demand., The met office is forecasting rain for this weekend., The meteorologists forecast rain this weekend.) ::: prognostizieren, vorhersagen, voraussagen
-<!--SR:!2024-11-15,6,383!2000-01-01,1,250-->
+<!--SR:!2024-12-25,32,403!2000-01-01,1,250-->
 controversy(noun) () ::: Kontroverse, Auseinandersetzung, Streitigkeit
 <!--SR:!2024-12-06,20,383!2024-12-19,27,403-->
 greatly(adverb) (I greatly admire this painter., The merger had greatly increased the company's goodwill.) ::: stark, sehr, erheblich 
@@ -1052,7 +1052,7 @@ ineffable(adjective) (The beauty of the mountains was ineffable., The feeling of
 halcyon(adjective) (She looked back on the halcyon days of her youth., The halcyon weather was perfect for a picnic., They longed for the halcyon times of peace.) ::: friedlich, glücklich, idyllisch
 sagacious(adjective) (He gave a sagacious answer to the question., The leader was known for his sagacious decisions., Her sagacious insight was appreciated.) ::: weise, klug, scharfsinnig
 luminous(adjective) (The painting had luminous colors., Her smile was luminous., The city skyline was luminous at night.) ::: leuchtend, strahlend, hell
-<!--SR:!2024-11-20,4,366!2000-01-01,1,250-->
+<!--SR:!2024-12-13,20,386!2000-01-01,1,250-->
 labyrinthine(adjective) (The castle had a labyrinthine structure., His argument was labyrinthine and complex., They got lost in the labyrinthine streets.) ::: verworren, labyrinthartig, verschlungen
 ostensibly(adverb) (She went ostensibly to help, but was curious., The deal was ostensibly beneficial for all., He left ostensibly for work, but had other plans.) ::: angeblich, scheinbar, vorgeblich
 perennially(adverb) (She is perennially optimistic., The issue is perennially discussed in meetings., The flowers bloom perennially.) ::: beständig, unaufhörlich, ewig
@@ -1061,7 +1061,7 @@ circumspectly(adverb) (He approached the matter circumspectly., She circumspectl
 ### German - English
 Zweckmäßigkeit(noun) (Die Zweckmäßigkeit dieser Methode ist fragwürdig.) := expediency, appropriateness, practicality
 Evidenz(noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) := evidence, clarity, self-evidence
-<!--SR:!2024-11-23,4,366-->
+<!--SR:!2024-11-25,2,346-->
 Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambivalence, duality, mixed feelings
 Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inference, deduction, conclusion
 Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability, robustness
@@ -1070,7 +1070,7 @@ Paradigmenwechsel(noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) 
 <!--SR:!2024-11-27,5,366-->
 Kohärenz(noun) (Seine Argumentation besticht durch Kohärenz.) := coherence, consistency, logical flow
 Redundanz(noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) := redundancy, duplication, reliability-enhancing repetition
-<!--SR:!2024-11-23,4,366-->
+<!--SR:!2024-12-08,15,366-->
 Prämisse(noun) (Die Prämisse der Theorie ist umstritten.) := premise, assumption, foundational idea
 Axiom(noun) (Das Axiom bildet die Grundlage der Berechnungen.) := axiom, self-evident truth, unproven principle
 Substanz(noun) (Die Substanz seiner Argumente ist überzeugend.) := substance, core, fundamental value
