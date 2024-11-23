@@ -13,6 +13,7 @@ aliases:
 ## Berechnung
 $geg. $
 $ges. c(Säurelösung), V(Base), V(Säurelösung)$
+>[!Formeln]
 >$c(x) = \frac{n(x)}{V(x)}$
 >$n(x)=\frac{m(x)}{M(x)}$
 
