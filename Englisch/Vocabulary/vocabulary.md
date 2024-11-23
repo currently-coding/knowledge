@@ -858,7 +858,7 @@ to divorce(verb) () ::: sich scheiden
 torture(noun) (The aim of the institution is the global prohibition of torture.) ::: Folter, Folterung, Qual
 <!--SR:!2024-12-25,33,406!2024-11-21,5,386-->
 to torture(verb) () ::: martern, quälen, foltern
-<!--SR:!2024-11-15,6,384!2000-01-01,1,250-->
+<!--SR:!2024-12-26,33,404!2000-01-01,1,250-->
 gorgeous(adjective) (The landscape in this country is just gorgeous., From the hill we had a gorgeous view at the sea.) ::: wunderschön, großartig, herrlich 
 coincidence(noun) (It was pure coincidence that they were in the same city that day.) ::: Zufall, Zusammentreffen, Koinzidenz
 <!--SR:!2024-12-23,31,403!2000-01-01,1,250-->
