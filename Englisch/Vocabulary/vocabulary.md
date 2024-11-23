@@ -51,7 +51,7 @@ aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützun
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
 <!--SR:!2024-12-19,71,341!2025-05-13,175,322-->
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
-<!--SR:!2024-11-23,50,302!2024-12-02,57,316-->
+<!--SR:!2025-06-20,209,322!2024-12-02,57,316-->
 alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längsseits
 <!--SR:!2025-01-21,91,302!2024-12-11,63,337-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) ::: insgesamt, im Ganzen, alles in allem
@@ -561,7 +561,7 @@ to predict(verb) (The weather forecast predicts sunshine for the weekend., Exper
 rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung
 <!--SR:!2024-11-28,26,396!2024-12-25,32,402-->
 to rot(verb) (Organic substances rot after a while., The fruit was no longer fresh and started to rot.) ::: verrotten, faulen, verfaulen
-<!--SR:!2024-11-23,17,381!2024-11-07,5,382-->
+<!--SR:!2025-01-29,67,381!2024-11-07,5,382-->
 modest(adjective) (He contented himself with a modest dinner.) ::: bescheiden, schlicht, dezent
 <!--SR:!2024-11-07,1,275!2024-12-23,30,402-->
 venture(noun) (The company invests in various ventures., I saved money to invest in a new venture.) ::: Unternehmen, Unternehmung, Projekt
@@ -637,7 +637,7 @@ to spare(verb) (Luckily, the butcher spared me a detailed description of his wor
 spare(adjective) (There are still a few spare seats on the plane., I gave my spare money to my sister because I did not need it.) ::: frei, übrig, sparsam
 <!--SR:!2024-11-21,24,392!2024-12-22,30,402-->
 firm(noun) (My brother runs a successful firm., The firm was taken over by a large group.) ::: Firma, Unternehmen, Betrieb
-<!--SR:!2024-12-01,29,395!2024-11-08,6,383-->
+<!--SR:!2024-12-01,29,395!2024-12-23,30,403-->
 firm(adjective) (The material is rigid and firm., Our company values trust as a firm basis for business., He is firm with his children.) ::: fest, solide, streng
 <!--SR:!2025-01-05,52,352!2024-12-06,34,395-->
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
@@ -725,7 +725,7 @@ sword(noun) (The point of the sword is very sharp., He put his sword back into i
 Hunger(noun) (Nach dem großen Essen war mein Hunger gestillt.) ::: hunger, famine, starvation
 <!--SR:!2024-12-06,14,364!2000-01-01,1,250-->
 particularly(adverb) (She particularly likes yellow roses., In the third movement of the symphony, the violin was particularly beautiful., Particularly successful employees receive a bonus., My girlfriend likes roses, particularly yellow ones.) ::: insbesondere, besonders, vor allem
-<!--SR:!2024-11-17,1,346!2000-01-01,1,250-->
+<!--SR:!2024-11-28,5,366!2000-01-01,1,250-->
 particular(adjective) (I passed the exam without any particular difficulties., I pay very particular attention to grammar mistakes., In this particular election, only members of the council are eligible., The software is aimed at a particular bracket of users., My aunt is very particular about films.) ::: besondere, besonderer, speziell 
 thread(noun) (Users can discuss suggestions in a thread., She used dark blue thread for the embroidery., The thread on the screw is worn down.) ::: Thread, Faden, Gewinde
 <!--SR:!2000-01-01,1,250!2024-12-18,26,406-->
