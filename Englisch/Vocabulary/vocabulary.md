@@ -833,7 +833,7 @@ sensitivity(noun) (The training helps to develop sensitivity for other cultures.
 <!--SR:!2024-11-24,5,366!2024-12-11,25,404-->
 sensitive(adjective) (This cream can also be used on sensitive skin., Sensitive skin needs special care., Baby skin is very sensitive to chemicals., Sensitive issues are difficult to discuss., Nurses should be both competent and sensitive., My skin is very sensitive.) ::: sensibel, empfindlich, heikel 
 to stun(verb) (Some fish use electricity to stun their prey.) ::: betäuben, verblüffen
-<!--SR:!2000-01-01,1,250!2024-11-20,1,346-->
+<!--SR:!2000-01-01,1,250!2024-11-24,1,326-->
 elementary(adjective) (The beginner's course teaches elementary skills., A secure job was of elementary importance for him.) ::: elementar, grundlegend, wesentlich
 <!--SR:!2000-01-01,1,250!2024-12-11,18,386-->
 to soar(verb) (After the start, the rocket soared straight into the sky., A falcon was soaring above the forest., The value of the shares soared temporarily.) ::: steigen, segeln, hochschnellen
@@ -959,7 +959,7 @@ great(adjective) (The job requires a great sense of responsibility., The king ru
 <!--SR:!2024-12-12,20,386!2000-01-01,1,250-->
 great(adjective) () ::: fantastisch 
 structural(adjective) (The structural changes had an appreciable impact on the employees.) ::: strukturell, baulich, bautechnisch
-<!--SR:!2024-11-18,4,270!2024-11-15,6,383-->
+<!--SR:!2024-12-08,15,290!2024-11-15,6,383-->
 to structure(verb) (It is important to structure an essay carefully., I structure my lessons according to the syllabus., It is important to structure an essay clearly.) ::: strukturieren, aufbauen, gliedern
 <!--SR:!2024-12-22,30,403!2024-11-26,5,386-->
 striking(adjective / present participle) (There is a striking resemblance between my brother and my father.) ::: streikend
