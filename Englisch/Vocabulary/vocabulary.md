@@ -835,7 +835,7 @@ sensitive(adjective) (This cream can also be used on sensitive skin., Sensitive 
 to stun(verb) (Some fish use electricity to stun their prey.) ::: betäuben, verblüffen
 <!--SR:!2000-01-01,1,250!2024-11-20,1,346-->
 elementary(adjective) (The beginner's course teaches elementary skills., A secure job was of elementary importance for him.) ::: elementar, grundlegend, wesentlich
-<!--SR:!2000-01-01,1,250!2024-11-19,5,386-->
+<!--SR:!2000-01-01,1,250!2024-12-11,18,386-->
 to soar(verb) (After the start, the rocket soared straight into the sky., A falcon was soaring above the forest., The value of the shares soared temporarily.) ::: steigen, segeln, hochschnellen
 <!--SR:!2000-01-01,1,250!2024-12-23,31,405-->
 to devote oneself to(verb) (The woman devoted herself to her scientific studies., The lawyer had devoted herself to fighting injustice.) ::: sich hingeben, sich verschreiben
@@ -923,7 +923,7 @@ to perceive(verb) (The discovery was perceived as a major breakthrough., Long-te
 <!--SR:!2024-12-22,33,404!2024-11-25,5,386-->
 successor(noun) (The head of the company designated his successor today., The outgoing mayor congratulated his successor.) ::: Nachfolger, Nachfolgerin, Nachfolgemodell 
 whip(noun) (The driver cracked the whip and the horses ran faster., The party promoted her to whip.) ::: Peitsche, Fraktionsvorsitzende, Gerte
-<!--SR:!2000-01-01,1,250!2024-11-10,1,344-->
+<!--SR:!2000-01-01,1,250!2024-11-28,5,364-->
 to whip(verb) (The wind whipped the rain into her face., I whipped the cream until it was stiff., In the Middle Ages it was common to whip criminal offenders., The pupils whipped into the classroom when they saw their teacher.) ::: peitschen, schlagen, auspeitschen 
 residue(noun) (My drink left a sticky residue in my glass.) ::: Rückstände, Rückstand, Rest
 <!--SR:!2024-12-19,27,404!2000-01-01,1,250-->
