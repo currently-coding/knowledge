@@ -6,5 +6,7 @@
   "pdf-plus",
   "obsidian-relative-line-numbers",
   "number-headings-obsidian",
-  "leader-hotkeys-obsidian"
+  "leader-hotkeys-obsidian",
+  "quick-latex",
+  "inline-math"
 ]
