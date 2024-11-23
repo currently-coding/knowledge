@@ -4,11 +4,7 @@
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "pdf-plus",
-  "inline-math",
-  "auto-displaystyle-inline-math",
-  "mathlinks",
-  "better-mathjax",
-  "quick-latex",
-  "math-in-callout",
-  "rendered-block-link-suggestions"
+  "obsidian-relative-line-numbers",
+  "number-headings-obsidian",
+  "leader-hotkeys-obsidian"
 ]
