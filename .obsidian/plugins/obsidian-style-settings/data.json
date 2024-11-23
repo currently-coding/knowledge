@@ -100,5 +100,7 @@
   "Components@@anim-speed": 1,
   "Components@@new-tab-btn-select": "new-tab-text-btn-restore",
   "Components@@new-tab-image-select": "new-tab-image-old",
-  "Editor@@blockquote-background-dark": "#33333"
+  "Editor@@blockquote-background-dark": "body {     background: linear-gradient(135deg, #4a90e2, #50e3c2)     height: 100vh /* Full height */     margin: 0 /* Remove default margin */ }",
+  "Editor@@callout-title-color@@dark": "#FF9B00",
+  "Editor@@callout-content-background@@dark": "#6D6D6D"
 }
