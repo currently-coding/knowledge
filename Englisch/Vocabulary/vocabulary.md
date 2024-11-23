@@ -307,7 +307,7 @@ compound(adjective) (The lesson was about compound adjectives.) ::: zusammengese
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 <!--SR:!2024-12-18,65,359!2025-01-28,93,388-->
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
-<!--SR:!2024-11-05,29,367!2024-12-31,70,339-->
+<!--SR:!2025-04-19,147,387!2024-12-31,70,339-->
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
 <!--SR:!2025-01-26,95,379!2025-03-24,140,387-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
