@@ -23,3 +23,4 @@ Die Relevanz der Exkursion wird als sehr niedrig eingestuft. Der Punkt wird demn
 Die Gruppe wählt einstimmig Leander.
 
 ## Zu TOP 3
+Der erarbeitete Plan(siehe Ende) wird vom frisch gekuertem Teamleiter Leander vorgestellt.
