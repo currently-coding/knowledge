@@ -15,3 +15,11 @@ Abwesend: Keiner
 4. Formulieren konkreter Ziele für die nächsten Wochen
 5. Vorbereiten des ersten Versuchs
 
+
+## Zu TOP 1
+Die Relevanz der Exkursion wird als sehr niedrig eingestuft. Der Punkt wird demnach übersprungen.
+
+## Zu TOP 2
+Die Gruppe wählt einstimmig Leander.
+
+## Zu TOP 3
