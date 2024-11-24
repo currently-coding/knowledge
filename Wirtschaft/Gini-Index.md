@@ -1,7 +1,7 @@
 ## Funktion
 >[!Definition]
 >Gini-Index/Koeffizient := Gibt den Grad der Ungleichheit der Einkommensverteilung in z.B. einem Land nach dem häuslichen Pro-Kopf-Einkommen an
-<!--SR:!2024-11-16,14,290-->
+<!--SR:!2025-01-21,58,310-->
 
 ### Berechnung
 ![[Pasted image 20241018142013.png]]

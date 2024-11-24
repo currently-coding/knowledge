@@ -15,7 +15,7 @@ n, t: Go to Upper Window  := \<C-k>
 n, t: Go to Right Window  := \<C-l>
 <!--SR:!2024-09-24,13,287-->
 n: Increase Window Height  := \<C-Up>
-<!--SR:!2024-09-27,14,290-->
+<!--SR:!2025-01-05,42,290-->
 n: Decrease Window Height  := \<C-Down>
 <!--SR:!2025-01-15,74,290-->
 n: Decrease Window Width  := \<C-Left>
@@ -43,7 +43,7 @@ i, n: Escape and Clear hlsearch  := \<esc>
 n: Redraw / Clear hlsearch / Diff Update  := \<leader>ur
 <!--SR:!2024-11-06,4,209-->
 n, x, o: Next Search Result  :=  n
-<!--SR:!2024-10-29,51,308-->
+<!--SR:!2025-06-29,217,328-->
 n, x, o: Prev Search Result  :=  N
 <!--SR:!2024-11-11,47,309-->
 i, x, n, s: Save File  := \<C-s>
@@ -53,7 +53,7 @@ n: Keywordprg  := \<leader>K
 n: Add Comment Below  :=  gco
 <!--SR:!2024-11-15,50,309-->
 n: Add Comment Above  :=  gcO
-<!--SR:!2024-11-10,46,309-->
+<!--SR:!2025-06-09,197,329-->
 n: Lazy  := \<leader>l
 <!--SR:!2024-12-07,35,289-->
 n: New File  := \<leader>fn
@@ -61,7 +61,7 @@ n: New File  := \<leader>fn
 n: Location List  := \<leader>xl
 <!--SR:!2024-09-26,11,246-->
 n: Quickfix List  := \<leader>xq
-<!--SR:!2024-11-03,1,169-->
+<!--SR:!2024-11-26,2,169-->
 n: Previous Quickfix  :=  [q
 <!--SR:!2024-11-01,38,309-->
 n: Next Quickfix  :=  ]q
