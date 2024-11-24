@@ -472,7 +472,7 @@ strain(noun) (His new job put a strain on their marriage., The system collapsed 
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
 <!--SR:!2025-03-18,124,401!2025-04-24,153,402-->
 creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: Kreativität, Schaffen, Schöpferkraft
-<!--SR:!2025-03-18,124,402!2024-11-05,22,381-->
+<!--SR:!2025-03-18,124,402!2025-03-21,117,401-->
 creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch
 <!--SR:!2025-04-20,149,401!2025-02-08,98,402-->
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
@@ -585,7 +585,7 @@ to puzzle(verb) (The research results puzzled the scientists., My colleague's st
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug
 <!--SR:!2024-12-14,30,401!2024-12-19,27,403-->
 to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen
-<!--SR:!2024-11-18,16,355!2024-12-09,30,403-->
+<!--SR:!2025-02-11,79,375!2024-12-09,30,403-->
 intellectual(adjective) (The article remains intellectual property of the author.) ::: geistig, intellektuell, gedanklich
 <!--SR:!2024-12-07,28,401!2024-12-09,25,402-->
 intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
@@ -1042,7 +1042,7 @@ quintessential(adjective) (She is the quintessential example of grace., The book
 <!--SR:!2000-01-01,1,250!2024-11-23,1,326-->
 paradigm(noun) (The model shifted the paradigm in economics., She introduced a new paradigm in her research., The paradigm of traditional teaching is changing.) ::: Paradigma, Muster, Modell
 galvanize(verb) (The speech galvanized the crowd into action., His passion galvanized the team., The event galvanized support for the cause.) ::: motivieren, antreiben, wachrütteln
-<!--SR:!2024-11-24,1,326!2024-11-26,5,386-->
+<!--SR:!2024-11-28,4,346!2024-11-26,5,386-->
 obfuscate(verb) (The instructions obfuscate rather than clarify., Some politicians obfuscate their intentions., His statement was meant to obfuscate the truth.) ::: verschleiern, vernebeln, verwirren
 ruminate(verb) (He ruminated over the choices he had., She likes to ruminate on philosophical questions., The decision required her to ruminate deeply.) ::: grübeln, nachdenken, sinnieren
 burgeon(verb) (The city's population began to burgeon., Her creativity burgeoned in the new environment., The company is beginning to burgeon.) ::: gedeihen, aufblühen, florieren
