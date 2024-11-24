@@ -23,4 +23,4 @@ Die Relevanz der Exkursion wird als sehr niedrig eingestuft. Der Punkt wird demn
 Die Gruppe wählt einstimmig Leander.
 
 ## Zu TOP 3
-Der erarbeitete Plan(siehe Ende) wird vom frisch gekürtem Teamleiter Leander vorgestellt. Dabei wird hervorgehoben, dass der erste Termin etwas später angesetzt wird, um die benötigte Einarbeitungszeit miteinzubeziehen. Außerdem ist der Tag der offenen Tür zwischen zwei Videos eingeplant.
+Der erarbeitete Plan(siehe Ende) wird vom frisch gekürtem Teamleiter Leander vorgestellt. Dabei wird hervorgehoben, dass der erste Termin etwas später angesetzt wird, um die benötigte Einarbeitungszeit miteinzubeziehen. Außerdem ist der Tag der offenen Tür zwischen zwei Videos eingeplant. Waehrend der Vorstellung wirft Mykyta ein, dass er davon ausging, dass die Station nicht mehr geplant ist, woraufhin diese neu durchdacht wird mit dem Ergebnis, dass die Station eine spontane, nicht-regelmaessige Vorstellung w
