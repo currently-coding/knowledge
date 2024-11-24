@@ -12,4 +12,6 @@ Abwesend: Keiner
 1. Überlegungen hinsichtlich Exkursion zu Uni/Firma
 2. Wahl des Projektleiters
 3. Informieren der betreuenden Lehrkraft über Fortschritt des letzten Treffens
-4. Formulieren konkreter Ziele 
+4. Formulieren konkreter Ziele für die nächsten Wochen
+5. Vorbereiten des ersten Versuchs
+
