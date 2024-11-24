@@ -1,12 +1,12 @@
 ## Externe Effekte
 > [!Note]
 > Externe Effekte := Kosten/Nutzen, die sich nicht auf Verbraucher sondern Unbeteiligte auswirken(z.B. $CO_2$-Ausstoss)
-<!--SR:!2024-11-04,2,210-->
+<!--SR:!2024-11-30,6,230-->
 
 ### Externe Kosten
 >[!Note]
 >externe Kosten := Kosten, die durch negative [[Externe Effekte]] verursacht werden
-<!--SR:!2024-11-04,12,270-->
+<!--SR:!2025-01-07,44,290-->
 #### Staatliche Lösung
 - Steuern
 
@@ -18,7 +18,7 @@
 #### externer Nutzen
 >[!Note]
 >externer Nutzen := positive externe Effekte
-<!--SR:!2024-11-06,14,290-->
+<!--SR:!2025-01-18,55,310-->
 #### Staatliche Unterstützung
 - [[Subventionen]]
 
@@ -29,5 +29,5 @@
 ### Ziel: Internalisierung
 >[!Note]
 >Internalisierung := Verbrauchern Anreiz geben die sozialen Kosten und Nutzen einzubeziehen
-<!--SR:!2024-11-03,1,210-->
+<!--SR:!2024-11-25,1,190-->
 

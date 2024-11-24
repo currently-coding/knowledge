@@ -251,7 +251,7 @@ besides(adverb) (I am overqualified for the job, and besides, I have another off
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2025-01-07,75,367!2024-12-12,50,317-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
-<!--SR:!2024-11-22,40,348!2025-02-08,94,317-->
+<!--SR:!2025-06-05,193,368!2025-02-08,94,317-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden,
 <!--SR:!2025-03-28,126,368!2025-01-14,83,357-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
