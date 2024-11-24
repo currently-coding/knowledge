@@ -11,5 +11,5 @@ Abwesend: Keiner
 ## Tagesordnung
 1. Überlegungen hinsichtlich Exkursion zu Uni/Firma
 2. Wahl des Projektleiters
-3. Informieren der betreuenden Lehrkraft ueber Fortschritt des letzten Treffens
-4. 
+3. Informieren der betreuenden Lehrkraft über Fortschritt des letzten Treffens
+4. Formulieren konkreter Ziele 
