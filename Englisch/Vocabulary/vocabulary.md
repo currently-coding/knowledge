@@ -515,7 +515,7 @@ notably(adverb) (The tax reform will affect many people, notably entrepreneurs.,
 notable(adjective) (The designer was a notable figure in the fashion world., The reform led to a notable improvement of public health., The scientist made a notable discovery., There is a notable want of teachers in my school district., The painter was a notable artist of his time., The hotel welcomes many notable guests.) ::: wichtig, deutlich, bemerkenswert
 <!--SR:!2025-01-22,61,376!2024-12-14,30,403-->
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt
-<!--SR:!2024-12-14,30,402!2024-11-07,5,383-->
+<!--SR:!2024-12-14,30,402!2024-12-21,27,403-->
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
 <!--SR:!2025-03-23,121,412!2024-12-04,25,403-->
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung
