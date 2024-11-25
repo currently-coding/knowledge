@@ -839,7 +839,7 @@ elementary(adjective) (The beginner's course teaches elementary skills., A secur
 to soar(verb) (After the start, the rocket soared straight into the sky., A falcon was soaring above the forest., The value of the shares soared temporarily.) ::: steigen, segeln, hochschnellen
 <!--SR:!2000-01-01,1,250!2024-12-23,31,405-->
 to devote oneself to(verb) (The woman devoted herself to her scientific studies., The lawyer had devoted herself to fighting injustice.) ::: sich hingeben, sich verschreiben
-<!--SR:!2000-01-01,1,250!2024-11-22,1,326-->
+<!--SR:!2000-01-01,1,250!2024-11-26,1,306-->
 nursing(noun) () ::: Pflege, Krankenpflege, Stillen
 <!--SR:!2000-01-01,1,250!2024-11-23,1,324-->
 to nurse(verb) (He nursed the sick little kitten., I nursed an abandoned bird.) ::: pflegen, großziehen, kurieren 
@@ -891,7 +891,7 @@ to rebel(verb) (The opposition rebelled against the new draft law.) ::: rebellie
 rebel(adjective) () ::: rebellisch, abtrünnig
 <!--SR:!2000-01-01,1,250!2024-12-21,29,386-->
 yield(noun) (The farmer was pleased with the high yield., Farmers are interested in crops with a higher yield., Despite the cold summer, the yield of vegetables was satisfactory., The yield of the sale is higher than expected.) ::: Ertrag, Ausbeute, Gewinn
-<!--SR:!2024-11-24,2,323!2024-11-25,6,386-->
+<!--SR:!2024-11-24,2,323!2024-12-27,32,406-->
 to yield(verb) (The cuts will yield savings in expenditure., I finally yielded to temptation and had some cake., Constant exercise yields well-being and fitness., The investment started to yield profits.) ::: ergeben, nachgeben, bringen
 <!--SR:!2000-01-01,1,250!2024-12-24,32,405-->
 to yield to(verb) () ::: Platz machen
