@@ -581,7 +581,7 @@ mechanical(adjective) (For precision work, suitable mechanical instruments are n
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
 <!--SR:!2025-02-21,91,395!2024-12-01,29,397-->
 to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen
-<!--SR:!2024-11-25,11,357!2024-11-27,4,342-->
+<!--SR:!2025-01-16,52,377!2024-11-27,4,342-->
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug
 <!--SR:!2024-12-14,30,401!2024-12-19,27,403-->
 to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen
@@ -706,7 +706,7 @@ reasonably(adverb) (The hotel room was reasonably comfortable, considering the c
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig
 <!--SR:!2024-11-26,4,342!2024-12-12,26,401-->
 analogously(adverb) () ::: analog, sinngemäß
-<!--SR:!2024-11-25,23,397!2024-12-02,30,395-->
+<!--SR:!2025-03-27,122,417!2024-12-02,30,395-->
 succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge
 <!--SR:!2024-12-18,26,402!2024-12-06,17,377-->
 to elbow(verb) (He elbowed his way through the crowd.) ::: drängen
@@ -866,7 +866,7 @@ to coincide(verb) (Her statement coincides with my opinion., The holiday coincid
 <!--SR:!2000-01-01,1,250!2024-11-27,5,366-->
 to reassure(verb) (The boy was scared about seeing the doctor, but his mother reassured him.) ::: beruhigen, rückversichern 
 manufacture(noun) () ::: Herstellung, Fertigung, Produktion
-<!--SR:!2024-11-25,5,386!2024-11-23,4,366-->
+<!--SR:!2024-12-21,26,406!2024-11-23,4,366-->
 to manufacture(verb) (His company manufactures bicycle parts., The factory manufactures cars on a production line., This company manufactures bicycle parts., The cars we manufacture here are famous for their longevity., The factory manufactures bicycle parts.) ::: fertigen, herstellen, erzeugen 
 herb(noun) (This cream contains essences of herbs., Certain herbs are very effective against headaches., I plant herbs for the kitchen on my balcony.) ::: Kraut, Gewürz, Küchenkraut 
 to innovate(verb) () ::: erneuern, innovieren, Neuerungen einführen 
@@ -901,7 +901,7 @@ district(noun) (There are no schools in this district., I live in a very quiet d
 robust(adjective) (Wood is a robust building material., The system is robust and not susceptible to errors., The house is robust enough to withstand strong winds.) ::: robust, solide, stark
 <!--SR:!2024-11-20,6,386!2024-11-25,3,344-->
 robust(adjective) (Holz ist ein robustes Baumaterial., Das System ist robust und nicht anfällig für Störungen., Dieses Zelt besteht aus einem robusten und wasserdichten Stoff., Der solide Stahlrahmen ist robust und belastbar., Das Material ist robust und kann Hitze und Kälte standhalten., Gummi ist ein robustes Material., Die Schuhe sind aus robusten Materialien gefertigt.) ::: robust, strong, rugged
-<!--SR:!2024-11-13,4,364!2024-11-26,6,386-->
+<!--SR:!2024-12-16,21,384!2024-11-26,6,386-->
 robust(adverb) () ::: robustly, sturdily, ruggedly 
 pulse(noun) (Beans and peas are types of pulses.) ::: Puls, Impuls, Hülsenfrucht
 <!--SR:!2000-01-01,1,250!2024-11-25,3,364-->
