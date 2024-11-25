@@ -830,7 +830,7 @@ substantial(adjective) (He paid a substantial amount of money for this luxury ca
 brick(noun) (The house was built of bricks., The falling brick almost brained me., The builder needed four tons of bricks to build the wall.) ::: Ziegel, Stein, Backstein
 <!--SR:!2000-01-01,1,250!2024-12-24,32,404-->
 sensitivity(noun) (The training helps to develop sensitivity for other cultures., Dry skin has a heightened sensitivity to cold., He showed great sensitivity in dealing with the child.) ::: Sensibilität, Empfindlichkeit, Feingefühl
-<!--SR:!2024-11-24,5,366!2024-12-11,25,404-->
+<!--SR:!2024-12-21,26,386!2024-12-11,25,404-->
 sensitive(adjective) (This cream can also be used on sensitive skin., Sensitive skin needs special care., Baby skin is very sensitive to chemicals., Sensitive issues are difficult to discuss., Nurses should be both competent and sensitive., My skin is very sensitive.) ::: sensibel, empfindlich, heikel 
 to stun(verb) (Some fish use electricity to stun their prey.) ::: betäuben, verblüffen
 <!--SR:!2000-01-01,1,250!2024-11-24,1,326-->
