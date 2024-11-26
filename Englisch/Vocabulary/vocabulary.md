@@ -267,7 +267,7 @@ to skip(verb) (We can skip this chapter and move on to the next., The speaker sk
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
 <!--SR:!2025-01-11,79,361!2025-01-04,73,357-->
 to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
-<!--SR:!2024-11-25,43,357!2025-01-16,84,365-->
+<!--SR:!2025-06-25,211,377!2025-01-16,84,365-->
 stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
 <!--SR:!2024-11-24,43,337!2025-01-21,85,368-->
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
@@ -743,7 +743,8 @@ questionnaire(noun) (The respondents filled in the questionnaire., I checked all
 surge(noun) (The surge in temperatures in the summer was not unexpected., The surge in demand was very beneficial for the company., An electrical surge damaged the computer., The minister's speech caused a surge of enthusiasm., We sat at the beach and listened to the surge.) ::: Anstieg, Überspannung, Welle
 <!--SR:!2000-01-01,1,250!2024-11-23,1,323-->
 to surge(verb) (We opened the doors and people surged into the hall., It was raining, and the waves were surging around the pier.) ::: strömen, wogen, drängen 
-produce(noun) (Organic produce can be bought in the farm shop.) ::: Produkte, Produkt, Erzeugnisse 
+produce(noun) (Organic produce can be bought in the farm shop.) ::: Produkte, Produkt, Erzeugnisse
+<!--SR:!2000-01-01,1,250!2024-11-27,1,349-->
 incentive(noun) (The gold medal was an incentive for him to improve his performance further., My termination was a good incentive to look for a better job., The medal was an incentive for him to improve his performance even more.) ::: Anreiz, Anreize, Ansporn 
 to enforce(verb) (The police are going to enforce the new regulation., The sentence was enforced.) ::: durchsetzen, vollstrecken, durchführen
 <!--SR:!2024-11-21,5,386!2000-01-01,1,250-->
@@ -777,11 +778,14 @@ democratic(adjective) () ::: demokratisch
 <!--SR:!2024-11-15,6,383!2024-12-17,25,406-->
 dairy(noun) (This dairy is famous for its yoghurt.) ::: Molkerei, Käserei, Milch
 <!--SR:!2000-01-01,1,250!2024-11-23,4,366-->
-warfare(noun) (Technology has deeply changed warfare.) ::: Kriegsführung, Krieg, Kampfführung 
+warfare(noun) (Technology has deeply changed warfare.) ::: Kriegsführung, Krieg, Kampfführung
+<!--SR:!2000-01-01,1,250!2024-12-01,5,389-->
 pause(noun) (Press pause to stop the music., After a brief pause, I continued.) ::: Pause, Unterbrechung, Wartezeit
 <!--SR:!2024-12-23,31,406!2000-01-01,1,250-->
-to pause(verb) (I need to briefly pause and think., You can pause the playback with this button., We had to pause the film several times because of its length.) ::: innehalten, pausieren, unterbrechen 
-Pause(noun) (Ich habe in meiner Pause einen Salat gegessen., Wir haben genug Zeit, um eine Pause zu machen., Drücken Sie auf Pause, um die Musik anzuhalten., Nach einer kurzen Pause machte ich weiter., Die Wanderer beschlossen, eine kurze Pause zu machen., Er braucht eine Pause, um seine Kraft wiederzugewinnen., Wir arbeiteten ohne Pause an dem neuen Projekt., Ich ging nach einer Pause von zwei Jahren zurück zur Arbeit., Während der Pause laufen alle Kinder normalerweise herum und spielen.) ::: break, pause, stop 
+to pause(verb) (I need to briefly pause and think., You can pause the playback with this button., We had to pause the film several times because of its length.) ::: innehalten, pausieren, unterbrechen
+<!--SR:!2024-12-01,5,389!2000-01-01,1,250-->
+Pause(noun) (Ich habe in meiner Pause einen Salat gegessen., Wir haben genug Zeit, um eine Pause zu machen., Drücken Sie auf Pause, um die Musik anzuhalten., Nach einer kurzen Pause machte ich weiter., Die Wanderer beschlossen, eine kurze Pause zu machen., Er braucht eine Pause, um seine Kraft wiederzugewinnen., Wir arbeiteten ohne Pause an dem neuen Projekt., Ich ging nach einer Pause von zwei Jahren zurück zur Arbeit., Während der Pause laufen alle Kinder normalerweise herum und spielen.) ::: break, pause, stop
+<!--SR:!2024-12-01,5,389!2000-01-01,1,250-->
 demonstration(noun) (Activists gathered in a peaceful demonstration., There was no riot, just a peaceful demonstration., Media coverage of the demonstration was very brief., After a demonstration in a department store, I bought a food processor., I bought you roses as a demonstration of my love., Many people took part in a large demonstration outside the town hall., The vendor gave a demonstration of his product.) ::: Demonstration, Vorführung, Beweis
 <!--SR:!2000-01-01,1,250!2024-12-09,25,403-->
 Demonstration(noun) (Aktivisten versammelten sich bei einer friedlichen Demonstration., Es gab keinen Aufruhr, nur eine friedliche Demonstration., Die Berichterstattung über die Demonstration war sehr kurz., Die Polizei löste die Demonstration auf., Tausende von Menschen nahmen an der Demonstration für Frauenrechte teil.) ::: demonstration, protest, march
@@ -839,14 +843,14 @@ elementary(adjective) (The beginner's course teaches elementary skills., A secur
 to soar(verb) (After the start, the rocket soared straight into the sky., A falcon was soaring above the forest., The value of the shares soared temporarily.) ::: steigen, segeln, hochschnellen
 <!--SR:!2000-01-01,1,250!2024-12-23,31,405-->
 to devote oneself to(verb) (The woman devoted herself to her scientific studies., The lawyer had devoted herself to fighting injustice.) ::: sich hingeben, sich verschreiben
-<!--SR:!2000-01-01,1,250!2024-11-26,1,306-->
+<!--SR:!2024-12-01,5,389!2024-11-26,1,306-->
 nursing(noun) () ::: Pflege, Krankenpflege, Stillen
-<!--SR:!2000-01-01,1,250!2024-11-23,1,324-->
+<!--SR:!2000-01-01,1,250!2024-11-30,4,344-->
 to nurse(verb) (He nursed the sick little kitten., I nursed an abandoned bird.) ::: pflegen, großziehen, kurieren 
 to convey(verb) (The film conveys an important message., The belt conveys the goods to the warehouse., A belt conveys the materials to the next work area., The pipeline conveys gas to the city.) ::: vermitteln, transportieren, fördern
 <!--SR:!2000-01-01,1,250!2024-11-27,5,363-->
 regulatory(adjective) (A regulatory framework is a system of rules., We will get the project if we comply with all regulatory requirements.) ::: behördlich, regulatorisch, regulativ
-<!--SR:!2024-11-25,4,366!2000-01-01,1,250-->
+<!--SR:!2024-11-25,4,366!2024-11-27,1,349-->
 necessity(noun) (For many people, coffee is a necessity in the morning., He made a virtue of necessity.) ::: Notwendigkeit, Not, Bedarf
 <!--SR:!2000-01-01,1,250!2024-11-26,5,363-->
 opera(noun) (We met in front of the opera at eight.) ::: Oper
@@ -858,7 +862,7 @@ to divorce(verb) () ::: sich scheiden
 torture(noun) (The aim of the institution is the global prohibition of torture.) ::: Folter, Folterung, Qual
 <!--SR:!2024-12-25,33,406!2024-11-21,5,386-->
 to torture(verb) () ::: martern, quälen, foltern
-<!--SR:!2024-12-26,33,404!2000-01-01,1,250-->
+<!--SR:!2024-12-26,33,404!2024-12-01,5,389-->
 gorgeous(adjective) (The landscape in this country is just gorgeous., From the hill we had a gorgeous view at the sea.) ::: wunderschön, großartig, herrlich 
 coincidence(noun) (It was pure coincidence that they were in the same city that day.) ::: Zufall, Zusammentreffen, Koinzidenz
 <!--SR:!2024-12-23,31,403!2000-01-01,1,250-->
@@ -954,12 +958,13 @@ to forecast(verb) (Experts forecast an increase in energy demand., The met offic
 <!--SR:!2024-12-25,32,403!2000-01-01,1,250-->
 controversy(noun) () ::: Kontroverse, Auseinandersetzung, Streitigkeit
 <!--SR:!2024-12-06,20,383!2024-12-19,27,403-->
-greatly(adverb) (I greatly admire this painter., The merger had greatly increased the company's goodwill.) ::: stark, sehr, erheblich 
+greatly(adverb) (I greatly admire this painter., The merger had greatly increased the company's goodwill.) ::: stark, sehr, erheblich
+<!--SR:!2024-12-01,5,389!2000-01-01,1,250-->
 great(adjective) (The job requires a great sense of responsibility., The king ruled over a great kingdom., The famous director has made some great films., Thanks again for the great party!, She had a great trip to Scotland., The dress looks great, right?, The waiter was great; I am going to tip him generously.) ::: groß, großartig, super
 <!--SR:!2024-12-12,20,386!2000-01-01,1,250-->
 great(adjective) () ::: fantastisch 
 structural(adjective) (The structural changes had an appreciable impact on the employees.) ::: strukturell, baulich, bautechnisch
-<!--SR:!2024-12-08,15,290!2024-11-15,6,383-->
+<!--SR:!2024-12-08,15,290!2024-12-28,32,403-->
 to structure(verb) (It is important to structure an essay carefully., I structure my lessons according to the syllabus., It is important to structure an essay clearly.) ::: strukturieren, aufbauen, gliedern
 <!--SR:!2024-12-22,30,403!2024-11-26,5,386-->
 striking(adjective / present participle) (There is a striking resemblance between my brother and my father.) ::: streikend
@@ -1008,11 +1013,13 @@ profound(adjective) (The scientist was able to convince everyone with her profou
 <!--SR:!2000-01-01,1,250!2024-11-20,4,365-->
 mincer(noun) () ::: Fleischwolf, Wolf 
 to toss(verb) (When I toss a ball, my dog always brings it back.) ::: werfen, schleudern, knobeln 
-toss(noun) (The toss of the coin will decide everything.) ::: Wurf, Einwurf 
+toss(noun) (The toss of the coin will decide everything.) ::: Wurf, Einwurf
+<!--SR:!2024-12-01,5,389!2000-01-01,1,250-->
 to retrieve(verb) (We can easily retrieve the stored information from the system., He throws the stick and the dog retrieves it., We can easily retrieve the data stored in the system., Some computer software can retrieve lost data., My dog loves to retrieve balls.) ::: abrufen, zurückholen, wiederherstellen
 <!--SR:!2000-01-01,1,250!2024-11-23,1,326-->
 whilst(conjunction) (Whilst working I cannot take calls., The road will be closed whilst the construction is in progress.) ::: während, solange, indem 
-whilst(conjunction) () ::: obwohl, indes 
+whilst(conjunction) () ::: obwohl, indes
+<!--SR:!2024-11-27,1,349!2000-01-01,1,250-->
 substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig 
 clothes(noun) (He folded his clothes neatly., We sell clothes made of cotton and linen., Purple clothes don't suit most people., My wife's wardrobe is filled with beautiful clothes., I want to get rid of some clothes, so I will donate them., These clothes are very trendy right now.) ::: Kleidung, Kleider, Kleidungsstücke 
 cloth(noun) (You can clean the surface with a cloth., The dye had colored the cloth red., The constant friction wore out the cloth., His shirt scratched, because it was made of coarse cloth., I always clean the windows with a soft cloth.) ::: Tuch, Leinen, Stoff
