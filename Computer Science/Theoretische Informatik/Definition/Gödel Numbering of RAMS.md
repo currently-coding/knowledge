@@ -3,7 +3,7 @@
 ![[Pasted image 20241106161040.png]]
 2. Encoding of RAM $M$ with instructions $b_1, ..., b_s$:
 $$
-\langle M \rangle := \langle \langle b_1 \rangle, ..., \langle b_s \rangle \rangle
+$\langle M \rangle$ := $\langle \langle b_1 \rangle, ..., \langle b_s \rangle \rangle$
 $$
 3. For $i \in \mathbb{N}$ let 
 $$
@@ -14,4 +14,5 @@ $$
 \end{cases}
 $$
 where $M^*$ := is the RAM with the single instruction STOP.
+<!--SR:!2024-11-30,4,270-->
 
