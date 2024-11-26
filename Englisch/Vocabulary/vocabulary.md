@@ -866,7 +866,7 @@ opera(noun) (We met in front of the opera at eight.) ::: Oper
 divorce(noun) (The housekeeper leaked the information about the couple's divorce.) ::: Scheidung, Trennung, Ehescheidung
 <!--SR:!2024-12-17,25,404!2000-01-01,1,250-->
 to divorce(verb) () ::: sich scheiden
-<!--SR:!2024-11-20,6,385!2024-12-01,5,390-->
+<!--SR:!2024-12-28,32,405!2024-12-01,5,390-->
 torture(noun) (The aim of the institution is the global prohibition of torture.) ::: Folter, Folterung, Qual
 <!--SR:!2024-12-25,33,406!2024-12-21,25,406-->
 to torture(verb) () ::: martern, quälen, foltern
