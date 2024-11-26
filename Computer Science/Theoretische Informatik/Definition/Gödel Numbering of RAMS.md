@@ -4,6 +4,7 @@
 2. Encoding of RAM $M$ with instructions $b_1, ..., b_s$:
 $$
 $\langle M \rangle$ := $\langle \langle b_1 \rangle, ..., \langle b_s \rangle \rangle$
+<!--SR:!2024-11-30,4,270-->
 $$
 3. For $i \in \mathbb{N}$ let 
 $$
