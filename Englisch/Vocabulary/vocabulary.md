@@ -81,7 +81,7 @@ barrier to trade(noun) () ::: Handelshemmnis
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) ::: Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2025-01-14,92,358!2024-12-31,80,346-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) ::: Ausbeutung, Nutzung, Verwertung
-<!--SR:!2024-11-24,46,306!2025-01-03,81,357-->
+<!--SR:!2025-06-08,194,326!2025-01-03,81,357-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) ::: nutzen, ausnutzen, ausschöpfen, erschließen(business context)
 <!--SR:!2024-12-31,78,357!2024-12-15,68,346-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) ::: Lebensstandard, Lebenshaltung
@@ -285,7 +285,7 @@ to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated t
 canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße
 <!--SR:!2025-01-12,85,377!2025-01-29,97,379-->
 convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) ::: Komfort, Bequemlichkeit, Nutzen
-<!--SR:!2024-12-20,58,348!2024-11-26,43,337-->
+<!--SR:!2024-12-20,58,348!2025-06-14,200,357-->
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern
 <!--SR:!2024-12-07,54,359!2025-01-19,88,377-->
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
@@ -660,13 +660,13 @@ to forbid(verb) (The hotel management has forbidden smoking at the pool., The ar
 to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, überreden
 <!--SR:!2025-02-03,72,383!2024-11-27,25,395-->
 occupation(noun) (The judge asked the witness to state his name and occupation., The occupation of the town was over and there was peace., My skills allowed me to find a better occupation., The country declared independence after a long period of occupation., The new office building is ready for occupation.) ::: Beschäftigung, Beruf, Besetzung
-<!--SR:!2024-11-24,27,391!2024-12-05,33,395-->
+<!--SR:!2025-04-19,144,411!2024-12-05,33,395-->
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren
 <!--SR:!2024-12-01,17,382!2024-12-22,30,402-->
 fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur
 <!--SR:!2024-11-30,28,391!2024-12-06,14,375-->
 ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote
-<!--SR:!2024-11-26,24,397!2024-12-07,23,382-->
+<!--SR:!2025-04-05,130,417!2024-12-07,23,382-->
 to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of old remnants.) ::: weben, flechten, verweben
 <!--SR:!2024-11-08,6,382!2024-12-22,30,403-->
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen
@@ -777,13 +777,13 @@ drawback(noun) (The only drawback of my job is the low salary.) ::: Nachteil, Er
 to diminish(verb) (The new guidelines diminish risks at the workplace., My gratefulness did not diminish over the years., The gratefulness I felt did not diminish over the years., The risk of disease diminishes when we eat healthily.) ::: verringern, sich verringern, reduzieren 
 flounder(noun) () ::: Flunder, Butt 
 to flounder(verb) (Nervous people sometimes flounder when they speak., Some businesses floundered during the economic crisis., Three large fish were floundering in the fishing net.) ::: sich verhaspeln, ins Trudeln geraten, zappeln
-<!--SR:!2000-01-01,1,250!2024-11-25,6,386-->
+<!--SR:!2000-01-01,1,250!2024-11-29,3,366-->
 to skyrocket(verb) () ::: sprunghaft ansteigen, emporschnellen, in die Höhe schießen
 <!--SR:!2000-01-01,1,250!2024-11-27,1,350-->
 democratic(adjective) () ::: demokratisch
 <!--SR:!2024-11-15,6,383!2024-12-17,25,406-->
 dairy(noun) (This dairy is famous for its yoghurt.) ::: Molkerei, Käserei, Milch
-<!--SR:!2024-12-01,5,390!2024-11-23,4,366-->
+<!--SR:!2024-12-01,5,390!2024-12-15,19,386-->
 warfare(noun) (Technology has deeply changed warfare.) ::: Kriegsführung, Krieg, Kampfführung
 <!--SR:!2000-01-01,1,250!2024-12-01,5,389-->
 pause(noun) (Press pause to stop the music., After a brief pause, I continued.) ::: Pause, Unterbrechung, Wartezeit
@@ -978,7 +978,7 @@ great(adjective) () ::: fantastisch
 structural(adjective) (The structural changes had an appreciable impact on the employees.) ::: strukturell, baulich, bautechnisch
 <!--SR:!2024-12-08,15,290!2024-12-28,32,403-->
 to structure(verb) (It is important to structure an essay carefully., I structure my lessons according to the syllabus., It is important to structure an essay clearly.) ::: strukturieren, aufbauen, gliedern
-<!--SR:!2024-12-22,30,403!2024-11-26,5,386-->
+<!--SR:!2024-12-22,30,403!2024-12-22,26,406-->
 striking(adjective / present participle) (There is a striking resemblance between my brother and my father.) ::: streikend
 <!--SR:!2024-12-08,15,366!2000-01-01,1,250-->
 to strike(verb) (He convinced the fighters not to strike., He would never strike a person outside the boxing ring., The baseball bat struck the ball., In some countries civil servants are not allowed to strike., The pianist struck the keys like a virtuoso., His strange looks struck me immediately.) ::: zuschlagen, schlagen, treffen
@@ -1037,7 +1037,7 @@ whilst(conjunction) () ::: obwohl, indes
 substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig 
 clothes(noun) (He folded his clothes neatly., We sell clothes made of cotton and linen., Purple clothes don't suit most people., My wife's wardrobe is filled with beautiful clothes., I want to get rid of some clothes, so I will donate them., These clothes are very trendy right now.) ::: Kleidung, Kleider, Kleidungsstücke 
 cloth(noun) (You can clean the surface with a cloth., The dye had colored the cloth red., The constant friction wore out the cloth., His shirt scratched, because it was made of coarse cloth., I always clean the windows with a soft cloth.) ::: Tuch, Leinen, Stoff
-<!--SR:!2024-11-24,5,386!2000-01-01,1,250-->
+<!--SR:!2024-12-21,25,406!2000-01-01,1,250-->
 residential(adjective) () :::  
 to tolerate(verb) (The teacher does not tolerate disruptive noises.) ::: dulden, tolerieren, vertragen
 <!--SR:!2000-01-01,1,250!2024-12-24,32,406-->
