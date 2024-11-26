@@ -13,4 +13,4 @@ Abwesend: Vitus Eckl, Leander Moro, Mykyta Khitsenko
 3. Reflexion der eigenen Persönlichkeit 
 
 ## Zu TOP 1
-Die Anwesenden Mitglieder stellen ihre Idee vor. Diese baut darauf auf, dass bisher verfuegebare Erklaervideos meist physikalisch inkorrekt sind und damit dem Schueler nicht helfen. Um das zu beheben will man eigenen Videos erstellen mit dem Anspruch der physikalischen Korrektheit.
+Die Anwesenden Mitglieder stellen ihre Idee vor. Diese baut darauf auf, dass bisher verfügbare Erklärvideos meist physikalisch inkorrekt sind und damit dem Schüler nicht helfen. Um das zu beheben will man eigenen Videos erstellen mit dem Anspruch der physikalischen Korrektheit.
