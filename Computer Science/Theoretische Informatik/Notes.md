@@ -1,4 +1,4 @@
-264: 0, 01, 011, ... ${} = L(01^*)=L(0+01^*)$
+264: 0, 01, 011, ... $= L(01^*)=L(0+01^*)$
 
 
 266:
@@ -81,7 +81,7 @@ Damit gilt:
 4. Es gilt $\forall_{r \geq 0} xy^r z \in L$ ,denn 
 	1. $\bar{\delta}(s_0, x) = \bar{\delta}(s_0, a_1 ... a_i) = q_i$
 	2. $\bar{\delta}(q_i, y) = \bar{\delta}(s_0, xy) = \bar{\delta}(s_0, a_1...a_j) = q_j = q_i$
-	3. $\bar{\delta}(q_i, z) = \bar{\delta}(q_j, z) =\bar{\delta}(s_0, xyz) = \bar{\delta}(s_0, w) {}$
+	3. $\bar{\delta}(q_i, z) = \bar{\delta}(q_j, z) =\bar{\delta}(s_0, xyz) = \bar{\delta}(s_0, w)$
 für $r \geq 0$ gilt also:
 $\bar{\delta}(s_0, xy^rz) =(a) \bar{\delta}(q_i, y^rz) = \bar{\delta}(q_i, y^{r-1}z) =(b) \bar{\delta}(q_i, y^{r-2}z) =(b) ... = (b)\bar{\delta}(q_i, z) \in(c) FA$
 => $xy^r z \in L$
