@@ -39,7 +39,7 @@ ab* + a: nach [[3.21 - Concatenation of Languages]]
 
 
 Beispiel 3.32
-(eigentlich $\cup$ statt $+$ richtig, aber wir verwenden Syntax reg. Ausdruecke)
+(eigentlich $\cup$ statt $+$ richtig, aber wir verwenden Syntax reg. Ausdrücke)
 1. $L_{s_0} = a \cdot L_{s_0} + b \cdot L_{s_2}{}$
 2. $L_{s_1} = (a + b) \cdot L_{s_1} + a \cdot L_{s_0}$
 3. $L_{s_2} = a \cdot L_{s_1} + \epsilon$, $\epsilon$ weil leeres Wort von $s_2$ aus akzeptiert wird( -> wenn akz. => $+ \epsilon$)
@@ -57,3 +57,15 @@ Beispiel 3.32
 6 Vereinfachen nach Lemma 3.29
 7. $L_{s_0} = (a + ba(a+b)^*a) \cdot L_{s_0} + b$
 8. $L_{s_0} = (a + ba(a+b)^*a)^*b$
+
+
+Pumping Lemma:
+Beweis:
+- Sei $L \in REG \implies$ nach 3.28 es existiert $DFA = (\sum, S, \delta, s_0, F)$ mit $L(A) = L$
+- Wir wählen $k := |S|$ und zeigen, dass $L$ 3-pumpbar ist
+- Sei $w \in L$ mit $|w| \geq k$ 
+- Also $w = a_1 a_2 ....a_m$ mit $m \geq k$ und $a_1, a_2, ..., a_m \in \sum$
+- Fuer $0 \leq i \leq k$ definieren wir $q_i = \bar{\delta}(s_0, a_1a_2...a_m)$
+	- $q_i$ ist der Zustand nach dem i-ten Zeichen von $w$
+- $q_0, ..., q_k \in S$ sind $k+1$ Zustaende
+=> aus $|S| < k+1$ folgt, dass min. zwei der $q_0, ..., q_k$ gleich sind
