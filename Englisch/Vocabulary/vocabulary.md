@@ -750,7 +750,7 @@ produce(noun) (Organic produce can be bought in the farm shop.) ::: Produkte, Pr
 <!--SR:!2000-01-01,1,250!2024-11-27,1,349-->
 incentive(noun) (The gold medal was an incentive for him to improve his performance further., My termination was a good incentive to look for a better job., The medal was an incentive for him to improve his performance even more.) ::: Anreiz, Anreize, Ansporn 
 to enforce(verb) (The police are going to enforce the new regulation., The sentence was enforced.) ::: durchsetzen, vollstrecken, durchführen
-<!--SR:!2024-11-21,5,386!2000-01-01,1,250-->
+<!--SR:!2024-12-22,25,406!2000-01-01,1,250-->
 triumph(noun) (My team's victory was a great triumph.) ::: Triumph, Sieg, Siegeszug
 <!--SR:!2024-11-15,6,384!2024-11-25,6,386-->
 to triumph(verb) (One team will triumph at the end of the game., Justice triumphed in the courtroom.) ::: siegen, den Sieg davontragen, gewinnen
@@ -933,7 +933,7 @@ standing(noun) (His standing in the community goes back to his social commitment
 undergraduate(noun) () ::: Student
 <!--SR:!2000-01-01,1,250!2024-11-27,5,366-->
 to perceive(verb) (The discovery was perceived as a major breakthrough., Long-term trends are often difficult to perceive.) ::: wahrnehmen, erkennen, betrachten
-<!--SR:!2024-12-22,33,404!2024-11-25,5,386-->
+<!--SR:!2024-12-22,33,404!2024-12-23,26,406-->
 successor(noun) (The head of the company designated his successor today., The outgoing mayor congratulated his successor.) ::: Nachfolger, Nachfolgerin, Nachfolgemodell
 <!--SR:!2024-11-27,1,350!2000-01-01,1,250-->
 whip(noun) (The driver cracked the whip and the horses ran faster., The party promoted her to whip.) ::: Peitsche, Fraktionsvorsitzende, Gerte
