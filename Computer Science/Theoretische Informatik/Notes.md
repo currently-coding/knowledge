@@ -65,7 +65,7 @@ Beweis:
 - Wir wählen $k := |S|$ und zeigen, dass $L$ 3-pumpbar ist
 - Sei $w \in L$ mit $|w| \geq k$ 
 - Also $w = a_1 a_2 ....a_m$ mit $m \geq k$ und $a_1, a_2, ..., a_m \in \sum$
-- Fuer $0 \leq i \leq k$ definieren wir $q_i = \bar{\delta}(s_0, a_1a_2...a_m)$
+- Für $0 \leq i \leq k$ definieren wir $q_i = \bar{\delta}(s_0, a_1a_2...a_m)$
 	- $q_i$ ist der Zustand nach dem i-ten Zeichen von $w$
 - $q_0, ..., q_k \in S$ sind $k+1$ Zustaende
 => aus $|S| < k+1$ folgt, dass min. zwei der $q_0, ..., q_k$ gleich sind
