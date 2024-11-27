@@ -52,7 +52,7 @@ Beispiel 3.32
 5. $L_{s_1} = (a + b)^* \cdot a \cdot L_{s_0}$
 
 5 in 4 Einsetzen
-6. $L_{s_0} = a \cdot L_{s_0} + b \cdot a \cdot ((a + b)^* \cdot a \cdot L_{s_0}) + b$
+6. $L_{s_0} = a \cdot L_{s_0} + b \cdot a \cdot (a + b)^* \cdot a \cdot L_{s_0} + b$
 
 6 Vereinfachen nach Lemma 3.29
 7. $L_{s_0} = (a + ba(a+b)^*a) \cdot L_{s_0} + b$
