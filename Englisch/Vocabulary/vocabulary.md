@@ -654,7 +654,7 @@ casual(adjective) (I wear casual clothes outside the office., This is an informa
 to insist(verb) (The woman did not give up and insisted on her rights.) ::: pochen, insistieren
 <!--SR:!2024-12-15,31,402!2024-12-04,25,401-->
 reflection(noun) (The article offers an interesting reflection on the current situation., She accepted the offer after a short reflection., The pond is so calm you can see your reflection., The reflection of the sunlight on the water is beautiful.) ::: Reflexion, Überlegung, Spiegelbild
-<!--SR:!2025-02-27,97,395!2024-11-08,6,382-->
+<!--SR:!2025-02-27,97,395!2024-12-28,32,402-->
 to forbid(verb) (The hotel management has forbidden smoking at the pool., The art gallery forbids flash photography.) ::: untersagen, verbieten, verhindern
 <!--SR:!2024-12-08,29,402!2024-11-26,24,397-->
 to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, überreden
@@ -1042,7 +1042,7 @@ residential(adjective) () :::
 to tolerate(verb) (The teacher does not tolerate disruptive noises.) ::: dulden, tolerieren, vertragen
 <!--SR:!2000-01-01,1,250!2024-12-24,32,406-->
 fundamentally(adverb) () ::: grundsätzlich, grundlegend, wesentlich
-<!--SR:!2000-01-01,1,250!2024-11-15,1,345-->
+<!--SR:!2000-01-01,1,250!2024-12-01,5,365-->
 fundamental(adjective) (We discussed some fundamental questions., Freedom is a fundamental right., Freedom of speech is a fundamental human right., Sympathy is a fundamental part of good relations.) ::: grundlegend, fundamental, grundsätzlich
 <!--SR:!2024-12-21,25,406!2000-01-01,1,250-->
 ## ChatGPT eloquent
