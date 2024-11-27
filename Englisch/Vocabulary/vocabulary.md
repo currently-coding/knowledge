@@ -109,7 +109,7 @@ urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
 to urbanize(verb) () ::: urbanisieren, verstädtern
 <!--SR:!2024-12-31,80,346!2024-12-30,79,358-->
 to diversify(verb) (The trader wants to diversify his portfolio.) ::: diversifizieren, variieren, differenzieren
-<!--SR:!2024-11-27,52,337!2024-12-22,74,346-->
+<!--SR:!2025-07-26,241,357!2024-12-22,74,346-->
 commerce(noun) (A lot of commerce was conducted in this town a century ago.) ::: Handel, Verkehr, Kommerz
 <!--SR:!2024-12-29,80,346!2025-01-02,82,358-->
 offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) ::: Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung
@@ -1071,7 +1071,7 @@ obfuscate(verb) (The instructions obfuscate rather than clarify., Some politicia
 ruminate(verb) (He ruminated over the choices he had., She likes to ruminate on philosophical questions., The decision required her to ruminate deeply.) ::: grübeln, nachdenken, sinnieren
 burgeon(verb) (The city's population began to burgeon., Her creativity burgeoned in the new environment., The company is beginning to burgeon.) ::: gedeihen, aufblühen, florieren
 placate(verb) (He tried to placate the angry customer., The apology was meant to placate her., She placated his fears with comforting words.) ::: besänftigen, beruhigen, beschwichtigen
-<!--SR:!2024-11-25,4,366!2024-11-24,1,306-->
+<!--SR:!2024-11-25,4,366!2024-11-28,1,286-->
 ineffable(adjective) (The beauty of the mountains was ineffable., The feeling of joy was ineffable., Her gratitude was ineffable.) ::: unaussprechlich, unbeschreiblich, unsagbar
 halcyon(adjective) (She looked back on the halcyon days of her youth., The halcyon weather was perfect for a picnic., They longed for the halcyon times of peace.) ::: friedlich, glücklich, idyllisch
 sagacious(adjective) (He gave a sagacious answer to the question., The leader was known for his sagacious decisions., Her sagacious insight was appreciated.) ::: weise, klug, scharfsinnig
