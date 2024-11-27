@@ -69,3 +69,22 @@ Beweis:
 	- $q_i$ ist der Zustand nach dem i-ten Zeichen von $w$
 - $q_0, ..., q_k \in S$ sind $k+1$ Zustaende
 => aus $|S| < k+1$ folgt, dass min. zwei der $q_0, ..., q_k$ gleich sind
+d.h. es existiert $i, j$ mit $0 \leq i \lt j \leq k$ und $q_i = q_j$
+- -> zwischen $i$ und $j$ wurde einmal im Kreis gelaufen
+$x := a_1 ... a_i$    $y := a_{i+1}...a_j$    $z := a_{j+1}...a_m$
+
+
+Damit gilt:
+1. $w = xyz$
+2. $y \neq \epsilon$ (weil $i \lt j$)
+3. $|xy| = j \leq k$
+4. Es gilt $\forall_{r \geq 0} xy^r z \in L$ ,denn 
+	1. $\bar{\delta}(s_0, x) = \bar{\delta}(s_0, a_1 ... a_i) = q_i$
+	2. $\bar{\delta}(q_i, y) = \bar{\delta}(s_0, xy) = \bar{\delta}(s_0, a_1...a_j) = q_j = q_i$
+	3. $\bar{\delta}(q_i, z) = \bar{\delta}(q_j, z) =\bar{\delta}(s_0, xyz) = \bar{\delta}(s_0, w) {}$
+für $r \geq 0$ gilt also:
+$\bar{\delta}(s_0, xy^rz) =(a) \bar{\delta}(q_i, y^rz) = \bar{\delta}(q_i, y^{r-1}z) =(b) \bar{\delta}(q_i, y^{r-2}z) =(b) ... = (b)\bar{\delta}(q_i, z) \in(c) FA$
+=> $xy^r z \in L$
+$\square$
+
+
