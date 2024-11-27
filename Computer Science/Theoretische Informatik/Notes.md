@@ -39,7 +39,7 @@ ab* + a: nach [[3.21 - Concatenation of Languages]]
 
 
 Beispiel 3.32
-(eigentlich $\cup$ statt $+$ richtig, aber wir verwenden Syntax reg. Ausdrücke
+(eigentlich $\cup$ statt $+$ richtig, aber wir verwenden Syntax reg. Ausdruecke)
 1. $L_{s_0} = a \cdot L_{s_0} + b \cdot L_{s_2}{}$
 2. $L_{s_1} = (a + b) \cdot L_{s_1} + a \cdot L_{s_0}$
 3. $L_{s_2} = a \cdot L_{s_1} + \epsilon$, $\epsilon$ weil leeres Wort von $s_2$ aus akzeptiert wird( -> wenn akz. => $+ \epsilon$)
