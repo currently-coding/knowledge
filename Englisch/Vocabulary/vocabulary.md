@@ -541,7 +541,7 @@ timely(adjective) (Timely procurement of raw materials is essential for producti
 globe(noun) () ::: Welt, Globus, Erdball
 <!--SR:!2024-12-22,30,403!2024-11-03,1,343-->
 to steer(verb) (The captain steers the ship away from the cliffs., It is hard to steer a ship through the narrow., The driver saw the dog and steered in the other direction.) ::: steuern, lenken, führen
-<!--SR:!2024-11-27,25,397!2024-12-01,29,395-->
+<!--SR:!2025-04-12,136,417!2024-12-01,29,395-->
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
 <!--SR:!2024-12-14,30,397!2024-12-02,30,395-->
 regardless(adjective) () ::: ungeachtet, trotzdem
@@ -581,7 +581,7 @@ mechanical(adjective) (For precision work, suitable mechanical instruments are n
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
 <!--SR:!2025-02-21,91,395!2024-12-01,29,397-->
 to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen
-<!--SR:!2025-01-16,52,377!2024-11-27,4,342-->
+<!--SR:!2025-01-16,52,377!2024-12-16,19,362-->
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug
 <!--SR:!2024-12-14,30,401!2024-12-19,27,403-->
 to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen
@@ -631,7 +631,7 @@ suspicious(adjective) (I heard suspicious noises in the attic., The investigator
 governor(noun) (The governor of my home state was elected by a vast majority.) ::: Gouverneur, Statthalter, Landeshauptmann
 <!--SR:!2024-12-08,22,382!2024-12-04,25,402-->
 spare(noun) (I have bought spares for the repair of my car., He lost his key, but luckily he had a spare.) ::: Ersatzteil, Ersatz, Reserve
-<!--SR:!2024-11-24,18,383!2024-12-05,19,382-->
+<!--SR:!2025-02-28,93,403!2024-12-05,19,382-->
 to spare(verb) (Luckily, the butcher spared me a detailed description of his work., I will give you the money I can spare., Fortunately, my son was spared from the sickness.) ::: ersparen, erübrigen, verschonen
 <!--SR:!2024-12-08,24,382!2024-12-05,33,392-->
 spare(adjective) (There are still a few spare seats on the plane., I gave my spare money to my sister because I did not need it.) ::: frei, übrig, sparsam
@@ -813,7 +813,7 @@ refusal(noun) (Our proposal was met with a flat refusal., His refusal to accept 
 stability(noun) (Large ships have tanks for ballast to improve stability.) ::: Stabilität, Beständigkeit, Standsicherheit
 <!--SR:!2024-12-24,32,404!2024-12-16,30,403-->
 stable(adjective) (Prices are stable and not constantly changing., This year, the company's net sales remained stable., The new base of the lamp is very stable., Rather than a temporary contract, I would like a stable job., Wine must be stored at a stable temperature., Despite its dilapidated look, the bridge is very stable., My internet connection is fast and stable.) ::: stabil, standfest, fest
-<!--SR:!2024-12-04,18,383!2024-11-27,5,366-->
+<!--SR:!2024-12-04,18,383!2024-12-22,25,386-->
 founder(noun) (The founder of the company still runs it today.) ::: Gründer, Gründerin, Stifter 
 to founder(verb) (The project must not founder.) ::: scheitern, fehlschlagen, sinken
 <!--SR:!2000-01-01,1,250!2024-11-26,5,366-->
@@ -858,7 +858,7 @@ to nurse(verb) (He nursed the sick little kitten., I nursed an abandoned bird.) 
 to convey(verb) (The film conveys an important message., The belt conveys the goods to the warehouse., A belt conveys the materials to the next work area., The pipeline conveys gas to the city.) ::: vermitteln, transportieren, fördern
 <!--SR:!2000-01-01,1,250!2024-11-27,5,363-->
 regulatory(adjective) (A regulatory framework is a system of rules., We will get the project if we comply with all regulatory requirements.) ::: behördlich, regulatorisch, regulativ
-<!--SR:!2024-11-25,4,366!2024-11-27,1,349-->
+<!--SR:!2024-11-25,4,366!2024-12-02,5,369-->
 necessity(noun) (For many people, coffee is a necessity in the morning., He made a virtue of necessity.) ::: Notwendigkeit, Not, Bedarf
 <!--SR:!2000-01-01,1,250!2024-11-26,5,363-->
 opera(noun) (We met in front of the opera at eight.) ::: Oper
@@ -1066,7 +1066,7 @@ quintessential(adjective) (She is the quintessential example of grace., The book
 <!--SR:!2024-11-30,4,370!2024-11-23,1,326-->
 paradigm(noun) (The model shifted the paradigm in economics., She introduced a new paradigm in her research., The paradigm of traditional teaching is changing.) ::: Paradigma, Muster, Modell
 galvanize(verb) (The speech galvanized the crowd into action., His passion galvanized the team., The event galvanized support for the cause.) ::: motivieren, antreiben, wachrütteln
-<!--SR:!2024-11-28,4,346!2024-11-26,5,386-->
+<!--SR:!2024-11-28,4,346!2024-12-15,18,386-->
 obfuscate(verb) (The instructions obfuscate rather than clarify., Some politicians obfuscate their intentions., His statement was meant to obfuscate the truth.) ::: verschleiern, vernebeln, verwirren
 ruminate(verb) (He ruminated over the choices he had., She likes to ruminate on philosophical questions., The decision required her to ruminate deeply.) ::: grübeln, nachdenken, sinnieren
 burgeon(verb) (The city's population began to burgeon., Her creativity burgeoned in the new environment., The company is beginning to burgeon.) ::: gedeihen, aufblühen, florieren
