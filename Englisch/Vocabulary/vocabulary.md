@@ -27,7 +27,7 @@ acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
 acid(adjective) (I do not like acid fruits.) ::: sauer
 <!--SR:!2024-12-24,77,334!2024-12-03,60,319-->
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) ::: aktivieren, betätigen, freischalten, einschalten, auslösen
-<!--SR:!2024-12-05,60,322!2024-11-26,51,310-->
+<!--SR:!2024-12-05,60,322!2025-07-04,219,330-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) ::: Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
 <!--SR:!2024-12-16,70,322!2024-11-24,51,310-->
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) ::: zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei
@@ -806,7 +806,7 @@ scrutiny(noun) () ::: Prüfung, Überprüfung, Untersuchung
 seldom(adjective) () ::: selten 
 seldom(adverb) (I seldom see my sister, since she lives far away., My brother is very even-tempered and seldom gets angry.) ::: selten, kaum, nicht oft 
 permanent(adjective) (The actor got a permanent engagement., The patient is under permanent monitoring., Small children demand permanent attention from their parents., His boss offered him a permanent position., The solution is temporary, not permanent.) ::: dauerhaft, permanent, ständig
-<!--SR:!2024-12-01,5,390!2024-11-27,1,350-->
+<!--SR:!2024-12-01,5,390!2024-12-02,5,370-->
 to fail(verb) (Words fail me right now., If you fail, you need to try again., After my first attempt had failed, I tried again., During the storm, the mobile phone connection failed., Good students never fail to do their homework., He was sure he had failed the exam, but the reverse was true., I took the exam despite my fear of failing., The student failed the exam and has to take it again.) ::: fehlen, scheitern, ausfallen 
 refusal(noun) (Our proposal was met with a flat refusal., His refusal to accept the truth is annoying., The scientific committee justified their refusal of the proposal.) ::: Ablehnung, Verweigerung, Weigerung
 <!--SR:!2000-01-01,1,250!2024-11-23,1,326-->
@@ -816,7 +816,7 @@ stable(adjective) (Prices are stable and not constantly changing., This year, th
 <!--SR:!2024-12-04,18,383!2024-12-22,25,386-->
 founder(noun) (The founder of the company still runs it today.) ::: Gründer, Gründerin, Stifter 
 to founder(verb) (The project must not founder.) ::: scheitern, fehlschlagen, sinken
-<!--SR:!2000-01-01,1,250!2024-11-26,5,366-->
+<!--SR:!2000-01-01,1,250!2024-11-30,3,346-->
 spectacle(noun) (The circus offered the audience a breathtaking spectacle.) ::: Spektakel, Schauspiel, Show
 <!--SR:!2024-12-18,26,406!2000-01-01,1,250-->
 choir(noun) (The choir sings a refrain after every strophe., We rehearse once a week with our choir.) ::: Chor, Gesangverein, Kantorei
@@ -999,7 +999,7 @@ to mate(verb) (Elephants mate rarely and have only one calf.) ::: sich paaren, v
 surface(noun) (The surface of the lake was completely calm., The surface of a table should be plane., I need an even surface to iron my shirt., The glue should be evenly spread on the surface., The surface of the new driveway is not dry yet.) ::: Oberfläche, Fläche, Belag
 <!--SR:!2024-12-26,33,404!2000-01-01,1,250-->
 surface(adjective) () ::: oberflächlich
-<!--SR:!2024-11-26,6,386!2000-01-01,1,250-->
+<!--SR:!2024-12-30,33,406!2000-01-01,1,250-->
 to surface(verb) (The submarine surfaced.) ::: auftauchen, an die Oberfläche kommen, belegen 
 packet(noun) (The postman brought this packet for you today.) ::: Paket, Datenpaket, Packung 
 critically(adverb) () ::: kritisch, entscheidend, bedenklich 
@@ -1059,7 +1059,7 @@ ubiquitous(adjective) (Smartphones have become ubiquitous in modern society., Th
 <!--SR:!2024-12-01,5,390!2024-12-01,5,390-->
 serendipity(noun) (They found each other by pure serendipity., The discovery was a case of scientific serendipity., Travel often brings unexpected serendipities.) ::: Glücksfall, Zufall, Schicksalsfügung
 idiosyncrasy(noun) (Her unique style is an idiosyncrasy of hers., He has an idiosyncrasy of tapping his pen while thinking., Each artist has their own idiosyncrasies.) ::: Eigenart, Besonderheit, Eigenheit
-<!--SR:!2024-12-01,5,390!2024-11-27,1,350-->
+<!--SR:!2024-12-01,5,390!2024-12-02,5,370-->
 juxtaposition(noun) (The juxtaposition of colors was striking., The film uses juxtaposition to highlight contrasts., Her art often involves the juxtaposition of natural and artificial elements.) ::: Nebeneinanderstellung, Gegenüberstellung, Kontrastierung
 <!--SR:!2024-11-24,4,366!2000-01-01,1,250-->
 quintessential(adjective) (She is the quintessential example of grace., The book is a quintessential piece of literature., His style is quintessentially minimalist.) ::: typisch, exemplarisch, vollkommen
