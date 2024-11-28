@@ -17,4 +17,4 @@ The main features of a DFA are...
 ![[Transition Function#Example $ delta$]]
 
 ## Example
-![[3.1]]
+![[3.1 - DFA Search for 01]]
