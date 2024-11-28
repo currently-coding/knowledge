@@ -30,7 +30,9 @@ Beweis:
 => aus $|S| < k+1$ folgt, dass min. zwei der $q_0, ..., q_k$ gleich sind
 d.h. es existiert $i, j$ mit $0 \leq i \lt j \leq k$ und $q_i = q_j$
 - -> zwischen $i$ und $j$ wurde einmal im Kreis gelaufen
-$x := a_1 ... a_i$    $y := a_{i+1}...a_j$    $z := a_{j+1}...a_m$
+$x := a_1 ... a_i$
+$y := a_{i+1}...a_j$
+$z := a_{j+1}...a_m$
 
 
 Damit gilt:
