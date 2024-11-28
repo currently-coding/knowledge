@@ -29,3 +29,5 @@
 **Falls zu wenig Stoff**
 ## Induktion
 - aus Lorenz erklären
+
+### Wirbelstrombremse
