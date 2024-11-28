@@ -28,6 +28,4 @@
 ---
 **Falls zu wenig Stoff**
 ## Induktion
-- 
-### Lentz'sche Regel
-- ==Argumentationskette!==
+- aus Lorenz erklären
