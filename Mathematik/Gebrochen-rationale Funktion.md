@@ -21,4 +21,9 @@ y=(x^3+5x^2-7)/(x^2-x)
 ```
 ## Definitionslücken
 ${} f(x)=\frac{p(x)}{q(x)}=n.d \implies {}$ für $q(x)=0$ ist $f(x)$ undefiniert.
+- Wann treten Definitionslücken auf?
+	-  Division mit $0$
+	- negative Wurzeln
+	- Logarithmen mit negativem Argument
 
+## Grenzwert
