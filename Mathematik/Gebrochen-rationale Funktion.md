@@ -55,14 +55,22 @@ y=(x^5-1)/(x^3+1)
 ```
 ### Leitpotenz des Zählers < Leitpotenz des Nenners
  $\Rightarrow$ Graph verläuft gegen $0$
+ ${} f(x)=\frac{x^3+1}{x^7-1} \implies\lim_\limits{ x \to \infty }f(x)=0 {}$
 ```desmos-graph
-y=(x^3+1)/(x^7-1) 
+y=(x^3+1)/(x^7-1)
 ```
 ### Leitpotenz des Zählers > Leitpotenz des Nenners
 $\Rightarrow$ Graph verläuft gegen $\pm \infty$
+$f(x)=\frac{x^{3}}{x^{-1}}     \implies \lim_\limits{ x \to \infty }f(x)= \pm \infty$
 ```desmos-graph
 right=20;left=-20;
 bottom=-20; top=20;
 ---
-y=(x^5)/(x^3+1)
+y=(x^3)/(x+1)
+```
+### Leitpotenz des Zählers = Leitpotenz des Nenner
+$\implies$ Graph verläuft gegen Leitkoeffizient
+$f(x)=\frac{x^5+2}{x^5-10}\implies \lim_\limits{ x \to  \pm\infty }f (x)=1$
+```desmos-graph
+y=(x^5+2)/(x^5-10)
 ```
