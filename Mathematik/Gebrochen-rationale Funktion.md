@@ -7,4 +7,18 @@ left=-20; right=20;
 top=20; bottom=-20;
 ---
 y=(x^3+2)/(x)
+y=10/x
+y=(x^2)/(x+2)
+y=(x^3+2x^2+x+5)/(x^5+2)
 ```
+## Nullstellen
+$$f(x)=0 \implies p(x)=0, \text{da } \frac{a}{b}=0 \text{ fuer }a=0$$
+### Beispiel
+- gegeben sei $f: \mathbb{R} \rightarrow \mathbb{R}$ mit $f(x) = \frac{x^3+5x^2-7}{x^2-x}$. Berechne alle Nullstellen.
+ Graph:
+```desmos-graph
+y=(x^3+5x^2-7)/(x^2-x)
+```
+## Definitionslücken
+${} f(x)=\frac{p(x)}{q(x)}=n.d \implies {}$ für $q(x)=0$ ist $f(x)$ undefiniert.
+
