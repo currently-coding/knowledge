@@ -61,7 +61,8 @@ y=(x^3+1)/(x^7-1)
 ### Leitpotenz des Zählers > Leitpotenz des Nenners
 $\Rightarrow$ Graph verläuft gegen $\pm \infty$
 ```desmos-graph
+right=20;left=-20;
+bottom=-20; top=20;
+---
 y=(x^5)/(x^3+1)
 ```
-
-33
