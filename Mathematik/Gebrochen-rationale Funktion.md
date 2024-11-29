@@ -19,6 +19,11 @@ $$f(x)=0 \implies p(x)=0, \text{da } \frac{a}{b}=0 \text{ fuer }a=0$$
 ```desmos-graph
 y=(x^3+5x^2-7)/(x^2-x)
 ```
+Loesung:
+$x^3+5x^2-7=0$
+$x^3+5x^2=7$
+$x^2(x+5)=7$
+
 ## Definitionslücken
 >[!Definition]
 >Sei $f: \mathbb{R} \rightarrow \mathbb{R}$ mit $D_{f}$ als Definitionsmenge. Dann ist $\mathbb{L} = \mathbb{N}-D_{f}$  die Menge aller Definitionslücken.
