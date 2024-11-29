@@ -51,6 +51,17 @@ $x_{2}=1$
 y=(x^2+1)/(x^3+1)
 y=(x^3+1)/(x^2+1)
 y=(x^3+1)/(x^2-1)
-y=(x^5-1)/(x+1)|dotted
+y=(x^5-1)/(x^3+1)
 ```
-### Leitpotenz des Zaehlers > Leitpotenz des Nenners
+### Leitpotenz des Zählers < Leitpotenz des Nenners
+ $\Rightarrow$ Graph verläuft gegen $0$
+```desmos-graph
+y=(x^3+1)/(x^7-1) 
+```
+### Leitpotenz des Zählers > Leitpotenz des Nenners
+$\Rightarrow$ Graph verläuft gegen $\pm \infty$
+```desmos-graph
+y=(x^5)/(x^3+1)
+```
+
+33
