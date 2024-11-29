@@ -49,6 +49,8 @@ $x_{2}=1$
 ### Graphen
 ```desmos-graph
 y=(x^2+1)/(x^3+1)
-y=(x^3+1)/(x^2+1)|
-y=(x^5+1)/(x^4+1)|dotted
+y=(x^3+1)/(x^2+1)
+y=(x^3+1)/(x^2-1)
+y=(x^5-1)/(x+1)|dotted
 ```
+### Leitpotenz des Zaehlers > Leitpotenz des Nenners
