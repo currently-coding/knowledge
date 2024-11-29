@@ -20,6 +20,9 @@ $$f(x)=0 \implies p(x)=0, \text{da } \frac{a}{b}=0 \text{ fuer }a=0$$
 y=(x^3+5x^2-7)/(x^2-x)
 ```
 ## Definitionslücken
+>[!Definition]
+>Sei $f: \mathbb{R} \rightarrow \mathbb{R}$ mit $D_{f}$ als Definitionsmenge. Dann ist $\mathbb{L} = \mathbb{N}-D_{f}$  die Menge aller Definitionslücken.
+
 $f(x)=\frac{p(x)}{q(x)}=n.d \implies$ für $q(x)=0$ ist $f(x)$ undefiniert.
 - Wann treten Definitionslücken auf?
 	- Division mit $0$
@@ -28,4 +31,7 @@ $f(x)=\frac{p(x)}{q(x)}=n.d \implies$ für $q(x)=0$ ist $f(x)$ undefiniert.
 
 ## Grenzwert
 - Der Grenzwert einer gebrochen-rationalen Funktion ist sein **Leitkoeffizient**
-- Leitkoeffizient = 
+- Leitkoeffizient = $\frac{\text{Koeffizient der hoechsten Potenz in }p(x)}{\text{Koeffizient der hoechsten Potenz in }q(x)}$
+### Beispiel
+- gegeben sei $f: \mathbb{R} \rightarrow \mathbb{R}$ mit $f(x) = \frac{x^3+5x^2-7}{x^2-x}$. Berechne alle Definitionslücken.
+- 
