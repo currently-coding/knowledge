@@ -26,7 +26,7 @@ Beweis:
 - Also $w = a_1 a_2 ....a_m$ mit $m \geq k$ und $a_1, a_2, ..., a_m \in \sum$
 - Für $0 \leq i \leq k$ definieren wir $q_i = \bar{\delta}(s_0, a_1a_2...a_m)$
 	- $q_i$ ist der Zustand nach dem i-ten Zeichen von $w$
-- $q_0, ..., q_k \in S$ sind $k+1$ Zustaende
+- $q_0, ..., q_k \in S$ sind $k+1$ Zustände
 => aus $|S| < k+1$ folgt, dass min. zwei der $q_0, ..., q_k$ gleich sind
 d.h. es existiert $i, j$ mit $0 \leq i \lt j \leq k$ und $q_i = q_j$
 - -> zwischen $i$ und $j$ wurde einmal im Kreis gelaufen
