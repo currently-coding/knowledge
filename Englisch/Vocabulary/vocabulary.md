@@ -597,7 +597,7 @@ to crack(verb) (The police are trying to crack the code., The ice on the puddle 
 success(noun) (His first book was a great success, everybody loved it., The book was a huge success.) ::: Erfolg, Gelingen, Triumph
 <!--SR:!2024-11-21,24,392!2024-12-06,14,363-->
 reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig
-<!--SR:!2024-11-28,22,382!2025-03-19,113,395-->
+<!--SR:!2025-03-25,115,402!2025-03-19,113,395-->
 hook(noun) (He hung his coat on a hook by the door., There are some hooks on the wall to hang coats.) ::: Haken, Hook, Häkchen
 <!--SR:!2024-12-09,30,401!2024-12-08,24,403-->
 to hook(verb) () ::: haken, anhaken, festhaken
