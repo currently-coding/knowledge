@@ -123,7 +123,7 @@ work ethic(noun) () ::: Arbeitsmoral, Arbeitsethik, Arbeitsethos
 to subsidize(verb) (Corn is cheap because it is subsidized by the government.) ::: subventionieren, bezuschussen, finanziell unterstützen
 <!--SR:!2024-12-18,67,326!2025-01-08,87,358-->
 launch(noun) (Mission control postponed the launch of the space shuttle., We are preparing the product launch., We are planning a pan-European launch for September., The launch of the new system went smoothly.) ::: Launch, Start, Markteinführung
-<!--SR:!2024-11-25,50,326!2025-01-03,83,357-->
+<!--SR:!2025-07-13,225,346!2025-01-03,83,357-->
 to launch(verb) (The space agency will launch a rocket next month., The company will launch a new product this year., The company launched a new communication system., The fireworks are launched at midnight., The shipping company launched their new cruise ship.) ::: starten, einführen
 <!--SR:!2025-01-03,83,359!2025-01-06,84,346-->
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
@@ -340,9 +340,9 @@ to revenge oneself(verb) () ::: sich rächen
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
 <!--SR:!2025-01-13,83,379!2025-01-15,80,367-->
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
-<!--SR:!2024-11-30,37,345!2025-01-02,71,359-->
+<!--SR:!2025-05-24,175,365!2025-01-02,71,359-->
 thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, hocherfreut, freudig erregt
-<!--SR:!2024-11-26,29,347!2024-12-05,47,339-->
+<!--SR:!2025-03-10,100,347!2024-12-05,47,339-->
 to thrill(verb) (The audience was thrilled by the dance performance.) ::: erfreuen, fesseln, begeistern
 <!--SR:!2024-12-23,61,367!2025-01-01,69,339-->
 harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschlupf
@@ -503,7 +503,7 @@ prompt(adjective) (This query needs a prompt response., The users expect a promp
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
 <!--SR:!2024-11-30,21,382!2025-03-22,120,405-->
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen
-<!--SR:!2024-11-30,16,363!2024-12-16,27,401-->
+<!--SR:!2025-02-18,80,383!2024-12-16,27,401-->
 victory(noun) (The new player led the team to victory., I will strive for victory.) ::: Sieg, Triumph
 <!--SR:!2025-03-17,117,412!2024-11-29,27,396-->
 disagreement(noun) (They resolved their disagreement with a compromise., The parties managed to avoid disagreements.) ::: Uneinigkeit, Unstimmigkeit, Meinungsverschiedenheit
@@ -575,7 +575,7 @@ dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, 
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2025-01-08,39,375!2024-12-17,28,403-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
-<!--SR:!2024-11-27,21,383!2024-12-07,14,363-->
+<!--SR:!2025-03-20,110,403!2024-12-07,14,363-->
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
 <!--SR:!2024-12-17,33,403!2024-12-04,32,395-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
@@ -714,7 +714,7 @@ to elbow(verb) (He elbowed his way through the crowd.) ::: drängen
 ownership(noun) (After payment, ownership passes on to the buyer., The city took ownership of the land.) ::: Eigentum, Besitz, Eigentumsrecht
 <!--SR:!2024-12-07,35,395!2024-12-07,35,395-->
 honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufrichtigkeit
-<!--SR:!2024-12-19,35,403!2024-11-28,26,395-->
+<!--SR:!2024-12-19,35,403!2025-04-17,138,415-->
 rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite
 <!--SR:!2024-12-16,32,403!2024-12-03,24,401-->
 rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres
@@ -745,7 +745,7 @@ questionnaire(noun) (The respondents filled in the questionnaire., I checked all
 surge(noun) (The surge in temperatures in the summer was not unexpected., The surge in demand was very beneficial for the company., An electrical surge damaged the computer., The minister's speech caused a surge of enthusiasm., We sat at the beach and listened to the surge.) ::: Anstieg, Überspannung, Welle
 <!--SR:!2000-01-01,1,250!2024-11-23,1,323-->
 to surge(verb) (We opened the doors and people surged into the hall., It was raining, and the waves were surging around the pier.) ::: strömen, wogen, drängen
-<!--SR:!2000-01-01,1,250!2024-11-27,1,350-->
+<!--SR:!2000-01-01,1,250!2024-12-01,1,330-->
 produce(noun) (Organic produce can be bought in the farm shop.) ::: Produkte, Produkt, Erzeugnisse
 <!--SR:!2000-01-01,1,250!2024-11-27,1,349-->
 incentive(noun) (The gold medal was an incentive for him to improve his performance further., My termination was a good incentive to look for a better job., The medal was an incentive for him to improve his performance even more.) ::: Anreiz, Anreize, Ansporn 
@@ -914,7 +914,7 @@ district(noun) (There are no schools in this district., I live in a very quiet d
 robust(adjective) (Wood is a robust building material., The system is robust and not susceptible to errors., The house is robust enough to withstand strong winds.) ::: robust, solide, stark
 <!--SR:!2024-11-20,6,386!2024-12-10,14,364-->
 robust(adjective) (Holz ist ein robustes Baumaterial., Das System ist robust und nicht anfällig für Störungen., Dieses Zelt besteht aus einem robusten und wasserdichten Stoff., Der solide Stahlrahmen ist robust und belastbar., Das Material ist robust und kann Hitze und Kälte standhalten., Gummi ist ein robustes Material., Die Schuhe sind aus robusten Materialien gefertigt.) ::: robust, strong, rugged
-<!--SR:!2024-12-16,21,384!2024-11-26,6,386-->
+<!--SR:!2024-12-16,21,384!2025-01-02,33,406-->
 robust(adverb) () ::: robustly, sturdily, ruggedly 
 pulse(noun) (Beans and peas are types of pulses.) ::: Puls, Impuls, Hülsenfrucht
 <!--SR:!2000-01-01,1,250!2024-11-25,3,364-->
@@ -946,7 +946,7 @@ navigation(noun) (A compass is used for navigation and orientation., The mouse a
 Navigation(noun) (Ein Kompass wird zur Navigation und Orientierung genutzt.) ::: navigation
 <!--SR:!2024-12-24,32,406!2000-01-01,1,250-->
 fever(noun) (I went to the doctor because I had a fever.) ::: Fieber, Fieberkrankheit, Fieberzustand
-<!--SR:!2024-11-25,6,386!2024-12-01,5,390-->
+<!--SR:!2025-01-01,32,406!2024-12-01,5,390-->
 to implement(verb) (The reforms will be implemented as soon as possible., The government implemented significant tax reforms., Companies implement new technologies to stay competitive., The company implemented the new store concept in two branches., I have implemented the changes.) ::: umsetzen, durchführen, einführen
 <!--SR:!2024-12-12,20,385!2000-01-01,1,250-->
 implement(noun) (The gardener uses a wide set of implements., The carpenter uses various implements to work wood.) ::: Gerät, Werkzeug, Instrument
@@ -1102,7 +1102,7 @@ Axiom(noun) (Das Axiom bildet die Grundlage der Berechnungen.) := axiom, self-ev
 Substanz(noun) (Die Substanz seiner Argumente ist überzeugend.) := substance, core, fundamental value
 Diskrepanz(noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) := discrepancy, inconsistency, gap
 Hypothese(noun) (Die Hypothese wurde umfassend getestet.) := hypothesis, proposed explanation, conjecture
-<!--SR:!2024-11-30,2,346-->
+<!--SR:!2024-12-10,10,366-->
 Konvergenz(noun) (Die Konvergenz der Ansichten ist bemerkenswert.) := convergence, alignment, merging
 Divergenz(noun) (Die Divergenz in den Ergebnissen wirft Fragen auf.) := divergence, difference, discrepancy
 Validität(noun) (Die Validität der Daten wurde bestätigt.) := validity, soundness, reliability
@@ -1114,7 +1114,7 @@ Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := 
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
 Synthese(noun) (Die Synthese dieser Ideen führte zu einer neuen Theorie.) := synthesis, combination, integration
 Kontingenz(noun) (Die Kontingenz der Ereignisse lässt Raum für Spekulation.) := contingency, dependency, conditionality
-<!--SR:!2024-11-27,1,350-->
+<!--SR:!2024-12-01,1,330-->
 Empirie(noun) (Empirie ist ein zentraler Bestandteil dieser Untersuchung.) := empiricism, observational evidence, experiential data
 verifizieren(verb) (Die Ergebnisse müssen verifiziert werden.) := to verify, to confirm, to validate
 falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to refute, to disprove
