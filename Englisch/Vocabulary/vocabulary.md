@@ -549,7 +549,7 @@ regardless(adjective) () ::: ungeachtet, trotzdem
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen
 <!--SR:!2024-11-07,5,382!2024-12-23,31,402-->
 prospective(adjective) (The local industry is ready for prospective challenges., The local industry is prepared for prospective challenges., We are well prepared for prospective challenges., We are going to meet a prospective business partner.) ::: künftig, prospektiv, voraussichtlich
-<!--SR:!2024-11-30,28,395!2025-03-10,107,395-->
+<!--SR:!2025-04-30,151,415!2025-03-10,107,395-->
 comparable(adjective) (We can offer a comparable alternative.) ::: vergleichbar
 <!--SR:!2024-12-04,32,392!2024-12-09,30,403-->
 random(adjective) (I had a random encounter with an old friend today., The selection of participants is completely random., The collage shows a random selection of photos., The magician called a random spectator to the stage.) ::: zufällig, willkürlich, stichprobenartig
@@ -559,7 +559,7 @@ predictable(adjective) (There were clouds in the sky, so the rain was predictabl
 to predict(verb) (The weather forecast predicts sunshine for the weekend., Experts predict a positive economic development for next year., The weather forecast predicts rain., Experts predict a positive economic development.) ::: vorhersagen, prognostizieren, voraussagen
 <!--SR:!2025-04-03,132,412!2024-12-03,31,395-->
 rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung
-<!--SR:!2024-11-28,26,396!2024-12-25,32,402-->
+<!--SR:!2025-04-22,143,416!2024-12-25,32,402-->
 to rot(verb) (Organic substances rot after a while., The fruit was no longer fresh and started to rot.) ::: verrotten, faulen, verfaulen
 <!--SR:!2025-01-29,67,381!2024-11-07,5,382-->
 modest(adjective) (He contented himself with a modest dinner.) ::: bescheiden, schlicht, dezent
@@ -573,7 +573,7 @@ to supervise(verb) (To ensure quality, production is constantly supervised., The
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant
 <!--SR:!2024-12-02,30,392!2024-12-03,11,362-->
 genuinely(adverb) () ::: wirklich, echt, authentisch
-<!--SR:!2024-11-30,8,355!2024-12-17,28,403-->
+<!--SR:!2025-01-08,39,375!2024-12-17,28,403-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
 <!--SR:!2024-11-27,21,383!2024-12-07,14,363-->
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
@@ -830,7 +830,7 @@ equally important(adjective) (The different natural sciences are equally importa
 <!--SR:!2000-01-01,1,250!2024-12-13,21,383-->
 settlement(noun) (Parts of ancient settlements were found in this forest., The accountant handles all settlements., The lawyers worked towards a settlement of the dispute., The parties agreed on an out-of-court settlement., The accountants discussed the settlement of the bills., The settlement of the invoice amount was carried out by transfer., The disputes may be resolved by a settlement.) ::: Siedlung, Abwicklung, Abrechnung 
 landing(noun) (The pilot performed a perfect landing., After landing, the plane taxied to the terminal., There was turbulence shortly before landing.) ::: Landung, Landen, Treppenabsatz
-<!--SR:!2000-01-01,1,250!2024-11-20,6,386-->
+<!--SR:!2000-01-01,1,250!2025-01-01,32,406-->
 to land(verb) (The plane has just landed at the airport., The ship landed at the port in the early afternoon.) ::: landen, anlegen, anlanden
 <!--SR:!2024-12-13,29,403!2000-01-01,1,250-->
 obesity(noun) (Obesity is a major health problem in Europe.) ::: Fettleibigkeit, Adipositas, Fettsucht
@@ -862,7 +862,7 @@ regulatory(adjective) (A regulatory framework is a system of rules., We will get
 necessity(noun) (For many people, coffee is a necessity in the morning., He made a virtue of necessity.) ::: Notwendigkeit, Not, Bedarf
 <!--SR:!2000-01-01,1,250!2024-11-26,5,363-->
 opera(noun) (We met in front of the opera at eight.) ::: Oper
-<!--SR:!2024-11-26,6,386!2000-01-01,1,250-->
+<!--SR:!2025-01-01,32,406!2000-01-01,1,250-->
 divorce(noun) (The housekeeper leaked the information about the couple's divorce.) ::: Scheidung, Trennung, Ehescheidung
 <!--SR:!2024-12-17,25,404!2000-01-01,1,250-->
 to divorce(verb) () ::: sich scheiden
@@ -952,7 +952,7 @@ to implement(verb) (The reforms will be implemented as soon as possible., The go
 implement(noun) (The gardener uses a wide set of implements., The carpenter uses various implements to work wood.) ::: Gerät, Werkzeug, Instrument
 <!--SR:!2000-01-01,1,250!2024-11-23,1,325-->
 saint(noun) () ::: Heilige, Heiliger
-<!--SR:!2024-12-08,24,404!2024-11-19,5,386-->
+<!--SR:!2024-12-08,24,404!2024-12-26,26,406-->
 saint(adjective) () ::: heilig
 <!--SR:!2000-01-01,1,250!2024-12-12,19,384-->
 rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn
