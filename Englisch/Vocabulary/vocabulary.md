@@ -23,7 +23,7 @@ accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key eleme
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) ::: genau, korrekt, sorgfältig, richtig
 <!--SR:!2024-12-04,61,319!2025-02-12,108,322-->
 acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
-<!--SR:!2025-06-03,193,322!2024-11-28,55,310-->
+<!--SR:!2025-06-03,193,322!2025-07-24,236,330-->
 acid(adjective) (I do not like acid fruits.) ::: sauer
 <!--SR:!2024-12-24,77,334!2024-12-03,60,319-->
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) ::: aktivieren, betätigen, freischalten, einschalten, auslösen
@@ -225,7 +225,7 @@ versus(noun) () ::: Rückseite einer Münze
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2025-06-02,192,353!2025-01-29,101,375-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
-<!--SR:!2025-01-27,97,373!2024-11-29,15,315-->
+<!--SR:!2025-01-27,97,373!2025-01-14,45,315-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
 <!--SR:!2025-01-18,87,375!2025-01-09,81,373-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
@@ -484,7 +484,7 @@ to resume(verb) (After a short break, they resumed negotiations., She resumed he
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
 <!--SR:!2024-12-09,30,402!2024-12-24,31,403-->
 to seize(verb) (She seized the opportunity and started a new life., The customs officer seized the undeclared goods., The police seized the suspect when he tried to run., She seized the opportunity to start her own business., Banks sometimes seize debtors' assets., The illegal items were seized at the border., The police seized the stolen goods., The invaders seized the castle after a tough battle.) ::: ergreifen, beschlagnahmen, packen
-<!--SR:!2024-11-27,1,302!2024-12-11,22,382-->
+<!--SR:!2024-12-04,4,322!2024-12-11,22,382-->
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
 <!--SR:!2024-11-27,25,396!2025-03-30,129,412-->
 to slam(verb) (The film critic slammed the new movie in a brutal review., The leader of the opposition slams the president's policy.) ::: knallen, zuschlagen, verreißen
@@ -611,7 +611,7 @@ total(adjective) (The total number of participants was 25., The course permits t
 to assist(verb) (It's her job to assist the project manager., The pupil assisted the teacher with the experiment., The girl assisted her father with the cooking., I will always assist my brother in times of need., He assisted his friends in the kitchen., If any problems arise, we will assist our partners., The consultant assisted the company in drawing up a marketing plan., The nurse assisted the doctor during the operation.) ::: unterstützen, fördern, helfen
 <!--SR:!2024-12-04,32,395!2024-12-14,28,402-->
 relevance(noun) (I could not see the relevance of his argument., The solution of the problem is of the highest relevance.) ::: Relevanz, Bedeutung, Wichtigkeit
-<!--SR:!2024-12-01,29,391!2024-11-26,24,398-->
+<!--SR:!2024-12-01,29,391!2025-04-07,128,418-->
 obstacle(noun) (We can overcome any obstacle if we do not give up., Obstacles on the track can cause an obstruction., They have successfully overcome the last obstacle., If she wants to attend the class, the cost should not be an obstacle.) ::: Hindernis, Hürde, Hinderungsgrund
 <!--SR:!2024-12-22,30,402!2024-11-20,18,373-->
 ruling(noun) (The judge announced that she will issue a ruling tomorrow., The ruling applied to all companies, whether large or small.) ::: Entscheidung, Urteil, Regelung
@@ -674,7 +674,7 @@ to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen
 <!--SR:!2024-11-28,14,363!2025-03-04,98,397-->
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
-<!--SR:!2024-11-26,24,396!2024-11-27,25,397-->
+<!--SR:!2024-11-26,24,396!2025-04-15,136,417-->
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members.) ::: Bestimmung, Regelung, Bereitstellung
 <!--SR:!2024-11-19,3,322!2024-11-29,7,313-->
 to provide(verb) (A roof provides protection from rain., We provide sustainable transport solutions., The manual provides a description of the device., The article provided some useful background information.) ::: bieten, liefern, bereitstellen
@@ -762,7 +762,7 @@ to immigrate(verb) () ::: einwandern, immigrieren, zuwandern
 resignation(noun) (The politician announced his resignation., Taking action is better than resignation., I handed in my resignation and found a new job.) ::: Rücktritt, Resignation, Kündigung
 <!--SR:!2024-11-17,3,343!2024-12-23,31,406-->
 publicity(noun) (The publicity for the new book attracted many readers., My company has had good publicity in the media.) ::: Werbung, Publicity, Publizität
-<!--SR:!2024-11-15,1,346!2024-12-27,31,403-->
+<!--SR:!2024-12-05,5,366!2024-12-27,31,403-->
 validity(noun) (The results confirm the validity of the assumption., The validity of his arguments is unquestionable.) ::: Gültigkeit, Richtigkeit, Aussagekraft 
 likewise(adverb) (Everybody started dancing, so I did likewise., Your brother is studying hard and you should do likewise.) ::: ebenfalls, gleichfalls, ebenso
 <!--SR:!2000-01-01,1,250!2024-11-27,4,304-->
@@ -1087,7 +1087,7 @@ circumspectly(adverb) (He approached the matter circumspectly., She circumspectl
 Zweckmäßigkeit(noun) (Die Zweckmäßigkeit dieser Methode ist fragwürdig.) := expediency, appropriateness, practicality
 <!--SR:!2024-11-27,1,350-->
 Evidenz(noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) := evidence, clarity, self-evidence
-<!--SR:!2024-11-25,2,346-->
+<!--SR:!2024-12-01,1,326-->
 Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambivalence, duality, mixed feelings
 Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inference, deduction, conclusion
 Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability, robustness
@@ -1131,7 +1131,7 @@ korrelieren(verb) (Die Variablen korrelieren miteinander.) := to correlate, to s
 quantifizieren(verb) (Es ist schwierig, den Einfluss zu quantifizieren.) := to quantify, to measure, to assess numerically
 kontextualisieren(verb) (Die Ergebnisse müssen kontextualisiert werden.) := to contextualize, to put in context, to frame
 analysieren(verb) (Die Daten wurden gründlich analysiert.) := to analyze, to examine, to evaluate
-<!--SR:!2024-11-26,5,386-->
+<!--SR:!2024-12-27,27,406-->
 diskreditieren(verb) (Die Kritik sollte die Argumente nicht diskreditieren.) := to discredit, to undermine, to refute
 substantiieren(verb) (Er konnte seine These mit Beweisen substantiieren.) := to substantiate, to provide evidence for, to validate
 evaluieren(verb) (Die Methode wurde im Detail evaluiert.) := to evaluate, to assess, to appraise
