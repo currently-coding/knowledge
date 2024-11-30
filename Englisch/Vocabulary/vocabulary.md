@@ -486,7 +486,7 @@ resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
 to seize(verb) (She seized the opportunity and started a new life., The customs officer seized the undeclared goods., The police seized the suspect when he tried to run., She seized the opportunity to start her own business., Banks sometimes seize debtors' assets., The illegal items were seized at the border., The police seized the stolen goods., The invaders seized the castle after a tough battle.) ::: ergreifen, beschlagnahmen, packen
 <!--SR:!2024-12-04,4,322!2024-12-11,22,382-->
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
-<!--SR:!2024-11-27,25,396!2025-03-30,129,412-->
+<!--SR:!2025-04-14,135,416!2025-03-30,129,412-->
 to slam(verb) (The film critic slammed the new movie in a brutal review., The leader of the opposition slams the president's policy.) ::: knallen, zuschlagen, verreißen
 <!--SR:!2024-12-18,46,365!2024-12-15,26,403-->
 slam(noun) () ::: Zuschlagen, Zuknallen, Aufschlagen
@@ -505,7 +505,7 @@ prompt(noun) (I got a prompt to save the file., The speaker uses cards with prom
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen
 <!--SR:!2025-02-18,80,383!2024-12-16,27,401-->
 victory(noun) (The new player led the team to victory., I will strive for victory.) ::: Sieg, Triumph
-<!--SR:!2025-03-17,117,412!2024-11-29,27,396-->
+<!--SR:!2025-03-17,117,412!2025-04-25,146,416-->
 disagreement(noun) (They resolved their disagreement with a compromise., The parties managed to avoid disagreements.) ::: Uneinigkeit, Unstimmigkeit, Meinungsverschiedenheit
 <!--SR:!2024-12-19,35,403!2024-11-29,27,397-->
 to interact(verb) (In modern computer games, you can interact with other players., The experiment showed how atoms interact with each other.) ::: interagieren, wechselwirken, zusammenwirken
@@ -553,9 +553,9 @@ prospective(adjective) (The local industry is ready for prospective challenges.,
 comparable(adjective) (We can offer a comparable alternative.) ::: vergleichbar
 <!--SR:!2024-12-04,32,392!2024-12-09,30,403-->
 random(adjective) (I had a random encounter with an old friend today., The selection of participants is completely random., The collage shows a random selection of photos., The magician called a random spectator to the stage.) ::: zufällig, willkürlich, stichprobenartig
-<!--SR:!2024-11-25,23,395!2024-11-07,5,382-->
+<!--SR:!2024-11-25,23,395!2024-12-27,27,402-->
 predictable(adjective) (There were clouds in the sky, so the rain was predictable., My friend is pretty predictable, I always know what he is going to say., We offer all our services at predictable costs.) ::: vorhersehbar, berechenbar, kalkulierbar
-<!--SR:!2024-11-27,25,397!2024-12-05,33,392-->
+<!--SR:!2025-04-13,134,417!2024-12-05,33,392-->
 to predict(verb) (The weather forecast predicts sunshine for the weekend., Experts predict a positive economic development for next year., The weather forecast predicts rain., Experts predict a positive economic development.) ::: vorhersagen, prognostizieren, voraussagen
 <!--SR:!2025-04-03,132,412!2024-12-03,31,395-->
 rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung
@@ -672,13 +672,13 @@ to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of ol
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen
 <!--SR:!2024-12-19,27,402!2024-11-15,1,318-->
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen
-<!--SR:!2024-11-28,14,363!2025-03-04,98,397-->
+<!--SR:!2025-02-07,69,383!2025-03-04,98,397-->
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
 <!--SR:!2024-11-26,24,396!2025-04-15,136,417-->
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members.) ::: Bestimmung, Regelung, Bereitstellung
 <!--SR:!2024-11-19,3,322!2024-11-29,7,313-->
 to provide(verb) (A roof provides protection from rain., We provide sustainable transport solutions., The manual provides a description of the device., The article provided some useful background information.) ::: bieten, liefern, bereitstellen
-<!--SR:!2024-12-03,19,382!2024-11-27,4,323-->
+<!--SR:!2024-12-03,19,382!2024-12-19,19,343-->
 full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig
 <!--SR:!2024-12-11,25,402!2024-12-03,31,372-->
 jail(noun) (The man was in jail for theft.) ::: Gefängnis, Knast, Kerker
@@ -1093,7 +1093,7 @@ Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inferen
 Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability, robustness
 Kausalität(noun) (Die Kausalität zwischen den Ereignissen muss überprüft werden.) := causality, cause-and-effect relationship
 Paradigmenwechsel(noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) := paradigm shift, fundamental change
-<!--SR:!2024-11-27,5,366-->
+<!--SR:!2024-12-26,26,386-->
 Kohärenz(noun) (Seine Argumentation besticht durch Kohärenz.) := coherence, consistency, logical flow
 Redundanz(noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) := redundancy, duplication, reliability-enhancing repetition
 <!--SR:!2024-12-08,15,366-->
