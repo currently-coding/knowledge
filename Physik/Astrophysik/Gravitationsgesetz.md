@@ -16,3 +16,5 @@ $$\implies a_{z} = \left( \frac{r_{E}}{r} \right)^{2}\cdot g$$
 >Die Ursache ist die allen massebehafteten Koerpern zukommende Eigenschaft sich gegenseitig Anzuziehen.
 
 $\implies \text{Gravition}$
+## Anziehungskraft die der Mond durch die Erde erfährt
+
