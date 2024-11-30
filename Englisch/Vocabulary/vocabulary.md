@@ -664,7 +664,7 @@ occupation(noun) (The judge asked the witness to state his name and occupation.,
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren
 <!--SR:!2024-12-01,17,382!2024-12-22,30,402-->
 fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur
-<!--SR:!2024-11-30,28,391!2024-12-06,14,375-->
+<!--SR:!2025-04-28,149,411!2024-12-06,14,375-->
 ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote
 <!--SR:!2025-04-05,130,417!2024-12-07,23,382-->
 to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of old remnants.) ::: weben, flechten, verweben
