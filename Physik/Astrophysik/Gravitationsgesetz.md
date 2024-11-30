@@ -17,4 +17,6 @@ $$\implies a_{z} = \left( \frac{r_{E}}{r} \right)^{2}\cdot g$$
 
 $\implies \text{Gravition}$
 ## Anziehungskraft die der Mond durch die Erde erfährt
-
+$$F_{z} \propto \frac{m_{M}}{r^2}$$
+Wegen Newton III.: $F_{z} \propto m_{E}$
+$\implies F_{z} \propto \frac{{m_{E} \cdot m_{M}}}{r^{2}} \implies F_{z}=\gamma \cdot \frac{{m_{E} \cdot m_{M}}}{r^2}{}{}$
