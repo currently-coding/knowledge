@@ -8,3 +8,11 @@ $\implies a_{z} =\frac{2 \cdot \pi}{T}^{2}\cdot r = \frac{60\cdot 6.370 \cdot 10
 
 $\frac{g}{a_{z}} = 3617 \approx 60^{2}= (\frac{r}{r_{E}})^2$
 $$\implies a_{z} = \left( \frac{r_{E}}{r} \right)^{2}\cdot g$$
+
+
+>[!Newton, 1666]
+>Die bei der Mondbewegung wirksame Zentripetalkraft hat die gleiche Ursachen wie die Kraft, die einen Apfel beschleunigt, wenn er vom Baum fällt.
+>... 20 Jahre später ...
+>Die Ursache ist die allen massebehafteten Koerpern zukommende Eigenschaft sich gegenseitig Anzuziehen.
+
+$\implies \text{Gravition}$
