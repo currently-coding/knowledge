@@ -682,7 +682,7 @@ to provide(verb) (A roof provides protection from rain., We provide sustainable 
 full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig
 <!--SR:!2024-12-11,25,402!2024-12-03,31,372-->
 jail(noun) (The man was in jail for theft.) ::: Gefängnis, Knast, Kerker
-<!--SR:!2024-11-28,26,395!2024-11-30,28,396-->
+<!--SR:!2025-04-16,137,415!2024-11-30,28,396-->
 to jail(verb) () ::: ins Gefängnis bringen, einsperren
 <!--SR:!2025-04-23,144,417!2024-12-09,30,401-->
 vibrant(adjective) (The city is famous for its vibrant cultural life., She was wearing a pullover in vibrant hues.) ::: lebendig, leuchtend, vital
@@ -704,7 +704,7 @@ width(noun) (Width, length and height are equal in a cube., I asked for the leng
 reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig
 <!--SR:!2024-11-12,3,343!2024-11-26,4,317-->
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig
-<!--SR:!2024-11-26,4,342!2024-12-12,26,401-->
+<!--SR:!2024-12-20,20,362!2024-12-12,26,401-->
 analogously(adverb) () ::: analog, sinngemäß
 <!--SR:!2025-03-27,122,417!2024-12-02,30,395-->
 succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge
@@ -1033,7 +1033,7 @@ to retrieve(verb) (We can easily retrieve the stored information from the system
 <!--SR:!2024-12-01,5,390!2024-11-23,1,326-->
 whilst(conjunction) (Whilst working I cannot take calls., The road will be closed whilst the construction is in progress.) ::: während, solange, indem 
 whilst(conjunction) () ::: obwohl, indes
-<!--SR:!2024-11-27,1,349!2000-01-01,1,250-->
+<!--SR:!2024-12-01,1,329!2000-01-01,1,250-->
 substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig 
 clothes(noun) (He folded his clothes neatly., We sell clothes made of cotton and linen., Purple clothes don't suit most people., My wife's wardrobe is filled with beautiful clothes., I want to get rid of some clothes, so I will donate them., These clothes are very trendy right now.) ::: Kleidung, Kleider, Kleidungsstücke 
 cloth(noun) (You can clean the surface with a cloth., The dye had colored the cloth red., The constant friction wore out the cloth., His shirt scratched, because it was made of coarse cloth., I always clean the windows with a soft cloth.) ::: Tuch, Leinen, Stoff
