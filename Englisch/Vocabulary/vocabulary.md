@@ -434,7 +434,7 @@ refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zu
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2025-03-18,136,389!2025-02-09,105,387-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
-<!--SR:!2024-11-28,35,327!2024-12-06,30,336-->
+<!--SR:!2025-05-07,158,347!2024-12-06,30,336-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
 <!--SR:!2025-01-24,92,388!2025-02-24,114,389-->
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
@@ -501,7 +501,7 @@ cabin(noun) (The captain has a private cabin on the ship., My parents own a cabi
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
 <!--SR:!2024-12-21,29,375!2024-12-13,29,382-->
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
-<!--SR:!2024-11-30,21,382!2025-03-22,120,405-->
+<!--SR:!2025-03-21,111,402!2025-03-22,120,405-->
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen
 <!--SR:!2025-02-18,80,383!2024-12-16,27,401-->
 victory(noun) (The new player led the team to victory., I will strive for victory.) ::: Sieg, Triumph
@@ -684,7 +684,7 @@ full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig
 jail(noun) (The man was in jail for theft.) ::: Gefängnis, Knast, Kerker
 <!--SR:!2024-11-28,26,395!2024-11-30,28,396-->
 to jail(verb) () ::: ins Gefängnis bringen, einsperren
-<!--SR:!2024-11-28,26,397!2024-12-09,30,401-->
+<!--SR:!2025-04-23,144,417!2024-12-09,30,401-->
 vibrant(adjective) (The city is famous for its vibrant cultural life., She was wearing a pullover in vibrant hues.) ::: lebendig, leuchtend, vital
 <!--SR:!2024-12-13,21,383!2024-11-06,4,357-->
 duration(noun) (The duration of the tests will not exceed two weeks., The duration of the project is six months.) ::: Dauer, Laufzeit, Zeitraum
@@ -779,7 +779,7 @@ flounder(noun) () ::: Flunder, Butt
 to flounder(verb) (Nervous people sometimes flounder when they speak., Some businesses floundered during the economic crisis., Three large fish were floundering in the fishing net.) ::: sich verhaspeln, ins Trudeln geraten, zappeln
 <!--SR:!2000-01-01,1,250!2024-11-29,3,366-->
 to skyrocket(verb) () ::: sprunghaft ansteigen, emporschnellen, in die Höhe schießen
-<!--SR:!2000-01-01,1,250!2024-11-27,1,350-->
+<!--SR:!2000-01-01,1,250!2024-12-04,4,350-->
 democratic(adjective) () ::: demokratisch
 <!--SR:!2024-11-15,6,383!2024-12-17,25,406-->
 dairy(noun) (This dairy is famous for its yoghurt.) ::: Molkerei, Käserei, Milch
