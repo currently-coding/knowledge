@@ -468,7 +468,7 @@ to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: er
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
 <!--SR:!2024-12-14,30,402!2024-11-28,6,241-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
-<!--SR:!2025-02-12,90,381!2024-11-17,29,382-->
+<!--SR:!2025-02-12,90,381!2025-05-01,152,402-->
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
 <!--SR:!2025-03-18,124,401!2025-04-24,153,402-->
 creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: Kreativität, Schaffen, Schöpferkraft
@@ -523,7 +523,7 @@ disorder(noun) (There is a good treatment for this mental disorder., The nursery
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
 <!--SR:!2024-12-21,29,375!2024-11-20,6,361-->
 revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The scientists' latest invention was revolutionary.) ::: revolutionär, bahnbrechend, umwälzend
-<!--SR:!2024-11-26,24,393!2024-12-08,29,403-->
+<!--SR:!2025-04-08,129,413!2024-12-08,29,403-->
 revolutionary(noun) (As a revolutionary, my grandmother fought against the government's policies.) ::: Revolutionär, Revolutionärin
 <!--SR:!2024-12-17,25,403!2024-11-08,6,382-->
 astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) ::: umwerfend, beeindruckend, überwältigend
