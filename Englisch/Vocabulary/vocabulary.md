@@ -466,7 +466,7 @@ to excruciate(verb) () ::: quälen
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
 <!--SR:!2025-03-14,120,405!2025-02-07,79,361-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
-<!--SR:!2024-12-14,30,402!2024-11-28,6,241-->
+<!--SR:!2024-12-14,30,402!2024-12-20,19,261-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
 <!--SR:!2025-02-12,90,381!2025-05-01,152,402-->
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
@@ -541,7 +541,7 @@ timely(adjective) (Timely procurement of raw materials is essential for producti
 globe(noun) () ::: Welt, Globus, Erdball
 <!--SR:!2024-12-22,30,403!2024-11-03,1,343-->
 to steer(verb) (The captain steers the ship away from the cliffs., It is hard to steer a ship through the narrow., The driver saw the dog and steered in the other direction.) ::: steuern, lenken, führen
-<!--SR:!2025-04-12,136,417!2024-12-01,29,395-->
+<!--SR:!2025-04-12,136,417!2025-05-04,154,415-->
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
 <!--SR:!2024-12-14,30,397!2024-12-02,30,395-->
 regardless(adjective) () ::: ungeachtet, trotzdem
@@ -593,7 +593,7 @@ intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
 crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt
 <!--SR:!2024-12-04,25,402!2024-12-18,34,402-->
 to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen
-<!--SR:!2025-02-26,96,391!2024-12-01,29,396-->
+<!--SR:!2025-02-26,96,391!2025-05-08,158,416-->
 success(noun) (His first book was a great success, everybody loved it., The book was a huge success.) ::: Erfolg, Gelingen, Triumph
 <!--SR:!2024-11-21,24,392!2024-12-06,14,363-->
 reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig
@@ -611,7 +611,7 @@ total(adjective) (The total number of participants was 25., The course permits t
 to assist(verb) (It's her job to assist the project manager., The pupil assisted the teacher with the experiment., The girl assisted her father with the cooking., I will always assist my brother in times of need., He assisted his friends in the kitchen., If any problems arise, we will assist our partners., The consultant assisted the company in drawing up a marketing plan., The nurse assisted the doctor during the operation.) ::: unterstützen, fördern, helfen
 <!--SR:!2024-12-04,32,395!2024-12-14,28,402-->
 relevance(noun) (I could not see the relevance of his argument., The solution of the problem is of the highest relevance.) ::: Relevanz, Bedeutung, Wichtigkeit
-<!--SR:!2024-12-01,29,391!2025-04-07,128,418-->
+<!--SR:!2025-05-05,155,411!2025-04-07,128,418-->
 obstacle(noun) (We can overcome any obstacle if we do not give up., Obstacles on the track can cause an obstruction., They have successfully overcome the last obstacle., If she wants to attend the class, the cost should not be an obstacle.) ::: Hindernis, Hürde, Hinderungsgrund
 <!--SR:!2024-12-22,30,402!2024-11-20,18,373-->
 ruling(noun) (The judge announced that she will issue a ruling tomorrow., The ruling applied to all companies, whether large or small.) ::: Entscheidung, Urteil, Regelung
@@ -625,7 +625,7 @@ ranking(noun) (My name was in third place in the ranking., The ranking of the ca
 to rank(verb) (She ranks among the best scientists in the world., The project manager ranked the offers according to price.) ::: einordnen
 <!--SR:!2024-11-10,14,353!2024-12-19,27,402-->
 invasion(noun) () ::: Invasion, Einmarsch, Überfall
-<!--SR:!2024-12-07,35,392!2024-11-28,26,397-->
+<!--SR:!2024-12-07,35,392!2025-04-24,144,417-->
 suspicious(adjective) (I heard suspicious noises in the attic., The investigator gave me a suspicious look.) ::: verdächtig, misstrauisch, argwöhnisch
 <!--SR:!2025-01-08,47,355!2024-12-14,30,403-->
 governor(noun) (The governor of my home state was elected by a vast majority.) ::: Gouverneur, Statthalter, Landeshauptmann
@@ -658,7 +658,7 @@ reflection(noun) (The article offers an interesting reflection on the current si
 to forbid(verb) (The hotel management has forbidden smoking at the pool., The art gallery forbids flash photography.) ::: untersagen, verbieten, verhindern
 <!--SR:!2024-12-08,29,402!2024-11-26,24,397-->
 to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, überreden
-<!--SR:!2025-02-03,72,383!2024-11-27,25,395-->
+<!--SR:!2025-02-03,72,383!2025-04-14,134,415-->
 occupation(noun) (The judge asked the witness to state his name and occupation., The occupation of the town was over and there was peace., My skills allowed me to find a better occupation., The country declared independence after a long period of occupation., The new office building is ready for occupation.) ::: Beschäftigung, Beruf, Besetzung
 <!--SR:!2025-04-19,144,411!2024-12-05,33,395-->
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren
@@ -732,7 +732,7 @@ thread(noun) (Users can discuss suggestions in a thread., She used dark blue thr
 to thread(verb) (It can be difficult to thread cotton through a needle., She threaded the beads to make a necklace., When I was a kid, I loved to thread perls on a necklace.) ::: einfädeln, auffädeln, aufziehen
 <!--SR:!2024-12-01,5,390!2024-12-17,25,384-->
 healthcare(noun) (Prevention is a key element of healthcare.) ::: Gesundheitswesen, Gesundheitsversorgung, Gesundheitsfürsorge
-<!--SR:!2000-01-01,1,250!2024-12-01,5,390-->
+<!--SR:!2000-01-01,1,250!2024-12-29,28,410-->
 to call for(verb) (The prosecution is calling for a conviction., Special situations call for special measures., This problem calls for an innovative solution., The manager called for an urgent meeting., This task calls for his undivided attention.) ::: fordern, erfordern, verlangen
 <!--SR:!2024-11-23,1,326!2000-01-01,1,250-->
 sole(adjective) (The young prince was the king's sole heir., My father is the sole provider for our family.) ::: einzig, alleinig, ausschließlich
@@ -754,7 +754,7 @@ to enforce(verb) (The police are going to enforce the new regulation., The sente
 triumph(noun) (My team's victory was a great triumph.) ::: Triumph, Sieg, Siegeszug
 <!--SR:!2024-11-15,6,384!2024-11-25,6,386-->
 to triumph(verb) (One team will triumph at the end of the game., Justice triumphed in the courtroom.) ::: siegen, den Sieg davontragen, gewinnen
-<!--SR:!2024-12-01,5,390!2000-01-01,1,250-->
+<!--SR:!2024-12-28,27,410!2000-01-01,1,250-->
 Triumph(noun) (Der Sieg meiner Mannschaft war ein großer Triumph.) ::: triumph, victory, success
 <!--SR:!2024-12-01,5,390!2024-12-12,20,383-->
 fond(adjective) (He looked at her with a fond expression in his eyes.) ::: verliebt, sehnlich, naiv 
@@ -872,7 +872,7 @@ torture(noun) (The aim of the institution is the global prohibition of torture.)
 to torture(verb) () ::: martern, quälen, foltern
 <!--SR:!2024-12-26,33,404!2024-12-01,5,389-->
 gorgeous(adjective) (The landscape in this country is just gorgeous., From the hill we had a gorgeous view at the sea.) ::: wunderschön, großartig, herrlich
-<!--SR:!2024-12-01,5,390!2024-12-01,5,390-->
+<!--SR:!2024-12-29,28,410!2024-12-01,5,390-->
 coincidence(noun) (It was pure coincidence that they were in the same city that day.) ::: Zufall, Zusammentreffen, Koinzidenz
 <!--SR:!2024-12-23,31,403!2000-01-01,1,250-->
 to coincide(verb) (Her statement coincides with my opinion., The holiday coincides with a weekend., My goals coincide with those of the company., My visit coincides with the annual music festival.) ::: übereinstimmen, zusammenfallen, sich decken
@@ -935,7 +935,7 @@ undergraduate(noun) () ::: Student
 to perceive(verb) (The discovery was perceived as a major breakthrough., Long-term trends are often difficult to perceive.) ::: wahrnehmen, erkennen, betrachten
 <!--SR:!2024-12-22,33,404!2024-12-23,26,406-->
 successor(noun) (The head of the company designated his successor today., The outgoing mayor congratulated his successor.) ::: Nachfolger, Nachfolgerin, Nachfolgemodell
-<!--SR:!2024-11-27,1,350!2000-01-01,1,250-->
+<!--SR:!2024-12-06,5,370!2000-01-01,1,250-->
 whip(noun) (The driver cracked the whip and the horses ran faster., The party promoted her to whip.) ::: Peitsche, Fraktionsvorsitzende, Gerte
 <!--SR:!2000-01-01,1,250!2024-11-28,5,364-->
 to whip(verb) (The wind whipped the rain into her face., I whipped the cream until it was stiff., In the Middle Ages it was common to whip criminal offenders., The pupils whipped into the classroom when they saw their teacher.) ::: peitschen, schlagen, auspeitschen 
@@ -1061,7 +1061,7 @@ serendipity(noun) (They found each other by pure serendipity., The discovery was
 idiosyncrasy(noun) (Her unique style is an idiosyncrasy of hers., He has an idiosyncrasy of tapping his pen while thinking., Each artist has their own idiosyncrasies.) ::: Eigenart, Besonderheit, Eigenheit
 <!--SR:!2024-12-01,5,390!2024-12-02,5,370-->
 juxtaposition(noun) (The juxtaposition of colors was striking., The film uses juxtaposition to highlight contrasts., Her art often involves the juxtaposition of natural and artificial elements.) ::: Nebeneinanderstellung, Gegenüberstellung, Kontrastierung
-<!--SR:!2024-11-24,4,366!2000-01-01,1,250-->
+<!--SR:!2024-12-20,19,386!2000-01-01,1,250-->
 quintessential(adjective) (She is the quintessential example of grace., The book is a quintessential piece of literature., His style is quintessentially minimalist.) ::: typisch, exemplarisch, vollkommen
 <!--SR:!2024-11-30,4,370!2024-11-23,1,326-->
 paradigm(noun) (The model shifted the paradigm in economics., She introduced a new paradigm in her research., The paradigm of traditional teaching is changing.) ::: Paradigma, Muster, Modell
@@ -1085,7 +1085,7 @@ resolutely(adverb) (She resolutely defended her beliefs., He resolutely pursued 
 circumspectly(adverb) (He approached the matter circumspectly., She circumspectly evaluated the options., The company circumspectly navigated the issue.) ::: umsichtig, vorsichtig, besonnen
 ### German - English
 Zweckmäßigkeit(noun) (Die Zweckmäßigkeit dieser Methode ist fragwürdig.) := expediency, appropriateness, practicality
-<!--SR:!2024-11-27,1,350-->
+<!--SR:!2024-12-02,1,330-->
 Evidenz(noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) := evidence, clarity, self-evidence
 <!--SR:!2024-12-01,1,326-->
 Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambivalence, duality, mixed feelings
@@ -1144,4 +1144,4 @@ implizieren(verb) (Seine Aussage implizierte eine Zustimmung.) := to imply, to s
 rekonstruieren(verb) (Die Ereignisse wurden aus verschiedenen Berichten rekonstruiert.) := to reconstruct, to recreate, to piece together
 koordinieren(verb) (Die Forscher koordinierten ihre Experimente.) := to coordinate, to organize, to align
 isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to isolate, to separate, to single out
-<!--SR:!2024-11-27,1,350-->
+<!--SR:!2024-12-06,5,370-->
