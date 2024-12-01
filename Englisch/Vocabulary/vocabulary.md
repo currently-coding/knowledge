@@ -698,7 +698,7 @@ to portion(verb) () ::: teilen, zuteilen, aufteilen
 secular(adjective) (A secular state does not have any official religion.) ::: säkular, weltlich, laizistisch
 <!--SR:!2024-12-06,14,363!2024-11-19,5,362-->
 storage(noun) (The storage of cheese changes its taste., A dry and dark place is ideal for the storage of wine., Proper storage of vegetables is important., The price includes transport and storage., The correct storage of wine can be quite difficult., He uses his garage for storage., The hard drive is used for the storage of data.) ::: Lagerung, Lager, Speicherung
-<!--SR:!2024-11-27,25,396!2024-12-16,32,403-->
+<!--SR:!2025-04-13,133,416!2024-12-16,32,403-->
 width(noun) (Width, length and height are equal in a cube., I asked for the length and width in yards., The width of the sleeve is adjustable.) ::: Breite, Weite, Bandbreite
 <!--SR:!2024-12-03,31,395!2024-12-09,25,402-->
 reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig
@@ -974,7 +974,7 @@ greatly(adverb) (I greatly admire this painter., The merger had greatly increase
 great(adjective) (The job requires a great sense of responsibility., The king ruled over a great kingdom., The famous director has made some great films., Thanks again for the great party!, She had a great trip to Scotland., The dress looks great, right?, The waiter was great; I am going to tip him generously.) ::: groß, großartig, super
 <!--SR:!2024-12-12,20,386!2000-01-01,1,250-->
 great(adjective) () ::: fantastisch
-<!--SR:!2024-11-27,1,350!2000-01-01,1,250-->
+<!--SR:!2024-12-06,5,370!2000-01-01,1,250-->
 structural(adjective) (The structural changes had an appreciable impact on the employees.) ::: strukturell, baulich, bautechnisch
 <!--SR:!2024-12-08,15,290!2024-12-28,32,403-->
 to structure(verb) (It is important to structure an essay carefully., I structure my lessons according to the syllabus., It is important to structure an essay clearly.) ::: strukturieren, aufbauen, gliedern
