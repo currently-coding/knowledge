@@ -6,8 +6,8 @@
     "convertFoldersToDecks": true,
     "burySiblingCards": true,
     "randomizeCardOrder": null,
-    "flashcardCardOrder": "DueFirstRandom",
-    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
+    "flashcardCardOrder": "DueFirstSequential",
+    "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
@@ -196,7 +196,13 @@
     "1737e29e058fae",
     "132a674bcf009",
     "1aa1eb6a0a2bba",
-    "1b95cc80ec61b8"
+    "1b95cc80ec61b8",
+    "1be3e1b13aa155",
+    "1ad9e41ff3a0eb",
+    "9ace0dcdb638f",
+    "139db07c00d98f",
+    "f393d4893fc07",
+    "1d4d3c4dfbf657"
   ],
   "historyDeck": null
 }

@@ -71,7 +71,7 @@ merger(noun) (The merger went well and nobody lost their job., The merger had gr
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
 <!--SR:!2024-12-13,66,343!2024-12-17,68,321-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
-<!--SR:!2024-11-22,49,320!2025-01-03,83,339-->
+<!--SR:!2025-07-06,217,340!2025-01-03,83,339-->
 free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
 <!--SR:!2024-12-17,69,341!2024-12-23,74,339-->
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) ::: Handelshemmnis, Handelsbarriere, Handelsbeschränkung
@@ -115,7 +115,7 @@ commerce(noun) (A lot of commerce was conducted in this town a century ago.) :::
 offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) ::: Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung
 <!--SR:!2024-12-12,63,326!2024-12-29,78,358-->
 Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) ::: offshoring
-<!--SR:!2024-12-01,53,330!2025-01-13,91,359-->
+<!--SR:!2025-07-30,241,350!2025-01-13,91,359-->
 environmentalism(noun) () ::: Umweltschutz
 <!--SR:!2025-01-03,82,339!2024-12-19,71,346-->
 work ethic(noun) () ::: Arbeitsmoral, Arbeitsethik, Arbeitsethos
@@ -129,7 +129,7 @@ to launch(verb) (The space agency will launch a rocket next month., The company 
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
 <!--SR:!2024-12-21,72,346!2025-01-01,79,357-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) ::: Lebensunterhalt, Lebensgrundlage, Existenz
-<!--SR:!2024-12-01,56,338!2024-12-06,58,326-->
+<!--SR:!2025-08-19,261,358!2024-12-06,58,326-->
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) ::: gedeihen, florieren, aufblühen
 <!--SR:!2025-01-02,80,346!2024-12-27,76,357-->
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) ::: Verzierung, Schnörkel, Fanfare
@@ -159,7 +159,7 @@ to promote(verb) (Our university promotes international student exchange., We pr
 inequality(noun) (Inequalities need to be redressed.) ::: Ungleichheit, Ungleichstellung, Ungleichung
 <!--SR:!2024-12-27,78,357!2024-12-20,72,350-->
 wealth(noun) (Thanks to his wealth, he can buy anything he likes., The book contains a wealth of information., The family's wealth was based on the tenure of land.) ::: Reichtum, Fülle, Wohlstand
-<!--SR:!2024-11-30,55,338!2025-01-08,88,350-->
+<!--SR:!2025-08-14,256,358!2025-01-08,88,350-->
 tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) ::: Steuer, Abgabe, Zins
 <!--SR:!2024-12-12,64,351!2025-01-02,81,350-->
 to tax(verb) (The government decided to tax corporate profits., He taxed her patience for hours.) ::: besteuern, strapazieren, versteuern
@@ -440,7 +440,7 @@ systematic(adjective) () ::: systematisch, planmäßig, planvoll
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
 <!--SR:!2025-03-02,120,387!2025-03-11,129,388-->
 strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced the chicken into strips., A narrow strip of land connects the two islands., I used a strip of cloth to mend my dress., The tailor cut the fabric into strips., Me and the boys want to go on the strip tonight.) ::: Streifen, Band, Piste
-<!--SR:!2025-04-10,145,387!2024-11-27,13,349-->
+<!--SR:!2025-04-10,145,387!2025-02-03,64,369-->
 to strip(verb) (The electrician stripped the cable and installed the lamp., It is hard to strip wallpaper off a wall., We stripped the paint with sandpaper.) ::: abisolieren, abziehen, abkratzen
 <!--SR:!2024-12-16,53,347!2024-12-25,63,369-->
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
@@ -476,11 +476,11 @@ creativity(noun) (Some games stimulate the children's creativity., Regular guest
 creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch
 <!--SR:!2025-04-20,149,401!2025-02-08,98,402-->
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
-<!--SR:!2024-11-26,20,383!2025-02-23,92,392-->
+<!--SR:!2025-03-16,105,403!2025-02-23,92,392-->
 to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun
 <!--SR:!2025-01-17,62,373!2024-12-25,32,401-->
 to resume(verb) (After a short break, they resumed negotiations., She resumed her work after lunch.) ::: wieder aufnehmen, fortsetzen, wiederaufnehmen
-<!--SR:!2024-11-26,24,397!2024-12-04,25,401-->
+<!--SR:!2025-04-10,130,417!2024-12-04,25,401-->
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
 <!--SR:!2024-12-09,30,402!2024-12-24,31,403-->
 to seize(verb) (She seized the opportunity and started a new life., The customs officer seized the undeclared goods., The police seized the suspect when he tried to run., She seized the opportunity to start her own business., Banks sometimes seize debtors' assets., The illegal items were seized at the border., The police seized the stolen goods., The invaders seized the castle after a tough battle.) ::: ergreifen, beschlagnahmen, packen
@@ -579,7 +579,7 @@ genuine(adjective) (The bag is made of genuine leather., The customer has a genu
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
 <!--SR:!2024-12-17,33,403!2024-12-04,32,395-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
-<!--SR:!2025-02-21,91,395!2024-12-01,29,397-->
+<!--SR:!2025-02-21,91,395!2025-05-09,159,417-->
 to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen
 <!--SR:!2025-01-16,52,377!2024-12-16,19,362-->
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug
@@ -637,7 +637,7 @@ to spare(verb) (Luckily, the butcher spared me a detailed description of his wor
 spare(adjective) (There are still a few spare seats on the plane., I gave my spare money to my sister because I did not need it.) ::: frei, übrig, sparsam
 <!--SR:!2024-11-21,24,392!2024-12-22,30,402-->
 firm(noun) (My brother runs a successful firm., The firm was taken over by a large group.) ::: Firma, Unternehmen, Betrieb
-<!--SR:!2024-12-01,29,395!2024-12-23,30,403-->
+<!--SR:!2025-05-06,156,415!2024-12-23,30,403-->
 firm(adjective) (The material is rigid and firm., Our company values trust as a firm basis for business., He is firm with his children.) ::: fest, solide, streng
 <!--SR:!2025-01-05,52,352!2024-12-06,34,395-->
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
@@ -656,13 +656,13 @@ to insist(verb) (The woman did not give up and insisted on her rights.) ::: poch
 reflection(noun) (The article offers an interesting reflection on the current situation., She accepted the offer after a short reflection., The pond is so calm you can see your reflection., The reflection of the sunlight on the water is beautiful.) ::: Reflexion, Überlegung, Spiegelbild
 <!--SR:!2025-02-27,97,395!2024-12-28,32,402-->
 to forbid(verb) (The hotel management has forbidden smoking at the pool., The art gallery forbids flash photography.) ::: untersagen, verbieten, verhindern
-<!--SR:!2024-12-08,29,402!2024-11-26,24,397-->
+<!--SR:!2024-12-08,29,402!2025-04-09,129,417-->
 to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, überreden
 <!--SR:!2025-02-03,72,383!2025-04-14,134,415-->
 occupation(noun) (The judge asked the witness to state his name and occupation., The occupation of the town was over and there was peace., My skills allowed me to find a better occupation., The country declared independence after a long period of occupation., The new office building is ready for occupation.) ::: Beschäftigung, Beruf, Besetzung
 <!--SR:!2025-04-19,144,411!2024-12-05,33,395-->
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren
-<!--SR:!2024-12-01,17,382!2024-12-22,30,402-->
+<!--SR:!2025-02-28,89,402!2024-12-22,30,402-->
 fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur
 <!--SR:!2025-04-28,149,411!2024-12-06,14,375-->
 ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote
@@ -694,7 +694,7 @@ upcoming(adjective) (The department is preparing for the upcoming inspection., T
 portion(noun) (I am not hungry, you can have my portion of cake., I divided the cake into four portions., He could not finish his double portion of cake., I cut the cake into six equal portions.) ::: Teil, Portion, Stück
 <!--SR:!2024-12-13,20,383!2024-12-04,25,401-->
 to portion(verb) () ::: teilen, zuteilen, aufteilen
-<!--SR:!2024-12-11,25,403!2024-12-01,15,355-->
+<!--SR:!2024-12-11,25,403!2025-02-14,75,375-->
 secular(adjective) (A secular state does not have any official religion.) ::: säkular, weltlich, laizistisch
 <!--SR:!2024-12-06,14,363!2024-11-19,5,362-->
 storage(noun) (The storage of cheese changes its taste., A dry and dark place is ideal for the storage of wine., Proper storage of vegetables is important., The price includes transport and storage., The correct storage of wine can be quite difficult., He uses his garage for storage., The hard drive is used for the storage of data.) ::: Lagerung, Lager, Speicherung
@@ -718,7 +718,7 @@ honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufr
 rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite
 <!--SR:!2024-12-16,32,403!2024-12-03,24,401-->
 rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres
-<!--SR:!2024-12-01,29,397!2024-12-18,26,403-->
+<!--SR:!2025-05-10,160,417!2024-12-18,26,403-->
 sword(noun) (The point of the sword is very sharp., He put his sword back into its sheath.) ::: Schwert, Degen, Säbel
 <!--SR:!2024-12-09,30,403!2024-12-17,33,402-->
 <!--SR:!2000-01-01,1,250!2024-11-15,6,383-->
@@ -736,7 +736,7 @@ healthcare(noun) (Prevention is a key element of healthcare.) ::: Gesundheitswes
 to call for(verb) (The prosecution is calling for a conviction., Special situations call for special measures., This problem calls for an innovative solution., The manager called for an urgent meeting., This task calls for his undivided attention.) ::: fordern, erfordern, verlangen
 <!--SR:!2024-11-23,1,326!2000-01-01,1,250-->
 sole(adjective) (The young prince was the king's sole heir., My father is the sole provider for our family.) ::: einzig, alleinig, ausschließlich
-<!--SR:!2024-12-01,5,390!2000-01-01,1,250-->
+<!--SR:!2024-12-28,27,410!2000-01-01,1,250-->
 corporation(noun) (The businessman founded a corporation., The corporation has holdings of several other companies., My father works for a big international corporation., The corporation distributed dividends to its shareholders., The investors united to form a corporation., The board is planning the affiliation of two companies to the corporation.) ::: Gesellschaft, Unternehmen, Aktiengesellschaft 
 corporate(adjective) (The project involves a corporate responsibility of all team members., The company is a corporate member of the association.) ::: gemeinsam, körperschaftlich, korporativ
 <!--SR:!2024-11-30,4,346!2000-01-01,1,250-->
@@ -747,7 +747,7 @@ surge(noun) (The surge in temperatures in the summer was not unexpected., The su
 to surge(verb) (We opened the doors and people surged into the hall., It was raining, and the waves were surging around the pier.) ::: strömen, wogen, drängen
 <!--SR:!2000-01-01,1,250!2024-12-01,1,330-->
 produce(noun) (Organic produce can be bought in the farm shop.) ::: Produkte, Produkt, Erzeugnisse
-<!--SR:!2000-01-01,1,250!2024-11-27,1,349-->
+<!--SR:!2000-01-01,1,250!2024-12-06,5,369-->
 incentive(noun) (The gold medal was an incentive for him to improve his performance further., My termination was a good incentive to look for a better job., The medal was an incentive for him to improve his performance even more.) ::: Anreiz, Anreize, Ansporn 
 to enforce(verb) (The police are going to enforce the new regulation., The sentence was enforced.) ::: durchsetzen, vollstrecken, durchführen
 <!--SR:!2024-12-22,25,406!2000-01-01,1,250-->
@@ -767,7 +767,7 @@ validity(noun) (The results confirm the validity of the assumption., The validit
 likewise(adverb) (Everybody started dancing, so I did likewise., Your brother is studying hard and you should do likewise.) ::: ebenfalls, gleichfalls, ebenso
 <!--SR:!2000-01-01,1,250!2024-11-27,4,304-->
 leap(noun) (The cat made a leap over the fence., All of her friends watched her daring leap off the tree.) ::: Sprung, Satz, Entwicklungssprung
-<!--SR:!2024-12-01,5,390!2000-01-01,1,250-->
+<!--SR:!2024-12-27,26,410!2000-01-01,1,250-->
 to leap(verb) (The child leaped over the puddle., The horse leaped over the hurdle.) ::: hüpfen, springen, überspringen 
 henceforth(adverb) (The new provision shall henceforth apply to all members., Henceforth, the new provision applies to all members.) ::: künftig, fortan, im Folgenden 
 hyperbole(noun) () ::: Übertreibung, Hyperbel
@@ -783,15 +783,15 @@ to skyrocket(verb) () ::: sprunghaft ansteigen, emporschnellen, in die Höhe sch
 democratic(adjective) () ::: demokratisch
 <!--SR:!2024-11-15,6,383!2024-12-17,25,406-->
 dairy(noun) (This dairy is famous for its yoghurt.) ::: Molkerei, Käserei, Milch
-<!--SR:!2024-12-01,5,390!2024-12-15,19,386-->
+<!--SR:!2024-12-29,28,410!2024-12-15,19,386-->
 warfare(noun) (Technology has deeply changed warfare.) ::: Kriegsführung, Krieg, Kampfführung
-<!--SR:!2000-01-01,1,250!2024-12-01,5,389-->
+<!--SR:!2000-01-01,1,250!2024-12-28,27,409-->
 pause(noun) (Press pause to stop the music., After a brief pause, I continued.) ::: Pause, Unterbrechung, Wartezeit
 <!--SR:!2024-12-23,31,406!2000-01-01,1,250-->
 to pause(verb) (I need to briefly pause and think., You can pause the playback with this button., We had to pause the film several times because of its length.) ::: innehalten, pausieren, unterbrechen
 <!--SR:!2024-12-29,28,409!2024-12-01,5,390-->
 Pause(noun) (Ich habe in meiner Pause einen Salat gegessen., Wir haben genug Zeit, um eine Pause zu machen., Drücken Sie auf Pause, um die Musik anzuhalten., Nach einer kurzen Pause machte ich weiter., Die Wanderer beschlossen, eine kurze Pause zu machen., Er braucht eine Pause, um seine Kraft wiederzugewinnen., Wir arbeiteten ohne Pause an dem neuen Projekt., Ich ging nach einer Pause von zwei Jahren zurück zur Arbeit., Während der Pause laufen alle Kinder normalerweise herum und spielen.) ::: break, pause, stop
-<!--SR:!2024-12-01,5,389!2000-01-01,1,250-->
+<!--SR:!2024-12-27,26,409!2000-01-01,1,250-->
 demonstration(noun) (Activists gathered in a peaceful demonstration., There was no riot, just a peaceful demonstration., Media coverage of the demonstration was very brief., After a demonstration in a department store, I bought a food processor., I bought you roses as a demonstration of my love., Many people took part in a large demonstration outside the town hall., The vendor gave a demonstration of his product.) ::: Demonstration, Vorführung, Beweis
 <!--SR:!2000-01-01,1,250!2024-12-09,25,403-->
 Demonstration(noun) (Aktivisten versammelten sich bei einer friedlichen Demonstration., Es gab keinen Aufruhr, nur eine friedliche Demonstration., Die Berichterstattung über die Demonstration war sehr kurz., Die Polizei löste die Demonstration auf., Tausende von Menschen nahmen an der Demonstration für Frauenrechte teil.) ::: demonstration, protest, march
@@ -1056,7 +1056,7 @@ plethora(noun) (A plethora of options were available at the store., The library 
 ephemeral(adjective) (The beauty of the sunset was ephemeral., The fame she enjoyed was fleeting and ephemeral., Childhood is often seen as ephemeral.) ::: vergänglich, kurzlebig, flüchtig
 <!--SR:!2024-11-23,1,326!2000-01-01,1,250-->
 ubiquitous(adjective) (Smartphones have become ubiquitous in modern society., The scent of coffee was ubiquitous in the café., The brand's logo was ubiquitous across the city.) ::: allgegenwärtig, überall, omnipräsent
-<!--SR:!2024-12-01,5,390!2024-12-01,5,390-->
+<!--SR:!2024-12-29,28,410!2024-12-01,5,390-->
 serendipity(noun) (They found each other by pure serendipity., The discovery was a case of scientific serendipity., Travel often brings unexpected serendipities.) ::: Glücksfall, Zufall, Schicksalsfügung
 idiosyncrasy(noun) (Her unique style is an idiosyncrasy of hers., He has an idiosyncrasy of tapping his pen while thinking., Each artist has their own idiosyncrasies.) ::: Eigenart, Besonderheit, Eigenheit
 <!--SR:!2024-12-01,5,390!2024-12-02,5,370-->
