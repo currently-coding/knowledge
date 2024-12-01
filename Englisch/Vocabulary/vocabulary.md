@@ -771,7 +771,7 @@ leap(noun) (The cat made a leap over the fence., All of her friends watched her 
 to leap(verb) (The child leaped over the puddle., The horse leaped over the hurdle.) ::: hüpfen, springen, überspringen 
 henceforth(adverb) (The new provision shall henceforth apply to all members., Henceforth, the new provision applies to all members.) ::: künftig, fortan, im Folgenden 
 hyperbole(noun) () ::: Übertreibung, Hyperbel
-<!--SR:!2024-12-16,30,403!2024-12-01,5,390-->
+<!--SR:!2024-12-16,30,403!2024-12-27,26,410-->
 to culminate(verb) (The festival culminated in a large fireworks display., The initiative culminated in a global movement., His athletic career culminated when he was 23.) ::: kulminieren, gipfeln, zum Höhepunkt kommen 
 drawback(noun) (The only drawback of my job is the low salary.) ::: Nachteil, Erstattung, Rückerstattung 
 to diminish(verb) (The new guidelines diminish risks at the workplace., My gratefulness did not diminish over the years., The gratefulness I felt did not diminish over the years., The risk of disease diminishes when we eat healthily.) ::: verringern, sich verringern, reduzieren 
@@ -1137,7 +1137,7 @@ substantiieren(verb) (Er konnte seine These mit Beweisen substantiieren.) := to 
 evaluieren(verb) (Die Methode wurde im Detail evaluiert.) := to evaluate, to assess, to appraise
 antizipieren(verb) (Er antizipierte die möglichen Probleme.) := to anticipate, to foresee, to predict
 deduzieren(verb) (Aus den Fakten kann man eine Schlussfolgerung deduzieren.) := to deduce, to infer, to conclude
-<!--SR:!2024-12-01,5,390-->
+<!--SR:!2024-12-28,27,410-->
 akkumulieren(verb) (Mit der Zeit akkumuliert sich das Wissen in diesem Bereich.) := to accumulate, to gather, to amass
 diskutieren(verb) (Die Teilnehmer diskutierten über die Ergebnisse.) := to discuss, to debate, to deliberate
 implizieren(verb) (Seine Aussage implizierte eine Zustimmung.) := to imply, to suggest, to hint at
