@@ -789,7 +789,7 @@ warfare(noun) (Technology has deeply changed warfare.) ::: Kriegsführung, Krieg
 pause(noun) (Press pause to stop the music., After a brief pause, I continued.) ::: Pause, Unterbrechung, Wartezeit
 <!--SR:!2024-12-23,31,406!2000-01-01,1,250-->
 to pause(verb) (I need to briefly pause and think., You can pause the playback with this button., We had to pause the film several times because of its length.) ::: innehalten, pausieren, unterbrechen
-<!--SR:!2024-12-01,5,389!2024-12-01,5,390-->
+<!--SR:!2024-12-29,28,409!2024-12-01,5,390-->
 Pause(noun) (Ich habe in meiner Pause einen Salat gegessen., Wir haben genug Zeit, um eine Pause zu machen., Drücken Sie auf Pause, um die Musik anzuhalten., Nach einer kurzen Pause machte ich weiter., Die Wanderer beschlossen, eine kurze Pause zu machen., Er braucht eine Pause, um seine Kraft wiederzugewinnen., Wir arbeiteten ohne Pause an dem neuen Projekt., Ich ging nach einer Pause von zwei Jahren zurück zur Arbeit., Während der Pause laufen alle Kinder normalerweise herum und spielen.) ::: break, pause, stop
 <!--SR:!2024-12-01,5,389!2000-01-01,1,250-->
 demonstration(noun) (Activists gathered in a peaceful demonstration., There was no riot, just a peaceful demonstration., Media coverage of the demonstration was very brief., After a demonstration in a department store, I bought a food processor., I bought you roses as a demonstration of my love., Many people took part in a large demonstration outside the town hall., The vendor gave a demonstration of his product.) ::: Demonstration, Vorführung, Beweis
@@ -1028,7 +1028,7 @@ profound(adjective) (The scientist was able to convince everyone with her profou
 mincer(noun) () ::: Fleischwolf, Wolf 
 to toss(verb) (When I toss a ball, my dog always brings it back.) ::: werfen, schleudern, knobeln 
 toss(noun) (The toss of the coin will decide everything.) ::: Wurf, Einwurf
-<!--SR:!2024-12-01,5,389!2000-01-01,1,250-->
+<!--SR:!2024-12-28,27,409!2000-01-01,1,250-->
 to retrieve(verb) (We can easily retrieve the stored information from the system., He throws the stick and the dog retrieves it., We can easily retrieve the data stored in the system., Some computer software can retrieve lost data., My dog loves to retrieve balls.) ::: abrufen, zurückholen, wiederherstellen
 <!--SR:!2024-12-01,5,390!2024-11-23,1,326-->
 whilst(conjunction) (Whilst working I cannot take calls., The road will be closed whilst the construction is in progress.) ::: während, solange, indem 
@@ -1050,7 +1050,7 @@ fundamental(adjective) (We discussed some fundamental questions., Freedom is a f
 elucidate(verb) (The professor took a moment to elucidate the theory., The article elucidates complex scientific concepts., She elucidated her reasons for the decision.) ::: erläutern, erklären, verdeutlichen
 <!--SR:!2024-11-28,5,366!2024-11-27,1,350-->
 meticulous(adjective) (The artist was meticulous in her attention to detail., His meticulous nature helped him succeed., She kept meticulous records of all transactions.) ::: sorgfältig, akribisch, gewissenhaft
-<!--SR:!2024-11-30,4,370!2000-01-01,1,250-->
+<!--SR:!2024-12-03,2,350!2000-01-01,1,250-->
 plethora(noun) (A plethora of options were available at the store., The library offers a plethora of resources., He has a plethora of interests and hobbies.) ::: Fülle, Überfluss, Vielzahl
 <!--SR:!2000-01-01,1,250!2024-12-30,32,406-->
 ephemeral(adjective) (The beauty of the sunset was ephemeral., The fame she enjoyed was fleeting and ephemeral., Childhood is often seen as ephemeral.) ::: vergänglich, kurzlebig, flüchtig
