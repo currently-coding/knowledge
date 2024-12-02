@@ -1,5 +1,5 @@
 abstract(adjective) (The artist is famous for his abstract paintings., Intelligence tests measure abstract reasoning.) ::: abstrakt, gegenstandslos, unbenannt, theoretisch, kurz gefasst
-<!--SR:!2024-12-02,59,310!2024-12-15,70,322-->
+<!--SR:!2025-08-12,253,330!2024-12-15,70,322-->
 abstract(noun) (I have to write an abstract for my dissertation.) ::: Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung
 <!--SR:!2024-12-04,61,310!2024-12-03,58,322-->
 to abstract(verb) (I will read the article and abstract the main ideas.) ::: trennen, abziehen, entnehmen
@@ -51,7 +51,7 @@ aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützun
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
 <!--SR:!2024-12-19,71,341!2025-05-13,175,322-->
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
-<!--SR:!2025-06-20,209,322!2024-12-02,57,316-->
+<!--SR:!2025-06-20,209,322!2025-08-08,249,336-->
 alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längsseits
 <!--SR:!2025-01-21,91,302!2024-12-11,63,337-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) ::: insgesamt, im Ganzen, alles in allem
@@ -167,7 +167,7 @@ to tax(verb) (The government decided to tax corporate profits., He taxed her pat
 recession(noun) (The recession is over and unemployment is declining., The boom after the recession meant many new jobs for the unemployed., The company registered a recession in sales., We have now overcome the recession and business is booming.) ::: Rezession, Rückgang, Flaute
 <!--SR:!2024-12-15,67,350!2024-12-26,77,357-->
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
-<!--SR:!2024-12-07,55,310!2024-12-02,56,339-->
+<!--SR:!2024-12-07,55,310!2025-08-20,261,359-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
 <!--SR:!2025-01-10,90,351!2025-01-22,91,373-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
