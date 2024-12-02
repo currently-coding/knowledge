@@ -197,7 +197,7 @@ convention(noun) (The convention on human rights was signed., International laws
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
 <!--SR:!2024-12-08,55,353!2024-12-25,64,335-->
 recipient(adjective) () ::: empfangsbereit
-<!--SR:!2024-12-02,49,332!2025-01-28,97,375-->
+<!--SR:!2025-07-14,224,352!2025-01-28,97,375-->
 electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) ::: elektronisch
 <!--SR:!2025-01-09,81,373!2025-01-21,94,375-->
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
@@ -271,7 +271,7 @@ to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
 stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
 <!--SR:!2025-06-15,200,357!2025-01-21,85,368-->
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
-<!--SR:!2024-12-02,50,357!2025-03-16,134,387-->
+<!--SR:!2025-08-04,245,377!2025-03-16,134,387-->
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
 <!--SR:!2025-01-30,98,381!2025-01-13,85,377-->
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
@@ -543,7 +543,7 @@ globe(noun) () ::: Welt, Globus, Erdball
 to steer(verb) (The captain steers the ship away from the cliffs., It is hard to steer a ship through the narrow., The driver saw the dog and steered in the other direction.) ::: steuern, lenken, führen
 <!--SR:!2025-04-12,136,417!2025-05-04,154,415-->
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
-<!--SR:!2024-12-14,30,397!2024-12-02,30,395-->
+<!--SR:!2024-12-14,30,397!2025-05-12,161,415-->
 regardless(adjective) () ::: ungeachtet, trotzdem
 <!--SR:!2025-01-30,77,373!2024-12-07,21,383-->
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen
@@ -571,7 +571,7 @@ to venture(verb) (I ventured a guess about the company's profit., He ventured a 
 to supervise(verb) (To ensure quality, production is constantly supervised., The professor supervises the student's work., The senior doctor is supervising the interns., A foreman supervises the other workers.) ::: überwachen, betreuen, beaufsichtigen
 <!--SR:!2025-03-25,123,412!2024-12-16,32,403-->
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant
-<!--SR:!2024-12-02,30,392!2024-12-03,11,362-->
+<!--SR:!2025-05-14,163,412!2024-12-03,11,362-->
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2025-01-08,39,375!2024-12-17,28,403-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
@@ -589,7 +589,7 @@ to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger stro
 intellectual(adjective) (The article remains intellectual property of the author.) ::: geistig, intellektuell, gedanklich
 <!--SR:!2024-12-07,28,401!2024-12-09,25,402-->
 intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
-<!--SR:!2024-12-05,33,393!2024-12-02,30,395-->
+<!--SR:!2024-12-05,33,393!2025-05-16,165,415-->
 crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt
 <!--SR:!2024-12-04,25,402!2024-12-18,34,402-->
 to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen
@@ -605,7 +605,7 @@ to hook(verb) () ::: haken, anhaken, festhaken
 to fix(verb) (We fixed a date for the wedding., She took a brush and began to fix her hair., The hook was fixed to the wall., I fixed the cable with a clamp., He fixed my bike., He fixed the engine of his car himself., I have fixed an appointment with the mechanic., The bicycle mechanic fixed my bike.) ::: festlegen, richten, befestigen
 <!--SR:!2024-12-10,18,363!2000-01-01,1,250-->
 total(noun) (The company invested a total of ten million dollars.) ::: Total, Gesamtbetrag, Gesamtzahl
-<!--SR:!2024-12-09,25,403!2024-12-02,30,395-->
+<!--SR:!2024-12-09,25,403!2025-05-13,162,415-->
 total(adjective) (The total number of participants was 25., The course permits total immersion in the language.) ::: total, gesamt, völlig
 <!--SR:!2024-12-09,25,402!2025-04-21,142,417-->
 to assist(verb) (It's her job to assist the project manager., The pupil assisted the teacher with the experiment., The girl assisted her father with the cooking., I will always assist my brother in times of need., He assisted his friends in the kitchen., If any problems arise, we will assist our partners., The consultant assisted the company in drawing up a marketing plan., The nurse assisted the doctor during the operation.) ::: unterstützen, fördern, helfen
@@ -706,7 +706,7 @@ reasonably(adverb) (The hotel room was reasonably comfortable, considering the c
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig
 <!--SR:!2024-12-20,20,362!2024-12-12,26,401-->
 analogously(adverb) () ::: analog, sinngemäß
-<!--SR:!2025-03-27,122,417!2024-12-02,30,395-->
+<!--SR:!2025-03-27,122,417!2025-05-12,161,415-->
 succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge
 <!--SR:!2024-12-18,26,402!2024-12-06,17,377-->
 to elbow(verb) (He elbowed his way through the crowd.) ::: drängen
@@ -795,9 +795,9 @@ Pause(noun) (Ich habe in meiner Pause einen Salat gegessen., Wir haben genug Zei
 demonstration(noun) (Activists gathered in a peaceful demonstration., There was no riot, just a peaceful demonstration., Media coverage of the demonstration was very brief., After a demonstration in a department store, I bought a food processor., I bought you roses as a demonstration of my love., Many people took part in a large demonstration outside the town hall., The vendor gave a demonstration of his product.) ::: Demonstration, Vorführung, Beweis
 <!--SR:!2000-01-01,1,250!2024-12-09,25,403-->
 Demonstration(noun) (Aktivisten versammelten sich bei einer friedlichen Demonstration., Es gab keinen Aufruhr, nur eine friedliche Demonstration., Die Berichterstattung über die Demonstration war sehr kurz., Die Polizei löste die Demonstration auf., Tausende von Menschen nahmen an der Demonstration für Frauenrechte teil.) ::: demonstration, protest, march
-<!--SR:!2024-12-02,13,366!2000-01-01,1,250-->
+<!--SR:!2025-02-04,64,386!2000-01-01,1,250-->
 to evolve(verb) (In the past decades, China's economy has been evolving rapidly., In the past decades, China's economy has been evolving rapidly., The liquid evolves flammable fumes.) ::: sich entwickeln, entwickeln, abgeben
-<!--SR:!2024-12-01,5,390!2024-12-01,5,390-->
+<!--SR:!2024-12-30,28,410!2024-12-01,5,390-->
 circuit(noun) (This electronic circuit contains several jumpers., The circuit is protected by the fuse., The electric circuit is protected by a fuse.) ::: Schaltung, Rennstrecke, Stromkreis 
 to circuit(verb) (The Earth circuits around the Sun., The small boat could not circuit the island because of the wind.) ::: kreisen, umschiffen, umfliegen
 <!--SR:!2024-11-27,5,365!2000-01-01,1,250-->
@@ -806,7 +806,7 @@ scrutiny(noun) () ::: Prüfung, Überprüfung, Untersuchung
 seldom(adjective) () ::: selten 
 seldom(adverb) (I seldom see my sister, since she lives far away., My brother is very even-tempered and seldom gets angry.) ::: selten, kaum, nicht oft 
 permanent(adjective) (The actor got a permanent engagement., The patient is under permanent monitoring., Small children demand permanent attention from their parents., His boss offered him a permanent position., The solution is temporary, not permanent.) ::: dauerhaft, permanent, ständig
-<!--SR:!2024-12-01,5,390!2024-12-02,5,370-->
+<!--SR:!2024-12-30,28,410!2024-12-02,5,370-->
 to fail(verb) (Words fail me right now., If you fail, you need to try again., After my first attempt had failed, I tried again., During the storm, the mobile phone connection failed., Good students never fail to do their homework., He was sure he had failed the exam, but the reverse was true., I took the exam despite my fear of failing., The student failed the exam and has to take it again.) ::: fehlen, scheitern, ausfallen 
 refusal(noun) (Our proposal was met with a flat refusal., His refusal to accept the truth is annoying., The scientific committee justified their refusal of the proposal.) ::: Ablehnung, Verweigerung, Weigerung
 <!--SR:!2000-01-01,1,250!2024-11-23,1,326-->
@@ -866,7 +866,7 @@ opera(noun) (We met in front of the opera at eight.) ::: Oper
 divorce(noun) (The housekeeper leaked the information about the couple's divorce.) ::: Scheidung, Trennung, Ehescheidung
 <!--SR:!2024-12-17,25,404!2000-01-01,1,250-->
 to divorce(verb) () ::: sich scheiden
-<!--SR:!2024-12-28,32,405!2024-12-01,5,390-->
+<!--SR:!2024-12-28,32,405!2024-12-30,28,410-->
 torture(noun) (The aim of the institution is the global prohibition of torture.) ::: Folter, Folterung, Qual
 <!--SR:!2024-12-25,33,406!2024-12-21,25,406-->
 to torture(verb) () ::: martern, quälen, foltern
@@ -878,13 +878,13 @@ coincidence(noun) (It was pure coincidence that they were in the same city that 
 to coincide(verb) (Her statement coincides with my opinion., The holiday coincides with a weekend., My goals coincide with those of the company., My visit coincides with the annual music festival.) ::: übereinstimmen, zusammenfallen, sich decken
 <!--SR:!2000-01-01,1,250!2024-11-27,5,366-->
 to reassure(verb) (The boy was scared about seeing the doctor, but his mother reassured him.) ::: beruhigen, rückversichern
-<!--SR:!2024-12-01,5,390!2000-01-01,1,250-->
+<!--SR:!2024-12-30,28,410!2000-01-01,1,250-->
 manufacture(noun) () ::: Herstellung, Fertigung, Produktion
 <!--SR:!2024-12-21,26,406!2024-11-23,4,366-->
 to manufacture(verb) (His company manufactures bicycle parts., The factory manufactures cars on a production line., This company manufactures bicycle parts., The cars we manufacture here are famous for their longevity., The factory manufactures bicycle parts.) ::: fertigen, herstellen, erzeugen 
 herb(noun) (This cream contains essences of herbs., Certain herbs are very effective against headaches., I plant herbs for the kitchen on my balcony.) ::: Kraut, Gewürz, Küchenkraut 
 to innovate(verb) () ::: erneuern, innovieren, Neuerungen einführen
-<!--SR:!2024-12-01,5,390!2000-01-01,1,250-->
+<!--SR:!2024-12-30,28,410!2000-01-01,1,250-->
 progressive(adjective) () ::: fortschreitend, fortschrittlich, fortlaufend 
 furious(adjective) (Yesterday's meeting ended in a furious argument.) ::: wütend, zornig, wild 
 recount(noun) () ::: Nachzählung, Bericht, Neuauszählung 
@@ -946,7 +946,7 @@ navigation(noun) (A compass is used for navigation and orientation., The mouse a
 Navigation(noun) (Ein Kompass wird zur Navigation und Orientierung genutzt.) ::: navigation
 <!--SR:!2024-12-24,32,406!2000-01-01,1,250-->
 fever(noun) (I went to the doctor because I had a fever.) ::: Fieber, Fieberkrankheit, Fieberzustand
-<!--SR:!2025-01-01,32,406!2024-12-01,5,390-->
+<!--SR:!2025-01-01,32,406!2024-12-29,27,410-->
 to implement(verb) (The reforms will be implemented as soon as possible., The government implemented significant tax reforms., Companies implement new technologies to stay competitive., The company implemented the new store concept in two branches., I have implemented the changes.) ::: umsetzen, durchführen, einführen
 <!--SR:!2024-12-12,20,385!2000-01-01,1,250-->
 implement(noun) (The gardener uses a wide set of implements., The carpenter uses various implements to work wood.) ::: Gerät, Werkzeug, Instrument
@@ -956,7 +956,7 @@ saint(noun) () ::: Heilige, Heiliger
 saint(adjective) () ::: heilig
 <!--SR:!2000-01-01,1,250!2024-12-12,19,384-->
 rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn
-<!--SR:!2000-01-01,1,250!2024-12-01,5,390-->
+<!--SR:!2000-01-01,1,250!2024-12-30,28,410-->
 to rail(verb) (She railed at the car drivers who tried to overtake her.) ::: schimpfen, wettern, fluchen 
 placement(noun) (The placement of products on the shelf affects sales., The company arranges my placement during the business trip.) ::: Platzierung, Vermittlung, Unterbringung 
 rally(noun) (The driver that wins the rally receives a trophy., The candidate held a rally in front of the town hall., The demonstrators held a rally near the station.) ::: Rallye, Kundgebung, Zusammenkunft
@@ -970,7 +970,7 @@ to forecast(verb) (Experts forecast an increase in energy demand., The met offic
 controversy(noun) () ::: Kontroverse, Auseinandersetzung, Streitigkeit
 <!--SR:!2024-12-06,20,383!2024-12-19,27,403-->
 greatly(adverb) (I greatly admire this painter., The merger had greatly increased the company's goodwill.) ::: stark, sehr, erheblich
-<!--SR:!2024-12-01,5,389!2000-01-01,1,250-->
+<!--SR:!2024-12-29,27,409!2000-01-01,1,250-->
 great(adjective) (The job requires a great sense of responsibility., The king ruled over a great kingdom., The famous director has made some great films., Thanks again for the great party!, She had a great trip to Scotland., The dress looks great, right?, The waiter was great; I am going to tip him generously.) ::: groß, großartig, super
 <!--SR:!2024-12-12,20,386!2000-01-01,1,250-->
 great(adjective) () ::: fantastisch
@@ -986,7 +986,7 @@ to strike(verb) (He convinced the fighters not to strike., He would never strike
 raid(noun) (The police planned a raid on the suspect's home., The police found no drugs in the raid., The police caught the robbers after an unsuccessful raid., Raids and attacks were common in coastal cities centuries ago., The police planned a raid on the infamous nightclub.) ::: Angriff, Razzia, Raubzug 
 to raid(verb) (Enemy troops tried to raid the city., My son is allowed to raid the fridge if he gets hungry., The robbers raided the local bank., The police raided the club in order to look for drugs.) ::: angreifen, plündern, überfallen 
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
-<!--SR:!2000-01-01,1,250!2024-12-01,5,390-->
+<!--SR:!2000-01-01,1,250!2024-12-28,26,410-->
 consequently(adverb) (I have worked a lot and consequently I need some rest., I played all my cards and consequently won the game.) ::: folglich, somit, dadurch
 <!--SR:!2024-11-15,6,383!2024-12-25,33,406-->
 consequent(adjective) () ::: folgerichtig, folgend, resultierend
@@ -1005,7 +1005,7 @@ packet(noun) (The postman brought this packet for you today.) ::: Paket, Datenpa
 critically(adverb) () ::: kritisch, entscheidend, bedenklich 
 critical(adjective) (My parents constantly stressed the importance of critical thinking., The scientist wrote a critical paper., Good management is critical for a successful company.) ::: kritisch, wesentlich, wichtig 
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
-<!--SR:!2024-12-01,5,390!2000-01-01,1,250-->
+<!--SR:!2024-12-30,28,410!2000-01-01,1,250-->
 fortunate(adjective) (The jackpot will be split between four fortunate winners.) ::: glücklich, günstig
 <!--SR:!2024-12-20,27,404!2000-01-01,1,250-->
 to testify(verb) (In court, witnesses must testify under oath., The defendant asked me to testify.) ::: bezeugen, aussagen, als Zeuge aussagen
@@ -1020,7 +1020,7 @@ to edify(verb) () ::: erbauen
 to crave(verb) (After this long winter, I am craving some sunshine., I am craving lobster and caviar tonight.) ::: sich sehnen, nach gelüsten, ersehnen
 <!--SR:!2024-12-25,33,406!2000-01-01,1,250-->
 indulgently(adverb) () ::: nachsichtig, duldsam, schonend
-<!--SR:!2000-01-01,1,250!2024-11-24,4,366-->
+<!--SR:!2000-01-01,1,250!2024-12-21,19,386-->
 indulgent(adjective) () ::: nachsichtig, nachgiebig, duldsam
 <!--SR:!2000-01-01,1,250!2024-11-28,5,366-->
 profound(adjective) (The scientist was able to convince everyone with her profound knowledge., The article provides a profound analysis of the situation.) ::: tief, tiefgreifend, fundiert
@@ -1042,7 +1042,7 @@ residential(adjective) () :::
 to tolerate(verb) (The teacher does not tolerate disruptive noises.) ::: dulden, tolerieren, vertragen
 <!--SR:!2000-01-01,1,250!2024-12-24,32,406-->
 fundamentally(adverb) () ::: grundsätzlich, grundlegend, wesentlich
-<!--SR:!2000-01-01,1,250!2024-12-01,5,365-->
+<!--SR:!2000-01-01,1,250!2024-12-26,24,385-->
 fundamental(adjective) (We discussed some fundamental questions., Freedom is a fundamental right., Freedom of speech is a fundamental human right., Sympathy is a fundamental part of good relations.) ::: grundlegend, fundamental, grundsätzlich
 <!--SR:!2024-12-21,25,406!2000-01-01,1,250-->
 ## ChatGPT eloquent
