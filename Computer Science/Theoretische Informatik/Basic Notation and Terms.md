@@ -45,7 +45,7 @@ $A - B$ := $A \setminus B$ (Difference of A and B)
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 <!--SR:!2024-12-25,54,274-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
-<!--SR:!2024-11-27,35,274-->
+<!--SR:!2025-04-12,131,294-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
 <!--SR:!2024-12-17,55,310!2024-12-13,46,299-->
 ## Tuple
@@ -73,7 +73,7 @@ $g \circ f$ := $f : A \to C$ with $(g \circ f)(x)$ := $g(f(x))$ (composition of 
 $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of definition of f)
 <!--SR:!2025-02-27,93,294-->
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
-<!--SR:!2024-12-01,39,290-->
+<!--SR:!2025-05-11,160,310-->
 $f$ is total ::: $D_f = A$
 <!--SR:!2025-04-26,151,314!2025-02-13,90,319-->
 $f$ is surjective ::: $R_f = B$
