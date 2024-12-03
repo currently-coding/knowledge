@@ -571,7 +571,7 @@ to venture(verb) (I ventured a guess about the company's profit., He ventured a 
 to supervise(verb) (To ensure quality, production is constantly supervised., The professor supervises the student's work., The senior doctor is supervising the interns., A foreman supervises the other workers.) ::: überwachen, betreuen, beaufsichtigen
 <!--SR:!2025-03-25,123,412!2024-12-16,32,403-->
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant
-<!--SR:!2025-05-14,163,412!2024-12-03,11,362-->
+<!--SR:!2025-05-14,163,412!2025-01-29,57,382-->
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2025-01-08,39,375!2024-12-17,28,403-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
@@ -678,9 +678,9 @@ worth(adjective) (My grandmother's earrings are worth a lot of money., The actor
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members.) ::: Bestimmung, Regelung, Bereitstellung
 <!--SR:!2024-11-19,3,322!2024-11-29,7,313-->
 to provide(verb) (A roof provides protection from rain., We provide sustainable transport solutions., The manual provides a description of the device., The article provided some useful background information.) ::: bieten, liefern, bereitstellen
-<!--SR:!2024-12-03,19,382!2024-12-19,19,343-->
+<!--SR:!2025-03-13,100,402!2024-12-19,19,343-->
 full-time(adjective) () ::: hauptberuflich, hauptamtlich, ganztägig
-<!--SR:!2024-12-11,25,402!2024-12-03,31,372-->
+<!--SR:!2024-12-11,25,402!2025-05-10,158,392-->
 jail(noun) (The man was in jail for theft.) ::: Gefängnis, Knast, Kerker
 <!--SR:!2025-04-16,137,415!2024-11-30,28,396-->
 to jail(verb) () ::: ins Gefängnis bringen, einsperren
@@ -700,7 +700,7 @@ secular(adjective) (A secular state does not have any official religion.) ::: s�
 storage(noun) (The storage of cheese changes its taste., A dry and dark place is ideal for the storage of wine., Proper storage of vegetables is important., The price includes transport and storage., The correct storage of wine can be quite difficult., He uses his garage for storage., The hard drive is used for the storage of data.) ::: Lagerung, Lager, Speicherung
 <!--SR:!2025-04-13,133,416!2024-12-16,32,403-->
 width(noun) (Width, length and height are equal in a cube., I asked for the length and width in yards., The width of the sleeve is adjustable.) ::: Breite, Weite, Bandbreite
-<!--SR:!2024-12-03,31,395!2024-12-09,25,402-->
+<!--SR:!2025-05-18,166,415!2024-12-09,25,402-->
 reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig
 <!--SR:!2024-11-12,3,343!2024-11-26,4,317-->
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig
@@ -716,7 +716,7 @@ ownership(noun) (After payment, ownership passes on to the buyer., The city took
 honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufrichtigkeit
 <!--SR:!2024-12-19,35,403!2025-04-17,138,415-->
 rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite
-<!--SR:!2024-12-16,32,403!2024-12-03,24,401-->
+<!--SR:!2024-12-16,32,403!2025-04-11,129,421-->
 rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres
 <!--SR:!2025-05-10,160,417!2024-12-18,26,403-->
 sword(noun) (The point of the sword is very sharp., He put his sword back into its sheath.) ::: Schwert, Degen, Säbel
