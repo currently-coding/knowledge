@@ -1,4 +1,3 @@
-ii x
 
 | Historische Geschichtsschreibung                            | Aktuelle Geschichtsschreibung    |
 | ----------------------------------------------------------- | -------------------------------- |
