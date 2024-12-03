@@ -1059,7 +1059,7 @@ ubiquitous(adjective) (Smartphones have become ubiquitous in modern society., Th
 <!--SR:!2024-12-29,28,410!2024-12-01,5,390-->
 serendipity(noun) (They found each other by pure serendipity., The discovery was a case of scientific serendipity., Travel often brings unexpected serendipities.) ::: Glücksfall, Zufall, Schicksalsfügung
 idiosyncrasy(noun) (Her unique style is an idiosyncrasy of hers., He has an idiosyncrasy of tapping his pen while thinking., Each artist has their own idiosyncrasies.) ::: Eigenart, Besonderheit, Eigenheit
-<!--SR:!2024-12-01,5,390!2024-12-02,5,370-->
+<!--SR:!2024-12-06,3,370!2024-12-02,5,370-->
 juxtaposition(noun) (The juxtaposition of colors was striking., The film uses juxtaposition to highlight contrasts., Her art often involves the juxtaposition of natural and artificial elements.) ::: Nebeneinanderstellung, Gegenüberstellung, Kontrastierung
 <!--SR:!2024-12-20,19,386!2000-01-01,1,250-->
 quintessential(adjective) (She is the quintessential example of grace., The book is a quintessential piece of literature., His style is quintessentially minimalist.) ::: typisch, exemplarisch, vollkommen
@@ -1085,9 +1085,9 @@ resolutely(adverb) (She resolutely defended her beliefs., He resolutely pursued 
 circumspectly(adverb) (He approached the matter circumspectly., She circumspectly evaluated the options., The company circumspectly navigated the issue.) ::: umsichtig, vorsichtig, besonnen
 ### German - English
 Zweckmäßigkeit(noun) (Die Zweckmäßigkeit dieser Methode ist fragwürdig.) := expediency, appropriateness, practicality
-<!--SR:!2024-12-02,1,330-->
+<!--SR:!2024-12-04,1,310-->
 Evidenz(noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) := evidence, clarity, self-evidence
-<!--SR:!2024-12-01,1,326-->
+<!--SR:!2024-12-07,4,346-->
 Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambivalence, duality, mixed feelings
 Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inference, deduction, conclusion
 Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability, robustness
@@ -1108,7 +1108,7 @@ Divergenz(noun) (Die Divergenz in den Ergebnissen wirft Fragen auf.) := divergen
 Validität(noun) (Die Validität der Daten wurde bestätigt.) := validity, soundness, reliability
 Korrelation(noun) (Die Korrelation zwischen den Variablen ist hoch.) := correlation, interdependence, relation
 Präzedenzfall(noun) (Dieser Präzedenzfall wird oft zitiert.) := precedent, prior example, case reference
-<!--SR:!2024-12-01,5,390-->
+<!--SR:!2024-12-06,3,370-->
 Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := differentiation, nuanced distinction, granularity
 Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
