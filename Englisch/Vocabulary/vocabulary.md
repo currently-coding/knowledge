@@ -1113,8 +1113,6 @@ Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := diff
 Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
 Synthese(noun) (Die Synthese dieser Ideen führte zu einer neuen Theorie.) := synthesis, combination, integration
-Kontingenz(noun) (Die Kontingenz der Ereignisse lässt Raum für Spekulation.) := contingency, dependency, conditionality
-<!--SR:!2024-12-01,1,330-->
 Empirie(noun) (Empirie ist ein zentraler Bestandteil dieser Untersuchung.) := empiricism, observational evidence, experiential data
 verifizieren(verb) (Die Ergebnisse müssen verifiziert werden.) := to verify, to confirm, to validate
 falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to refute, to disprove
