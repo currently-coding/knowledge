@@ -557,7 +557,7 @@ random(adjective) (I had a random encounter with an old friend today., The selec
 predictable(adjective) (There were clouds in the sky, so the rain was predictable., My friend is pretty predictable, I always know what he is going to say., We offer all our services at predictable costs.) ::: vorhersehbar, berechenbar, kalkulierbar
 <!--SR:!2025-04-13,134,417!2024-12-05,33,392-->
 to predict(verb) (The weather forecast predicts sunshine for the weekend., Experts predict a positive economic development for next year., The weather forecast predicts rain., Experts predict a positive economic development.) ::: vorhersagen, prognostizieren, voraussagen
-<!--SR:!2025-04-03,132,412!2024-12-03,31,395-->
+<!--SR:!2025-04-03,132,412!2025-05-19,167,415-->
 rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung
 <!--SR:!2025-04-22,143,416!2024-12-25,32,402-->
 to rot(verb) (Organic substances rot after a while., The fruit was no longer fresh and started to rot.) ::: verrotten, faulen, verfaulen
