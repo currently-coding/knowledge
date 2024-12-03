@@ -1,4 +1,3 @@
-
 | Historische Geschichtsschreibung                            | Aktuelle Geschichtsschreibung    |
 | ----------------------------------------------------------- | -------------------------------- |
 | keine Belege(Quellen)                                       | quellenbasiertes Arbeiten        |
