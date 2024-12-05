@@ -10,7 +10,7 @@
 -> Permanentmagnet
 
 
-## Hautpteil
+## Hauptteil
 ###  Lorenz
 - Magnetfelder Richtung(Magnetfeldlinien) **Hufeisenmagnet**
 - Ablenkung in Magnetfeld
