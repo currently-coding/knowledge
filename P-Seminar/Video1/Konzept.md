@@ -9,10 +9,10 @@
 - Abstoßung
 -> Permanentmagnet
 
+- Magnetfelder Richtung(Magnetfeldlinien)
 
 ## Hauptteil
 ###  Lorenz
-- Magnetfelder Richtung(Magnetfeldlinien) **Hufeisenmagnet**
 - Ablenkung in Magnetfeld
 	- Änderung bei Richtung
 => Definition 
@@ -24,9 +24,3 @@
 
 - Beispiel:
 	- Versuch vom Anfang erklären
----
-**Falls zu wenig Stoff**
-## Induktion
-- aus Lorentz erklären
-
-### Wirbelstrombremse
