@@ -1,4 +1,5 @@
-Datum: keine Ahnung
+# Protokoll der Sitzung des P-Seminars
+Datum: 03.10.2024
 Uhrzeit: 14:00
 Ort: P2
 
