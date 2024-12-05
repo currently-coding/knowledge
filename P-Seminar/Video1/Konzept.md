@@ -23,11 +23,10 @@
 
 
 - Beispiel:
-	- Wirbelstrombremse
 	- Versuch vom Anfang erklären
 ---
 **Falls zu wenig Stoff**
 ## Induktion
-- aus Lorenz erklären
+- aus Lorentz erklären
 
 ### Wirbelstrombremse
