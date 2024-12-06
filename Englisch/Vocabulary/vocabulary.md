@@ -774,12 +774,16 @@ leap(noun) (The cat made a leap over the fence., All of her friends watched her 
 <!--SR:!2024-12-27,26,410!2000-01-01,1,250-->
 to leap(verb) (The child leaped over the puddle., The horse leaped over the hurdle.) ::: hüpfen, springen, überspringen
 <!--SR:!2024-12-10,5,393!2000-01-01,1,250-->
-henceforth(adverb) (The new provision shall henceforth apply to all members., Henceforth, the new provision applies to all members.) ::: künftig, fortan, im Folgenden 
+henceforth(adverb) (The new provision shall henceforth apply to all members., Henceforth, the new provision applies to all members.) ::: künftig, fortan, im Folgenden
+<!--SR:!2024-12-11,5,394!2000-01-01,1,250-->
 hyperbole(noun) () ::: Übertreibung, Hyperbel
 <!--SR:!2024-12-16,30,403!2024-12-27,26,410-->
-to culminate(verb) (The festival culminated in a large fireworks display., The initiative culminated in a global movement., His athletic career culminated when he was 23.) ::: kulminieren, gipfeln, zum Höhepunkt kommen 
-drawback(noun) (The only drawback of my job is the low salary.) ::: Nachteil, Erstattung, Rückerstattung 
-to diminish(verb) (The new guidelines diminish risks at the workplace., My gratefulness did not diminish over the years., The gratefulness I felt did not diminish over the years., The risk of disease diminishes when we eat healthily.) ::: verringern, sich verringern, reduzieren 
+to culminate(verb) (The festival culminated in a large fireworks display., The initiative culminated in a global movement., His athletic career culminated when he was 23.) ::: kulminieren, gipfeln, zum Höhepunkt kommen
+<!--SR:!2024-12-07,1,354!2000-01-01,1,250-->
+drawback(noun) (The only drawback of my job is the low salary.) ::: Nachteil, Erstattung, Rückerstattung
+<!--SR:!2024-12-10,4,374!2000-01-01,1,250-->
+to diminish(verb) (The new guidelines diminish risks at the workplace., My gratefulness did not diminish over the years., The gratefulness I felt did not diminish over the years., The risk of disease diminishes when we eat healthily.) ::: verringern, sich verringern, reduzieren
+<!--SR:!2024-12-10,4,374!2000-01-01,1,250-->
 flounder(noun) () ::: Flunder, Butt 
 to flounder(verb) (Nervous people sometimes flounder when they speak., Some businesses floundered during the economic crisis., Three large fish were floundering in the fishing net.) ::: sich verhaspeln, ins Trudeln geraten, zappeln
 <!--SR:!2000-01-01,1,250!2024-11-29,3,366-->
@@ -1147,4 +1151,4 @@ implizieren(verb) (Seine Aussage implizierte eine Zustimmung.) := to imply, to s
 rekonstruieren(verb) (Die Ereignisse wurden aus verschiedenen Berichten rekonstruiert.) := to reconstruct, to recreate, to piece together
 koordinieren(verb) (Die Forscher koordinierten ihre Experimente.) := to coordinate, to organize, to align
 isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to isolate, to separate, to single out
-<!--SR:!2024-12-06,5,370-->
+<!--SR:!2025-01-01,26,390-->
