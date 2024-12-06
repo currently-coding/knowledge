@@ -19,7 +19,7 @@
 - Abhängigkeit von Faktoren
 	=> Richtung: Handregel
 	=> Betrag: Geschwindigkeit, Stärke des Magnetfeldes
-		- evtl $F= q \cdot v \cdot B \cdot \sin(\theta)$
+	- evtl $F= q \cdot v \cdot B \cdot \sin(\theta)$
 
 
 - Beispiel:
