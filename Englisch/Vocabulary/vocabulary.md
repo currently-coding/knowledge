@@ -1113,7 +1113,7 @@ Divergenz(noun) (Die Divergenz in den Ergebnissen wirft Fragen auf.) := divergen
 Validität(noun) (Die Validität der Daten wurde bestätigt.) := validity, soundness, reliability
 Korrelation(noun) (Die Korrelation zwischen den Variablen ist hoch.) := correlation, interdependence, relation
 Präzedenzfall(noun) (Dieser Präzedenzfall wird oft zitiert.) := precedent, prior example, case reference
-<!--SR:!2024-12-06,3,370-->
+<!--SR:!2024-12-20,14,390-->
 Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := differentiation, nuanced distinction, granularity
 Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
