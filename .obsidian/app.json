@@ -12,5 +12,8 @@
     "downscalePercent": 81
   },
   "attachmentFolderPath": "Attachments",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "showLineNumber": true
 }
