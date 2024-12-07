@@ -6,7 +6,7 @@ links: "[[00 C]]"
 ## Anwendungssituation
 - Speichern von Werten
 
-## Wie funktionierts ?
+	## Wie funktionierts ?
 - Deklaration -> Definition -> Initialisierung => Verwendung der Variable
 <!--SR:!2024-08-21,4,286-->
 - Definition und Deklaration passiert in C gleichzeitig
