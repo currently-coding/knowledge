@@ -902,7 +902,8 @@ to reassure(verb) (The boy was scared about seeing the doctor, but his mother re
 <!--SR:!2024-12-30,28,410!2000-01-01,1,250-->
 manufacture(noun) () ::: Herstellung, Fertigung, Produktion
 <!--SR:!2024-12-21,26,406!2024-11-23,4,366-->
-to manufacture(verb) (His company manufactures bicycle parts., The factory manufactures cars on a production line., This company manufactures bicycle parts., The cars we manufacture here are famous for their longevity., The factory manufactures bicycle parts.) ::: fertigen, herstellen, erzeugen 
+to manufacture(verb) (His company manufactures bicycle parts., The factory manufactures cars on a production line., This company manufactures bicycle parts., The cars we manufacture here are famous for their longevity., The factory manufactures bicycle parts.) ::: fertigen, herstellen, erzeugen
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 herb(noun) (This cream contains essences of herbs., Certain herbs are very effective against headaches., I plant herbs for the kitchen on my balcony.) ::: Kraut, Gewürz, Küchenkraut 
 to innovate(verb) () ::: erneuern, innovieren, Neuerungen einführen
 <!--SR:!2024-12-30,28,410!2000-01-01,1,250-->
