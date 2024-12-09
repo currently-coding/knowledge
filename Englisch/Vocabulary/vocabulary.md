@@ -904,13 +904,18 @@ manufacture(noun) () ::: Herstellung, Fertigung, Produktion
 <!--SR:!2024-12-21,26,406!2024-11-23,4,366-->
 to manufacture(verb) (His company manufactures bicycle parts., The factory manufactures cars on a production line., This company manufactures bicycle parts., The cars we manufacture here are famous for their longevity., The factory manufactures bicycle parts.) ::: fertigen, herstellen, erzeugen
 <!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
-herb(noun) (This cream contains essences of herbs., Certain herbs are very effective against headaches., I plant herbs for the kitchen on my balcony.) ::: Kraut, Gewürz, Küchenkraut 
+herb(noun) (This cream contains essences of herbs., Certain herbs are very effective against headaches., I plant herbs for the kitchen on my balcony.) ::: Kraut, Gewürz, Küchenkraut
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 to innovate(verb) () ::: erneuern, innovieren, Neuerungen einführen
 <!--SR:!2024-12-30,28,410!2000-01-01,1,250-->
-progressive(adjective) () ::: fortschreitend, fortschrittlich, fortlaufend 
-furious(adjective) (Yesterday's meeting ended in a furious argument.) ::: wütend, zornig, wild 
-recount(noun) () ::: Nachzählung, Bericht, Neuauszählung 
-to recount(verb) (The travel guide recounted his adventures with evident pleasure., Election officials recounted the votes to confirm the results.) ::: erzählen, nachzählen 
+progressive(adjective) () ::: fortschreitend, fortschrittlich, fortlaufend
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
+furious(adjective) (Yesterday's meeting ended in a furious argument.) ::: wütend, zornig, wild
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
+recount(noun) () ::: Nachzählung, Bericht, Neuauszählung
+<!--SR:!2024-12-10,1,355!2000-01-01,1,250-->
+to recount(verb) (The travel guide recounted his adventures with evident pleasure., Election officials recounted the votes to confirm the results.) ::: erzählen, nachzählen
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 triumph(noun) (My team's victory was a great triumph.) ::: Triumph, Sieg, Siegeszug
 <!--SR:!2000-01-01,1,250!2024-12-23,31,404-->
 hence(adverb) (The contract is signed, hence it is valid., These screws are more robust and hence last longer.) ::: daher, dadurch, deshalb 
