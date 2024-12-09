@@ -918,16 +918,20 @@ to recount(verb) (The travel guide recounted his adventures with evident pleasur
 <!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 triumph(noun) (My team's victory was a great triumph.) ::: Triumph, Sieg, Siegeszug
 <!--SR:!2000-01-01,1,250!2024-12-23,31,404-->
-hence(adverb) (The contract is signed, hence it is valid., These screws are more robust and hence last longer.) ::: daher, dadurch, deshalb 
+hence(adverb) (The contract is signed, hence it is valid., These screws are more robust and hence last longer.) ::: daher, dadurch, deshalb
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 clip(noun) (I need a clip to hold the papers together.) ::: Klemme, Klammer, Schelle
 <!--SR:!2024-12-01,5,390!2024-11-27,5,366-->
-to clip(verb) (We should clip our hedge., He clips whole syllables when he talks quickly., He clipped the string with a pair of scissors., I clip my nails before they get too long.) ::: schneiden, verschlucken, abtrennen 
+to clip(verb) (We should clip our hedge., He clips whole syllables when he talks quickly., He clipped the string with a pair of scissors., I clip my nails before they get too long.) ::: schneiden, verschlucken, abtrennen
+<!--SR:!2024-12-13,4,375!2000-01-01,1,250-->
 replacement(noun) (We guarantee a free replacement of defective goods., I asked for the replacement of obsolete equipment., The company guarantees free replacement of defective goods., The replacement of broken parts is included in the warranty.) ::: Ersatz, Ersatzlieferung, Ersetzen
 <!--SR:!2000-01-01,1,250!2024-11-28,5,366-->
 mechanism(noun) (The engineer explained the mechanism of the machine., A special mechanism prevents the device from overheating.) ::: Mechanismus, Mechanik, Vorrichtung
 <!--SR:!2024-12-27,27,406!2024-12-17,31,404-->
-rebel(noun) (The rebels schemed to overthrow the king.) ::: Rebell, Rebellin, Aufrührer 
-to rebel(verb) (The opposition rebelled against the new draft law.) ::: rebellieren, sich auflehnen, aufbegehren 
+rebel(noun) (The rebels schemed to overthrow the king.) ::: Rebell, Rebellin, Aufrührer
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
+to rebel(verb) (The opposition rebelled against the new draft law.) ::: rebellieren, sich auflehnen, aufbegehren
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 rebel(adjective) () ::: rebellisch, abtrünnig
 <!--SR:!2000-01-01,1,250!2024-12-21,29,386-->
 yield(noun) (The farmer was pleased with the high yield., Farmers are interested in crops with a higher yield., Despite the cold summer, the yield of vegetables was satisfactory., The yield of the sale is higher than expected.) ::: Ertrag, Ausbeute, Gewinn
@@ -939,10 +943,9 @@ to yield to(verb) () ::: Platz machen
 district(noun) (There are no schools in this district., I live in a very quiet district of Amsterdam., In our district, waste is collected on Wednesdays., Most capitals are divided into several districts.) ::: Bezirk, Stadtteil, Kreis
 <!--SR:!2000-01-01,1,250!2024-11-28,5,366-->
 robust(adjective) (Wood is a robust building material., The system is robust and not susceptible to errors., The house is robust enough to withstand strong winds.) ::: robust, solide, stark
-<!--SR:!2024-11-20,6,386!2024-12-10,14,364-->
-robust(adjective) (Holz ist ein robustes Baumaterial., Das System ist robust und nicht anfällig für Störungen., Dieses Zelt besteht aus einem robusten und wasserdichten Stoff., Der solide Stahlrahmen ist robust und belastbar., Das Material ist robust und kann Hitze und Kälte standhalten., Gummi ist ein robustes Material., Die Schuhe sind aus robusten Materialien gefertigt.) ::: robust, strong, rugged
 <!--SR:!2024-12-16,21,384!2025-01-02,33,406-->
-robust(adverb) () ::: robustly, sturdily, ruggedly 
+robust(adverb) () ::: robustly, sturdily, ruggedly
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 pulse(noun) (Beans and peas are types of pulses.) ::: Puls, Impuls, Hülsenfrucht
 <!--SR:!2000-01-01,1,250!2024-11-25,3,364-->
 to pulse(verb) (He felt the blood pulsing in his veins.) ::: pulsieren, pochen, pulsen
@@ -955,8 +958,10 @@ to seal(verb) (I stamped and sealed the envelopes., I used adhesive tape to seal
 <!--SR:!2024-12-13,20,383!2024-12-01,5,390-->
 specification(noun) (The technical specifications are listed in the manual., The specifications listed in the manual are quite confusing., The specifications of the project are detailed in the report., I assembled the table according to the specification., The specifications of the project are clear and precise.) ::: Spezifikation, Angabe, Festlegung
 <!--SR:!2024-12-15,29,403!2024-12-26,33,404-->
-to specify(verb) (The manager specified the deadline for applications., I specified all values in the contract., The contents are specified on the back of the package., I must specify the payee in the transaction form., The customer can specify the time of delivery.) ::: festlegen, angeben, bestimmen 
-standing(noun) (His standing in the community goes back to his social commitment., Their relationship is already of long standing., The company has a very good standing all over the world.) ::: Stand, Ansehen, Dauer 
+to specify(verb) (The manager specified the deadline for applications., I specified all values in the contract., The contents are specified on the back of the package., I must specify the payee in the transaction form., The customer can specify the time of delivery.) ::: festlegen, angeben, bestimmen
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
+standing(noun) (His standing in the community goes back to his social commitment., Their relationship is already of long standing., The company has a very good standing all over the world.) ::: Stand, Ansehen, Dauer
+<!--SR:!2024-12-10,1,355!2000-01-01,1,250-->
 undergraduate(noun) () ::: Student
 <!--SR:!2000-01-01,1,250!2024-11-27,5,366-->
 to perceive(verb) (The discovery was perceived as a major breakthrough., Long-term trends are often difficult to perceive.) ::: wahrnehmen, erkennen, betrachten
@@ -965,7 +970,8 @@ successor(noun) (The head of the company designated his successor today., The ou
 <!--SR:!2024-12-06,5,370!2000-01-01,1,250-->
 whip(noun) (The driver cracked the whip and the horses ran faster., The party promoted her to whip.) ::: Peitsche, Fraktionsvorsitzende, Gerte
 <!--SR:!2000-01-01,1,250!2024-11-28,5,364-->
-to whip(verb) (The wind whipped the rain into her face., I whipped the cream until it was stiff., In the Middle Ages it was common to whip criminal offenders., The pupils whipped into the classroom when they saw their teacher.) ::: peitschen, schlagen, auspeitschen 
+to whip(verb) (The wind whipped the rain into her face., I whipped the cream until it was stiff., In the Middle Ages it was common to whip criminal offenders., The pupils whipped into the classroom when they saw their teacher.) ::: peitschen, schlagen, auspeitschen
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 residue(noun) (My drink left a sticky residue in my glass.) ::: Rückstände, Rückstand, Rest
 <!--SR:!2024-12-19,27,404!2000-01-01,1,250-->
 navigation(noun) (A compass is used for navigation and orientation., The mouse and keyboard are used for navigation.) ::: Navigation, Schifffahrt, Steuerung
@@ -984,12 +990,16 @@ saint(adjective) () ::: heilig
 <!--SR:!2000-01-01,1,250!2024-12-12,19,384-->
 rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn
 <!--SR:!2000-01-01,1,250!2024-12-30,28,410-->
-to rail(verb) (She railed at the car drivers who tried to overtake her.) ::: schimpfen, wettern, fluchen 
-placement(noun) (The placement of products on the shelf affects sales., The company arranges my placement during the business trip.) ::: Platzierung, Vermittlung, Unterbringung 
+to rail(verb) (She railed at the car drivers who tried to overtake her.) ::: schimpfen, wettern, fluchen
+<!--SR:!2024-12-13,4,375!2000-01-01,1,250-->
+placement(noun) (The placement of products on the shelf affects sales., The company arranges my placement during the business trip.) ::: Platzierung, Vermittlung, Unterbringung
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 rally(noun) (The driver that wins the rally receives a trophy., The candidate held a rally in front of the town hall., The demonstrators held a rally near the station.) ::: Rallye, Kundgebung, Zusammenkunft
 <!--SR:!2024-11-27,4,343!2000-01-01,1,250-->
-to rally(verb) (The country rallied quickly after the economic crisis., Thousands of people rallied for the demonstration.) ::: sich erholen, sich versammeln, um sich scharen 
-respective(adjective) (The dogs ran back to their respective owners., You can follow the lecture on the respective pages in the textbook.) ::: jeweilig, betreffend, einschlägig 
+to rally(verb) (The country rallied quickly after the economic crisis., Thousands of people rallied for the demonstration.) ::: sich erholen, sich versammeln, um sich scharen
+<!--SR:!2024-12-10,1,355!2000-01-01,1,250-->
+respective(adjective) (The dogs ran back to their respective owners., You can follow the lecture on the respective pages in the textbook.) ::: jeweilig, betreffend, einschlägig
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 forecast(noun) (According to the forecast, it's going to be cloudy tomorrow., The forecast was positive, so I invested some money.) ::: Vorhersage, Prognose, Voraussage
 <!--SR:!2024-11-18,4,366!2024-11-27,5,366-->
 to forecast(verb) (Experts forecast an increase in energy demand., The met office is forecasting rain for this weekend., The meteorologists forecast rain this weekend.) ::: prognostizieren, vorhersagen, voraussagen
@@ -1010,15 +1020,18 @@ striking(adjective / present participle) (There is a striking resemblance betwee
 <!--SR:!2024-12-08,15,366!2000-01-01,1,250-->
 to strike(verb) (He convinced the fighters not to strike., He would never strike a person outside the boxing ring., The baseball bat struck the ball., In some countries civil servants are not allowed to strike., The pianist struck the keys like a virtuoso., His strange looks struck me immediately.) ::: zuschlagen, schlagen, treffen
 <!--SR:!2000-01-01,1,250!2024-11-27,4,346-->
-raid(noun) (The police planned a raid on the suspect's home., The police found no drugs in the raid., The police caught the robbers after an unsuccessful raid., Raids and attacks were common in coastal cities centuries ago., The police planned a raid on the infamous nightclub.) ::: Angriff, Razzia, Raubzug 
-to raid(verb) (Enemy troops tried to raid the city., My son is allowed to raid the fridge if he gets hungry., The robbers raided the local bank., The police raided the club in order to look for drugs.) ::: angreifen, plündern, überfallen 
+raid(noun) (The police planned a raid on the suspect's home., The police found no drugs in the raid., The police caught the robbers after an unsuccessful raid., Raids and attacks were common in coastal cities centuries ago., The police planned a raid on the infamous nightclub.) ::: Angriff, Razzia, Raubzug
+<!--SR:!2024-12-10,1,355!2000-01-01,1,250-->
+to raid(verb) (Enemy troops tried to raid the city., My son is allowed to raid the fridge if he gets hungry., The robbers raided the local bank., The police raided the club in order to look for drugs.) ::: angreifen, plündern, überfallen
+<!--SR:!2024-12-10,1,355!2000-01-01,1,250-->
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 <!--SR:!2000-01-01,1,250!2024-12-28,26,410-->
 consequently(adverb) (I have worked a lot and consequently I need some rest., I played all my cards and consequently won the game.) ::: folglich, somit, dadurch
 <!--SR:!2024-11-15,6,383!2024-12-25,33,406-->
 consequent(adjective) () ::: folgerichtig, folgend, resultierend
 <!--SR:!2024-12-17,25,406!2024-11-21,1,346-->
-viable(adjective) (The project seems viable in the long run., The new regulations are perfectly viable.) ::: lebensfähig, durchführbar, umsetzbar 
+viable(adjective) (The project seems viable in the long run., The new regulations are perfectly viable.) ::: lebensfähig, durchführbar, umsetzbar
+<!--SR:!2024-12-13,4,375!2000-01-01,1,250-->
 supervision(noun) (This machine should only be operated under supervision., The machine may only be used under the supervision of an expert.) ::: Aufsicht, Supervision, Überwachung
 <!--SR:!2025-03-22,107,404!2000-01-01,1,250-->
 to mate(verb) (Elephants mate rarely and have only one calf.) ::: sich paaren, verbinden, sich verpaaren
@@ -1027,10 +1040,14 @@ surface(noun) (The surface of the lake was completely calm., The surface of a ta
 <!--SR:!2024-12-26,33,404!2000-01-01,1,250-->
 surface(adjective) () ::: oberflächlich
 <!--SR:!2024-12-30,33,406!2000-01-01,1,250-->
-to surface(verb) (The submarine surfaced.) ::: auftauchen, an die Oberfläche kommen, belegen 
-packet(noun) (The postman brought this packet for you today.) ::: Paket, Datenpaket, Packung 
-critically(adverb) () ::: kritisch, entscheidend, bedenklich 
-critical(adjective) (My parents constantly stressed the importance of critical thinking., The scientist wrote a critical paper., Good management is critical for a successful company.) ::: kritisch, wesentlich, wichtig 
+to surface(verb) (The submarine surfaced.) ::: auftauchen, an die Oberfläche kommen, belegen
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
+packet(noun) (The postman brought this packet for you today.) ::: Paket, Datenpaket, Packung
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
+critically(adverb) () ::: kritisch, entscheidend, bedenklich
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
+critical(adjective) (My parents constantly stressed the importance of critical thinking., The scientist wrote a critical paper., Good management is critical for a successful company.) ::: kritisch, wesentlich, wichtig
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
 <!--SR:!2024-12-30,28,410!2000-01-01,1,250-->
 fortunate(adjective) (The jackpot will be split between four fortunate winners.) ::: glücklich, günstig
@@ -1117,7 +1134,7 @@ Evidenz(noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) := evidenc
 <!--SR:!2024-12-27,18,366-->
 Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambivalence, duality, mixed feelings
 Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inference, deduction, conclusion
-Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability, robustness
+Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability
 Kausalität(noun) (Die Kausalität zwischen den Ereignissen muss überprüft werden.) := causality, cause-and-effect relationship
 Paradigmenwechsel(noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) := paradigm shift, fundamental change
 <!--SR:!2024-12-26,26,386-->
