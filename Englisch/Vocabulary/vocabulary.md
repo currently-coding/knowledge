@@ -1096,7 +1096,7 @@ circumspectly(adverb) (He approached the matter circumspectly., She circumspectl
 Zweckmäßigkeit(noun) (Die Zweckmäßigkeit dieser Methode ist fragwürdig.) := expediency, appropriateness, practicality
 <!--SR:!2024-12-11,2,310-->
 Evidenz(noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) := evidence, clarity, self-evidence
-<!--SR:!2024-12-07,4,346-->
+<!--SR:!2024-12-27,18,366-->
 Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambivalence, duality, mixed feelings
 Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inference, deduction, conclusion
 Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability, robustness
@@ -1105,7 +1105,7 @@ Paradigmenwechsel(noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) 
 <!--SR:!2024-12-26,26,386-->
 Kohärenz(noun) (Seine Argumentation besticht durch Kohärenz.) := coherence, consistency, logical flow
 Redundanz(noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) := redundancy, duplication, reliability-enhancing repetition
-<!--SR:!2024-12-08,15,366-->
+<!--SR:!2025-02-22,75,386-->
 Prämisse(noun) (Die Prämisse der Theorie ist umstritten.) := premise, assumption, foundational idea
 Axiom(noun) (Das Axiom bildet die Grundlage der Berechnungen.) := axiom, self-evident truth, unproven principle
 Substanz(noun) (Die Substanz seiner Argumente ist überzeugend.) := substance, core, fundamental value
@@ -1128,7 +1128,7 @@ falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to 
 implizieren(verb) (Seine Worte implizieren eine Zustimmung.) := to imply, to suggest, to entail
 extrapolieren(verb) (Die Daten erlauben es uns, zukünftige Trends zu extrapolieren.) := to extrapolate, to predict based on data, to project
 konvergieren(verb) (Die Meinungen konvergieren in einem Punkt.) := to converge, to come together, to align
-<!--SR:!2024-12-08,16,366-->
+<!--SR:!2025-02-24,77,386-->
 divergieren(verb) (Die Ansichten der Experten divergieren stark.) := to diverge, to differ, to split
 synthetisieren(verb) (Die Studie synthetisiert die Ergebnisse mehrerer Forschungen.) := to synthesize, to integrate, to combine
 diffundieren(verb) (Das Wissen diffundiert langsam in die Gesellschaft.) := to diffuse, to spread gradually, to permeate
