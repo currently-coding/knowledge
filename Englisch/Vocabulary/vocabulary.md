@@ -784,7 +784,8 @@ drawback(noun) (The only drawback of my job is the low salary.) ::: Nachteil, Er
 <!--SR:!2024-12-10,4,374!2000-01-01,1,250-->
 to diminish(verb) (The new guidelines diminish risks at the workplace., My gratefulness did not diminish over the years., The gratefulness I felt did not diminish over the years., The risk of disease diminishes when we eat healthily.) ::: verringern, sich verringern, reduzieren
 <!--SR:!2024-12-10,4,374!2000-01-01,1,250-->
-flounder(noun) () ::: Flunder, Butt 
+flounder(noun) () ::: Flunder, Butt
+<!--SR:!2024-12-10,1,354!2000-01-01,1,250-->
 to flounder(verb) (Nervous people sometimes flounder when they speak., Some businesses floundered during the economic crisis., Three large fish were floundering in the fishing net.) ::: sich verhaspeln, ins Trudeln geraten, zappeln
 <!--SR:!2000-01-01,1,250!2024-11-29,3,366-->
 to skyrocket(verb) () ::: sprunghaft ansteigen, emporschnellen, in die Höhe schießen
@@ -807,23 +808,28 @@ Demonstration(noun) (Aktivisten versammelten sich bei einer friedlichen Demonstr
 <!--SR:!2025-02-04,64,386!2000-01-01,1,250-->
 to evolve(verb) (In the past decades, China's economy has been evolving rapidly., In the past decades, China's economy has been evolving rapidly., The liquid evolves flammable fumes.) ::: sich entwickeln, entwickeln, abgeben
 <!--SR:!2024-12-30,28,410!2024-12-01,5,390-->
-circuit(noun) (This electronic circuit contains several jumpers., The circuit is protected by the fuse., The electric circuit is protected by a fuse.) ::: Schaltung, Rennstrecke, Stromkreis 
+circuit(noun) (This electronic circuit contains several jumpers., The circuit is protected by the fuse., The electric circuit is protected by a fuse.) ::: Schaltung, Rennstrecke, Stromkreis
+<!--SR:!2024-12-14,5,394!2000-01-01,1,250-->
 to circuit(verb) (The Earth circuits around the Sun., The small boat could not circuit the island because of the wind.) ::: kreisen, umschiffen, umfliegen
 <!--SR:!2024-11-27,5,365!2000-01-01,1,250-->
 scrutiny(noun) () ::: Prüfung, Überprüfung, Untersuchung
 <!--SR:!2000-01-01,1,250!2024-11-23,1,323-->
-seldom(adjective) () ::: selten 
-seldom(adverb) (I seldom see my sister, since she lives far away., My brother is very even-tempered and seldom gets angry.) ::: selten, kaum, nicht oft 
+seldom(adjective) () ::: selten
+<!--SR:!2024-12-14,5,394!2000-01-01,1,250-->
+seldom(adverb) (I seldom see my sister, since she lives far away., My brother is very even-tempered and seldom gets angry.) ::: selten, kaum, nicht oft
+<!--SR:!2024-12-14,5,394!2000-01-01,1,250-->
 permanent(adjective) (The actor got a permanent engagement., The patient is under permanent monitoring., Small children demand permanent attention from their parents., His boss offered him a permanent position., The solution is temporary, not permanent.) ::: dauerhaft, permanent, ständig
 <!--SR:!2024-12-30,28,410!2024-12-02,5,370-->
-to fail(verb) (Words fail me right now., If you fail, you need to try again., After my first attempt had failed, I tried again., During the storm, the mobile phone connection failed., Good students never fail to do their homework., He was sure he had failed the exam, but the reverse was true., I took the exam despite my fear of failing., The student failed the exam and has to take it again.) ::: fehlen, scheitern, ausfallen 
+to fail(verb) (Words fail me right now., If you fail, you need to try again., After my first attempt had failed, I tried again., During the storm, the mobile phone connection failed., Good students never fail to do their homework., He was sure he had failed the exam, but the reverse was true., I took the exam despite my fear of failing., The student failed the exam and has to take it again.) ::: fehlen, scheitern, ausfallen
+<!--SR:!2024-12-14,5,394!2000-01-01,1,250-->
 refusal(noun) (Our proposal was met with a flat refusal., His refusal to accept the truth is annoying., The scientific committee justified their refusal of the proposal.) ::: Ablehnung, Verweigerung, Weigerung
 <!--SR:!2000-01-01,1,250!2024-11-23,1,326-->
 stability(noun) (Large ships have tanks for ballast to improve stability.) ::: Stabilität, Beständigkeit, Standsicherheit
 <!--SR:!2024-12-24,32,404!2024-12-16,30,403-->
 stable(adjective) (Prices are stable and not constantly changing., This year, the company's net sales remained stable., The new base of the lamp is very stable., Rather than a temporary contract, I would like a stable job., Wine must be stored at a stable temperature., Despite its dilapidated look, the bridge is very stable., My internet connection is fast and stable.) ::: stabil, standfest, fest
 <!--SR:!2025-03-09,94,403!2024-12-22,25,386-->
-founder(noun) (The founder of the company still runs it today.) ::: Gründer, Gründerin, Stifter 
+founder(noun) (The founder of the company still runs it today.) ::: Gründer, Gründerin, Stifter
+<!--SR:!2024-12-14,5,394!2000-01-01,1,250-->
 to founder(verb) (The project must not founder.) ::: scheitern, fehlschlagen, sinken
 <!--SR:!2000-01-01,1,250!2024-11-30,3,346-->
 spectacle(noun) (The circus offered the audience a breathtaking spectacle.) ::: Spektakel, Schauspiel, Show
@@ -832,19 +838,22 @@ choir(noun) (The choir sings a refrain after every strophe., We rehearse once a 
 <!--SR:!2000-01-01,1,250!2024-12-23,31,404-->
 to highlight(verb) (The director highlighted the positive trend in his presentation., I highlighted some important passages in my book., The correct range was clearly highlighted on the display., I would like to highlight the growing importance of renewable energies.) ::: hervorheben, markieren, betonen
 <!--SR:!2000-01-01,1,250!2024-12-23,31,404-->
-remains(noun) (The remains of the ancient city are still admired today., Many cultures bury mortal remains.) ::: Überreste, Reste, Ruinen 
+remains(noun) (The remains of the ancient city are still admired today., Many cultures bury mortal remains.) ::: Überreste, Reste, Ruinen
+<!--SR:!2024-12-14,5,394!2000-01-01,1,250-->
 to remain(verb) (Peacekeeping remains our key objective., A judge has to try to remain impartial., He went into the desert and remained there for a week., An amount of 900 euros remains in the bank account., Only one piece of cake remained in the box., He remained at the door for a moment, and then he knocked., The fog remained all morning.) ::: bleiben, verbleiben, übrig bleiben
 <!--SR:!2024-11-15,6,383!2024-12-23,31,406-->
 equally important(adjective) (The different natural sciences are equally important to each other.) ::: ebenso wichtig, gleichermaßen wichtig, gleichrangig
 <!--SR:!2000-01-01,1,250!2024-12-13,21,383-->
-settlement(noun) (Parts of ancient settlements were found in this forest., The accountant handles all settlements., The lawyers worked towards a settlement of the dispute., The parties agreed on an out-of-court settlement., The accountants discussed the settlement of the bills., The settlement of the invoice amount was carried out by transfer., The disputes may be resolved by a settlement.) ::: Siedlung, Abwicklung, Abrechnung 
+settlement(noun) (Parts of ancient settlements were found in this forest., The accountant handles all settlements., The lawyers worked towards a settlement of the dispute., The parties agreed on an out-of-court settlement., The accountants discussed the settlement of the bills., The settlement of the invoice amount was carried out by transfer., The disputes may be resolved by a settlement.) ::: Siedlung, Abwicklung, Abrechnung
+<!--SR:!2024-12-10,1,354!2000-01-01,1,250-->
 landing(noun) (The pilot performed a perfect landing., After landing, the plane taxied to the terminal., There was turbulence shortly before landing.) ::: Landung, Landen, Treppenabsatz
 <!--SR:!2000-01-01,1,250!2025-01-01,32,406-->
 to land(verb) (The plane has just landed at the airport., The ship landed at the port in the early afternoon.) ::: landen, anlegen, anlanden
-<!--SR:!2024-12-13,29,403!2000-01-01,1,250-->
+<!--SR:!2024-12-13,29,403!2024-12-13,4,374-->
 obesity(noun) (Obesity is a major health problem in Europe.) ::: Fettleibigkeit, Adipositas, Fettsucht
 <!--SR:!2024-12-13,20,386!2000-01-01,1,250-->
-psychological(adjective) () ::: psychologisch, psychisch, seelisch 
+psychological(adjective) () ::: psychologisch, psychisch, seelisch
+<!--SR:!2024-12-14,5,394!2000-01-01,1,250-->
 substantially(adverb) (The new plan reduced our spendings substantially., Life expectancy has increased substantially since the last century.) ::: wesentlich, im Wesentlichen, erheblich 
 substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig
 <!--SR:!2024-12-13,21,383!2000-01-01,1,250-->
