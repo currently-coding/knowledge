@@ -1056,7 +1056,8 @@ to testify(verb) (In court, witnesses must testify under oath., The defendant as
 <!--SR:!2024-12-25,33,404!2024-11-22,6,385-->
 to testify to(verb) () ::: bezeugen, für zeugen
 <!--SR:!2000-01-01,1,250!2024-12-12,19,386-->
-to abound(verb) () ::: im Überfluss vorhanden sein, strotzen, reichlich vorhanden sein 
+to abound(verb) () ::: im Überfluss vorhanden sein, strotzen, reichlich vorhanden sein
+<!--SR:!2024-12-10,1,355!2000-01-01,1,250-->
 abound(adjective) () ::: reichlich
 <!--SR:!2000-01-01,1,250!2024-12-03,5,370-->
 to edify(verb) () ::: erbauen
@@ -1068,21 +1069,26 @@ indulgently(adverb) () ::: nachsichtig, duldsam, schonend
 indulgent(adjective) () ::: nachsichtig, nachgiebig, duldsam
 <!--SR:!2000-01-01,1,250!2024-11-28,5,366-->
 profound(adjective) (The scientist was able to convince everyone with her profound knowledge., The article provides a profound analysis of the situation.) ::: tief, tiefgreifend, fundiert
-<!--SR:!2000-01-01,1,250!2024-12-16,20,385-->
-mincer(noun) () ::: Fleischwolf, Wolf 
-to toss(verb) (When I toss a ball, my dog always brings it back.) ::: werfen, schleudern, knobeln 
+<!--SR:!2024-12-14,5,395!2024-12-16,20,385-->
+mincer(noun) () ::: Fleischwolf, Wolf
+<!--SR:!2024-12-10,1,355!2000-01-01,1,250-->
+to toss(verb) (When I toss a ball, my dog always brings it back.) ::: werfen, schleudern, knobeln
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 toss(noun) (The toss of the coin will decide everything.) ::: Wurf, Einwurf
 <!--SR:!2024-12-28,27,409!2000-01-01,1,250-->
 to retrieve(verb) (We can easily retrieve the stored information from the system., He throws the stick and the dog retrieves it., We can easily retrieve the data stored in the system., Some computer software can retrieve lost data., My dog loves to retrieve balls.) ::: abrufen, zurückholen, wiederherstellen
 <!--SR:!2024-12-01,5,390!2024-11-23,1,326-->
-whilst(conjunction) (Whilst working I cannot take calls., The road will be closed whilst the construction is in progress.) ::: während, solange, indem 
+whilst(conjunction) (Whilst working I cannot take calls., The road will be closed whilst the construction is in progress.) ::: während, solange, indem
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 whilst(conjunction) () ::: obwohl, indes
 <!--SR:!2024-12-01,1,329!2000-01-01,1,250-->
 substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig 
-clothes(noun) (He folded his clothes neatly., We sell clothes made of cotton and linen., Purple clothes don't suit most people., My wife's wardrobe is filled with beautiful clothes., I want to get rid of some clothes, so I will donate them., These clothes are very trendy right now.) ::: Kleidung, Kleider, Kleidungsstücke 
+clothes(noun) (He folded his clothes neatly., We sell clothes made of cotton and linen., Purple clothes don't suit most people., My wife's wardrobe is filled with beautiful clothes., I want to get rid of some clothes, so I will donate them., These clothes are very trendy right now.) ::: Kleidung, Kleider, Kleidungsstücke
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 cloth(noun) (You can clean the surface with a cloth., The dye had colored the cloth red., The constant friction wore out the cloth., His shirt scratched, because it was made of coarse cloth., I always clean the windows with a soft cloth.) ::: Tuch, Leinen, Stoff
 <!--SR:!2024-12-21,25,406!2000-01-01,1,250-->
-residential(adjective) () :::  
+residential(adjective) () :::
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 to tolerate(verb) (The teacher does not tolerate disruptive noises.) ::: dulden, tolerieren, vertragen
 <!--SR:!2000-01-01,1,250!2024-12-24,32,406-->
 fundamentally(adverb) () ::: grundsätzlich, grundlegend, wesentlich
