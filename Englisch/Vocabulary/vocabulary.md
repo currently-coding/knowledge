@@ -854,7 +854,8 @@ obesity(noun) (Obesity is a major health problem in Europe.) ::: Fettleibigkeit,
 <!--SR:!2024-12-13,20,386!2000-01-01,1,250-->
 psychological(adjective) () ::: psychologisch, psychisch, seelisch
 <!--SR:!2024-12-14,5,394!2000-01-01,1,250-->
-substantially(adverb) (The new plan reduced our spendings substantially., Life expectancy has increased substantially since the last century.) ::: wesentlich, im Wesentlichen, erheblich 
+substantially(adverb) (The new plan reduced our spendings substantially., Life expectancy has increased substantially since the last century.) ::: wesentlich, im Wesentlichen, erheblich
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig
 <!--SR:!2024-12-13,21,383!2000-01-01,1,250-->
 brick(noun) (The house was built of bricks., The falling brick almost brained me., The builder needed four tons of bricks to build the wall.) ::: Ziegel, Stein, Backstein
