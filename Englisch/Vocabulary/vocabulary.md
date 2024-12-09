@@ -5,7 +5,7 @@ abstract(noun) (I have to write an abstract for my dissertation.) ::: Zusammenfa
 to abstract(verb) (I will read the article and abstract the main ideas.) ::: trennen, abziehen, entnehmen
 <!--SR:!2024-12-17,55,270!2024-12-23,32,296-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
-<!--SR:!2024-12-07,62,322!2024-12-13,68,310-->
+<!--SR:!2025-09-11,276,342!2024-12-13,68,310-->
 to accent(verb) ::: betonen, akzentuieren, hervorheben
 <!--SR:!2024-12-17,71,322!2024-12-14,69,319-->
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
