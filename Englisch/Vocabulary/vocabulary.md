@@ -862,7 +862,8 @@ brick(noun) (The house was built of bricks., The falling brick almost brained me
 <!--SR:!2024-12-01,5,390!2024-12-24,32,404-->
 sensitivity(noun) (The training helps to develop sensitivity for other cultures., Dry skin has a heightened sensitivity to cold., He showed great sensitivity in dealing with the child.) ::: Sensibilität, Empfindlichkeit, Feingefühl
 <!--SR:!2024-12-21,26,386!2024-12-11,25,404-->
-sensitive(adjective) (This cream can also be used on sensitive skin., Sensitive skin needs special care., Baby skin is very sensitive to chemicals., Sensitive issues are difficult to discuss., Nurses should be both competent and sensitive., My skin is very sensitive.) ::: sensibel, empfindlich, heikel 
+sensitive(adjective) (This cream can also be used on sensitive skin., Sensitive skin needs special care., Baby skin is very sensitive to chemicals., Sensitive issues are difficult to discuss., Nurses should be both competent and sensitive., My skin is very sensitive.) ::: sensibel, empfindlich, heikel
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 to stun(verb) (Some fish use electricity to stun their prey.) ::: betäuben, verblüffen
 <!--SR:!2024-11-30,4,370!2024-11-24,1,326-->
 elementary(adjective) (The beginner's course teaches elementary skills., A secure job was of elementary importance for him.) ::: elementar, grundlegend, wesentlich
@@ -873,7 +874,8 @@ to devote oneself to(verb) (The woman devoted herself to her scientific studies.
 <!--SR:!2024-12-01,5,389!2024-11-26,1,306-->
 nursing(noun) () ::: Pflege, Krankenpflege, Stillen
 <!--SR:!2000-01-01,1,250!2024-11-30,4,344-->
-to nurse(verb) (He nursed the sick little kitten., I nursed an abandoned bird.) ::: pflegen, großziehen, kurieren 
+to nurse(verb) (He nursed the sick little kitten., I nursed an abandoned bird.) ::: pflegen, großziehen, kurieren
+<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 to convey(verb) (The film conveys an important message., The belt conveys the goods to the warehouse., A belt conveys the materials to the next work area., The pipeline conveys gas to the city.) ::: vermitteln, transportieren, fördern
 <!--SR:!2000-01-01,1,250!2024-11-27,5,363-->
 regulatory(adjective) (A regulatory framework is a system of rules., We will get the project if we comply with all regulatory requirements.) ::: behördlich, regulatorisch, regulativ
