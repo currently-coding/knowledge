@@ -1138,6 +1138,7 @@ luminous(adjective) (The painting had luminous colors., Her smile was luminous.,
 labyrinthine(adjective) (The castle had a labyrinthine structure., His argument was labyrinthine and complex., They got lost in the labyrinthine streets.) ::: verworren, labyrinthartig, verschlungen
 <!--SR:!2024-12-15,5,395!2000-01-01,1,250-->
 ostensibly(adverb) (She went ostensibly to help, but was curious., The deal was ostensibly beneficial for all., He left ostensibly for work, but had other plans.) ::: angeblich, scheinbar, vorgeblich
+<!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
 perennially(adverb) (She is perennially optimistic., The issue is perennially discussed in meetings., The flowers bloom perennially.) ::: beständig, unaufhörlich, ewig
 <!--SR:!2024-11-29,1,330!2000-01-01,1,250-->
 resolutely(adverb) (She resolutely defended her beliefs., He resolutely pursued his goal., They resolutely stood by each other.) ::: entschlossen, entschieden, konsequent
