@@ -1142,6 +1142,7 @@ ostensibly(adverb) (She went ostensibly to help, but was curious., The deal was 
 perennially(adverb) (She is perennially optimistic., The issue is perennially discussed in meetings., The flowers bloom perennially.) ::: beständig, unaufhörlich, ewig
 <!--SR:!2024-11-29,1,330!2000-01-01,1,250-->
 resolutely(adverb) (She resolutely defended her beliefs., He resolutely pursued his goal., They resolutely stood by each other.) ::: entschlossen, entschieden, konsequent
+<!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
 circumspectly(adverb) (He approached the matter circumspectly., She circumspectly evaluated the options., The company circumspectly navigated the issue.) ::: umsichtig, vorsichtig, besonnen
 ### German - English
 Zweckmäßigkeit(noun) (Die Zweckmäßigkeit dieser Methode ist fragwürdig.) := expediency, appropriateness, practicality
