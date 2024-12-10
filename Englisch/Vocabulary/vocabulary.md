@@ -1130,10 +1130,13 @@ placate(verb) (He tried to placate the angry customer., The apology was meant to
 ineffable(adjective) (The beauty of the mountains was ineffable., The feeling of joy was ineffable., Her gratitude was ineffable.) ::: unaussprechlich, unbeschreiblich, unsagbar
 <!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
 halcyon(adjective) (She looked back on the halcyon days of her youth., The halcyon weather was perfect for a picnic., They longed for the halcyon times of peace.) ::: friedlich, glücklich, idyllisch
+<!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
 sagacious(adjective) (He gave a sagacious answer to the question., The leader was known for his sagacious decisions., Her sagacious insight was appreciated.) ::: weise, klug, scharfsinnig
+<!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
 luminous(adjective) (The painting had luminous colors., Her smile was luminous., The city skyline was luminous at night.) ::: leuchtend, strahlend, hell
 <!--SR:!2024-12-13,20,386!2000-01-01,1,250-->
 labyrinthine(adjective) (The castle had a labyrinthine structure., His argument was labyrinthine and complex., They got lost in the labyrinthine streets.) ::: verworren, labyrinthartig, verschlungen
+<!--SR:!2024-12-15,5,395!2000-01-01,1,250-->
 ostensibly(adverb) (She went ostensibly to help, but was curious., The deal was ostensibly beneficial for all., He left ostensibly for work, but had other plans.) ::: angeblich, scheinbar, vorgeblich
 perennially(adverb) (She is perennially optimistic., The issue is perennially discussed in meetings., The flowers bloom perennially.) ::: beständig, unaufhörlich, ewig
 <!--SR:!2024-11-29,1,330!2000-01-01,1,250-->
