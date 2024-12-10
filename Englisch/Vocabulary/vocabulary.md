@@ -640,7 +640,7 @@ firm(adjective) (The material is rigid and firm., Our company values trust as a 
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
 <!--SR:!2025-01-15,62,372!2024-12-20,27,403-->
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif
-<!--SR:!2025-05-17,159,423!2024-12-10,13,355-->
+<!--SR:!2025-05-17,159,423!2025-02-13,65,375-->
 determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung
 <!--SR:!2025-01-08,47,332!2024-12-16,20,382-->
 to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln
@@ -688,7 +688,7 @@ vibrant(adjective) (The city is famous for its vibrant cultural life., She was w
 duration(noun) (The duration of the tests will not exceed two weeks., The duration of the project is six months.) ::: Dauer, Laufzeit, Zeitraum
 <!--SR:!2025-06-07,183,415!2025-05-25,167,422-->
 upcoming(adjective) (The department is preparing for the upcoming inspection., They handed out flyers for the upcoming concert., We will need more staff for the upcoming event., The trainee talked to her mentor about the upcoming exam.) ::: anstehend, bevorstehend, kommend
-<!--SR:!2025-06-04,181,415!2024-12-10,18,382-->
+<!--SR:!2025-06-04,181,415!2025-02-19,71,382-->
 portion(noun) (I am not hungry, you can have my portion of cake., I divided the cake into four portions., He could not finish his double portion of cake., I cut the cake into six equal portions.) ::: Teil, Portion, Stück
 <!--SR:!2024-12-13,20,383!2025-04-20,136,421-->
 to portion(verb) () ::: teilen, zuteilen, aufteilen
@@ -1128,6 +1128,7 @@ burgeon(verb) (The city's population began to burgeon., Her creativity burgeoned
 placate(verb) (He tried to placate the angry customer., The apology was meant to placate her., She placated his fears with comforting words.) ::: besänftigen, beruhigen, beschwichtigen
 <!--SR:!2024-11-25,4,366!2024-11-28,1,286-->
 ineffable(adjective) (The beauty of the mountains was ineffable., The feeling of joy was ineffable., Her gratitude was ineffable.) ::: unaussprechlich, unbeschreiblich, unsagbar
+<!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
 halcyon(adjective) (She looked back on the halcyon days of her youth., The halcyon weather was perfect for a picnic., They longed for the halcyon times of peace.) ::: friedlich, glücklich, idyllisch
 sagacious(adjective) (He gave a sagacious answer to the question., The leader was known for his sagacious decisions., Her sagacious insight was appreciated.) ::: weise, klug, scharfsinnig
 luminous(adjective) (The painting had luminous colors., Her smile was luminous., The city skyline was luminous at night.) ::: leuchtend, strahlend, hell
@@ -1157,7 +1158,7 @@ Axiom(noun) (Das Axiom bildet die Grundlage der Berechnungen.) := axiom, self-ev
 Substanz(noun) (Die Substanz seiner Argumente ist überzeugend.) := substance, core, fundamental value
 Diskrepanz(noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) := discrepancy, inconsistency, gap
 Hypothese(noun) (Die Hypothese wurde umfassend getestet.) := hypothesis, proposed explanation, conjecture
-<!--SR:!2024-12-10,10,366-->
+<!--SR:!2024-12-15,5,346-->
 Konvergenz(noun) (Die Konvergenz der Ansichten ist bemerkenswert.) := convergence, alignment, merging
 Divergenz(noun) (Die Divergenz in den Ergebnissen wirft Fragen auf.) := divergence, difference, discrepancy
 Validität(noun) (Die Validität der Daten wurde bestätigt.) := validity, soundness, reliability
@@ -1180,7 +1181,7 @@ synthetisieren(verb) (Die Studie synthetisiert die Ergebnisse mehrerer Forschung
 diffundieren(verb) (Das Wissen diffundiert langsam in die Gesellschaft.) := to diffuse, to spread gradually, to permeate
 modifizieren(verb) (Das Modell wurde modifiziert, um präziser zu sein.) := to modify, to adjust, to change
 korrelieren(verb) (Die Variablen korrelieren miteinander.) := to correlate, to show a relationship, to relate
-<!--SR:!2024-12-10,14,366-->
+<!--SR:!2025-01-31,52,366-->
 quantifizieren(verb) (Es ist schwierig, den Einfluss zu quantifizieren.) := to quantify, to measure, to assess numerically
 kontextualisieren(verb) (Die Ergebnisse müssen kontextualisiert werden.) := to contextualize, to put in context, to frame
 analysieren(verb) (Die Daten wurden gründlich analysiert.) := to analyze, to examine, to evaluate
