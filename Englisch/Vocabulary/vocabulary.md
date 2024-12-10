@@ -9,7 +9,7 @@ accent(noun) (My mother speaks with a strong accent., The accent is on the last 
 to accent(verb) ::: betonen, akzentuieren, hervorheben
 <!--SR:!2024-12-17,71,322!2024-12-14,69,319-->
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
-<!--SR:!2024-12-11,66,322!2024-12-10,65,310-->
+<!--SR:!2024-12-11,66,322!2025-09-15,279,330-->
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
 <!--SR:!2025-03-19,118,290!2024-12-18,71,322-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
@@ -55,7 +55,7 @@ alongside(preposition) (I love walking alongside the river.) ::: neben, entlang,
 alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längsseits
 <!--SR:!2025-01-21,91,302!2024-12-11,63,337-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) ::: insgesamt, im Ganzen, alles in allem
-<!--SR:!2024-12-10,65,322!2025-09-09,277,356-->
+<!--SR:!2025-09-25,289,342!2025-09-09,277,356-->
 ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwagen, Ambulanz, Rettungswagen
 <!--SR:!2024-12-14,66,336!2024-12-14,68,322-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
