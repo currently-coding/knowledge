@@ -5,12 +5,9 @@
 - es existieren Magneten
 
 ## Einleitung - Wie ihr schon wisst
+### Permanentmagnet
 - Magnetfeldlinien
 - Abstoßung
--> Permanentmagnet
-
-- Magnetfelder Richtung(Magnetfeldlinien)
-
 ## Hauptteil
 ###  Lorenz
 - Ablenkung in Magnetfeld
@@ -22,5 +19,9 @@
 	- evtl $F= q \cdot v \cdot B \cdot \sin(\theta)$
 
 
-- Beispiel:
-	- Versuch vom Anfang erklären
+## Hauptteil
+- geladene Teilchen werden im Magnetfeld abgelenkt
+	- Beispiele
+$\rightarrow$ verschieden Faktoren beeinflussen die Ablenkung
+- 2 Arten
+1. 
