@@ -45,7 +45,7 @@ to adjust oneself(verb) () ::: sich anpassen
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) ::: erschwinglich, bezahlbar, preiswert, kostengünstig
 <!--SR:!2025-09-13,278,357!2024-12-07,62,322-->
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
-<!--SR:!2025-09-10,278,357!2024-12-11,66,322-->
+<!--SR:!2025-09-10,278,357!2025-10-02,294,342-->
 aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützung, Beihilfe, Hilfe, Fördermittel
 <!--SR:!2024-12-20,73,322!2024-12-28,78,337-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
@@ -53,7 +53,7 @@ to aid(verb) (We need to aid those in need., Some foods aid digestion., Some typ
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
 <!--SR:!2025-06-20,209,322!2025-08-08,249,336-->
 alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längsseits
-<!--SR:!2025-01-21,91,302!2024-12-11,63,337-->
+<!--SR:!2025-01-21,91,302!2025-09-28,290,357-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) ::: insgesamt, im Ganzen, alles in allem
 <!--SR:!2025-09-25,289,342!2025-09-09,277,356-->
 ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwagen, Ambulanz, Rettungswagen
@@ -67,7 +67,7 @@ annual(adjective) (We are preparing our annual midsummer festival., The annual f
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) ::: verschmelzen, fusionieren, zusammenfügen
 <!--SR:!2025-07-19,235,341!2025-01-07,86,340-->
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) ::: Verschmelzung, Fusion, Zusammenschluss
-<!--SR:!2025-06-01,191,343!2024-12-12,64,321-->
+<!--SR:!2025-06-01,191,343!2025-09-22,284,341-->
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
 <!--SR:!2024-12-13,66,343!2024-12-17,68,321-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
