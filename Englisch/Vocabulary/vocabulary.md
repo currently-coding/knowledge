@@ -35,7 +35,7 @@ additionally(adverb) (Additionally, you will receive a discount on your next boo
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) ::: zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
 <!--SR:!2025-07-22,236,330!2024-12-15,69,322-->
 adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
-<!--SR:!2024-12-21,74,322!2024-12-11,63,337-->
+<!--SR:!2024-12-21,74,322!2025-09-29,291,357-->
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) ::: angemessen, hinreichend, ausreichend
 <!--SR:!2024-12-15,69,322!2024-12-17,69,336-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
