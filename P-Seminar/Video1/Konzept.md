@@ -23,5 +23,3 @@
 - geladene Teilchen werden im Magnetfeld abgelenkt
 	- Beispiele
 $\rightarrow$ verschieden Faktoren beeinflussen die Ablenkung
-- 2 Arten
-1. 
