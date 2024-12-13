@@ -221,7 +221,7 @@ in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zei
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
 <!--SR:!2025-02-02,102,376!2025-01-08,81,353-->
 versus(noun) () ::: Rückseite einer Münze
-<!--SR:!2024-12-12,59,356!2025-01-16,86,352-->
+<!--SR:!2025-09-27,288,376!2025-01-16,86,352-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2025-06-02,192,353!2025-01-29,101,375-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
@@ -249,7 +249,7 @@ besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted 
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
 <!--SR:!2025-02-12,98,367!2025-01-12,81,357-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
-<!--SR:!2025-01-07,75,367!2024-12-12,50,317-->
+<!--SR:!2025-01-07,75,367!2025-01-07,25,297-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
 <!--SR:!2025-06-05,193,368!2025-02-08,94,317-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden,
@@ -352,7 +352,7 @@ to harbour(verb) (A dishcloth can harbour germs.) ::: beherbergen, bergen, hegen
 to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern
 <!--SR:!2025-02-12,108,387!2024-12-31,69,339-->
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren
-<!--SR:!2025-01-30,95,388!2024-12-11,50,361-->
+<!--SR:!2025-01-30,95,388!2025-08-17,247,381-->
 oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff
 <!--SR:!2025-03-15,133,387!2025-01-28,93,381-->
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
