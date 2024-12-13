@@ -368,7 +368,7 @@ to upgrade(verb) (He has upgraded the software on his computer., The museum has 
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
 <!--SR:!2025-02-13,108,389!2024-12-25,58,325-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
-<!--SR:!2024-12-11,52,361!2025-01-24,89,365-->
+<!--SR:!2025-08-27,257,381!2025-01-24,89,365-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
 <!--SR:!2025-01-15,84,385!2025-02-09,105,388-->
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
@@ -396,7 +396,7 @@ rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellio
 dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
 <!--SR:!2025-01-20,89,385!2025-03-12,130,388-->
 tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
-<!--SR:!2024-12-13,51,348!2025-01-29,94,385-->
+<!--SR:!2025-08-13,243,368!2025-01-29,94,385-->
 one-to-one tuition(noun) () ::: Einzelunterricht
 <!--SR:!2024-12-31,47,368!2025-01-22,90,387-->
 moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
