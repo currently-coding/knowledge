@@ -205,7 +205,7 @@ theoretical(adjective) (First of all, I will outline the theoretical foundations
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
 <!--SR:!2025-05-30,189,354!2024-12-27,65,332-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
-<!--SR:!2024-12-11,58,335!2025-01-26,95,372-->
+<!--SR:!2025-09-07,268,355!2025-01-26,95,372-->
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
 <!--SR:!2025-01-17,87,372!2025-01-05,73,354-->
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
