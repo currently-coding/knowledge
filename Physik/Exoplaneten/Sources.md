@@ -7,5 +7,5 @@
 - [ ] https://www.mdpi.com/2076-3263/8/8/280 - 24/12/13 - 8:35
 - [ ] https://iopscience.iop.org/article/10.1086/665271/meta - 24/12/13 - 8:40
 - [ ] https://iopscience.iop.org/article/10.3847/1538-4357/ab1d52/meta - 24/12/13 - 8:40
-w
+
 - https://www.science.org/doi/abs/10.1126/science.1232226 - kostet
