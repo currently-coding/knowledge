@@ -5,7 +5,7 @@ abstract(noun) (I have to write an abstract for my dissertation.) ::: Zusammenfa
 to abstract(verb) (I will read the article and abstract the main ideas.) ::: trennen, abziehen, entnehmen
 <!--SR:!2024-12-17,55,270!2024-12-23,32,296-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
-<!--SR:!2025-09-11,276,342!2024-12-13,68,310-->
+<!--SR:!2025-09-11,276,342!2025-10-03,294,330-->
 to accent(verb) ::: betonen, akzentuieren, hervorheben
 <!--SR:!2024-12-17,71,322!2024-12-14,69,319-->
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
@@ -61,7 +61,7 @@ ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwag
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
 <!--SR:!2024-12-16,68,337!2025-04-16,158,322-->
 ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfahr, Ahnin
-<!--SR:!2024-12-18,70,337!2024-12-13,67,322-->
+<!--SR:!2024-12-18,70,337!2025-01-16,34,302-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) ::: jährlich, alljährlich, einjährig
 <!--SR:!2024-12-19,70,339!2024-12-21,73,339-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) ::: verschmelzen, fusionieren, zusammenfügen
@@ -69,13 +69,13 @@ to merge(verb) (In the author's new book reality and fantasy merge seamlessly., 
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) ::: Verschmelzung, Fusion, Zusammenschluss
 <!--SR:!2025-06-01,191,343!2025-09-22,284,341-->
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
-<!--SR:!2024-12-13,66,343!2024-12-17,68,321-->
+<!--SR:!2025-01-14,32,323!2024-12-17,68,321-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
 <!--SR:!2025-07-06,217,340!2025-01-03,83,339-->
 free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
 <!--SR:!2024-12-17,69,341!2024-12-23,74,339-->
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) ::: Handelshemmnis, Handelsbarriere, Handelsbeschränkung
-<!--SR:!2024-12-13,65,339!2025-06-21,207,339-->
+<!--SR:!2025-10-12,303,359!2025-06-21,207,339-->
 barrier to trade(noun) () ::: Handelshemmnis
 <!--SR:!2024-12-22,73,339!2025-01-12,84,299-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) ::: Wechselkurs, Kurs, Devisenkurs
@@ -161,7 +161,7 @@ inequality(noun) (Inequalities need to be redressed.) ::: Ungleichheit, Ungleich
 wealth(noun) (Thanks to his wealth, he can buy anything he likes., The book contains a wealth of information., The family's wealth was based on the tenure of land.) ::: Reichtum, Fülle, Wohlstand
 <!--SR:!2025-08-14,256,358!2025-01-08,88,350-->
 tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) ::: Steuer, Abgabe, Zins
-<!--SR:!2024-12-12,64,351!2025-01-02,81,350-->
+<!--SR:!2025-10-18,309,371!2025-01-02,81,350-->
 to tax(verb) (The government decided to tax corporate profits., He taxed her patience for hours.) ::: besteuern, strapazieren, versteuern
 <!--SR:!2025-04-21,158,330!2025-01-19,97,357-->
 recession(noun) (The recession is over and unemployment is declining., The boom after the recession meant many new jobs for the unemployed., The company registered a recession in sales., We have now overcome the recession and business is booming.) ::: Rezession, Rückgang, Flaute
