@@ -1,0 +1,5 @@
+- https://science.nasa.gov/exoplanets/ - 24/12/13 - 8:00
+- https://en.wikipedia.org/wiki/Exoplanet - 24/12/13 - 8:00
+- https://www.youtube.com/watch?v=EUU0-ZpFoK4 - 24/12/13 - 8:00
+- https://www.youtube.com/watch?v=7ATtD8x7vV0 - 24/12/13 - 8:00
+- https://www.youtube.com/watch?v=eMtBmF7izgs - 24/12/13 - 8:00
