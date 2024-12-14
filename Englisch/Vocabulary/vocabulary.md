@@ -93,7 +93,7 @@ current affairs(noun) () ::: aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) ::: Fonds, Investmentfonds, Geldmittel
 <!--SR:!2025-01-04,83,359!2024-12-30,81,350-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) ::: finanzieren, anlegen, investieren
-<!--SR:!2024-12-14,66,350!2025-01-22,60,339-->
+<!--SR:!2025-10-27,317,370!2025-01-22,60,339-->
 deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
 <!--SR:!2024-12-15,67,351!2024-12-24,75,346-->
 mechanization(noun) () ::: Mechanisierung, Technisierung
