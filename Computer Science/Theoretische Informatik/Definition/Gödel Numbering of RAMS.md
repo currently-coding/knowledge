@@ -13,5 +13,3 @@ $$
 \end{cases}
 $$
 where $M^*$ is the RAM with the single instruction STOP.
-<!--SR:!2024-11-30,4,270-->
-
