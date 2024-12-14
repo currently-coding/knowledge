@@ -57,7 +57,7 @@ alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längs
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) ::: insgesamt, im Ganzen, alles in allem
 <!--SR:!2025-09-25,289,342!2025-09-09,277,356-->
 ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwagen, Ambulanz, Rettungswagen
-<!--SR:!2024-12-14,66,336!2024-12-14,68,322-->
+<!--SR:!2025-10-15,305,356!2024-12-14,68,322-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
 <!--SR:!2024-12-16,68,337!2025-04-16,158,322-->
 ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfahr, Ahnin
