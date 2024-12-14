@@ -1,4 +1,4 @@
->[!THema]
+>[!Thema]
 >Lorenz-Kraft
 
 ## Voraussetzungen
