@@ -506,17 +506,17 @@ victory(noun) (The new player led the team to victory., I will strive for victor
 disagreement(noun) (They resolved their disagreement with a compromise., The parties managed to avoid disagreements.) ::: Uneinigkeit, Unstimmigkeit, Meinungsverschiedenheit
 <!--SR:!2024-12-19,35,403!2025-04-27,148,417-->
 to interact(verb) (In modern computer games, you can interact with other players., The experiment showed how atoms interact with each other.) ::: interagieren, wechselwirken, zusammenwirken
-<!--SR:!2025-04-11,139,411!2024-12-14,25,403-->
+<!--SR:!2025-04-11,139,411!2025-05-02,138,423-->
 notably(adverb) (The tax reform will affect many people, notably entrepreneurs., The tax reform will benefit many, notably young people.) ::: insbesondere, besonders, vor allem
 <!--SR:!2024-12-12,20,383!2024-11-14,5,362-->
 notable(adjective) (The designer was a notable figure in the fashion world., The reform led to a notable improvement of public health., The scientist made a notable discovery., There is a notable want of teachers in my school district., The painter was a notable artist of his time., The hotel welcomes many notable guests.) ::: wichtig, deutlich, bemerkenswert
-<!--SR:!2025-01-22,61,376!2024-12-14,30,403-->
+<!--SR:!2025-01-22,61,376!2025-05-28,164,423-->
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt
-<!--SR:!2024-12-14,30,402!2024-12-21,27,403-->
+<!--SR:!2025-05-30,166,422!2024-12-21,27,403-->
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
 <!--SR:!2025-03-23,121,412!2025-04-20,136,423-->
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung
-<!--SR:!2024-12-12,19,383!2025-04-22,138,423-->
+<!--SR:!2025-03-26,101,403!2025-04-22,138,423-->
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
 <!--SR:!2024-12-21,29,375!2024-11-20,6,361-->
 revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The scientists' latest invention was revolutionary.) ::: revolutionär, bahnbrechend, umwälzend
@@ -524,7 +524,7 @@ revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The 
 revolutionary(noun) (As a revolutionary, my grandmother fought against the government's policies.) ::: Revolutionär, Revolutionärin
 <!--SR:!2024-12-17,25,403!2024-11-08,6,382-->
 astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) ::: umwerfend, beeindruckend, überwältigend
-<!--SR:!2025-01-10,62,373!2024-12-14,30,401-->
+<!--SR:!2025-01-10,62,373!2025-05-27,163,421-->
 to astonish(verb) (The surprising discovery astonished the scientists., The young pianist astonished the audience with his talent.) ::: erstaunen, überraschen, verblüffen
 <!--SR:!2024-11-07,5,382!2024-12-20,27,401-->
 to generate(verb) (The batteries generate power for the radio., I can generate a query for the database., The company generates high profits., The company had generated sufficient retained earnings.) ::: generieren, erzeugen, erstellen
@@ -540,7 +540,7 @@ globe(noun) () ::: Welt, Globus, Erdball
 to steer(verb) (The captain steers the ship away from the cliffs., It is hard to steer a ship through the narrow., The driver saw the dog and steered in the other direction.) ::: steuern, lenken, führen
 <!--SR:!2025-04-12,136,417!2025-05-04,154,415-->
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
-<!--SR:!2024-12-14,30,397!2025-05-12,161,415-->
+<!--SR:!2025-05-26,162,417!2025-05-12,161,415-->
 regardless(adjective) () ::: ungeachtet, trotzdem
 <!--SR:!2025-01-30,77,373!2025-03-28,109,403-->
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen
@@ -580,7 +580,7 @@ regime(noun) (After the revolution, the country was run by a new regime., Revolu
 to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen
 <!--SR:!2025-01-16,52,377!2024-12-16,19,362-->
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug
-<!--SR:!2024-12-14,30,401!2024-12-19,27,403-->
+<!--SR:!2025-05-25,161,421!2024-12-19,27,403-->
 to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen
 <!--SR:!2025-02-11,79,375!2025-05-24,166,423-->
 intellectual(adjective) (The article remains intellectual property of the author.) ::: geistig, intellektuell, gedanklich
@@ -606,7 +606,7 @@ total(noun) (The company invested a total of ten million dollars.) ::: Total, Ge
 total(adjective) (The total number of participants was 25., The course permits total immersion in the language.) ::: total, gesamt, völlig
 <!--SR:!2025-04-27,139,422!2025-04-21,142,417-->
 to assist(verb) (It's her job to assist the project manager., The pupil assisted the teacher with the experiment., The girl assisted her father with the cooking., I will always assist my brother in times of need., He assisted his friends in the kitchen., If any problems arise, we will assist our partners., The consultant assisted the company in drawing up a marketing plan., The nurse assisted the doctor during the operation.) ::: unterstützen, fördern, helfen
-<!--SR:!2025-05-27,173,415!2024-12-14,28,402-->
+<!--SR:!2025-05-27,173,415!2025-05-18,154,422-->
 relevance(noun) (I could not see the relevance of his argument., The solution of the problem is of the highest relevance.) ::: Relevanz, Bedeutung, Wichtigkeit
 <!--SR:!2025-05-05,155,411!2025-04-07,128,418-->
 obstacle(noun) (We can overcome any obstacle if we do not give up., Obstacles on the track can cause an obstruction., They have successfully overcome the last obstacle., If she wants to attend the class, the cost should not be an obstacle.) ::: Hindernis, Hürde, Hinderungsgrund
@@ -624,7 +624,7 @@ to rank(verb) (She ranks among the best scientists in the world., The project ma
 invasion(noun) () ::: Invasion, Einmarsch, Überfall
 <!--SR:!2025-06-13,186,412!2025-04-24,144,417-->
 suspicious(adjective) (I heard suspicious noises in the attic., The investigator gave me a suspicious look.) ::: verdächtig, misstrauisch, argwöhnisch
-<!--SR:!2025-01-08,47,355!2024-12-14,30,403-->
+<!--SR:!2025-01-08,47,355!2025-05-31,167,423-->
 governor(noun) (The governor of my home state was elected by a vast majority.) ::: Gouverneur, Statthalter, Landeshauptmann
 <!--SR:!2025-04-04,116,402!2025-04-24,140,422-->
 spare(noun) (I have bought spares for the repair of my car., He lost his key, but luckily he had a spare.) ::: Ersatzteil, Ersatz, Reserve
@@ -648,7 +648,7 @@ to determine(verb) (It is difficult to determine the cause of the problem., The 
 senator(noun) (The senators are trying to amend some laws.) ::: Senator, Senatorin
 <!--SR:!2025-04-17,129,423!2024-12-09,30,403-->
 casual(adjective) (I wear casual clothes outside the office., This is an informal event; you can wear casual clothing., I like parties with a casual atmosphere., I made a casual remark about the weather., I like the casual feel of beach parties., To a casual observer, the scene might appear normal., I prefer simple and casual clothing.) ::: lässig, leger, zwanglos
-<!--SR:!2025-01-16,55,355!2024-12-12,28,402-->
+<!--SR:!2025-01-16,55,355!2025-05-17,153,422-->
 to insist(verb) (The woman did not give up and insisted on her rights.) ::: pochen, insistieren
 <!--SR:!2024-12-15,31,402!2025-04-21,137,421-->
 reflection(noun) (The article offers an interesting reflection on the current situation., She accepted the offer after a short reflection., The pond is so calm you can see your reflection., The reflection of the sunlight on the water is beautiful.) ::: Reflexion, Überlegung, Spiegelbild
