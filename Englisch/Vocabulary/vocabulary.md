@@ -165,7 +165,7 @@ tax(noun) (People who earn money have to pay taxes on their income., Students ar
 to tax(verb) (The government decided to tax corporate profits., He taxed her patience for hours.) ::: besteuern, strapazieren, versteuern
 <!--SR:!2025-04-21,158,330!2025-01-19,97,357-->
 recession(noun) (The recession is over and unemployment is declining., The boom after the recession meant many new jobs for the unemployed., The company registered a recession in sales., We have now overcome the recession and business is booming.) ::: Rezession, Rückgang, Flaute
-<!--SR:!2024-12-15,67,350!2024-12-26,77,357-->
+<!--SR:!2025-11-02,322,370!2024-12-26,77,357-->
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
 <!--SR:!2024-12-07,55,310!2025-08-20,261,359-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
@@ -460,13 +460,13 @@ to exploit(verb) (The company exploited their competitive advantage to become th
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
 <!--SR:!2025-05-26,185,365!2025-02-14,109,387-->
 excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich
-<!--SR:!2024-12-14,28,403!2025-02-11,97,381-->
+<!--SR:!2025-05-18,154,423!2025-02-11,97,381-->
 to excruciate(verb) () ::: quälen
 <!--SR:!2025-03-03,101,402!2025-03-05,119,401-->
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
 <!--SR:!2025-03-14,120,405!2025-02-07,79,361-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
-<!--SR:!2024-12-14,30,402!2024-12-20,19,261-->
+<!--SR:!2025-05-29,165,422!2024-12-20,19,261-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
 <!--SR:!2025-02-12,90,381!2025-05-01,152,402-->
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
@@ -484,7 +484,7 @@ to resume(verb) (After a short break, they resumed negotiations., She resumed he
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
 <!--SR:!2025-05-22,164,422!2024-12-24,31,403-->
 to seize(verb) (She seized the opportunity and started a new life., The customs officer seized the undeclared goods., The police seized the suspect when he tried to run., She seized the opportunity to start her own business., Banks sometimes seize debtors' assets., The illegal items were seized at the border., The police seized the stolen goods., The invaders seized the castle after a tough battle.) ::: ergreifen, beschlagnahmen, packen
-<!--SR:!2024-12-24,19,342!2024-12-11,22,382-->
+<!--SR:!2024-12-24,19,342!2025-04-07,113,402-->
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
 <!--SR:!2025-04-14,135,416!2025-03-30,129,412-->
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
