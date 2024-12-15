@@ -492,7 +492,7 @@ to discourage(verb) (Nothing can discourage us from attending the protest., I do
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
 <!--SR:!2024-11-22,20,376!2024-12-23,31,403-->
 reproduction(noun) (The reproduction of bootlegs is strictly prohibited.) ::: Vervielfältigung, Reproduktion, Wiedergabe
-<!--SR:!2024-12-13,27,351!2025-04-15,136,417-->
+<!--SR:!2025-04-26,132,371!2025-04-15,136,417-->
 cabin(noun) (The captain has a private cabin on the ship., My parents own a cabin in the mountains., The cabin has no heating, so it is only occupied in the summer., The ship's cabin was surprisingly spacious.) ::: Kabine, Hütte, Kajüte
 <!--SR:!2025-02-18,91,392!2024-12-13,29,401-->
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
