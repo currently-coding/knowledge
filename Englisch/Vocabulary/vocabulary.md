@@ -494,7 +494,7 @@ to expect(verb) (The professor expects a term paper from every student., I expec
 reproduction(noun) (The reproduction of bootlegs is strictly prohibited.) ::: Vervielfältigung, Reproduktion, Wiedergabe
 <!--SR:!2025-04-26,132,371!2025-04-15,136,417-->
 cabin(noun) (The captain has a private cabin on the ship., My parents own a cabin in the mountains., The cabin has no heating, so it is only occupied in the summer., The ship's cabin was surprisingly spacious.) ::: Kabine, Hütte, Kajüte
-<!--SR:!2025-02-18,91,392!2024-12-13,29,401-->
+<!--SR:!2025-02-18,91,392!2025-05-23,159,421-->
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
 <!--SR:!2024-12-21,29,375!2024-12-13,29,382-->
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
