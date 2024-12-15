@@ -1,5 +1,5 @@
 abstract(adjective) (The artist is famous for his abstract paintings., Intelligence tests measure abstract reasoning.) ::: abstrakt, gegenstandslos, unbenannt, theoretisch, kurz gefasst
-<!--SR:!2025-08-12,253,330!2024-12-15,70,322-->
+<!--SR:!2025-08-12,253,330!2025-10-22,311,342-->
 abstract(noun) (I have to write an abstract for my dissertation.) ::: Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung
 <!--SR:!2025-08-23,261,330!2025-08-18,258,342-->
 to abstract(verb) (I will read the article and abstract the main ideas.) ::: trennen, abziehen, entnehmen
@@ -33,11 +33,11 @@ addiction(noun) (She overcame her addiction to nicotine and quit smoking.) ::: S
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) ::: zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei
 <!--SR:!2024-12-20,74,319!2024-12-18,70,322-->
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) ::: zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
-<!--SR:!2025-07-22,236,330!2024-12-15,69,322-->
+<!--SR:!2025-07-22,236,330!2025-10-17,306,342-->
 adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
 <!--SR:!2024-12-21,74,322!2025-09-29,291,357-->
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) ::: angemessen, hinreichend, ausreichend
-<!--SR:!2024-12-15,69,322!2024-12-17,69,336-->
+<!--SR:!2025-10-19,308,342!2024-12-17,69,336-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
 <!--SR:!2025-03-20,124,402!2025-03-02,108,401-->
 to adjust oneself(verb) () ::: sich anpassen
@@ -83,7 +83,7 @@ exchange rate(noun) (Prices vary according to the current exchange rate., The ex
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) ::: Ausbeutung, Nutzung, Verwertung
 <!--SR:!2025-06-08,194,326!2025-01-03,81,357-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) ::: nutzen, ausnutzen, ausschöpfen, erschließen(business context)
-<!--SR:!2024-12-31,78,357!2024-12-15,68,346-->
+<!--SR:!2024-12-31,78,357!2025-11-04,324,366-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) ::: Lebensstandard, Lebenshaltung
 <!--SR:!2024-12-29,78,358!2024-12-24,75,346-->
 debt relief(noun) (The bank granted the company only partial debt relief.) ::: Schuldenerlass, Entschuldung
@@ -95,7 +95,7 @@ fund(noun) (The city set up a fund to help the homeless., The charity is respons
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) ::: finanzieren, anlegen, investieren
 <!--SR:!2025-10-27,317,370!2025-01-22,60,339-->
 deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
-<!--SR:!2024-12-15,67,351!2024-12-24,75,346-->
+<!--SR:!2025-11-03,323,371!2024-12-24,75,346-->
 mechanization(noun) () ::: Mechanisierung, Technisierung
 <!--SR:!2024-12-25,76,346!2025-01-01,81,351-->
 to mechanize(verb) () ::: mechanisieren, technisieren
@@ -143,13 +143,13 @@ purchase(noun) (He bought shoes and was happy with his purchase., Children canno
 to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) ::: kaufen, erwerben, beschaffen
 <!--SR:!2024-12-23,74,359!2025-01-05,84,346-->
 commission(noun) (The commission will deal with this issue next week., The commission has agreed on a new resolution., I will get a commission for the good service.) ::: Kommission, Provision, Auftrag
-<!--SR:!2024-12-22,73,357!2024-12-15,67,346-->
+<!--SR:!2024-12-22,73,357!2025-10-30,319,366-->
 to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) ::: beauftragen, in Dienst stellen, in Auftrag geben
 <!--SR:!2024-12-24,75,346!2025-01-14,92,357-->
 state-of-the-art(adjective) (The new school will have state-of-the-art classrooms., The new alarm system uses state-of-the-art technology.) ::: hochmodern, modernst
 <!--SR:!2025-01-06,86,351!2025-01-10,88,359-->
 state of the art(noun) () ::: Stand der Technik
-<!--SR:!2024-12-28,75,359!2024-12-15,66,330-->
+<!--SR:!2024-12-28,75,359!2025-10-11,300,350-->
 decline(noun) (We have witnessed a sharp decline in oil prices., The decline in sales worries the investors., The investors are not worried by the decline in sales., The country's economic decline came after the crisis.) ::: Rückgang, Sinken, Abnahme
 <!--SR:!2024-12-29,76,350!2025-03-31,129,351-->
 to decline(verb) (Air pollution is declining due to ecological reforms., My friend declined my invitation for lunch., The recession is over and unemployment is declining., Unemployment has declined with the recovery of the economy., The mortality rate is declining, people are living longer., The growth rate of exports has recently declined., I can correctly decline most Latin nouns., For my homework, I had to decline ten nouns.) ::: sinken, ablehnen, zurückgehen
