@@ -488,7 +488,7 @@ to seize(verb) (She seized the opportunity and started a new life., The customs 
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
 <!--SR:!2025-04-14,135,416!2025-03-30,129,412-->
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
-<!--SR:!2024-12-12,28,402!2025-06-01,178,415-->
+<!--SR:!2025-05-19,155,422!2025-06-01,178,415-->
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
 <!--SR:!2024-11-22,20,376!2024-12-23,31,403-->
 reproduction(noun) (The reproduction of bootlegs is strictly prohibited.) ::: Vervielfältigung, Reproduktion, Wiedergabe
