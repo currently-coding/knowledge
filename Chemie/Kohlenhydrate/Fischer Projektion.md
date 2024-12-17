@@ -3,8 +3,10 @@
 
 ## Fischer Projektion zeichnen
 1. Stelle das Molekül senkrecht dar
-2. das asymmetrische Atom zeigt nach vorne
-3. Erzeuge ein Schattenbild
+	1. Kette so ordnen, dass die Carboxy-, Aldehyd- oder Ketogruppe möglichst weit *oben* steht.
+	2. Waagrechte Elektronenpaarbindungen sollen nach *vorne* zeigen
+2. Projiziere das Molekül in die zweidimensionale Ebene, so dass alle *tetraedisch* koordinierten Kohlenstoffatome *quadratisch planar* sind
+3. Unterstes *asymmetrisches $C$-Atom* betrachten: $D$ oder $L$([[Fischer Projektion#Enantiomere darstellen|Mehr Informationen]])
 $\rightarrow$ *eindeutige zweidimensionale Darstellung*
 
 ## Enantiomere darstellen
