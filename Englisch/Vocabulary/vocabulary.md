@@ -7,7 +7,7 @@ to abstract(verb) (I will read the article and abstract the main ideas.) ::: tre
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2025-09-11,276,342!2025-10-03,294,330-->
 to accent(verb) ::: betonen, akzentuieren, hervorheben
-<!--SR:!2024-12-17,71,322!2025-10-14,304,339-->
+<!--SR:!2025-10-29,316,342!2025-10-14,304,339-->
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2025-09-30,293,342!2025-09-15,279,330-->
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
