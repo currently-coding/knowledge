@@ -18,5 +18,32 @@ aliases:
 ## Funktionsweise eines Polarimeters
 ![[Pasted image 20241212103100.png]]
 
-### Berechnung des spezifischen Drehwinkels
+## spezifischer Drehwinkel
+### Berechnung
 $$[a] = \frac{a}{100 \cdot \beta \cdot d}$$
+- $a$ = gemessener Drehwinkel
+- $d$ = durchstrahlte Länge in *dm*
+- $\beta$ = Massenkonzentration in *$\frac{g}{100mL}$
+
+### Angabe
+$${[a]}^{\delta}_{\gamma} = a(\beta, \text{Loesungsmittel})$$
+Beispiel:
+$${[a]}^{20}_{D} = \frac{-2.6^{\degree} \cdot mL}{dm \cdot g(1, H_{2}O)}$$
+Das bedeutet:
+- $1g$ $D$-Milchsäure wurden bei $20^{\degree}C$ in $100mL$ Wasser gelöst
+- die Küvette ist $1dm$ lang
+- es wurde gelbes Natriumlicht verwendet($D$ = Licht einer Natriumdampflampe)
+$\rightarrow$ dann wurde die *Schwingungsebene* des [[Polarimetrie|linear polarisierten Lichts]] um $2.6^{\degree}$ nach links gedreht
+
+
+
+# Flashcards
+Wofür wird $$[a] = \frac{a}{100 \cdot \beta \cdot d}$$verwendet? := Die Formel gibt die Berechnung des **spezifischen** **Drehwinkels** an. Dabei ist $a$ der *gemessene* *Drehwinkel*, $d$ die durchstrahlte *Länge* der *Küvette* in *dm* und $\beta$ die *Massenkonzentration* in $$\frac{g}{100mL}$$
+
+Was gibt folgende Gleichung an:
+$${[a]}^{20}_{D} = \frac{-2.6^{\degree} \cdot mL}{dm \cdot g(1, H_{2}O)}$$
+?
+- $1g$ $D$-Milchsäure wurden bei $20^{\degree}C$ in $100mL$ Wasser gelöst
+- die Küvette ist $1dm$ lang
+- es wurde gelbes Natriumlicht verwendet($D$ = Licht einer Natriumdampflampe)
+$\rightarrow$ dann wurde die *Schwingungsebene* des [[Polarimetrie|linear polarisierten Lichts]] um $2.6^{\degree}$ nach links gedreht
