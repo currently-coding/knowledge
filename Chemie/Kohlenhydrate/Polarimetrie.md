@@ -17,3 +17,6 @@ aliases:
 
 ## Funktionsweise eines Polarimeters
 ![[Pasted image 20241212103100.png]]
+
+### Berechnung des spezifischen Drehwinkels
+$$[a] = \frac{a}{100 \cdot \beta \cdot d}$$
