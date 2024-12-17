@@ -3,7 +3,7 @@ abstract(adjective) (The artist is famous for his abstract paintings., Intellige
 abstract(noun) (I have to write an abstract for my dissertation.) ::: Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung
 <!--SR:!2025-08-23,261,330!2025-08-18,258,342-->
 to abstract(verb) (I will read the article and abstract the main ideas.) ::: trennen, abziehen, entnehmen
-<!--SR:!2024-12-17,55,270!2024-12-23,32,296-->
+<!--SR:!2025-07-10,205,290!2024-12-23,32,296-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2025-09-11,276,342!2025-10-03,294,330-->
 to accent(verb) ::: betonen, akzentuieren, hervorheben
