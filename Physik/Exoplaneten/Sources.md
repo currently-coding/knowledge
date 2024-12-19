@@ -9,3 +9,6 @@
 - [ ] https://iopscience.iop.org/article/10.3847/1538-4357/ab1d52/meta - 24/12/13 - 8:40
 
 - https://www.science.org/doi/abs/10.1126/science.1232226 - kostet
+
+
+- [ ] https://en.wikipedia.org/wiki/Habitable_zone (Hilfsquelle)
