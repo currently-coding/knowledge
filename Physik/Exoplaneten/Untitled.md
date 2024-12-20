@@ -37,3 +37,6 @@
 
 > ([[geosciences-08-00280.pdf#page=3&selection=223,56,224,44&color=red|geosciences-08-00280, p.3]])
 > he inner edge boundaries are not calculated using the boiling point of water.
+
+> ([[geosciences-08-00280.pdf#page=31&selection=48,0,48,65&color=note|geosciences-08-00280, p.31]])
+> HZ can only search for “Earth-like” life or “life as we know it” 
