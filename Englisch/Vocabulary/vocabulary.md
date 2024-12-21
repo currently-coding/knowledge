@@ -11,7 +11,7 @@ to accent(verb) ::: betonen, akzentuieren, hervorheben
 accidental(adjective) (He felt very sorry for the accidental mix-up., The news agency regretted the accidental reporting error.) ::: zufällig, unbeabsichtigt, versehentlich
 <!--SR:!2025-09-30,293,342!2025-09-15,279,330-->
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
-<!--SR:!2025-03-19,118,290!2024-12-18,71,322-->
+<!--SR:!2025-03-19,118,290!2025-11-01,315,342-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
 <!--SR:!2025-04-18,160,310!2025-01-11,50,302-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
@@ -29,27 +29,27 @@ acid(adjective) (I do not like acid fruits.) ::: sauer
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) ::: aktivieren, betätigen, freischalten, einschalten, auslösen
 <!--SR:!2025-08-29,267,342!2025-07-04,219,330-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) ::: Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
-<!--SR:!2024-12-16,70,322!2025-07-05,219,330-->
+<!--SR:!2025-10-26,309,342!2025-07-05,219,330-->
 additionally(adverb) (Additionally, you will receive a discount on your next booking.) ::: zusätzlich, zudem, ergänzend, darüber hinaus, außerdem, überdies, nachträglich, nebenbei
-<!--SR:!2024-12-20,74,319!2024-12-18,70,322-->
+<!--SR:!2025-11-12,326,339!2024-12-18,70,322-->
 additional(adjective) (Additional information can be found on the website., This brochure contains additional information on your journey.) ::: zusätzlich, ergänzend, nachträglich, nebenamtlich, hinzukommend, außerplanmäßig
 <!--SR:!2025-07-22,236,330!2025-10-17,306,342-->
 adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
-<!--SR:!2024-12-21,74,322!2025-09-29,291,357-->
+<!--SR:!2025-11-15,329,342!2025-09-29,291,357-->
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) ::: angemessen, hinreichend, ausreichend
-<!--SR:!2025-10-19,308,342!2024-12-17,69,336-->
+<!--SR:!2025-10-19,308,342!2025-11-05,319,356-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
 <!--SR:!2025-03-20,124,402!2025-03-02,108,401-->
 to adjust oneself(verb) () ::: sich anpassen
-<!--SR:!2024-12-18,72,341!2025-05-25,184,322-->
+<!--SR:!2025-11-24,338,361!2025-05-25,184,322-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) ::: erschwinglich, bezahlbar, preiswert, kostengünstig
 <!--SR:!2025-09-13,278,357!2024-12-07,62,322-->
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
 <!--SR:!2025-09-10,278,357!2025-10-02,294,342-->
 aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützung, Beihilfe, Hilfe, Fördermittel
-<!--SR:!2024-12-20,73,322!2024-12-28,78,337-->
+<!--SR:!2025-11-11,325,342!2024-12-28,78,337-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
-<!--SR:!2024-12-19,71,341!2025-05-13,175,322-->
+<!--SR:!2025-11-19,333,361!2025-05-13,175,322-->
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
 <!--SR:!2025-06-20,209,322!2025-08-08,249,336-->
 alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längsseits
@@ -59,21 +59,21 @@ altogether(adverb) (He needed two hours to finish his project altogether., Altog
 ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwagen, Ambulanz, Rettungswagen
 <!--SR:!2025-10-15,305,356!2024-12-14,68,322-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
-<!--SR:!2024-12-16,68,337!2025-04-16,158,322-->
+<!--SR:!2025-10-31,314,357!2025-04-16,158,322-->
 ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfahr, Ahnin
-<!--SR:!2024-12-18,70,337!2025-01-16,34,302-->
+<!--SR:!2025-11-10,324,357!2025-01-16,34,302-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) ::: jährlich, alljährlich, einjährig
-<!--SR:!2024-12-19,70,339!2024-12-21,73,339-->
+<!--SR:!2025-11-13,327,359!2024-12-21,73,339-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) ::: verschmelzen, fusionieren, zusammenfügen
 <!--SR:!2025-07-19,235,341!2025-01-07,86,340-->
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) ::: Verschmelzung, Fusion, Zusammenschluss
 <!--SR:!2025-06-01,191,343!2025-09-22,284,341-->
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
-<!--SR:!2025-01-14,32,323!2024-12-17,68,321-->
+<!--SR:!2025-01-14,32,323!2025-10-16,299,341-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
 <!--SR:!2025-07-06,217,340!2025-01-03,83,339-->
 free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
-<!--SR:!2024-12-17,69,341!2024-12-23,74,339-->
+<!--SR:!2025-11-09,323,361!2024-12-23,74,339-->
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) ::: Handelshemmnis, Handelsbarriere, Handelsbeschränkung
 <!--SR:!2025-10-12,303,359!2025-06-21,207,339-->
 barrier to trade(noun) () ::: Handelshemmnis
@@ -101,7 +101,7 @@ mechanization(noun) () ::: Mechanisierung, Technisierung
 to mechanize(verb) () ::: mechanisieren, technisieren
 <!--SR:!2024-12-28,79,346!2024-12-25,74,351-->
 assembly line(noun) (Cars are usually put together on an assembly line.) ::: Band, Fließband, Montagelinie
-<!--SR:!2025-01-08,86,357!2024-12-16,67,326-->
+<!--SR:!2025-01-08,86,357!2025-10-20,303,346-->
 trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsdefizit
 <!--SR:!2024-12-22,73,358!2025-01-05,83,346-->
 urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
@@ -117,17 +117,17 @@ offshoring(noun) (The relocation of business processes to a foreign country is c
 Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) ::: offshoring
 <!--SR:!2025-07-30,241,350!2025-01-13,91,359-->
 environmentalism(noun) () ::: Umweltschutz
-<!--SR:!2025-01-03,82,339!2024-12-19,71,346-->
+<!--SR:!2025-01-03,82,339!2025-11-23,337,366-->
 work ethic(noun) () ::: Arbeitsmoral, Arbeitsethik, Arbeitsethos
 <!--SR:!2025-01-09,87,358!2024-12-27,78,346-->
 to subsidize(verb) (Corn is cheap because it is subsidized by the government.) ::: subventionieren, bezuschussen, finanziell unterstützen
-<!--SR:!2024-12-18,67,326!2025-01-08,87,358-->
+<!--SR:!2025-10-21,304,346!2025-01-08,87,358-->
 launch(noun) (Mission control postponed the launch of the space shuttle., We are preparing the product launch., We are planning a pan-European launch for September., The launch of the new system went smoothly.) ::: Launch, Start, Markteinführung
 <!--SR:!2025-07-13,225,346!2025-01-03,83,357-->
 to launch(verb) (The space agency will launch a rocket next month., The company will launch a new product this year., The company launched a new communication system., The fireworks are launched at midnight., The shipping company launched their new cruise ship.) ::: starten, einführen
 <!--SR:!2025-01-03,83,359!2025-01-06,84,346-->
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
-<!--SR:!2024-12-21,72,346!2025-01-01,79,357-->
+<!--SR:!2025-11-29,343,366!2025-01-01,79,357-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) ::: Lebensunterhalt, Lebensgrundlage, Existenz
 <!--SR:!2025-08-19,261,358!2025-01-05,30,306-->
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) ::: gedeihen, florieren, aufblühen
@@ -135,7 +135,7 @@ to flourish(verb) (Many plants flourish in the rich, fertile soil by the river.,
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) ::: Verzierung, Schnörkel, Fanfare
 <!--SR:!2025-01-28,85,286!2025-10-28,318,371-->
 supplier(noun) (Our supplier delivers high-quality products., The suppliers are selected through tendering., I am the only supplier of the brand in Italy., We are the largest supplier of electrical goods in the region., Car manufacturers buy parts from many suppliers.) ::: Lieferant, Anbieter, Zulieferer
-<!--SR:!2025-01-07,87,346!2024-12-19,70,357-->
+<!--SR:!2025-01-07,87,346!2025-11-28,342,377-->
 to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) ::: liefern, mitliefern, beliefern
 <!--SR:!2024-12-22,69,338!2024-12-24,76,346-->
 purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) ::: Kauf, Erwerb, Einkauf
@@ -157,7 +157,7 @@ to decline(verb) (Air pollution is declining due to ecological reforms., My frie
 to promote(verb) (Our university promotes international student exchange., We promote cooperation among companies., My institution promotes various ecological initiatives., A new manager was hired to promote development., We need to promote our new product if we want to sell more., The meeting is intended to promote cooperation., I was promoted to head of department today.) ::: fördern, promoten, unterstützen
 <!--SR:!2025-01-06,78,337!2024-12-26,77,350-->
 inequality(noun) (Inequalities need to be redressed.) ::: Ungleichheit, Ungleichstellung, Ungleichung
-<!--SR:!2024-12-27,78,357!2024-12-20,72,350-->
+<!--SR:!2024-12-27,78,357!2025-12-02,346,370-->
 wealth(noun) (Thanks to his wealth, he can buy anything he likes., The book contains a wealth of information., The family's wealth was based on the tenure of land.) ::: Reichtum, Fülle, Wohlstand
 <!--SR:!2025-08-14,256,358!2025-01-08,88,350-->
 tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) ::: Steuer, Abgabe, Zins
@@ -183,7 +183,7 @@ to distribute(verb) (My sister distributes leaflets to earn some pocket money., 
 Distribution(noun) () ::: distribution
 <!--SR:!2025-01-26,99,375!2025-01-01,79,373-->
 to a large extent(adverb) () ::: in hohem Maße, zum großen Teil, in hohem Ausmaß
-<!--SR:!2024-12-25,77,351!2024-12-16,55,332-->
+<!--SR:!2024-12-25,77,351!2025-08-26,248,352-->
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
 <!--SR:!2025-02-01,102,376!2025-01-08,77,352-->
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
@@ -215,7 +215,7 @@ greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashau
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
 <!--SR:!2025-09-02,271,372!2025-01-20,92,375-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
-<!--SR:!2024-12-16,63,356!2025-01-13,82,353-->
+<!--SR:!2025-10-25,308,376!2025-01-13,82,353-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
 <!--SR:!2025-02-01,101,376!2025-01-15,87,353-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
@@ -245,7 +245,7 @@ piece(noun) (Each boy gets a piece of cake., After adding the last piece, the pu
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 <!--SR:!2025-01-18,90,377!2025-01-10,27,293-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
-<!--SR:!2025-01-15,87,377!2024-12-17,56,365-->
+<!--SR:!2025-01-15,87,377!2025-07-15,206,365-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
 <!--SR:!2025-02-12,98,367!2025-01-12,81,357-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
@@ -285,15 +285,15 @@ to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated t
 canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße
 <!--SR:!2025-01-12,85,377!2025-01-29,97,379-->
 convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) ::: Komfort, Bequemlichkeit, Nutzen
-<!--SR:!2024-12-20,58,348!2025-06-14,200,357-->
+<!--SR:!2025-09-24,277,368!2025-06-14,200,357-->
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern
 <!--SR:!2025-08-28,262,379!2025-01-19,88,377-->
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
 <!--SR:!2025-03-18,136,389!2025-01-17,89,377-->
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
-<!--SR:!2024-12-21,62,361!2025-01-09,82,377-->
+<!--SR:!2025-08-02,224,361!2025-01-09,82,377-->
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
-<!--SR:!2025-01-04,74,361!2024-12-16,40,317-->
+<!--SR:!2025-01-04,74,361!2025-04-29,129,317-->
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
 <!--SR:!2025-02-06,102,388!2025-01-04,73,357-->
 whereby(adverb) () ::: wobei, wodurch, womit
@@ -305,7 +305,7 @@ compound(noun) (Brine is a compound of salt and water., The splitting of the che
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
 <!--SR:!2025-03-24,135,388!2025-01-13,83,379-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
-<!--SR:!2024-12-18,65,359!2025-01-28,93,388-->
+<!--SR:!2025-11-06,320,379!2025-01-28,93,388-->
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
 <!--SR:!2025-04-19,147,387!2024-12-31,70,339-->
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
@@ -325,7 +325,7 @@ ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an on
 <!--SR:!2024-12-25,64,348!2025-05-08,150,319-->
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon
 <!--SR:!2025-01-06,74,359!2025-01-07,76,361-->
-yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem
+yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem(Konjunktion)
 <!--SR:!2025-02-05,101,389!2024-12-21,63,359-->
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
 <!--SR:!2025-01-23,92,379!2025-02-17,112,388-->
