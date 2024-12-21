@@ -326,7 +326,7 @@ ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an on
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon
 <!--SR:!2025-01-06,74,359!2025-01-07,76,361-->
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem(Konjunktion)
-<!--SR:!2025-02-05,101,389!2024-12-21,63,359-->
+<!--SR:!2025-02-05,101,389!2025-10-24,307,379-->
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
 <!--SR:!2025-01-23,92,379!2025-02-17,112,388-->
 palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
@@ -360,7 +360,7 @@ long(adjective) (Long skirts were in fashion then., She has long and slender leg
 to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
 <!--SR:!2025-02-08,104,388!2025-01-28,97,381-->
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
-<!--SR:!2024-12-20,58,367!2025-01-09,79,361-->
+<!--SR:!2025-10-09,292,387!2025-01-09,79,361-->
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
 <!--SR:!2025-01-03,73,367!2025-01-30,95,389-->
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
@@ -406,7 +406,7 @@ ray(noun) () ::: Strahl, Lichtstrahl, Rochen
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 <!--SR:!2024-12-20,59,369!2025-01-26,90,367-->
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen
-<!--SR:!2024-12-20,61,368!2025-02-04,100,387-->
+<!--SR:!2025-10-23,306,388!2025-02-04,100,387-->
 to address oneself to(verb) () ::: sich etw. widmen
 <!--SR:!2025-01-20,84,368!2025-01-06,71,345-->
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
@@ -416,7 +416,7 @@ consult(noun) () ::: Befragung
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
 <!--SR:!2025-02-25,115,389!2025-04-23,165,387-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
-<!--SR:!2025-02-20,90,347!2024-12-17,58,368-->
+<!--SR:!2025-02-20,90,347!2025-10-10,293,388-->
 ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
 <!--SR:!2025-03-07,125,387!2025-02-12,107,389-->
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
@@ -442,7 +442,7 @@ inevitable(adjective) (The passing of this law was inevitable., The imposition o
 strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced the chicken into strips., A narrow strip of land connects the two islands., I used a strip of cloth to mend my dress., The tailor cut the fabric into strips., Me and the boys want to go on the strip tonight.) ::: Streifen, Band, Piste
 <!--SR:!2025-04-10,145,387!2025-02-03,64,369-->
 to strip(verb) (The electrician stripped the cable and installed the lamp., It is hard to strip wallpaper off a wall., We stripped the paint with sandpaper.) ::: abisolieren, abziehen, abkratzen
-<!--SR:!2024-12-16,53,347!2024-12-25,63,369-->
+<!--SR:!2025-09-05,258,367!2024-12-25,63,369-->
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
 <!--SR:!2025-05-29,186,367!2025-04-08,150,388-->
 to sanction(verb) (The committee sanctioned the expenditure for the project.) ::: genehmigen, sanktionieren, billigen
@@ -450,13 +450,13 @@ to sanction(verb) (The committee sanctioned the expenditure for the project.) ::
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
 <!--SR:!2025-01-04,76,367!2025-01-07,76,369-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
-<!--SR:!2025-04-17,146,388!2024-12-20,34,347-->
+<!--SR:!2025-04-17,146,388!2025-01-06,16,327-->
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
 <!--SR:!2025-04-01,136,389!2025-01-23,91,388-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
 <!--SR:!2025-01-18,87,387!2025-02-09,105,389-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
-<!--SR:!2024-12-20,58,365!2025-02-06,102,389-->
+<!--SR:!2025-10-07,290,385!2025-02-06,102,389-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
 <!--SR:!2025-05-26,185,365!2025-02-14,109,387-->
 excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich
@@ -466,7 +466,7 @@ to excruciate(verb) () ::: quälen
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
 <!--SR:!2025-03-14,120,405!2025-02-07,79,361-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
-<!--SR:!2025-05-29,165,422!2024-12-20,19,261-->
+<!--SR:!2025-05-29,165,422!2025-02-10,51,261-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
 <!--SR:!2025-02-12,90,381!2025-05-01,152,402-->
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
@@ -496,7 +496,7 @@ reproduction(noun) (The reproduction of bootlegs is strictly prohibited.) ::: Ve
 cabin(noun) (The captain has a private cabin on the ship., My parents own a cabin in the mountains., The cabin has no heating, so it is only occupied in the summer., The ship's cabin was surprisingly spacious.) ::: Kabine, Hütte, Kajüte
 <!--SR:!2025-02-18,91,392!2025-05-23,159,421-->
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
-<!--SR:!2024-12-21,29,375!2025-05-15,151,402-->
+<!--SR:!2025-05-19,149,395!2025-05-15,151,402-->
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
 <!--SR:!2025-03-21,111,402!2025-03-22,120,405-->
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen
