@@ -1,0 +1,3 @@
+- je exotischer die Tiere desto mehr Besucher
+	- Giraffen, Elefanten, Tiger
+- 800 Tierparks in Deutschland
