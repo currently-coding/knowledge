@@ -3,7 +3,7 @@ abstract(adjective) (The artist is famous for his abstract paintings., Intellige
 abstract(noun) (I have to write an abstract for my dissertation.) ::: Zusammenfassung, Auszug, Kurzfassung, Kurzbeschreibung, kurze Zusammenfassung
 <!--SR:!2025-08-23,261,330!2025-08-18,258,342-->
 to abstract(verb) (I will read the article and abstract the main ideas.) ::: trennen, abziehen, entnehmen
-<!--SR:!2025-07-10,205,290!2024-12-23,32,296-->
+<!--SR:!2025-07-10,205,290!2025-05-05,131,316-->
 accent(noun) (My mother speaks with a strong accent., The accent is on the last syllable of the word.) ::: Akzent, Betonung
 <!--SR:!2025-09-11,276,342!2025-10-03,294,330-->
 to accent(verb) ::: betonen, akzentuieren, hervorheben
@@ -19,13 +19,13 @@ accountant(noun) (As he likes working with numbers, he will train to become an a
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
 <!--SR:!2025-10-01,293,342!2025-03-24,142,319-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
-<!--SR:!2024-12-25,77,322!2025-05-15,173,310-->
+<!--SR:!2025-12-01,341,342!2025-05-15,173,310-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) ::: genau, korrekt, sorgfältig, richtig
 <!--SR:!2025-08-31,269,339!2025-02-12,108,322-->
 acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
 <!--SR:!2025-06-03,193,322!2025-07-24,236,330-->
 acid(adjective) (I do not like acid fruits.) ::: sauer
-<!--SR:!2024-12-24,77,334!2025-08-24,264,339-->
+<!--SR:!2025-12-14,354,354!2025-08-24,264,339-->
 to activate(verb) (Movement activates the alarm., The security guard activated the alarm., The provider activated my account., The airline captain activated the autopilot.) ::: aktivieren, betätigen, freischalten, einschalten, auslösen
 <!--SR:!2025-08-29,267,342!2025-07-04,219,330-->
 addiction(noun) (She overcame her addiction to nicotine and quit smoking.) ::: Sucht, Abhängigkeit, Hang, Neigung, Suchterkrankung
@@ -73,7 +73,7 @@ sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
 <!--SR:!2025-07-06,217,340!2025-01-03,83,339-->
 free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
-<!--SR:!2025-11-09,323,361!2024-12-23,74,339-->
+<!--SR:!2025-11-09,323,361!2025-12-05,345,359-->
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) ::: Handelshemmnis, Handelsbarriere, Handelsbeschränkung
 <!--SR:!2025-10-12,303,359!2025-06-21,207,339-->
 barrier to trade(noun) () ::: Handelshemmnis
