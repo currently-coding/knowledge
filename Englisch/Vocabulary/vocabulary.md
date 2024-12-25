@@ -97,19 +97,19 @@ to fund(verb) (The project is funded by private sponsors only., The government i
 deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
 <!--SR:!2025-11-03,323,371!2025-12-18,358,366-->
 mechanization(noun) () ::: Mechanisierung, Technisierung
-<!--SR:!2024-12-25,76,346!2025-01-01,81,351-->
+<!--SR:!2025-12-22,362,366!2025-01-01,81,351-->
 to mechanize(verb) () ::: mechanisieren, technisieren
-<!--SR:!2024-12-28,79,346!2024-12-25,74,351-->
+<!--SR:!2024-12-28,79,346!2025-12-15,355,371-->
 assembly line(noun) (Cars are usually put together on an assembly line.) ::: Band, Fließband, Montagelinie
 <!--SR:!2025-01-08,86,357!2025-10-20,303,346-->
 trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsdefizit
-<!--SR:!2024-12-22,73,358!2025-01-05,83,346-->
+<!--SR:!2025-12-19,359,378!2025-01-05,83,346-->
 urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
 <!--SR:!2024-12-27,76,357!2025-01-06,84,346-->
 to urbanize(verb) () ::: urbanisieren, verstädtern
 <!--SR:!2024-12-31,80,346!2024-12-30,79,358-->
 to diversify(verb) (The trader wants to diversify his portfolio.) ::: diversifizieren, variieren, differenzieren
-<!--SR:!2025-07-26,241,357!2024-12-22,74,346-->
+<!--SR:!2025-07-26,241,357!2025-12-12,352,366-->
 commerce(noun) (A lot of commerce was conducted in this town a century ago.) ::: Handel, Verkehr, Kommerz
 <!--SR:!2024-12-29,80,346!2025-01-02,82,358-->
 offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) ::: Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung
@@ -137,7 +137,7 @@ flourish(noun) (The composition has various flourishes., She decorated the birth
 supplier(noun) (Our supplier delivers high-quality products., The suppliers are selected through tendering., I am the only supplier of the brand in Italy., We are the largest supplier of electrical goods in the region., Car manufacturers buy parts from many suppliers.) ::: Lieferant, Anbieter, Zulieferer
 <!--SR:!2025-01-07,87,346!2025-11-28,342,377-->
 to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) ::: liefern, mitliefern, beliefern
-<!--SR:!2024-12-22,69,338!2024-12-24,76,346-->
+<!--SR:!2025-11-08,318,358!2024-12-24,76,346-->
 purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) ::: Kauf, Erwerb, Einkauf
 <!--SR:!2025-01-09,87,346!2024-12-28,77,351-->
 to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) ::: kaufen, erwerben, beschaffen
