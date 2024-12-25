@@ -77,7 +77,7 @@ free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) ::: Handelshemmnis, Handelsbarriere, Handelsbeschränkung
 <!--SR:!2025-10-12,303,359!2025-06-21,207,339-->
 barrier to trade(noun) () ::: Handelshemmnis
-<!--SR:!2024-12-22,73,339!2025-01-12,84,299-->
+<!--SR:!2025-11-30,340,359!2025-01-12,84,299-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) ::: Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2025-01-14,92,358!2024-12-31,80,346-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) ::: Ausbeutung, Nutzung, Verwertung
@@ -85,9 +85,9 @@ exploitation(noun) (There is a law against the exploitation of workers., The exp
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) ::: nutzen, ausnutzen, ausschöpfen, erschließen(business context)
 <!--SR:!2024-12-31,78,357!2025-11-04,324,366-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) ::: Lebensstandard, Lebenshaltung
-<!--SR:!2024-12-29,78,358!2024-12-24,75,346-->
+<!--SR:!2024-12-29,78,358!2025-12-17,357,366-->
 debt relief(noun) (The bank granted the company only partial debt relief.) ::: Schuldenerlass, Entschuldung
-<!--SR:!2024-12-23,75,346!2024-12-29,78,351-->
+<!--SR:!2025-12-16,356,366!2024-12-29,78,351-->
 current affairs(noun) () ::: aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 <!--SR:!2025-01-15,84,346!2025-01-04,82,359-->
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) ::: Fonds, Investmentfonds, Geldmittel
@@ -95,7 +95,7 @@ fund(noun) (The city set up a fund to help the homeless., The charity is respons
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) ::: finanzieren, anlegen, investieren
 <!--SR:!2025-10-27,317,370!2025-01-22,60,339-->
 deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
-<!--SR:!2025-11-03,323,371!2024-12-24,75,346-->
+<!--SR:!2025-11-03,323,371!2025-12-18,358,366-->
 mechanization(noun) () ::: Mechanisierung, Technisierung
 <!--SR:!2024-12-25,76,346!2025-01-01,81,351-->
 to mechanize(verb) () ::: mechanisieren, technisieren
