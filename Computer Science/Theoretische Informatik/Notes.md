@@ -32,8 +32,11 @@ Beweis:
 d.h. es existiert $i, j$ mit $0 \leq i \lt j \leq k$ und $q_i = q_j$
 - -> zwischen $i$ und $j$ wurde einmal im Kreis gelaufen
 $x := a_1 ... a_i$
+<!--SR:!2024-12-26,1,232-->
 $y := a_{i+1}...a_j$
+<!--SR:!2024-12-26,1,232-->
 $z := a_{j+1}...a_m$
+<!--SR:!2024-12-26,1,232-->
 
 
 Damit gilt:
