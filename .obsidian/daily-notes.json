@@ -1,4 +1,5 @@
 {
   "folder": "Week Planner/Days",
-  "autorun": true
+  "autorun": true,
+  "format": "YYYY-MM-DD-dddd"
 }
