@@ -34,6 +34,6 @@
   "eventFormatOnCreation": "task",
   "sortTasksInPlanAfterEdit": true,
   "firstDayOfWeek": "monday",
-  "multiDayRange": "3-days",
+  "multiDayRange": "full-week",
   "showTimeTracker": false
 }
