@@ -634,9 +634,9 @@ to spare(verb) (Luckily, the butcher spared me a detailed description of his wor
 spare(adjective) (There are still a few spare seats on the plane., I gave my spare money to my sister because I did not need it.) ::: frei, übrig, sparsam
 <!--SR:!2024-11-21,24,392!2024-12-22,30,402-->
 firm(noun) (My brother runs a successful firm., The firm was taken over by a large group.) ::: Firma, Unternehmen, Betrieb
-<!--SR:!2025-05-06,156,415!2024-12-23,30,403-->
+<!--SR:!2025-05-06,156,415!2025-06-11,166,423-->
 firm(adjective) (The material is rigid and firm., Our company values trust as a firm basis for business., He is firm with his children.) ::: fest, solide, streng
-<!--SR:!2025-01-05,52,352!2024-12-23,17,375-->
+<!--SR:!2025-01-05,52,352!2025-03-23,86,395-->
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
 <!--SR:!2025-01-15,62,372!2024-12-20,27,403-->
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif
