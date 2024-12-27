@@ -1,2 +1,2 @@
 ## Beliebt
-- Deutsche wollen Zoos43
+- Deutsche wollen Zoos
