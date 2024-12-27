@@ -574,13 +574,13 @@ genuinely(adverb) () ::: wirklich, echt, authentisch
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
 <!--SR:!2025-03-20,110,403!2025-02-15,68,383-->
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
-<!--SR:!2024-12-17,33,403!2025-05-27,173,415-->
+<!--SR:!2025-06-26,181,423!2025-05-27,173,415-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
 <!--SR:!2025-02-21,91,395!2025-05-09,159,417-->
 to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen
-<!--SR:!2025-01-16,52,377!2024-12-16,19,362-->
+<!--SR:!2025-01-16,52,377!2025-03-06,69,362-->
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug
-<!--SR:!2025-05-25,161,421!2024-12-19,27,403-->
+<!--SR:!2025-05-25,161,421!2025-05-24,148,423-->
 to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen
 <!--SR:!2025-02-11,79,375!2025-05-24,166,423-->
 intellectual(adjective) (The article remains intellectual property of the author.) ::: geistig, intellektuell, gedanklich
@@ -588,7 +588,7 @@ intellectual(adjective) (The article remains intellectual property of the author
 intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
 <!--SR:!2025-05-30,176,413!2025-05-16,165,415-->
 crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt
-<!--SR:!2025-04-23,139,422!2024-12-18,34,402-->
+<!--SR:!2025-04-23,139,422!2025-07-02,187,422-->
 to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen
 <!--SR:!2025-02-26,96,391!2025-05-08,158,416-->
 success(noun) (His first book was a great success, everybody loved it., The book was a huge success.) ::: Erfolg, Gelingen, Triumph
@@ -614,7 +614,7 @@ obstacle(noun) (We can overcome any obstacle if we do not give up., Obstacles on
 ruling(noun) (The judge announced that she will issue a ruling tomorrow., The ruling applied to all companies, whether large or small.) ::: Entscheidung, Urteil, Regelung
 <!--SR:!2025-03-13,110,395!2025-03-03,84,403-->
 ruling(adjective) (The ruling party won the election again.) ::: regierend, herrschend, beherrschend
-<!--SR:!2025-05-29,175,412!2024-12-19,27,402-->
+<!--SR:!2025-05-29,175,412!2025-05-23,147,422-->
 illusion(noun) (The magician was a master of deception and illusion.) ::: Illusion, Täuschung, Wahn
 <!--SR:!2024-12-24,31,403!2024-11-07,5,382-->
 ranking(noun) (My name was in third place in the ranking., The ranking of the candidates took several hours.) ::: Rangliste, Einstufung, Ranking
