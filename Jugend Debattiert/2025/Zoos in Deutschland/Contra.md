@@ -55,6 +55,8 @@
 - **Bekämpfung des illegalen Wildtierhandels:** Deutsche Zoos arbeiten mit globalen Organisationen wie CITES zusammen, um die Öffentlichkeit über die Auswirkungen des illegalen Wildtierhandels aufzuklären und die Nachfrage nach exotischen Haustieren zu reduzieren. 
 
 
+
+
 https://sentientmedia.org/pros-and-cons-of-zoos/
 https://www.treehugger.com/arguments-for-and-against-zoos-127639
 https://www.jamesborrell.com/five-strongest-arguments-against-zoos/
