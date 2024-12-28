@@ -44,8 +44,10 @@ The pro-zoo side can present counterarguments to your points, focusing on the et
 	- Tourismus
 
 **5. Alternativen zu schädlichen Praktiken:**  
-- **Ethische Bildungsangebote:** Zoos bieten eine bessere Alternative zu Zirkussen oder privater Tierhaltung, die oft Tiere ausbeuten. Das Verbot von Wildtieren in Zirkussen in Deutschland zeigt die öffentliche Präferenz für ethische Bildungsangebote wie Zoos.  
-- **Bekämpfung des illegalen Wildtierhandels:** Deutsche Zoos arbeiten mit globalen Organisationen wie CITES zusammen, um die Öffentlichkeit über die Auswirkungen des illegalen Wildtierhandels aufzuklären und die Nachfrage nach exotischen Haustieren zu reduzieren. 
+- **Ethische Bildungsangebote:** Zoos bieten eine bessere Alternative zu Zirkussen oder privater Tierhaltung, die oft Tiere ausbeuten. Das Verbot von Wildtieren in Zirkussen in Deutschland zeigt die öffentliche Präferenz für ethische Bildungsangebote wie Zoos.
+	- Tiere werden so oder so ausgestellt - wieso das tier-beste verbieten? Zirkus zuerst weg
+- **Bekämpfung des illegalen Wildtierhandels:** Deutsche Zoos arbeiten mit globalen Organisationen wie CITES zusammen, um die Öffentlichkeit über die Auswirkungen des illegalen Wildtierhandels aufzuklären und die Nachfrage nach exotischen Haustieren zu reduzieren.
+	- Tiere werden gehalten so oder so. Wenigstens zeigen wie es richtig geht
 
 ### **1. Animal Welfare Concerns**
 
@@ -56,6 +58,7 @@ The pro-zoo side can present counterarguments to your points, focusing on the et
 - **Improved Enclosure Design:** Modern zoos focus on creating expansive, naturalistic habitats (e.g., Leipzig Zoo's Gondwanaland or San Diego Zoo’s open-range enclosures).
 - **Enrichment Programs:** Zoos now use advanced enrichment techniques to mimic natural behaviors and reduce stress (e.g., puzzle feeders, complex habitats).
 - **Rescue and Rehabilitation:** Many animals in zoos are rescues that wouldn’t survive in the wild due to injuries or being born in captivity.
+$\Rightarrow$ Zoos verbessern ihre Gehege konstant. kein Grund jetzt Zoos zu verbieten
 
 ---
 

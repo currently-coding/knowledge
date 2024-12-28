@@ -1,3 +1,10 @@
+>[!Methode]
+> falls Zoos definierte Plaene zur Erheohung des Tierwohls nicht erfuellen koennen muessen sie verboten werden
+- nicht alle Zoos werden verboten
+- Tierwohl ist gesichert
+ 
+
+
 - Studie diskreditieren
 	- von Zoos in Auftrag gegeben
 	![[Pasted image 20241223184110.png]]
