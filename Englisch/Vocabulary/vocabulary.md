@@ -47,7 +47,7 @@ affordable(adjective) (We offer good quality at affordable prices., This laptop 
 agriculture(noun) (Agriculture accounts for ten per cent of GDP.) ::: Landwirtschaft, Landbau, Agrarwirtschaft, Ackerbau, Agrarsektor
 <!--SR:!2025-09-10,278,357!2025-10-02,294,342-->
 aid(noun) (The foundation receives financial aid from donors.) ::: Unterstützung, Beihilfe, Hilfe, Fördermittel
-<!--SR:!2025-11-11,325,342!2024-12-28,78,337-->
+<!--SR:!2025-11-11,325,342!2025-12-27,362,357-->
 to aid(verb) (We need to aid those in need., Some foods aid digestion., Some types of food aid the digestion.) ::: helfen, unterstützen, fördern, beispringen
 <!--SR:!2025-11-19,333,361!2025-05-13,175,322-->
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
