@@ -85,13 +85,13 @@ exploitation(noun) (There is a law against the exploitation of workers., The exp
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) ::: nutzen, ausnutzen, ausschöpfen, erschließen(business context)
 <!--SR:!2024-12-31,78,357!2025-11-04,324,366-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) ::: Lebensstandard, Lebenshaltung
-<!--SR:!2024-12-29,78,358!2025-12-17,357,366-->
+<!--SR:!2026-01-17,383,378!2025-12-17,357,366-->
 debt relief(noun) (The bank granted the company only partial debt relief.) ::: Schuldenerlass, Entschuldung
-<!--SR:!2025-12-16,356,366!2024-12-29,78,351-->
+<!--SR:!2025-12-16,356,366!2026-01-10,376,371-->
 current affairs(noun) () ::: aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 <!--SR:!2025-01-15,84,346!2025-01-04,82,359-->
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) ::: Fonds, Investmentfonds, Geldmittel
-<!--SR:!2025-01-04,83,359!2024-12-30,81,350-->
+<!--SR:!2025-01-04,83,359!2026-01-24,390,370-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) ::: finanzieren, anlegen, investieren
 <!--SR:!2025-10-27,317,370!2025-01-22,60,339-->
 deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
@@ -99,7 +99,7 @@ deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
 mechanization(noun) () ::: Mechanisierung, Technisierung
 <!--SR:!2025-12-22,362,366!2025-01-01,81,351-->
 to mechanize(verb) () ::: mechanisieren, technisieren
-<!--SR:!2024-12-28,79,346!2025-12-15,355,371-->
+<!--SR:!2026-01-09,375,366!2025-12-15,355,371-->
 assembly line(noun) (Cars are usually put together on an assembly line.) ::: Band, Fließband, Montagelinie
 <!--SR:!2025-01-08,86,357!2025-10-20,303,346-->
 trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsdefizit
@@ -107,13 +107,13 @@ trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsde
 urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
 <!--SR:!2026-01-03,372,377!2025-01-06,84,346-->
 to urbanize(verb) () ::: urbanisieren, verstädtern
-<!--SR:!2024-12-31,80,346!2024-12-30,79,358-->
+<!--SR:!2024-12-31,80,346!2026-01-22,388,378-->
 to diversify(verb) (The trader wants to diversify his portfolio.) ::: diversifizieren, variieren, differenzieren
 <!--SR:!2025-07-26,241,357!2025-12-12,352,366-->
 commerce(noun) (A lot of commerce was conducted in this town a century ago.) ::: Handel, Verkehr, Kommerz
-<!--SR:!2024-12-29,80,346!2025-01-02,82,358-->
+<!--SR:!2026-01-15,381,366!2025-01-02,82,358-->
 offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) ::: Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung
-<!--SR:!2025-09-21,283,346!2024-12-29,78,358-->
+<!--SR:!2025-09-21,283,346!2026-01-16,382,378-->
 Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) ::: offshoring
 <!--SR:!2025-07-30,241,350!2025-01-13,91,359-->
 environmentalism(noun) () ::: Umweltschutz
@@ -139,7 +139,7 @@ supplier(noun) (Our supplier delivers high-quality products., The suppliers are 
 to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) ::: liefern, mitliefern, beliefern
 <!--SR:!2025-11-08,318,358!2024-12-24,76,346-->
 purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) ::: Kauf, Erwerb, Einkauf
-<!--SR:!2025-01-09,87,346!2024-12-28,77,351-->
+<!--SR:!2025-01-09,87,346!2026-01-05,371,371-->
 to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) ::: kaufen, erwerben, beschaffen
 <!--SR:!2025-12-25,365,379!2025-01-05,84,346-->
 commission(noun) (The commission will deal with this issue next week., The commission has agreed on a new resolution., I will get a commission for the good service.) ::: Kommission, Provision, Auftrag
@@ -149,7 +149,7 @@ to commission(verb) (The company commissioned me to design its new logo., My bro
 state-of-the-art(adjective) (The new school will have state-of-the-art classrooms., The new alarm system uses state-of-the-art technology.) ::: hochmodern, modernst
 <!--SR:!2025-01-06,86,351!2025-01-10,88,359-->
 state of the art(noun) () ::: Stand der Technik
-<!--SR:!2024-12-28,75,359!2025-10-11,300,350-->
+<!--SR:!2026-01-06,372,379!2025-10-11,300,350-->
 decline(noun) (We have witnessed a sharp decline in oil prices., The decline in sales worries the investors., The investors are not worried by the decline in sales., The country's economic decline came after the crisis.) ::: Rückgang, Sinken, Abnahme
 <!--SR:!2024-12-29,76,350!2025-03-31,129,351-->
 to decline(verb) (Air pollution is declining due to ecological reforms., My friend declined my invitation for lunch., The recession is over and unemployment is declining., Unemployment has declined with the recovery of the economy., The mortality rate is declining, people are living longer., The growth rate of exports has recently declined., I can correctly decline most Latin nouns., For my homework, I had to decline ten nouns.) ::: sinken, ablehnen, zurückgehen
