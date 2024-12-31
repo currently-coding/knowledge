@@ -1,9 +1,4 @@
-## Inhalt
-- [[#Groessen]]
-- [[#gleichmaessige Bewegungen]]
-	- [[#Bahngeschwindigkeit]]
-	- [[#Winkelgeschwindigkeit]]
-## Groessen
+## Größen
 - Ortsvektor 
 $$\vec r(t) = (x(t); y(t))$$
 -  Umlaufdauer
