@@ -7,10 +7,10 @@
   "obsidian-relative-line-numbers",
   "number-headings-obsidian",
   "leader-hotkeys-obsidian",
-  "quick-latex",
   "inline-math",
   "obsidian-desmos",
   "obsidian-day-planner",
   "obsidian-week-planner",
-  "dataview"
+  "dataview",
+  "obsidian-latex-suite"
 ]
