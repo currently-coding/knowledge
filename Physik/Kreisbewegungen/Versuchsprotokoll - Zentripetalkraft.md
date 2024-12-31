@@ -1,3 +1,8 @@
+>[!Disclaimer]
+>Die angegebenen Werte beinhalten relevante Fehler.
+>Der grundlegende Aufbau ist korrekt.
+>Ziel, Aufbau und Beschreibung sind ebenfalls korrekt
+
 ## Ziel
 Bestimmung der Proportionalität von $a_z$ bezüglich $w^2$ und $r$. Dabei bezeichnet $a_z$ die Zentripetalbeschleunigung, $w$ die Winkelgeschwindigkeit und $r$ den Radius.
 ## Aufbau
@@ -38,3 +43,5 @@ Abbildung 3 legt dar, dass $\omega^2  \propto a_z$ ist, da die Regressionsgerade
 $$
 a_z = \omega^2 \cdot r
 $$
+
+
