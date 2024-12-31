@@ -1,6 +1,116 @@
 >[!Massnahme]
 >Zoos falls sie nicht einen tierschutzplan folgen koennen verbieten
 
+### **Debattennotizen: Sollten Zoos in Deutschland ab 2030 verboten werden?**
+
+---
+
+## **Pro-Argumente: Zoos abschaffen**
+
+### **1. Ethische Bedenken**
+- **Argument:** Tiere werden eingesperrt, obwohl sie nichts verbrochen haben – moderne Sklavenhaltung.  
+  - **Konter:** Tiere in Zoos dienen dem höheren Ziel des Artenschutzes und der Bildung, was ethisch vertretbar ist.  
+
+- **Argument:** Verstoß gegen Tierrechte, da Tiere ihrer Freiheit beraubt werden.  
+  - **Konter:** Tierrechte und Artenschutz erfordern Kompromisse, besonders bei bedrohten Arten, die ohne Zoos aussterben könnten.  
+
+---
+
+### **2. Haltung und Gehegegrößen**  
+- **Argument:** Große Tiere wie Zebras oder Elefanten haben nur wenige hundert Quadratmeter, obwohl sie in freier Wildbahn Hunderte Kilometer zurücklegen.  
+  - **Konter:** Moderne Zoos verbessern kontinuierlich ihre Gehege und bieten oft mehr Platz und artgerechte Gestaltung als früher.  
+
+- **Argument:** Eisbären leiden unter Hitze und fehlenden Kältebedingungen.  
+  - **Konter:** Viele Zoos haben inzwischen klimatisierte Gehege und kühlende Wasserbecken eingerichtet.  
+
+- **Argument:** Gehege aus Beton und Gittern können natürliche Lebensräume nicht nachahmen.  
+  - **Konter:** Während Gehege die Wildnis nicht vollständig simulieren können, bieten sie dennoch Schutz vor natürlichen Feinden und widrigen Bedingungen.  
+
+---
+
+### **3. Wirtschaftlichkeit und Spenden**  
+- **Argument:** Teure Verbesserungen erhöhen die Eintrittspreise, was weniger Besucher und Spenden zur Folge hat.  
+  - **Konter:** Höhere Eintrittspreise können von engagierten Naturschützern getragen werden, und moderne Zoos ziehen oft mehr Besucher durch bessere Haltungsbedingungen an.  
+
+- **Argument:** Familien und Kinder spenden weniger, und wohlhabendere Menschen besuchen Zoos selten.  
+  - **Konter:** Auch kleinere Spenden summieren sich, und Zoos fungieren als langfristige Bildungsplattformen für Kinder, die später Umweltbewusstsein entwickeln.  
+
+---
+
+### **4. Fokus auf Unterhaltung statt Schutz**  
+- **Argument:** Die meisten Besucher interessieren sich für nicht bedrohte Arten wie Löwen oder Elefanten.  
+  - **Konter:** Die Einnahmen durch beliebte Tiere ermöglichen es Zoos, bedrohte Arten zu schützen und Zuchtprogramme zu finanzieren.  
+
+- **Argument:** Leid vieler Tiere für den Schutz weniger Arten.  
+  - **Konter:** Der Artenschutz einzelner bedrohter Arten wie Przewalski-Pferden hat langfristige ökologische Vorteile, die das Leid anderer Tiere rechtfertigen können.  
+
+---
+
+## **Contra-Argumente: Zoos behalten**
+
+### **1. Artenschutz und Zuchtprogramme**  
+- **Argument:** Zoos verhindern das Aussterben bedrohter Arten.  
+  - **Konter:** Der Großteil der Tiere in Zoos ist nicht bedroht, und Zuchtprogramme helfen oft nur wenigen Arten.  
+
+- **Argument:** Zuchtprogramme ermöglichen es, Arten wieder in die Wildnis zu integrieren.  
+  - **Konter:** Viele Tiere aus Zuchtprogrammen sind nicht überlebensfähig in der Wildnis und verbleiben oft in Gefangenschaft.  
+
+---
+
+### **2. Bildung und Umweltbewusstsein**  
+- **Argument:** Zoos vermitteln Wissen und fördern Umweltbewusstsein bei Kindern.  
+  - **Konter:** Der Bildungswert ist gering, da viele Zoobesucher Tiere nur aus Unterhaltungsgründen sehen wollen.  
+
+- **Argument:** Direkter Kontakt mit Tieren inspiriert langfristig zu Naturschutz.  
+  - **Konter:** Virtuelle Alternativen oder Schutzgebiete könnten ähnliche Bildungszwecke erfüllen, ohne Tiere einzusperren.  
+
+---
+
+### **3. Verbesserte Haltungsbedingungen**  
+- **Argument:** Moderne Zoos verbessern kontinuierlich Gehege und Haltung.  
+  - **Konter:** Trotz Verbesserungen bleiben viele Tiere unter nicht artgerechten Bedingungen eingesperrt.  
+
+- **Argument:** Klimatisierte Gehege ermöglichen artgerechtere Haltung.  
+  - **Konter:** Diese Fortschritte gelten nur für wenige Zoos, viele leiden weiterhin unter veralteten Standards.  
+
+---
+
+### **4. Wirtschaftliche und gesellschaftliche Vorteile**  
+- **Argument:** Zoos schaffen Arbeitsplätze und ziehen Touristen an.  
+  - **Konter:** Andere Einrichtungen wie Naturreservate könnten ähnliche wirtschaftliche Vorteile schaffen, ohne Tiere einzusperren.  
+
+- **Argument:** Einnahmen aus Zoos finanzieren Naturschutzprojekte.  
+  - **Konter:** Diese Projekte sind oft unterfinanziert, da nur ein kleiner Teil der Einnahmen tatsächlich für Naturschutz verwendet wird.  
+
+---
+
+### **5. Alternativen schwer realisierbar**  
+- **Argument:** Virtuelle Erlebnisse sind kein Ersatz für direkten Kontakt mit Tieren.  
+  - **Konter:** Virtuelle Technologie entwickelt sich weiter und könnte bald ähnliche Bildungseffekte erzielen.  
+
+- **Argument:** Wildtier-Schutzgebiete sind für viele Menschen schwer zugänglich.  
+  - **Konter:** Nationalparks und Schutzgebiete können durch staatliche Förderung zugänglicher gemacht werden.  
+
+---
+
+## **Schlüsselargumente und Beispiele (mit Kontern)**
+
+| **Thema**                   | **Pro (Abschaffung)**                                                                                                                                                              | **Contra (Behalten)**                                                                                                                                                     |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Ethische Perspektive**     | Eingesperrte Tiere für menschliche Unterhaltung sind moralisch fragwürdig.                                                                                                      | Artenschutz und Bildung rechtfertigen diese Einschränkungen.                                                                                                           |
+| **Haltungsbedingungen**      | Zu kleine Gehege, fehlende Kältebedingungen für Eisbären.                                                                                                                       | Moderne Zoos verbessern ihre Gehege kontinuierlich.                                                                                                                    |
+| **Fokus auf bedrohte Arten** | Beliebte Tiere (Löwen, Elefanten) sind oft nicht bedroht und leiden trotzdem in Zoos.                                                                                          | Einnahmen durch beliebte Tiere finanzieren Schutzprogramme für bedrohte Arten.                                                                                         |
+| **Bildung und Bewusstsein**  | Der Bildungswert ist begrenzt; viele Zoobesucher kommen nur zur Unterhaltung.                                                                                                  | Zoos fördern langfristiges Umweltbewusstsein, besonders bei Kindern.                                                                                                   |
+| **Wirtschaftlichkeit**       | Höhere Eintrittspreise durch Verbesserungen reduzieren Besucherzahlen und Spenden.                                                                                            | Höhere Preise können durch modernisierte Zoos gerechtfertigt werden; engagierte Besucher tragen langfristig zum Schutz bei.                                             |
+| **Alternativen**             | Virtuelle Realität und Schutzgebiete sind ethischere Alternativen.                                                                                                            | Virtuelle Erlebnisse können den direkten Kontakt nicht vollständig ersetzen; Schutzgebiete sind oft schwer erreichbar.                                                 |
+
+---
+
+## **Zusammenfassung**
+Die Debatte zeigt zwei gegensätzliche Ansätze: Während die Pro-Seite den Fokus auf Ethik, Tierwohl und Alternativen legt, argumentiert die Contra-Seite mit Artenschutz, Bildung und wirtschaftlichen Vorteilen. Beide Seiten erkennen die Notwendigkeit von Verbesserungen in Zoos an, unterscheiden sich jedoch in der Bewertung, ob Zoos langfristig gerechtfertigt sind.
+
+
+
 - Studie diskreditieren
 	- von Zoos in Auftrag gegeben
 	![[Pasted image 20241223184110.png]]
@@ -8,31 +118,9 @@
 ![[Pasted image 20241223184648.png]]
 - alles neg. formulieren
 	- 94+2% finden die Beschaeftigungsmoeglichkeiten nicht ausreichend
-	- 75% die gehege zu klein
+	- 75% die Gehege zu klein
 	- 96+2% mehr rueckzugsmoeglichkeiten
 
-
-
-**Gegenargumente gegen die Erhaltung von Zoos in Deutschland**
-
-**1. Tierschutzbedenken:**  
-- **Begrenzter Platz:** Viele Zoos bieten Gehege, die für Tiere, insbesondere solche, die in freier Wildbahn weite Strecken zurücklegen, zu klein sind. Beispielsweise haben Eisbären in Zoos oft nur wenige hundert Quadratmeter Platz, verglichen mit ihrem natürlichen Lebensraum von etwa 1.000 Quadratkilometern.  
-- **Unnatürliche Umgebungen:** Zoo-Gehege ahmen oft keine natürlichen Lebensräume nach, was dazu führt, dass Tiere in künstlichen Umgebungen mit Zäunen, Glaswänden und teilweise Kunstrasen oder Beton leben.  
-- **Verhaltensstörungen:** Die Enge kann zu abnormalem Verhalten wie „Stereotypien“ oder „Zoochose“ führen, bei denen Tiere sich wiederholende, sinnlose Handlungen ausführen, z. B. das Auf- und Ablaufen oder Selbstverstümmelung aufgrund mangelnder Bewegung und Beschäftigung.  
-
-**2. Ethische Überlegungen:**  
-- **Verletzung von Tierrechten:** Kritiker argumentieren, dass die Haltung von Tieren zu Unterhaltungs- oder Bildungszwecken ihre Rechte verletzt, unabhängig von eventuellen Naturschutzbemühungen. Die ethischen Kosten der Gefangenschaft überwiegen dabei oft die Vorteile.  
-- **Unterhaltung statt Bildung:** Viele Besucher gehen in Zoos eher zur Unterhaltung als zur Bildung, was Zweifel an der Priorisierung von Naturschutz und Aufklärung weckt.  
-
-**3. Effektivität des Naturschutzes:**  
-- **Begrenzte Auswirkung auf Wildpopulationen:** Kritiker sehen in den Naturschutzbemühungen der Zoos nur geringen Einfluss auf wilde Populationen und schlagen vor, Ressourcen besser in den Schutz natürlicher Lebensräume und Maßnahmen gegen Wilderei zu investieren.  
-- **Fokus auf charismatische Arten:** Zoos konzentrieren sich oft auf populäre oder „charismatische“ Arten und vernachlässigen dabei weniger bekannte, aber ebenso gefährdete Spezies.  
-
-**4. Wirtschaftliche und ethische Alternativen:**  
-- **Virtuelle und erweiterte Realität:** Moderne Technologien ermöglichen virtuelle Erlebnisse, die Menschen über Wildtiere aufklären können, ohne Tiere in Gefangenschaft zu halten.  
-- **Wildtier-Schutzgebiete:** Wildtier-Schutzgebiete und Rehabilitationszentren bieten Tieren eine natürlichere Umgebung und die Möglichkeit zur Rehabilitation und Auswilderung, was eine ethischere Alternative darstellt.  
-
----
 
 
 
