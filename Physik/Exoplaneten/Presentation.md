@@ -1,8 +1,8 @@
 ## Intro
 - $\infty$ Exoplaneten
 - nicht alle relevant
-	- gasplaneten
-- **Welche koennen wir bewohnen?**
+	- Gasplaneten
+- **Welche können wir bewohnen?**
 
 ## Was brauchen wir zum Leben?
 - Wasser
@@ -10,4 +10,5 @@
 - Temperatur
 - Sauerstoff
 - Stickstoff
-- 
+
+## Wasser
