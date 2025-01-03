@@ -15,5 +15,5 @@
   "showUnsupportedFiles": true,
   "showInlineTitle": true,
   "showRibbon": true,
-  "showLineNumber": true
+  "showLineNumber": false
 }
