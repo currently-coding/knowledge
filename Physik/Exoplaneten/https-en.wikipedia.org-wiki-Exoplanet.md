@@ -29,7 +29,6 @@
 		-> Erde würde mit Venus $T$ in Venus Orbit habitabel sein
 
 
-
 ---
 # Deutscher Artikel
 ## Bewohnbarkeit
