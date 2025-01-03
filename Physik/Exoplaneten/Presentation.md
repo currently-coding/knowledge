@@ -2,4 +2,7 @@
 - $\infty$ Exoplaneten
 - nicht alle relevant
 	- gasplaneten
-- **Welche koennen wir bewohnen**
+- **Welche koennen wir bewohnen?**
+
+## Was brauchen wir zum Leben?
+-
