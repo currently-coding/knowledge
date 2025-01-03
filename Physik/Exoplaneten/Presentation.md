@@ -10,4 +10,4 @@
 - Temperatur
 - Sauerstoff
 - Stickstoff
-- w
+- 
