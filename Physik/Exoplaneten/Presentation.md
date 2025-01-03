@@ -5,4 +5,9 @@
 - **Welche koennen wir bewohnen?**
 
 ## Was brauchen wir zum Leben?
--
+- Wasser
+- Stein
+- Temperatur
+- Sauerstoff
+- Stickstoff
+- w
