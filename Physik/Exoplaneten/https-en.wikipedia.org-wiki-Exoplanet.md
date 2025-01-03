@@ -36,6 +36,6 @@
 >[!superhabitable Planeten]
 >Planeten mit $m_{p}>m_{E}$ könnten lebensfreundlicher als die Erde sein
 
-### Anzeichen fuer Bewohnbarkeit
+### Anzeichen für Bewohnbarkeit
 - Wasserdampf
 - freier Sauerstoff
