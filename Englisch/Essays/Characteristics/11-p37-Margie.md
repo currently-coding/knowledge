@@ -9,4 +9,4 @@ The ladder features underlined as when the teaching robot is being taken apart s
 Margie looks up to Tommy as can be seen in lines 13f where she highlights the age gap with an additional, simply worded sentence at the end of the paragraph: "He is thirteen.". Moreover she feels "hurt"(line 46.) after Tommy calls her "stupid"(line 44.).
 Even though she admires him she still questions him when her opinion differs(cf. line 51ff., line 63f and line 67f.) but also realizes when there is no point in further discussions(cf. line 58.) making her seem very mature despite her age.
 Her will to engage in discussions is underlined further by her disagreeing with her mum's orders openly, however, yet again she realizes defeat and follows obediently(cf. line 70ff.).
-Margie's maturity is reiterated as she kept her own interests in mind and asked Tommy to "read the book some more"(line 72) after school.
+Margie's maturity is reiterated as she kept her own interests in mind and asked Tommy to "read the book some more"(linwe 72) after school.
