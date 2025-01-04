@@ -1,12 +1,12 @@
 1. primärer Sektor := Primäre Produktion
-<!--SR:!2024-11-28,4,270-->
+<!--SR:!2025-01-18,14,290-->
 	- Fischerei, Land- und Forstwirtschaft
 2. sekundärer Sektor := Verarbeitung
-<!--SR:!2024-11-28,4,270-->
+<!--SR:!2025-01-20,16,290-->
 	- Industrie, Bergbau, Energiewirtschaft
 3. terziärer Sektor := Dienstleistungen
-<!--SR:!2024-11-28,4,270-->
+<!--SR:!2025-01-18,14,290-->
 	- Handel, Gastgewerbe, Reinigung
-1. quartäre Sektor := höherwertige DL
-<!--SR:!2024-11-28,4,270-->
+4. quartäre Sektor := höherwertige DL
+<!--SR:!2025-01-20,16,290-->
 	- Forschung und Entwicklung

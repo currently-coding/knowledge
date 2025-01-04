@@ -71,7 +71,7 @@ merger(noun) (The merger went well and nobody lost their job., The merger had gr
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
 <!--SR:!2025-01-14,32,323!2025-10-16,299,341-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
-<!--SR:!2025-07-06,217,340!2025-01-03,83,339-->
+<!--SR:!2025-07-06,217,340!2026-01-26,387,359-->
 free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
 <!--SR:!2025-11-09,323,361!2025-12-05,345,359-->
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) ::: Handelshemmnis, Handelsbarriere, Handelsbeschränkung
@@ -81,15 +81,15 @@ barrier to trade(noun) () ::: Handelshemmnis
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) ::: Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2025-01-14,92,358!2026-01-14,379,366-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) ::: Ausbeutung, Nutzung, Verwertung
-<!--SR:!2025-06-08,194,326!2025-01-03,81,357-->
+<!--SR:!2025-06-08,194,326!2026-02-05,397,377-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) ::: nutzen, ausnutzen, ausschöpfen, erschließen(business context)
-<!--SR:!2024-12-31,78,357!2025-11-04,324,366-->
+<!--SR:!2026-01-21,382,377!2025-11-04,324,366-->
 standard of living(noun) (Our standard of living is higher than 100 years ago.) ::: Lebensstandard, Lebenshaltung
 <!--SR:!2026-01-17,383,378!2025-12-17,357,366-->
 debt relief(noun) (The bank granted the company only partial debt relief.) ::: Schuldenerlass, Entschuldung
 <!--SR:!2025-12-16,356,366!2026-01-10,376,371-->
 current affairs(noun) () ::: aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
-<!--SR:!2025-01-15,84,346!2025-01-04,82,359-->
+<!--SR:!2025-01-15,84,346!2026-02-12,404,379-->
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) ::: Fonds, Investmentfonds, Geldmittel
 <!--SR:!2025-01-04,83,359!2026-01-24,390,370-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) ::: finanzieren, anlegen, investieren
