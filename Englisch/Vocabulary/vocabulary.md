@@ -111,7 +111,7 @@ to urbanize(verb) () ::: urbanisieren, verstädtern
 to diversify(verb) (The trader wants to diversify his portfolio.) ::: diversifizieren, variieren, differenzieren
 <!--SR:!2025-07-26,241,357!2025-12-12,352,366-->
 commerce(noun) (A lot of commerce was conducted in this town a century ago.) ::: Handel, Verkehr, Kommerz
-<!--SR:!2026-01-15,381,366!2025-01-02,82,358-->
+<!--SR:!2026-01-15,381,366!2025-10-25,294,358-->
 offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) ::: Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung
 <!--SR:!2025-09-21,283,346!2026-01-16,382,378-->
 Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) ::: offshoring
