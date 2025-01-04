@@ -11,5 +11,7 @@ $C^{*}:= \text{Chiralitaetszentrum/asymmetrisches C-Atom}$
 
 ![[Drawing 2024-12-12 10.09.54.excalidraw]]
 
->[!Definition] Enantionmere
->Zwei [[Stereoisomerie|Stereoisomere]], die sich wie Bild und nicht deckungsgleiches Spiegelbild verhalten, nennt man **Enantionmere**
+## Flashcards
+Wann ist ein Molekül chiral := Wenn **4 verschieden Substituentengruppen** an ein **C-Atom** binden
+Was nennt man Enantiomer := Zwei [[Stereoisomerie|Stereoisomere]], die sich wie Bild und nicht deckungsgleiches Spiegelbild verhalten, nennt man **Enantiomere**
+Was ist ein Diastereoisomer := 
