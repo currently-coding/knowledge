@@ -15,3 +15,4 @@ $\rightarrow$ *eindeutige zweidimensionale Darstellung*
 	- rechts zeigt: $D-$(Molekülname)
 ($L$ = laevus = links, $D$ = dexter = rechts)
 **D/L liefert keinen Hinweis, ob der Stoff rechts- oder linksdrehend ist**
+

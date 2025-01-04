@@ -12,4 +12,5 @@ $$N = 2^n$$
 >Zwei *Stereoisomere*, die sich wie *Bild-* und *nicht deckungsgleiches Spiegelbild* verhalten, nennt man **Enantiomere**
 
 - *zwischemolekulare* *Wechselwirkungen* der beiden Moleküle eines *Enantiomeres* unterscheiden sich nicht
-${} \rightarrow {}$ Die Stoffe sind in ihren *physikalischen Kenneigenschaften identisch*
+$\rightarrow$ Die Stoffe sind in ihren *physikalischen Kenneigenschaften identisch*
+
