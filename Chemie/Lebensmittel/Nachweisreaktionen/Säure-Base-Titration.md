@@ -11,7 +11,7 @@ aliases:
 -> Sobald  Farbreaktion: $n(H_3O^+) = n(OH^-)$(= **Äquivalenzpunkt**) ist die Konzentration der Säure berechenbar 
 
 ## Berechnung
-$geg. $
+${} geg.: {}$
 $ges. c(Säurelösung), V(Base), V(Säurelösung)$
 >[!Formeln]
 >$c(x) = \frac{n(x)}{V(x)}$
@@ -33,4 +33,9 @@ $$
  $geg.: V(H_3Cit)=20mL, V(NaOH^-)=7,7mL, c(NaOH^-)=1,0\frac{mol}{L}$
 $ges.: c(H_3Cit)$
 $c(H_3Cit)=\frac{1}{3}\cdot \frac{7,7mL \cdot 1,0 \frac{mol}{L}}{20mL}=$...
+
+
+## Flashcards
+Erlaeutere die Schritte einer Saeure-Base-Titration. ?
+1. 
 
