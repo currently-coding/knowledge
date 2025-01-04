@@ -91,13 +91,13 @@ debt relief(noun) (The bank granted the company only partial debt relief.) ::: S
 current affairs(noun) () ::: aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 <!--SR:!2025-01-15,84,346!2026-02-12,404,379-->
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) ::: Fonds, Investmentfonds, Geldmittel
-<!--SR:!2025-01-04,83,359!2026-01-24,390,370-->
+<!--SR:!2026-02-17,409,379!2026-01-24,390,370-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) ::: finanzieren, anlegen, investieren
 <!--SR:!2025-10-27,317,370!2025-01-22,60,339-->
 deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
 <!--SR:!2025-11-03,323,371!2025-12-18,358,366-->
 mechanization(noun) () ::: Mechanisierung, Technisierung
-<!--SR:!2025-12-22,362,366!2025-01-01,81,351-->
+<!--SR:!2025-12-22,362,366!2026-01-30,391,371-->
 to mechanize(verb) () ::: mechanisieren, technisieren
 <!--SR:!2026-01-09,375,366!2025-12-15,355,371-->
 assembly line(noun) (Cars are usually put together on an assembly line.) ::: Band, Fließband, Montagelinie
@@ -107,7 +107,7 @@ trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsde
 urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
 <!--SR:!2026-01-03,372,377!2025-01-06,84,346-->
 to urbanize(verb) () ::: urbanisieren, verstädtern
-<!--SR:!2024-12-31,80,346!2026-01-22,388,378-->
+<!--SR:!2026-01-20,381,366!2026-01-22,388,378-->
 to diversify(verb) (The trader wants to diversify his portfolio.) ::: diversifizieren, variieren, differenzieren
 <!--SR:!2025-07-26,241,357!2025-12-12,352,366-->
 commerce(noun) (A lot of commerce was conducted in this town a century ago.) ::: Handel, Verkehr, Kommerz
