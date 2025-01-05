@@ -74,7 +74,6 @@
 	   - Freiheit" soll wohl nur gesungen aber nicht gelebt werden.
    - **Antwort auf Gegenargument:**  
      - *Falls Disziplin betont wird:* Disziplin und Gemeinschaftsgefühl lassen sich auch durch andere Aktivitäten wie Gruppenprojekte oder soziale Projekte fördern.  
-
 ---
 
 ### **Zusammenfassung der Strategien**  
