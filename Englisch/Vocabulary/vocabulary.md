@@ -103,7 +103,7 @@ to mechanize(verb) () ::: mechanisieren, technisieren
 assembly line(noun) (Cars are usually put together on an assembly line.) ::: Band, Fließband, Montagelinie
 <!--SR:!2025-01-08,86,357!2025-10-20,303,346-->
 trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsdefizit
-<!--SR:!2025-12-19,359,378!2025-01-05,83,346-->
+<!--SR:!2025-12-19,359,378!2026-02-04,395,366-->
 urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
 <!--SR:!2026-01-03,372,377!2025-01-06,84,346-->
 to urbanize(verb) () ::: urbanisieren, verstädtern
