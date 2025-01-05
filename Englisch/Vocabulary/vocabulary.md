@@ -638,7 +638,7 @@ firm(noun) (My brother runs a successful firm., The firm was taken over by a lar
 firm(adjective) (The material is rigid and firm., Our company values trust as a firm basis for business., He is firm with his children.) ::: fest, solide, streng
 <!--SR:!2025-09-18,256,372!2025-03-23,86,395-->
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
-<!--SR:!2025-01-15,62,372!2024-12-20,27,403-->
+<!--SR:!2025-01-15,62,372!2025-06-05,151,423-->
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif
 <!--SR:!2025-05-17,159,423!2025-02-13,65,375-->
 determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung
