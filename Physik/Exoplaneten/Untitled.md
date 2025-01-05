@@ -37,3 +37,10 @@
 
 > ([[geosciences-08-00280.pdf#page=3&selection=223,56,224,44&color=red|geosciences-08-00280, p.3]])
 > he inner edge boundaries are not calculated using the boiling point of water.
+
+> ([[geosciences-08-00280.pdf#page=36&selection=24,47,26,10&color=note|geosciences-08-00280, p.36]])
+>  The HZ can be utilized to rank potentially habitable planets in the habitable zone and is even capable of filtering out HZ worlds that are least likely to host life.
+
+
+
+
