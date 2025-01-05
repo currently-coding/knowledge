@@ -129,7 +129,7 @@ to launch(verb) (The space agency will launch a rocket next month., The company 
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
 <!--SR:!2025-11-29,343,366!2026-01-25,386,377-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) ::: Lebensunterhalt, Lebensgrundlage, Existenz
-<!--SR:!2025-08-19,261,358!2025-01-05,30,306-->
+<!--SR:!2025-08-19,261,358!2025-01-21,16,286-->
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) ::: gedeihen, florieren, aufblühen
 <!--SR:!2026-01-19,380,366!2026-01-04,373,377-->
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) ::: Verzierung, Schnörkel, Fanfare
@@ -141,7 +141,7 @@ to supply(verb) (The company supplies vehicles and spare parts for the American 
 purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) ::: Kauf, Erwerb, Einkauf
 <!--SR:!2025-01-09,87,346!2026-01-05,371,371-->
 to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) ::: kaufen, erwerben, beschaffen
-<!--SR:!2025-12-25,365,379!2025-01-05,84,346-->
+<!--SR:!2025-12-25,365,379!2026-02-09,400,366-->
 commission(noun) (The commission will deal with this issue next week., The commission has agreed on a new resolution., I will get a commission for the good service.) ::: Kommission, Provision, Auftrag
 <!--SR:!2025-02-03,38,337!2025-10-30,319,366-->
 to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) ::: beauftragen, in Dienst stellen, in Auftrag geben
@@ -207,7 +207,7 @@ to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten,
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
 <!--SR:!2025-09-07,268,355!2025-01-26,95,372-->
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
-<!--SR:!2025-01-17,87,372!2025-01-05,73,354-->
+<!--SR:!2025-01-17,87,372!2025-12-24,353,374-->
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
 <!--SR:!2025-01-25,98,375!2025-01-18,87,372-->
 greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashaus, Treibhaus
@@ -311,7 +311,7 @@ to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
 <!--SR:!2025-01-26,95,379!2025-03-24,140,387-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
-<!--SR:!2025-01-05,74,367!2025-01-19,87,379-->
+<!--SR:!2026-01-12,372,387!2025-01-19,87,379-->
 to call attention(verb) () ::: aufmerksam machen
 <!--SR:!2025-01-17,86,379!2025-02-02,98,381-->
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
@@ -562,7 +562,7 @@ to rot(verb) (Organic substances rot after a while., The fruit was no longer fre
 modest(adjective) (He contented himself with a modest dinner.) ::: bescheiden, schlicht, dezent
 <!--SR:!2024-11-07,1,275!2024-12-23,30,402-->
 venture(noun) (The company invests in various ventures., I saved money to invest in a new venture.) ::: Unternehmen, Unternehmung, Projekt
-<!--SR:!2024-12-28,35,332!2025-04-19,135,422-->
+<!--SR:!2025-06-14,160,352!2025-04-19,135,422-->
 to venture(verb) (I ventured a guess about the company's profit., He ventured a small sum in hopes of a large profit.) ::: wagen, riskieren
 <!--SR:!2025-03-04,102,391!2024-11-08,6,383-->
 to supervise(verb) (To ensure quality, production is constantly supervised., The professor supervises the student's work., The senior doctor is supervising the interns., A foreman supervises the other workers.) ::: überwachen, betreuen, beaufsichtigen
