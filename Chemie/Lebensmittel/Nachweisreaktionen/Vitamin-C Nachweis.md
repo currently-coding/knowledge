@@ -1,6 +1,6 @@
-## V: Vitamin-C Loesung wird zu blauer Iodstaerkeloesung gegeben
+## V: Vitamin-C Lösung wird zu blauer Iodstaerkeloesung gegeben
 
-## B: Entfaerbung
+## B: Entfärbung
 
 ## D: Redoxreaktion
 

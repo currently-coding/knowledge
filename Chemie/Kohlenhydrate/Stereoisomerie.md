@@ -6,3 +6,11 @@
 $$N = 2^n$$
 - $N$ = Anzahl der Stereoisomere
 - $n$ = Zahl der Chiralitätszentren
+
+## Enantiomere
+>[!Definition]
+>Zwei *Stereoisomere*, die sich wie *Bild-* und *nicht deckungsgleiches Spiegelbild* verhalten, nennt man **Enantiomere**
+
+- *zwischemolekulare* *Wechselwirkungen* der beiden Moleküle eines *Enantiomeres* unterscheiden sich nicht
+$\rightarrow$ Die Stoffe sind in ihren *physikalischen Kenneigenschaften identisch*
+

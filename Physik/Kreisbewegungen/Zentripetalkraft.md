@@ -1,5 +1,5 @@
 - Da konstante Richtungsänderung von $\vec v$ -> [[beschleunigte Bewegung]]
-=> die Bewegung eines Körpers entlang einer Kreisbahn mit konstanter Geschwindigkeit erfordert eine *Kraft*: die **Zentripetalkraft**
+$\implies$ die Bewegung eines Körpers entlang einer Kreisbahn mit konstanter Geschwindigkeit erfordert eine *Kraft*: die **Zentripetalkraft**
 
 ## Betrag
 

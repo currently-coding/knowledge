@@ -22,7 +22,7 @@ Pumping Lemma:
 Beweis:
 - Sei $L \in REG \implies$ nach 3.28 es existiert $DFA = (\sum, S, \delta, s_0, F)$ mit $L(A) = L$
 - Wir wählen $k := |S|$ und zeigen, dass $L$ 3-pumpbar ist
-<!--SR:!2024-12-06,4,270-->
+<!--SR:!2025-01-10,16,290-->
 - Sei $w \in L$ mit $|w| \geq k$ 
 - Also $w = a_1 a_2 ....a_m$ mit $m \geq k$ und $a_1, a_2, ..., a_m \in \sum$
 - Für $0 \leq i \leq k$ definieren wir $q_i = \bar{\delta}(s_0, a_1a_2...a_m)$
@@ -32,8 +32,11 @@ Beweis:
 d.h. es existiert $i, j$ mit $0 \leq i \lt j \leq k$ und $q_i = q_j$
 - -> zwischen $i$ und $j$ wurde einmal im Kreis gelaufen
 $x := a_1 ... a_i$
+<!--SR:!2024-12-26,1,232-->
 $y := a_{i+1}...a_j$
+<!--SR:!2024-12-26,1,232-->
 $z := a_{j+1}...a_m$
+<!--SR:!2024-12-26,1,232-->
 
 
 Damit gilt:

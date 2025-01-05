@@ -44,3 +44,8 @@
 
 
 
+> ([[geosciences-08-00280.pdf#page=31&selection=48,0,48,65&color=note|geosciences-08-00280, p.31]])
+> HZ can only search for “Earth-like” life or “life as we know it” 
+
+> ([[geosciences-08-00280.pdf#page=31&selection=56,5,58,57&color=yellow|geosciences-08-00280, p.31]])
+> “Earth-like” is a vague and commonly-used term with no consensus as to what it means nor to what degree a planet can differ from the Earth and still be considered Earth-like (alternate terms include “habitable planets” or “potentially habitable planets”). 
