@@ -4,10 +4,12 @@
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "pdf-plus",
-  "obsidian-relative-line-numbers",
   "number-headings-obsidian",
   "leader-hotkeys-obsidian",
-  "quick-latex",
   "inline-math",
-  "obsidian-desmos"
+  "obsidian-desmos",
+  "obsidian-day-planner",
+  "obsidian-week-planner",
+  "dataview",
+  "obsidian-latex-suite"
 ]

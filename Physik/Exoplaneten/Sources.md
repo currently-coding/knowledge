@@ -12,3 +12,5 @@
 
 
 - [ ] https://en.wikipedia.org/wiki/Habitable_zone (Hilfsquelle)
+- [ ] https://phl.upr.edu/hwc - 24/12/22 - 13:50
+- [ ] https://exoplanet.eu/home/ - 24/12/22 - 13:50
