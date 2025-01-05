@@ -55,7 +55,7 @@
    - **Antwort auf Gegenargument:**  
      - *Falls Integration in den Unterricht vorgeschlagen wird:* Zeit für Unterrichtsinhalte ist begrenzt; die Hymne könnte relevante Themen wie Geschichte und Politik verdrängen.  
 
-5. **Erzwungene Teilnahme schwächt Wirkung**  
+5. **Erzwungene Teilnahme schwächt Wirkung**
    - Zwang könnte Widerstand oder Desinteresse bei Schüler:innen hervorrufen und damit den positiven symbolischen Wert der Hymne untergraben.  
    - **Antwort auf Gegenargument:**  
      - *Falls Disziplin betont wird:* Disziplin und Gemeinschaftsgefühl lassen sich auch durch andere Aktivitäten wie Gruppenprojekte oder soziale Projekte fördern.  
