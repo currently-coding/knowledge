@@ -105,7 +105,7 @@ assembly line(noun) (Cars are usually put together on an assembly line.) ::: Ban
 trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsdefizit
 <!--SR:!2025-12-19,359,378!2026-02-04,395,366-->
 urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
-<!--SR:!2026-01-03,372,377!2025-01-06,84,346-->
+<!--SR:!2026-01-03,372,377!2026-02-10,400,366-->
 to urbanize(verb) () ::: urbanisieren, verstädtern
 <!--SR:!2026-01-20,381,366!2026-01-22,388,378-->
 to diversify(verb) (The trader wants to diversify his portfolio.) ::: diversifizieren, variieren, differenzieren
@@ -125,7 +125,7 @@ to subsidize(verb) (Corn is cheap because it is subsidized by the government.) :
 launch(noun) (Mission control postponed the launch of the space shuttle., We are preparing the product launch., We are planning a pan-European launch for September., The launch of the new system went smoothly.) ::: Launch, Start, Markteinführung
 <!--SR:!2025-07-13,225,346!2026-02-15,407,377-->
 to launch(verb) (The space agency will launch a rocket next month., The company will launch a new product this year., The company launched a new communication system., The fireworks are launched at midnight., The shipping company launched their new cruise ship.) ::: starten, einführen
-<!--SR:!2026-02-16,408,379!2025-01-06,84,346-->
+<!--SR:!2026-02-16,408,379!2026-02-08,398,366-->
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
 <!--SR:!2025-11-29,343,366!2026-01-25,386,377-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) ::: Lebensunterhalt, Lebensgrundlage, Existenz
@@ -147,7 +147,7 @@ commission(noun) (The commission will deal with this issue next week., The commi
 to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) ::: beauftragen, in Dienst stellen, in Auftrag geben
 <!--SR:!2025-12-20,358,366!2025-01-14,92,357-->
 state-of-the-art(adjective) (The new school will have state-of-the-art classrooms., The new alarm system uses state-of-the-art technology.) ::: hochmodern, modernst
-<!--SR:!2025-01-06,86,351!2025-01-10,88,359-->
+<!--SR:!2026-02-25,415,371!2025-01-10,88,359-->
 state of the art(noun) () ::: Stand der Technik
 <!--SR:!2026-01-06,372,379!2025-10-11,300,350-->
 decline(noun) (We have witnessed a sharp decline in oil prices., The decline in sales worries the investors., The investors are not worried by the decline in sales., The country's economic decline came after the crisis.) ::: Rückgang, Sinken, Abnahme
