@@ -26,17 +26,11 @@
 > ([[geosciences-08-00280.pdf#page=3&selection=22,60,23,8&color=yellow|geosciences-08-00280, p.3]])
 > all known life requires liquid water to survive.
 
-> ([[geosciences-08-00280.pdf#page=3&selection=65,1,77,0&color=yellow|geosciences-08-00280, p.3]])
-> S is the flux received by the planet, whereas So is the normalized solar flux received by the Earth (~1360 W/m2).
-
 > ([[geosciences-08-00280.pdf#page=3&selection=28,0,32,63&color=note|geosciences-08-00280, p.3]])
 > The effective stellar flux (SEFF) is a key quantity used in HZ calculations and is defined as the normalized flux required to maintain a given surface temperature
 
-> ([[geosciences-08-00280.pdf#page=3&selection=43,68,61,1&color=note|geosciences-08-00280, p.3]])
-> This leads to the common definition [1] (Equation (1)): SEFF = FIR Fs = S So
-
 > ([[geosciences-08-00280.pdf#page=3&selection=223,56,224,44&color=red|geosciences-08-00280, p.3]])
-> he inner edge boundaries are not calculated using the boiling point of water.
+> The inner edge boundaries are not calculated using the boiling point of water.
 
 > ([[geosciences-08-00280.pdf#page=36&selection=24,47,26,10&color=note|geosciences-08-00280, p.36]])
 >  The HZ can be utilized to rank potentially habitable planets in the habitable zone and is even capable of filtering out HZ worlds that are least likely to host life.
