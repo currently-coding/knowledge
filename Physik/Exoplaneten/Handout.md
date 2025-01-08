@@ -3,7 +3,7 @@ Ein Exoplanet ist ein planetarer Himmelskörper mit genügend großer Masse, um 
 #### Eigenschaften
 - Diverse physikalische Größen messbar wie z.B. **Radius**, **Masse** etc.
 -  **Earth Similiarity Index (ESI)**: Maß der „Erdähnlichkeit“ von Exoplaneten
-	-  Verschiedene Parameter werden verrechnet und mit den entsprechenden der Erde verglichen
+	-  Verschiedene Parameter werden verrechnet und mit der Erde verglichen
 	- ESI-Werte zwischen. 0 und 1(= Erde) 
 ##### Kategorisierung
 1. **PHL-Klassifizierung** (auch genannt: Periodensystem der Planeten)
@@ -41,7 +41,7 @@ nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 #### Habitable Zone
 >[!Definition]
 >Bereich um einen Stern in dem flüssiges Wasser auf einem steinigen Planeten existieren kann
-#### Wahrscheinlichkeit extraterrestischen Lebens
+#### Wahrscheinlichkeit extraterrestrischen Lebens
 $$
 N = R_{o} \cdot f_{p} \cdot n_{e} \cdot f_{l} \cdot f_{i} \cdot f_{e} \cdot L
 $$
