@@ -20,4 +20,4 @@
 	- neu Antriebsformen
 4. Distanz
 	- Alpha Centauri: 4.73 Lichtjahre
-	- ~10.000 Jahre reisen nach derzeitigem 
+	- ~10.000 Jahre reisen nach derzeitigem Stand
