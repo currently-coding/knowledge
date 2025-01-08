@@ -14,8 +14,7 @@ Ein Exoplanet ist ein planetarer Himmelskörper mit genügend großer Masse, um 
 3. Einteilung nach **Größe**(Auswahl):
 - Supererden (Planeten mit 1- bis 10-facher mErde)
 - Mini-Neptun (Gaszwerge, bis zu 10 mErde)
-4. Weitere Klassen wie Hot Jupiters, Ultrakurzperiodische Planeten, Zirkumbinärer Planeten
-usw.
+4. Weitere Klassen wie Hot Jupiters, Ultrakurzperiodische Planeten, Zirkumbinärer Planeten, usw.
 #### Nachweismethoden
 1. **Direkte Beobachtung** (Imaging): Abbildung von Exoplaneten als Punkte oder Scheiben auf Bildern
 Indirekter Nachweis
@@ -42,6 +41,10 @@ nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 #### Habitable Zone
 >[!Definition]
 >Bereich um einen Stern in dem flüssiges Wasser auf einem steinigen Planeten existieren kann
+#### Wahrscheinlichkeit extraterrestischen Lebens
+$$
+N = R_{o} \cdot f_{p} \cdot n_{e} \cdot f_{l} \cdot f_{i} \cdot f_{e} \cdot L
+$$
 #### Kontakt
 - Treffen auf primitives oder intelligentes Leben unwahrscheinlich
 - Kontakt kann über Technologien von der Erde aus oder durch Raumfahrt erfolgen
