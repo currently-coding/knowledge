@@ -21,27 +21,26 @@ Einteilung nach Größe (Auswahl):
 - Mini-Neptun (Gaszwerge, bis zu 10 mErde)
 Weitere Klassen wie Hot Jupiters, Ultrakurzperiodische Planeten, Zirkumbinärer Planeten
 usw.
-Nachweismethoden
-Direkte Beobachtung (Imaging)
+
+#### Nachweismethoden
+**Direkte Beobachtung** (Imaging)
 = Abbildung von Exoplaneten als Punkte oder Scheiben auf Bildern
 Indirekter Nachweis
 Erfolgreichste:
-- Transitmethode (75% der Entdeckungen
-o Transit = Ein Himmelskörper, der so zwischen Stern und Erde vorbeizieht, dass
+- **Transitmethode** (75% der Entdeckungen)
+- Transit = Ein Himmelskörper, der so zwischen Stern und Erde vorbeizieht, dass
 er den Stern teilweise bedeckt.
-o durch Photometrie: periodische Absenkungen bei Transit in der Helligkeit des
+- durch Photometrie: periodische Absenkungen bei Transit in der Helligkeit des
 Zentralsterns nachgewiesen
-- Radialgeschwindigkeitsmethode
-o periodische Bewegung des Sterns um Baryzentrum hat eine Komponente in
+- **Radialgeschwindigkeitsmethode**
+- periodische Bewegung des Sterns um Baryzentrum hat eine Komponente in
 Sichtrichtung
-➢ Doppler-Effekt: Verschiebung des Spektralbereichs des Lichts wird
+$\rightarrow$ Doppler-Effekt: Verschiebung des Spektralbereichs des Lichts wird
 nachgewiesen
 - Weitere: Astrometrische Methode, Gravitational-microlensing-Methode, Berechnung
 nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 
-
-
-## Bedingungen für extraterrestrisches Leben
+#### Bedingungen für extraterrestrisches Leben
 1. Klima - Einflussfaktoren
 	1. Distanz zum Stern
 	2. Exzentrizität der elliptischen Umlaufbahn
@@ -51,9 +50,13 @@ nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 3. Gase
 	1. Treibhausgase für Temperaturregulierung
 	2. Bestimmte Gase je nach Lebensform
-## Habitable Zone
+#### Habitable Zone
 >[!Definition]
 >Bereich um einen Stern in dem flüssiges Wasser auf einem steinigen Planeten existieren kann
-## Reisen
+#### Kontakt
+- Treffen auf primitives oder intelligentes Leben unwahrscheinlich
+- Kontakt kann über Technologien von der Erde aus oder durch Raumfahrt erfolgen
+- Probleme: Durch große Entfernung vor allem die Raumfahrt, aber auch die Technologien wie z.B. Radiowellen enorm eingeschränkt
+#### Reisen
 - bis jetzt technisch weit entfernt von umsetzbar in fast allen Aspekten
 
