@@ -23,21 +23,16 @@ Weitere Klassen wie Hot Jupiters, Ultrakurzperiodische Planeten, Zirkumbinärer 
 usw.
 
 #### Nachweismethoden
-**Direkte Beobachtung** (Imaging)
-= Abbildung von Exoplaneten als Punkte oder Scheiben auf Bildern
+1. **Direkte Beobachtung** (Imaging): Abbildung von Exoplaneten als Punkte oder Scheiben auf Bildern
 Indirekter Nachweis
-Erfolgreichste:
-- **Transitmethode** (75% der Entdeckungen)
-- Transit = Ein Himmelskörper, der so zwischen Stern und Erde vorbeizieht, dass
+2.  **Transitmethode** (75% der Entdeckungen $\to$ erfolgreichste Methode)
+	-  Transit = Ein Himmelskörper, der so zwischen Stern und Erde vorbeizieht, dass
 er den Stern teilweise bedeckt.
-- durch Photometrie: periodische Absenkungen bei Transit in der Helligkeit des
-Zentralsterns nachgewiesen
-- **Radialgeschwindigkeitsmethode**
-- periodische Bewegung des Sterns um Baryzentrum hat eine Komponente in
-Sichtrichtung
-$\rightarrow$ Doppler-Effekt: Verschiebung des Spektralbereichs des Lichts wird
-nachgewiesen
-- Weitere: Astrometrische Methode, Gravitational-microlensing-Methode, Berechnung
+3. **Photometrie**: periodische Absenkungen bei Transit in der Helligkeit des Zentralsterns nachgewiesen
+4.  **Radialgeschwindigkeitsmethode**
+	- periodische Bewegung des Sterns um Baryzentrum hat eine Komponente in Sichtrichtung
+	$\rightarrow$ Doppler-Effekt: Verschiebung des Spektralbereichs des Lichts wird nachgewiesen
+5.  Weitere: Astrometrische Methode, Gravitational-microlensing-Methode, Berechnung
 nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 
 #### Bedingungen für extraterrestrisches Leben
