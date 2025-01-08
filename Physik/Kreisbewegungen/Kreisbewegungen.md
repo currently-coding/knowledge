@@ -1,7 +1,7 @@
 ## Größen
 - Ortsvektor 
 $$\vec r(t) = (x(t); y(t))$$
--  Umlaufdauer
+
 $$T$$
 $$
 [T] = 1s
