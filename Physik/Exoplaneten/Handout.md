@@ -31,7 +31,7 @@ er den Stern teilweise bedeckt.
 5.  Weitere: Astrometrische Methode, Gravitational-microlensing-Methode, Berechnung
 nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 #### Bedingungen für extraterrestrisches Leben
-1. Klima - Einflussfaktoren
+1. **Klima** - Einflussfaktoren
 	1. Distanz zum Stern
 	2. Exzentrizität der elliptischen Umlaufbahn
 	3. Atmosphärische Eigenschaften
