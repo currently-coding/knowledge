@@ -1,27 +1,23 @@
 > [!Definition]
 Ein Exoplanet ist ein planetarer Himmelskörper mit genügend großer Masse, um kugelförmig zu sein, außerhalb des gravitativen Einflusses unserer Sonne, aber innerhalb des gravitativen Einflusses eines anderen Sterns oder braunen Zwergs. 
-
 #### Eigenschaften
-- Diverse physikalische Größen messbar wie z.B. Radius, Masse etc.
-Bsp.: Earth Similiarity Index (ESI): Maß der „Erdähnlichkeit“ von Exoplaneten
--  Verschiedene Parameter werden verrechnet und mit den entsprechenden der
-Erde verglichen
-- ESI-Werte zw. 0 und 1 (1 entspricht Erde) (nicht Vorhandensein von Leben)
-Kategorisierung
-Bsp.: PHL-Klassifizierung (auch genannt: Periodensystem der Planeten)
--  Einteilung nach Gleichgewichtstemperatur und Masse/Radius
-- Erde bspw.: G-Warm-Terran (G: Spektralklasse der Sonne, Warm:
-Gleichgewichtstemperatur, Terran: Größeneinstufung)
-Einteilung nach Stoffen (Auswahl):
+- Diverse physikalische Größen messbar wie z.B. **Radius**, **Masse** etc.
+-  **Earth Similiarity Index (ESI)**: Maß der „Erdähnlichkeit“ von Exoplaneten
+	-  Verschiedene Parameter werden verrechnet und mit den entsprechenden der Erde verglichen
+	- ESI-Werte zwischen. 0(kein Vorhandensein von Leben) und 1(= Erde) 
+##### Kategorisierung
+1. **PHL-Klassifizierung** (auch genannt: Periodensystem der Planeten)
+-  Einteilung nach **Gleichgewichtstemperatur** und **Masse**/**Radius**
+- Erde: **G-Warm-Terran** (G: Spektralklasse der Sonne, Warm: Gleichgewichtstemperatur, Terran: Größeneinstufung)
+2. Einteilung nach **Stoffen**(Auswahl):
 - Gesteinsplaneten (Aufbau aus schweren Elementen)
 - Wasserplaneten (von Wasser bedeckt)
 - Gasriesen
-Einteilung nach Größe (Auswahl):
+3. Einteilung nach **Größe**(Auswahl):
 - Supererden (Planeten mit 1- bis 10-facher mErde)
 - Mini-Neptun (Gaszwerge, bis zu 10 mErde)
-Weitere Klassen wie Hot Jupiters, Ultrakurzperiodische Planeten, Zirkumbinärer Planeten
+4. Weitere Klassen wie Hot Jupiters, Ultrakurzperiodische Planeten, Zirkumbinärer Planeten
 usw.
-
 #### Nachweismethoden
 1. **Direkte Beobachtung** (Imaging): Abbildung von Exoplaneten als Punkte oder Scheiben auf Bildern
 Indirekter Nachweis
@@ -34,7 +30,6 @@ er den Stern teilweise bedeckt.
 	$\rightarrow$ Doppler-Effekt: Verschiebung des Spektralbereichs des Lichts wird nachgewiesen
 5.  Weitere: Astrometrische Methode, Gravitational-microlensing-Methode, Berechnung
 nach gestörter Planetenbahn, Lichtlaufzeit-Methode
-
 #### Bedingungen für extraterrestrisches Leben
 1. Klima - Einflussfaktoren
 	1. Distanz zum Stern
