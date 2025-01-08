@@ -9,6 +9,7 @@
 	1. Treibhausgase für Temperaturregulierung
 	2. Bestimmte Gase je nach Lebensform
 
+## Habitable Zone
 ## Reisen
 1. Kommunikation & Navigation
 	- technisch bis jetzt nicht umsetzbar
