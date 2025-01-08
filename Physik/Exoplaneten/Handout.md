@@ -4,15 +4,13 @@ Ein Exoplanet ist ein planetarer Himmelskörper mit genügend großer Masse, um 
 - Diverse physikalische Größen messbar wie z.B. **Radius**, **Masse** etc.
 -  **Earth Similiarity Index (ESI)**: Maß der „Erdähnlichkeit“ von Exoplaneten
 	-  Verschiedene Parameter werden verrechnet und mit den entsprechenden der Erde verglichen
-	- ESI-Werte zwischen. 0(kein Vorhandensein von Leben) und 1(= Erde) 
+	- ESI-Werte zwischen. 0 und 1(= Erde) 
 ##### Kategorisierung
 1. **PHL-Klassifizierung** (auch genannt: Periodensystem der Planeten)
 -  Einteilung nach **Gleichgewichtstemperatur** und **Masse**/**Radius**
 - Erde: **G-Warm-Terran** (G: Spektralklasse der Sonne, Warm: Gleichgewichtstemperatur, Terran: Größeneinstufung)
 2. Einteilung nach **Stoffen**(Auswahl):
-- Gesteinsplaneten (Aufbau aus schweren Elementen)
-- Wasserplaneten (von Wasser bedeckt)
-- Gasriesen
+- Gesteinsplaneten (Aufbau aus schweren Elementen), Wasserplaneten und Gasriesen
 3. Einteilung nach **Größe**(Auswahl):
 - Supererden (Planeten mit 1- bis 10-facher mErde)
 - Mini-Neptun (Gaszwerge, bis zu 10 mErde)
@@ -35,11 +33,12 @@ nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 	1. Distanz zum Stern
 	2. Exzentrizität der elliptischen Umlaufbahn
 	3. Atmosphärische Eigenschaften
-2. Wasser
-	1. Muss in flüssiger Form vorliegen
-3. Gase
-	1. Treibhausgase für Temperaturregulierung
-	2. Bestimmte Gase je nach Lebensform
+2. **Wasser**
+	1. Muss in **flüssiger** Form vorliegen
+3. **Gase**
+	1. **Notwendig**: $H_{2}O, H_{2}S$
+	2. **Treibhausgase** für Temperaturregulierung
+	3. Bestimmte Gase je nach Lebensform
 #### Habitable Zone
 >[!Definition]
 >Bereich um einen Stern in dem flüssiges Wasser auf einem steinigen Planeten existieren kann
