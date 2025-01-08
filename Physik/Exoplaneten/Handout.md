@@ -8,17 +8,8 @@
 3. Gase
 	1. Treibhausgase für Temperaturregulierung
 	2. Bestimmte Gase je nach Lebensform
-
 ## Habitable Zone
+>[!Definition]
+>Bereich um einen Stern in dem flüssiges Wasser auf einem steinigen Planeten existieren kann
 ## Reisen
-1. Kommunikation & Navigation
-	- technisch bis jetzt nicht umsetzbar
-	- Raum nicht kartiert
-2. Lebenserhaltung
-	- bis jetzt nicht umsetzbar
-3. Antrieb 
-	- enormes Treibstoffvolumen nötig oder
-	- neu Antriebsformen
-4. Distanz
-	- Alpha Centauri: 4.73 Lichtjahre
-	- ~10.000 Jahre reisen nach derzeitigem Stand
+- bis jetzt technisch weit entfernt von umsetzbar in fast allen Aspekten
