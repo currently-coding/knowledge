@@ -1,3 +1,47 @@
+Definition
+Ein Exoplanet ist ein planetarer Himmelskörper mit genügend großer Masse, um kugelförmig
+zu sein, außerhalb des gravitativen Einflusses unserer Sonne, aber innerhalb des gravitativen
+Einflusses eines anderen Sterns oder braunen Zwergs.
+Eigenschaften
+Diverse physikalische Größen messbar wie z.B. Radius, Masse etc.
+Bsp.: Earth Similiarity Index (ESI): Maß der „Erdähnlichkeit“ von Exoplaneten
+• Verschiedene Parameter werden verrechnet und mit den entsprechenden der
+Erde verglichen
+• ESI-Werte zw. 0 und 1 (1 entspricht Erde) (nicht Vorhandensein von Leben)
+Kategorisierung
+Bsp.: PHL-Klassifizierung (auch genannt: Periodensystem der Planeten)
+• Einteilung nach Gleichgewichtstemperatur und Masse/Radius
+• Erde bspw.: G-Warm-Terran (G: Spektralklasse der Sonne, Warm:
+Gleichgewichtstemperatur, Terran: Größeneinstufung)
+Einteilung nach Stoffen (Auswahl):
+• Gesteinsplaneten (Aufbau aus schweren Elementen)
+• Wasserplaneten (von Wasser bedeckt)
+• Gasriesen
+Einteilung nach Größe (Auswahl):
+• Supererden (Planeten mit 1- bis 10-facher mErde)
+• Mini-Neptun (Gaszwerge, bis zu 10 mErde)
+Weitere Klassen wie Hot Jupiters, Ultrakurzperiodische Planeten, Zirkumbinärer Planeten
+usw.
+Nachweismethoden
+Direkte Beobachtung (Imaging)
+= Abbildung von Exoplaneten als Punkte oder Scheiben auf Bildern
+Indirekter Nachweis
+Erfolgreichste:
+• Transitmethode (75% der Entdeckungen
+o Transit = Ein Himmelskörper, der so zwischen Stern und Erde vorbeizieht, dass
+er den Stern teilweise bedeckt.
+o durch Photometrie: periodische Absenkungen bei Transit in der Helligkeit des
+Zentralsterns nachgewiesen
+• Radialgeschwindigkeitsmethode
+o periodische Bewegung des Sterns um Baryzentrum hat eine Komponente in
+Sichtrichtung
+➢ Doppler-Effekt: Verschiebung des Spektralbereichs des Lichts wird
+nachgewiesen
+• Weitere: Astrometrische Methode, Gravitational-microlensing-Methode, Berechnung
+nach gestörter Planetenbahn, Lichtlaufzeit-Methode
+
+
+
 ## Bedingungen für extraterrestrisches Leben
 1. Klima - Einflussfaktoren
 	1. Distanz zum Stern
@@ -13,3 +57,4 @@
 >Bereich um einen Stern in dem flüssiges Wasser auf einem steinigen Planeten existieren kann
 ## Reisen
 - bis jetzt technisch weit entfernt von umsetzbar in fast allen Aspekten
+
