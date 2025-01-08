@@ -53,3 +53,7 @@ $\bar{\delta}(s_0, xy^rz) =(a) \bar{\delta}(q_i, y^rz) = \bar{\delta}(q_i, y^{r-
 $\square$
 
 
+
+
+
+# 08.01.25
