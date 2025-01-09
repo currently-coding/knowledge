@@ -51,3 +51,7 @@ $$
 
 
 #### Quellen
+- [https://www.weltderphysik.de/gebiet/universum/exoplaneten/nachweismethoden/](https://www.weltderphysik.de/gebiet/universum/exoplaneten/nachweismethoden/) - 19.12.2024
+- [https://www.sun.org/encyclopedia/exoplanets](https://www.sun.org/encyclopedia/exoplanets)
+- R. M. Ramirez, “A more comprehensive habitable zone for finding life on other planets,” Geosciences, 28 July 2018. [https://www.mdpi.com/2076-3263/8/8/280](https://www.mdpi.com/2076-3263/8/8/280) (24/12/13-8:35)
+- [https://en.wikipedia.org/wiki/Exoplanet](https://en.wikipedia.org/wiki/Exoplanet) - 24/12/13 - 8:00
