@@ -7,7 +7,7 @@ Ein Exoplanet ist ein planetarer Himmelskörper mit genügend großer Masse, um 
 	- ESI-Werte zwischen 0 und 1(= Erde)
 ###### Kategorisierung
 1. **PHL-Klassifizierung** (auch genannt: Periodensystem der Planeten)
-	-  Einteilung nach **Gleichgewichtstemperatur** und **Masse**/**Radius**
+	- Einteilung nach **Gleichgewichtstemperatur** und **Masse**/**Radius**
 	- Erde: **G-Warm-Terran** (G: Spektralklasse der Sonne, Warm: Gleichgewichtstemperatur, Terran: Größeneinstufung)
 2. Einteilung nach **Stoffen**(Auswahl):
 	- Gesteinsplaneten (Aufbau aus schweren Elementen), Wasserplaneten und Gasriesen
@@ -23,9 +23,8 @@ Indirekter Nachweis
 	- **Photometrie**: periodische Absenkungen bei Transit in der Helligkeit des Zentralsterns nachgewiesen
 1.  **Radialgeschwindigkeitsmethode**
 	- periodische Bewegung des Sterns um Baryzentrum hat eine Komponente in Sichtrichtung
-	$\rightarrow$ Doppler-Effekt: Verschiebung des Spektralbereichs des Lichts wird nachgewiesen
-5.  Weitere: Astrometrische Methode, Gravitational-microlensing-Methode, Berechnung
-nach gestörter Planetenbahn, Lichtlaufzeit-Methode
+	- $\rightarrow$ Doppler-Effekt: Verschiebung des Spektralbereichs des Lichts wird nachgewiesen
+5.  Weitere: Astrometrische Methode, Gravitational-microlensing-Methode, Berechnung nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 ##### Bedingungen für extraterrestrisches Leben
 1. **Klima** - Einflussfaktoren
 	1. Distanz zum Stern
@@ -42,11 +41,10 @@ nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 >Bereich um einen Stern in dem flüssiges Wasser auf einem steinigen Planeten existieren kann
 ##### Wahrscheinlichkeit extraterrestrischen Lebens
 $$
-\text{Drake Gleichung(grosse Unsicherheit): }N = R_{o} \cdot f_{p} \cdot n_{e} \cdot f_{l} \cdot f_{i} \cdot f_{e} \cdot L
+\text{Drake Gleichung(grosse Unsicherheit): }N = R_{*} \cdot f_{p} \cdot n_{e} \cdot f_{l} \cdot f_{i} \cdot f_{c} \cdot L
 $$
 ##### Kontakt
 - Treffen auf primitives oder intelligentes Leben unwahrscheinlich
 - Kontakt kann über Technologien von der Erde aus oder durch Raumfahrt erfolgen
 - Probleme: Durch große Entfernung vor allem die Raumfahrt, aber auch die Technologien wie z.B. Radiowellen enorm eingeschränkt
 - **Reisen** bis jetzt technisch weit entfernt von umsetzbar in fast allen Aspekten
-
