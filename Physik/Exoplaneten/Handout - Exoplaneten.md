@@ -4,7 +4,7 @@ Ein Exoplanet ist ein planetarer Himmelskörper mit genügend großer Masse, um 
 - Diverse physikalische Größen messbar wie z.B. **Radius**, **Masse** etc.
 -  **Earth Similiarity Index (ESI)**: Maß der „Erdähnlichkeit“ von Exoplaneten
 	-  Verschiedene Parameter werden verrechnet und mit der Erde verglichen
-	- ESI-Werte zwischen. 0 und 1(= Erde) 
+	- ESI-Werte zwischen 0 und 1(= Erde) 
 ##### Kategorisierung
 1. **PHL-Klassifizierung** (auch genannt: Periodensystem der Planeten)
 -  Einteilung nach **Gleichgewichtstemperatur** und **Masse**/**Radius**
@@ -12,8 +12,8 @@ Ein Exoplanet ist ein planetarer Himmelskörper mit genügend großer Masse, um 
 2. Einteilung nach **Stoffen**(Auswahl):
 - Gesteinsplaneten (Aufbau aus schweren Elementen), Wasserplaneten und Gasriesen
 3. Einteilung nach **Größe**(Auswahl):
-- Supererden (Planeten mit 1- bis 10-facher mErde)
-- Mini-Neptun (Gaszwerge, bis zu 10 mErde)
+- Supererden (Planeten mit 1- bis 10-facher $m_{\text{Erde}}$)
+- Mini-Neptun (Gaszwerge, bis zu $10 \cdot m_{\text{Erde}}$)
 4. Weitere Klassen wie Hot Jupiters, Ultrakurzperiodische Planeten, Zirkumbinärer Planeten, usw.
 #### Nachweismethoden
 1. **Direkte Beobachtung** (Imaging): Abbildung von Exoplaneten als Punkte oder Scheiben auf Bildern
@@ -43,12 +43,11 @@ nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 >Bereich um einen Stern in dem flüssiges Wasser auf einem steinigen Planeten existieren kann
 #### Wahrscheinlichkeit extraterrestrischen Lebens
 $$
-\text{Drake Gleichung: }N = R_{o} \cdot f_{p} \cdot n_{e} \cdot f_{l} \cdot f_{i} \cdot f_{e} \cdot L
+\text{Drake Gleichung(grosse Unsicherheit): }N = R_{o} \cdot f_{p} \cdot n_{e} \cdot f_{l} \cdot f_{i} \cdot f_{e} \cdot L
 $$
 #### Kontakt
 - Treffen auf primitives oder intelligentes Leben unwahrscheinlich
 - Kontakt kann über Technologien von der Erde aus oder durch Raumfahrt erfolgen
 - Probleme: Durch große Entfernung vor allem die Raumfahrt, aber auch die Technologien wie z.B. Radiowellen enorm eingeschränkt
-#### Reisen
-- bis jetzt technisch weit entfernt von umsetzbar in fast allen Aspekten
+- **Reisen** bis jetzt technisch weit entfernt von umsetzbar in fast allen Aspekten
 
