@@ -19,10 +19,9 @@ Ein Exoplanet ist ein planetarer Himmelskörper mit genügend großer Masse, um 
 1. **Direkte Beobachtung** (Imaging): Abbildung von Exoplaneten als Punkte oder Scheiben auf Bildern
 Indirekter Nachweis
 2.  **Transitmethode** (75% der Entdeckungen $\to$ erfolgreichste Methode)
-	-  Transit = Ein Himmelskörper, der so zwischen Stern und Erde vorbeizieht, dass
-er den Stern teilweise bedeckt.
-3. **Photometrie**: periodische Absenkungen bei Transit in der Helligkeit des Zentralsterns nachgewiesen
-4.  **Radialgeschwindigkeitsmethode**
+	-  Transit = Ein Himmelskörper, der so zwischen Stern und Erde vorbeizieht, dasser den Stern teilweise bedeckt.
+	- **Photometrie**: periodische Absenkungen bei Transit in der Helligkeit des Zentralsterns nachgewiesen
+1.  **Radialgeschwindigkeitsmethode**
 	- periodische Bewegung des Sterns um Baryzentrum hat eine Komponente in Sichtrichtung
 	$\rightarrow$ Doppler-Effekt: Verschiebung des Spektralbereichs des Lichts wird nachgewiesen
 5.  Weitere: Astrometrische Methode, Gravitational-microlensing-Methode, Berechnung
