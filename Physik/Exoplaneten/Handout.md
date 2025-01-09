@@ -43,7 +43,7 @@ nach gestörter Planetenbahn, Lichtlaufzeit-Methode
 >Bereich um einen Stern in dem flüssiges Wasser auf einem steinigen Planeten existieren kann
 #### Wahrscheinlichkeit extraterrestrischen Lebens
 $$
-N = R_{o} \cdot f_{p} \cdot n_{e} \cdot f_{l} \cdot f_{i} \cdot f_{e} \cdot L
+\text{Drake Gleichung: }N = R_{o} \cdot f_{p} \cdot n_{e} \cdot f_{l} \cdot f_{i} \cdot f_{e} \cdot L
 $$
 #### Kontakt
 - Treffen auf primitives oder intelligentes Leben unwahrscheinlich
