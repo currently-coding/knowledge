@@ -48,3 +48,6 @@ $$
 - Kontakt kann über Technologien von der Erde aus oder durch Raumfahrt erfolgen
 - Probleme: Durch große Entfernung vor allem die Raumfahrt, aber auch die Technologien wie z.B. Radiowellen enorm eingeschränkt
 - **Reisen** bis jetzt technisch weit entfernt von umsetzbar in fast allen Aspekten
+
+
+#### Quellen
