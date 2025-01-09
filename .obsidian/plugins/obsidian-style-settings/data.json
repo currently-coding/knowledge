@@ -108,6 +108,6 @@
   "minimal-style@@heading-spacing": "1.2em",
   "minimal-style@@p-spacing": "1rem",
   "minimal-style@@list-spacing": 0.025,
-  "minimal-style@@callouts-style": "callouts-outlined",
+  "minimal-style@@callouts-style": "callouts-default",
   "minimal-style@@callout-blend-mode": "normal"
 }
