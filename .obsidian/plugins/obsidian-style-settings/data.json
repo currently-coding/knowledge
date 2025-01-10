@@ -104,5 +104,10 @@
   "Editor@@callout-title-color@@dark": "#FABD2F",
   "Editor@@callout-content-radius": "5000",
   "Editor@@callout-content-background@@dark": "#28282800",
-  "Appearance-light@@theme-light-style-select": "theme-light-background-default"
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "minimal-style@@heading-spacing": "1.2em",
+  "minimal-style@@p-spacing": "1rem",
+  "minimal-style@@list-spacing": 0.025,
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@callout-blend-mode": "normal"
 }
