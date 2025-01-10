@@ -5,11 +5,11 @@
   "promptDelete": false,
   "spellcheck": true,
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 54
+    "downscalePercent": 61
   },
   "attachmentFolderPath": "Attachments",
   "showUnsupportedFiles": true,

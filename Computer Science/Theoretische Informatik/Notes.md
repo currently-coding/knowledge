@@ -56,4 +56,5 @@ $\square$
 
 
 
-# 08.01.25
+- Potenzmengenkonstruktion  fure NFA -> DFA beachten:
+	- jeder Zustand des DFAs muss ausgehende Pfeile fure alle moelgichen Eingaben haben
