@@ -4,5 +4,5 @@
 | Plot       | Plot hightlights, key episodes                  | Brevity, focus on single moment                 |
 | Characters | limited numbers                                 | limited number                                  |
 | Narrative  | Short narrative                                 | Implied narrative                               |
-|            |                                                 | 3                                               |
+| Language   | Figurative Language                             | Figurative Language full of images              |
 
