@@ -81,6 +81,26 @@ Anzeichen für Bewohnbarkeit
 > ([[paper.pdf#page=5&annotation=2597R|paper, p.5]])
 > Plate tectonics is thought to regulate the carbonate–silicate cycle, which maintains habitability on the Earth over billion-year-long timescales [33,34
 
+> ([[paper.pdf#page=5&annotation=2600R|paper, p.5]])
+>  If it were not for this cycle, it is thought that the HZ would be much narrower, with Earth’s surface freezing if it moved out past ~1.05 AU (e.g., [7,36]).
+
+> ([[paper.pdf#page=6&selection=13,24,17,76&color=note|paper, p.6]])
+>  However, this limit had been abandoned as subsequent work found that CO2 clouds generally warm planets, even if the warming is not very much [38–40].
+
+> ([[paper.pdf#page=7&selection=166,33,173,105&color=note|paper, p.7]])
+> The inner edge of the HZ has likely been past Venus’ orbital distance (~0.72 AU) for at least the past several hundred million years, possibly 1 billion years [1]. Thus, Venus could have been in a moist or runaway greenhouse state for a comparable (if not longer) amount of time, which would have depleted any hypothetical surface ocean. According to this idea, as the planet desiccates, weathering reactions slow down and the water incorporated within subducting plates decreases. This causes the plates to become too brittle for subduction and plate tectonics ceases.
+
+> ([[paper.pdf#page=11&annotation=2603R|paper, p.11]])
+> Biotic oxygen production rates on Earth far exceed abiotic ones, suggesting that high atmospheric oxygen concentrations, perhaps in conjunction with CH4, may be good bioindicators (e.g., [106,111,112]).
+
+
+
+
+
+
+
+
+
 
 # Präsentation
 ## Inhalt
