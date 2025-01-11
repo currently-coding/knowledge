@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Minimal",
   "accentColor": "#2aa3bb",
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "baseFontSizeAction": true,
   "nativeMenus": true,
   "showViewHeader": true,
@@ -10,5 +10,5 @@
     "Font"
   ],
   "interfaceFontFamily": "",
-  "textFontFamily": "FiraCode Nerd Font"
+  "textFontFamily": "FiraCode Nerd Font,Sans Serif Collection,Microsoft Sans Serif"
 }
