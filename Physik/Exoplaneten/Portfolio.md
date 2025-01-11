@@ -1,7 +1,7 @@
 # Beschreibung der Arbeit
 Zu Beginn wurde mir der Bereich 'Bedingungen für Leben, Habitable Zone' zugewiesen, da ich keine Präferenzen angab.
-Als erstes nutzte ich die Wikipedia Einträge um mir einen Überblick über das Theme zu verschaffen. Anschließend fand ich mittels https://scholar.google.com/ verschiedene wissenschaftliche Arbeiten zur habitablen Zone. Ich waehlte die Arbeit "A More Comprehensive Habitable Zone for Finding Life on Other Planets" von R.M. Ramirez aus und verbrachte die restliche Zeit der wd damit, diese zu lesen und zu verstehen.
-Als Praesentationsform entschied ich mich dazu meinen Vortrag mittels einer digitalen 
+Als erstes nutzte ich die Wikipedia Einträge um mir einen Überblick über das Theme zu verschaffen. Anschließend fand ich mittels https://scholar.google.com/ verschiedene wissenschaftliche Arbeiten zur habitablen Zone. Ich waehlte die Arbeit "A More Comprehensive Habitable Zone for Finding Life on Other Planets" von R.M. Ramirez aus und verbrachte die restliche Zeit der Quellensichtung damit, diese zu lesen und zu verstehen.
+Als Praesentationsform entschied ich mich dazu meinen Vortrag mittels einer 
 
 # Erlernte inhaltliche Kompetenzen
 ## Quellenverzeichnis
