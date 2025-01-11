@@ -35,9 +35,10 @@ Anzeichen für Bewohnbarkeit
 - freier Sauerstoff
 
 ### A More Comprehensive Habitable Zone for Finding Life on Other Planets
+Link: https://www.mdpi.com/2076-3263/8/8/280
+
 > ([[paper.pdf#page=1&selection=40,0,41,67&color=note|Artikel, S.1]])
 > The habitable zone (HZ) is the circular region around a star (or multiple stars) where standing bodies of liquid water could exist on the surface of a rocky planet
-
 
 > ([[paper.pdf#page=1&selection=50,60,51,38&color=note|Artikel, S.1]])
 > it(The habitable Zone) remains the most useful roadmap for targeting potentially habitable worlds
@@ -93,14 +94,20 @@ Anzeichen für Bewohnbarkeit
 > ([[paper.pdf#page=11&annotation=2603R|paper, p.11]])
 > Biotic oxygen production rates on Earth far exceed abiotic ones, suggesting that high atmospheric oxygen concentrations, perhaps in conjunction with CH4, may be good bioindicators (e.g., [106,111,112]).
 
-
-
-
-
-
-
-
-
-
 # Präsentation
 ## Inhalt
+## Handout
+##### Bedingungen für extraterrestrisches Leben
+1. **Klima** - Einflussfaktoren
+	1. Distanz zum Stern
+	2. Exzentrizität der elliptischen Umlaufbahn
+	3. Atmosphärische Eigenschaften
+2. **Wasser**
+	1. Muss in **flüssiger** Form vorliegen
+3. **Gase**
+	1. **Notwendig**: $H_{2}O, H_{2}S$
+	2. **Treibhausgase** für Temperaturregulierung
+	3. Bestimmte Gase je nach Lebensform
+##### Kontakt
+\[...]
+- **Reisen** bis jetzt technisch weit entfernt von umsetzbar in fast allen Aspekten
