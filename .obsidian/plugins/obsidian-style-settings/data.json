@@ -103,11 +103,18 @@
   "Editor@@blockquote-background-dark": "body {     background: linear-gradient(135deg, #4a90e2, #50e3c2)     height: 100vh /* Full height */     margin: 0 /* Remove default margin */ }",
   "Editor@@callout-title-color@@dark": "#FABD2F",
   "Editor@@callout-content-radius": "5000",
-  "Editor@@callout-content-background@@dark": "#28282800",
   "Appearance-light@@theme-light-style-select": "theme-light-background-default",
   "minimal-style@@heading-spacing": "1.2em",
   "minimal-style@@p-spacing": "1rem",
   "minimal-style@@list-spacing": 0.025,
   "minimal-style@@callouts-style": "callouts-default",
-  "minimal-style@@callout-blend-mode": "normal"
+  "minimal-style@@callout-blend-mode": "normal",
+  "Editor@@callout-style-select": "callout-style-customize",
+  "Editor@@callout-border-opacity": 1,
+  "Editor@@callout-border-width": "2px",
+  "Editor@@callout-padding": "10",
+  "Editor@@callout-content-padding": "10",
+  "Editor@@callout-radius": "\"\"",
+  "Editor@@callout-title-size": "50",
+  "Editor@@callout-title-padding": "10"
 }
