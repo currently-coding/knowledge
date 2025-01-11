@@ -1,0 +1,45 @@
+/* General Background and Text */
+body {
+    background-color: white;
+    color: black;
+}
+
+/* Links and Hover States */
+a {
+    color: black;
+    text-decoration: underline; /* Optional: Keeps links distinguishable */
+}
+
+a:hover {
+    color: black;
+}
+
+/* Code Blocks and Inline Code */
+code {
+    color: black;
+    background-color: white;
+    border: 1px solid black; /* Optional for visibility */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: black;
+}
+
+/* Quotes */
+blockquote {
+    color: black;
+    border-left: 2px solid black;
+    background-color: white;
+}
+
+/* Tables */
+table {
+    border: 1px solid black;
+    color: black;
+}
+
+th, td {
+    border: 1px solid black;
+    color: black;
+}
