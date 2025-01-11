@@ -40,10 +40,10 @@ Anzeichen für Bewohnbarkeit
 > it(The habitable Zone) remains the most useful roadmap for targeting potentially habitable worlds
 
 > ([[geosciences-08-00280.pdf#page=1&selection=69,0,76,33&color=yellow|geosciences-08-00280, p.1]])
-> As suggested recently [Ramirez, R.M.; Kaltenegger, L. A Methane Extension to the Classical Habitable Zone. Astrophys. J. 2018, 858, 72.], the addition of the phrase “standing bodies of water” to the HZ definition emphasizes that habitable zone planets incapable of supporting more than seasonal trickles of surface water, like Mars, should not be considered for follow-up astrobiological observations. This is because any life residing within such small amounts of water would be unlikely to modify the atmosphere in a detectable manner
+> As suggested recently \[Ramirez, R.M.; Kaltenegger, L. A Methane Extension to the Classical Habitable Zone. Astrophys. J. 2018, 858, 72.], the addition of the phrase “standing bodies of water” to the HZ definition emphasizes that habitable zone planets incapable of supporting more than seasonal trickles of surface water, like Mars, should not be considered for follow-up astrobiological observations. This is because any life residing within such small amounts of water would be unlikely to modify the atmosphere in a detectable manner
 
 > ([[geosciences-08-00280.pdf#page=2&selection=34,0,41,1&color=note|geosciences-08-00280, p.2]])
-> critical point of water (647 K), which is the highest possible temperature for surface water to exist in liquid form on a rocky planet with an Earth-like inventory [ 1 ,13 
+> critical point of water (647 K), which is the highest possible temperature for surface water to exist in liquid form on a rocky planet with an Earth-like inventory \[Goldblatt, C.; Robinson, T.D.; Zahnle, K.J.; Crisp, D. Low simulated radiation limit for runaway greenhouse climates. Nat. Geisci. 2013, 6, 661–667, Kasting, J.; Whitmire, D.; Raynolds, R. Habitable Zones around Main Sequence Stars. Icarus 1993, 101, 108–128] 
 
 > ([[geosciences-08-00280.pdf#page=2&selection=80,18,86,46&color=red|geosciences-08-00280, p.2]])
 > The classical HZ posits that CO2 and H2O are the most important greenhouse gases for habitable planets throughout the universe.
@@ -52,7 +52,7 @@ Anzeichen für Bewohnbarkeit
 > “Complex life” includes advanced life forms like animals, higher plants, and (possibly) even intelligence
 
 > ([[geosciences-08-00280.pdf#page=2&selection=91,92,95,11&color=note|geosciences-08-00280, p.2]])
-> Kasting et al. [1] explicitly mention that the HZ is designed to also find habitable planets that may be unsuitable for humans.
+> Kasting et al. \[Kasting, J.; Whitmire, D.; Raynolds, R. Habitable Zones around Main Sequence Stars. Icarus 1993, 101, 108–128] explicitly mention that the HZ is designed to also find habitable planets that may be unsuitable for humans.
 
 > ([[geosciences-08-00280.pdf#page=2&selection=109,13,109,71&color=red|geosciences-08-00280, p.2]])
 >  classical HZ definition is concerned with carbon-based life
@@ -69,15 +69,11 @@ Anzeichen für Bewohnbarkeit
 > ([[geosciences-08-00280.pdf#page=36&selection=24,47,26,10&color=note|geosciences-08-00280, p.36]])
 >  The HZ can be utilized to rank potentially habitable planets in the habitable zone and is even capable of filtering out HZ worlds that are least likely to host life.
 
-
-
-
 > ([[geosciences-08-00280.pdf#page=31&selection=48,0,48,65&color=note|geosciences-08-00280, p.31]])
 > HZ can only search for “Earth-like” life or “life as we know it” 
 
 > ([[geosciences-08-00280.pdf#page=31&selection=56,5,58,57&color=yellow|geosciences-08-00280, p.31]])
 > “Earth-like” is a vague and commonly-used term with no consensus as to what it means nor to what degree a planet can differ from the Earth and still be considered Earth-like (alternate terms include “habitable planets” or “potentially habitable planets”). 
-
 
 # Präsentation
 ## Inhalt
