@@ -23,16 +23,18 @@ https://en.wikipedia.org/wiki/Habitable_zone
 		-> Erde würde mit Venus $T$ in Venus Orbit habitabel sein
 
 
----
-### Bewohnbarkeit
+#### Bewohnbarkeit
 >[!superhabitable Planeten]
 >Generelle Annahme: Planeten mit $m_{p}>m_{E}$ könnten lebensfreundlicher als die Erde sein
 
- nzeichen für Bewohnbarkeit
+Anzeichen für Bewohnbarkeit
 - Wasserdampf
 - freier Sauerstoff
 
-## Zusammenfassung
+### A More Comprehensive Habitable Zone for Finding Life on Other Planets
+
+
+
 
 # Präsentation
 ## Inhalt
