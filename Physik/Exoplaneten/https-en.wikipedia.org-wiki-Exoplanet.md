@@ -1,11 +1,7 @@
 >[!Exoplanet]
->= **Extrasolarer Planet**
+> = **Extrasolarer Planet**
 
 ## Daten
-- 5,806 bestätigte Exoplaneten
-	- in 4,336 Planetensystemen
-		- von denen 972 mehr als einen Planeten besitzen
-
 >[!Definition]
 > - Objects with [true masses](https://en.wikipedia.org/wiki/True_mass "True mass") below the limiting mass for thermonuclear fusion of deuterium (currently calculated to be 13 Jupiter masses for objects of solar [metallicity](https://en.wikipedia.org/wiki/Metallicity "Metallicity")) that orbit stars or stellar remnants are "planets" (no matter how they formed). The minimum mass/size required for an extrasolar object to be considered a planet should be the same as that used in the Solar System.
 > - Substellar objects with true masses above the limiting mass for thermonuclear fusion of deuterium are "[brown dwarfs](https://en.wikipedia.org/wiki/Brown_dwarfs "Brown dwarfs")", no matter how they formed or where they are located.
