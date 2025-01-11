@@ -1,4 +1,5 @@
 # Beschreibung der Arbeit
+Zu Beginn wurde mir der Bereich 'Bedingungen fuer Leben, Habitable Zone '
 
 # Erlernte inhaltliche Kompetenzen
 ## Quellenverzeichnis
