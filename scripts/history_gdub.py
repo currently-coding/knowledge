@@ -8,6 +8,7 @@ def extract_definitions(pdf_path, output_path):
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             text = page.extract_text()
+            print(text)
 
             if text:
                 # Split the text into lines and search for key patterns
@@ -36,7 +37,7 @@ def extract_definitions(pdf_path, output_path):
 
 # Define the paths
 pdf_file_path = "Geschichte\\Grundlegende Daten und Begriffe\\GDB_Geschichte_LPP_Oberstufe_31.03.2023.pdf"
-output_file_path = ""
+output_file_path = "Geschichte\\Grundelegende Daten und Begriffe\\all.md"
 
 # Extract and save the data
 extract_definitions(pdf_file_path, output_file_path)
