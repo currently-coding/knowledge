@@ -2,7 +2,7 @@
   "cssTheme": "Minimal",
   "accentColor": "#2aa3bb",
   "theme": "obsidian",
-  "baseFontSize": 14,
+  "baseFontSize": 12,
   "baseFontSizeAction": true,
   "nativeMenus": true,
   "showViewHeader": true,
@@ -10,5 +10,5 @@
     "Font"
   ],
   "interfaceFontFamily": "",
-  "textFontFamily": "FiraCode Nerd Font,Sans Serif Collection,Microsoft Sans Serif"
+  "textFontFamily": "Calibri,Cascadia Code,FiraCode Nerd Font,Sans Serif Collection,Microsoft Sans Serif"
 }
