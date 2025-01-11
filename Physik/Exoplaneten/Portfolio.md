@@ -3,13 +3,13 @@ Zu Beginn wurde mir der Bereich 'Bedingungen für Leben, Habitable Zone' zugewie
 Als erstes nutzte ich die Wikipedia Einträge um mir einen Überblick über das Theme zu verschaffen. Anschließend fand ich mittels https://scholar.google.com/ verschiedene wissenschaftliche Arbeiten zur habitablen Zone. Ich wählte die Arbeit "A More Comprehensive Habitable Zone for Finding Life on Other Planets" von R.M. Ramirez aus und verbrachte die restliche Zeit der Quellensichtung damit, diese zu lesen und zu verstehen.
 Bezüglich der Präsentation entschied mich dazu meinen Vortrag mittels einer Power-Point zu strukturieren. Ich erstellte meinen Teil des Handouts und fügte die Teile der Gruppenmitglieder zu meinem hinzu. Dabei kürzte ich den Inhalt auf eine DIN A4 Seite.
 
-# Erlernte inhaltliche Kompetenzen
-## Quellenverzeichnis
+
+# Quellenverzeichnis
 https://en.wikipedia.org/wiki/Exoplanet - 24/12/13 - 8:00
 https://www.mdpi.com/2076-3263/8/8/280 - 24/12/13 - 8:35
 https://en.wikipedia.org/wiki/Habitable_zone - 24/12/13 - 8:05
 
-### Wikipedia
+## Wikipedia
 >[!Definition]
 >Bereich um einen Stern, in dem Wasser im flüssigen Zustand existieren kann
 
@@ -34,7 +34,7 @@ Anzeichen für Bewohnbarkeit
 - Wasserdampf
 - freier Sauerstoff
 
-### A More Comprehensive Habitable Zone for Finding Life on Other Planets
+## A More Comprehensive Habitable Zone for Finding Life on Other Planets
 Link: https://www.mdpi.com/2076-3263/8/8/280
 
 > ([[paper.pdf#page=1&selection=40,0,41,67&color=note|Artikel, S.1]])
