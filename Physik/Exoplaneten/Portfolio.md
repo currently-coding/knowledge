@@ -1,11 +1,11 @@
 # Beschreibung der Arbeit
-Zu Beginn wurde mir der Bereich 'Bedingungen fuer Leben, Habitable Zone '
+Zu Beginn wurde mir der Bereich 'Bedingungen fuer Leben, Habitable Zone' zugewiesen, da ich keine Praeferenzen angab.
 
 # Erlernte inhaltliche Kompetenzen
 ## Quellenverzeichnis
 https://en.wikipedia.org/wiki/Exoplanet - 24/12/13 - 8:00
 https://www.mdpi.com/2076-3263/8/8/280 - 24/12/13 - 8:35
-https://en.wikipedia.org/wiki/Habitable_zone
+https://en.wikipedia.org/wiki/Habitable_zone - 24/12/13 - 8:05
 
 ### Wikipedia
 >[!Definition]
