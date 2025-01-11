@@ -6,20 +6,33 @@
 </div>
 <div style="page-break-after: always;"></div>
 
+## Inhaltsverzeichnis
+- [[#Beschreibung der Arbeit|Beschreibung der Arbeit]]
+- [[#Quellenverzeichnis|Quellenverzeichnis]]
+	- [[#Quellenverzeichnis#Wikipedia|Wikipedia]]
+	- [[#Quellenverzeichnis#A More Comprehensive Habitable Zone for Finding Life on Other Planets|A More Comprehensive Habitable Zone for Finding Life on Other Planets]]
+- [[#Präsentation|Präsentation]]
+	- [[#Präsentation#Folien|Folien]]
+	- [[#Präsentation#Handout|Handout]]
+			- [[#Bedingungen für extraterrestrisches Leben|Bedingungen für extraterrestrisches Leben]]
+			- [[#Kontakt|Kontakt]]
+
+
+
 <div style="page-break-after: always;"></div>
 
-# Beschreibung der Arbeit
+## Beschreibung der Arbeit
 Zu Beginn wurde mir der Bereich 'Bedingungen für Leben, Habitable Zone' zugewiesen, da ich keine Präferenzen angab.
 Als erstes nutzte ich die Wikipedia Einträge um mir einen Überblick über das Theme zu verschaffen. Anschließend fand ich mittels https://scholar.google.com/ verschiedene wissenschaftliche Arbeiten zur habitablen Zone. Ich wählte die Arbeit "A More Comprehensive Habitable Zone for Finding Life on Other Planets" von R.M. Ramirez aus und verbrachte die restliche Zeit der Quellensichtung damit, diese zu lesen und zu verstehen.
 Bezüglich der Präsentation entschied mich dazu meinen Vortrag mittels einer Power-Point zu strukturieren. Ich erstellte meinen Teil des Handouts und fügte die Teile der Gruppenmitglieder zu meinem hinzu. Dabei kürzte ich den Inhalt auf eine DIN A4 Seite.
 
 
-# Quellenverzeichnis
+## Quellenverzeichnis
 https://en.wikipedia.org/wiki/Exoplanet - 24/12/13 - 8:00
 https://www.mdpi.com/2076-3263/8/8/280 - 24/12/13 - 8:35
 https://en.wikipedia.org/wiki/Habitable_zone - 24/12/13 - 8:05
 
-## Wikipedia
+### Wikipedia
 >[!Definition]
 >Bereich um einen Stern, in dem Wasser im flüssigen Zustand existieren kann
 
@@ -35,8 +48,6 @@ https://en.wikipedia.org/wiki/Habitable_zone - 24/12/13 - 8:05
 		- je schneller, desto dünner die Wolken -> weniger Reflexion
 		-> Erde würde mit Venus $T$ in Venus Orbit habitabel sein
 
-
-#### Bewohnbarkeit
 >[!superhabitable Planeten]
 >Generelle Annahme: Planeten mit $m_{p}>m_{E}$ könnten lebensfreundlicher als die Erde sein
 
@@ -44,7 +55,7 @@ Anzeichen für Bewohnbarkeit
 - Wasserdampf
 - freier Sauerstoff
 
-## A More Comprehensive Habitable Zone for Finding Life on Other Planets
+### A More Comprehensive Habitable Zone for Finding Life on Other Planets
 Link: https://www.mdpi.com/2076-3263/8/8/280
 
 > ([[paper.pdf#page=1&selection=40,0,41,67&color=note|Artikel, S.1]])
@@ -104,8 +115,8 @@ Link: https://www.mdpi.com/2076-3263/8/8/280
 > ([[paper.pdf#page=11&annotation=2603R|paper, p.11]])
 > Biotic oxygen production rates on Earth far exceed abiotic ones, suggesting that high atmospheric oxygen concentrations, perhaps in conjunction with CH4, may be good bioindicators (e.g., [106,111,112]).
 
-# Präsentation
-## Inhalt
+## Präsentation
+### Folien
 ![[Pasted image 20250111151046.png]]
 ![[Pasted image 20250111151143.png]]
 ![[Pasted image 20250111151209.png]]
@@ -114,7 +125,7 @@ Link: https://www.mdpi.com/2076-3263/8/8/280
 ![[Pasted image 20250111151448.png]]
 ![[Pasted image 20250111151608.png]]
 
-## Handout
+### Handout
 ##### Bedingungen für extraterrestrisches Leben
 1. **Klima** - Einflussfaktoren
 	1. Distanz zum Stern
