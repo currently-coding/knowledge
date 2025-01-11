@@ -1,18 +1,6 @@
 
 aa
-
 <div style="page-break-after: always;"></div>
-<div style="page-break-after: always;"></div>
-
-
-
-
-<div style="page-break-after: always;"></div>
-<div style="page-break-after: always;"></div>
-<div style="page-break-after: always;"></div>
-<div style="page-break-after: always;"></div>
-
-
 
 # Beschreibung der Arbeit
 Zu Beginn wurde mir der Bereich 'Bedingungen für Leben, Habitable Zone' zugewiesen, da ich keine Präferenzen angab.
