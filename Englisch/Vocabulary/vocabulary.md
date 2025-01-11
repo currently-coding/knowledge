@@ -101,7 +101,7 @@ mechanization(noun) () ::: Mechanisierung, Technisierung
 to mechanize(verb) () ::: mechanisieren, technisieren
 <!--SR:!2026-01-09,375,366!2025-12-15,355,371-->
 assembly line(noun) (Cars are usually put together on an assembly line.) ::: Band, Fließband, Montagelinie
-<!--SR:!2025-01-08,86,357!2025-10-20,303,346-->
+<!--SR:!2026-03-08,421,377!2025-10-20,303,346-->
 trade deficit(noun) () ::: Handelsbilanzdefizit, Handelsdefizit, Außenhandelsdefizit
 <!--SR:!2025-12-19,359,378!2026-02-04,395,366-->
 urbanization(noun) () ::: Urbanisierung, Verstädterung, Urbanisation
@@ -119,7 +119,7 @@ Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man 
 environmentalism(noun) () ::: Umweltschutz
 <!--SR:!2026-01-23,384,359!2025-11-23,337,366-->
 work ethic(noun) () ::: Arbeitsmoral, Arbeitsethik, Arbeitsethos
-<!--SR:!2025-01-09,87,358!2026-01-02,371,366-->
+<!--SR:!2026-03-15,428,378!2026-01-02,371,366-->
 to subsidize(verb) (Corn is cheap because it is subsidized by the government.) ::: subventionieren, bezuschussen, finanziell unterstützen
 <!--SR:!2025-10-21,304,346!2025-01-08,87,358-->
 launch(noun) (Mission control postponed the launch of the space shuttle., We are preparing the product launch., We are planning a pan-European launch for September., The launch of the new system went smoothly.) ::: Launch, Start, Markteinführung
