@@ -20,6 +20,7 @@
 - Überalterung
 	-> staatliche Investitionen steigen(z. B. Altersheime)
 	=> Überlastung der Sozialsysteme
+=> **Generationenvertrag scheitert**
 
 
 
