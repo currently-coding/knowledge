@@ -13,7 +13,7 @@ accidental(adjective) (He felt very sorry for the accidental mix-up., The news a
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
 <!--SR:!2025-03-19,118,290!2025-11-01,315,342-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
-<!--SR:!2025-04-18,160,310!2025-01-11,50,302-->
+<!--SR:!2025-04-18,160,310!2025-08-09,210,322-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
 <!--SR:!2025-01-19,89,299!2025-04-02,139,316-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
