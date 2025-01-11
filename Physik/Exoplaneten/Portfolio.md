@@ -2,7 +2,7 @@
     <strong>Portfolio zum Thema Exoplaneten</strong><br>
     im Rahmen der eigenverantwortlichen Arbeit im Fach Physik<br><br>
     <strong>Autor:</strong> Felix Stangl<br>
-    <strong>Datum:</strong> January 08, 2025
+    <strong>Datum:</strong> Januar 08, 2025
 </div>
 <div style="page-break-after: always;"></div>
 
