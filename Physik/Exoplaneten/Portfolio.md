@@ -1,6 +1,6 @@
 # Beschreibung der Arbeit
 Zu Beginn wurde mir der Bereich 'Bedingungen für Leben, Habitable Zone' zugewiesen, da ich keine Präferenzen angab.
-Als erstes nutzte ich die Wikipedia Einträge um mir einen Überblick über das Theme zu verschaffen. Anschließend fand ich mittels [[|]]
+Als erstes nutzte ich die Wikipedia Einträge um mir einen Überblick über das Theme zu verschaffen. Anschließend fand ich mittels https://scholar.google.com/ verschiedene wissenschaftliche Arbeiten zur habitablen Zone. 
 
 # Erlernte inhaltliche Kompetenzen
 ## Quellenverzeichnis
