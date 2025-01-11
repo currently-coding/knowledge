@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 # Beschreibung der Arbeit
 Zu Beginn wurde mir der Bereich 'Bedingungen für Leben, Habitable Zone' zugewiesen, da ich keine Präferenzen angab.
 Als erstes nutzte ich die Wikipedia Einträge um mir einen Überblick über das Theme zu verschaffen. Anschließend fand ich mittels https://scholar.google.com/ verschiedene wissenschaftliche Arbeiten zur habitablen Zone. Ich wählte die Arbeit "A More Comprehensive Habitable Zone for Finding Life on Other Planets" von R.M. Ramirez aus und verbrachte die restliche Zeit der Quellensichtung damit, diese zu lesen und zu verstehen.
@@ -102,6 +111,8 @@ Link: https://www.mdpi.com/2076-3263/8/8/280
 ![[Pasted image 20250111151230.png]]
 ![[Pasted image 20250111151427.png]]
 ![[Pasted image 20250111151448.png]]
+![[Pasted image 20250111151608.png]]
+
 ## Handout
 ##### Bedingungen für extraterrestrisches Leben
 1. **Klima** - Einflussfaktoren
