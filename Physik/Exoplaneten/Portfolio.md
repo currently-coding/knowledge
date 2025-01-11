@@ -23,7 +23,7 @@
 
 ## Beschreibung der Arbeit
 Zu Beginn wurde mir der Bereich 'Bedingungen für Leben, Habitable Zone' zugewiesen, da ich keine Präferenzen angab.
-Als erstes nutzte ich die Wikipedia Einträge um mir einen Überblick über das Theme zu verschaffen. Anschließend fand ich mittels https://scholar.google.com/ verschiedene wissenschaftliche Arbeiten zur habitablen Zone. Ich wählte die Arbeit "A More Comprehensive Habitable Zone for Finding Life on Other Planets" von R.M. Ramirez aus und verbrachte die restliche Zeit der Quellensichtung damit, diese zu lesen und zu verstehen.
+Als erstes nutzte ich die Wikipedia Einträge um mir einen Überblick über das Theme zu verschaffen. Anschließend fand ich mittels https://scholar.google.com/ verschiedene wissenschaftliche Arbeiten zur habitablen Zone. Ich wählte die Arbeit "A More Comprehensive Habitable Zone for Finding Life on Other Planets" von R.M. Ramirez aus(erschienene 2018 im ) und verbrachte die restliche Zeit der Quellensichtung damit, diese zu lesen und zu verstehen.
 Bezüglich der Präsentation entschied mich dazu meinen Vortrag mittels einer Power-Point zu strukturieren. Ich erstellte meinen Teil des Handouts und fügte die Teile der Gruppenmitglieder zu meinem hinzu. Dabei kürzte ich den Inhalt auf eine DIN A4 Seite.
 
 
