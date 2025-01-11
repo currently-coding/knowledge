@@ -1,4 +1,4 @@
- [!Definition]
+ >[!Definition]
 Ein Exoplanet ist ein planetarer Himmelskörper mit genügend großer Masse, um kugelförmig zu sein, außerhalb des gravitativen Einflusses unserer Sonne, aber innerhalb des gravitativen Einflusses eines anderen Sterns oder braunen Zwergs. 
 ##### Eigenschaften
 - Diverse physikalische Größen messbar wie z.B. **Radius**, **Masse** etc.
