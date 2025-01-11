@@ -121,7 +121,7 @@ environmentalism(noun) () ::: Umweltschutz
 work ethic(noun) () ::: Arbeitsmoral, Arbeitsethik, Arbeitsethos
 <!--SR:!2026-03-15,428,378!2026-01-02,371,366-->
 to subsidize(verb) (Corn is cheap because it is subsidized by the government.) ::: subventionieren, bezuschussen, finanziell unterstützen
-<!--SR:!2025-10-21,304,346!2025-01-08,87,358-->
+<!--SR:!2025-10-21,304,346!2026-03-14,427,378-->
 launch(noun) (Mission control postponed the launch of the space shuttle., We are preparing the product launch., We are planning a pan-European launch for September., The launch of the new system went smoothly.) ::: Launch, Start, Markteinführung
 <!--SR:!2025-07-13,225,346!2026-02-15,407,377-->
 to launch(verb) (The space agency will launch a rocket next month., The company will launch a new product this year., The company launched a new communication system., The fireworks are launched at midnight., The shipping company launched their new cruise ship.) ::: starten, einführen
