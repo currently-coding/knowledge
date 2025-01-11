@@ -1,5 +1,6 @@
 # Beschreibung der Arbeit
-Zu Beginn wurde mir der Bereich 'Bedingungen fuer Leben, Habitable Zone' zugewiesen, da ich keine Praeferenzen angab.
+Zu Beginn wurde mir der Bereich 'Bedingungen für Leben, Habitable Zone' zugewiesen, da ich keine Präferenzen angab.
+
 
 # Erlernte inhaltliche Kompetenzen
 ## Quellenverzeichnis
