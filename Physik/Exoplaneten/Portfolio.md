@@ -96,6 +96,12 @@ Link: https://www.mdpi.com/2076-3263/8/8/280
 
 # Präsentation
 ## Inhalt
+![[Pasted image 20250111151046.png]]
+![[Pasted image 20250111151143.png]]
+![[Pasted image 20250111151209.png]]
+![[Pasted image 20250111151230.png]]
+![[Pasted image 20250111151427.png]]
+![[Pasted image 20250111151448.png]]
 ## Handout
 ##### Bedingungen für extraterrestrisches Leben
 1. **Klima** - Einflussfaktoren
