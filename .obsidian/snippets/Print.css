@@ -1,0 +1,14 @@
+@media print {
+    @page {
+        margin: 1in;
+        counter-increment: page;
+    }
+    body::after {
+        content: counter(page);
+        position: fixed;
+        bottom: 0.0in;
+        right: 0.0in;
+        font-size: 10pt;
+        color: gray;
+    }
+}
