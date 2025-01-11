@@ -7,7 +7,8 @@
   "nativeMenus": true,
   "showViewHeader": true,
   "enabledCssSnippets": [
-    "Font"
+    "Font",
+    "Print"
   ],
   "interfaceFontFamily": "",
   "textFontFamily": "Calibri,Cascadia Code,FiraCode Nerd Font,Sans Serif Collection,Microsoft Sans Serif"
