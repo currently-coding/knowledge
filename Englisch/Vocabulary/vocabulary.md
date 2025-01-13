@@ -77,7 +77,7 @@ free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
 trade barrier(noun) (The trade barrier was part of the sanctions., The trade barrier was part of the sanctions.) ::: Handelshemmnis, Handelsbarriere, Handelsbeschränkung
 <!--SR:!2025-10-12,303,359!2025-06-21,207,339-->
 barrier to trade(noun) () ::: Handelshemmnis
-<!--SR:!2025-11-30,340,359!2025-01-12,84,299-->
+<!--SR:!2025-11-30,340,359!2025-12-27,348,319-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) ::: Wechselkurs, Kurs, Devisenkurs
 <!--SR:!2025-01-14,92,358!2026-01-14,379,366-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) ::: Ausbeutung, Nutzung, Verwertung
@@ -115,7 +115,7 @@ commerce(noun) (A lot of commerce was conducted in this town a century ago.) :::
 offshoring(noun) (The relocation of business processes to a foreign country is called offshoring., Offshoring is a common economic phenomenon.) ::: Offshoring, Verlagerung unternehmerischer Prozesse ins Ausland, Auslandsverlagerung
 <!--SR:!2025-09-21,283,346!2026-01-16,382,378-->
 Offshoring(noun) (Die Verlegung von Unternehmensprozessen ins Ausland nennt man Offshoring.) ::: offshoring
-<!--SR:!2025-07-30,241,350!2025-01-13,91,359-->
+<!--SR:!2025-07-30,241,350!2026-04-06,448,379-->
 environmentalism(noun) () ::: Umweltschutz
 <!--SR:!2026-01-23,384,359!2025-11-23,337,366-->
 work ethic(noun) () ::: Arbeitsmoral, Arbeitsethik, Arbeitsethos
@@ -139,7 +139,7 @@ supplier(noun) (Our supplier delivers high-quality products., The suppliers are 
 to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) ::: liefern, mitliefern, beliefern
 <!--SR:!2025-11-08,318,358!2024-12-24,76,346-->
 purchase(noun) (He bought shoes and was happy with his purchase., Children cannot make large purchases without their parents' authorization., My boss and I discussed the purchase of new software., He received a credit note for his next purchase., Our customers receive tokens for every purchase., The new car was an expensive purchase., The purchase of a plot of land was a good investment.) ::: Kauf, Erwerb, Einkauf
-<!--SR:!2025-01-09,87,346!2026-01-05,371,371-->
+<!--SR:!2026-03-03,414,366!2026-01-05,371,371-->
 to purchase(verb) (I purchased my train ticket online., She purchased a house to invest her money., We need to purchase five licences of this software., I am going to purchase tickets for the concert.) ::: kaufen, erwerben, beschaffen
 <!--SR:!2025-12-25,365,379!2026-02-09,400,366-->
 commission(noun) (The commission will deal with this issue next week., The commission has agreed on a new resolution., I will get a commission for the good service.) ::: Kommission, Provision, Auftrag
@@ -147,7 +147,7 @@ commission(noun) (The commission will deal with this issue next week., The commi
 to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) ::: beauftragen, in Dienst stellen, in Auftrag geben
 <!--SR:!2025-12-20,358,366!2025-01-14,92,357-->
 state-of-the-art(adjective) (The new school will have state-of-the-art classrooms., The new alarm system uses state-of-the-art technology.) ::: hochmodern, modernst
-<!--SR:!2026-02-25,415,371!2025-01-10,88,359-->
+<!--SR:!2026-02-25,415,371!2026-03-23,434,379-->
 state of the art(noun) () ::: Stand der Technik
 <!--SR:!2026-01-06,372,379!2025-10-11,300,350-->
 decline(noun) (We have witnessed a sharp decline in oil prices., The decline in sales worries the investors., The investors are not worried by the decline in sales., The country's economic decline came after the crisis.) ::: Rückgang, Sinken, Abnahme
@@ -159,7 +159,7 @@ to promote(verb) (Our university promotes international student exchange., We pr
 inequality(noun) (Inequalities need to be redressed.) ::: Ungleichheit, Ungleichstellung, Ungleichung
 <!--SR:!2026-01-13,382,377!2025-12-02,346,370-->
 wealth(noun) (Thanks to his wealth, he can buy anything he likes., The book contains a wealth of information., The family's wealth was based on the tenure of land.) ::: Reichtum, Fülle, Wohlstand
-<!--SR:!2025-08-14,256,358!2025-01-08,88,350-->
+<!--SR:!2025-08-14,256,358!2026-03-12,423,370-->
 tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) ::: Steuer, Abgabe, Zins
 <!--SR:!2025-10-18,309,371!2026-01-29,390,370-->
 to tax(verb) (The government decided to tax corporate profits., He taxed her patience for hours.) ::: besteuern, strapazieren, versteuern
@@ -169,7 +169,7 @@ recession(noun) (The recession is over and unemployment is declining., The boom 
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
 <!--SR:!2024-12-07,55,310!2025-08-20,261,359-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
-<!--SR:!2025-01-10,90,351!2025-01-22,91,373-->
+<!--SR:!2026-03-22,433,371!2025-01-22,91,373-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2025-05-06,165,353!2025-01-17,87,375-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
