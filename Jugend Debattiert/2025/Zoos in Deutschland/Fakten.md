@@ -2,6 +2,9 @@
 	- Giraffen, Elefanten, Tiger
 - 800 Tierparks in Deutschland
 
+>[!Zoo vs Tierpark:]
+Zoo: exotische Tiere + Artenschutz
+Tierpark: heimische Tiere + Schutz der heimischen Natur
 
 
 # Geschichte
