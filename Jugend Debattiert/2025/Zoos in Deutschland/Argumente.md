@@ -1,5 +1,5 @@
 >[!Massnahme]
->Zoos falls sie nicht einen tierschutzplan folgen koennen verbieten
+>Zoos verbieten und Geld in Nationalparks/Naturschutzgebiete investieren
 
 ### **Debattennotizen: Sollten Zoos in Deutschland ab 2030 verboten werden?**
 
