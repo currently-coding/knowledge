@@ -11,3 +11,8 @@ Adenauer
 
 
 Nur die **3. Strophe** ist die **Nationalhymnde Deutschlands**
+
+
+- Zeichen fuer Nationalsozialismus
+- Zeihcne fuer Ignoranz der Werte der DDR
+-> posaunt die schlechte Geschichte Deutschlands
