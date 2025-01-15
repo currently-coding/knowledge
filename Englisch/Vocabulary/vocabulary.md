@@ -69,7 +69,7 @@ to merge(verb) (In the author's new book reality and fantasy merge seamlessly., 
 merger(noun) (The merger went well and nobody lost their job., The merger had greatly increased the company's goodwill., The merger of the two companies created a more powerful business., This merger is a milestone in the history of the company.) ::: Verschmelzung, Fusion, Zusammenschluss
 <!--SR:!2025-06-01,191,343!2025-09-22,284,341-->
 sweatshop(noun) () ::: Ausbeutungsbetrieb, Ausbeuterbetrieb
-<!--SR:!2025-01-14,32,323!2025-10-16,299,341-->
+<!--SR:!2025-06-08,144,343!2025-10-16,299,341-->
 multinational(adjective) (We are a well-known multinational company.) ::: multinational
 <!--SR:!2025-07-06,217,340!2026-01-26,387,359-->
 free trade(noun) () ::: Freihandel, freier Handel, Handelsfreiheit
@@ -79,7 +79,7 @@ trade barrier(noun) (The trade barrier was part of the sanctions., The trade bar
 barrier to trade(noun) () ::: Handelshemmnis
 <!--SR:!2025-11-30,340,359!2025-12-27,348,319-->
 exchange rate(noun) (Prices vary according to the current exchange rate., The exchange rate fluctuates daily.) ::: Wechselkurs, Kurs, Devisenkurs
-<!--SR:!2025-01-14,92,358!2026-01-14,379,366-->
+<!--SR:!2026-04-12,452,378!2026-01-14,379,366-->
 exploitation(noun) (There is a law against the exploitation of workers., The exploitation of natural resources is subject to strict regulations.) ::: Ausbeutung, Nutzung, Verwertung
 <!--SR:!2025-06-08,194,326!2026-02-05,397,377-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The media exploited the scandal.) ::: nutzen, ausnutzen, ausschöpfen, erschließen(business context)
@@ -89,7 +89,7 @@ standard of living(noun) (Our standard of living is higher than 100 years ago.) 
 debt relief(noun) (The bank granted the company only partial debt relief.) ::: Schuldenerlass, Entschuldung
 <!--SR:!2025-12-16,356,366!2026-01-10,376,371-->
 current affairs(noun) () ::: aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
-<!--SR:!2025-01-15,84,346!2026-02-12,404,379-->
+<!--SR:!2026-02-19,400,366!2026-02-12,404,379-->
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) ::: Fonds, Investmentfonds, Geldmittel
 <!--SR:!2026-02-17,409,379!2026-01-24,390,370-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) ::: finanzieren, anlegen, investieren
@@ -145,7 +145,7 @@ to purchase(verb) (I purchased my train ticket online., She purchased a house to
 commission(noun) (The commission will deal with this issue next week., The commission has agreed on a new resolution., I will get a commission for the good service.) ::: Kommission, Provision, Auftrag
 <!--SR:!2025-02-03,38,337!2025-10-30,319,366-->
 to commission(verb) (The company commissioned me to design its new logo., My brother was commissioned as colonel., The principal commissioned the translation of the contract., The university commissioned a portrait of its founder.) ::: beauftragen, in Dienst stellen, in Auftrag geben
-<!--SR:!2025-12-20,358,366!2025-01-14,92,357-->
+<!--SR:!2025-12-20,358,366!2026-04-11,451,377-->
 state-of-the-art(adjective) (The new school will have state-of-the-art classrooms., The new alarm system uses state-of-the-art technology.) ::: hochmodern, modernst
 <!--SR:!2026-02-25,415,371!2026-03-23,434,379-->
 state of the art(noun) () ::: Stand der Technik
@@ -173,7 +173,7 @@ to accelerate(verb) (New scientific findings accelerated our research., Thanks t
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2025-05-06,165,353!2025-01-17,87,375-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
-<!--SR:!2025-01-13,86,375!2025-02-01,101,373-->
+<!--SR:!2026-04-02,442,395!2025-02-01,101,373-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
 <!--SR:!2025-01-26,96,375!2025-01-31,100,376-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
