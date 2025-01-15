@@ -64,6 +64,7 @@ $\Rightarrow$ Zoos verbessern ihre Gehege konstant. kein Grund jetzt Zoos zu ver
 
 ### **2. Ethical Considerations**
 
+
 #### **Your Criticism:** Keeping animals in captivity violates their rights and prioritizes human entertainment.
 
 #### **Pro Side’s Counter:**
