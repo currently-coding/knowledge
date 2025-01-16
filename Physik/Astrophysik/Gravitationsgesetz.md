@@ -12,5 +12,5 @@ $$
 >[!Merksatz]
 >Zwischen zwei Körpern der Masse $m_1$ und $m_2$ wirkt eine *stets anziehende Kraft*, die **Gravitationskraft** genannt wird.
 >$$F_{\text{Grav}} = G \cdot \frac{m_{1} \cdot m_{m}}{r^2 }$$
->wobei $$G = 6.674 \cdot 10^{-11} \frac{\text{Nm}^2}{\text{kg}} = 6.674 \cdot 10^{-11}   \frac{{\text{m}^3 }}{\text{kg}\cdot \text{s}^2} {}$$
+>wobei $$G (= \gamma ) = 6.674 \cdot 10^{-11} \frac{\text{Nm}^2}{\text{kg}} = 6.674 \cdot 10^{-11}   \frac{{\text{m}^3 }}{\text{kg}\cdot \text{s}^2} {}$$
 
