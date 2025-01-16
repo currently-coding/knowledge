@@ -1,4 +1,4 @@
-**https://mhchem.github.io/MathJax-mhchem/
+https://mhchem.github.io/MathJax-mhchem/
 
 - Begrenzer
 	- `$` -> einzeilig
