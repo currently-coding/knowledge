@@ -17,8 +17,17 @@
 ### antipluralistisch
 >[!Volk]
 >Populisten sehen *"das Volk"* als eine Einheit an, ohne innergesellschaftliche Unterschiede -> Nur **eine Meinung**
-###
-###
-###
-### Polarisiert
-- 
+
+-> da nur 1 Meinung => **keine Opposition**
+-> Populist kennt als *einziger* diese Meinung
+### Antielitär 
+- andere sind eine Gefahr(z.B. "Elite")
+	- andere wollen *nationale Kultur zerstören*
+	- andere sind *unpatriotisch*
+### Polarisierend
+- **vereinfacht** Themen stark
+	-> einfache Lösung -> Populist weiß wie es geht
+- **emotionalisiert** Themen
+- **charismatische** Führungspersonen(/Idole)
+
+### Syste$r$
