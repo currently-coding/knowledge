@@ -30,4 +30,8 @@
 - **emotionalisiert** Themen
 - **charismatische** Führungspersonen(/Idole)
 
-### Syste$r$
+### Systemkritisch
+- kritik an bestehenden Machtverhaeltnissen
+-> wandelt sich zu **Fundamentalkritik** um:
+- "zerstörerisches" Herrschaftssystem muss abgeschafft werden
+- 
