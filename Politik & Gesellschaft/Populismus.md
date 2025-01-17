@@ -34,4 +34,6 @@
 - kritik an bestehenden Machtverhaeltnissen
 -> wandelt sich zu **Fundamentalkritik** um:
 - "zerstörerisches" Herrschaftssystem muss abgeschafft werden
-- 
+
+## Resultat
+- der **Populist** se
