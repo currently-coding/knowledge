@@ -31,9 +31,10 @@
 - **charismatische** Führungspersonen(/Idole)
 
 ### Systemkritisch
-- kritik an bestehenden Machtverhaeltnissen
+- Kritik an bestehenden Machtverhältnissen
 -> wandelt sich zu **Fundamentalkritik** um:
 - "zerstörerisches" Herrschaftssystem muss abgeschafft werden
 
 ## Resultat
-- der **Populist** se
+- der **Populist** setzt als **einziger** den **Willen des Volkes** durch
+=> ist der **Retter**/**einzig legitime Volksvertretung**
