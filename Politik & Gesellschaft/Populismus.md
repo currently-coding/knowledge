@@ -15,8 +15,8 @@
 
 ## Merkmale
 ### antipluralistisch
->[!Das Volk]
->Populisten sehen "das Volk" als eine Einheit an, ohne innergesellschaftliche Unterschiede -> Nur **eine Meinung**
+>[!Volk]
+>Populisten sehen *"das Volk"* als eine Einheit an, ohne innergesellschaftliche Unterschiede -> Nur **eine Meinung**
 ###
 ###
 ###
