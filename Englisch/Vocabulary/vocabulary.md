@@ -61,7 +61,7 @@ ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwag
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
 <!--SR:!2025-10-31,314,357!2025-04-16,158,322-->
 ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfahr, Ahnin
-<!--SR:!2025-11-10,324,357!2025-01-16,34,302-->
+<!--SR:!2025-11-10,324,357!2025-06-09,142,322-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) ::: jährlich, alljährlich, einjährig
 <!--SR:!2025-11-13,327,359!2024-12-21,73,339-->
 to merge(verb) (In the author's new book reality and fantasy merge seamlessly., The company plans to merge its two subsidiaries., He merged several documents into a single file., The company's subsidiaries merged last year., In the book, reality and fantasy merge seamlessly., The company's two subsidiaries have been merged., The two main roads merge at the next intersection.) ::: verschmelzen, fusionieren, zusammenfügen
@@ -171,7 +171,7 @@ prosperity(noun) (His whole family lived in prosperity., I wished her luck and p
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
 <!--SR:!2026-03-22,433,371!2025-01-22,91,373-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
-<!--SR:!2025-05-06,165,353!2025-01-17,87,375-->
+<!--SR:!2025-05-06,165,353!2026-04-10,447,395-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 <!--SR:!2026-04-02,442,395!2025-02-01,101,373-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
@@ -185,7 +185,7 @@ Distribution(noun) () ::: distribution
 to a large extent(adverb) () ::: in hohem Maße, zum großen Teil, in hohem Ausmaß
 <!--SR:!2025-12-31,369,371!2025-08-26,248,352-->
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
-<!--SR:!2025-02-01,102,376!2025-01-08,77,352-->
+<!--SR:!2025-02-01,102,376!2026-01-31,378,372-->
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
 <!--SR:!2025-01-28,97,375!2025-01-21,91,373-->
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
@@ -193,13 +193,11 @@ memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig,
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
 <!--SR:!2025-09-03,272,373!2025-01-27,97,375-->
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
-<!--SR:!2025-01-16,85,373!2025-01-25,97,375-->
+<!--SR:!2026-03-28,434,393!2025-01-25,97,375-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
 <!--SR:!2025-09-04,269,373!2025-10-13,290,355-->
 recipient(adjective) () ::: empfangsbereit
 <!--SR:!2025-07-14,224,352!2025-01-28,97,375-->
-electronic(adjective) (The flight attendant asked to turn off all electronic devices., His telephone interfered with the electronic equipment., An inverter is an electronic component.) ::: elektronisch
-<!--SR:!2025-01-09,81,373!2025-01-21,94,375-->
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
 <!--SR:!2025-01-08,80,372!2025-01-25,95,375-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
