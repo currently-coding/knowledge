@@ -13,7 +13,7 @@ ${} \text{n}(H_{2}SO_{4}) = V(H_{2}SO_{4}) \cdot c(H_{2}SO_{4}) \implies \text{n
 $\implies \text{n}(NaOH) = 2 \cdot 0.0047\text{mol} = 0.0094\text{mol}$
 
 
-# S. 63-1
+# S. 63-1 - **Achtung Fehler**
 geg.: $V(H_{3}PO_{4}) = 15mL, c(NaOH) = 0.5 \frac{\text{mol}}{\text{L}}, V(NaOH) = 22.3\text{mL}$
 ges.: $c(H_{3}PO_{4})$
 Lösung:
