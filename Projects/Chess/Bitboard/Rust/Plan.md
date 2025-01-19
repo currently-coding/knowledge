@@ -186,3 +186,16 @@ fn generate_pawn_moves(white_pawns: u64, empty_squares: u64, enemy_pieces: u64, 
 - **Optimize with bitwise operations and precomputed data.**
 
 This detailed approach lays the groundwork for robust and efficient move generation. Further steps can extend this logic into full-featured move legality and gameplay.
+
+
+
+
+0111011**0**0111
+0000000**1**0000
+OR
+0111011**1**0111
+
+0111011**0**0111
+0000000**1**0000
+AND
+0111011**0**0111
