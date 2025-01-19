@@ -227,4 +227,14 @@ AND
 0111011**0**0111
 
 
+000010000000(Board)
+011111100000(Path)
+AND
+000010000000(Result)
+011111100000(Path)
+XOR
+011101100000(Result 2)
+
+if result2 != path -> remove move
+
 
