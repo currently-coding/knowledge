@@ -18,4 +18,5 @@
 - revert to `History.history[History.move_number-1]`
 
 
-### Generate_Moves
+### Generate_Moves 
+- returns a `u64` with all the end positions 
