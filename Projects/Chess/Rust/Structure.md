@@ -11,3 +11,11 @@
 ### History
 - history: `[GameState; u64]`
 - move_number: `u64`
+
+
+## Behaviour
+### Undo_Move
+- revert to `History.history[History.move_number-1]`
+
+
+### Generate_Moves
