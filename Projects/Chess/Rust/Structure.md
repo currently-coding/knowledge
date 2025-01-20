@@ -5,4 +5,4 @@
 ### GameState
 - en_passant:
 - castling:
-- 
+- active_color: `[Color]`
