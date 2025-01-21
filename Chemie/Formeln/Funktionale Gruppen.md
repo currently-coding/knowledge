@@ -14,3 +14,6 @@ $COOH$ ::: Carboxy-gruppe
 
 ![[Pasted image 20250121154311.png]] ::: Aldehyd (polar, oxidierbar(->reduzierend))
 
+![[Pasted image 20250121154421.png]] ::: -en, Alken (kann Brom addieren)
+
+![[Pasted image 20250121154501.png]] ::: Alkohol, Hydroxyl-..., ...-ol (polar, lässt sich mit Säuren verestern)
