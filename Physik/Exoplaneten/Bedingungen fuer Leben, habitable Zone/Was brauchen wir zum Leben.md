@@ -1,3 +1,0 @@
-- gleichmäßiges Klima
-- korrekte Temperatur
-- unverstrahlt
