@@ -1,8 +1,0 @@
-- Ambitus
-	- ab `Octave`: `Octave` + `anderes Intervall`
-- Musikalische Schwerpunkte innerhalb des Ambitus
-- konkreter Verlauf der Tonhoehen(sprunghaft <-> linear)
-- konkreter Verlauf der Dynamik(wechselhaft <-> konstant)
-- konkreter Verlauf der Notenwerte(wechselhaft <-> konstant)(Bsp: Off-Beats)
-- Agogik
-- Artikulation
