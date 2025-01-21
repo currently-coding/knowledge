@@ -1,2 +1,0 @@
-- describes Runtime with regard to the input length
-- abstracts from specific inputs and considers runtime for all inputs of a certain length
