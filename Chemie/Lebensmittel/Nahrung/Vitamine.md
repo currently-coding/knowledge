@@ -1,1 +1,0 @@
-- Funktionsstoffe fuer Enzyme
