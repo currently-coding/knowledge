@@ -1,2 +1,0 @@
-- naechster Exoplanet: `Proxima Centauri b`
-	- 4 Lichtjahre entfernt
