@@ -1,6 +1,0 @@
----
-tags:
-  - physik
-aliases:
----
-
