@@ -12,7 +12,7 @@
 + + radikaler Nationalismus
 + + Fremdenfeindlichkeit
 	+ Kriminalität -> kriminelle Ausländer
-+ 
++ "rettet" den "zerfallenden" Stt
 ### Links
 - sozioökonomische Definitionsmerkmale um "Volk" von "Anderen" zu unterscheiden
 ##### Addressierte Aengste
