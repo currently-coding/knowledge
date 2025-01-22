@@ -12,7 +12,8 @@
 + + radikaler Nationalismus
 + + Fremdenfeindlichkeit
 	+ Kriminalität -> kriminelle Ausländer
-
+### Links
+- sozio-oekonomische Definitionsmerkmale um "Volk" von "Anderen" zu unterscheiden
 ## Merkmale
 ### antipluralistisch
 >[!Volk]
