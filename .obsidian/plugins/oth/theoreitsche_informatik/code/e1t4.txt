@@ -1,0 +1,19 @@
+## Beweis
+
+Behauptung: Funktion berechnet $$f(x)=x^y$$ fuer x, y > 0, sonst 1
+Begruendung:
+
+- Fuer x <= 0 und y <= 0 -> vergleich in zeile 3 falsch -> gilt
+- Fuer x > 0 und y > 0 ->
+
+### Induktion
+
+#### BC
+
+y = 0: x^y = 1 -> gilt. siehe fall vorher(x, y <= 0)
+
+#### IS
+
+- Annahme: wir nehmen als Induktionsvorrausetzung(IH) an:
+  - Fuer ein y >= 0 und alle x >= 0, berechnet die Funktion $(x)^{(y-1)}$ fuer eingaben (x, y-1)
+    Zu zeigen: Unter dieser annahme berechnet das Programm auf eingabe (x, y) die Zahl x^y
