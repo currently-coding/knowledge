@@ -9,9 +9,10 @@
 ## Wer nutzt Populismus
 - alle politischen Lager
 #### Rechts
-+ + radikaler Nationalismus
-+ + Fremdenfeindlichkeit
-	+ Kriminalität -> kriminelle Ausländer
+- **ethnisiert** Probleme
+	-  radikaler Nationalismus
+	-   Fremdenfeindlichkeit
+		+ Kriminalität -> kriminelle Ausländer
 + "rettet" den "zerfallenden" Staat
 ### Links
 - sozioökonomische Definitionsmerkmale um "Volk" von "Anderen" zu unterscheiden
