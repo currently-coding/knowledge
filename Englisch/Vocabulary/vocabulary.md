@@ -213,7 +213,7 @@ greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashau
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
 <!--SR:!2025-09-02,271,372!2026-01-02,343,375-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
-<!--SR:!2025-10-25,308,376!2025-01-13,82,353-->
+<!--SR:!2025-10-25,308,376!2026-02-26,398,373-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
 <!--SR:!2025-02-01,101,376!2025-01-15,87,353-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
