@@ -6,7 +6,7 @@
     "convertFoldersToDecks": true,
     "burySiblingCards": true,
     "randomizeCardOrder": null,
-    "flashcardCardOrder": "DueFirstSequential",
+    "flashcardCardOrder": "EveryCardRandomDeckAndCard",
     "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
@@ -328,7 +328,8 @@
     "7dfef73008bd7",
     "2d0f37d9b3cea",
     "1d1bbf32d90509",
-    "62c76a34657b8"
+    "62c76a34657b8",
+    "6ced3adb9e539"
   ],
   "historyDeck": null
 }
