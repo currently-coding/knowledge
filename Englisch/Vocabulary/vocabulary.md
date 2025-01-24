@@ -217,9 +217,9 @@ to stake(verb) () ::: einsetzen, abstecken, pfählen
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
 <!--SR:!2025-02-01,101,376!2026-03-21,421,373-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
-<!--SR:!2025-02-02,102,376!2025-01-08,81,353-->
+<!--SR:!2025-02-02,102,376!2026-02-21,393,373-->
 versus(noun) () ::: Rückseite einer Münze
-<!--SR:!2025-09-27,288,376!2025-01-16,86,352-->
+<!--SR:!2025-09-27,288,376!2026-03-16,416,372-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2025-06-02,192,353!2025-01-29,101,375-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
@@ -261,7 +261,7 @@ vague(adjective) (Initially, our world trip was just a vague idea., With such va
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
 <!--SR:!2025-01-18,86,381!2025-01-09,78,357-->
 to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen
-<!--SR:!2025-01-28,95,389!2025-01-19,91,377-->
+<!--SR:!2025-01-28,95,389!2026-05-09,470,397-->
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
 <!--SR:!2025-01-11,79,361!2025-12-28,358,377-->
 to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
@@ -410,7 +410,7 @@ to address oneself to(verb) () ::: sich etw. widmen
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
 <!--SR:!2025-03-06,124,387!2025-01-25,94,385-->
 consult(noun) () ::: Befragung
-<!--SR:!2025-01-13,72,349!2025-01-10,75,345-->
+<!--SR:!2025-01-13,72,349!2026-01-14,355,365-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
 <!--SR:!2025-02-25,115,389!2025-04-23,165,387-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
