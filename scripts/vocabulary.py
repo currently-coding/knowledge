@@ -17,7 +17,7 @@ closure_end = "}}"
 
 output_with_examples = (True, False)
 separator = ":::"
-amount_of_words_per_execution = 0
+amount_of_words_per_execution = 3
 
 # ================================
 

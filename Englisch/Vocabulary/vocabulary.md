@@ -215,7 +215,7 @@ stake(noun) (A few investors hold a stake in our company., My company owns a sma
 to stake(verb) () ::: einsetzen, abstecken, pfählen
 <!--SR:!2025-10-25,308,376!2026-02-26,398,373-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
-<!--SR:!2025-02-01,101,376!2025-01-15,87,353-->
+<!--SR:!2025-02-01,101,376!2026-03-21,421,373-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
 <!--SR:!2025-02-02,102,376!2025-01-08,81,353-->
 versus(noun) () ::: Rückseite einer Münze
