@@ -211,7 +211,7 @@ to receive(verb) (I am not receiving inbound messages., Thank you very much for 
 greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashaus, Treibhaus
 <!--SR:!2026-04-16,447,395!2025-01-27,96,373-->
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
-<!--SR:!2025-09-02,271,372!2025-01-20,92,375-->
+<!--SR:!2025-09-02,271,372!2026-01-02,343,375-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
 <!--SR:!2025-10-25,308,376!2025-01-13,82,353-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
