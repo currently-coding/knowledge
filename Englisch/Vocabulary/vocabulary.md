@@ -15,7 +15,7 @@ to accommodate(verb) (We accommodated six refugees in our house., Our hotel can 
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
 <!--SR:!2025-04-18,160,310!2025-08-09,210,322-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
-<!--SR:!2025-01-19,89,299!2025-04-02,139,316-->
+<!--SR:!2026-02-01,373,319!2025-04-02,139,316-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
 <!--SR:!2025-10-01,293,342!2025-03-24,142,319-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
@@ -53,7 +53,7 @@ to aid(verb) (We need to aid those in need., Some foods aid digestion., Some typ
 alongside(preposition) (I love walking alongside the river.) ::: neben, entlang, längs, lang
 <!--SR:!2025-06-20,209,322!2025-08-08,249,336-->
 alongside(adverb) () ::: daneben, Seite an Seite, an der Seite, nebenher, längsseits
-<!--SR:!2025-01-21,91,302!2025-09-28,290,357-->
+<!--SR:!2026-02-06,378,322!2025-09-28,290,357-->
 altogether(adverb) (He needed two hours to finish his project altogether., Altogether my friend owed me sixty euros., I was not altogether sure whether I wanted to go to the party., Altogether it was a nice party.) ::: insgesamt, im Ganzen, alles in allem
 <!--SR:!2025-09-25,289,342!2025-09-09,277,356-->
 ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwagen, Ambulanz, Rettungswagen
@@ -93,7 +93,7 @@ current affairs(noun) () ::: aktuelle Ereignisse, Zeitgeschehen, aktuelle Themen
 fund(noun) (The city set up a fund to help the homeless., The charity is responsible for the disbursement of the fund., We need to find enough funds to build this hospital.) ::: Fonds, Investmentfonds, Geldmittel
 <!--SR:!2026-02-17,409,379!2026-01-24,390,370-->
 to fund(verb) (The project is funded by private sponsors only., The government is funding a new large-scale research project.) ::: finanzieren, anlegen, investieren
-<!--SR:!2025-10-27,317,370!2025-01-22,60,339-->
+<!--SR:!2025-10-27,317,370!2025-10-31,280,359-->
 deforestation(noun) () ::: Entwaldung, Abholzung, Rodung
 <!--SR:!2025-11-03,323,371!2025-12-18,358,366-->
 mechanization(noun) () ::: Mechanisierung, Technisierung
@@ -129,7 +129,7 @@ to launch(verb) (The space agency will launch a rocket next month., The company 
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
 <!--SR:!2025-11-29,343,366!2026-01-25,386,377-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) ::: Lebensunterhalt, Lebensgrundlage, Existenz
-<!--SR:!2025-08-19,261,358!2025-01-21,16,286-->
+<!--SR:!2025-08-19,261,358!2025-01-31,7,266-->
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) ::: gedeihen, florieren, aufblühen
 <!--SR:!2026-01-19,380,366!2026-01-04,373,377-->
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) ::: Verzierung, Schnörkel, Fanfare
@@ -163,13 +163,13 @@ wealth(noun) (Thanks to his wealth, he can buy anything he likes., The book cont
 tax(noun) (People who earn money have to pay taxes on their income., Students are not exempt from tax., As he did not earn a lot, he hardly had to pay any taxes.) ::: Steuer, Abgabe, Zins
 <!--SR:!2025-10-18,309,371!2026-01-29,390,370-->
 to tax(verb) (The government decided to tax corporate profits., He taxed her patience for hours.) ::: besteuern, strapazieren, versteuern
-<!--SR:!2025-04-21,158,330!2025-01-19,97,357-->
+<!--SR:!2025-04-21,158,330!2026-05-14,475,377-->
 recession(noun) (The recession is over and unemployment is declining., The boom after the recession meant many new jobs for the unemployed., The company registered a recession in sales., We have now overcome the recession and business is booming.) ::: Rezession, Rückgang, Flaute
 <!--SR:!2025-11-02,322,370!2026-01-08,377,377-->
 prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
 <!--SR:!2024-12-07,55,310!2025-08-20,261,359-->
 to accelerate(verb) (New scientific findings accelerated our research., Thanks to the new product, the company's growth accelerated last year.) ::: beschleunigen, sich beschleunigen, vorantreiben
-<!--SR:!2026-03-22,433,371!2025-01-22,91,373-->
+<!--SR:!2026-03-22,433,371!2026-05-04,465,393-->
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2025-05-06,165,353!2026-04-10,447,395-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
