@@ -26,10 +26,8 @@ $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B
 <!--SR:!2025-02-16,53,214-->
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 <!--SR:!2025-07-18,205,317-->
-$A \setminus B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
-<!--SR:!2025-06-06,163,297-->
-$A - B$ := $A \setminus B$ (Difference of A and B)
-<!--SR:!2025-02-17,90,294-->
+$A \setminus B$ oder $A - B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
+<!--SR:!2025-01-29,4,304-->
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 <!--SR:!2025-05-22,148,274-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
@@ -47,9 +45,7 @@ $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
 ## Quantifiers
 $\exists$ := “there exist(s)”
-<!--SR:!2025-01-03,67,314-->
 $\forall$ := “for all”
-<!--SR:!2025-08-15,233,337-->
 ## Functions
 ### Definition 1.1
 $f : A \to B$ is determined by the source set (aka domain) $A$, the target set (aka codomain) $B$, and the graph $G_f \subseteq A \times B$, where for every $a \in A$ there is at most one $b \in B$ with $(a, b) \in G_f$
