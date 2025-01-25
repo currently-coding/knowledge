@@ -6,4 +6,10 @@
 **Über-/Unterordnungsprinzip**:
 -> Staat dem Bürger übergeordnet
 
-## {ei}
+## Beispiele
+| Situation                 | Begründung                            | Recht         |     |
+| ------------------------- | ------------------------------------- | ------------- | --- |
+| Einkommensteuererklaerung | Beziehung Bueger <-> Staat(Finanzamt) | Steuerrecht   |     |
+| Radarkontrolle            | Buerger <-> Staat(Polizei)            | Verkehrsrecht |     |
+| Verkehrsrecht<br>         | Fahrlässigkeit: Staat <-> Bürger      |               |     |
+| Hundesteuer               |                                       |               |     |
