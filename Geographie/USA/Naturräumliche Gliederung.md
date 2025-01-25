@@ -3,4 +3,4 @@
 ![[Appalachen]]
 ![[Atlantische Kuestenebene]]
 ![[Interior Plains]]
-	- ![[Geographie/USA/Great Plains/Allgemein|Allgemein]]
+	- ![[Great Plains|Great Plains]]
