@@ -245,7 +245,7 @@ to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
 <!--SR:!2025-01-15,87,377!2025-07-15,206,365-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
-<!--SR:!2025-02-12,98,367!2025-01-12,81,357-->
+<!--SR:!2025-02-12,98,367!2026-02-27,398,377-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2026-01-19,377,387!2025-01-07,25,297-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
@@ -281,7 +281,7 @@ broad(adjective) (His broad shoulders make him look stronger than he is., We off
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
 <!--SR:!2025-02-10,106,379!2025-01-23,92,377-->
 canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße
-<!--SR:!2025-01-12,85,377!2025-01-29,97,379-->
+<!--SR:!2026-04-09,439,397!2025-01-29,97,379-->
 convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) ::: Komfort, Bequemlichkeit, Nutzen
 <!--SR:!2025-09-24,277,368!2025-06-14,200,357-->
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern
@@ -362,7 +362,7 @@ wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
 <!--SR:!2026-01-12,373,387!2025-01-30,95,389-->
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
-<!--SR:!2025-02-01,91,368!2025-01-25,94,381-->
+<!--SR:!2025-02-01,91,368!2026-05-30,490,401-->
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
 <!--SR:!2025-02-13,108,389!2025-09-17,264,345-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
@@ -1187,7 +1187,7 @@ Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := diff
 Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
 <!--SR:!2024-12-14,4,375-->
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
-<!--SR:!2024-12-14,4,375-->
+<!--SR:!2025-01-27,2,355-->
 Synthese(noun) (Die Synthese dieser Ideen führte zu einer neuen Theorie.) := synthesis, combination, integration, merge
 <!--SR:!2024-12-14,4,375-->
 Empirie(noun) (Empirie ist ein zentraler Bestandteil dieser Untersuchung.) := empiricism, observational evidence, experiential data
@@ -1223,7 +1223,7 @@ diskreditieren(verb) (Die Kritik sollte die Argumente nicht diskreditieren.) := 
 substantiieren(verb) (Er konnte seine These mit Beweisen substantiieren.) := to substantiate, to provide evidence for, to validate
 <!--SR:!2024-12-11,1,355-->
 evaluieren(verb) (Die Methode wurde im Detail evaluiert.) := to evaluate, to assess, to appraise
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-26,1,335-->
 antizipieren(verb) (Er antizipierte die möglichen Probleme.) := to anticipate, to foresee, to predict
 <!--SR:!2024-12-14,4,375-->
 deduzieren(verb) (Aus den Fakten kann man eine Schlussfolgerung deduzieren.) := to deduce, to infer, to conclude
