@@ -1,0 +1,5 @@
+> Das **Tertiär** war ein Erdzeitalter im Rang eines Systems (beziehungsweise einer Periode), das den älteren und weitaus längeren Abschnitt des Känozoikums (der Erdneuzeit) umfasste. Es begann am Ende der Kreidezeit vor 66 Millionen Jahren und dauerte bis zum Beginn des Quartärs vor 2,6 Millionen Jahren. Das Klima auf der Erde war im Tertiär wesentlich wärmer als heute. Nach dem Massenaussterben der großen Saurier und vieler anderer Tierarten am Ende der Kreidezeit entwickelte sich hauptsächlich im Tertiär die Tier- und Pflanzenwelt, wie wir sie heute kennen.
+>
+> Die Bezeichnung Tertiär soll innerhalb der offiziellen geologischen Zeitskala nicht mehr gebraucht werden. In der Praxis (auch in der Lehre) wird sie aber oft noch verwendet. Die aktuelle Konvention teilt das Tertiär in zwei Zeitalter und verwendet die Begriffe Paläogen für das ältere (66 bis 23.03 mya) und Neogen für das jüngere (23.03 bis 2.588 mya).
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Terti%C3%A4r)
