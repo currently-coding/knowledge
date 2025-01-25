@@ -231,7 +231,7 @@ to dive(verb) (He dives in order to explore the underwater world., I love diving
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
 <!--SR:!2025-01-26,95,373!2025-01-27,97,375-->
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
-<!--SR:!2025-01-20,90,373!2025-11-07,315,375-->
+<!--SR:!2026-04-30,460,393!2025-11-07,315,375-->
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
 <!--SR:!2026-02-07,399,393!2025-01-27,96,375-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
@@ -277,7 +277,7 @@ construct(noun) (So far the idea is nothing more than a construct.) ::: Gedanken
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
 <!--SR:!2025-01-24,92,357!2025-02-15,110,387-->
 broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit
-<!--SR:!2025-01-24,93,379!2025-01-20,92,377-->
+<!--SR:!2026-05-21,481,399!2025-01-20,92,377-->
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
 <!--SR:!2025-02-10,106,379!2025-01-23,92,377-->
 canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße
@@ -1227,7 +1227,7 @@ evaluieren(verb) (Die Methode wurde im Detail evaluiert.) := to evaluate, to ass
 antizipieren(verb) (Er antizipierte die möglichen Probleme.) := to anticipate, to foresee, to predict
 <!--SR:!2024-12-14,4,375-->
 deduzieren(verb) (Aus den Fakten kann man eine Schlussfolgerung deduzieren.) := to deduce, to infer, to conclude
-<!--SR:!2024-12-28,27,410-->
+<!--SR:!2025-06-24,150,430-->
 akkumulieren(verb) (Mit der Zeit akkumuliert sich das Wissen in diesem Bereich.) := to accumulate, to gather, to amass
 <!--SR:!2024-12-14,4,375-->
 diskutieren(verb) (Die Teilnehmer diskutierten über die Ergebnisse.) := to discuss, to debate, to deliberate
