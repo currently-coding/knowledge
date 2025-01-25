@@ -1,3 +1,3 @@
-1. [[Gleichheit]]
-2. [[Billigkeit]]
-3. [[Rechtssicherheit]]
+1. ![[Gleichheit]]
+2. ![[Billigkeit]]
+3. ![[Rechtssicherheit]]
