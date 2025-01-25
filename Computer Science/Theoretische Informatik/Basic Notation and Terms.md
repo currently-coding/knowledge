@@ -9,12 +9,12 @@
 
 ## Set
 ### Definition
-$\mathbb{N}$ := $\{0, 1, \ldots\}$ (Set of natural numbers)
-$\mathbb{N}^+$ := $\{1, 2, \ldots\}$ (Set of positive natural numbers)
-$\mathbb{P}$ := $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
-$\emptyset$ := empty set
+$\mathbb{N}$ = $\{0, 1, \ldots\}$ (Set of natural numbers)
+$\mathbb{N}^+$ = $\{1, 2, \ldots\}$ (Set of positive natural numbers)
+$\mathbb{P}$ = $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
+$\emptyset$ = empty set
 **Important: $0$ is a natural number.**
-For $x \in N$, $y \in N^+$ let $(x \mod y)$ := $x - zy$, where $z \in N$ is the greatest number with $zy \leq x$. (just a reminder)
+For $x \in N$, $y \in N^+$ let $(x \mod y)$ = $x - zy$, where $z \in N$ is the greatest number with $zy \leq x$. (just a reminder)
 ### Element relationship and inclusion
 $a \in M$ means $a$ is an element of the set $M$
 $a \notin M$ means $a$ is no element of the set $M$
@@ -44,8 +44,8 @@ $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of
 <!--SR:!2025-06-27,184,314-->
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
 ## Quantifiers
-$\exists$ := “there exist(s)”
-$\forall$ := “for all”
+$\exists$ = “there exist(s)”
+$\forall$ = “for all”
 ## Functions
 ### Definition 1.1
 $f : A \to B$ is determined by the source set (aka domain) $A$, the target set (aka codomain) $B$, and the graph $G_f \subseteq A \times B$, where for every $a \in A$ there is at most one $b \in B$ with $(a, b) \in G_f$
@@ -63,7 +63,7 @@ $f$ is total ::: $D_f = A$
 $f$ is surjective ::: $R_f = B$
 <!--SR:!2025-02-19,96,298!2025-03-17,111,294-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
-<!--SR:!2025-01-11,17,238!2025-03-01,106,294-->
+<!--SR:!2025-03-23,57,258!2025-03-01,106,294-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
 <!--SR:!2025-01-04,68,314!2025-01-09,69,318-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.

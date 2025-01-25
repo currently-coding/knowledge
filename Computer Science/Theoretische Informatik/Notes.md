@@ -21,7 +21,7 @@ $\alpha' = (\epsilon + 1)(01)^*(\epsilon + 0)$
 Pumping Lemma:
 Beweis:
 - Sei $L \in REG \implies$ nach 3.28 es existiert $DFA = (\sum, S, \delta, s_0, F)$ mit $L(A) = L$
-- Wir wählen $k := |S|$ und zeigen, dass $L$ 3-pumpbar ist
+- Wir wählen ${} k = |S| {}$ und zeigen, dass $L$ 3-pumpbar ist
 <!--SR:!2025-01-10,16,290-->
 - Sei $w \in L$ mit $|w| \geq k$ 
 - Also $w = a_1 a_2 ....a_m$ mit $m \geq k$ und $a_1, a_2, ..., a_m \in \sum$
@@ -31,12 +31,9 @@ Beweis:
 => aus $|S| < k+1$ folgt, dass min. zwei der $q_0, ..., q_k$ gleich sind
 d.h. es existiert $i, j$ mit $0 \leq i \lt j \leq k$ und $q_i = q_j$
 - -> zwischen $i$ und $j$ wurde einmal im Kreis gelaufen
-$x := a_1 ... a_i$
-<!--SR:!2024-12-26,1,232-->
-$y := a_{i+1}...a_j$
-<!--SR:!2024-12-26,1,232-->
-$z := a_{j+1}...a_m$
-<!--SR:!2024-12-26,1,232-->
+$x = a_1 ... a_i$
+$y = a_{i+1}...a_j$
+$z = a_{j+1}...a_m$
 
 
 Damit gilt:
