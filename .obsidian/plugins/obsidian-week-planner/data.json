@@ -1,0 +1,6 @@
+{
+  "workingDays": "Mon,Tue,Wed,Thu,Fri,Sat,Sun",
+  "baseDir": "Week Planner",
+  "daysDir": "Days",
+  "weeksDir": "Weeks"
+}
