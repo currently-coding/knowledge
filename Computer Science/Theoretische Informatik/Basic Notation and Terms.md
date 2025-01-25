@@ -15,6 +15,7 @@ $\mathbb{P}$ = $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
 $\emptyset$ = empty set
 **Important: $0$ is a natural number.**
 For $x \in N$, $y \in N^+$ let $(x \mod y)$ = $x - zy$, where $z \in N$ is the greatest number with $zy \leq x$. (just a reminder)
+
 ### Element relationship and inclusion
 $a \in M$ means $a$ is an element of the set $M$
 $a \notin M$ means $a$ is no element of the set $M$
@@ -36,7 +37,7 @@ $\#A$ or $|A|$ ::: number of elements of a finite set A
 <!--SR:!2025-06-12,169,310!2024-12-13,46,299-->
 ## Tuple
 $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in this order (n-tuple, n-dimensional vector)
-<!--SR:!2024-12-29,67,314-->
+<!--SR:!2025-11-12,291,334-->
 ### Cartesian Products
 $A_1 \times A_2 \times \ldots \times A_n$ := $\{(a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ for all } i\}$ (Cartesian product of sets $A_1,A_2, \ldots, A_n$)
 <!--SR:!2025-03-14,119,297-->
@@ -65,6 +66,6 @@ $f$ is surjective ::: $R_f = B$
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
 <!--SR:!2025-03-23,57,258!2025-03-01,106,294-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
-<!--SR:!2025-01-04,68,314!2025-01-09,69,318-->
+<!--SR:!2025-01-04,68,314!2025-11-26,305,338-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.
 <!--SR:!2025-02-22,95,298-->
