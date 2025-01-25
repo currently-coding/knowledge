@@ -1,9 +1,7 @@
-1.
-<!--SR:!2024-11-24,4,270-->Encoding of individual RAM instructions:
+1. Encoding of individual RAM instructions:
 ![[Pasted image 20241106161040.png]]
 2. Encoding of RAM $M$ with instructions $b_1, ..., b_s$:
-$\langle M \rangle$ := $\langle \langle b_1 \rangle, ..., \langle b_s \rangle \rangle$($b_{1}, ...$ are instructions) (Code einer RAM)
-<!--SR:!2024-12-28,15,290-->
+$\langle M \rangle$ = $\langle \langle b_1 \rangle, ..., \langle b_s \rangle \rangle$($b_{1}, ...$ are instructions) (Code einer RAM)
 3. For $i \in \mathbb{N}$ let 
 $$
  
