@@ -8,4 +8,5 @@
 ## Probleme
 - hoher Wasserverbrauch bei Futtermittelanbau (s. [[Ogallala Aquifer|Grundwasserprobleme]])
 - [[Ogallala Aquifer|Grundwasser]] wird durch Gülle belastet
+- Methanausstoss -> Klimawandel
 - 
