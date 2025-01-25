@@ -25,6 +25,7 @@
 13. Wähle `DELETE ALL YOUR LOCAL CONFIG AND PLUGINS` aus.
 14. Klonen des Repositorys abgeschlossen
 15. Schließe Obsidian und öffne es erneut
-16. 
+16. `Ctrl + p` -> `open another vault` -> `open`
+17. Suche nach dem anfangs festgelegtem Ordner aus 1. und wähle in diesem den Ordner `Knowledge` aus. 
 
 Die Einrichtung des lesenden Zugriffs ist nun abgeschlossen. Der Vault wird sich automatisch updaten und immer die neueste Version von Dateien beinhalten. Alte Versionen koennen ueber die Website wiederhergestellt werden.
