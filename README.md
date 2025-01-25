@@ -8,7 +8,7 @@
 - Für schreibenden Zugriff: **API Token**
 
 ### Anleitung:
-0. Oeffne Obsidian
+0. Öffne Obsidian
 1. Wähle `Create new Vault aus`, um einen neuen Vault(=Ordner) zu öffnen.
   - Falls bereits ein Vault geöffnet ist, `<Ctrl> + p` drücken und `open another vault` auswählen.
 2. Gehe in die Einstellungen: `Ctrl + ,`
@@ -27,5 +27,7 @@
 15. Schließe Obsidian und öffne es erneut
 16. `Ctrl + p` -> `open another vault` -> `open`
 17. Suche nach dem anfangs festgelegtem Ordner aus 1. und wähle in diesem den Ordner `Knowledge` aus. 
+18. `Trust author and enable plugins` auswählen.
+19. Fertig
 
 Die Einrichtung des lesenden Zugriffs ist nun abgeschlossen. Der Vault wird sich automatisch updaten und immer die neueste Version von Dateien beinhalten. Alte Versionen koennen ueber die Website wiederhergestellt werden.
