@@ -9,4 +9,4 @@
 -> Trockenfall des Meeres
 
 ## Besonderheit
-- Grundlage des fruchtbaren Schwarzerdebodens(Boden bedeckt von angewehtem Loess oefters)
+- Grundlage des fruchtbaren Schwarzerdebodens(Boden bedeckt von angewehtem Löss)
