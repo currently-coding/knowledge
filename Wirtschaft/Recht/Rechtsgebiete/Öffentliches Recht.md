@@ -1,4 +1,4 @@
->[!Beziehung]
+>[!rechtliche Beziehung]
 >Staat <-> Bürger
 >Staat <-> Staat (jeweils Staatsorgane gemeint)
 
@@ -12,4 +12,4 @@
 | Einkommensteuererklaerung | Beziehung Bueger <-> Staat(Finanzamt) | Steuerrecht   |     |
 | Radarkontrolle            | Buerger <-> Staat(Polizei)            | Verkehrsrecht |     |
 | Verkehrsrecht<br>         | Fahrlässigkeit: Staat <-> Bürger      |               |     |
-| Hundesteuer               |                                       |               |     |
+| Hundesteuer               | Staat(Kommune) <-> Bürger             | Hundesteuer   |     |
