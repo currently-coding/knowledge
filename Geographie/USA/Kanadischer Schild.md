@@ -2,4 +2,9 @@
 [[Präkambrium]](=Erdentstehung)
 -> ältester Teil Amerikas
 
-- Seit [[Zeitalter]]
+- Seit [[Paläozoikum]]: *ständige Abtragung*
+-> Gestein des Grundgebirges tritt hervor
+
+- [[Pleistozän]]
+	- Norden Amerikas mit Inlandeis bedeckt
+	-> Abschmelzen => Zungenbecken füllen sich

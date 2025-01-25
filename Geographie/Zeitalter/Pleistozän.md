@@ -1,0 +1,5 @@
+> Das **Pleistozän** (altgriechisch πλεῖστος pleistos „am meisten“ und καινός kainos „neu“) ist ein Zeitabschnitt in der Erdgeschichte. Es begann vor etwa 2,588 Millionen Jahren und endete vor 11.650 Jahren (BP) mit dem Beginn des Holozäns, der Jetztzeit. Somit dauerte das Pleistozän etwa 2,5 Millionen Jahre.
+>
+> In der Hierarchie der chronostratigraphischen Zeiteinheiten ist das Pleistozän die untere Serie des Quartärs. Dem Pleistozän voraus ging das Pliozän. Traditionell wurde als Grenze des Pliozäns zum Pleistozän ein Alter von 1,8 Millionen Jahren angesehen. Seit dem Jahr 2009 gilt das Gelasium jedoch nicht mehr als jüngster Abschnitt des Pliozäns, sondern als ältester Abschnitt des Pleistozäns. Geprägt ist das Pleistozän vor allem durch den Wechsel von Kalt- und Warmzeiten. Nach Elbe-Kaltzeit, im Alpenraum Günz-Kaltzeit genannt, Elster-/Mindel- und Saale-/Riß-Kaltzeit wird das Pleistozän am Ende der letzten (Weichsel-/Würm-)Kaltzeit vom Holozän abgelöst, der Serie, in der wir heute leben.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Pleistoz%C3%A4n)
