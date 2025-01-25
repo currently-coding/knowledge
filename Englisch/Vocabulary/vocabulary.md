@@ -1151,7 +1151,7 @@ Evidenz(noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) := evidenc
 Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambivalence, duality, mixed feelings
 <!--SR:!2025-01-08,1,335-->
 Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inference, deduction, conclusion
-<!--SR:!2025-01-22,15,375-->
+<!--SR:!2025-03-22,56,375-->
 Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability
 <!--SR:!2025-01-23,16,375-->
 Kausalität(noun) (Die Kausalität zwischen den Ereignissen muss überprüft werden.) := causality, cause-and-effect relationship
@@ -1169,7 +1169,7 @@ Axiom(noun) (Das Axiom bildet die Grundlage der Berechnungen.) := axiom, self-ev
 Substanz(noun) (Die Substanz seiner Argumente ist überzeugend.) := substance, core, fundamental value
 <!--SR:!2025-01-08,1,335-->
 Diskrepanz(noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) := discrepancy, inconsistency, gap
-<!--SR:!2025-01-08,1,335-->
+<!--SR:!2025-01-28,3,335-->
 Hypothese(noun) (Die Hypothese wurde umfassend getestet.) := hypothesis, proposed explanation, conjecture
 <!--SR:!2025-01-10,3,326-->
 Konvergenz(noun) (Die Konvergenz der Ansichten ist bemerkenswert.) := convergence, alignment
@@ -1195,7 +1195,7 @@ Empirie(noun) (Empirie ist ein zentraler Bestandteil dieser Untersuchung.) := em
 verifizieren(verb) (Die Ergebnisse müssen verifiziert werden.) := to verify, to confirm, to validate
 <!--SR:!2024-12-14,4,375-->
 falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to refute, to disprove
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-30,5,375-->
 implizieren(verb) (Seine Worte implizieren eine Zustimmung.) := to imply, to suggest, to entail
 <!--SR:!2024-12-11,1,355-->
 extrapolieren(verb) (Die Daten erlauben es uns, zukünftige Trends zu extrapolieren.) := to extrapolate, to predict based on data, to project
