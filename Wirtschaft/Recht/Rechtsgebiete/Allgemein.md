@@ -1,0 +1,3 @@
+- aufgeteilt in **2** Gebiete
+	- [[Oeffentliches Recht]]
+	- [[Privatrecht]]
