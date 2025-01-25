@@ -10,29 +10,17 @@
 ## Set
 ### Definition
 $\mathbb{N}$ := $\{0, 1, \ldots\}$ (Set of natural numbers)
-<!--SR:!2024-12-26,64,314-->
 $\mathbb{N}^+$ := $\{1, 2, \ldots\}$ (Set of positive natural numbers)
-<!--SR:!2025-08-22,240,334-->
 $\mathbb{P}$ := $\{2, 3, 5, 7, 11, 13, 17, \ldots\}$ (Set of primes)
-<!--SR:!2025-04-09,134,314-->
-$\mathbb{Z}$ := $\{\ldots, -2, -1, 0, 1, 2, \ldots\}$ (Set of integers)
-<!--SR:!2025-09-14,263,337-->
 $\emptyset$ := empty set
-<!--SR:!2025-04-20,145,310-->
-Important: $0$ is a natural number.
+**Important: $0$ is a natural number.**
 For $x \in N$, $y \in N^+$ let $(x \mod y)$ := $x - zy$, where $z \in N$ is the greatest number with $zy \leq x$. (just a reminder)
-<!--SR:!2025-06-28,185,314-->
 ### Element relationship and inclusion
-$a \in M$ ::: $a$ is an element of the set $M$
-<!--SR:!2024-12-27,60,314!2025-09-08,257,338-->
-$a \notin M$ ::: $a$ is no element of the set $M$
-<!--SR:!2025-09-06,255,338!2024-12-31,69,317-->
-$M \subseteq N$ ::: for all $a$, if $a \in M$, then $a \in N$
-<!--SR:!2025-09-16,265,334!2024-12-13,46,298-->
-$M \not\subseteq N$ ::: it does not hold $M \subseteq N$
-<!--SR:!2025-06-22,179,318!2024-12-31,64,314-->
-$M \subsetneq N$ ::: $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
-<!--SR:!2025-04-06,131,314!2025-06-30,187,318-->
+$a \in M$ means $a$ is an element of the set $M$
+$a \notin M$ means $a$ is no element of the set $M$
+$M \subseteq N$ means for all $a$, if $a \in M$, then $a \in N$
+$M \not\subseteq N$ means it does not hold $M \subseteq N$
+$M \subsetneq N$ means $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 ### Operations
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
 <!--SR:!2025-02-16,53,214-->
