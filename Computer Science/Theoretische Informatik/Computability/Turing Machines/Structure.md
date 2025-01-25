@@ -2,10 +2,8 @@
 ## Control Unit
 - always in a state from the finite set of states $S$
 - a program $f$ controls the activity
-- start state := $s_0$
-<!--SR:!2025-01-16,51,310-->
-- stop state := $s_1$
-<!--SR:!2025-01-22,57,310-->
+- start state = $s_0$
+- stop state = $s_1$
 
 ## Tapes
 - divided into cells
@@ -16,7 +14,7 @@
 ## Heads
 - 1 per tape
 - can change field content
-- can move to neightbouring field
+- can move to neighbouring field
 
 # Working mechanism
 ## General
