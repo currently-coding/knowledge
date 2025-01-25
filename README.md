@@ -12,14 +12,17 @@
    1. Bereite den Link im folgenden Format vor:  
       `https://<API Token>@github.com/<username>/<repository>.git`  
       Beispiel: `https://<API Token>@github.com/currently-coding/school.git`
-   2. Führe in der Konsole(evtl. in `Git Bash`) folgenden Befehl aus:  
-      `git clone <link>`
 
 2. **Obsidian öffnen**
-   1. Wähle `open`, um einen Ordner als Vault zu öffnen.
+   1. Wähle `create new Vault aus`, um einen neuen Vault(=Ordner) zu öffnen.
       - Falls bereits ein Vault geöffnet ist, `<Ctrl> + P` drücken und `open another vault` auswählen.
-   2. Wähle den zuvor geklonten Ordner aus.
-   3. Bestätige mit `Trust author and enable plugins`.
+   2. Gehe in die Einstellungen: `Ctrl + ,`
+   3. Navigiere zu `Options` -> `Community Plugins`
+   4. Aktiviere `Community Plugins`
+   5. Suche nach dem `Git` community plugin und installiere es
+   6. Aktiviere das Plugin
+   7. 
+   8. Bestätige mit `Trust author and enable plugins`.
 3. Die Einrichtung des lesenden Zugriffs ist nun abgeschlossen. Der Vault wird sich automatisch updaten(alle 5min) und immer die neueste Version von Dateien beinhalten.
 
 
