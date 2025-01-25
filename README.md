@@ -8,21 +8,19 @@
 - Für schreibenden Zugriff: **API Token**
 
 ### Anleitung:
-1. **Repository klonen**
-   1. Bereite den Link im folgenden Format vor:  
-      `https://<API Token>@github.com/<username>/<repository>.git`  
-      Beispiel: `https://<API Token>@github.com/currently-coding/school.git`
+0. Oeffne Obsidian
+1. Wähle `create new Vault aus`, um einen neuen Vault(=Ordner) zu öffnen.
+  - Falls bereits ein Vault geöffnet ist, `<Ctrl> + p` drücken und `open another vault` auswählen.
+2. Gehe in die Einstellungen: `Ctrl + ,`
+3. Navigiere zu `Options` -> `Community Plugins`
+4. Aktiviere `Community Plugins`
+5. Suche nach dem `Git` community plugin und installiere es
+6. Aktiviere das Plugin
+7. Schließe die Einstellungen
+8. Öffne den `Command Prompt` mit `Ctrl + p`
+9. Suche nach `Git: Clone an existing remote repo` und wähle es aus
+10. Gib `https://<API Token>@github.com/currently-coding/knowledge.git` ein. Enter.
+11. Gib nichts ein. Enter.
+12. 
 
-2. **Obsidian öffnen**
-   1. Wähle `create new Vault aus`, um einen neuen Vault(=Ordner) zu öffnen.
-      - Falls bereits ein Vault geöffnet ist, `<Ctrl> + p` drücken und `open another vault` auswählen.
-   2. Gehe in die Einstellungen: `Ctrl + ,`
-   3. Navigiere zu `Options` -> `Community Plugins`
-   4. Aktiviere `Community Plugins`
-   5. Suche nach dem `Git` community plugin und installiere es
-   6. Aktiviere das Plugin
-   7. Schließe die Einstellungen
-   8. Öffne den `Command Prompt` mit `Ctrl + p`
-   9. Suche nach `Git: Clone an existing remote repo` und wähle es aus
-   10. 
-1. Die Einrichtung des lesenden Zugriffs ist nun abgeschlossen. Der Vault wird sich automatisch updaten und immer die neueste Version von Dateien beinhalten. Alte Versionen koennen ueber die Website wiederhergestellt werden.
+Die Einrichtung des lesenden Zugriffs ist nun abgeschlossen. Der Vault wird sich automatisch updaten und immer die neueste Version von Dateien beinhalten. Alte Versionen koennen ueber die Website wiederhergestellt werden.
