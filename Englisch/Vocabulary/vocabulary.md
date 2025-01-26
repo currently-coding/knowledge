@@ -229,7 +229,7 @@ dive(noun) () ::: Tauchen, Tauchgang, Sprung
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
 <!--SR:!2026-04-26,455,393!2025-01-22,95,375-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
-<!--SR:!2025-01-26,95,373!2025-01-27,97,375-->
+<!--SR:!2026-05-23,482,393!2025-01-27,97,375-->
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
 <!--SR:!2026-04-30,460,393!2025-11-07,315,375-->
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
@@ -243,7 +243,7 @@ piece(noun) (Each boy gets a piece of cake., After adding the last piece, the pu
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 <!--SR:!2025-01-18,90,377!2025-04-15,79,293-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
-<!--SR:!2025-01-15,87,377!2025-07-15,206,365-->
+<!--SR:!2026-04-27,456,397!2025-07-15,206,365-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
 <!--SR:!2025-02-12,98,367!2026-02-27,398,377-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
@@ -251,7 +251,7 @@ as a consequence(adverb) () ::: somit, demzufolge, folglich
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
 <!--SR:!2025-06-05,193,368!2025-02-08,94,317-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden,
-<!--SR:!2025-03-28,126,368!2025-01-14,83,357-->
+<!--SR:!2025-03-28,126,368!2025-03-09,42,337-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
 <!--SR:!2025-02-02,98,379!2025-01-13,82,377-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
@@ -328,7 +328,7 @@ yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem(Konju
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
 <!--SR:!2026-05-18,477,399!2025-02-17,112,388-->
 palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
-<!--SR:!2025-01-23,88,379!2025-02-02,101,385-->
+<!--SR:!2026-04-28,457,399!2025-02-02,101,385-->
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
 <!--SR:!2026-04-29,458,401!2025-01-19,87,379-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
@@ -400,7 +400,7 @@ one-to-one tuition(noun) () ::: Einzelunterricht
 moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
 <!--SR:!2025-12-23,353,388!2025-08-16,232,365-->
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen
-<!--SR:!2025-03-05,123,389!2025-01-18,83,367-->
+<!--SR:!2025-03-05,123,389!2026-03-19,417,387-->
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 <!--SR:!2024-12-20,59,369!2025-01-26,90,367-->
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen
@@ -408,7 +408,7 @@ to address(verb) (She addressed the letter to her son., The manager addressed th
 to address oneself to(verb) () ::: sich etw. widmen
 <!--SR:!2025-01-20,84,368!2025-12-09,336,365-->
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
-<!--SR:!2025-03-06,124,387!2025-01-25,94,385-->
+<!--SR:!2025-03-06,124,387!2026-06-04,494,405-->
 consult(noun) () ::: Befragung
 <!--SR:!2025-01-13,72,349!2026-01-14,355,365-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
@@ -420,7 +420,7 @@ ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, R
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
 <!--SR:!2025-03-29,135,387!2025-05-03,162,389-->
 home(adjective) () ::: einheimisch, inländisch
-<!--SR:!2025-01-17,85,388!2025-01-11,80,365-->
+<!--SR:!2026-04-22,451,408!2025-01-11,80,365-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
 <!--SR:!2025-04-18,160,388!2025-02-07,103,385-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
@@ -508,7 +508,7 @@ to interact(verb) (In modern computer games, you can interact with other players
 notably(adverb) (The tax reform will affect many people, notably entrepreneurs., The tax reform will benefit many, notably young people.) ::: insbesondere, besonders, vor allem
 <!--SR:!2024-12-12,20,383!2024-11-14,5,362-->
 notable(adjective) (The designer was a notable figure in the fashion world., The reform led to a notable improvement of public health., The scientist made a notable discovery., There is a notable want of teachers in my school district., The painter was a notable artist of his time., The hotel welcomes many notable guests.) ::: wichtig, deutlich, bemerkenswert
-<!--SR:!2025-01-22,61,376!2025-05-28,164,423-->
+<!--SR:!2025-12-06,314,396!2025-05-28,164,423-->
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt
 <!--SR:!2025-05-30,166,422!2025-05-21,145,423-->
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
@@ -1145,7 +1145,7 @@ circumspectly(adverb) (He approached the matter circumspectly., She circumspectl
 <!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
 ### German - English
 Zweckmäßigkeit(noun) (Die Zweckmäßigkeit dieser Methode ist fragwürdig.) := expediency, appropriateness, practicality
-<!--SR:!2025-01-08,1,290-->
+<!--SR:!2025-01-29,3,290-->
 Evidenz(noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) := evidence, clarity, self-evidence
 <!--SR:!2025-03-14,66,366-->
 Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambivalence, duality, mixed feelings
@@ -1159,11 +1159,11 @@ Kausalität(noun) (Die Kausalität zwischen den Ereignissen muss überprüft wer
 Paradigmenwechsel(noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) := paradigm shift, fundamental change
 <!--SR:!2025-05-24,137,406-->
 Kohärenz(noun) (Seine Argumentation besticht durch Kohärenz.) := coherence, consistency, logical flow
-<!--SR:!2025-01-11,4,355-->
+<!--SR:!2025-01-28,2,335-->
 Redundanz(noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) := redundancy, duplication, reliability-enhancing repetition
 <!--SR:!2025-02-22,75,386-->
 Prämisse(noun) (Die Prämisse der Theorie ist umstritten.) := premise, assumption, foundational idea
-<!--SR:!2025-01-08,1,335-->
+<!--SR:!2025-01-27,1,315-->
 
 
 Diskrepanz(noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) := discrepancy, inconsistency, gap
@@ -1195,7 +1195,7 @@ verifizieren(verb) (Die Ergebnisse müssen verifiziert werden.) := to verify, to
 falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to refute, to disprove
 <!--SR:!2025-01-30,5,375-->
 implizieren(verb) (Seine Worte implizieren eine Zustimmung.) := to imply, to suggest, to entail
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-31,5,375-->
 extrapolieren(verb) (Die Daten erlauben es uns, zukünftige Trends zu extrapolieren.) := to extrapolate, to predict based on data, to project
 <!--SR:!2025-01-28,2,355-->
 konvergieren(verb) (Die Meinungen konvergieren in einem Punkt.) := to converge, to come together, to align
@@ -1226,13 +1226,13 @@ antizipieren(verb) (Er antizipierte die möglichen Probleme.) := to anticipate, 
 deduzieren(verb) (Aus den Fakten kann man eine Schlussfolgerung deduzieren.) := to deduce, to infer, to conclude
 <!--SR:!2025-06-24,150,430-->
 akkumulieren(verb) (Mit der Zeit akkumuliert sich das Wissen in diesem Bereich.) := to accumulate, to gather, to amass
-<!--SR:!2024-12-14,4,375-->
+<!--SR:!2025-01-28,2,355-->
 diskutieren(verb) (Die Teilnehmer diskutierten über die Ergebnisse.) := to discuss, to debate, to deliberate
 <!--SR:!2025-01-31,5,375-->
 implizieren(verb) (Seine Aussage implizierte eine Zustimmung.) := to imply, to suggest, to hint at
 <!--SR:!2025-01-30,4,355-->
 rekonstruieren(verb) (Die Ereignisse wurden aus verschiedenen Berichten rekonstruiert.) := to reconstruct, to recreate, to piece together
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-27,1,335-->
 koordinieren(verb) (Die Forscher koordinierten ihre Experimente.) := to coordinate, to organize, to align
 <!--SR:!2025-01-27,1,335-->
 isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to isolate, to separate, to single out
