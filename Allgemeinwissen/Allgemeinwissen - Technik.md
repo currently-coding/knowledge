@@ -34,5 +34,6 @@ Introduction of *GPS* := 1995 - GPS became fully operational for military and ci
 Assembly Language and Compilers := 1950s - 1960s - paved the way for more complex programming
 Version Control System := 2000s - Git was created by Linus Torvalds in 2005
 Public Key Cryptography :=  1976 - Whitfield Diffie and Martin Hellman introduced public key cryptography
+<!--SR:!2025-01-27,1,229-->
 Stuxnet Worm := 2010 - marked new era of cyber-warfare
 Zero-Day-Exploits and the Rise of CyberSec := 2010s
