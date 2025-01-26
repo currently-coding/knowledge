@@ -207,7 +207,7 @@ passionate(adjective) (He gave his wife a long, passionate kiss., The two were c
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
 <!--SR:!2026-04-13,444,392!2025-12-24,353,374-->
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
-<!--SR:!2025-01-25,98,375!2026-04-14,445,392-->
+<!--SR:!2026-06-13,503,395!2026-04-14,445,392-->
 greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashaus, Treibhaus
 <!--SR:!2026-04-16,447,395!2025-01-27,96,373-->
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
@@ -301,7 +301,7 @@ to reside(verb) (My parents reside in another country., During our last vacation
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
 <!--SR:!2025-11-14,322,381!2025-02-01,97,379-->
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
-<!--SR:!2025-03-24,135,388!2025-01-13,83,379-->
+<!--SR:!2025-03-24,135,388!2026-04-01,430,399-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 <!--SR:!2025-11-06,320,379!2025-01-28,93,388-->
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
@@ -317,7 +317,7 @@ to call attention to(verb) (The speaker wants to call attention to the sensitive
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
 <!--SR:!2025-03-07,125,388!2025-11-16,324,381-->
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
-<!--SR:!2025-01-30,98,379!2025-01-25,94,385-->
+<!--SR:!2025-01-30,98,379!2026-06-05,495,405-->
 <!--SR:!2024-10-20,14,345!2024-10-22,18,361-->
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig
 <!--SR:!2025-10-29,306,368!2025-05-08,150,319-->
@@ -1149,7 +1149,7 @@ Zweckmäßigkeit(noun) (Die Zweckmäßigkeit dieser Methode ist fragwürdig.) :=
 Evidenz(noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) := evidence, clarity, self-evidence
 <!--SR:!2025-03-14,66,366-->
 Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambivalence, duality, mixed feelings
-<!--SR:!2025-01-08,1,335-->
+<!--SR:!2025-01-29,3,335-->
 Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inference, deduction, conclusion
 <!--SR:!2025-03-22,56,375-->
 Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability
@@ -1164,10 +1164,8 @@ Redundanz(noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) := re
 <!--SR:!2025-02-22,75,386-->
 Prämisse(noun) (Die Prämisse der Theorie ist umstritten.) := premise, assumption, foundational idea
 <!--SR:!2025-01-08,1,335-->
-Axiom(noun) (Das Axiom bildet die Grundlage der Berechnungen.) := axiom, self-evident truth, unproven principle
-<!--SR:!2025-02-05,10,375-->
-Substanz(noun) (Die Substanz seiner Argumente ist überzeugend.) := substance, core, fundamental value
-<!--SR:!2025-01-08,1,335-->
+
+
 Diskrepanz(noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) := discrepancy, inconsistency, gap
 <!--SR:!2025-01-28,3,335-->
 Hypothese(noun) (Die Hypothese wurde umfassend getestet.) := hypothesis, proposed explanation, conjecture
@@ -1189,7 +1187,7 @@ Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := 
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
 <!--SR:!2025-01-27,2,355-->
 Synthese(noun) (Die Synthese dieser Ideen führte zu einer neuen Theorie.) := synthesis, combination, integration, merge
-<!--SR:!2024-12-14,4,375-->
+<!--SR:!2025-02-11,16,375-->
 Empirie(noun) (Empirie ist ein zentraler Bestandteil dieser Untersuchung.) := empiricism, observational evidence, experiential data
 <!--SR:!2025-01-27,1,335-->
 verifizieren(verb) (Die Ergebnisse müssen verifiziert werden.) := to verify, to confirm, to validate
@@ -1215,17 +1213,16 @@ korrelieren(verb) (Die Variablen korrelieren miteinander.) := to correlate, to s
 quantifizieren(verb) (Es ist schwierig, den Einfluss zu quantifizieren.) := to quantify, to measure, to assess numerically
 <!--SR:!2024-12-11,1,355-->
 kontextualisieren(verb) (Die Ergebnisse müssen kontextualisiert werden.) := to contextualize, to put in context, to frame
-<!--SR:!2024-12-14,4,375-->
+<!--SR:!2025-02-17,22,395-->
 analysieren(verb) (Die Daten wurden gründlich analysiert.) := to analyze, to examine, to evaluate
 <!--SR:!2024-12-27,27,406-->
 diskreditieren(verb) (Die Kritik sollte die Argumente nicht diskreditieren.) := to discredit, to undermine, to refute
 <!--SR:!2024-12-11,1,355-->
-substantiieren(verb) (Er konnte seine These mit Beweisen substantiieren.) := to substantiate, to provide evidence for, to validate
-<!--SR:!2024-12-11,1,355-->
+
 evaluieren(verb) (Die Methode wurde im Detail evaluiert.) := to evaluate, to assess, to appraise
 <!--SR:!2025-01-26,1,335-->
 antizipieren(verb) (Er antizipierte die möglichen Probleme.) := to anticipate, to foresee, to predict
-<!--SR:!2024-12-14,4,375-->
+<!--SR:!2025-02-16,21,395-->
 deduzieren(verb) (Aus den Fakten kann man eine Schlussfolgerung deduzieren.) := to deduce, to infer, to conclude
 <!--SR:!2025-06-24,150,430-->
 akkumulieren(verb) (Mit der Zeit akkumuliert sich das Wissen in diesem Bereich.) := to accumulate, to gather, to amass
@@ -1240,6 +1237,6 @@ koordinieren(verb) (Die Forscher koordinierten ihre Experimente.) := to coordina
 <!--SR:!2025-01-27,1,335-->
 isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to isolate, to separate, to single out
 <!--SR:!2025-01-01,26,390-->pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen 
-whatsoever(adverb) () ::: überhaupt 
-fantasy(noun) (In the author's new book reality and fantasy merge seamlessly.) ::: Fantasie, Phantasie, Fantasy 
-Fantasy(noun) () ::: fantasy 
+
+ 
+
