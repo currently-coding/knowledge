@@ -193,7 +193,7 @@ memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig,
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
 <!--SR:!2025-09-03,272,373!2025-01-27,97,375-->
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
-<!--SR:!2026-03-28,434,393!2025-01-25,97,375-->
+<!--SR:!2026-03-28,434,393!2026-06-08,498,395-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
 <!--SR:!2025-09-04,269,373!2025-10-13,290,355-->
 recipient(adjective) () ::: empfangsbereit
@@ -225,7 +225,7 @@ shareholder(noun) (I am one of the shareholders of the company., Unfortunately, 
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 <!--SR:!2025-01-27,97,373!2025-02-17,22,295-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
-<!--SR:!2025-01-18,87,375!2025-01-09,81,373-->
+<!--SR:!2025-01-18,87,375!2026-03-17,415,393-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
 <!--SR:!2026-04-26,455,393!2025-01-22,95,375-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
@@ -235,11 +235,11 @@ nowadays(adverb) (Nowadays, important information is found on the internet., The
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
 <!--SR:!2026-02-07,399,393!2025-01-27,96,375-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
-<!--SR:!2025-01-26,98,375!2025-01-12,81,373-->
+<!--SR:!2026-06-12,502,395!2025-01-12,81,373-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
 <!--SR:!2025-02-01,102,376!2026-02-22,392,372-->
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
-<!--SR:!2025-01-30,99,375!2025-01-13,81,372-->
+<!--SR:!2025-01-30,99,375!2025-11-23,301,372-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 <!--SR:!2025-01-18,90,377!2025-04-15,79,293-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
@@ -253,7 +253,7 @@ to engender(verb) (The controversial film engendered a lively discussion., Mutua
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden,
 <!--SR:!2025-03-28,126,368!2025-03-09,42,337-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
-<!--SR:!2025-02-02,98,379!2025-01-13,82,377-->
+<!--SR:!2025-02-02,98,379!2026-03-25,423,397-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
 <!--SR:!2025-01-29,98,377!2025-02-04,102,379-->
 vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar
@@ -271,7 +271,7 @@ stark(adjective) (There is a stark contrast between city life and country life.,
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
 <!--SR:!2025-08-04,245,377!2025-03-16,134,387-->
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
-<!--SR:!2025-01-30,98,381!2025-01-13,85,377-->
+<!--SR:!2025-01-30,98,381!2026-04-07,436,397-->
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
 <!--SR:!2025-02-01,97,381!2026-02-14,384,377-->
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
@@ -289,7 +289,7 @@ to assure(verb) (I assured my mother that I would take care of everything., We a
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
 <!--SR:!2025-03-18,136,389!2026-05-01,460,397-->
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
-<!--SR:!2025-08-02,224,361!2025-01-09,82,377-->
+<!--SR:!2025-08-02,224,361!2026-03-24,422,397-->
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
 <!--SR:!2026-01-07,368,381!2025-04-29,129,317-->
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
@@ -313,7 +313,7 @@ to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen
 to call attention(verb) () ::: aufmerksam machen
 <!--SR:!2026-04-17,446,399!2025-02-02,98,381-->
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
-<!--SR:!2025-01-21,90,381!2025-02-06,102,379-->
+<!--SR:!2026-05-11,470,401!2025-02-06,102,379-->
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
 <!--SR:!2025-03-07,125,388!2025-11-16,324,381-->
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
@@ -344,7 +344,7 @@ thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, ho
 to thrill(verb) (The audience was thrilled by the dance performance.) ::: erfreuen, fesseln, begeistern
 <!--SR:!2025-08-07,223,367!2025-11-22,322,359-->
 harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschlupf
-<!--SR:!2025-12-10,340,379!2025-01-10,75,367-->
+<!--SR:!2025-12-10,340,379!2026-02-03,373,387-->
 to harbour(verb) (A dishcloth can harbour germs.) ::: beherbergen, bergen, hegen
 <!--SR:!2025-09-12,277,379!2025-06-25,172,368-->
 to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern
@@ -392,7 +392,7 @@ transformation(noun) (The Internet has led to a transformation of society.) ::: 
 rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellion, Aufstand, Aufruhr
 <!--SR:!2025-02-28,118,388!2025-03-12,130,388-->
 dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
-<!--SR:!2025-01-20,89,385!2025-03-12,130,388-->
+<!--SR:!2026-05-08,467,405!2025-03-12,130,388-->
 tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
 <!--SR:!2025-08-13,243,368!2025-01-29,94,385-->
 one-to-one tuition(noun) () ::: Einzelunterricht
@@ -406,7 +406,7 @@ to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen
 <!--SR:!2025-10-23,306,388!2025-02-04,100,387-->
 to address oneself to(verb) () ::: sich etw. widmen
-<!--SR:!2025-01-20,84,368!2025-12-09,336,365-->
+<!--SR:!2026-03-26,424,388!2025-12-09,336,365-->
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
 <!--SR:!2025-03-06,124,387!2026-06-04,494,405-->
 consult(noun) () ::: Befragung
@@ -424,7 +424,7 @@ home(adjective) () ::: einheimisch, inländisch
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
 <!--SR:!2025-04-18,160,388!2025-02-07,103,385-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
-<!--SR:!2025-01-26,94,389!2025-06-17,185,347-->
+<!--SR:!2026-06-10,500,409!2025-06-17,185,347-->
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
 <!--SR:!2026-04-21,450,408!2025-03-12,130,387-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
@@ -452,7 +452,7 @@ boost(noun) (The new model meant a boost to the sales., The donation gave the co
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
 <!--SR:!2025-04-01,136,389!2026-05-24,483,408-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
-<!--SR:!2025-01-18,87,387!2025-02-09,105,389-->
+<!--SR:!2026-05-02,461,407!2025-02-09,105,389-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2025-10-07,290,385!2025-02-06,102,389-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
@@ -522,7 +522,7 @@ revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The 
 revolutionary(noun) (As a revolutionary, my grandmother fought against the government's policies.) ::: Revolutionär, Revolutionärin
 <!--SR:!2024-12-17,25,403!2024-11-08,6,382-->
 astonishing(adjective / present participle) (His reading skills are astonishing for his age., She won an award for her astonishing achievement., The magic show was astonishing.) ::: umwerfend, beeindruckend, überwältigend
-<!--SR:!2025-01-10,62,373!2025-05-27,163,421-->
+<!--SR:!2025-12-09,317,393!2025-05-27,163,421-->
 to astonish(verb) (The surprising discovery astonished the scientists., The young pianist astonished the audience with his talent.) ::: erstaunen, überraschen, verblüffen
 <!--SR:!2024-11-07,5,382!2024-12-20,27,401-->
 to generate(verb) (The batteries generate power for the radio., I can generate a query for the database., The company generates high profits., The company had generated sufficient retained earnings.) ::: generieren, erzeugen, erstellen
@@ -568,7 +568,7 @@ to supervise(verb) (To ensure quality, production is constantly supervised., The
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant
 <!--SR:!2025-05-14,163,412!2025-01-29,57,382-->
 genuinely(adverb) () ::: wirklich, echt, authentisch
-<!--SR:!2025-01-08,39,375!2025-06-01,156,423-->
+<!--SR:!2025-08-15,201,395!2025-06-01,156,423-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
 <!--SR:!2025-03-20,110,403!2025-02-15,68,383-->
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
@@ -636,7 +636,7 @@ firm(noun) (My brother runs a successful firm., The firm was taken over by a lar
 firm(adjective) (The material is rigid and firm., Our company values trust as a firm basis for business., He is firm with his children.) ::: fest, solide, streng
 <!--SR:!2025-09-18,256,372!2025-03-23,86,395-->
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
-<!--SR:!2025-01-15,62,372!2025-06-05,151,423-->
+<!--SR:!2025-12-08,316,392!2025-06-05,151,423-->
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif
 <!--SR:!2025-05-17,159,423!2025-02-13,65,375-->
 determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung
@@ -646,7 +646,7 @@ to determine(verb) (It is difficult to determine the cause of the problem., The 
 senator(noun) (The senators are trying to amend some laws.) ::: Senator, Senatorin
 <!--SR:!2025-04-17,129,423!2024-12-09,30,403-->
 casual(adjective) (I wear casual clothes outside the office., This is an informal event; you can wear casual clothing., I like parties with a casual atmosphere., I made a casual remark about the weather., I like the casual feel of beach parties., To a casual observer, the scene might appear normal., I prefer simple and casual clothing.) ::: lässig, leger, zwanglos
-<!--SR:!2025-01-16,55,355!2025-05-17,153,422-->
+<!--SR:!2025-10-21,268,375!2025-05-17,153,422-->
 to insist(verb) (The woman did not give up and insisted on her rights.) ::: pochen, insistieren
 <!--SR:!2025-06-27,171,422!2025-04-21,137,421-->
 reflection(noun) (The article offers an interesting reflection on the current situation., She accepted the offer after a short reflection., The pond is so calm you can see your reflection., The reflection of the sunlight on the water is beautiful.) ::: Reflexion, Überlegung, Spiegelbild
@@ -1153,7 +1153,7 @@ Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambiv
 Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inference, deduction, conclusion
 <!--SR:!2025-03-22,56,375-->
 Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability
-<!--SR:!2025-01-23,16,375-->
+<!--SR:!2025-03-27,60,375-->
 Kausalität(noun) (Die Kausalität zwischen den Ereignissen muss überprüft werden.) := causality, cause-and-effect relationship
 <!--SR:!2025-01-29,22,395-->
 Paradigmenwechsel(noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) := paradigm shift, fundamental change
@@ -1169,17 +1169,17 @@ Prämisse(noun) (Die Prämisse der Theorie ist umstritten.) := premise, assumpti
 Diskrepanz(noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) := discrepancy, inconsistency, gap
 <!--SR:!2025-01-28,3,335-->
 Hypothese(noun) (Die Hypothese wurde umfassend getestet.) := hypothesis, proposed explanation, conjecture
-<!--SR:!2025-01-10,3,326-->
+<!--SR:!2025-02-05,10,326-->
 Konvergenz(noun) (Die Konvergenz der Ansichten ist bemerkenswert.) := convergence, alignment
 <!--SR:!2025-02-04,28,415-->
 Divergenz(noun) (Die Divergenz in den Ergebnissen wirft Fragen auf.) := divergence, difference, discrepancy
 <!--SR:!2025-02-08,13,355-->
 Validität(noun) (Die Validität der Daten wurde bestätigt.) := validity, soundness, reliability
-<!--SR:!2025-01-11,4,355-->
+<!--SR:!2025-02-10,15,355-->
 Korrelation(noun) (Die Korrelation zwischen den Variablen ist hoch.) := correlation, interdependence, relation
 <!--SR:!2025-01-27,1,335-->
 Präzedenzfall(noun) (Dieser Präzedenzfall wird oft zitiert.) := precedent, prior example, case reference
-<!--SR:!2024-12-20,14,390-->
+<!--SR:!2025-03-20,53,390-->
 Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := differentiation, nuanced distinction, granularity
 <!--SR:!2025-01-27,1,335-->
 Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
@@ -1191,7 +1191,7 @@ Synthese(noun) (Die Synthese dieser Ideen führte zu einer neuen Theorie.) := sy
 Empirie(noun) (Empirie ist ein zentraler Bestandteil dieser Untersuchung.) := empiricism, observational evidence, experiential data
 <!--SR:!2025-01-27,1,335-->
 verifizieren(verb) (Die Ergebnisse müssen verifiziert werden.) := to verify, to confirm, to validate
-<!--SR:!2024-12-14,4,375-->
+<!--SR:!2025-02-15,20,395-->
 falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to refute, to disprove
 <!--SR:!2025-01-30,5,375-->
 implizieren(verb) (Seine Worte implizieren eine Zustimmung.) := to imply, to suggest, to entail
@@ -1203,19 +1203,19 @@ konvergieren(verb) (Die Meinungen konvergieren in einem Punkt.) := to converge, 
 divergieren(verb) (Die Ansichten der Experten divergieren stark.) := to diverge, to differ, to split
 <!--SR:!2025-02-10,15,375-->
 synthetisieren(verb) (Die Studie synthetisiert die Ergebnisse mehrerer Forschungen.) := to synthesize, to integrate, to combine
-<!--SR:!2024-12-14,4,375-->
+<!--SR:!2025-01-28,2,355-->
 diffundieren(verb) (Das Wissen diffundiert langsam in die Gesellschaft.) := to diffuse, to spread gradually, to permeate
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-30,4,355-->
 modifizieren(verb) (Das Modell wurde modifiziert, um präziser zu sein.) := to modify, to adjust, to change
-<!--SR:!2024-12-15,5,395-->
+<!--SR:!2025-02-22,27,415-->
 korrelieren(verb) (Die Variablen korrelieren miteinander.) := to correlate, to show a relationship, to relate
 <!--SR:!2025-01-31,52,366-->
 quantifizieren(verb) (Es ist schwierig, den Einfluss zu quantifizieren.) := to quantify, to measure, to assess numerically
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-30,4,355-->
 kontextualisieren(verb) (Die Ergebnisse müssen kontextualisiert werden.) := to contextualize, to put in context, to frame
 <!--SR:!2025-02-17,22,395-->
 analysieren(verb) (Die Daten wurden gründlich analysiert.) := to analyze, to examine, to evaluate
-<!--SR:!2024-12-27,27,406-->
+<!--SR:!2025-02-08,13,386-->
 diskreditieren(verb) (Die Kritik sollte die Argumente nicht diskreditieren.) := to discredit, to undermine, to refute
 <!--SR:!2025-01-31,5,375-->
 
@@ -1236,7 +1236,8 @@ rekonstruieren(verb) (Die Ereignisse wurden aus verschiedenen Berichten rekonstr
 koordinieren(verb) (Die Forscher koordinierten ihre Experimente.) := to coordinate, to organize, to align
 <!--SR:!2025-01-27,1,335-->
 isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to isolate, to separate, to single out
-<!--SR:!2025-01-01,26,390-->pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen 
+pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
+<!--SR:!2025-06-12,137,410-->
 
  
 
