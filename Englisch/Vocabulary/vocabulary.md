@@ -203,7 +203,7 @@ theoretical(adjective) (First of all, I will outline the theoretical foundations
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
 <!--SR:!2025-05-30,189,354!2025-07-31,216,332-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
-<!--SR:!2025-09-07,268,355!2025-01-26,95,372-->
+<!--SR:!2025-09-07,268,355!2026-05-25,484,392-->
 receiver(noun) (The technician repaired the receiver of our old television set., I picked up the receiver to answer the call.) ::: Empfänger, Hörer
 <!--SR:!2026-04-13,444,392!2025-12-24,353,374-->
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
@@ -223,7 +223,7 @@ versus(noun) () ::: Rückseite einer Münze
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2025-06-02,192,353!2025-01-29,101,375-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
-<!--SR:!2025-01-27,97,373!2025-01-14,45,315-->
+<!--SR:!2025-01-27,97,373!2025-02-17,22,295-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
 <!--SR:!2025-01-18,87,375!2025-01-09,81,373-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
@@ -265,7 +265,7 @@ to skip(verb) (We can skip this chapter and move on to the next., The speaker sk
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
 <!--SR:!2025-01-11,79,361!2025-12-28,358,377-->
 to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
-<!--SR:!2025-06-25,211,377!2025-01-16,84,365-->
+<!--SR:!2025-06-25,211,377!2026-03-20,418,385-->
 stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
 <!--SR:!2025-06-15,200,357!2025-01-21,85,368-->
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
@@ -307,7 +307,7 @@ to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
 <!--SR:!2025-04-19,147,387!2025-11-27,327,359-->
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
-<!--SR:!2025-01-26,95,379!2025-03-24,140,387-->
+<!--SR:!2026-06-03,493,399!2025-03-24,140,387-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
 <!--SR:!2026-01-12,372,387!2025-01-19,87,379-->
 to call attention(verb) () ::: aufmerksam machen
@@ -1179,13 +1179,13 @@ Divergenz(noun) (Die Divergenz in den Ergebnissen wirft Fragen auf.) := divergen
 Validität(noun) (Die Validität der Daten wurde bestätigt.) := validity, soundness, reliability
 <!--SR:!2025-01-11,4,355-->
 Korrelation(noun) (Die Korrelation zwischen den Variablen ist hoch.) := correlation, interdependence, relation
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-27,1,335-->
 Präzedenzfall(noun) (Dieser Präzedenzfall wird oft zitiert.) := precedent, prior example, case reference
 <!--SR:!2024-12-20,14,390-->
 Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := differentiation, nuanced distinction, granularity
 <!--SR:!2024-12-11,1,355-->
 Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
-<!--SR:!2024-12-14,4,375-->
+<!--SR:!2025-02-11,16,375-->
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
 <!--SR:!2025-01-27,2,355-->
 Synthese(noun) (Die Synthese dieser Ideen führte zu einer neuen Theorie.) := synthesis, combination, integration, merge
