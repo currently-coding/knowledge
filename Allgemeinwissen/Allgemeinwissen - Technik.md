@@ -3,6 +3,7 @@ James Watt erfindet die Dampfmaschine := 1768
 Galvani entdeckt die galvanische Elektrizität := 1771
 <!--SR:!2024-11-16,14,290-->
 ARPANET := 1989, October 29
+<!--SR:!2025-01-27,1,229-->
 Email (on ARPANET) := 1971
 TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
 DNS(Domain Name System): maps IPs to human readable domain names := 1984
@@ -13,7 +14,7 @@ First Search Engine := Yahoo! - 1994
 Google := 1998 - better algorithm
 Wi-Fi introduced := 1997 - IEEE 802.11 -> established wireless internet connections
 Introduction of Social Media := 2003-2004: MySpace(2003), Facebook(2004), etc. launched
-<!--SR:!2024-11-03,1,232-->
+<!--SR:!2025-01-27,1,212-->
 First iPhone := 2007 - enabled mobile internet usage and app-based ecosystems
 Cloud Computing Services := Late 2000s - AWS(2006), etc.
 4G/LTE := 2009 - improved speed -> enabled video streaming and advanced mobile apps
