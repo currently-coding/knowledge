@@ -175,13 +175,13 @@ to facilitate(verb) (The new interface facilitates user input., The handout faci
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 <!--SR:!2026-04-02,442,395!2025-02-01,101,373-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
-<!--SR:!2025-01-26,96,375!2025-01-31,100,376-->
+<!--SR:!2026-06-02,492,395!2025-01-31,100,376-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2026-01-18,379,392!2026-05-22,483,395-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
 <!--SR:!2026-05-28,489,392!2025-01-24,96,375-->
 Distribution(noun) () ::: distribution
-<!--SR:!2025-01-26,99,375!2026-02-11,403,393-->
+<!--SR:!2026-06-18,508,395!2026-02-11,403,393-->
 to a large extent(adverb) () ::: in hohem Maße, zum großen Teil, in hohem Ausmaß
 <!--SR:!2025-12-31,369,371!2025-08-26,248,352-->
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
@@ -199,7 +199,7 @@ recipient(noun) (This year, the recipient of our donation will be a school.) :::
 recipient(adjective) () ::: empfangsbereit
 <!--SR:!2025-07-14,224,352!2025-01-28,97,375-->
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
-<!--SR:!2026-03-07,407,392!2025-01-25,95,375-->
+<!--SR:!2026-03-07,407,392!2026-05-29,488,395-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
 <!--SR:!2025-05-30,189,354!2025-07-31,216,332-->
 passionate(adjective) (He gave his wife a long, passionate kiss., The two were connected by passionate love.) ::: leidenschaftlich, glühend, passioniert
@@ -257,7 +257,7 @@ command(noun) (The soldier followed the command of his superior., The dog toed t
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
 <!--SR:!2025-01-29,98,377!2025-02-04,102,379-->
 vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar
-<!--SR:!2025-01-24,93,379!2025-01-14,87,377-->
+<!--SR:!2025-01-24,93,379!2026-04-20,449,397-->
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
 <!--SR:!2026-04-19,448,401!2025-01-09,78,357-->
 to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen
@@ -273,21 +273,21 @@ withdrawal(noun) (The minister announced his withdrawal from government., The wi
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
 <!--SR:!2025-01-30,98,381!2025-01-13,85,377-->
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
-<!--SR:!2025-02-01,97,381!2025-01-10,79,357-->
+<!--SR:!2025-02-01,97,381!2026-02-14,384,377-->
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
 <!--SR:!2025-01-24,92,357!2025-02-15,110,387-->
 broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit
 <!--SR:!2026-05-21,481,399!2025-01-20,92,377-->
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
-<!--SR:!2025-02-10,106,379!2025-01-23,92,377-->
+<!--SR:!2025-02-10,106,379!2026-05-16,475,397-->
 canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße
 <!--SR:!2026-04-09,439,397!2025-01-29,97,379-->
 convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) ::: Komfort, Bequemlichkeit, Nutzen
 <!--SR:!2025-09-24,277,368!2025-06-14,200,357-->
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern
-<!--SR:!2025-08-28,262,379!2025-01-19,88,377-->
+<!--SR:!2025-08-28,262,379!2026-04-25,454,397-->
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
-<!--SR:!2025-03-18,136,389!2025-01-17,89,377-->
+<!--SR:!2025-03-18,136,389!2026-05-01,460,397-->
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
 <!--SR:!2025-08-02,224,361!2025-01-09,82,377-->
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
@@ -309,9 +309,9 @@ to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
 <!--SR:!2026-06-03,493,399!2025-03-24,140,387-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
-<!--SR:!2026-01-12,372,387!2025-01-19,87,379-->
+<!--SR:!2026-01-12,372,387!2026-04-22,451,399-->
 to call attention(verb) () ::: aufmerksam machen
-<!--SR:!2025-01-17,86,379!2025-02-02,98,381-->
+<!--SR:!2026-04-17,446,399!2025-02-02,98,381-->
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
 <!--SR:!2025-01-21,90,381!2025-02-06,102,379-->
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
@@ -330,7 +330,7 @@ subscription(noun) (The magazine's monthly subscription costs 50 dollars., A sub
 palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 <!--SR:!2025-01-23,88,379!2025-02-02,101,385-->
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
-<!--SR:!2025-01-19,88,381!2025-01-19,87,379-->
+<!--SR:!2026-04-29,458,401!2025-01-19,87,379-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
 <!--SR:!2025-01-27,92,379!2025-03-26,140,387-->
 to revenge oneself(verb) () ::: sich rächen
@@ -354,7 +354,7 @@ to formulate(verb) (Abstract ideas are very hard to formulate., The project mana
 oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff
 <!--SR:!2025-03-15,133,387!2025-01-28,93,381-->
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
-<!--SR:!2026-01-11,372,387!2025-01-15,84,381-->
+<!--SR:!2026-01-11,372,387!2026-04-08,437,401-->
 to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
 <!--SR:!2025-02-08,104,388!2025-01-28,97,381-->
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
@@ -366,9 +366,9 @@ to upgrade(verb) (He has upgraded the software on his computer., The museum has 
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
 <!--SR:!2025-02-13,108,389!2025-09-17,264,345-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
-<!--SR:!2025-08-27,257,381!2025-01-24,89,365-->
+<!--SR:!2025-08-27,257,381!2026-04-18,447,385-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
-<!--SR:!2025-01-15,84,385!2025-02-09,105,388-->
+<!--SR:!2026-04-15,444,405!2025-02-09,105,388-->
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
 <!--SR:!2025-02-05,101,389!2025-03-08,106,347-->
 sigh(noun) () ::: Seufzer, Seufzen
@@ -426,7 +426,7 @@ helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: H
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
 <!--SR:!2025-01-26,94,389!2025-06-17,185,347-->
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
-<!--SR:!2025-01-16,85,388!2025-03-12,130,387-->
+<!--SR:!2026-04-21,450,408!2025-03-12,130,387-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
 <!--SR:!2025-04-29,157,389!2025-03-01,112,396-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
@@ -476,7 +476,7 @@ creative(adjective) (I am an engineer, but I have a creative side., A book is th
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
 <!--SR:!2025-03-16,105,403!2025-02-23,92,392-->
 to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun
-<!--SR:!2025-01-17,62,373!2025-06-18,173,421-->
+<!--SR:!2025-12-06,314,393!2025-06-18,173,421-->
 to resume(verb) (After a short break, they resumed negotiations., She resumed her work after lunch.) ::: wieder aufnehmen, fortsetzen, wiederaufnehmen
 <!--SR:!2025-04-10,130,417!2025-04-21,137,421-->
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
@@ -1165,7 +1165,7 @@ Redundanz(noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) := re
 Prämisse(noun) (Die Prämisse der Theorie ist umstritten.) := premise, assumption, foundational idea
 <!--SR:!2025-01-08,1,335-->
 Axiom(noun) (Das Axiom bildet die Grundlage der Berechnungen.) := axiom, self-evident truth, unproven principle
-<!--SR:!2025-01-09,2,355-->
+<!--SR:!2025-02-05,10,375-->
 Substanz(noun) (Die Substanz seiner Argumente ist überzeugend.) := substance, core, fundamental value
 <!--SR:!2025-01-08,1,335-->
 Diskrepanz(noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) := discrepancy, inconsistency, gap
@@ -1183,7 +1183,7 @@ Korrelation(noun) (Die Korrelation zwischen den Variablen ist hoch.) := correlat
 Präzedenzfall(noun) (Dieser Präzedenzfall wird oft zitiert.) := precedent, prior example, case reference
 <!--SR:!2024-12-20,14,390-->
 Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := differentiation, nuanced distinction, granularity
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-27,1,335-->
 Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
 <!--SR:!2025-02-11,16,375-->
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
@@ -1191,7 +1191,7 @@ Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := imp
 Synthese(noun) (Die Synthese dieser Ideen führte zu einer neuen Theorie.) := synthesis, combination, integration, merge
 <!--SR:!2024-12-14,4,375-->
 Empirie(noun) (Empirie ist ein zentraler Bestandteil dieser Untersuchung.) := empiricism, observational evidence, experiential data
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-27,1,335-->
 verifizieren(verb) (Die Ergebnisse müssen verifiziert werden.) := to verify, to confirm, to validate
 <!--SR:!2024-12-14,4,375-->
 falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to refute, to disprove
@@ -1199,7 +1199,7 @@ falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to 
 implizieren(verb) (Seine Worte implizieren eine Zustimmung.) := to imply, to suggest, to entail
 <!--SR:!2024-12-11,1,355-->
 extrapolieren(verb) (Die Daten erlauben es uns, zukünftige Trends zu extrapolieren.) := to extrapolate, to predict based on data, to project
-<!--SR:!2024-12-14,4,375-->
+<!--SR:!2025-01-28,2,355-->
 konvergieren(verb) (Die Meinungen konvergieren in einem Punkt.) := to converge, to come together, to align
 <!--SR:!2025-02-24,77,386-->
 divergieren(verb) (Die Ansichten der Experten divergieren stark.) := to diverge, to differ, to split
