@@ -1,6 +1,3 @@
-pursuit
-whatsoever
-fantasy
 sovereignty
 formerly
 widen
