@@ -237,7 +237,7 @@ to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shr
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
 <!--SR:!2025-01-26,98,375!2025-01-12,81,373-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
-<!--SR:!2025-02-01,102,376!2025-01-12,81,352-->
+<!--SR:!2025-02-01,102,376!2026-02-22,392,372-->
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2025-01-30,99,375!2025-01-13,81,372-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
@@ -564,7 +564,7 @@ venture(noun) (The company invests in various ventures., I saved money to invest
 to venture(verb) (I ventured a guess about the company's profit., He ventured a small sum in hopes of a large profit.) ::: wagen, riskieren
 <!--SR:!2025-03-04,102,391!2024-11-08,6,383-->
 to supervise(verb) (To ensure quality, production is constantly supervised., The professor supervises the student's work., The senior doctor is supervising the interns., A foreman supervises the other workers.) ::: überwachen, betreuen, beaufsichtigen
-<!--SR:!2025-03-25,123,412!2025-01-11,15,383-->
+<!--SR:!2025-03-25,123,412!2025-03-26,59,383-->
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant
 <!--SR:!2025-05-14,163,412!2025-01-29,57,382-->
 genuinely(adverb) () ::: wirklich, echt, authentisch
@@ -1203,7 +1203,7 @@ extrapolieren(verb) (Die Daten erlauben es uns, zukünftige Trends zu extrapolie
 konvergieren(verb) (Die Meinungen konvergieren in einem Punkt.) := to converge, to come together, to align
 <!--SR:!2025-02-24,77,386-->
 divergieren(verb) (Die Ansichten der Experten divergieren stark.) := to diverge, to differ, to split
-<!--SR:!2024-12-14,4,375-->
+<!--SR:!2025-02-10,15,375-->
 synthetisieren(verb) (Die Studie synthetisiert die Ergebnisse mehrerer Forschungen.) := to synthesize, to integrate, to combine
 <!--SR:!2024-12-14,4,375-->
 diffundieren(verb) (Das Wissen diffundiert langsam in die Gesellschaft.) := to diffuse, to spread gradually, to permeate
@@ -1233,11 +1233,11 @@ akkumulieren(verb) (Mit der Zeit akkumuliert sich das Wissen in diesem Bereich.)
 diskutieren(verb) (Die Teilnehmer diskutierten über die Ergebnisse.) := to discuss, to debate, to deliberate
 <!--SR:!2024-12-11,1,355-->
 implizieren(verb) (Seine Aussage implizierte eine Zustimmung.) := to imply, to suggest, to hint at
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-30,4,355-->
 rekonstruieren(verb) (Die Ereignisse wurden aus verschiedenen Berichten rekonstruiert.) := to reconstruct, to recreate, to piece together
 <!--SR:!2024-12-11,1,355-->
 koordinieren(verb) (Die Forscher koordinierten ihre Experimente.) := to coordinate, to organize, to align
-<!--SR:!2024-12-11,1,355-->
+<!--SR:!2025-01-27,1,335-->
 isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to isolate, to separate, to single out
 <!--SR:!2025-01-01,26,390-->pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen 
 whatsoever(adverb) () ::: überhaupt 
