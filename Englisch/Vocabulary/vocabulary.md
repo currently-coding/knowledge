@@ -1236,8 +1236,9 @@ rekonstruieren(verb) (Die Ereignisse wurden aus verschiedenen Berichten rekonstr
 koordinieren(verb) (Die Forscher koordinierten ihre Experimente.) := to coordinate, to organize, to align
 <!--SR:!2025-01-27,1,335-->
 isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to isolate, to separate, to single out
+<!--SR:!2025-01-31,5,401-->
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
-<!--SR:!2025-06-12,137,410-->
+<!--SR:!2025-06-12,137,410!2025-01-31,5,401-->
 
  
 
