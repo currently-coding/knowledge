@@ -9,9 +9,11 @@ TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
 DNS(Domain Name System): maps IPs to human readable domain names := 1984
 WWW: Tim Berners-Lee proposed and developed the WWW at CERN := 1989 - 1990
 First Web Browser := Mosaic - 1993 - provided a graphical interface
+<!--SR:!2025-01-27,1,223-->
 First Search Engine := Yahoo! - 1994
 <!--SR:!2024-11-03,1,232-->
-Google := 1998 - better algorithm
+Google := 1998 - better search algorithm
+<!--SR:!2025-01-27,1,223-->
 Wi-Fi introduced := 1997 - IEEE 802.11 -> established wireless internet connections
 Introduction of Social Media := 2003-2004: MySpace(2003), Facebook(2004), etc. launched
 <!--SR:!2025-01-27,1,212-->
@@ -26,6 +28,7 @@ First OS := 1961 - IBMs OS/360 standardized the concept of an OS -> introduced m
 <!--SR:!2025-01-27,1,229-->
 Moore's Law := 1965  - number of transistors/chip double every ~2 years
 First commercially available microprocessor := Intel 4004 Microprocessor - 1971
+<!--SR:!2025-01-27,1,223-->
 First PCs := 1970s and 1980s - Apple's Apple II(1997) and IBM's PC(1981) introduced affordable, personal computing to the public
 <!--SR:!2024-11-03,1,232-->
 Open-Source Software Movement := 1985 - Richard Stallman launched the *Free Software Foundation* promoting software freedom -> lead to projets like Linux(1991)
