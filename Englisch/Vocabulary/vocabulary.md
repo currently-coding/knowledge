@@ -1181,7 +1181,7 @@ Korrelation(noun) (Die Korrelation zwischen den Variablen ist hoch.) := correlat
 Präzedenzfall(noun) (Dieser Präzedenzfall wird oft zitiert.) := precedent, prior example, case reference
 <!--SR:!2025-03-20,53,390-->
 Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := differentiation, nuanced distinction, granularity
-<!--SR:!2025-01-27,1,335-->
+<!--SR:!2025-01-28,1,315-->
 Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
 <!--SR:!2025-02-11,16,375-->
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
