@@ -191,7 +191,7 @@ fraction(noun) (The boy told only a fraction of the whole story., One third is a
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
 <!--SR:!2025-11-18,326,375!2026-04-23,454,392-->
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
-<!--SR:!2025-09-03,272,373!2025-01-27,97,375-->
+<!--SR:!2025-09-03,272,373!2026-06-09,498,395-->
 convention(noun) (The convention on human rights was signed., International laws and conventions must be respected., Many renowned scientists participated in the convention., The professor made a speech at the convention., All states have signed and ratified the convention.) ::: Übereinkommen, Konvention, Tagung
 <!--SR:!2026-03-28,434,393!2026-06-08,498,395-->
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
@@ -334,7 +334,7 @@ to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lasse
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
 <!--SR:!2025-01-27,92,379!2025-03-26,140,387-->
 to revenge oneself(verb) () ::: sich rächen
-<!--SR:!2025-01-27,96,385!2025-12-13,343,379-->
+<!--SR:!2026-06-16,505,405!2025-12-13,343,379-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
 <!--SR:!2026-04-03,432,399!2025-01-15,80,367-->
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
@@ -1177,7 +1177,7 @@ Divergenz(noun) (Die Divergenz in den Ergebnissen wirft Fragen auf.) := divergen
 Validität(noun) (Die Validität der Daten wurde bestätigt.) := validity, soundness, reliability
 <!--SR:!2025-02-10,15,355-->
 Korrelation(noun) (Die Korrelation zwischen den Variablen ist hoch.) := correlation, interdependence, relation
-<!--SR:!2025-01-27,1,335-->
+<!--SR:!2025-01-30,3,335-->
 Präzedenzfall(noun) (Dieser Präzedenzfall wird oft zitiert.) := precedent, prior example, case reference
 <!--SR:!2025-03-20,53,390-->
 Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := differentiation, nuanced distinction, granularity
@@ -1232,9 +1232,9 @@ diskutieren(verb) (Die Teilnehmer diskutierten über die Ergebnisse.) := to disc
 implizieren(verb) (Seine Aussage implizierte eine Zustimmung.) := to imply, to suggest, to hint at
 <!--SR:!2025-01-30,4,355-->
 rekonstruieren(verb) (Die Ereignisse wurden aus verschiedenen Berichten rekonstruiert.) := to reconstruct, to recreate, to piece together
-<!--SR:!2025-01-27,1,335-->
+<!--SR:!2025-01-30,3,335-->
 koordinieren(verb) (Die Forscher koordinierten ihre Experimente.) := to coordinate, to organize, to align
-<!--SR:!2025-01-27,1,335-->
+<!--SR:!2025-02-01,5,355-->
 isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to isolate, to separate, to single out
 <!--SR:!2025-01-31,5,401-->
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
