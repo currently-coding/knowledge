@@ -24,5 +24,8 @@ Grundprinzip:
 >„Die Wesen, deren Dasein zwar nicht auf unserem Willen, sondern der Natur beruht, haben dennoch, wenn sie vernunftlose Wesen sind, nur einen relativen Wert, als Mittel, und heißen daher Sachen, dagegen vernünftige Wesen Personen genannt werden, weil ihre Natur sie schon als Zwecke an sich selbst, d. i. als etwas, das nicht bloß als Mittel gebraucht werden darf, auszeichnet, mithin so fern alle Willkür einschränkt (und ein Gegenstand der Achtung ist).“
 
 ## Objektformel
+- basiert auf Kant
 >Die Menschenwürde wird verletzt, wenn der konkrete Mensch zum Objekt, zu einem bloßen Mittel, zur vertretbaren Größe herabgewürdigt wird.
-- 
+
+## Menschenwuerde in der Verfassung
+- Deutschland, Estland, Griechenland, Portugal, Spanien, Italien, Finnland, Schweden, Irland
