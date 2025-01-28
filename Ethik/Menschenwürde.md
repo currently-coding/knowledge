@@ -3,7 +3,7 @@
 - schwer vorstellbar
 - immer relevanter
 ## Beispiele
-- Alltag: Verletzt die Maskenpflicht Artikel 1, GG?
+- Alltag:     Verletzt die Maskenpflicht Artikel 1, GG?
 - Jura: Ist eine Leben in Haft menschenwürdig?
 - Technik: Ab wann ist ein Mensch ein Mensch und hat Menschenwürde?
 
