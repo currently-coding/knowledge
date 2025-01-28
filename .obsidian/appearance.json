@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Border",
+  "cssTheme": "Minimal",
   "accentColor": "#2aa3bb",
   "theme": "obsidian",
   "baseFontSize": 16,
@@ -11,5 +11,5 @@
     "Print"
   ],
   "interfaceFontFamily": "",
-  "textFontFamily": "Cascadia Code,Microsoft Sans Serif,Sans Serif Collection,FiraCode Nerd Font,Calibri"
+  "textFontFamily": "Calibri,Cascadia Code,Microsoft Sans Serif,Sans Serif Collection,FiraCode Nerd Font"
 }
