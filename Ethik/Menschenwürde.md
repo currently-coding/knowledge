@@ -3,13 +3,13 @@
 - schwer vorstellbar
 - immer relevanter
 ## Beispiele
-- Alltag:     Verletzt die Maskenpflicht Artikel 1, GG?
+- Alltag: Verletzt die Maskenpflicht Artikel 1, GG?
 - Jura: Ist eine Leben in Haft menschenwürdig?
 - Technik: Ab wann ist ein Mensch ein Mensch und hat Menschenwürde?
 
 ## Christliche Theologie
 - Menschenwürde indirekt erwähnt
-- "Mensch als Ebenbild Gottes" -> hat einen Wert
+- "Mensch als Ebenbild Gottes" $\to$ hat einen Wert
 
 ## Kant
 >[!Definition]
