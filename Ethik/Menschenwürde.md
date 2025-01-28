@@ -8,4 +8,4 @@
 
 ## Christliche Theologie
 - Menschenwürde indirekt erwähnt
-- "Mensch als Ebenbild Gottes" -> hat einen Wart
+- "Mensch als Ebenbild Gottes" -> hat einen Wert
