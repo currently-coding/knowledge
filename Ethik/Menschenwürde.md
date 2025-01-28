@@ -6,11 +6,9 @@
 - Alltag: Verletzt die Maskenpflicht Artikel 1, GG?
 - Jura: Ist eine Leben in Haft menschenwürdig?
 - Technik: Ab wann ist ein Mensch ein Mensch und hat Menschenwürde?
-
 ## Christliche Theologie
 - Menschenwürde indirekt erwähnt
 - "Mensch als Ebenbild Gottes" $\to$ hat einen Wert
-
 ## Kant
 >[!Definition]
 >„Der Mensch als "Zweck an sich" darf nie nur "Mittel zum Zweck" sein.“ 
@@ -26,6 +24,5 @@ Grundprinzip:
 ## Objektformel
 - basiert auf Kant
 >Die Menschenwürde wird verletzt, wenn der konkrete Mensch zum Objekt, zu einem bloßen Mittel, zur vertretbaren Größe herabgewürdigt wird.
-
-## Menschenwuerde in der Verfassung
+## Menschenwürde in der Verfassung
 - Deutschland, Estland, Griechenland, Portugal, Spanien, Italien, Finnland, Schweden, Irland
