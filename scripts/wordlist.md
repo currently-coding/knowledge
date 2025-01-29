@@ -49,7 +49,6 @@ collector
 unveil
 stab
 psychiatric
-rat
 fragment
 squad
 In the final analysis
@@ -82,7 +81,6 @@ refine
 figure out
 reproduce
 marker
-logo
 programming
 ward
 biological
@@ -99,15 +97,14 @@ set-up
 timber
 originate
 gender
-Request
+request
 comparative
 chase
 preference
 format
 revival
 internalize
-For this purpose
-rifle
+for this purpose
 recognize
 transit
 dare
@@ -611,5 +608,4 @@ promotion
 delete
 referendum
 suite
-lottery
 taxpayer
