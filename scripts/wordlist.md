@@ -1,6 +1,3 @@
-sovereignty
-formerly
-widen
 spouse
 diversity
 remedy

@@ -1243,3 +1243,7 @@ isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to is
 whatsoever(adverb) () ::: überhaupt 
 fantasy(noun) (In the author's new book reality and fantasy merge seamlessly.) ::: Fantasie, Phantasie, Fantasy 
 Fantasy(noun) () ::: fantasy 
+sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
+formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher 
+former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige 
+to widen(verb) (A shift in perspective can widen our horizon., The city widened the roads to ease the traffic flow., The police has widened the search for the suspect., The police widened the search area to the entire town., The police widened the search for the suspect.) ::: erweitern, verbreitern, ausweiten 
