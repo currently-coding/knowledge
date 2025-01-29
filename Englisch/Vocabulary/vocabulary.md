@@ -133,7 +133,7 @@ livelihood(noun) (I earn my livelihood by teaching English., Climatic changes af
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) ::: gedeihen, florieren, aufblühen
 <!--SR:!2026-01-19,380,366!2026-01-04,373,377-->
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) ::: Verzierung, Schnörkel, Fanfare
-<!--SR:!2025-01-28,85,286!2025-10-28,318,371-->
+<!--SR:!2025-03-13,43,266!2025-10-28,318,371-->
 supplier(noun) (Our supplier delivers high-quality products., The suppliers are selected through tendering., I am the only supplier of the brand in Italy., We are the largest supplier of electrical goods in the region., Car manufacturers buy parts from many suppliers.) ::: Lieferant, Anbieter, Zulieferer
 <!--SR:!2026-02-24,413,366!2025-11-28,342,377-->
 to supply(verb) (The company supplies vehicles and spare parts for the American market., My company supplies the manpower for many roadwork projects., The wholesaler supplies the smaller shops., Technical support is no longer supplied for this product., The company will supply the equipment for the project.) ::: liefern, mitliefern, beliefern
@@ -303,7 +303,7 @@ compound(noun) (Brine is a compound of salt and water., The splitting of the che
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
 <!--SR:!2025-03-24,135,388!2026-04-01,430,399-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
-<!--SR:!2025-11-06,320,379!2025-01-28,93,388-->
+<!--SR:!2025-11-06,320,379!2026-06-06,493,408-->
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
 <!--SR:!2025-04-19,147,387!2025-11-27,327,359-->
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
@@ -394,7 +394,7 @@ rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellio
 dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
 <!--SR:!2026-05-08,467,405!2025-03-12,130,388-->
 tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
-<!--SR:!2025-08-13,243,368!2025-01-29,94,385-->
+<!--SR:!2025-08-13,243,368!2026-06-07,494,405-->
 one-to-one tuition(noun) () ::: Einzelunterricht
 <!--SR:!2025-08-29,237,388!2026-05-17,476,407-->
 moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
@@ -1159,13 +1159,11 @@ Kausalität(noun) (Die Kausalität zwischen den Ereignissen muss überprüft wer
 Paradigmenwechsel(noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) := paradigm shift, fundamental change
 <!--SR:!2025-05-24,137,406-->
 Kohärenz(noun) (Seine Argumentation besticht durch Kohärenz.) := coherence, consistency, logical flow
-<!--SR:!2025-01-28,2,335-->
+<!--SR:!2025-02-07,9,355-->
 Redundanz(noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) := redundancy, duplication, reliability-enhancing repetition
 <!--SR:!2025-02-22,75,386-->
 Prämisse(noun) (Die Prämisse der Theorie ist umstritten.) := premise, assumption, foundational idea
 <!--SR:!2025-01-27,1,315-->
-
-
 Diskrepanz(noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) := discrepancy, inconsistency, gap
 <!--SR:!2025-01-28,3,335-->
 Hypothese(noun) (Die Hypothese wurde umfassend getestet.) := hypothesis, proposed explanation, conjecture
@@ -1226,7 +1224,7 @@ antizipieren(verb) (Er antizipierte die möglichen Probleme.) := to anticipate, 
 deduzieren(verb) (Aus den Fakten kann man eine Schlussfolgerung deduzieren.) := to deduce, to infer, to conclude
 <!--SR:!2025-06-24,150,430-->
 akkumulieren(verb) (Mit der Zeit akkumuliert sich das Wissen in diesem Bereich.) := to accumulate, to gather, to amass
-<!--SR:!2025-01-28,2,355-->
+<!--SR:!2025-02-05,7,355-->
 diskutieren(verb) (Die Teilnehmer diskutierten über die Ergebnisse.) := to discuss, to debate, to deliberate
 <!--SR:!2025-01-31,5,375-->
 implizieren(verb) (Seine Aussage implizierte eine Zustimmung.) := to imply, to suggest, to hint at
@@ -1239,6 +1237,3 @@ isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to is
 <!--SR:!2025-01-31,5,401-->
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
 <!--SR:!2025-06-12,137,410!2025-01-31,5,401-->
-
- 
-

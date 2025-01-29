@@ -1,3 +1,5 @@
+permeate
+amass
 sovereignty
 formerly
 widen
@@ -5,16 +7,13 @@ spouse
 diversity
 remedy
 augment
-bat
 envelope
-artwork
 discern
 evolution
 thoughtful
 precede
 supposedly
 terrific
-investor
 vicious
 peer
 cause
