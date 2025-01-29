@@ -197,7 +197,7 @@ convention(noun) (The convention on human rights was signed., International laws
 recipient(noun) (This year, the recipient of our donation will be a school.) ::: Empfänger, Abnehmer, Bezieher
 <!--SR:!2025-09-04,269,373!2025-10-13,290,355-->
 recipient(adjective) () ::: empfangsbereit
-<!--SR:!2025-07-14,224,352!2025-01-28,97,375-->
+<!--SR:!2025-07-14,224,352!2026-06-11,498,395-->
 theoretical(adjective) (First of all, I will outline the theoretical foundations., I try to apply my theoretical knowledge in my job., Philosophers often use a theoretical approach.) ::: theoretisch, rein gedanklich, kalkulatorisch
 <!--SR:!2026-03-07,407,392!2026-05-29,488,395-->
 to tempt(verb) (The wonderful weather tempted me to leave early.) ::: verleiten, locken, verführen
