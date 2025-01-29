@@ -223,7 +223,7 @@ versus(noun) () ::: Rückseite einer Münze
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2025-06-02,192,353!2025-01-29,101,375-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
-<!--SR:!2025-01-27,97,373!2025-02-17,22,295-->
+<!--SR:!2026-02-02,369,373!2025-02-17,22,295-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
 <!--SR:!2025-01-18,87,375!2026-03-17,415,393-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
@@ -332,7 +332,7 @@ palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
 <!--SR:!2026-04-29,458,401!2025-01-19,87,379-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
-<!--SR:!2025-01-27,92,379!2025-03-26,140,387-->
+<!--SR:!2026-05-20,476,399!2025-03-26,140,387-->
 to revenge oneself(verb) () ::: sich rächen
 <!--SR:!2026-06-16,505,405!2025-12-13,343,379-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
@@ -1183,7 +1183,7 @@ Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := diff
 Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
 <!--SR:!2025-02-11,16,375-->
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
-<!--SR:!2025-01-27,2,355-->
+<!--SR:!2025-02-05,7,355-->
 Synthese(noun) (Die Synthese dieser Ideen führte zu einer neuen Theorie.) := synthesis, combination, integration, merge
 <!--SR:!2025-02-11,16,375-->
 Empirie(noun) (Empirie ist ein zentraler Bestandteil dieser Untersuchung.) := empiricism, observational evidence, experiential data
