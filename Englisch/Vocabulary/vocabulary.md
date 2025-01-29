@@ -209,7 +209,7 @@ receiver(noun) (The technician repaired the receiver of our old television set.,
 to receive(verb) (I am not receiving inbound messages., Thank you very much for your email which we received yesterday., I received your letter today, many thanks!, We received an indemnity for our loss., I receive a salary and fringe benefits., The play received excellent feedback., The good news was received with joy., The unification of the two countries was well received., I receive two regular newsletters., I was received by the hotel manager.) ::: empfangen, erhalten, bekommen
 <!--SR:!2026-06-13,503,395!2026-04-14,445,392-->
 greenhouse(noun) (Most greenhouses have a glass roof.) ::: Gewächshaus, Glashaus, Treibhaus
-<!--SR:!2026-04-16,447,395!2025-01-27,96,373-->
+<!--SR:!2026-04-16,447,395!2026-06-01,488,393-->
 stake(noun) (A few investors hold a stake in our company., My company owns a small stake in the other company., The stakes of this poker game are very high., The man tied his horse to a stake.) ::: Beteiligung, Anteil, Einsatz
 <!--SR:!2025-09-02,271,372!2026-01-02,343,375-->
 to stake(verb) () ::: einsetzen, abstecken, pfählen
@@ -229,11 +229,11 @@ dive(noun) () ::: Tauchen, Tauchgang, Sprung
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
 <!--SR:!2026-04-26,455,393!2025-01-22,95,375-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
-<!--SR:!2026-05-23,482,393!2025-01-27,97,375-->
+<!--SR:!2026-05-23,482,393!2026-06-14,501,395-->
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
 <!--SR:!2026-04-30,460,393!2025-11-07,315,375-->
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
-<!--SR:!2026-02-07,399,393!2025-01-27,96,375-->
+<!--SR:!2026-02-07,399,393!2026-05-31,487,395-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
 <!--SR:!2026-06-12,502,395!2025-01-12,81,373-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
