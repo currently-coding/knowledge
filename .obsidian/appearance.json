@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Border",
+  "cssTheme": "Atom",
   "accentColor": "#2aa3bb",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
   "nativeMenus": true,
