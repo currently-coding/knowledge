@@ -4,8 +4,9 @@
 - immer relevanter
 ## Beispiele
 - Alltag: Verletzt die Maskenpflicht Artikel 1, GG?
+	$\to$ schränkt Freiheit ein, verletzt aber nicht Würde
 - Jura: Ist eine Leben in Haft menschenwürdig?
-	
+	$\to$ Nein, da das ein *Leben ohne Hoffnung* wäre
 - Technik: Ab wann ist ein Mensch ein Mensch und hat Menschenwürde?
 ## Christliche Theologie
 - Menschenwürde indirekt erwähnt
