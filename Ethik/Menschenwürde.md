@@ -6,7 +6,7 @@
 - Alltag: Verletzt die Maskenpflicht Artikel 1, GG?
 	$\to$ schränkt Freiheit ein, verletzt aber nicht Würde
 - Jura: Ist eine Leben in Haft menschenwürdig?
-	$\to$ Nein, da das ein *Leben ohne Hoffnung* wäre
+	$\to$ Nein, da das ein **Leben ohne Hoffnung** wäre
 - Technik: Ab wann ist ein Mensch ein Mensch und hat Menschenwürde?
 ## Christliche Theologie
 - Menschenwürde indirekt erwähnt
@@ -25,6 +25,7 @@ $\to$ Menschenwürde wird verletzt wenn der Mensch bloß als Mittel für einen Z
 ## Objektformel
 - bestimmt ob rechtlich gesehen die Menschenwürde verletzt ist
 - basiert auf Kant
+
 >Die Menschenwürde wird verletzt, wenn der konkrete Mensch zum Objekt, zu einem bloßen Mittel, zur vertretbaren Größe herabgewürdigt wird.
 ## Menschenwürde als grundlegendes Prinzip in der Verfassung
 - Deutschland, Estland, Griechenland, Portugal, Spanien, Italien, Finnland, Schweden, Irland, Belgien
