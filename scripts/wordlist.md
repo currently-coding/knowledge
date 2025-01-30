@@ -1,17 +1,19 @@
+amass
+sovereignty
+formerly
+widen
+>>>>>>> origin/main
 spouse
 diversity
 remedy
 augment
-bat
 envelope
-artwork
 discern
 evolution
 thoughtful
 precede
 supposedly
 terrific
-investor
 vicious
 peer
 cause
@@ -47,7 +49,6 @@ collector
 unveil
 stab
 psychiatric
-rat
 fragment
 squad
 In the final analysis
@@ -80,7 +81,6 @@ refine
 figure out
 reproduce
 marker
-logo
 programming
 ward
 biological
@@ -97,15 +97,14 @@ set-up
 timber
 originate
 gender
-Request
+request
 comparative
 chase
 preference
 format
 revival
 internalize
-For this purpose
-rifle
+for this purpose
 recognize
 transit
 dare
@@ -609,5 +608,4 @@ promotion
 delete
 referendum
 suite
-lottery
 taxpayer
