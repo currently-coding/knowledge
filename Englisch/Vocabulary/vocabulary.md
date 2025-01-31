@@ -1249,3 +1249,7 @@ pursuit(noun) (The police took up pursuit and caught the suspect., She spent her
 head(noun) (The hat is too big for my head., He wears a hat on his head., The head of this department is responsible for all activities by his employees., He was promoted to head of division., The head of the company designated his successor today.) ::: Kopf, Leiter, Chef 
 to head(verb) (The player headed the ball into the goal., The most experienced professor heads the research department., We started the boat and headed east., The oldest boyscout headed the group.) ::: köpfen, leiten, steuern 
 to permeate(verb) (The liquid permeated the substrate.) ::: durchdringen, durchsetzen 
+to amass(verb) (In the course of his life, my uncle has amassed great wealth.) ::: sammeln, anhäufen, aufhäufen 
+sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
+formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher 
+former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige 
