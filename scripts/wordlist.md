@@ -1,6 +1,3 @@
-amass
-sovereignty
-formerly
 widen
 >>>>>>> origin/main
 spouse
