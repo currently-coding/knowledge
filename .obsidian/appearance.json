@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Border",
   "accentColor": "#2aa3bb",
   "theme": "obsidian",
-  "baseFontSize": 12,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "nativeMenus": true,
   "showViewHeader": true,
