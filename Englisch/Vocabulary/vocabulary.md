@@ -129,7 +129,7 @@ to launch(verb) (The space agency will launch a rocket next month., The company 
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
 <!--SR:!2025-11-29,343,366!2026-01-25,386,377-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) ::: Lebensunterhalt, Lebensgrundlage, Existenz
-<!--SR:!2025-08-19,261,358!2025-01-31,7,266-->
+<!--SR:!2025-08-19,261,358!2025-02-26,25,286-->
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) ::: gedeihen, florieren, aufblühen
 <!--SR:!2026-01-19,380,366!2026-01-04,373,377-->
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) ::: Verzierung, Schnörkel, Fanfare
@@ -175,7 +175,7 @@ to facilitate(verb) (The new interface facilitates user input., The handout faci
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
 <!--SR:!2026-04-02,442,395!2026-07-02,516,393-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
-<!--SR:!2026-06-02,492,395!2025-01-31,100,376-->
+<!--SR:!2026-06-02,492,395!2026-07-01,515,396-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2026-01-18,379,392!2026-05-22,483,395-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
@@ -185,9 +185,9 @@ Distribution(noun) () ::: distribution
 to a large extent(adverb) () ::: in hohem Maße, zum großen Teil, in hohem Ausmaß
 <!--SR:!2025-12-31,369,371!2025-08-26,248,352-->
 with this in mind() () ::: in diesem Sinne, zu diesem Zweck
-<!--SR:!2025-02-01,102,376!2026-01-31,378,372-->
+<!--SR:!2026-07-10,524,396!2026-01-31,378,372-->
 fraction(noun) (The boy told only a fraction of the whole story., One third is a fraction, a part of a whole.) ::: Bruchteil, Fraktion, Bruch
-<!--SR:!2025-01-28,97,375!2026-05-03,464,393-->
+<!--SR:!2026-06-15,499,395!2026-05-03,464,393-->
 memorable(adjective) (The royal wedding was a memorable event.) ::: denkwürdig, einprägsam, unvergesslich
 <!--SR:!2025-11-18,326,375!2026-04-23,454,392-->
 conventional(adjective) (The score has been written in conventional notation., He prefers conventional things to innovative ones.) ::: konventionell, herkömmlich, gängig
@@ -215,13 +215,13 @@ stake(noun) (A few investors hold a stake in our company., My company owns a sma
 to stake(verb) () ::: einsetzen, abstecken, pfählen
 <!--SR:!2025-10-25,308,376!2026-02-26,398,373-->
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
-<!--SR:!2025-02-01,101,376!2026-03-21,421,373-->
+<!--SR:!2026-07-06,520,396!2026-03-21,421,373-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
 <!--SR:!2025-02-02,102,376!2026-02-21,393,373-->
 versus(noun) () ::: Rückseite einer Münze
 <!--SR:!2025-09-27,288,376!2026-03-16,416,372-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
-<!--SR:!2025-06-02,192,353!2025-01-29,101,375-->
+<!--SR:!2025-06-02,192,353!2026-07-05,519,395-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 <!--SR:!2026-02-02,369,373!2025-02-17,22,295-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
@@ -237,9 +237,9 @@ to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shr
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
 <!--SR:!2026-06-12,502,395!2025-01-12,81,373-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
-<!--SR:!2025-02-01,102,376!2026-02-22,392,372-->
+<!--SR:!2026-07-11,525,396!2026-02-22,392,372-->
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
-<!--SR:!2025-01-30,99,375!2025-11-23,301,372-->
+<!--SR:!2026-06-25,509,395!2025-11-23,301,372-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 <!--SR:!2025-01-18,90,377!2025-04-15,79,293-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
@@ -261,7 +261,7 @@ vague(adjective) (Initially, our world trip was just a vague idea., With such va
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
 <!--SR:!2026-04-19,448,401!2025-01-09,78,357-->
 to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen
-<!--SR:!2025-01-28,95,389!2026-05-09,470,397-->
+<!--SR:!2026-06-23,507,409!2026-05-09,470,397-->
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
 <!--SR:!2026-02-20,390,381!2025-12-28,358,377-->
 to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
@@ -273,7 +273,7 @@ withdrawal(noun) (The minister announced his withdrawal from government., The wi
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
 <!--SR:!2026-06-27,511,401!2026-04-07,436,397-->
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
-<!--SR:!2025-02-01,97,381!2026-02-14,384,377-->
+<!--SR:!2026-06-24,508,401!2026-02-14,384,377-->
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
 <!--SR:!2026-04-24,453,377!2025-02-15,110,387-->
 broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit
@@ -317,7 +317,7 @@ to call attention to(verb) (The speaker wants to call attention to the sensitive
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
 <!--SR:!2025-03-07,125,388!2025-11-16,324,381-->
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
-<!--SR:!2025-01-30,98,379!2026-06-05,495,405-->
+<!--SR:!2026-06-26,510,399!2026-06-05,495,405-->
 <!--SR:!2024-10-20,14,345!2024-10-22,18,361-->
 ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an ongoing process.) ::: kontinuierlich, permanent, ständig
 <!--SR:!2025-10-29,306,368!2025-05-08,150,319-->
@@ -350,7 +350,7 @@ to harbour(verb) (A dishcloth can harbour germs.) ::: beherbergen, bergen, hegen
 to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern
 <!--SR:!2025-02-12,108,387!2025-11-21,321,359-->
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren
-<!--SR:!2025-01-30,95,388!2025-08-17,247,381-->
+<!--SR:!2026-06-17,501,408!2025-08-17,247,381-->
 oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff
 <!--SR:!2025-03-15,133,387!2026-06-01,485,401-->
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
@@ -382,7 +382,7 @@ restoration(noun) (The restoration of the old church took many years., Her job i
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
 <!--SR:!2025-06-04,193,369!2025-05-31,182,365-->
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
-<!--SR:!2025-03-03,100,348!2025-02-01,97,387-->
+<!--SR:!2025-03-03,100,348!2026-06-29,513,407-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
 <!--SR:!2025-02-25,115,387!2025-02-08,104,385-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
@@ -540,7 +540,7 @@ to steer(verb) (The captain steers the ship away from the cliffs., It is hard to
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
 <!--SR:!2025-05-26,162,417!2025-05-12,161,415-->
 regardless(adjective) () ::: ungeachtet, trotzdem
-<!--SR:!2025-01-30,77,373!2025-03-28,109,403-->
+<!--SR:!2026-03-01,393,393!2025-03-28,109,403-->
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen
 <!--SR:!2024-11-07,5,382!2024-12-23,31,402-->
 prospective(adjective) (The local industry is ready for prospective challenges., The local industry is prepared for prospective challenges., We are well prepared for prospective challenges., We are going to meet a prospective business partner.) ::: künftig, prospektiv, voraussichtlich
@@ -1149,16 +1149,19 @@ whatsoever(adverb) () ::: überhaupt
 <!--SR:!2025-02-05,4,381!2000-01-01,1,250-->
 sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt
 <!--SR:!2025-02-06,5,402!2000-01-01,1,250-->
-formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher 
+formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher
+<!--SR:!2000-01-01,1,250!2025-02-05,4,382-->
 former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige
 <!--SR:!2025-02-06,5,401!2000-01-01,1,250-->
 to widen(verb) (A shift in perspective can widen our horizon., The city widened the roads to ease the traffic flow., The police has widened the search for the suspect., The police widened the search area to the entire town., The police widened the search for the suspect.) ::: erweitern, verbreitern, ausweiten
 <!--SR:!2025-01-31,5,401!2025-02-02,1,361-->
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
 <!--SR:!2025-06-12,137,410!2025-01-31,5,401-->
-to permeate(verb) (The liquid permeated the substrate.) ::: durchdringen, durchsetzen 
+to permeate(verb) (The liquid permeated the substrate.) ::: durchdringen, durchsetzen
+<!--SR:!2025-02-06,5,402!2000-01-01,1,250-->
 to amass(verb) (In the course of his life, my uncle has amassed great wealth.) ::: sammeln, anhäufen, aufhäufen
 <!--SR:!2000-01-01,1,250!2025-02-06,5,401-->
 sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
-formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher 
+formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher
+<!--SR:!2000-01-01,1,250!2025-02-06,5,402-->
 former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige 
