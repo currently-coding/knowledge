@@ -12,4 +12,4 @@ Zuerst einmal als Vergleich mit einer Wellenlänge von `xxx`. Und hier das Bild 
 
 Das Ergebnis ist also von der Wellenlänge abhängig. Dadurch können wir auch vom Ergebnis auf die benutzte Wellenlänge schließen.
 
-Doch wie kommen wir nun von dem Bild auf die Wellenlänge? Das einzige was wir wissen ist die Position der konstruktiven und die der destruktiven Überlagerungen. Anhand dieser, wissen wir wo Wellenberg auf 
+Doch wie kommen wir nun von dem Bild auf die Wellenlänge? Das einzige was wir wissen ist die Position der konstruktiven und die der destruktiven Überlagerungen. Anhand dieser, wissen wir wo Wellenberg auf Wellenberg und Wellenberg auf Wellental trifft. Vereinfachen wir das Problem erstmal auf 2 Lichtwellen. Betrachten wir diese ....
