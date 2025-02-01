@@ -1,3 +1,135 @@
+expediency  
+appropriateness  
+practicality  
+evidence  
+clarity  
+self-evidence  
+ambivalence  
+duality  
+mixed feelings  
+inference  
+deduction  
+conclusion  
+resilience  
+adaptability  
+causality  
+cause-and-effect relationship  
+paradigm shift  
+fundamental change  
+coherence  
+consistency  
+logical flow  
+redundancy  
+duplication  
+reliability-enhancing repetition  
+premise  
+assumption  
+foundational idea  
+discrepancy  
+inconsistency  
+gap  
+hypothesis  
+proposed explanation  
+conjecture  
+convergence  
+alignment  
+divergence  
+difference  
+discrepancy  
+validity  
+soundness  
+reliability  
+correlation  
+interdependence  
+relation  
+precedent  
+prior example  
+case reference  
+differentiation  
+nuanced distinction  
+granularity  
+antithesis  
+opposition  
+contrasting viewpoint  
+implication  
+consequence  
+inference  
+synthesis  
+combination  
+integration  
+merge  
+empiricism  
+observational evidence  
+experiential data  
+to verify  
+to confirm  
+to validate  
+to falsify  
+to refute  
+to disprove  
+to imply  
+to suggest  
+to entail  
+to extrapolate  
+to predict based on data  
+to project  
+to converge  
+to come together  
+to align  
+to diverge  
+to differ  
+to split  
+to synthesize  
+to integrate  
+to combine  
+to diffuse  
+to spread gradually  
+to permeate  
+to modify  
+to adjust  
+to change  
+to correlate  
+to show a relationship  
+to relate  
+to quantify  
+to measure  
+to assess numerically  
+to contextualize  
+to put in context  
+to frame  
+to analyze  
+to examine  
+to evaluate  
+to discredit  
+to undermine  
+to refute  
+to evaluate  
+to assess  
+to appraise  
+to anticipate  
+to foresee  
+to predict  
+to deduce  
+to infer  
+to conclude  
+to accumulate  
+to gather  
+to amass  
+to discuss  
+to debate  
+to deliberate  
+to imply  
+to suggest  
+to hint at  
+to reconstruct  
+to recreate  
+to piece together  
+to coordinate  
+to organize  
+to align  
+to isolate  
+to separate  
+to single out
 widen
 origin/main
 spouse

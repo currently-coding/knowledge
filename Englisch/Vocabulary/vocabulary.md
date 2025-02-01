@@ -281,7 +281,7 @@ broad(adjective) (His broad shoulders make him look stronger than he is., We off
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
 <!--SR:!2025-02-10,106,379!2026-05-16,475,397-->
 canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße
-<!--SR:!2026-04-09,439,397!2025-01-29,97,379-->
+<!--SR:!2026-04-09,439,397!2026-06-20,504,399-->
 convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) ::: Komfort, Bequemlichkeit, Nutzen
 <!--SR:!2025-09-24,277,368!2025-06-14,200,357-->
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern
@@ -1144,105 +1144,10 @@ resolutely(adverb) (She resolutely defended her beliefs., He resolutely pursued 
 circumspectly(adverb) (He approached the matter circumspectly., She circumspectly evaluated the options., The company circumspectly navigated the issue.) ::: umsichtig, vorsichtig, besonnen
 <!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
 ### German - English
-Zweckmäßigkeit(noun) (Die Zweckmäßigkeit dieser Methode ist fragwürdig.) := expediency, appropriateness, practicality
-<!--SR:!2025-01-29,3,290-->
-Evidenz(noun) (Die Evidenz der vorgelegten Beweise ist überzeugend.) := evidence, clarity, self-evidence
-<!--SR:!2025-03-14,66,366-->
-Ambivalenz(noun) (Die Ambivalenz seiner Argumente zeigte sich schnell.) := ambivalence, duality, mixed feelings
-<!--SR:!2025-01-29,3,335-->
-Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inference, deduction, conclusion
-<!--SR:!2025-03-22,56,375-->
-Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability
-<!--SR:!2025-03-27,60,375-->
-Kausalität(noun) (Die Kausalität zwischen den Ereignissen muss überprüft werden.) := causality, cause-and-effect relationship
-<!--SR:!2025-05-31,119,415-->
-Paradigmenwechsel(noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) := paradigm shift, fundamental change
-<!--SR:!2025-05-24,137,406-->
-Kohärenz(noun) (Seine Argumentation besticht durch Kohärenz.) := coherence, consistency, logical flow
-<!--SR:!2025-02-07,9,355-->
-Redundanz(noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) := redundancy, duplication, reliability-enhancing repetition
-<!--SR:!2025-02-22,75,386-->
-Prämisse(noun) (Die Prämisse der Theorie ist umstritten.) := premise, assumption, foundational idea
-<!--SR:!2025-01-27,1,315-->
-Diskrepanz(noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) := discrepancy, inconsistency, gap
-<!--SR:!2025-02-11,10,335-->
-Hypothese(noun) (Die Hypothese wurde umfassend getestet.) := hypothesis, proposed explanation, conjecture
-<!--SR:!2025-02-05,10,326-->
-Konvergenz(noun) (Die Konvergenz der Ansichten ist bemerkenswert.) := convergence, alignment
-<!--SR:!2025-02-04,28,415-->
-Divergenz(noun) (Die Divergenz in den Ergebnissen wirft Fragen auf.) := divergence, difference, discrepancy
-<!--SR:!2025-02-08,13,355-->
-Validität(noun) (Die Validität der Daten wurde bestätigt.) := validity, soundness, reliability
-<!--SR:!2025-02-10,15,355-->
-Korrelation(noun) (Die Korrelation zwischen den Variablen ist hoch.) := correlation, interdependence, relation
-<!--SR:!2025-01-30,3,335-->
-Präzedenzfall(noun) (Dieser Präzedenzfall wird oft zitiert.) := precedent, prior example, case reference
-<!--SR:!2025-03-20,53,390-->
-Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := differentiation, nuanced distinction, granularity
-<!--SR:!2025-02-02,1,295-->
-Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
-<!--SR:!2025-02-11,16,375-->
-Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
-<!--SR:!2025-02-05,7,355-->
-Synthese(noun) (Die Synthese dieser Ideen führte zu einer neuen Theorie.) := synthesis, combination, integration, merge
-<!--SR:!2025-02-11,16,375-->
-Empirie(noun) (Empirie ist ein zentraler Bestandteil dieser Untersuchung.) := empiricism, observational evidence, experiential data
-<!--SR:!2025-01-27,1,335-->
-verifizieren(verb) (Die Ergebnisse müssen verifiziert werden.) := to verify, to confirm, to validate
-<!--SR:!2025-02-15,20,395-->
-falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to refute, to disprove
-<!--SR:!2025-01-30,5,375-->
-implizieren(verb) (Seine Worte implizieren eine Zustimmung.) := to imply, to suggest, to entail
-<!--SR:!2025-01-31,5,375-->
-extrapolieren(verb) (Die Daten erlauben es uns, zukünftige Trends zu extrapolieren.) := to extrapolate, to predict based on data, to project
-<!--SR:!2025-02-02,1,335-->
-konvergieren(verb) (Die Meinungen konvergieren in einem Punkt.) := to converge, to come together, to align
-<!--SR:!2025-02-24,77,386-->
-divergieren(verb) (Die Ansichten der Experten divergieren stark.) := to diverge, to differ, to split
-<!--SR:!2025-02-10,15,375-->
-synthetisieren(verb) (Die Studie synthetisiert die Ergebnisse mehrerer Forschungen.) := to synthesize, to integrate, to combine
-<!--SR:!2025-01-28,2,355-->
-diffundieren(verb) (Das Wissen diffundiert langsam in die Gesellschaft.) := to diffuse, to spread gradually, to permeate
-<!--SR:!2025-01-30,4,355-->
-modifizieren(verb) (Das Modell wurde modifiziert, um präziser zu sein.) := to modify, to adjust, to change
-<!--SR:!2025-02-22,27,415-->
-korrelieren(verb) (Die Variablen korrelieren miteinander.) := to correlate, to show a relationship, to relate
-<!--SR:!2025-01-31,52,366-->
-quantifizieren(verb) (Es ist schwierig, den Einfluss zu quantifizieren.) := to quantify, to measure, to assess numerically
-<!--SR:!2025-01-30,4,355-->
-kontextualisieren(verb) (Die Ergebnisse müssen kontextualisiert werden.) := to contextualize, to put in context, to frame
-<!--SR:!2025-02-17,22,395-->
-analysieren(verb) (Die Daten wurden gründlich analysiert.) := to analyze, to examine, to evaluate
-<!--SR:!2025-02-08,13,386-->
-diskreditieren(verb) (Die Kritik sollte die Argumente nicht diskreditieren.) := to discredit, to undermine, to refute
-<!--SR:!2025-01-31,5,375-->
-
-evaluieren(verb) (Die Methode wurde im Detail evaluiert.) := to evaluate, to assess, to appraise
-<!--SR:!2025-01-29,3,335-->
-antizipieren(verb) (Er antizipierte die möglichen Probleme.) := to anticipate, to foresee, to predict
-<!--SR:!2025-02-16,21,395-->
-deduzieren(verb) (Aus den Fakten kann man eine Schlussfolgerung deduzieren.) := to deduce, to infer, to conclude
-<!--SR:!2025-06-24,150,430-->
-akkumulieren(verb) (Mit der Zeit akkumuliert sich das Wissen in diesem Bereich.) := to accumulate, to gather, to amass
-<!--SR:!2025-02-05,7,355-->
-diskutieren(verb) (Die Teilnehmer diskutierten über die Ergebnisse.) := to discuss, to debate, to deliberate
-<!--SR:!2025-01-31,5,375-->
-implizieren(verb) (Seine Aussage implizierte eine Zustimmung.) := to imply, to suggest, to hint at
-<!--SR:!2025-01-30,4,355-->
-rekonstruieren(verb) (Die Ereignisse wurden aus verschiedenen Berichten rekonstruiert.) := to reconstruct, to recreate, to piece together
-<!--SR:!2025-01-30,3,335-->
-koordinieren(verb) (Die Forscher koordinierten ihre Experimente.) := to coordinate, to organize, to align
-<!--SR:!2025-02-01,5,355-->
-isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to isolate, to separate, to single out
-<!--SR:!2025-02-06,5,401-->
-<<<<<<< HEAD
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
 <!--SR:!2025-01-01,26,390!2025-02-06,5,401-->
-whatsoever(adverb) () ::: überhaupt 
-fantasy(noun) (In the author's new book reality and fantasy merge seamlessly.) ::: Fantasie, Phantasie, Fantasy
-<!--SR:!2000-01-01,1,250!2025-02-06,5,401-->
-Fantasy(noun) () ::: fantasy
-<!--SR:!2025-02-06,5,401!2000-01-01,1,250-->
+whatsoever(adverb) () ::: überhaupt
+<!--SR:!2025-02-05,4,381!2000-01-01,1,250-->
 sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
 formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher 
 former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige
