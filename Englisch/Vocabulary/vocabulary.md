@@ -1143,12 +1143,12 @@ resolutely(adverb) (She resolutely defended her beliefs., He resolutely pursued 
 <!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
 circumspectly(adverb) (He approached the matter circumspectly., She circumspectly evaluated the options., The company circumspectly navigated the issue.) ::: umsichtig, vorsichtig, besonnen
 <!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
-### German - English
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
 <!--SR:!2025-01-01,26,390!2025-02-06,5,401-->
 whatsoever(adverb) () ::: überhaupt
 <!--SR:!2025-02-05,4,381!2000-01-01,1,250-->
-sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
+sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt
+<!--SR:!2025-02-06,5,402!2000-01-01,1,250-->
 formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher 
 former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige
 <!--SR:!2025-02-06,5,401!2000-01-01,1,250-->
@@ -1156,9 +1156,6 @@ to widen(verb) (A shift in perspective can widen our horizon., The city widened 
 <!--SR:!2025-01-31,5,401!2025-02-02,1,361-->
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
 <!--SR:!2025-06-12,137,410!2025-01-31,5,401-->
-head(noun) (The hat is too big for my head., He wears a hat on his head., The head of this department is responsible for all activities by his employees., He was promoted to head of division., The head of the company designated his successor today.) ::: Kopf, Leiter, Chef
-<!--SR:!2000-01-01,1,250!2025-02-06,5,401-->
-to head(verb) (The player headed the ball into the goal., The most experienced professor heads the research department., We started the boat and headed east., The oldest boyscout headed the group.) ::: köpfen, leiten, steuern 
 to permeate(verb) (The liquid permeated the substrate.) ::: durchdringen, durchsetzen 
 to amass(verb) (In the course of his life, my uncle has amassed great wealth.) ::: sammeln, anhäufen, aufhäufen
 <!--SR:!2000-01-01,1,250!2025-02-06,5,401-->

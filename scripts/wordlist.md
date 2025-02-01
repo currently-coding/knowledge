@@ -1,3 +1,4 @@
+succinct
 expediency  
 appropriateness  
 practicality  
