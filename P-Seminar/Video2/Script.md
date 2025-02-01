@@ -4,8 +4,9 @@ Um diese Wellenlänge zu berechnen, führen wir den Doppelspaltversuch durch.
 Dabei wird ein enger, linear polarisierter Laserstrahl auf einen Doppelspalt gesendet. Die Spalte sind xxx voneinander entfernt und jeweils xxx breit. Hinter dem Doppelspalt befindet sich ein Schirm, der das Ergebnis sichtbar macht.
 Welches Bild erwartet ihr auf dem Schirm? Das rechte mit .... oder .... ? Betrachten wir unseren Schirm sehen etwas unerwartetes. Es sind mehrere, in ihrer Helligkeit zur Seiten abnehmende Streifen hellen Lichts zu sehen.
 Die Erscheinung liegt an der Interferenz von Lichtwellen. 
+Interferenz heisst Ueberlagerung. Dabei ueberlagern sich Wellen nach dem Superpositionsprinzip. Das besagt, dass die Auslenkungen der Wellen, auch genannt Elongation, sich unter Berücksichtigung des Vorzeichens addiert. Doch was heisst das eigentlich? Betrachten wir nur eine Welle, sehen wir eine konstante Helligkeit. Fuegen wir nun aber eine zweite Welle hinzu, verdoppelt sich die Helligkeit - eine konstruktive Interferenz. Ist diese zweite Welle aber `XXX` hinter der ersten Welle erscheint gar kein Licht mehr, die Wellen interferieren destruktiv.
 \<Erklaerung>
 Doch was passiert wenn wir Licht mit verschiedenen Wellenlängen benutzen? Nehmen wir einmal Licht geringerer Wellenlänge, wird es mehr Streifen geben? werden diese heller sein? oder wird gleich bleiben?
-Zuerst einmal als Vergleich mit einer Wellenlaenge von `xxx`. Und hier das Bild bei einer Wellenlaenge von `yyy`. Man sieht ....
+Zuerst einmal als Vergleich mit einer Wellenlaenge von `xxx`. Und hier das Bild bei einer Wellenlaenge von `yyy`. Man sieht ... . Nehmen wir eine groessere Wellenlaenge von `zzz` entsteht dieses Bild.
 
 Das Ergebnis ist also von der Wellenlänge abhängig. Dadurch können wir auch vom Ergebnis auf die benutzte Wellenlänge schließen.
