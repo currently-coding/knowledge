@@ -1,5 +1,5 @@
 widen
->>>>>>> origin/main
+origin/main
 spouse
 diversity
 remedy
