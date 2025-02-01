@@ -1,0 +1,2 @@
+Stell dir vor, du richtest einen Laser auf zwei winzige Spalte und das Licht verwandelt sich in ein wunderschönes Muster aus abwechselnd hellen und dunklen Streifen. Doch das ist keine optische Täuschung – es ist Physik in Aktion. In diesem Video erklären wir, wie dieses Interferenzmuster es uns ermöglicht, eine der grundlegenden Eigenschaften des Lichts zu berechnen: seine Wellenlänge.
+Doch fangen wir etwas weiter vorne an. Licht ist eine Welle, also  Deswegen hat es auch alle Eigenschaften einer Welle. Es 
