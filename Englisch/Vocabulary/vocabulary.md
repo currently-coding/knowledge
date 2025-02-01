@@ -173,7 +173,7 @@ to accelerate(verb) (New scientific findings accelerated our research., Thanks t
 to facilitate(verb) (The new interface facilitates user input., The handout facilitated the overview of the topics., The new law facilitates international trade., The new law facilitates the creation of many new jobs.) ::: erleichtern, fördern, ermöglichen
 <!--SR:!2025-05-06,165,353!2026-04-10,447,395-->
 marginalization(noun) () ::: Marginalisierung, Ausgrenzung
-<!--SR:!2026-04-02,442,395!2025-02-01,101,373-->
+<!--SR:!2026-04-02,442,395!2026-07-02,516,393-->
 to marginalize(verb) (We integrate minority groups and do not marginalize them.) ::: marginalisieren
 <!--SR:!2026-06-02,492,395!2025-01-31,100,376-->
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
@@ -271,7 +271,7 @@ stark(adjective) (There is a stark contrast between city life and country life.,
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
 <!--SR:!2025-08-04,245,377!2025-03-16,134,387-->
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
-<!--SR:!2025-01-30,98,381!2026-04-07,436,397-->
+<!--SR:!2026-06-27,511,401!2026-04-07,436,397-->
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
 <!--SR:!2025-02-01,97,381!2026-02-14,384,377-->
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
@@ -299,7 +299,7 @@ whereby(adverb) () ::: wobei, wodurch, womit
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren
 <!--SR:!2026-04-04,433,405!2025-01-20,88,379-->
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
-<!--SR:!2025-11-14,322,381!2025-02-01,97,379-->
+<!--SR:!2025-11-14,322,381!2026-06-19,503,399-->
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
 <!--SR:!2025-03-24,135,388!2026-04-01,430,399-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
@@ -352,17 +352,17 @@ to clarify(verb) (In the first place, the police officer needed to clarify the f
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren
 <!--SR:!2025-01-30,95,388!2025-08-17,247,381-->
 oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff
-<!--SR:!2025-03-15,133,387!2025-01-28,93,381-->
+<!--SR:!2025-03-15,133,387!2026-06-01,485,401-->
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
 <!--SR:!2026-01-11,372,387!2026-04-08,437,401-->
 to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
-<!--SR:!2025-02-08,104,388!2025-01-28,97,381-->
+<!--SR:!2025-02-08,104,388!2026-06-22,506,401-->
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
 <!--SR:!2025-10-09,292,387!2026-02-23,393,381-->
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
-<!--SR:!2026-01-12,373,387!2025-01-30,95,389-->
+<!--SR:!2026-01-12,373,387!2026-06-21,505,409-->
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
-<!--SR:!2025-02-01,91,368!2026-05-30,490,401-->
+<!--SR:!2026-05-06,459,388!2026-05-30,490,401-->
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
 <!--SR:!2025-02-13,108,389!2025-09-17,264,345-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
@@ -566,7 +566,7 @@ to venture(verb) (I ventured a guess about the company's profit., He ventured a 
 to supervise(verb) (To ensure quality, production is constantly supervised., The professor supervises the student's work., The senior doctor is supervising the interns., A foreman supervises the other workers.) ::: überwachen, betreuen, beaufsichtigen
 <!--SR:!2025-03-25,123,412!2025-03-26,59,383-->
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant
-<!--SR:!2025-05-14,163,412!2025-01-29,57,382-->
+<!--SR:!2025-05-14,163,412!2025-11-26,298,402-->
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2025-08-15,201,395!2025-06-01,156,423-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
@@ -1155,7 +1155,7 @@ Rückschluss(noun) (Ein Rückschluss auf die Ursachen ist schwierig.) := inferen
 Resilienz(noun) (Die Resilienz der Systeme wird in Krisen deutlich.) := resilience, adaptability
 <!--SR:!2025-03-27,60,375-->
 Kausalität(noun) (Die Kausalität zwischen den Ereignissen muss überprüft werden.) := causality, cause-and-effect relationship
-<!--SR:!2025-01-29,22,395-->
+<!--SR:!2025-05-31,119,415-->
 Paradigmenwechsel(noun) (Die Forschung deutet auf einen Paradigmenwechsel hin.) := paradigm shift, fundamental change
 <!--SR:!2025-05-24,137,406-->
 Kohärenz(noun) (Seine Argumentation besticht durch Kohärenz.) := coherence, consistency, logical flow
@@ -1165,7 +1165,7 @@ Redundanz(noun) (Die Redundanz dieser Daten erhöht die Zuverlässigkeit.) := re
 Prämisse(noun) (Die Prämisse der Theorie ist umstritten.) := premise, assumption, foundational idea
 <!--SR:!2025-01-27,1,315-->
 Diskrepanz(noun) (Die Diskrepanz zwischen Theorie und Praxis ist offensichtlich.) := discrepancy, inconsistency, gap
-<!--SR:!2025-01-28,3,335-->
+<!--SR:!2025-02-11,10,335-->
 Hypothese(noun) (Die Hypothese wurde umfassend getestet.) := hypothesis, proposed explanation, conjecture
 <!--SR:!2025-02-05,10,326-->
 Konvergenz(noun) (Die Konvergenz der Ansichten ist bemerkenswert.) := convergence, alignment
@@ -1179,7 +1179,7 @@ Korrelation(noun) (Die Korrelation zwischen den Variablen ist hoch.) := correlat
 Präzedenzfall(noun) (Dieser Präzedenzfall wird oft zitiert.) := precedent, prior example, case reference
 <!--SR:!2025-03-20,53,390-->
 Differenzierung(noun) (Eine Differenzierung der Faktoren ist notwendig.) := differentiation, nuanced distinction, granularity
-<!--SR:!2025-01-28,1,315-->
+<!--SR:!2025-02-02,1,295-->
 Antithese(noun) (Seine Meinung bildet die Antithese zur populären Ansicht.) := antithesis, opposition, contrasting viewpoint
 <!--SR:!2025-02-11,16,375-->
 Implikation(noun) (Die Implikationen dieser Forschung sind weitreichend.) := implication, consequence, inference
@@ -1195,7 +1195,7 @@ falsifizieren(verb) (Die Theorie konnte falsifiziert werden.) := to falsify, to 
 implizieren(verb) (Seine Worte implizieren eine Zustimmung.) := to imply, to suggest, to entail
 <!--SR:!2025-01-31,5,375-->
 extrapolieren(verb) (Die Daten erlauben es uns, zukünftige Trends zu extrapolieren.) := to extrapolate, to predict based on data, to project
-<!--SR:!2025-01-28,2,355-->
+<!--SR:!2025-02-02,1,335-->
 konvergieren(verb) (Die Meinungen konvergieren in einem Punkt.) := to converge, to come together, to align
 <!--SR:!2025-02-24,77,386-->
 divergieren(verb) (Die Ansichten der Experten divergieren stark.) := to diverge, to differ, to split
@@ -1234,22 +1234,29 @@ rekonstruieren(verb) (Die Ereignisse wurden aus verschiedenen Berichten rekonstr
 koordinieren(verb) (Die Forscher koordinierten ihre Experimente.) := to coordinate, to organize, to align
 <!--SR:!2025-02-01,5,355-->
 isolieren(verb) (Sie isolierten die variable Komponente im Experiment.) := to isolate, to separate, to single out
+<!--SR:!2025-02-06,5,401-->
 <<<<<<< HEAD
-<!--SR:!2025-01-01,26,390-->pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen 
+pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
+<!--SR:!2025-01-01,26,390!2025-02-06,5,401-->
 whatsoever(adverb) () ::: überhaupt 
-fantasy(noun) (In the author's new book reality and fantasy merge seamlessly.) ::: Fantasie, Phantasie, Fantasy 
-Fantasy(noun) () ::: fantasy 
+fantasy(noun) (In the author's new book reality and fantasy merge seamlessly.) ::: Fantasie, Phantasie, Fantasy
+<!--SR:!2000-01-01,1,250!2025-02-06,5,401-->
+Fantasy(noun) () ::: fantasy
+<!--SR:!2025-02-06,5,401!2000-01-01,1,250-->
 sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
 formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher 
-former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige 
-to widen(verb) (A shift in perspective can widen our horizon., The city widened the roads to ease the traffic flow., The police has widened the search for the suspect., The police widened the search area to the entire town., The police widened the search for the suspect.) ::: erweitern, verbreitern, ausweiten 
-<!--SR:!2025-01-31,5,401-->
+former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige
+<!--SR:!2025-02-06,5,401!2000-01-01,1,250-->
+to widen(verb) (A shift in perspective can widen our horizon., The city widened the roads to ease the traffic flow., The police has widened the search for the suspect., The police widened the search area to the entire town., The police widened the search for the suspect.) ::: erweitern, verbreitern, ausweiten
+<!--SR:!2025-01-31,5,401!2025-02-02,1,361-->
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
 <!--SR:!2025-06-12,137,410!2025-01-31,5,401-->
-head(noun) (The hat is too big for my head., He wears a hat on his head., The head of this department is responsible for all activities by his employees., He was promoted to head of division., The head of the company designated his successor today.) ::: Kopf, Leiter, Chef 
+head(noun) (The hat is too big for my head., He wears a hat on his head., The head of this department is responsible for all activities by his employees., He was promoted to head of division., The head of the company designated his successor today.) ::: Kopf, Leiter, Chef
+<!--SR:!2000-01-01,1,250!2025-02-06,5,401-->
 to head(verb) (The player headed the ball into the goal., The most experienced professor heads the research department., We started the boat and headed east., The oldest boyscout headed the group.) ::: köpfen, leiten, steuern 
 to permeate(verb) (The liquid permeated the substrate.) ::: durchdringen, durchsetzen 
-to amass(verb) (In the course of his life, my uncle has amassed great wealth.) ::: sammeln, anhäufen, aufhäufen 
+to amass(verb) (In the course of his life, my uncle has amassed great wealth.) ::: sammeln, anhäufen, aufhäufen
+<!--SR:!2000-01-01,1,250!2025-02-06,5,401-->
 sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
 formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher 
 former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige 
