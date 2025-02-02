@@ -2,11 +2,11 @@
 
 ---
 
-![[Pro]]
+![[Jugend Debattiert/2025/Nationalhymne/Pro]]
 
 ---
 
-![[Contra]]
+![[Jugend Debattiert/2025/Nationalhymne/Contra]]
 
 ---
 
