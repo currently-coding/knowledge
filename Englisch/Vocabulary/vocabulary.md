@@ -217,7 +217,7 @@ to stake(verb) () ::: einsetzen, abstecken, pfählen
 in parallel(adverb) (Both events took place in parallel.) ::: nebeneinander, zeitgleich
 <!--SR:!2026-07-06,520,396!2026-03-21,421,373-->
 versus(preposition) (Today's rugby match is England versus France.) ::: gegen, contra, kontra
-<!--SR:!2025-02-02,102,376!2026-02-21,393,373-->
+<!--SR:!2026-07-12,525,396!2026-02-21,393,373-->
 versus(noun) () ::: Rückseite einer Münze
 <!--SR:!2025-09-27,288,376!2026-03-16,416,372-->
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
@@ -253,7 +253,7 @@ to engender(verb) (The controversial film engendered a lively discussion., Mutua
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden,
 <!--SR:!2025-03-28,126,368!2025-03-09,42,337-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
-<!--SR:!2025-02-02,98,379!2026-03-25,423,397-->
+<!--SR:!2026-06-25,508,399!2026-03-25,423,397-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
 <!--SR:!2026-06-28,512,397!2025-02-04,102,379-->
 vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar
@@ -311,7 +311,7 @@ craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
 <!--SR:!2026-01-12,372,387!2026-04-22,451,399-->
 to call attention(verb) () ::: aufmerksam machen
-<!--SR:!2026-04-17,446,399!2025-02-02,98,381-->
+<!--SR:!2026-04-17,446,399!2026-06-30,513,401-->
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
 <!--SR:!2026-05-11,470,401!2025-02-06,102,379-->
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
@@ -328,7 +328,7 @@ yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem(Konju
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
 <!--SR:!2026-05-18,477,399!2025-02-17,112,388-->
 palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
-<!--SR:!2026-04-28,457,399!2025-02-02,101,385-->
+<!--SR:!2026-04-28,457,399!2026-07-19,532,405-->
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
 <!--SR:!2026-04-29,458,401!2025-01-19,87,379-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
