@@ -2,4 +2,4 @@ Nationalismus
 ?
 >[!Definition]
 >Politische Strömung des 19. Jhs., die einen gemeinsamen National- staat anstrebt; heute Bezeichnung für ein übersteigertes Nationalbewusstsein, das die eigene Nation vor andere stellt.
-<!--SR:!2025-01-29,4,270-->
+<!--SR:!2025-02-18,15,290-->
