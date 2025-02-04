@@ -255,7 +255,7 @@ to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwir
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
 <!--SR:!2026-06-25,508,399!2026-03-25,423,397-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
-<!--SR:!2026-06-28,512,397!2025-02-04,102,379-->
+<!--SR:!2026-06-28,512,397!2026-07-17,528,399-->
 vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar
 <!--SR:!2025-01-24,93,379!2026-04-20,449,397-->
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
@@ -404,7 +404,7 @@ ray(noun) () ::: Strahl, Lichtstrahl, Rochen
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 <!--SR:!2024-12-20,59,369!2025-01-26,90,367-->
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen
-<!--SR:!2025-10-23,306,388!2025-02-04,100,387-->
+<!--SR:!2025-10-23,306,388!2026-07-18,529,407-->
 to address oneself to(verb) () ::: sich etw. widmen
 <!--SR:!2026-03-26,424,388!2025-12-09,336,365-->
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
