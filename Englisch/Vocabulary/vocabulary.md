@@ -370,7 +370,7 @@ to enhance(verb) (The application can enhance the image quality., The agreement 
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
 <!--SR:!2026-04-15,444,405!2025-02-09,105,388-->
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
-<!--SR:!2025-02-05,101,389!2025-03-08,106,347-->
+<!--SR:!2026-07-26,536,409!2025-03-08,106,347-->
 sigh(noun) () ::: Seufzer, Seufzen
 <!--SR:!2026-05-10,469,405!2025-03-01,119,387-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln

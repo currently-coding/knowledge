@@ -8,6 +8,7 @@ Email (on ARPANET) := 1971
 TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
 DNS(Domain Name System): maps IPs to human readable domain names := 1984
 WWW: Tim Berners-Lee proposed and developed the WWW at CERN := 1989 - 1990
+<!--SR:!2025-02-08,3,257-->
 First Web Browser := Mosaic - 1993 - provided a graphical interface
 <!--SR:!2025-01-27,1,223-->
 First Search Engine := Yahoo! - 1994
@@ -36,8 +37,9 @@ Introduction of *GPS* := 1995 - GPS became fully operational for military and ci
 <!--SR:!2025-01-27,1,229-->
 Assembly Language and Compilers := 1950s - 1960s - paved the way for more complex programming
 Version Control System := 2000s - Git was created by Linus Torvalds in 2005
-<!--SR:!2025-02-03,1,220-->
+<!--SR:!2025-02-07,2,220-->
 Public Key Cryptography :=  1976 - Whitfield Diffie and Martin Hellman introduced public key cryptography
 <!--SR:!2025-02-03,1,209-->
 Stuxnet Worm := 2010 - marked new era of cyber-warfare
+<!--SR:!2025-02-06,1,217-->
 Zero-Day-Exploits and the Rise of CyberSec := 2010s
