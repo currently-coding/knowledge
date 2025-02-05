@@ -324,7 +324,7 @@ ongoing(adjective) (Learning is an ongoing, lifelong process., Learning is an on
 yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go to bed yet?, Are we there yet?) ::: dennoch, zugleich, schon
 <!--SR:!2026-01-07,365,379!2025-01-07,76,361-->
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem(Konjunktion)
-<!--SR:!2025-02-05,101,389!2025-10-24,307,379-->
+<!--SR:!2026-07-27,537,409!2025-10-24,307,379-->
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
 <!--SR:!2026-05-18,477,399!2025-02-17,112,388-->
 palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
@@ -444,7 +444,7 @@ to strip(verb) (The electrician stripped the cable and installed the lamp., It i
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
 <!--SR:!2025-05-29,186,367!2025-04-08,150,388-->
 to sanction(verb) (The committee sanctioned the expenditure for the project.) ::: genehmigen, sanktionieren, billigen
-<!--SR:!2025-02-05,100,369!2025-07-03,206,347-->
+<!--SR:!2026-07-03,513,389!2025-07-03,206,347-->
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
 <!--SR:!2026-01-27,388,387!2026-01-28,386,389-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
