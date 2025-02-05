@@ -1,18 +1,19 @@
 Nikolaus Kopernikus behauptet, dass sich die Erde um die Sonne dreht := 1514
 James Watt erfindet die Dampfmaschine := 1768
 Galvani entdeckt die galvanische Elektrizität := 1771
-<!--SR:!2024-11-16,14,290-->
+<!--SR:!2025-04-01,55,310-->
 ARPANET := 1989, October 29
 <!--SR:!2025-01-27,1,229-->
 Email (on ARPANET) := 1971
 TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
+<!--SR:!2025-02-07,2,237-->
 DNS(Domain Name System): maps IPs to human readable domain names := 1984
 WWW: Tim Berners-Lee proposed and developed the WWW at CERN := 1989 - 1990
 <!--SR:!2025-02-08,3,257-->
 First Web Browser := Mosaic - 1993 - provided a graphical interface
-<!--SR:!2025-01-27,1,223-->
+<!--SR:!2025-02-06,1,203-->
 First Search Engine := Yahoo! - 1994
-<!--SR:!2024-11-03,1,232-->
+<!--SR:!2025-02-06,1,212-->
 Google := 1998 - better search algorithm
 <!--SR:!2025-01-27,1,223-->
 Wi-Fi introduced := 1997 - IEEE 802.11 -> established wireless internet connections
