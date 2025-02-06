@@ -12,6 +12,14 @@
 	- nicht mit Wasser/Sand loeschbar
 
 
+## Sprengstoffgesetz
+![[Pasted image 20250206205107.png]]
+Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detailansicht/pyrotechnik-im-fussballstadion/)
+-> von Volljaehrigen ganzjaehrig kaufbar
+>[!Vorschlagsidee]
+>Kaufzeitraum und Menge einschraenken
+
+
 
 
 ## Strafen
@@ -31,11 +39,11 @@
 ## Links
 - [x] https://www.dw.com/de/fussball-bundesliga-diskussion-um-pyrotechnik-sicherheit-im-stadion/a-67519285
 	- [x] https://www.dw.com/de/hamburger-sv-wird-zum-pyro-pionier/a-52258158
-https://www.polizei-beratung.de/aktuelles/detailansicht/pyrotechnik-im-fussballstadion/
-https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html
-https://www.zdf.de/nachrichten/sport/fussball-bundesliga-fans-pyrotechnik-100.html
-https://www.sportschau.de/regional/mdr/mdr-vereine-fordern-abschaffung-von-verbandsstrafen-100.html
-https://www.zdf.de/nachrichten/sport/fussball-sicherheit-pyrotechnik-verbot-konferenz-innenminister-dfl-dfb-100.html
-https://www.sportschau.de/fussball/bundesliga/muss-der-dfb-die-verbote-aufbrechen,fussball-bundesliga-pyrotechnik-100.html
-https://www.sportschau.de/fussball/norwegen-erlaubt-pyrotechnik-in-stadien,pyrotechnik-norwegen-100.html
+- [x] https://www.polizei-beratung.de/aktuelles/detailansicht/pyrotechnik-im-fussballstadion/
+_ [ ] https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html
+- [ ] https://www.zdf.de/nachrichten/sport/fussball-bundesliga-fans-pyrotechnik-100.html
+- [ ] https://www.sportschau.de/regional/mdr/mdr-vereine-fordern-abschaffung-von-verbandsstrafen-100.html
+- [ ] https://www.zdf.de/nachrichten/sport/fussball-sicherheit-pyrotechnik-verbot-konferenz-innenminister-dfl-dfb-100.html
+- [ ] https://www.sportschau.de/fussball/bundesliga/muss-der-dfb-die-verbote-aufbrechen,fussball-bundesliga-pyrotechnik-100.html
+- [ ] https://www.sportschau.de/fussball/norwegen-erlaubt-pyrotechnik-in-stadien,pyrotechnik-norwegen-100.html
 - [x] https://www.anwalt.org/pyrotechnik-fussball/#pyrotechnik-beim-fussball-genutzt-welche-strafen-drohen-den-verantwortlichen
