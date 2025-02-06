@@ -1,4 +1,15 @@
 ## Geschichte
+- Seit 80er verwendet
+- Bengalos am beliebtesten
+	- für Seenotrettung entwickelt
+		-> entwickeln viel Rauch
+		-> brennen rot
+		-> Temp -> 2500
+	- verursachen schwere Verbrennungen
+	- herabfallende Schlacke lange heiss
+	- keine Sicht -> keine Orientierung
+	- Rauch giftig
+	- nicht mit Wasser/Sand loeschbar
 
 
 
