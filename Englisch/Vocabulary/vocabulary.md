@@ -293,7 +293,7 @@ provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
 <!--SR:!2026-01-07,368,381!2025-04-29,129,317-->
 reminder(noun) (We received a reminder for this invoice., The monument acts as a reminder of the past., I forgot to pay the bill and received a reminder.) ::: Mahnung, Erinnerung, Zahlungserinnerung
-<!--SR:!2025-02-06,102,388!2025-12-29,359,377-->
+<!--SR:!2026-08-01,541,408!2025-12-29,359,377-->
 whereby(adverb) () ::: wobei, wodurch, womit
 <!--SR:!2025-09-01,269,377!2025-12-26,356,379-->
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren
@@ -313,7 +313,7 @@ to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen
 to call attention(verb) () ::: aufmerksam machen
 <!--SR:!2026-04-17,446,399!2026-06-30,513,401-->
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
-<!--SR:!2026-05-11,470,401!2025-02-06,102,379-->
+<!--SR:!2026-05-11,470,401!2026-07-20,529,399-->
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
 <!--SR:!2025-03-07,125,388!2025-11-16,324,381-->
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
@@ -454,7 +454,7 @@ vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the po
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
 <!--SR:!2026-05-02,461,407!2025-02-09,105,389-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
-<!--SR:!2025-10-07,290,385!2025-02-06,102,389-->
+<!--SR:!2025-10-07,290,385!2026-08-02,542,409-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
 <!--SR:!2025-05-26,185,365!2025-02-14,109,387-->
 excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich
