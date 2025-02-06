@@ -48,4 +48,4 @@ $${[a]}^{20}_{D} = \frac{-2.6^{\degree} \cdot 1mL}{1dm \cdot g(1, H_{2}O)}$$
 - die Küvette ist $1dm$ lang
 - es wurde gelbes Natriumlicht verwendet($D$ = Licht einer Natriumdampflampe)
 $\rightarrow$ dann wurde die *Schwingungsebene* des [[Polarimetrie|linear polarisierten Lichts]] um $2.6^{\degree}$ nach links gedreht
-<!--SR:!2025-02-06,5,232-->
+<!--SR:!2025-02-22,16,252-->
