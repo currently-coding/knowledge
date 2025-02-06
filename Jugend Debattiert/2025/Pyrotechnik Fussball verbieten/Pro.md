@@ -3,4 +3,5 @@
 
 
 ## Bisheriges Verbot hilft nicht
-- nur Geldstrafen fuer Vereine, die unschuldig sind
+- nur Geldstrafen für Vereine, die unschuldig sind
+- Kollektivstrafe, weil Täter unbekannt
