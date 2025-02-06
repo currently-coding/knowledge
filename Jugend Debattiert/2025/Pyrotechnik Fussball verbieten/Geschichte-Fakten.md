@@ -19,7 +19,7 @@
 
 ## Links
 - [x] https://www.dw.com/de/fussball-bundesliga-diskussion-um-pyrotechnik-sicherheit-im-stadion/a-67519285
-	- [ ] https://www.dw.com/de/hamburger-sv-wird-zum-pyro-pionier/a-52258158
+	- [x] https://www.dw.com/de/hamburger-sv-wird-zum-pyro-pionier/a-52258158
 https://www.polizei-beratung.de/aktuelles/detailansicht/pyrotechnik-im-fussballstadion/
 https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html
 https://www.zdf.de/nachrichten/sport/fussball-bundesliga-fans-pyrotechnik-100.html
