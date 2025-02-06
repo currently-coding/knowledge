@@ -1,7 +1,7 @@
 ## Gefahr
 ### Enger Raum
 - in Sitzreihen
-- Pyrotechnik ist nicht fuer Zuendung neben Menschen entworfen
+- Pyrotechnik ist nicht für Zündung neben Menschen entworfen(Pyroexperte der DW)
 
 ### Aufgeheizte Stimmung
 - Gruppendynamik
