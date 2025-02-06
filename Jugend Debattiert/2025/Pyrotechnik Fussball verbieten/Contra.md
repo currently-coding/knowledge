@@ -1,10 +1,14 @@
 ## Gefahr
 ### Enger Raum
 - in Sitzreihen
-- Pyrotechnik ist nicht für Zündung neben Menschen entworfen(Pyroexperte der DW)
+>"Diese Dinger sind nicht dafür gedacht, in nächster Nähe von anderen Menschen benutzt zu werden" - Pyro-experte der DW
 
 ### Aufgeheizte Stimmung
 - Gruppendynamik
 
 ### für andere Besucher
 - Rauchgase
+
+### fer Spieler
+- kann Karrieren beenden
+	- Finger ab, weil in der Hand explodiert
