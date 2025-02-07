@@ -14,6 +14,7 @@
 
 
 ## 2. Bisheriges Verbot hilft nicht - etw. muss sich aendern
+- *Ritualisierter Regelbruch*
 - nur Geldstrafen für Vereine, die unschuldig sind
 - *Kollektivstrafe*, weil Täter unbekannt
 	- Ermittlungen zu teuer und aufwendig
