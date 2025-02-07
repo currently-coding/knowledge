@@ -32,7 +32,7 @@
 
 
 # Vorschlag: Von Profis in Pausen
-## Nicht authenthisch
+## Nicht authentisch
 - soll Emotionen zeigen
 	- Emotionen sind spontan und echt <-> geplant
-- muss persoenlich sein <-> von Profis durchgefuehrt
+- muss persönlich sein <-> von Profis durchgeführt
