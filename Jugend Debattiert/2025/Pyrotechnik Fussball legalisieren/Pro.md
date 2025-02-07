@@ -21,6 +21,9 @@
 
 >There is no safe use of pyrotechnics in spectator areas at football events within stadia or in crowded places - Sports Ground Safety Authority(american football) 
 
+### Andere Sportarten
+- professionell durechgefuehrte Shows zu Beginn/Halbzeit
+
 ---
 ## Verringert illegale Nutzung
 - siehe 1. und 2. 
