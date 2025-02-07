@@ -13,3 +13,11 @@
 ### fer Spieler
 - kann Karrieren beenden
 	- Finger ab, weil in der Hand explodiert
+
+
+
+## Umwelt
+- viel Müll und CO2
+
+### Gegensätzliche Entscheidung
+- an Silvester will man weniger Pyro wegen Umwelt, soll das jetzt aber für jedes Fußballspiel(viele) erlauben
