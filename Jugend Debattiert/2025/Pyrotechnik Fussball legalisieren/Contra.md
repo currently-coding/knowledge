@@ -1,3 +1,10 @@
+# Allgemein
+## Formel 1
+- will strikter gegen Pyro vorgehen wegen Risiken
+
+
+## Andere Sportarten sollten gleiche Rechte bekommen
+
 # Vorschlag: Allgemeine Erlaubnis
 ## Gefahr
 - bis zu 2500 Grad Celcius
@@ -11,14 +18,9 @@
 ### für andere Besucher
 - Rauchgase
 
-### fer Spieler
+### für Spieler
 - kann Karrieren beenden
 	- Finger ab, weil in der Hand explodiert
-
-
-
-## Umwelt
-- viel Müll und CO2
 
 ## Gegensätzliche Entscheidung
 ### Umwelt
@@ -27,8 +29,10 @@
 
 - an Silvester will man weniger Pyro wegen Umwelt, soll das jetzt aber für jedes Fußballspiel(viele) erlauben
 
-## Formel 1
-- will strikter gegen Pyro vorgehen wegen Risiken
 
 
-## Andere Sportarten sollten gleiche Rechte bekommen
+# Vorschlag: Von Profis in Pausen
+## Nicht authenthisch
+- soll Emotionen zeigen
+	- Emotionen sind spontan und echt <-> geplant
+- muss persoenlich sein <-> von Profis durchgefuehrt
