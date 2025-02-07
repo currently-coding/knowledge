@@ -84,7 +84,7 @@
   "Components@@file-names-untrim": true,
   "Components@@folder-font-bold": true,
   "Components@@file-icon-remove": false,
-  "Components@@colorful-folder": true,
+  "Components@@colorful-folder": false,
   "Components@@outline-enhanced": true,
   "Components@@extra-anim-remove": true,
   "Components@@setting-item-title-icon-remove": false,
