@@ -6,10 +6,10 @@
 		-> brennen rot
 		-> Temp -> 2500
 	- verursachen schwere Verbrennungen
-	- herabfallende Schlacke lange heiss
+	- herabfallende Schlacke lange heiß
 	- keine Sicht -> keine Orientierung
 	- Rauch giftig
-	- nicht mit Wasser/Sand loeschbar
+	- nicht mit Wasser/Sand löschbar
 
 
 ## Sprengstoffgesetz
