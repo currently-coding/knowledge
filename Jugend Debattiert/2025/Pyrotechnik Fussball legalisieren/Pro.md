@@ -12,17 +12,18 @@
 	- man muss Teil des ganzen Sein, um die Wirkung zu verstehen
 
 
-## 2. Bisheriges Verbot hilft nicht
+## 2. Bisheriges Verbot hilft nicht - etw. muss sich aendern
 - nur Geldstrafen für Vereine, die unschuldig sind
 - *Kollektivstrafe*, weil Täter unbekannt
 	- Ermittlungen zu teuer und aufwendig
 >"Die in den vergangenen Jahren ergriffenen Maßnahmen und härteren Sanktionen wie Geldstrafen, Kollektivstrafen, Verbot von Fan-Utensilien oder überzogene Einlasskontrollen haben nachweislich nicht dazu geführt, dass Pyrotechnik in Stadien weniger zum Einsatz gekommen ist" - Leiter Fankultur beim Hamburg SV
 
+
+>There is no safe use of pyrotechnics in spectator areas at football events within stadia or in crowded places - Sports Ground Safety Authority(american football) 
+
 ---
 ## Verringert illegale Nutzung
 - siehe 1. und 2. 
-
-
 
 
 
