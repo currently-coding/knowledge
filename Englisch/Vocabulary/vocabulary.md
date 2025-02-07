@@ -462,7 +462,7 @@ excruciating(adjective) (She was finally relieved from her excruciating pain.) :
 to excruciate(verb) () ::: quälen
 <!--SR:!2025-03-03,101,402!2025-03-05,119,401-->
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
-<!--SR:!2025-03-14,120,405!2025-02-07,79,361-->
+<!--SR:!2025-03-14,120,405!2026-03-05,391,381-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
 <!--SR:!2025-05-29,165,422!2025-02-10,51,261-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
