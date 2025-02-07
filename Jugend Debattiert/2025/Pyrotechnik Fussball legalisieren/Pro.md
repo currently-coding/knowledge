@@ -8,6 +8,9 @@
 >[!Norwegen]
 >Kulturministering Lubna Jaffery: "Teil der norwegischen Fankultur. Es schafft eine gute Stimmung und eine schöne Atmosphäre rund um die Spiele, sofern es auf sichere und verantwortungsvolle Weise genutzt wird"
 
+- traditionelles Stilmittel der Fankultur (https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html)
+	- man muss Teil des
+
 
 ## 2. Bisheriges Verbot hilft nicht
 - nur Geldstrafen für Vereine, die unschuldig sind

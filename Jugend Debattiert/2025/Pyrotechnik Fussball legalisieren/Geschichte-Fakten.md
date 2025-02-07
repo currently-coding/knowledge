@@ -1,6 +1,6 @@
 ## Geschichte
 - Seit 80er verwendet
-- Bengalos am beliebtesten
+- Bengalos(=*bdngalisches Feuer*) am beliebtesten
 	- für Seenotrettung entwickelt
 		-> entwickeln viel Rauch
 		-> brennen rot
