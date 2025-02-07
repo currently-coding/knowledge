@@ -19,11 +19,12 @@
 	- Ermittlungen zu teuer und aufwendig
 >"Die in den vergangenen Jahren ergriffenen Maßnahmen und härteren Sanktionen wie Geldstrafen, Kollektivstrafen, Verbot von Fan-Utensilien oder überzogene Einlasskontrollen haben nachweislich nicht dazu geführt, dass Pyrotechnik in Stadien weniger zum Einsatz gekommen ist" - Leiter Fankultur beim Hamburg SV
 
+>"Die die Strafen laut Winskowski "teilweise eher solidarisierend (…) gegen den Verband" - Studie Uni Rostock
 
 >There is no safe use of pyrotechnics in spectator areas at football events within stadia or in crowded places - Sports Ground Safety Authority(american football) 
 
 ### Andere Sportarten
-- professionell durechgefuehrte Shows zu Beginn/Halbzeit
+- professionell durchgeführte Shows zu Beginn/Halbzeit
 
 ---
 ## Verringert illegale Nutzung
