@@ -17,6 +17,7 @@
 
 ### für andere Besucher
 - Rauchgase
+- Arenen immer ueberdachter -> schlechter Luftdurchzug
 
 ### für Spieler
 - kann Karrieren beenden
@@ -36,3 +37,4 @@
 - soll Emotionen zeigen
 	- Emotionen sind spontan und echt <-> geplant
 - muss persönlich sein <-> von Profis durchgeführt
+-> Pyrotechnik kreiert einmalige Situationen, die man nicht künstlich herstellen kann
