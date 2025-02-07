@@ -21,3 +21,6 @@
 
 ### Gegensätzliche Entscheidung
 - an Silvester will man weniger Pyro wegen Umwelt, soll das jetzt aber für jedes Fußballspiel(viele) erlauben
+
+
+## Andere Sportarten sollten gleiche Rechte bekommen

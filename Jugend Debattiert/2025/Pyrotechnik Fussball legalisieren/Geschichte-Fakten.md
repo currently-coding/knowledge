@@ -10,6 +10,7 @@
 	- keine Sicht -> keine Orientierung
 	- Rauch giftig
 	- nicht mit Wasser/Sand löschbar
+**Abgrenzung von anderer Pyrotechnik**: "Pyrotechnik gehoert in die Hand, nicht auf den Boden" = keine Boeller, Feuerwerkskoerper, Fackelwuerfe
 
 
 ## Sprengstoffgesetz
