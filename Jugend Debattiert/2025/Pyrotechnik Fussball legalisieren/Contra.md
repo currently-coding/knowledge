@@ -1,3 +1,4 @@
+# Vorschlag: Allgemeine Erlaubnis
 ## Gefahr
 - bis zu 2500 Grad Celcius
 ### Enger Raum

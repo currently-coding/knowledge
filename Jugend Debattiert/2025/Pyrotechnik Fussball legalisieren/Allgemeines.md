@@ -5,12 +5,12 @@
 	- für Seenotrettung entwickelt
 		-> entwickeln viel Rauch
 		-> brennen rot
-		-> Temp -> 2500
+		-> Temp -> *2500*
 	- verursachen schwere Verbrennungen
 	- herabfallende Schlacke lange heiß
 	- keine Sicht -> keine Orientierung
 	- Rauch giftig
-	- nicht mit Wasser/Sand löschbar
+	- *nicht mit Wasser/Sand löschbar*
 **Abgrenzung von anderer Pyrotechnik**: "Pyrotechnik gehoert in die Hand, nicht auf den Boden" = keine Boeller, Feuerwerkskoerper, Fackelwuerfe
 
 
@@ -22,7 +22,7 @@ Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detaila
 >[!Vorschlagsidee]
 >Kaufzeitraum und Menge einschraenken
 
-
+>Mittlerweile wird das Zünden pyrotechnischer Gegenstände in einer Menschenmenge bundesweit als versuchte gefährliche Körperver-letzung (in der Variante „Beibringung von Gift“) eingestuft - https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html
 
 
 ## Strafen

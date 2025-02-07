@@ -1,5 +1,6 @@
 >[!Vorschlag]
 >Fans können ihre Pyroshow zu einem festgelegten Ort und Zeitpunkt (meist vor dem Spiel) unter Auflagen und in Kooperation mit Polizei und Feuerwehr durchführen
+>Diese Regelung soll nur in der 1. und 2. Bundesliga gelten. In anderen Ligen soll weiter ein striktes Verbot herrschen
 
 
 ---
