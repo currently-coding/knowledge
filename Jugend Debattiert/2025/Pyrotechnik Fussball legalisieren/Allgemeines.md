@@ -1,6 +1,7 @@
 ## Geschichte
 - Seit 80er verwendet
 - Bengalos(=*bdngalisches Feuer*) am beliebtesten
+	- Kategorie: "Kleinfeuerwerk" 2/5
 	- für Seenotrettung entwickelt
 		-> entwickeln viel Rauch
 		-> brennen rot
@@ -17,6 +18,7 @@
 ![[Pasted image 20250206205107.png]]
 Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detailansicht/pyrotechnik-im-fussballstadion/)
 -> von Volljaehrigen ganzjaehrig kaufbar
+- jeder Umgang, Verkehr und die Einfuhr der dort aufgeführten Stoffe und Gegenstände einer Erlaubnis bedürfe
 >[!Vorschlagsidee]
 >Kaufzeitraum und Menge einschraenken
 
