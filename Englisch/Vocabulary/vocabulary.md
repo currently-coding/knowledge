@@ -668,7 +668,7 @@ to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of ol
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen
 <!--SR:!2024-12-19,27,402!2024-11-15,1,318-->
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen
-<!--SR:!2025-02-07,69,383!2025-03-04,98,397-->
+<!--SR:!2026-02-03,361,403!2025-03-04,98,397-->
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
 <!--SR:!2024-11-26,24,396!2025-04-15,136,417-->
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members.) ::: Bestimmung, Regelung, Bereitstellung
