@@ -40,7 +40,7 @@ Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detaila
 - [x] https://www.dw.com/de/fussball-bundesliga-diskussion-um-pyrotechnik-sicherheit-im-stadion/a-67519285
 	- [x] https://www.dw.com/de/hamburger-sv-wird-zum-pyro-pionier/a-52258158
 - [x] https://www.polizei-beratung.de/aktuelles/detailansicht/pyrotechnik-im-fussballstadion/
-_ [ ] https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html
+- [ ] https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html
 - [ ] https://www.zdf.de/nachrichten/sport/fussball-bundesliga-fans-pyrotechnik-100.html
 - [ ] https://www.sportschau.de/regional/mdr/mdr-vereine-fordern-abschaffung-von-verbandsstrafen-100.html
 - [ ] https://www.zdf.de/nachrichten/sport/fussball-sicherheit-pyrotechnik-verbot-konferenz-innenminister-dfl-dfb-100.html
