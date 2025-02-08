@@ -249,7 +249,7 @@ besides(adverb) (I am overqualified for the job, and besides, I have another off
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2026-01-19,377,387!2025-01-07,25,297-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
-<!--SR:!2025-06-05,193,368!2025-02-08,94,317-->
+<!--SR:!2025-06-05,193,368!2026-03-27,412,337-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden,
 <!--SR:!2025-03-28,126,368!2025-03-09,42,337-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
@@ -356,7 +356,7 @@ oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., T
 long(adjective) (Long skirts were in fashion then., She has long and slender legs., The rooms are connected by a long corridor., Long skirts were in fashion then., She has long and slender legs., The thirsty man took a long pull of water., After a long discussion they finally came to an agreement.) ::: lange, lang, groß
 <!--SR:!2026-01-11,372,387!2026-04-08,437,401-->
 to wipe(verb) (He wiped his dirty hands with a cloth., The teacher wiped the blackboard after class., He wiped his dirty hands with a cloth., After the lesson, a pupil wiped the blackboard., I wiped my feet before entering the house.) ::: abwischen, wischen, löschen
-<!--SR:!2025-02-08,104,388!2026-06-22,506,401-->
+<!--SR:!2026-08-14,552,408!2026-06-22,506,401-->
 wipe(noun) () ::: Wischen, Tuch, Reinigungstuch
 <!--SR:!2025-10-09,292,387!2026-02-23,393,381-->
 upgrade(noun) (There is an upgrade available for this software., Currently, there are no upgrades available., The upgrade of the hardware was provided free of charge., The computer has almost finished the upgrade.) ::: Upgrade, Aufrüstung, Aktualisierung
@@ -384,7 +384,7 @@ to comprehend(verb) (I tried to comprehend my brother's attitude., I could easil
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
 <!--SR:!2025-03-03,100,348!2026-06-29,513,407-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
-<!--SR:!2025-02-25,115,387!2025-02-08,104,385-->
+<!--SR:!2025-02-25,115,387!2026-08-10,548,405-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
 <!--SR:!2025-10-26,303,389!2024-12-25,59,328-->
 transformation(noun) (The Internet has led to a transformation of society.) ::: Umwandlung, Transformation, Umsetzung
@@ -422,7 +422,7 @@ homeless(adjective) (He has finally found a home and is no longer homeless., The
 home(adjective) () ::: einheimisch, inländisch
 <!--SR:!2026-04-22,451,408!2025-01-11,80,365-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
-<!--SR:!2025-04-18,160,388!2025-02-07,103,385-->
+<!--SR:!2025-04-18,160,388!2026-08-04,542,405-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
 <!--SR:!2026-06-10,500,409!2025-06-17,185,347-->
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
@@ -472,7 +472,7 @@ to strain(verb) (Working in the garden often strains the back., I always strain 
 creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: Kreativität, Schaffen, Schöpferkraft
 <!--SR:!2025-03-18,124,402!2025-03-21,117,401-->
 creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch
-<!--SR:!2025-04-20,149,401!2025-02-08,98,402-->
+<!--SR:!2025-04-20,149,401!2026-07-31,538,422-->
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
 <!--SR:!2025-03-16,105,403!2025-02-23,92,392-->
 to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun
