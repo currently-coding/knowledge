@@ -22,7 +22,7 @@ Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detaila
 >[!Vorschlagsidee]
 >Kaufzeitraum und Menge einschraenken
 
->Mittlerweile wird das Zünden pyrotechnischer Gegenstände in einer Menschenmenge bundesweit als versuchte gefährliche Körperver-letzung (in der Variante „Beibringung von Gift“) eingestuft - https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html
+>Mittlerweile wird das Zünden pyrotechnischer Gegenstände in einer Menschenmenge bundesweit als versuchte gefährliche Körperverletzung (in der Variante „Beibringung von Gift“) eingestuft - https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html
 
 
 ## Strafen
