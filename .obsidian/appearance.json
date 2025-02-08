@@ -11,5 +11,6 @@
     "Print"
   ],
   "interfaceFontFamily": "",
-  "textFontFamily": "Cascadia Code,Calibri,Microsoft Sans Serif,Sans Serif Collection,FiraCode Nerd Font"
+  "textFontFamily": "Cascadia Code,Calibri,Microsoft Sans Serif,Sans Serif Collection,FiraCode Nerd Font",
+  "showRibbon": true
 }
