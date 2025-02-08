@@ -32,7 +32,7 @@ Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detaila
 
 ## Vorgehen DFB-Leitlinie
 - DFB-Leitlinie:
-	>Per Stadiondurchsage wird mit mahnenden Worten darauf hingewiesen, dass das Abbrennen von Pyrotechnik zu unterlassen hat. Wiederholen sich die Zwischenfälle, muss der Schiedsrichter die Teams in die Kabine führen. Geht es danach immer noch weiter, wird das Spiel abgebrochen
+>Per Stadiondurchsage wird mit mahnenden Worten darauf hingewiesen, dass das Abbrennen von Pyrotechnik zu unterlassen hat. Wiederholen sich die Zwischenfälle, muss der Schiedsrichter die Teams in die Kabine führen. Geht es danach immer noch weiter, wird das Spiel abgebrochen
 
 
 
