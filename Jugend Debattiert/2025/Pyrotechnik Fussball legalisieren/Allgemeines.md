@@ -42,7 +42,7 @@ Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detaila
 - ähnelt Norwegischer Lösung
 -> -84% Vergehen gegen Pyrotechnikgesetz
 -> -80% Anzeigen
--> 
+-> Anzeigen+Vergehen immer seltener
 
 
 ## Links
