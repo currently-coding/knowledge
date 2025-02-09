@@ -13,8 +13,7 @@
 >Pyro gehört zur Fankultur
 
 ---
-# 1. Sicherheit
-## 1.1 
+## 1. Sicherheit
 ### Behauptung
 - Stadien sind derzeitig unsicher wegen Pyro
 -> müssen sicherer sein, damit jeder das Stadium besuchen kann
@@ -31,5 +30,21 @@
 - Maßnahme hätte Sicherheitsabstand gefordert -> keine Verletzte
 ### Bezug
 - die Maßnahme stellt sicher, dass nur noch Bengalos in spezifischen Zonen verwendet werden
+
+## 2. Strafen nicht sinnvoll
+### Fakten
+- seit 2018 Geldstrafen verdoppelt: 3.000.000 -> 7.500.000 in 300 Gerichtsverfahren
+### Behauptung
+- Strafen lösen das Problem nicht/haben keine Wirkung
+### Begründung
+- Wer zahlt die Strafe? -> der Verein...
+-> wirken nicht gegen die Täter, sondern sind *Kollektivstrafen*
+-> hat *ritualisierten Regelbruch* zur Folge
+>"Die die Strafen laut Winskowski "teilweise eher solidarisierend (…) gegen den Verband" - Studie Uni Rostock
+
+-> schadet Vereinen(siehe Beschwerde bei DFB)
+### Beispiel
+- in Einleitung
+### Bezug
 
 
