@@ -64,12 +64,17 @@
 - Stadien wurden geprüft, etc.
 ABER: Ultras sahen sich zu eingeschränkt -> scheitert
 
-
 ## Aufwand
 - Stadium prüfen
 - Namensliste
 	- jeder muss Schulung durchlaufen
 - man muss nüchtern sein
-- 1m Abstand beim Zuenden
+- 1m Abstand beim zünden
 ## Vgl Österreich
 - grosses Unverständnis ggu einander(Behörde <-> Ultras) wegen Vorgaben
+
+## Deutsche Ultras andere Geschichte
+- norwegische Ultras sind quasi nie gewalttätig
+-> haben positives Bild in Gesellschaft
+- Österreich hat bereits Erfahrung mit Pyro beim Skisport
+=> in Deutschland nicht der Fall

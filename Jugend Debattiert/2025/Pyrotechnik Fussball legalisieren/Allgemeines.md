@@ -10,8 +10,8 @@
 	- herabfallende Schlacke lange heiß
 	- keine Sicht -> keine Orientierung
 	- Rauch giftig
-	- *nicht mit Wasser/Sand löschbar*
-**Abgrenzung von anderer Pyrotechnik**: "Pyrotechnik gehoert in die Hand, nicht auf den Boden" = keine Boeller, Feuerwerkskoerper, Fackelwuerfe
+	- *nicht mit Wasser löschbar*
+**Abgrenzung von anderer Pyrotechnik**: "Pyrotechnik gehört in die Hand, nicht auf den Boden" = keine Böller, Feuerwerkskörper, Fackelwuerfe
 
 
 ## Sprengstoffgesetz
@@ -30,6 +30,10 @@ Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detaila
     - https://www.sportschau.de/regional/mdr/mdr-vereine-fordern-abschaffung-von-verbandsstrafen-100.html
 	![[Pasted image 20250206191905.png]]
 
+### Statistik
+- Seit 2018/2019 verdoppelt
+- 2022/2023: 300 Verfahren -> 7.369.400 Geldstrafe insgesamt
+	- Hauptanteil war Pyrotechnik
 ## Vorgehen DFB-Leitlinie
 - DFB-Leitlinie:
 >Per Stadiondurchsage wird mit mahnenden Worten darauf hingewiesen, dass das Abbrennen von Pyrotechnik zu unterlassen hat. Wiederholen sich die Zwischenfälle, muss der Schiedsrichter die Teams in die Kabine führen. Geht es danach immer noch weiter, wird das Spiel abgebrochen
@@ -54,7 +58,7 @@ Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detaila
 - [x] https://www.sportschau.de/regional/mdr/mdr-vereine-fordern-abschaffung-von-verbandsstrafen-100.html
 	- nicht relevant bzgl Vorschlag
 - [x] https://www.zdf.de/nachrichten/sport/fussball-sicherheit-pyrotechnik-verbot-konferenz-innenminister-dfl-dfb-100.html
-- [ ] https://www.sportschau.de/fussball/bundesliga/muss-der-dfb-die-verbote-aufbrechen,fussball-bundesliga-pyrotechnik-100.html
+- [x] https://www.sportschau.de/fussball/bundesliga/muss-der-dfb-die-verbote-aufbrechen,fussball-bundesliga-pyrotechnik-100.html
 - [x] https://www.sportschau.de/fussball/norwegen-erlaubt-pyrotechnik-in-stadien,pyrotechnik-norwegen-100.html
 - [x] https://www.anwalt.org/pyrotechnik-fussball/#pyrotechnik-beim-fussball-genutzt-welche-strafen-drohen-den-verantwortlichen
 - [x] http://www.emotionen-respektieren.de/
