@@ -227,7 +227,7 @@ outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
 <!--SR:!2026-05-05,450,395!2026-03-17,415,393-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
-<!--SR:!2026-04-26,455,393!2025-01-22,95,375-->
+<!--SR:!2026-04-26,455,393!2026-06-12,488,395-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
 <!--SR:!2026-05-23,482,393!2026-06-14,501,395-->
 nowadays(adverb) (Nowadays, important information is found on the internet., The sky is nowadays full of aircraft., Many chefs nowadays work with induction.) ::: heute, heutzutage, gegenwärtig
