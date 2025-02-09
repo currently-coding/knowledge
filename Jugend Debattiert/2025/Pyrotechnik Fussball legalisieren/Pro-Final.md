@@ -14,7 +14,7 @@
 
 ## Reden
 ### V1
-
+Immer extremer. Ein Satz der heutzutage auf vieles zutrifft. 
 
 
 ---
