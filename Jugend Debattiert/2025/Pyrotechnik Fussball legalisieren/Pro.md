@@ -6,12 +6,19 @@
 
 >[!Vorschlag 2]
 >Aufstellen designierter Behälter mit entsprechendem Loeschsand daneben, in denen bengalisches Feuer in den Kurven abbrennen darf. Jegliche andere Nutzung bleibt verboten. Zusaetzlich wird Vereinen freigestellt, vorm Spiel oder in der Halbzeit 'Pyro-Shows' zu zeigen.
+>- Genehmigung einreichen
 
 ---
 ## 1. Bereits gelebte Kultur
 - gehört für viele bereits zur Fußball-Kultur
 >[!Norwegen]
 >Kulturministering Lubna Jaffery: "Teil der norwegischen Fankultur. Es schafft eine gute Stimmung und eine schöne Atmosphäre rund um die Spiele, sofern es auf sichere und verantwortungsvolle Weise genutzt wird"
+>Konkret:
+>- abgesperrte "Pyrozonen"
+>- Namenslisten, die Pyro zuenden duerfen
+>- Loeschsand bereitgestellt
+
+
 
 - traditionelles Stilmittel der Fankultur (https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html)
 	- man muss Teil des ganzen Sein, um die Wirkung zu verstehen

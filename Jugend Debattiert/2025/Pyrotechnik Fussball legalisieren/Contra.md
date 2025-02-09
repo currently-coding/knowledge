@@ -16,8 +16,10 @@
 - Gruppendynamik
 
 ### für andere Besucher
+- v.a. Kinder - Fussball soll fuer alle zugaenglich sein
+	- laute Minderheit, darf nicht mehr Gehoer finden als die stille Mehrheit
 - Rauchgase
-- Arenen immer ueberdachter -> schlechter Luftdurchzug
+- Arenen immer überdachter -> schlechter Luftdurchzug
 
 ### für Spieler
 - kann Karrieren beenden
