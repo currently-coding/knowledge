@@ -5,7 +5,7 @@
 >
 
 >[!Vorschlag 2]
->Aufstellen designierter Behälter, in denen bengalisches Feuer in den Kurven abbrennen darf. Jegliche andere Nutzung bleibt verboten. Zusaetzlich wird Vereinen freigestellt, vorm Spiel oder in der Halbzeit 'Pyro-Shows' zu zeigen.
+>Aufstellen designierter Behälter mit entsprechendem Loeschsand daneben, in denen bengalisches Feuer in den Kurven abbrennen darf. Jegliche andere Nutzung bleibt verboten. Zusaetzlich wird Vereinen freigestellt, vorm Spiel oder in der Halbzeit 'Pyro-Shows' zu zeigen.
 
 ---
 ## 1. Bereits gelebte Kultur
