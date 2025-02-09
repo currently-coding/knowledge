@@ -70,8 +70,9 @@
 - zu wenig Freiheit
 - nimmt Spontaneität
 -> kein Ausdruck von Emotion mehr
-### Beispiel
-- noch zu finden
+### Beispiel: Oldenburg
+- Stadien wurden geprüft, etc.
+ABER: Ultras sahen sich zu eingeschränkt -> scheitert
 ### Bezug
 - verschiebt das Problem nur -> wird zu Illegalem führen
 
@@ -81,6 +82,8 @@
 ### Begründung
 - Zu viele Pyro-Nutzer, als dass Schulung möglich wäre
 - Überprüfung der Nüchternheit nicht umsetzbar
+- Auswaertsfans wären evtl ausgeschlossen, da keine Schulung/nicht auf Namensliste
+	-> Illegale Nutzung
 ### Beispiel
 - noch zu finden
 ### Bezug
