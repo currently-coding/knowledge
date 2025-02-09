@@ -18,8 +18,9 @@
 
 
 ## 2. Bisheriges Verbot hilft nicht - etw. muss sich ändern
-- *Ritualisierter Regelbruch*
-- nur Geldstrafen für Vereine, die unschuldig sind
+- nicht durchsetzbar
+-> *Ritualisierter Regelbruch*
+-> nur Geldstrafen für Vereine, die unschuldig sind
 - *Kollektivstrafe*, weil Täter unbekannt
 	- Ermittlungen zu teuer und aufwendig
 >"Die in den vergangenen Jahren ergriffenen Maßnahmen und härteren Sanktionen wie Geldstrafen, Kollektivstrafen, Verbot von Fan-Utensilien oder überzogene Einlasskontrollen haben nachweislich nicht dazu geführt, dass Pyrotechnik in Stadien weniger zum Einsatz gekommen ist" - Leiter Fankultur beim Hamburg SV
