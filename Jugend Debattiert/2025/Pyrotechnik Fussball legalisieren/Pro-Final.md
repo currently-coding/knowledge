@@ -14,7 +14,7 @@
 
 ## Reden
 ### V1
-Immer extremer. Ein Satz der heutzutage auf vieles zutrifft. 
+Immer extremer. Ein Satz der heutzutage auf vieles zutrifft. Doch heute soll es nicht um Politik gehen, sondern um Freizeit - um Fussball. Denn auch hier trifft dieser Satz zu. Seit 2018 sind die Geldstrafen um mehr als das doppelte angestiegen und erst letztens sind bei dem Spiel Augsburg-Hoffenheim 5 Menschen verletzt worden. Und das durch einen illegalen Boeller, der explodierte. Um die Sicherheit in unseren Stadien widerherzustellen muss sich etwas aendern. Soll Pyrotechnik in Fussballstadien erlaubt sein? Das mag zuerst widerspruechlich klingen, loest das Problem langfristig. Zuerst einmal wollen wir nur bengalisches Feuer legalisieren, denn Pyro gehoeWir schlagen vor, dass Stadien Genehmigungen beantragen koennen um Pyrotechnik dort zu erlauben. Wenn wir von Pyrotechnik sprechen beziehen wir uns nur auf bengalisches Feuer. 
 
 
 ---
