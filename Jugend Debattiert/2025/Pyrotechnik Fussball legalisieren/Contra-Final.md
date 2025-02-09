@@ -55,5 +55,31 @@
 - s. Fakten
 ### Beispiel
 - Jahn Regensburg: ~12.000 / 80% Stadionauslastung
-- viele Vereine meist 100% des Heimbreichs ausverkauft
-- Norwegen: Auslastung von ~70% / 18.000
+- viele Vereine meist 100% des Heimbereichs ausverkauft
+- Norwegen: Auslastung von ~70% / 6.000
+	- Max Schnitt: 16.000 <-> FC Bayern 75.000
+
+### Bezug
+- mag vielleicht in 3. Liga möglich sein, sonst nicht
+-> nicht vergleichbar
+
+## Fans unzufrieden
+### Behauptung
+- Fans mit Regelung unzufrieden
+### Begründung
+- zu wenig Freiheit
+- nimmt Spontaneität
+-> kein Ausdruck von Emotion mehr
+### Beispiel
+- noch zu finden
+### Bezug
+- verschiebt das Problem nur -> wird zu Illegalem führen
+
+## Aufwand
+### Behauptung
+- Aufwand zu hoch, wegen nicht vergleichbarer Situation
+### Begründung
+- Zu viele Pyro-Nutzer, als dass Schulung möglich wäre
+- Uebepruefung der
+### Beispiel
+### Bezug
