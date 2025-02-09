@@ -2,7 +2,6 @@
 ## Formel 1
 - will strikter gegen Pyro vorgehen wegen Risiken
 
-
 ## Andere Sportarten sollten gleiche Rechte bekommen
 
 # Vorschlag: Allgemeine Erlaubnis
@@ -39,6 +38,7 @@
 	- Emotionen sind spontan und echt <-> geplant
 - muss persönlich sein <-> von Profis durchgeführt
 -> Pyrotechnik kreiert einmalige Situationen, die man nicht künstlich herstellen kann
+- **Ultras wollen explizit selbst entscheiden, wann und wo sie zünden**
 
 
 

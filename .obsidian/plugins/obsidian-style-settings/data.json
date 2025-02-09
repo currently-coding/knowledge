@@ -109,5 +109,8 @@
   "minimal-style@@callouts-style": "callouts-default",
   "minimal-style@@callout-blend-mode": "normal",
   "Editor@@callout-border-opacity": 1,
-  "Editor@@callout-border-width": "1px"
+  "Editor@@callout-border-width": "1px",
+  "Editor@@collapse-icon-restore": false,
+  "Editor@@heading-indicator-off": false,
+  "Editor@@h3-size": "1.25em"
 }
