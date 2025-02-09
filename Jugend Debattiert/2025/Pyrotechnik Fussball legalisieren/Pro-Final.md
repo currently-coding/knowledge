@@ -25,15 +25,23 @@
 - Maßnahme erlaubt Bengalos und reduziert damit anderes Illegales
 -> sicherer
 ### Beispiel
+#### Negativ: Deutschland
 - Augsburg-Hoffenheim: Böller-Explosion -> mehrere Verletzte
 -> Spielabbruch -> unfair für den Rest, der Karten kauft
 - Maßnahme hätte Sicherheitsabstand gefordert -> keine Verletzte
+
 ### Bezug
 - die Maßnahme stellt sicher, dass nur noch Bengalos in spezifischen Zonen verwendet werden
-
+### Beispiel
+#### Positiv: Österreich
+- -84% bei Vergehen gegen das Pyrotechnikgesetz
+- -80% bei Anzeigen wegen Pyro
+-> funktioniert
 ## 2. Strafen nicht sinnvoll
 ### Fakten
 - seit 2018 Geldstrafen verdoppelt: 3.000.000 -> 7.500.000 in 300 Gerichtsverfahren
+- Kosten:
+	![[Pasted image 20250206191905.png]]
 ### Behauptung
 - Strafen lösen das Problem nicht/haben keine Wirkung
 ### Begründung
@@ -58,9 +66,10 @@
 - Pyro ist nicht abschaffbar und wird immer ein Teil des Fußball bleiben
 -> Ziel muss sicherer Einsatz sein
 ### Begründung
-- 
+- Ultras nehmen jetzt schon Illegalität in Kauf
+- "Teil der Fankultur" - Leiter Fankultur beim Hamburger SV
 ### Bezug
-
-
+- Maßnahme ermöglicht selbstbestimmten Gebrauch von Pyro
+-> nimmt Ultras ernst
 
 
