@@ -13,9 +13,19 @@
 >Pyro gehört zur Fankultur
 
 ---
-## 1. Sicherheit
+# 1. Sicherheit
+## 1.1 
 ### Behauptung
 - Stadien sind derzeitig unsicher wegen Pyro
 -> müssen sicherer sein, damit jeder das Stadium besuchen kann
+=> Massnahme erreicht d
 ### Begründung
 - Pyro wird auf engem Raum abgebrannt
+- Pyro wird geworfen
+### Beispiel
+- Augsburg-Hoffenheim: Böller-Explosion -> mehrere Verletzte
+-> Spielabbruch -> unfair für den Rest, der Karten kauft
+### Bezug
+- die Maßnahme stellt sicher, dass nur noch Bengalos in spezifischen Zonen verwendet werden
+
+

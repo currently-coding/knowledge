@@ -64,3 +64,4 @@ Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detaila
 - [x] http://www.emotionen-respektieren.de/
 - [x] https://www.aerztezeitung.de/Panorama/Die-gesundheitlichen-Gefahren-von-Pyrotechnik-im-Stadion-405642.html
 - [x] https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/4796/file/BACHELORARBEIT2.pdf
+- [x] https://www.sportschau.de/fussball/dfb-pyro-vorfaelle-berichterstattung-100.html
