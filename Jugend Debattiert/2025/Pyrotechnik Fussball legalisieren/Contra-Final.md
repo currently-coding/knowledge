@@ -14,10 +14,16 @@
 ### Begründung
 - gezündete Bengalos
 	- nehmen Sicht/Orientierung wegen starker Rauchentwicklung
-	- können aufgrund greller Magnesiumflamme Augenschaeden hervorrufen
+	- können aufgrund greller Magnesiumflamme Augenschäden hervorrufen
+	- können starke Verbrennungen hervorrufen
+		- herunterfallende Schlack hat nach Verbrennen min 400 Grad
+-> Kinder schauen Spiele an
 ### Beispiel
+- Augsburg-Hoffenheim: mehrere Verletzte durch Böller-Explosion im Fanblock
+-> Spielabbruch
 ### Bezug
-
+- man kauft Karten, nur damit das Spiel abgebrochen wird
+- die laute Minderheit, darf nicht der schweigenden Mehrheit den Spaß am Fußball nehmen
 
 ## Gefahr
 ### Fakten
