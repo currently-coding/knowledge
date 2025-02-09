@@ -179,7 +179,7 @@ to marginalize(verb) (We integrate minority groups and do not marginalize them.)
 distribution(noun) (The distribution of goods must be done fairly., The distribution of our products is managed from the headquarters.) ::: Verteilung, Vertrieb, Distribution
 <!--SR:!2026-01-18,379,392!2026-05-22,483,395-->
 to distribute(verb) (My sister distributes leaflets to earn some pocket money., They distributed the money fairly., Our company distributes many different products., The prize money is distributed among the winners., We distribute our products worldwide.) ::: verteilen, vertreiben, ausschütten
-<!--SR:!2026-05-28,489,392!2025-01-24,96,375-->
+<!--SR:!2026-05-28,489,392!2026-06-17,493,395-->
 Distribution(noun) () ::: distribution
 <!--SR:!2026-06-18,508,395!2026-02-11,403,393-->
 to a large extent(adverb) () ::: in hohem Maße, zum großen Teil, in hohem Ausmaß
