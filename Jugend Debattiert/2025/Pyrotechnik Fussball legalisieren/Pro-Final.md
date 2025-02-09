@@ -10,7 +10,7 @@
 ---
 >[!Annahmen]
 >Pyro ist nicht abschaffbar
->Pyro gehört zur Fankultur
+ Pyro kann immer reingeschmuggelt werden
 
 ---
 ## 1. Sicherheit
@@ -29,14 +29,13 @@
 - Augsburg-Hoffenheim: Böller-Explosion -> mehrere Verletzte
 -> Spielabbruch -> unfair für den Rest, der Karten kauft
 - Maßnahme hätte Sicherheitsabstand gefordert -> keine Verletzte
-
 ### Bezug
 - die Maßnahme stellt sicher, dass nur noch Bengalos in spezifischen Zonen verwendet werden
 ### Beispiel
 #### Positiv: Österreich
 - -84% bei Vergehen gegen das Pyrotechnikgesetz
 - -80% bei Anzeigen wegen Pyro
--> funktioniert
+-> funktioniert sehr effektiv
 ## 2. Strafen nicht sinnvoll
 ### Fakten
 - seit 2018 Geldstrafen verdoppelt: 3.000.000 -> 7.500.000 in 300 Gerichtsverfahren
@@ -50,10 +49,9 @@
 >"Die in den vergangenen Jahren ergriffenen Maßnahmen und härteren Sanktionen wie Geldstrafen, Kollektivstrafen, Verbot von Fan-Utensilien oder überzogene Einlasskontrollen haben nachweislich nicht dazu geführt, dass Pyrotechnik in Stadien weniger zum Einsatz gekommen ist" - Leiter Fankultur Hamburg SV
 
 -> hat *ritualisierten Regelbruch* zur Folge
->"Die die Strafen laut Winskowski "teilweise eher solidarisierend (…) gegen den Verband" - Studie Uni Rostock
+>"die Strafen wirken laut Winskowski "teilweise eher solidarisierend (…) gegen den Verband" - Studie Uni Rostock
 
-
--> schadet Vereinen(siehe Beschwerde bei DFB)
+-> schadet kleinen Vereinen(siehe Beschwerde bei DFB)
 ### Beispiel
 - in Einleitung
 ### Bezug
