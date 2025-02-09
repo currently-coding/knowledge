@@ -35,7 +35,15 @@ Bengalfakelen sind T1 oder P1 (https://www.polizei-beratung.de/aktuelles/detaila
 >Per Stadiondurchsage wird mit mahnenden Worten darauf hingewiesen, dass das Abbrennen von Pyrotechnik zu unterlassen hat. Wiederholen sich die Zwischenfälle, muss der Schiedsrichter die Teams in die Kabine führen. Geht es danach immer noch weiter, wird das Spiel abgebrochen
 
 ## Beispiele
-- Norwegen derzeitig in 2./3. Liga erlaubt
+### Norwegen
+- derzeitig in 2./3. Liga erlaubt
+
+### Österreich
+- ähnelt Norwegischer Lösung
+-> -84% Vergehen gegen Pyrotechnikgesetz
+-> -80% Anzeigen
+-> 
+
 
 ## Links
 - [x] https://www.dw.com/de/fussball-bundesliga-diskussion-um-pyrotechnik-sicherheit-im-stadion/a-67519285
