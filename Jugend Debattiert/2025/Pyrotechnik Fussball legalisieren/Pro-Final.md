@@ -18,13 +18,17 @@
 ### Behauptung
 - Stadien sind derzeitig unsicher wegen Pyro
 -> müssen sicherer sein, damit jeder das Stadium besuchen kann
-=> Massnahme erreicht d
+=> Maßnahme erreicht das, indem Pyro teilweise erlaubt wird(Bengalos)
+>"Pyrotechnik gehört in die Hand, nicht auf den Boden"
 ### Begründung
 - Pyro wird auf engem Raum abgebrannt
 - Pyro wird geworfen
+- Maßnahme erlaubt Bengalos und reduziert damit anderes Illegales
+-> sicherer
 ### Beispiel
 - Augsburg-Hoffenheim: Böller-Explosion -> mehrere Verletzte
 -> Spielabbruch -> unfair für den Rest, der Karten kauft
+- Maßnahme hätte Sicherheitsabstand gefordert -> keine Verletzte
 ### Bezug
 - die Maßnahme stellt sicher, dass nur noch Bengalos in spezifischen Zonen verwendet werden
 
