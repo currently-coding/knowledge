@@ -1,18 +1,17 @@
-- Bengalos erlauben, da meist verwendetes Pyromaterial
 >[!Vorschlag1]
 >Fans können ihre Pyroshow zu einem festgelegten Ort und Zeitpunkt (meist vor dem Spiel) unter Auflagen und in Kooperation mit Polizei und Feuerwehr durchführen
 >Diese Regelung soll nur in der 1. und 2. Bundesliga gelten. In anderen Ligen soll weiter ein striktes Verbot herrschen
 >
 
 >[!Vorschlag 2]
->Aufstellen designierter Behälter mit entsprechendem Loeschsand daneben, in denen bengalisches Feuer in den Kurven abbrennen darf. Jegliche andere Nutzung bleibt verboten. Zusaetzlich wird Vereinen freigestellt, vorm Spiel oder in der Halbzeit 'Pyro-Shows' zu zeigen.
->1. Genehmigung einreichen
->	- Namensliste
->	- Bereichsdefinition
->2. Bereich inspizieren
->    - genügend Freiraum einplanen
->3. Löschsand bereitstellen
->4. Zünden!
+>Bengalisches Feuer darf unter folgenden Auflagen bei Spielen in der 1. und 2. Bundesliga gezündet werden.
+>1. Saisongenehmigung bei der Behörde beantragen
+>	1. Stadion inspizieren
+>	2. Bereiche festlegen und absperren -> Freiraum sicherstellen
+>	3. Löschsand und feuerfeste Behälter aufstellen
+>2. Namensliste derer, die Pyro nutzen wollen einreichen
+>
+>Des weiteren, dürfen professionell durchgeführte Pyroshows in allen Ligen stattfinden stattfinden
 
 
 ---
