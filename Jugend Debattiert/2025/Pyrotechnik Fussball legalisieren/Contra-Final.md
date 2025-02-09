@@ -80,6 +80,16 @@
 - Aufwand zu hoch, wegen nicht vergleichbarer Situation
 ### Begründung
 - Zu viele Pyro-Nutzer, als dass Schulung möglich wäre
-- Uebepruefung der
+- Überprüfung der Nüchternheit nicht umsetzbar
+### Beispiel
+- noch zu finden
+### Bezug
+- wird nicht genutzt werden, da weiter illegal Pyro gezündet werden wird
+
+
+## Vgl. Österreich
+### Behauptung
+- 
+### Begruendung
 ### Beispiel
 ### Bezug
