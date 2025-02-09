@@ -66,6 +66,9 @@
 ### Begründung
 - Ultras nehmen jetzt schon Illegalität in Kauf
 - "Teil der Fankultur" - Leiter Fankultur beim Hamburger SV
+### Beispiel: Norwegen
+- Fans beschweren sich über zu strikte Regelungen:
+	- fordern Freiheit in der Kurve
 ### Bezug
 - Maßnahme ermöglicht selbstbestimmten Gebrauch von Pyro
 -> nimmt Ultras ernst
