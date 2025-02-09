@@ -1,8 +1,3 @@
->[!Vorschlag1]
->Fans können ihre Pyroshow zu einem festgelegten Ort und Zeitpunkt (meist vor dem Spiel) unter Auflagen und in Kooperation mit Polizei und Feuerwehr durchführen
->Diese Regelung soll nur in der 1. und 2. Bundesliga gelten. In anderen Ligen soll weiter ein striktes Verbot herrschen
->
-
 >[!Vorschlag 2]
 >Bengalisches Feuer darf unter folgenden Auflagen bei Spielen in der 1. und 2. Bundesliga gezündet werden.
 >1. Saisongenehmigung bei der Behörde beantragen
@@ -11,10 +6,14 @@
 >	3. Löschsand und feuerfeste Behälter aufstellen
 >2. Namensliste derer, die Pyro nutzen wollen einreichen
 >
->Des weiteren, dürfen professionell durchgeführte Pyroshows in allen Ligen stattfinden stattfinden
-
+>Des weiteren, dürfen professionell durchgeführte Pyroshows in allen Ligen stattfinden stattfinden.
+---
+>[!Annahmen]
+>Pyro ist nicht abschaffbar
+>Pyro gehört zur Fankultur
 
 ---
+
 ## 1. Bereits gelebte Kultur
 - gehört für viele bereits zur Fußball-Kultur
 >[!Norwegen]
@@ -23,8 +22,6 @@
 >- abgesperrte "Pyrozonen"
 >- Namenslisten, die Pyro zuenden duerfen
 >- Loeschsand bereitgestellt
-
-
 
 - traditionelles Stilmittel der Fankultur (https://www.veko-online.de/component/content/article/polizei-pyrotechnik-in-fussballstadien.html)
 	- man muss Teil des ganzen Sein, um die Wirkung zu verstehen
