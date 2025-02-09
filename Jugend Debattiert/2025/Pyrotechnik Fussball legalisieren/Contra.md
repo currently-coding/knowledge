@@ -8,6 +8,7 @@
 # Vorschlag: Allgemeine Erlaubnis
 ## Gefahr
 - bis zu 2500 Grad Celcius
+- Augenschäden
 ### Enger Raum
 - in Sitzreihen
 >"Diese Dinger sind nicht dafür gedacht, in nächster Nähe von anderen Menschen benutzt zu werden" - Pyro-experte der DW
