@@ -46,3 +46,20 @@
 
 # Vorschlag: Kalte Pyrotechnik
 - "Die gibt es genauso wenig wie veganen Schweinebraten" - DFL-Chef Christian Seifert
+
+
+# Vorschlag: Norwegen
+## Zuschaueranzahlen nicht vergleichbar
+- in Norwegen Stadien seltenst ausverkauft
+	-> haben den Platz fuer Freizonen und Namenslisten
+- in Deutschland wegen Aufwand nicht moeglich
+	- keine Zeit fuer Namenslisten(v.a. aufwaertsfans)
+
+## Fans beschweren sich
+- grenzt Freiheit zu stark ein
+- stoert das Fan-Dasein enorm
+-> wollen "freie und spontane Kurve"
+
+## Versuch in Deutschland: Oldenburg
+- Stadien wurden geprüft, etc.
+ABER: Ultras sahen sich zu eingeschränkt -> scheitert
