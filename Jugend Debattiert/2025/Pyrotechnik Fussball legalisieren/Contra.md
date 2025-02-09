@@ -6,7 +6,7 @@
 
 # Vorschlag: Allgemeine Erlaubnis
 ## Gefahr
-- bis zu 2500 Grad Celcius
+- bis zu 2500 Grad Celsius
 - Augenschäden
 ### Enger Raum
 - in Sitzreihen
@@ -51,9 +51,9 @@
 # Vorschlag: Norwegen
 ## Zuschaueranzahlen nicht vergleichbar
 - in Norwegen Stadien seltenst ausverkauft
-	-> haben den Platz fuer Freizonen und Namenslisten
-- in Deutschland wegen Aufwand nicht moeglich
-	- keine Zeit fuer Namenslisten(v.a. aufwaertsfans)
+	-> haben den Platz für Freizonen und Namenslisten
+- in Deutschland wegen Aufwand nicht möglich
+	- keine Zeit für Namenslisten(v.a. auswaertsfans)
 
 ## Fans beschweren sich
 - grenzt Freiheit zu stark ein
@@ -63,3 +63,13 @@
 ## Versuch in Deutschland: Oldenburg
 - Stadien wurden geprüft, etc.
 ABER: Ultras sahen sich zu eingeschränkt -> scheitert
+
+
+## Aufwand
+- Stadium prüfen
+- Namensliste
+	- jeder muss Schulung durchlaufen
+- man muss nüchtern sein
+- 1m Abstand beim Zuenden
+## Vgl Österreich
+- grosses Unverständnis ggu einander(Behörde <-> Ultras) wegen Vorgaben
