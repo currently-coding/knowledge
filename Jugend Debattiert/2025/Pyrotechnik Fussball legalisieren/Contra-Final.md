@@ -89,7 +89,6 @@
 
 ## Vgl. Österreich
 ### Behauptung
-- 
-### Begruendung
-### Beispiel
-### Bezug
+- Regelungen rufen nur Unverständnis hervor
+### Begründung
+- in Österreich gab es Konflikte zw. Ultras-Behörde wegen Regelungen
