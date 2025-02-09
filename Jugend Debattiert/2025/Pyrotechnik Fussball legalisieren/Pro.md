@@ -1,7 +1,11 @@
->[!Vorschlag]
+>[!Vorschlag1]
 >Fans können ihre Pyroshow zu einem festgelegten Ort und Zeitpunkt (meist vor dem Spiel) unter Auflagen und in Kooperation mit Polizei und Feuerwehr durchführen
 >Diese Regelung soll nur in der 1. und 2. Bundesliga gelten. In anderen Ligen soll weiter ein striktes Verbot herrschen
+>
 
+
+>[!Vorschlag 2]
+>Aufstellen designier
 
 ---
 ## 1. Bereits gelebte Kultur
@@ -13,7 +17,7 @@
 	- man muss Teil des ganzen Sein, um die Wirkung zu verstehen
 
 
-## 2. Bisheriges Verbot hilft nicht - etw. muss sich aendern
+## 2. Bisheriges Verbot hilft nicht - etw. muss sich ändern
 - *Ritualisierter Regelbruch*
 - nur Geldstrafen für Vereine, die unschuldig sind
 - *Kollektivstrafe*, weil Täter unbekannt
@@ -24,12 +28,15 @@
 
 >There is no safe use of pyrotechnics in spectator areas at football events within stadia or in crowded places - Sports Ground Safety Authority(american football) 
 
+**=> Muss aus der Kriminalitaet heraus, damit man das Problem loesen kann**
 ### Andere Sportarten
 - professionell durchgeführte Shows zu Beginn/Halbzeit
 
 ---
 ## Verringert illegale Nutzung
 - siehe 1. und 2. 
+- jetzt:
+	- bengalische Feuer werden aus Angst auf engem Raum gezuendet und in 'scheinbar' freie Bereiche geworfen -> grosse Gefahr
 
 
 
