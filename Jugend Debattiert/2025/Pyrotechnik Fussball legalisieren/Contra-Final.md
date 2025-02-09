@@ -44,4 +44,16 @@
 # Vorschlag: kalte Pyrotechnik
 >"Die gibt es genauso wenig wie veganen Schweinebraten" - DFL-Chef Christian Seifert
 
-# Vorschlag
+# Vorschlag: vgl. Norwegen
+## Situation nicht vergleichbar
+### Fakten
+- Norwegen weniger Zuschauerzahlen
+- Ultras weniger extrem und friedlich
+### Behauptung
+- Situation ist nicht mit Deutschland vergleichbar
+### Begründung
+- s. Fakten
+### Beispiel
+- Jahn Regensburg: ~12.000 / 80% Stadionauslastung
+- viele Vereine meist 100% des Heimbreichs ausverkauft
+- Norwegen: Auslastung von ~70% / 18.000
