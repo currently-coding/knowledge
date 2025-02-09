@@ -235,13 +235,13 @@ nowadays(adverb) (Nowadays, important information is found on the internet., The
 to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shrunk in the wash.) ::: schrumpfen, sich verkleinern, einlaufen
 <!--SR:!2026-02-07,399,393!2026-05-31,487,395-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
-<!--SR:!2026-06-12,502,395!2025-01-12,81,373-->
+<!--SR:!2026-06-12,502,395!2026-03-30,414,393-->
 shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
 <!--SR:!2026-07-11,525,396!2026-02-22,392,372-->
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2026-06-25,509,395!2025-11-23,301,372-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
-<!--SR:!2025-01-18,90,377!2025-04-15,79,293-->
+<!--SR:!2026-05-19,464,397!2025-04-15,79,293-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
 <!--SR:!2026-04-27,456,397!2025-07-15,206,365-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
