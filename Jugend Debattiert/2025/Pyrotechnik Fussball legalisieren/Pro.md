@@ -1,8 +1,8 @@
+- Bengalos erlauben, da meist verwendetes Pyromaterial
 >[!Vorschlag1]
 >Fans können ihre Pyroshow zu einem festgelegten Ort und Zeitpunkt (meist vor dem Spiel) unter Auflagen und in Kooperation mit Polizei und Feuerwehr durchführen
 >Diese Regelung soll nur in der 1. und 2. Bundesliga gelten. In anderen Ligen soll weiter ein striktes Verbot herrschen
 >
-
 
 >[!Vorschlag 2]
 >Aufstellen designierter Behälter, in denen bengalisches Feuer in den Kurven abbrennen darf. Jegliche andere Nutzung bleibt verboten. Zusaetzlich wird Vereinen freigestellt, vorm Spiel oder in der Halbzeit 'Pyro-Shows' zu zeigen.
@@ -38,6 +38,7 @@
 - siehe 1. und 2. 
 - jetzt:
 	- bengalische Feuer werden aus Angst auf engem Raum gezuendet und in 'scheinbar' freie Bereiche geworfen -> grosse Gefahr
+	- reinschmuggeln nicht verhinderbar
 
 
 
