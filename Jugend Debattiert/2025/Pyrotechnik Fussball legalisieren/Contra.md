@@ -38,3 +38,8 @@
 	- Emotionen sind spontan und echt <-> geplant
 - muss persönlich sein <-> von Profis durchgeführt
 -> Pyrotechnik kreiert einmalige Situationen, die man nicht künstlich herstellen kann
+
+
+
+# Vorschlag: Kalte Pyrotechnik
+- "Die gibt es genauso wenig wie veganen Schweinebraten" - DFL-Chef Christian Seifert
