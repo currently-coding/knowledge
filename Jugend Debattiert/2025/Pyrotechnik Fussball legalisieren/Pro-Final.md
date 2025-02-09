@@ -39,12 +39,28 @@
 ### Begründung
 - Wer zahlt die Strafe? -> der Verein...
 -> wirken nicht gegen die Täter, sondern sind *Kollektivstrafen*
+>"Die in den vergangenen Jahren ergriffenen Maßnahmen und härteren Sanktionen wie Geldstrafen, Kollektivstrafen, Verbot von Fan-Utensilien oder überzogene Einlasskontrollen haben nachweislich nicht dazu geführt, dass Pyrotechnik in Stadien weniger zum Einsatz gekommen ist" - Leiter Fankultur Hamburg SV
+
 -> hat *ritualisierten Regelbruch* zur Folge
 >"Die die Strafen laut Winskowski "teilweise eher solidarisierend (…) gegen den Verband" - Studie Uni Rostock
+
 
 -> schadet Vereinen(siehe Beschwerde bei DFB)
 ### Beispiel
 - in Einleitung
 ### Bezug
+- um das Problem zu lösen muss Pyro aus der Kriminalität heraus -> s. Cannabis-Legalisierung
+
+## 3. Teil der Fankultur
+### Fakten
+- Kommunikation zw. DFB und Ultras scheitert, weil DFB Pyro verbieten will, Ultras Pyro aber erzwingen
+### Behauptung
+- Pyro ist nicht abschaffbar und wird immer ein Teil des Fußball bleiben
+-> Ziel muss sicherer Einsatz sein
+### Begründung
+- 
+### Bezug
+
+
 
 
