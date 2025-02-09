@@ -23,18 +23,25 @@
 -> Spielabbruch
 ### Bezug
 - man kauft Karten, nur damit das Spiel abgebrochen wird
-- die laute Minderheit, darf nicht der schweigenden Mehrheit den Spaß am Fußball nehmen
+- **die laute Minderheit, darf nicht der schweigenden Mehrheit den Spaß am Fußball nehmen**
 
-## Gefahr
+## Umwelt
 ### Fakten
+- Verbrennung emittieren $CO_{2}$
+- Müll bleibt meist liegen
+	- da heiß und gefährlich
 ### Behauptung
+- Pyro stellt eine zu große Umweltbelastung dar
 ### Begründung
+- s. Fakten
+- Gegensatz:
+	- Silvester: weniger Pyro wegen Umwelt
 ### Beispiel
+- siehe Silvester
 ### Bezug
+- man darf keine Ausnahmen machen wenn es um die Umwelt geht
 
-## Gefahr
-### Fakten
-### Behauptung
-### Begründung
-### Beispiel
-### Bezug
+# Vorschlag: kalte Pyrotechnik
+>"Die gibt es genauso wenig wie veganen Schweinebraten" - DFL-Chef Christian Seifert
+
+# Vorschlag

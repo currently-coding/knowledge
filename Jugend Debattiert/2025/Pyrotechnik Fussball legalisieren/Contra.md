@@ -27,7 +27,7 @@
 
 ## Gegensätzliche Entscheidung
 ### Umwelt
-- viel Muell
+- viel Müll
 - CO2 Belastung
 
 - an Silvester will man weniger Pyro wegen Umwelt, soll das jetzt aber für jedes Fußballspiel(viele) erlauben
