@@ -225,7 +225,7 @@ shareholder(noun) (I am one of the shareholders of the company., Unfortunately, 
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
 <!--SR:!2026-02-02,369,373!2025-02-17,22,295-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
-<!--SR:!2025-01-18,87,375!2026-03-17,415,393-->
+<!--SR:!2026-05-05,450,395!2026-03-17,415,393-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
 <!--SR:!2026-04-26,455,393!2025-01-22,95,375-->
 probable(adjective) () ::: wahrscheinlich, voraussichtlich, vermutlich
