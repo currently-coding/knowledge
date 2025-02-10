@@ -14,6 +14,7 @@
 ### Begründung
 - gezündete Bengalos
 	- nehmen Sicht/Orientierung wegen starker Rauchentwicklung
+		-> 
 	- können aufgrund greller Magnesiumflamme Augenschäden hervorrufen
 	- können starke Verbrennungen hervorrufen
 		- herunterfallende Schlack hat nach Verbrennen min 400 Grad
@@ -24,6 +25,16 @@
 ### Bezug
 - man kauft Karten, nur damit das Spiel abgebrochen wird
 - **die laute Minderheit, darf nicht der schweigenden Mehrheit den Spaß am Fußball nehmen**
+
+
+## Stört Spielverlauf
+### Behauptung
+- Bengalos hindern Spielverlauf durch Stoerung der Sicht
+- Bengalos storen snp
+### Begruendung
+### Beispiel
+### Bezug
+
 
 ## Umwelt
 ### Fakten
