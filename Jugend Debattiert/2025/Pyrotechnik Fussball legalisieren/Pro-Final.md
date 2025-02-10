@@ -66,7 +66,24 @@ Erst letztens wurden beim Spiel Augsburg-Hoffenheim 5 Menschen verletzt: durch e
 ### Beispiel
 - in Einleitung
 ### Bezug
-- um das Problem zu lösen muss Pyro aus der Kriminalität heraus -> s. Cannabis-Legalisierung
+- todo
+
+
+## 3. Reduziert illegale Nutzung
+### Behauptung
+- Die Teil-Legalisierung von Pyro reduziert die Illegale Nutzung
+### Begründung
+- Fans handeln nur ungern in der Illegalität
+- Legalisierung erlaubt Nutzung von bestimmten Formen der Pyrotechnik
+-> Fans werden Legales zeug nutzen
+### Beispiel
+- Cannabis -> Erfolg
+	- Legalisierung um Kontrolle zu gewinnen
+	-> vgl. Pyro
+- aus der Kriminalität raus, um zu kontrollieren
+### Bezug
+- todo
+
 
 ## 3. Teil der Fankultur
 ### Fakten
