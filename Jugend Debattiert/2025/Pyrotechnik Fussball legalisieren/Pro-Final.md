@@ -29,7 +29,7 @@ Erst letztens wurden beim Spiel Augsburg-Hoffenheim 5 Menschen verletzt: durch e
 - Stadien sind derzeitig unsicher wegen Pyro
 -> müssen sicherer sein, damit jeder das Stadium besuchen kann
 => Maßnahme erreicht das, indem Pyro teilweise erlaubt wird(Bengalos)
->"Pyrotechnik gehört in die Hand, nicht auf den Boden"
+>"Pyrotechnik gehört in die Hand, nicht in die Luft und nicht auf den Boden" - Ultra-Szene
 ### Begründung
 - Pyro wird auf engem Raum abgebrannt
 - Pyro wird geworfen
@@ -83,5 +83,4 @@ Erst letztens wurden beim Spiel Augsburg-Hoffenheim 5 Menschen verletzt: durch e
 ### Bezug
 - Maßnahme ermöglicht selbstbestimmten Gebrauch von Pyro
 -> nimmt Ultras ernst
-
 
