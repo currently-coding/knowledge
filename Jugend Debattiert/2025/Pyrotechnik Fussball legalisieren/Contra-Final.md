@@ -14,7 +14,8 @@
 ### Begründung
 - gezündete Bengalos
 	- nehmen Sicht/Orientierung wegen starker Rauchentwicklung
-		-> 
+		- Zuschauer kollabierten
+		- Asthma
 	- können aufgrund greller Magnesiumflamme Augenschäden hervorrufen
 	- können starke Verbrennungen hervorrufen
 		- herunterfallende Schlack hat nach Verbrennen min 400 Grad
@@ -29,10 +30,14 @@
 
 ## Stört Spielverlauf
 ### Behauptung
-- Bengalos hindern Spielverlauf durch Stoerung der Sicht
-- Bengalos storen snp
-### Begruendung
+- Bengalos hindern Spielverlauf durch Störung der Sicht
+- Bengalos stören sportliche Leistung
+### Begründung
+- starke Rauchentwicklung, die lange anhält(+5min)
 ### Beispiel
+- Basel - Zürich
+	- Fans zuendeten massive Mengen an Pyro
+-> Abbruch wegen Rauch
 ### Bezug
 
 
