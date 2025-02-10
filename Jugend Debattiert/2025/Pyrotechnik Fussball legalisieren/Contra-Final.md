@@ -36,7 +36,7 @@
 - starke Rauchentwicklung, die lange anhält(+5min)
 ### Beispiel
 - Basel - Zürich
-	- Fans zuendeten massive Mengen an Pyro
+	- Fans zündeten massive Mengen an Pyro
 -> Abbruch wegen Rauch
 ### Bezug
 
