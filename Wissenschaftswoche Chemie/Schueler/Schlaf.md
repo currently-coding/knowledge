@@ -29,6 +29,8 @@
 - 64 Participants(58% male, ~22 +-4 y.o)
 - control group
 
-## 
+## Results
 - *acute sleep deprivation* does *not affect cognitive performance* in *healthy university students*, but affects physical performance
-- 
+- 8h recommended
+	- 71% of students do not achieve that
+- Students rate sleep 2nd most affecting aspect regarding poor academic performance
