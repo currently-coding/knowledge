@@ -4,7 +4,8 @@
 >	1. Stadion inspizieren
 >	2. Bereiche festlegen und absperren -> Freiraum sicherstellen
 >	3. Löschsand und feuerfeste Behälter aufstellen
->2. Namensliste derer, die Pyro nutzen wollen einreichen
+>2. Schulungen durchführen -> jeder der nutzen will muss
+>3. Namensliste derer, die Pyro nutzen wollen einreichen
 >
 >Des weiteren, dürfen professionell durchgeführte Pyroshows in allen Ligen stattfinden stattfinden.
 ---

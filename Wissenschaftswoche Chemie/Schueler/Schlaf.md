@@ -31,6 +31,7 @@
 	- minimal effect on cognitive capacity
 		- https://link.springer.com/article/10.1007/s41105-017-0099-5#Tab3 # Discussion # Cognitive
 	- *acute sleep deprivation* does *not affect cognitive performance* in *healthy university students*, but affects physical performance
+	- returned ot baseline after 2 nights of recovery
 - **Students**:
 	- 71% do not reach 8h of sleep
 	- rate sleep 2nd most important aspect regarding poor academic performance
