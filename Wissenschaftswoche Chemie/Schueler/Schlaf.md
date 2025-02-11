@@ -19,6 +19,6 @@
 - **Consequences of sleep loss**:
 	- sleepiness
 		-> facilitates cognitive, emotional, behavioural and academic failure
-		-> reduces ability to learn from le
+		-> reduces ability to learn from lessons([[declarative learning]]) or practical activities([[procedural learning]])
 	- *impairments in neurocognitive and psychomotor performance*
 	- 
