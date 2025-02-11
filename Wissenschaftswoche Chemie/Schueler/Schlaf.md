@@ -1,4 +1,3 @@
-# https://www.sciencedirect.com/science/article/abs/pii/S1087079205001231
 
 ## Summary
 - Students are chronically sleep-deprived -> daytime sleepiness
@@ -23,6 +22,7 @@
 	- *impairments in neurocognitive and psychomotor performance*
 		- **Physical**
 			- slower reaction time
+				-> dangerous driving/falling asleep
 		- **Mental**
 			- reduces filtering efficiency
 
@@ -42,3 +42,8 @@
 - 8h recommended
 	- 71% of students do not achieve that
 - Students rate sleep 2nd most affecting aspect regarding poor academic performance
+
+
+
+
+https://www.sciencedirect.com/science/article/abs/pii/S1087079205001231
