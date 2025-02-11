@@ -32,6 +32,9 @@
 
 #### 2.2 Gleichstellung
 - Behauptung: kein vgl Mindestlohn beim Ehrenamt -> brauchen staatliches minimum
+- Begruendung: jedes Ehrenamt ist die Arbeit wert
+- Beispiel: 
+
 
 #### **3. Erhöhung der Professionalität**  
 - **Behauptung:** Finanzielle Anerkennung kann die Qualität und Verlässlichkeit ehrenamtlicher Arbeit steigern.  
