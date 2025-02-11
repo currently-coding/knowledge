@@ -5,7 +5,8 @@
 	- 8% Kultur und Musik
 	- 8% Schule
 	- 8% sozial
-- 94% haben respekt vor ehrenamtlich taetigen
+- 96% haben Respekt vor ehrenamtlich tätigen
+- 
 
 
 >[!Definition]
