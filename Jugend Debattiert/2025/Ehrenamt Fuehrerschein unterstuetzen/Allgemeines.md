@@ -30,6 +30,9 @@
 - **Beispiel:** Eine ehrenamtliche Rettungssanitäterin muss regelmäßig in Einsätzen ausrücken und kann dadurch weniger Stunden in ihrem regulären Job arbeiten. Eine finanzielle Unterstützung könnte ihr diesen Verlust ausgleichen.  
 - **Bezug/Schluss:** Durch eine staatliche Förderung wird sichergestellt, dass sich nicht nur finanziell unabhängige Personen ein Ehrenamt leisten können.  
 
+#### 2.2 Gleichstellung
+- Behauptung: 
+
 #### **3. Erhöhung der Professionalität**  
 - **Behauptung:** Finanzielle Anerkennung kann die Qualität und Verlässlichkeit ehrenamtlicher Arbeit steigern.  
 - **Begründung:** Bestimmte Ehrenämter erfordern viel Zeit für Ausbildung und regelmäßige Einsätze, sodass eine finanzielle Unterstützung die Kontinuität sichert.  
