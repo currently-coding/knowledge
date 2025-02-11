@@ -24,12 +24,15 @@
 - Schöffen-Amt(=ehrenamtlicher Zusatz-Richter bei Verhandlungen)
 ### Bezug
 
-## Ehrenamt ist in sozialer Gesellschaft noetig
+## Ehrenamt ist in sozialer Gesellschaft nötig
 ### Ehrenamt ist in einer profitorientierten Gesellschaft nötig, um auch sozial
 ### Begründung
-- Viele Ehrenaemter sind Ehrenaemter, weil keiner jmd. dafuer anstellen wuerde, weil 
+- Viele Ehrenämter sind Ehrenämter, weil keiner jmd. dafür anstellen würde, weil 
 	- zu wenig Geld vorhanden ist
-	- zu wenig Aufgaben um die Stelle zu fuellen
+	- zu wenig Aufgaben um die Stelle zu füllen
 	- kein Profit dahinter steckt
 ### Beispiel
+- Hilfe bei der Auffnahme von Fluechtlingen
+	- lebt von Spenden -> kein sicherer Job -> koennen kein Gehalt anbieten, sond
+
 ### Bezug
