@@ -36,6 +36,10 @@
 	- 71% do not reach 8h of sleep
 	- rate sleep 2nd most important aspect regarding poor academic performance
 
+## Optimal Sleep duration
+![[Pasted image 20250211115253.png]]
+
 
 - https://www.sciencedirect.com/science/article/abs/pii/S1087079205001231
 - https://link.springer.com/article/10.1007/s41105-017-0099-5
+- https://onlinelibrary.wiley.com/doi/full/10.1155/2015/591729
