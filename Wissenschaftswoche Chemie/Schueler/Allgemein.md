@@ -1,1 +1,1 @@
-1. [[Regelmeassiger Sport]]
+1. [[Regelmaessig Sport]]
