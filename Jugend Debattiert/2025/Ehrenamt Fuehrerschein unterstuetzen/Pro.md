@@ -3,7 +3,8 @@
 
 ## Wertschätzung langer Ehrenamtlicher Arbeit
 ### Behauptung
-- ehrenam
+- ehrenamtliche Arbeit wird nicht genuegend wertgeschaetzt,
+- ist aber unentbehrlich
 ### Begründung
 ### Beispiel
 ### Bezug
