@@ -18,5 +18,6 @@
 	- e.g. hobbies/interests
 - **Consequences of sleep loss**:
 	- sleepiness
+		-> facilitates cognitive, emotional, behavioural and academic failure
 	- *impairments in neurocognitive and psychomotor performance*
 	- 
