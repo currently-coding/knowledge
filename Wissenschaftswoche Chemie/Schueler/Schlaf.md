@@ -21,4 +21,10 @@
 		-> facilitates cognitive, emotional, behavioural and academic failure
 		-> reduces ability to learn from lessons([[declarative learning]]) or practical activities([[procedural learning]])
 	- *impairments in neurocognitive and psychomotor performance*
-	- 
+		- slower reaction time
+
+
+# https://link.springer.com/article/10.1007/s41105-017-0099-5
+## Study
+- 64 Participants(58% male, ~22 +-4 y.o)
+- control group
