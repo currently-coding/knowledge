@@ -22,6 +22,7 @@
 		-> reduces ability to learn from lessons([[declarative learning]]) or practical activities([[procedural learning]])
 	- *impairments in neurocognitive and psychomotor performance*
 		- slower reaction time
+		- reduces filtering efficiency
 
 
 # https://link.springer.com/article/10.1007/s41105-017-0099-5
