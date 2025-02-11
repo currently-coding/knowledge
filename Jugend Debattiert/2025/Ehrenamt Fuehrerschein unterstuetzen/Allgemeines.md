@@ -46,12 +46,6 @@
 - **Beispiel:** Wenn freiwillige Helfer in Sportvereinen oder sozialen Einrichtungen bezahlt werden, könnten sie eher aus finanziellen als aus ideellen Gründen mitmachen.  
 - **Bezug/Schluss:** Eine staatliche Förderung könnte die eigentliche Motivation für ehrenamtliche Arbeit untergraben und das Ehrenamt zu einer normalen Arbeitsform machen.  
 
-#### **2. Gefahr von Ungleichbehandlung**  
-- **Behauptung:** Es gibt keine klare Grenze, welche Ehrenämter gefördert werden sollten.
-- **Begründung:** Manche Tätigkeiten könnten bevorzugt werden, während andere leer ausgehen. Dies könnte zu Unmut in der Gesellschaft führen.  
-- **Beispiel:** Wenn beispielsweise nur Ehrenämter in der Rettungsarbeit gefördert werden, aber nicht die ehrenamtliche Arbeit in Kultureinrichtungen oder Umweltorganisationen, entsteht ein Ungleichgewicht.  
-- **Bezug/Schluss:** Eine staatliche Förderung kann zu unfairer Behandlung verschiedener Ehrenämter führen und ist schwer einheitlich zu gestalten.  
-
 #### **3. Bürokratische Hürden und Missbrauchspotential**  
 - **Behauptung:** Die Verwaltung und Vergabe von Geldern könnte zu hoher Bürokratie und Missbrauch führen.  
 - **Begründung:** Der Staat müsste ein Kontrollsystem einführen, um sicherzustellen, dass nur echte Ehrenamtliche gefördert werden, was mit hohen Kosten verbunden ist.  
