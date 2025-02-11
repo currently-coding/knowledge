@@ -8,4 +8,11 @@
 
 ## Introduction
 - sleep is an *active*, *repetitive* and *reversibly* behaviour
-- sleep serv
+- sleep serves multiple functions
+	- repair
+	- growth
+	- learning or memory consolidation
+	- restorative processes
+
+- sleep is often sacrificed for time
+	- e.g. hobbies/interests
