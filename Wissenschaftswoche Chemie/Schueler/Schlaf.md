@@ -3,4 +3,5 @@
 ## Summary
 - Students are chronically sleep-deprived -> daytime sleepiness
 - Sleep quality and quantity are closely related to student learning capacity 
-- Sleep loss in frequently associated with poor [[declarative learning|declarative]] and [[procedural learning]]
+- Sleep loss in frequently associated with poor [[declarative learning|declarative]](relevant for students) and [[procedural learning]]
+- actively restri
