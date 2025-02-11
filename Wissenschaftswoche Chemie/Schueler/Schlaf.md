@@ -8,7 +8,7 @@
 
 ## Introduction
 - sleep is an *active*, *repetitive* and *reversibly* behaviour
-- sleep serves multiple functions
+- **Functions of sleep**
 	- repair
 	- growth
 	- learning or memory consolidation
@@ -16,3 +16,6 @@
 
 - sleep is often sacrificed for time
 	- e.g. hobbies/interests
+- **Consequences of sleep loss**:
+	- sleepiness
+	- impairments in neurocognitive and psychomotor performance
