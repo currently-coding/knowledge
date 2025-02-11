@@ -32,7 +32,7 @@
 	- zu wenig Aufgaben um die Stelle zu füllen
 	- kein Profit dahinter steckt
 ### Beispiel
-- Hilfe bei der Auffnahme von Fluechtlingen
-	- lebt von Spenden -> kein sicherer Job -> koennen kein Gehalt anbieten, sond
+- Hilfe bei der Aufnahme von Flüchtlingen
+	- lebt von Spenden -> kein sicherer Job -> können kein Gehalt anbieten
 
 ### Bezug
