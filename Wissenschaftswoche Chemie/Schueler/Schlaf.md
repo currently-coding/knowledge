@@ -21,8 +21,10 @@
 		-> facilitates cognitive, emotional, behavioural and academic failure
 		-> reduces ability to learn from lessons([[declarative learning]]) or practical activities([[procedural learning]])
 	- *impairments in neurocognitive and psychomotor performance*
-		- slower reaction time
-		- reduces filtering efficiency
+		- **Physical**
+			- slower reaction time
+		- **Mental**
+			- reduces filtering efficiency
 
 - **Consequences of All-Nighters**:
 	- minimal effect on cognitive capacity
