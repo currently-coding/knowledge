@@ -11,11 +11,12 @@
 - **Functions of sleep**
 	- repair
 	- growth
-	- learning or memory consolidation
+	- *learning or memory consolidation*
 	- restorative processes
 
 - sleep is often sacrificed for time
 	- e.g. hobbies/interests
 - **Consequences of sleep loss**:
 	- sleepiness
-	- impairments in neurocognitive and psychomotor performance
+	- *impairments in neurocognitive and psychomotor performance*
+	- 
