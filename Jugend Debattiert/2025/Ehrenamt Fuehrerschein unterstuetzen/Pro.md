@@ -20,7 +20,7 @@
 ### Begründung
 - man versucht gemeinsame Ziele auf Grundlage demokr. Regeln und Aushandlungsprozesse
 ### Beispiel
-- Schöffen-Amt
+- Schöffen-Amt(=ehrenamtlicher Zusatz-Richter bei Verhandlungen)
 ### Bezug
 
 ## Argument
