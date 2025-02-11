@@ -14,10 +14,13 @@
 ### Beispiel
 ### Bezug
 
-## Argument
+## Ehrenamt fördert demokratische Werte
 ### Behauptung
+- Ehrenamt fördert demokratische Werte
 ### Begründung
+- man versucht gemeinsame Ziele auf Grundlage demokr. Regeln und Aushandlungsprozesse
 ### Beispiel
+- Schöffen-Amt
 ### Bezug
 
 ## Argument
