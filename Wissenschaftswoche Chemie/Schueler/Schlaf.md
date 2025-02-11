@@ -24,6 +24,11 @@
 		- slower reaction time
 		- reduces filtering efficiency
 
+- **Consequences of All-Nighters**:
+	- minimal effect on cognitive capacity
+		- https://link.springer.com/article/10.1007/s41105-017-0099-5#Tab3 # Discussion # Cognitive
+
+
 
 # https://link.springer.com/article/10.1007/s41105-017-0099-5
 ## Study
