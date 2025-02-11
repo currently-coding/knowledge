@@ -8,6 +8,7 @@
 - 96% haben Respekt vor ehrenamtlich tätigen
 - 94% empfinden Ehrenamt in Krisensituationen als notwendig
 - Mann-Frau ausgeglichen
+- 26% haben Leistung- oder Vorstandsfunktion
 
 
 >[!Definition]
