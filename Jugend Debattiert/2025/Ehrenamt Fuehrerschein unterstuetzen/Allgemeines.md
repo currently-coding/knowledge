@@ -31,7 +31,7 @@
 - **Bezug/Schluss:** Durch eine staatliche Förderung wird sichergestellt, dass sich nicht nur finanziell unabhängige Personen ein Ehrenamt leisten können.  
 
 #### 2.2 Gleichstellung
-- Behauptung: 
+- Behauptung: kein vgl Mindestlohn beim Ehrenamt -> brauchen staatliches minimum
 
 #### **3. Erhöhung der Professionalität**  
 - **Behauptung:** Finanzielle Anerkennung kann die Qualität und Verlässlichkeit ehrenamtlicher Arbeit steigern.  
