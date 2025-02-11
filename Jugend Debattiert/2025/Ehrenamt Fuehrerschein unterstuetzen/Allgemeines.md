@@ -1,5 +1,5 @@
 ## Fakten
-- 16% sind ehrenamtlich tätig
+- 40% aller >14 sind ehrenamtlich tätig
 	- Entwicklung konstant
 	- 
 
