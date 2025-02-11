@@ -4,4 +4,9 @@
 		-> neue Verknüpfungen in Großhirnrinde, Kleinhirn und Hippocampus
 
 - baut Stress aktiv ab
-	- reguliert Aussch
+	- reguliert Ausschüttung von 
+		- Adrenalin
+		- Noradrenalin
+		- Insulin
+		- Cortisol
+	- falls diese Werte zu hoch, leidet Konzentrationsfähigkeit
