@@ -30,20 +30,10 @@
 - **Consequences of All-Nighters**:
 	- minimal effect on cognitive capacity
 		- https://link.springer.com/article/10.1007/s41105-017-0099-5#Tab3 # Discussion # Cognitive
-
-
-
-## Study
-- 64 Participants(58% male, ~22 +-4 y.o)
-- control group
-
-## Results
-- *acute sleep deprivation* does *not affect cognitive performance* in *healthy university students*, but affects physical performance
-- 8h recommended
-	- 71% of students do not achieve that
-- Students rate sleep 2nd most affecting aspect regarding poor academic performance
-
-
+	- *acute sleep deprivation* does *not affect cognitive performance* in *healthy university students*, but affects physical performance
+- **Students**:
+	- 71% do not reach 8h of sleep
+	- rate sleep 2nd most important aspect regarding poor academic performance
 
 
 - https://www.sciencedirect.com/science/article/abs/pii/S1087079205001231
