@@ -38,6 +38,7 @@
 
 ## Optimal Sleep duration
 ![[Pasted image 20250211115253.png]]
+![[Pasted image 20250211115453.png]]
 
 
 - https://www.sciencedirect.com/science/article/abs/pii/S1087079205001231
