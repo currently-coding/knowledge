@@ -20,7 +20,7 @@
 	- sleepiness
 		-> facilitates cognitive, emotional, behavioural and academic failure
 		-> reduces ability to learn from lessons([[declarative learning]]) or practical activities([[procedural learning]])
-	- 
+	- obesity, Kreislaufproblem
 	- *impairments in neurocognitive and psychomotor performance*
 		- **Physical**
 			- slower reaction time
