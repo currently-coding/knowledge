@@ -50,6 +50,7 @@
 	- brauchen mehr Ehrenamt
 	-> 2 Fliegen mit einer Klappe
 - **Begründung**:
-	- Fuehrerscheinkosten steigen
+	- Fuehrerscheinkosten steigen jaehrlich
+	- Ehren
 - **Beispiel**:
 - **Bezug**:
