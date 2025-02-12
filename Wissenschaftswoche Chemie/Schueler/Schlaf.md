@@ -48,6 +48,11 @@ Transitions between sleep and wake states are influenced by multiple brain s
 **Thalamus**: prevents sensory signals from reaching the cortex
 **Reticular formation:** regulates the transition between sleep and wakefulness
 **Pons**: helps initiate REM sleep. The extraocular movements that occur during REM are due to the activity of PPRF (paramedian pontine reticular formation/conjugate gaze center).
+**Gender Differences**: 
+- Men spend more time in N1 + more nighttime awakenings
+	-> more daytime sleepiness
+- Woman maintain longer slow-wave sleep
+- Woman complain more about difficulties about falling asleep
 
 ## Cellular Level
 **Initiating sleep**:
@@ -57,6 +62,8 @@ Transitions between sleep and wake states are influenced by multiple brain s
 - GABA is released by sleep-promoting neurons
 	-> triggers wake-promoting regions in hippothalamus and brainstem
 - Acetylcholine(ACh), dopamine, norepinephrine, serotonin, histamin, hypocretin peptides *work together to maintain the waking state*
+
+## Organ Systems Involved
 - 
 	  
 
