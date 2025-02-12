@@ -40,6 +40,7 @@
 ![[Pasted image 20250211115253.png]]
 ## Schlafstadien
 ![[Pasted image 20250211115453.png]]
+-> 1 cycle = ~90 minutes
 Transitions between sleep and wake states are influenced by multiple brain structures, including:
 **Hypothalamus:** controls onset of sleep
 **Hippocampus**: memory region active during dreaming
@@ -47,6 +48,15 @@ Transitions between sleep and wake states are influenced by multiple brain s
 **Thalamus**: prevents sensory signals from reaching the cortex
 **Reticular formation:** regulates the transition between sleep and wakefulness
 **Pons**: helps initiate REM sleep. The extraocular movements that occur during REM are due to the activity of PPRF (paramedian pontine reticular formation/conjugate gaze center).
+
+## Cellular Level
+**Initiating sleep**:
+- GABA(Gamma-aminobutyric acid) acts as the *primary inhibitory neurotransmitter of the [[central nervous system]]*
+	- binds with GABA-A receptors in the brain -> promotes sleep
+	- 
+**Exiting sleep**:
+- 
+	  
 
 
 - https://www.sciencedirect.com/science/article/abs/pii/S1087079205001231
