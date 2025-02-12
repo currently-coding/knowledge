@@ -44,4 +44,9 @@
 
 
 
-## 
+## Sozial
+- **Behauptung**:
+	- Ehrenamt hat keinen Anreiz, ist aber notwendig
+- **Begruendung**:
+- **Beispiel**:
+- **Bezug**:
