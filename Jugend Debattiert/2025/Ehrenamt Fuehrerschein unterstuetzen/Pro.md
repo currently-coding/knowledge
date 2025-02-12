@@ -3,7 +3,8 @@
 
 ## Wertschätzung langer Ehrenamtlicher Arbeit
 ### Behauptung
-- ehrenam
+- ehrenamtliche Arbeit wird nicht genuegend wertgeschaetzt,
+- ist aber unentbehrlich
 ### Begründung
 ### Beispiel
 ### Bezug
@@ -14,14 +15,24 @@
 ### Beispiel
 ### Bezug
 
-## Argument
+## Ehrenamt fördert demokratische Werte
 ### Behauptung
+- Ehrenamt fördert demokratische Werte
 ### Begründung
+- man versucht gemeinsame Ziele auf Grundlage demokr. Regeln und Aushandlungsprozesse
 ### Beispiel
+- Schöffen-Amt(=ehrenamtlicher Zusatz-Richter bei Verhandlungen)
 ### Bezug
 
-## Argument
-### Behauptung
+## Ehrenamt ist in sozialer Gesellschaft nötig
+### Ehrenamt ist in einer profitorientierten Gesellschaft nötig, um auch sozial
 ### Begründung
+- Viele Ehrenämter sind Ehrenämter, weil keiner jmd. dafür anstellen würde, weil 
+	- zu wenig Geld vorhanden ist
+	- zu wenig Aufgaben um die Stelle zu füllen
+	- kein Profit dahinter steckt
 ### Beispiel
+- Hilfe bei der Aufnahme von Flüchtlingen
+	- lebt von Spenden -> kein sicherer Job -> können kein Gehalt anbieten
+
 ### Bezug

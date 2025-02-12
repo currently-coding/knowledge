@@ -257,9 +257,9 @@ command(noun) (The soldier followed the command of his superior., The dog toed t
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
 <!--SR:!2026-06-28,512,397!2026-07-17,528,399-->
 vague(adjective) (Initially, our world trip was just a vague idea., With such vague directions, it is impossible to arrive on time., They reached their destination despite the vague directions., His confusing explanation was much too vague., The teacher's vague explanation confused some students.) ::: vage, ungenau, unklar
-<!--SR:!2025-01-24,93,379!2026-04-20,449,397-->
+<!--SR:!2026-06-08,482,399!2026-04-20,449,397-->
 removal(noun) (The gardener uses a spray for the removal of weeds., The city pays for the removal of trash from the streets., The surgeon proposed the removal of the appendix., The removal of the kitchen cabinets did not take long.) ::: Entfernen, Beseitigung, Entfernung
-<!--SR:!2026-04-19,448,401!2025-01-09,78,357-->
+<!--SR:!2026-04-19,448,401!2026-02-28,382,377-->
 to skip(verb) (We can skip this chapter and move on to the next., The speaker skipped some questions to save time., I am going to skip this question., He skipped the chapter and moved on to the next one., I have to skip a round., He skipped a few uninteresting pages in the book., Some girls are skipping about in the garden.) ::: überspringen, übergehen, auslassen
 <!--SR:!2026-06-23,507,409!2026-05-09,470,397-->
 skip(noun) (A skip full of rubble stood in front of the building site.) ::: Container, Sprung, Fehlstelle
@@ -277,9 +277,9 @@ construct(noun) (So far the idea is nothing more than a construct.) ::: Gedanken
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
 <!--SR:!2026-04-24,453,377!2025-02-15,110,387-->
 broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit
-<!--SR:!2026-05-21,481,399!2025-01-20,92,377-->
+<!--SR:!2026-05-21,481,399!2026-05-31,474,397-->
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
-<!--SR:!2025-02-10,106,379!2026-05-16,475,397-->
+<!--SR:!2026-08-15,550,399!2026-05-16,475,397-->
 canal(noun) (Boat trips on the canal are a popular tourist attraction.) ::: Kanal, Gracht, Wasserstraße
 <!--SR:!2026-04-09,439,397!2026-06-20,504,399-->
 convenience(noun) (We provide pillows for your convenience., I do not like cooking, so I often order food for convenience.) ::: Komfort, Bequemlichkeit, Nutzen
