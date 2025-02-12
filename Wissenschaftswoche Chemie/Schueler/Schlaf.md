@@ -38,9 +38,21 @@
 
 ## Optimal Sleep duration
 ![[Pasted image 20250211115253.png]]
+## Schlafstadien
 ![[Pasted image 20250211115453.png]]
+Transitions between sleep and wake states are influenced by multiple brain structures, including:
+**Hypothalamus:** controls onset of sleep
+**Hippocampus**: memory region active during dreaming
+**Amygdala**: emotion center active during dreaming
+**Thalamus**: prevents sensory signals from reaching the cortex
+**Reticular formation:** regulates the transition between sleep and wakefulness
+**Pons**: helps initiate REM sleep. The extraocular movements that occur during REM are due to the activity of PPRF (paramedian pontine reticular formation/conjugate gaze center).
 
 
 - https://www.sciencedirect.com/science/article/abs/pii/S1087079205001231
 - https://link.springer.com/article/10.1007/s41105-017-0099-5
 - https://onlinelibrary.wiley.com/doi/full/10.1155/2015/591729
+
+---
+https://www.ncbi.nlm.nih.gov/books/NBK526132/
+https://onlinelibrary.wiley.com/doi/full/10.1155/2015/591729
