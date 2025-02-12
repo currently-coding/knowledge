@@ -106,3 +106,9 @@ Transitions between sleep and wake states are influenced by multiple brain s
 - https://onlinelibrary.wiley.com/doi/full/10.1155/2015/591729
 - https://www.ncbi.nlm.nih.gov/books/NBK526132/
 - https://www.jneurosci.org/content/jneuro/20/6/RC66.full.pdf
+
+# Bilder
+GABA
+![[Pasted image 20250212112614.png]]
+Brain Regions
+![[Pasted image 20250212112707.png]]
