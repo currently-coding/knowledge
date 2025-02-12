@@ -42,6 +42,8 @@
 	- lower melatonin levels during daytime sleep
 	- higher obesity risk
 	- higher diabetes risk
+- **Jet-Lag**:
+	- bei >8GMT stark erhöhte Cortisol Menge
 ## Optimal Sleep duration
 ![[Pasted image 20250211115253.png]]
 ## Schlafstadien
