@@ -57,7 +57,18 @@
 	- zeigt, dass Gesellschaft Arbeit anerkennt
 	-> erhöht Motivation und Engagement
 - **Begründung**:
+	- 94% haben Respekt vor Menschen, die Ehrenamt ausführen
 	- selbsterklärend
 - **Beispiel**:
 	- 
+- **Bezug**:
+	- Ehrenamt wird geschätzt und das soll auch vermittelt werden
+
+
+## Erleichterung der Mobilitaet
+- **Behauptung**:
+	- alle Blaulicht-Ehrenämter erfordern Mobilität
+	-> 
+- **Begründung**:
+- **Beispiel**:
 - **Bezug**:
