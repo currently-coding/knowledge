@@ -5,7 +5,7 @@
 ### Behauptung
 - ehrenamtliche Arbeit wird nicht genuegend wertgeschaetzt,
 ### Begründung
-- ehrenamtliche Arbeit ist fuer unsere Gesellschaft unentbehrlich
+- ehrenamtliche Arbeit ist für unsere Gesellschaft unentbehrlich
 ### Beispiel
 ### Bezug
 
