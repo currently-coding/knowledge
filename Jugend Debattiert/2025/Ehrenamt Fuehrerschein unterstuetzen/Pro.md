@@ -4,16 +4,11 @@
 ## Wertschätzung langer Ehrenamtlicher Arbeit
 ### Behauptung
 - ehrenamtliche Arbeit wird nicht genuegend wertgeschaetzt,
-- ist aber unentbehrlich
 ### Begründung
+- ehrenamtliche Arbeit ist fuer unsere Gesellschaft unentbehrlich
 ### Beispiel
 ### Bezug
 
-## Argument
-### Behauptung
-### Begründung
-### Beispiel
-### Bezug
 
 ## Ehrenamt fördert demokratische Werte
 ### Behauptung
@@ -35,4 +30,10 @@
 - Hilfe bei der Aufnahme von Flüchtlingen
 	- lebt von Spenden -> kein sicherer Job -> können kein Gehalt anbieten
 
+### Bezug
+
+## Argument
+### Behauptung
+### Begründung
+### Beispiel
 ### Bezug
