@@ -44,7 +44,7 @@
 
 
 
-## Sozial
+## Sozial - Armut
 - **Behauptung**:
 	- sozial schwächere können sich Führerschein nicht leisten
 	- brauchen mehr Ehrenamt
@@ -53,8 +53,15 @@
 	- Führerscheinkosten steigen jährlich
 	- Ehrenamt ist für eine soziale Gesellschaft notwendig
 - **Beispiel**:
-	- Jemand hilft in Jugend ehrenamtlich im Fussballverein aus(1 Jahr min.)
+	- Jemand hilft in Jugend ehrenamtlich im Fußballverein aus(1 Jahr min.)
 		-> bekommt Zuschuss
-		- kann sich Fuehrerschein leisten
+		- kann sich Führerschein leisten
 - **Bezug**:
 	- *todo*
+
+## Ehrenamt Attraktivität
+- **Behauptung**:
+	- steigert Attraktivitaet des Ehrenamts
+- **Begründung**:
+- **Beispiel**:
+- **Bezug**:
