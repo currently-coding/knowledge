@@ -1,5 +1,7 @@
 >[!Vorschlag]
->Ab einem Engagement von 2 Jahren besteht Anspruch auf eine Förderung des Führerscheins um 10% des lokalen(primärer Wohnsitz) Durchschnittspreises für den Führerschein der Klasse B. Diese 10% dürfen auf jeden Führerschein angerechnet werden.
+>„Wer sich im Blaulichtbereich oder bei vergleichbaren Institutionen ehrenamtlich engagiert beziehungsweise dort auf ein soziales Jahr oder länger verpflichtet, sollte in diesem Rahmen den Führerschein bezuschusst oder ganz bezahlt bekommen, sofern der Führerschein fürs Ehrenamt gebraucht wird“, sagte der CSU-Fraktionschef im Bayerischen Landtag, Klaus Holetschek, dem RedaktionsNetzwerk Deutschland (RND). „Ein Führerschein darf für junge Menschen kein Luxusgut werden!“
+
+
 
 ## Wertschätzung langer Ehrenamtlicher Arbeit
 ### Behauptung
