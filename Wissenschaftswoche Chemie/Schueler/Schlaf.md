@@ -63,9 +63,13 @@ Transitions between sleep and wake states are influenced by multiple brain s
 	-> triggers wake-promoting regions in hippothalamus and brainstem
 - Acetylcholine(ACh), dopamine, norepinephrine, serotonin, histamin, hypocretin peptides *work together to maintain the waking state*
 
-## Organ Systems Involved
-- 
-	  
+## Circadian Rhythm
+- controls nocturnal release of
+	- adrenocorticotropic hormone(ACTH)
+	- prolactin
+	- melatonin
+	- norepinephrine
+
 
 
 - https://www.sciencedirect.com/science/article/abs/pii/S1087079205001231
