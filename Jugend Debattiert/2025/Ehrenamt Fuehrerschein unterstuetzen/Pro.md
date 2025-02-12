@@ -50,7 +50,11 @@
 	- brauchen mehr Ehrenamt
 	-> 2 Fliegen mit einer Klappe
 - **Begründung**:
-	- Fuehrerscheinkosten steigen jaehrlich
-	- Ehren
+	- Führerscheinkosten steigen jährlich
+	- Ehrenamt ist für eine soziale Gesellschaft notwendig
 - **Beispiel**:
+	- Jemand hilft in Jugend ehrenamtlich im Fussballverein aus(1 Jahr min.)
+		-> bekommt Zuschuss
+		- kann sich Fuehrerschein leisten
 - **Bezug**:
+	- *todo*
