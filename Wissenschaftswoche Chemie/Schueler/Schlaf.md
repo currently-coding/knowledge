@@ -53,8 +53,10 @@ Transitions between sleep and wake states are influenced by multiple brain s
 **Initiating sleep**:
 - GABA(Gamma-aminobutyric acid) acts as the *primary inhibitory neurotransmitter of the [[central nervous system]]*
 	- binds with GABA-A receptors in the brain -> promotes sleep
-	- 
 **Exiting sleep**:
+- GABA is released by sleep-promoting neurons
+	-> triggers wake-promoting regions in hippothalamus and brainstem
+- Acetylcholine(ACh), dopamine, norepinephrine, serotonin, histamin, hypocretin peptides *work together to maintain the waking state*
 - 
 	  
 
