@@ -39,7 +39,9 @@
 	- 71% do not reach 8h of sleep
 	- rate sleep 2nd most important aspect regarding poor academic performance
 - **Night workers**:
-	- lower melatonin le
+	- lower melatonin levels during daytime sleep
+	- higher obesity risk
+	- higher diabetes risk
 ## Optimal Sleep duration
 ![[Pasted image 20250211115253.png]]
 ## Schlafstadien
