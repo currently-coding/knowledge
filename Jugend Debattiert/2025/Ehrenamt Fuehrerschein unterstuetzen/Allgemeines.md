@@ -11,7 +11,7 @@
 - 26% haben Leistung- oder Vorstandsfunktion
 
 ---
-- Fuehrerscheinkosten stiegen 202
+- Führerscheinkosten stiegen 2022->2023: +7.6%
 
 
 

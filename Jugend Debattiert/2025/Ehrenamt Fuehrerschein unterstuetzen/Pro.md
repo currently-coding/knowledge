@@ -32,15 +32,6 @@
 - Hilfe bei der Aufnahme von Flüchtlingen
 	- lebt von Spenden -> kein sicherer Job -> können kein Gehalt anbieten
 
-### Bezug
-
-## Argument
-### Behauptung
-### Begründung
-### Beispiel
-### Bezug
-
-
 ---
 
 
@@ -61,9 +52,12 @@
 - **Bezug**:
 	- *todo*
 
-## Ehrenamt Attraktivität
+## Ehrenamt Wertschaetzung
 - **Behauptung**:
-	- steigert Attraktivitaet des Ehrenamts
+	- zeigt, dass Gesellschaft Arbeit anerkennt
+	-> erhöht Motivation und Engagement
 - **Begründung**:
+	- selbsterklärend
 - **Beispiel**:
+	- 
 - **Bezug**:
