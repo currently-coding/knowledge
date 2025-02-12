@@ -20,7 +20,9 @@
 	- sleepiness
 		-> facilitates cognitive, emotional, behavioural and academic failure
 		-> reduces ability to learn from lessons([[declarative learning]]) or practical activities([[procedural learning]])
-	- obesity, Kreislaufproblem
+	- obesity
+		- sleep deficit in childhood leads to higher risk of obesity in later years
+	- Kreislaufproblem
 	- *impairments in neurocognitive and psychomotor performance*
 		- **Physical**
 			- slower reaction time
@@ -36,7 +38,8 @@
 - **Students**:
 	- 71% do not reach 8h of sleep
 	- rate sleep 2nd most important aspect regarding poor academic performance
-
+- **Night workers**:
+	- lower melatonin le
 ## Optimal Sleep duration
 ![[Pasted image 20250211115253.png]]
 ## Schlafstadien
