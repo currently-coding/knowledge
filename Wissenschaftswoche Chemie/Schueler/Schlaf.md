@@ -44,7 +44,9 @@
 	- higher diabetes risk
 - **Jet-Lag**:
 	- bei >8GMT stark erhöhte Cortisol Menge
-	- geistige Leistung nicht signi
+	- nach 4 Jahren konstanter Jet-Lag signifikant langsamere Reaktionszeit
+	- schlechtere kognitiven Fähigkeiten
+	-> durch erhöhte Cortisol level
 ## Optimal Sleep duration
 ![[Pasted image 20250211115253.png]]
 ## Schlafstadien
@@ -103,7 +105,4 @@ Transitions between sleep and wake states are influenced by multiple brain s
 - https://link.springer.com/article/10.1007/s41105-017-0099-5
 - https://onlinelibrary.wiley.com/doi/full/10.1155/2015/591729
 - https://www.ncbi.nlm.nih.gov/books/NBK526132/
-
----
-https://www.ncbi.nlm.nih.gov/books/NBK526132/
-https://onlinelibrary.wiley.com/doi/full/10.1155/2015/591729
+- https://www.jneurosci.org/content/jneuro/20/6/RC66.full.pdf
