@@ -44,6 +44,7 @@
 	- higher diabetes risk
 - **Jet-Lag**:
 	- bei >8GMT stark erhöhte Cortisol Menge
+	- geistige Leistung nicht signi
 ## Optimal Sleep duration
 ![[Pasted image 20250211115253.png]]
 ## Schlafstadien
