@@ -21,7 +21,7 @@ to account(verb) (The police asked him to account for his whereabouts at the tim
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
 <!--SR:!2025-12-01,341,342!2025-05-15,173,310-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) ::: genau, korrekt, sorgfältig, richtig
-<!--SR:!2025-08-31,269,339!2025-02-12,108,322-->
+<!--SR:!2025-08-31,269,339!2026-06-07,480,342-->
 acid(noun) (The chemical opposite of base is acid.) ::: Säure, Acid, LSD
 <!--SR:!2025-06-03,193,322!2025-07-24,236,330-->
 acid(adjective) (I do not like acid fruits.) ::: sauer
@@ -245,7 +245,7 @@ to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
 <!--SR:!2026-04-27,456,397!2025-07-15,206,365-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
-<!--SR:!2025-02-12,98,367!2026-02-27,398,377-->
+<!--SR:!2026-06-20,493,387!2026-02-27,398,377-->
 as a consequence(adverb) () ::: somit, demzufolge, folglich
 <!--SR:!2026-01-19,377,387!2025-01-07,25,297-->
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
@@ -297,7 +297,7 @@ reminder(noun) (We received a reminder for this invoice., The monument acts as a
 whereby(adverb) () ::: wobei, wodurch, womit
 <!--SR:!2025-09-01,269,377!2025-12-26,356,379-->
 to reside(verb) (My parents reside in another country., During our last vacation we resided in a luxurious mansion., He tried to express the love that resided in his heart.) ::: sich aufhalten, wohnen, residieren
-<!--SR:!2026-04-04,433,405!2025-01-20,88,379-->
+<!--SR:!2026-04-04,433,405!2026-05-13,455,399-->
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
 <!--SR:!2025-11-14,322,381!2026-06-19,503,399-->
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
@@ -330,13 +330,13 @@ subscription(noun) (The magazine's monthly subscription costs 50 dollars., A sub
 palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 <!--SR:!2026-04-28,457,399!2026-07-19,532,405-->
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
-<!--SR:!2026-04-29,458,401!2025-01-19,87,379-->
+<!--SR:!2026-04-29,458,401!2026-05-07,449,399-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
 <!--SR:!2026-05-20,476,399!2025-03-26,140,387-->
 to revenge oneself(verb) () ::: sich rächen
 <!--SR:!2026-06-16,505,405!2025-12-13,343,379-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
-<!--SR:!2026-04-03,432,399!2025-01-15,80,367-->
+<!--SR:!2026-04-03,432,399!2026-03-18,399,387-->
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
 <!--SR:!2025-05-24,175,365!2025-12-21,351,379-->
 thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, hocherfreut, freudig erregt
@@ -348,7 +348,7 @@ harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschl
 to harbour(verb) (A dishcloth can harbour germs.) ::: beherbergen, bergen, hegen
 <!--SR:!2025-09-12,277,379!2025-06-25,172,368-->
 to clarify(verb) (In the first place, the police officer needed to clarify the facts., An example will clarify what I mean., He clarified the main aspects of his book., We have published a White Paper in which we clarify our position.) ::: klären, verdeutlichen, erläutern
-<!--SR:!2025-02-12,108,387!2025-11-21,321,359-->
+<!--SR:!2026-09-06,571,407!2025-11-21,321,359-->
 to formulate(verb) (Abstract ideas are very hard to formulate., The project manager formulated a plan., The board formulated plans to restructure the company., He formulated his apology in a long letter.) ::: formulieren, ausarbeiten, konzipieren
 <!--SR:!2026-06-17,501,408!2025-08-17,247,381-->
 oxygen(noun) (Blood transports oxygen from the lungs to the rest of the body., The brain needs oxygen to function.) ::: Sauerstoff
