@@ -46,8 +46,10 @@
 
 ## Sozial
 - **Behauptung**:
-	- Ehrenamt hat keinen Anreiz, ist aber notwendig
+	- sozial schwächere können sich Führerschein nicht leisten
+	- brauchen mehr Ehrenamt
+	-> 2 Fliegen mit einer Klappe
 - **Begründung**:
-	- w
+	- Fuehrerscheinkosten steigen
 - **Beispiel**:
 - **Bezug**:
