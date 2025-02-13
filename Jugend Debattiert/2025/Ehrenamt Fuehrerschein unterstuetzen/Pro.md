@@ -39,6 +39,6 @@
 	- Nach Schulabschluss noch unsicher
 	- Motivation durch FS
 		-> FSJ oder anderes
-  
+	-> + für Gesellschaft
 - **Schluss**:
 	- 
