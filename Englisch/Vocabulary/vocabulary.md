@@ -368,7 +368,7 @@ villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
 <!--SR:!2025-08-27,257,381!2026-04-18,447,385-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
-<!--SR:!2026-04-15,444,405!2025-02-09,105,388-->
+<!--SR:!2026-04-15,444,405!2026-08-24,557,408-->
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
 <!--SR:!2026-07-26,536,409!2025-03-08,106,347-->
 sigh(noun) () ::: Seufzer, Seufzen
