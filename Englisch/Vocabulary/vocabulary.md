@@ -364,7 +364,7 @@ upgrade(noun) (There is an upgrade available for this software., Currently, ther
 to upgrade(verb) (He has upgraded the software on his computer., The museum has recently upgraded its security system., I upgraded my computer by adding more memory.) ::: aktualisieren, verbessern, aufrüsten
 <!--SR:!2026-05-06,459,388!2026-05-30,490,401-->
 villager(noun) (The villagers were friendly, not hostile.) ::: Dorfbewohner
-<!--SR:!2025-02-13,108,389!2025-09-17,264,345-->
+<!--SR:!2026-09-10,574,409!2025-09-17,264,345-->
 to enhance(verb) (The application can enhance the image quality., The agreement enhances the two countries' bilateral cooperation., The new technology enhances the team's productivity., The two companies have decided to enhance their cooperation., The booster enhances the effect., The agreement enhances cooperation between the two countries.) ::: verbessern, stärken, fördern
 <!--SR:!2025-08-27,257,381!2026-04-18,447,385-->
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
