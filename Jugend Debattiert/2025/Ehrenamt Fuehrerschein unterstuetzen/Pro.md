@@ -42,3 +42,10 @@
 	-> + für Gesellschaft
 - **Schluss**:
 	- 
+
+
+## Vom Ehrenamt gewollt
+- **Behauptung**:
+	- Organisationen, die Ehrenaemter anbieten, wollen diese Massnahme
+- **Begründung**:
+	- Rotes Kreuz und Feuerwehr(Bayern) befuerwortet Vorschlag
