@@ -8,14 +8,17 @@
 - **Schluss**:
 	- 
 
-## Chancengleichheit und soziale Integration
+## Ermöglicht Mobilität
 - **Behauptung**:
-	- 
+	- viele Ehrenamtliche Tätigkeiten, erfordern selbstständige Mobilität
+	-> eröffnet mehr mögliche Ehrenämter
 - **Begründung**:
-	- 
+	- gerade in ländlichen Gebieten notwendig
+		- schlechter ÖPNV
 - **Beispiel**:
 	- 
-- **Schluss**:
+- **Schluss**
+	- 
 
 
 ## 
