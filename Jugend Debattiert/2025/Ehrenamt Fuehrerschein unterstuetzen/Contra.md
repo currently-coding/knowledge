@@ -1,6 +1,6 @@
-## Chancengleichheit und soziale Integration
+## Zu Teuer
 - **Behauptung**:
-	- 
+	- enstehende Kosten koennen 
 - **Begründung**:
 	- 
 - **Beispiel**:
