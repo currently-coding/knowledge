@@ -36,6 +36,9 @@
 - **Begründung**:
 	- finanzieller Anreiz
 - **Beispiel**:
-	- 
+	- Nach Schulabschluss noch unsicher
+	- Motivation durch FS
+		-> FSJ oder anderes
+  
 - **Schluss**:
 	- 
