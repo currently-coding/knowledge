@@ -18,13 +18,13 @@
 
 
 
-    Wertschätzung des Engagements: Ein Zuschuss zeigt, dass die Gesellschaft die Arbeit von Ehrenamtlichen anerkennt und wertschätzt, was die Motivation und das Engagement erhöhen kann.
+Wertschätzung des Engagements: Ein Zuschuss zeigt, dass die Gesellschaft die Arbeit von Ehrenamtlichen anerkennt und wertschätzt, was die Motivation und das Engagement erhöhen kann.
 
-    Erleichterung der Mobilität: Viele ehrenamtliche Tätigkeiten erfordern Mobilität. Ein Führerschein ermöglicht es den Engagierten, flexibler und effizienter zu arbeiten, insbesondere in ländlichen Gebieten.
+Erleichterung der Mobilität: Viele ehrenamtliche Tätigkeiten erfordern Mobilität. Ein Führerschein ermöglicht es den Engagierten, flexibler und effizienter zu arbeiten, insbesondere in ländlichen Gebieten.
 
-    Zugang zu mehr Möglichkeiten: Mit einem Führerschein können Ehrenamtliche leichter verschiedene Projekte und Veranstaltungen erreichen, was die Vielfalt und Reichweite ihres Engagements erhöht.
+Zugang zu mehr Möglichkeiten: Mit einem Führerschein können Ehrenamtliche leichter verschiedene Projekte und Veranstaltungen erreichen, was die Vielfalt und Reichweite ihres Engagements erhöht.
 
-    Förderung der sozialen Teilhabe: Ein Führerschein kann dazu beitragen, dass mehr Menschen an ehrenamtlichen Aktivitäten teilnehmen, insbesondere solche, die aufgrund von Mobilitätsproblemen sonst ausgeschlossen wären.
+Förderung der sozialen Teilhabe: Ein Führerschein kann dazu beitragen, dass mehr Menschen an ehrenamtlichen Aktivitäten teilnehmen, insbesondere solche, die aufgrund von Mobilitätsproblemen sonst ausgeschlossen wären.
 
 Contra-Argumente gegen einen Zuschuss zum Führerschein für ehrenamtlich Engagierte:
 

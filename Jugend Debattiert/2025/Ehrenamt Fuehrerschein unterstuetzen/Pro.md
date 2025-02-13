@@ -1,8 +1,8 @@
-## Chancengleichheit und soziale Integration
+## Wertschätzung des Ehrenamts
 - **Behauptung**:
-	- 
+	- Finanzieller Vorteil wertschätzt Ehrenamt
 - **Begründung**:
-	- 
+	- 94% haben großen Respekt vor Ehrenamt
 - **Beispiel**:
 	- 
 - **Schluss**:
