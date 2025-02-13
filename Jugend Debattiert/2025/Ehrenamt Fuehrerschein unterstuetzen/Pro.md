@@ -32,9 +32,9 @@
 
 ## Chancengleichheit und soziale Integration
 - **Behauptung**:
-	- 
+	- Führerschein kostet immer mehr -> nicht möglich für ärmere
 - **Begründung**:
-	- 
+	- +7.6% 2022 -> 2023
 - **Beispiel**:
 	- 
 - **Schluss**:
