@@ -374,9 +374,9 @@ to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun
 sigh(noun) () ::: Seufzer, Seufzen
 <!--SR:!2026-05-10,469,405!2025-03-01,119,387-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
-<!--SR:!2025-03-11,129,389!2025-02-09,105,387-->
+<!--SR:!2025-03-11,129,389!2026-08-23,556,407-->
 surveillance(noun) (The building is under surveillance., Satellites allow an exhaustive surveillance., The police have the suspect under surveillance.) ::: Überwachung, Aufsicht, Kontrolle
-<!--SR:!2025-03-29,135,387!2025-02-11,67,369-->
+<!--SR:!2025-03-29,135,387!2026-01-18,339,389-->
 restoration(noun) (The restoration of the old church took many years., Her job is the restoration of damaged artworks., The restoration of the castle took long, but it was worth it., The restoration of the castle took several years.) ::: Wiederherstellung, Restauration, Restaurierung
 <!--SR:!2026-05-26,485,405!2025-11-25,333,387-->
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
@@ -388,7 +388,7 @@ embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklam
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
 <!--SR:!2025-10-26,303,389!2024-12-25,59,328-->
 transformation(noun) (The Internet has led to a transformation of society.) ::: Umwandlung, Transformation, Umsetzung
-<!--SR:!2025-02-09,105,389!2025-02-23,113,388-->
+<!--SR:!2026-08-25,558,409!2025-02-23,113,388-->
 rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellion, Aufstand, Aufruhr
 <!--SR:!2025-02-28,118,388!2025-03-12,130,388-->
 dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
@@ -410,17 +410,17 @@ to address oneself to(verb) () ::: sich etw. widmen
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
 <!--SR:!2025-03-06,124,387!2026-06-04,494,405-->
 consult(noun) () ::: Befragung
-<!--SR:!2025-01-13,72,349!2026-01-14,355,365-->
+<!--SR:!2026-01-24,345,369!2026-01-14,355,365-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
 <!--SR:!2025-02-25,115,389!2025-04-23,165,387-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
 <!--SR:!2025-02-20,90,347!2025-10-10,293,388-->
 ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
-<!--SR:!2025-03-07,125,387!2025-02-12,107,389-->
+<!--SR:!2025-03-07,125,387!2026-09-05,569,409-->
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
 <!--SR:!2025-03-29,135,387!2025-05-03,162,389-->
 home(adjective) () ::: einheimisch, inländisch
-<!--SR:!2026-04-22,451,408!2025-01-11,80,365-->
+<!--SR:!2026-04-22,451,408!2026-03-13,393,385-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
 <!--SR:!2025-04-18,160,388!2026-08-04,542,405-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
@@ -430,7 +430,7 @@ applicant(noun) (Applicants for a loan can fill in a form online., Applicants ha
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
 <!--SR:!2025-04-29,157,389!2025-03-01,112,396-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
-<!--SR:!2025-03-18,136,389!2025-02-09,105,387-->
+<!--SR:!2025-03-18,136,389!2026-08-22,555,407-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
 <!--SR:!2025-05-07,158,347!2025-04-25,140,356-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
