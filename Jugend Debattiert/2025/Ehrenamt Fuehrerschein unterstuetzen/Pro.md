@@ -30,10 +30,12 @@
 	- 
 - **Schluss**:
 	- 
-
-
-
-
-
-
-
+## Anreiz
+- **Behauptung**:
+	- bringt mehr Menschen ins Ehrenamt
+- **Begründung**:
+	- finanzieller Anreiz
+- **Beispiel**:
+	- 
+- **Schluss**:
+	- 
