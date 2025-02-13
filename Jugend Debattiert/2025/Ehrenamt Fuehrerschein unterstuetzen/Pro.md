@@ -35,7 +35,6 @@
 - **Beispiel**: Interne Befragungen bei Organisationen bestätigen, dass finanzielle Förderungen als essentiell für die Gewinnung und Bindung von Ehrenamtlichen angesehen werden.  
 - **Schluss**: Die Zustimmung etablierter ehrenamtlicher Organisationen unterstreicht den gesellschaftlichen Nutzen der Maßnahme.
 
-
 ## Förderung der Selbstständigkeit und Unabhängigkeit
 - **Behauptung**: Finanzielle Unterstützung beim Führerscheinerwerb stärkt die Selbstständigkeit junger Menschen.  
 - **Begründung**: Der Führerschein ermöglicht eigenverantwortliche Mobilität und erleichtert den Übergang ins Berufsleben.  
