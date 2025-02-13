@@ -1,3 +1,10 @@
+## Zitate:
+>„Die Befähigung, ein Auto zu fahren, darf nicht zum Luxusgut werden, das sich nur noch wenige leisten können“, heißt es in einem Antrag der Fraktionen von CSU und Freien Wählern. 
+
+>Holetschek: „Kosten machen dem Flugschein Konkurrenz“ 
+
+
+
 ## Wertschätzung des Ehrenamts
 - **Behauptung**:
 	- Finanzieller Vorteil wertschätzt Ehrenamt
@@ -26,6 +33,8 @@
 	- Führerschein kostet immer mehr -> nicht möglich für ärmere
 - **Begründung**:
 	- +7.6% 2022 -> 2023
+	- ACHTUNG: Rest ist um 5.9% gestiegen, wegen Inflation
+	- +30%  2020 -> 2023
 - **Beispiel**:
 	- 
 - **Schluss**:
