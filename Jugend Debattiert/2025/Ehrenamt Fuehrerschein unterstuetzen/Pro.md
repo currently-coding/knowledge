@@ -16,7 +16,7 @@
 	- gerade in ländlichen Gebieten notwendig
 		- schlechter ÖPNV
 - **Beispiel**:
-	- 
+	- Feuerwehr braucht Fahrer fuer ~18.000 Fahrzeuge in Bayern
 - **Schluss**
 	- 
 
