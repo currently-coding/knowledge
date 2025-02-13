@@ -21,15 +21,6 @@
 	- 
 
 
-## 
-- **Behauptung**:
-	- 
-- **Begründung**:
-	- 
-- **Beispiel**:
-	- 
-- **Schluss**:
-
 ## Chancengleichheit und soziale Integration
 - **Behauptung**:
 	- Führerschein kostet immer mehr -> nicht möglich für ärmere
@@ -39,3 +30,7 @@
 	- 
 - **Schluss**:
 	- 
+
+
+
+
