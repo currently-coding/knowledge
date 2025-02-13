@@ -28,10 +28,10 @@
 
 Contra-Argumente gegen einen Zuschuss zum Führerschein für ehrenamtlich Engagierte:
 
-    Finanzielle Belastung: Zuschüsse könnten die öffentlichen Kassen belasten, insbesondere wenn viele Ehrenamtliche Anspruch darauf erheben. Dies könnte zu einer Umverteilung von Geldern führen, die an anderer Stelle benötigt werden.
+Finanzielle Belastung: Zuschüsse könnten die öffentlichen Kassen belasten, insbesondere wenn viele Ehrenamtliche Anspruch darauf erheben. Dies könnte zu einer Umverteilung von Geldern führen, die an anderer Stelle benötigt werden.
 
-    Ungleichheit: Ein Zuschuss könnte als ungerecht empfunden werden, da nicht alle Ehrenamtlichen die gleichen Bedürfnisse oder Möglichkeiten haben. Einige könnten auch ohne Führerschein effektiv arbeiten.
+Ungleichheit: Ein Zuschuss könnte als ungerecht empfunden werden, da nicht alle Ehrenamtlichen die gleichen Bedürfnisse oder Möglichkeiten haben. Einige könnten auch ohne Führerschein effektiv arbeiten.
 
-    Verwaltungsaufwand: Die Implementierung und Verwaltung eines Zuschussprogramms könnte zusätzlichen bürokratischen Aufwand verursachen, der von den Ressourcen ablenkt, die für die eigentliche ehrenamtliche Arbeit benötigt werden.
+Verwaltungsaufwand: Die Implementierung und Verwaltung eines Zuschussprogramms könnte zusätzlichen bürokratischen Aufwand verursachen, der von den Ressourcen ablenkt, die für die eigentliche ehrenamtliche Arbeit benötigt werden.
 
-    Fokus auf Mobilität statt Engagement: Ein Zuschuss könnte den Fokus von der eigentlichen ehrenamtlichen Tätigkeit auf die Mobilität verschieben, was möglicherweise nicht im besten Interesse der Gemeinschaft ist.
+Fokus auf Mobilität statt Engagement: Ein Zuschuss könnte den Fokus von der eigentlichen ehrenamtlichen Tätigkeit auf die Mobilität verschieben, was möglicherweise nicht im besten Interesse der Gemeinschaft ist.
