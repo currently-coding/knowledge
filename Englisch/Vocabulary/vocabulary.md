@@ -452,7 +452,7 @@ boost(noun) (The new model meant a boost to the sales., The donation gave the co
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
 <!--SR:!2025-04-01,136,389!2026-05-24,483,408-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
-<!--SR:!2026-05-02,461,407!2025-02-09,105,389-->
+<!--SR:!2026-05-02,461,407!2026-08-26,558,409-->
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2025-10-07,290,385!2026-08-02,542,409-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
