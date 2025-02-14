@@ -60,9 +60,9 @@ Transitions between sleep and wake states are influenced by multiple brain s
 **[[Hypothalamus]]:** controls onset of sleep
 **[[Hippocampus]]**: memory region active during dreaming
 **[[Amygdala]]**: emotion center active during dreaming
-**Thalamus**: prevents sensory signals from reaching the cortex
-**Reticular formation:** regulates the transition between sleep and wakefulness
-**Pons**: helps initiate REM sleep. The extraocular movements that occur during REM are due to the activity of PPRF (paramedian pontine reticular formation/conjugate gaze center).
+**[[Thalamus]]**: prevents sensory signals from reaching the cortex
+**[[Reticular formation]]:** regulates the transition between sleep and wakefulness
+**[[Pons]]**: helps initiate REM sleep. The extraocular movements that occur during REM are due to the activity of PPRF (paramedian pontine reticular formation/conjugate gaze center).
 **Gender Differences**: 
 - Men spend more time in N1 + more nighttime awakenings
 	-> more daytime sleepiness
@@ -70,7 +70,7 @@ Transitions between sleep and wake states are influenced by multiple brain s
 - Woman complain more about difficulties about falling asleep
 
 
-### Characteristics of REM
+### Characteristics of [[REM]]
 - Associated with dreaming and irregular muscle movements as well as rapid movements of the eyes
 - People tend to awaken spontaneously in the morning during an episode of REM sleep
 - Loss of motor tone, increased brain O2 use, increased and variable pulse and blood pressure
