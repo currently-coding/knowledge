@@ -11,6 +11,7 @@
 - 26% haben Leistung- oder Vorstandsfunktion
 
 - 42% der 14-29y.o
+- 60%
 
 ---
 - Führerscheinkosten stiegen 2022->2023: +7.6%

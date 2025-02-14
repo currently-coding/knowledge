@@ -62,3 +62,20 @@
 	- 
 - **Schluss**:  
 	- Die Wertschätzung des Ehrenamts sollte unabhängig von finanziellen Anreizen erfolgen, um Ungerechtigkeiten zu vermeiden.
+
+
+## Nicht noetig
+- **Behauptung**:  
+	- Es gibt genügend Ehrenamtliche
+	- Bereitschaft ist sehr hoch
+- **Begründung**:  
+	- ~40% der >14y.o sind ehrenamtlich tätig
+	- ~40% sind auch dazu bereit
+- **Beispiel**:  
+	- 
+- **Schluss**:  
+	- Die Wertschätzung des Ehrenamts sollte unabhängig von finanziellen Anreizen erfolgen, um Ungerechtigkeiten zu vermeiden.
+
+
+## Aendert nichts
+https://www.bmfsfj.de/bmfsfj/aktuelles/presse/pressemitteilungen/zahlen-daten-fakten-zur-entwicklung-des-freiwilligen-engagements-in-deutschland--176840
