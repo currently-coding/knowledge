@@ -32,12 +32,16 @@
 ### Behauptung
 - Bengalos hindern Spielverlauf durch Störung der Sicht
 - Bengalos stören sportliche Leistung
+	-> Spielunterbrechung
 ### Begründung
 - starke Rauchentwicklung, die lange anhält(+5min)
 ### Beispiel
 - Basel - Zürich
 	- Fans zündeten massive Mengen an Pyro
--> Abbruch wegen Rauch
+	- -> Abbruch wegen Rauch
+- Viertelfinale DFB Pokal 2024
+	- Spielunterbrechung wegen Pyro
+
 ### Bezug
 
 
