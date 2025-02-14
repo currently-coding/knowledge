@@ -57,9 +57,9 @@
 - 75% in NREM with majority in N2
 
 Transitions between sleep and wake states are influenced by multiple brain structures, including:
-**Hypothalamus:** controls onset of sleep
-**Hippocampus**: memory region active during dreaming
-**Amygdala**: emotion center active during dreaming
+**[[Hypothalamus]]:** controls onset of sleep
+**[[Hippocampus]]**: memory region active during dreaming
+**[[Amygdala]]**: emotion center active during dreaming
 **Thalamus**: prevents sensory signals from reaching the cortex
 **Reticular formation:** regulates the transition between sleep and wakefulness
 **Pons**: helps initiate REM sleep. The extraocular movements that occur during REM are due to the activity of PPRF (paramedian pontine reticular formation/conjugate gaze center).

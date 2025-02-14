@@ -1,0 +1,5 @@
+> Der **Hypothalamus** (von altgriechisch ὑπό hypo „unter“ und θάλαμος thálamos „Zimmer, Kammer“) ist ein Teil des Gehirns und befindet sich direkt über der Hypophyse. Der Hypothalamus ist ein Abschnitt des Zwischenhirns (Diencephalon) im Bereich der Sehnervenkreuzung (Chiasma opticum). Medial wird der Hypothalamus vom dritten Ventrikel, kranial vom Thalamus begrenzt. Das Infundibulum, der sogenannte Hypophysenstiel, verbindet den Hypothalamus mit der Hypophyse, deren Hinterlappen noch als Teil des Hypothalamus bezeichnet wird.
+>
+> Der Hypothalamus steuert im Zusammenwirken mit der Hypophyse andere endokrine Drüsen. Er bildet besondere Steuerhormone (Releasing- und Inhibiting-Hormone), verschiedene Neuropeptide sowie Dopamin und regelt hierüber maßgeblich die vegetativen Funktionen des Körpers.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Hypothalamus)
