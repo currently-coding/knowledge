@@ -456,7 +456,7 @@ to compel(verb) (The rain compelled me to stay home., The contract compels the t
 to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
 <!--SR:!2025-10-07,290,385!2026-08-02,542,409-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
-<!--SR:!2025-05-26,185,365!2025-02-14,109,387-->
+<!--SR:!2025-05-26,185,365!2026-09-14,577,407-->
 excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich
 <!--SR:!2025-05-18,154,423!2025-02-11,97,381-->
 to excruciate(verb) () ::: quälen
