@@ -137,12 +137,6 @@
         "Mod"
       ],
       "key": "ArrowLeft"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "H"
     }
   ],
   "workspace:next-tab": [
@@ -151,12 +145,6 @@
         "Mod"
       ],
       "key": "ArrowRight"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
     }
   ],
   "editor:focus-right": [
@@ -211,6 +199,36 @@
         "Alt"
       ],
       "key": "W"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }
