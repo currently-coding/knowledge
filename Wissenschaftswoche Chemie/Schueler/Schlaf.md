@@ -9,15 +9,15 @@
 ## Summary
 - sleep is an *active*, *repetitive* and *reversibly* behaviour
 - **Functions of sleep**
-	- repair
-	- growth
-	- *learning or memory consolidation*
-	- restorative processes
-
-- sleep is often sacrificed for time
-	- e.g. hobbies/interests
-- **Consequences of sleep loss**:
-	- sleepiness
+		- repair
+		- growth
+		- *learning or memory consolidation*
+		- restorative processes
+	
+	- sleep is often sacrificed for time
+		- e.g. hobbies/interests
+	- **Consequences of sleep loss**:
+		- sleepiness
 		-> facilitates cognitive, emotional, behavioural and academic failure
 		-> reduces ability to learn from lessons([[declarative learning]]) or practical activities([[procedural learning]])
 	- obesity
