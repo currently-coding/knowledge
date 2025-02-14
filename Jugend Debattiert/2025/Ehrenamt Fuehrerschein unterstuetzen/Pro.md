@@ -3,6 +3,10 @@
 
 >Holetschek: „Kosten machen dem Flugschein Konkurrenz“ 
 
+>[!Vorschlag]
+>Wenn min. 2h/Woche fuer 1 Jahr -> Fuehrerschein 20% guenstiger
+
+
 
 
 ## Wertschätzung des Ehrenamts
