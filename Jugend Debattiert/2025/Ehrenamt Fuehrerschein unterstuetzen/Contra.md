@@ -74,8 +74,15 @@
 - **Beispiel**:  
 	- 
 - **Schluss**:  
-	- Die Wertschätzung des Ehrenamts sollte unabhängig von finanziellen Anreizen erfolgen, um Ungerechtigkeiten zu vermeiden.
 
 
-## Aendert nichts
-https://www.bmfsfj.de/bmfsfj/aktuelles/presse/pressemitteilungen/zahlen-daten-fakten-zur-entwicklung-des-freiwilligen-engagements-in-deutschland--176840
+## Ändert nichts
+- **Behauptung**:  
+	- Finanzielle Anreize sind nicht das Problem
+	- Zeit ist der Haupthinderungsgrund
+- **Begründung**:  
+	- Schüler: 70% geben keine Zeit als Grund an
+	- ~15% haben Geld als Motiv
+- **Beispiel**:  
+	- 
+- **Schluss**:  
