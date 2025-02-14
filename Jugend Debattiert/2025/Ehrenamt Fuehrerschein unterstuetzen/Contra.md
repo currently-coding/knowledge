@@ -51,3 +51,14 @@
 	- Langjährige Ehrenamtliche fühlen sich übergangen, da sie keinen Führerschein erstattet bekommen haben.  
 - **Schluss**:  
 	- Die Wertschätzung des Ehrenamts sollte unabhängig von finanziellen Anreizen erfolgen, um Ungerechtigkeiten zu vermeiden.
+
+
+## Ungleichheit
+- **Behauptung**:  
+	- Ausnutzung durch minimale Arbeitszeit
+- **Begründung**:  
+	- ob 1h oder 5h pro Woche wird nicht erfasst
+- **Beispiel**:  
+	- 
+- **Schluss**:  
+	- Die Wertschätzung des Ehrenamts sollte unabhängig von finanziellen Anreizen erfolgen, um Ungerechtigkeiten zu vermeiden.

@@ -10,6 +10,8 @@
 - Mann-Frau ausgeglichen
 - 26% haben Leistung- oder Vorstandsfunktion
 
+- 42% der 14-29y.o
+
 ---
 - Führerscheinkosten stiegen 2022->2023: +7.6%
 
