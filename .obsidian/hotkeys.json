@@ -204,5 +204,13 @@
       ],
       "key": "W"
     }
+  ],
+  "obsidian-wikipedia:wikipedia-get-active-note-title": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }
