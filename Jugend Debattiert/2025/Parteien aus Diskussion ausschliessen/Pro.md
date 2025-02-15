@@ -24,6 +24,6 @@
    - **Schluss:** Der Ausschluss kann dazu beitragen, soziale Konflikte zu vermeiden und den gesellschaftlichen Frieden zu wahren.
 
 6. **Demokratie hat Grenzen**:
-   - **Begründung:** Deutschland setzt der Demokratie eindeutige Grenzen, die extreme Parteien misachten.
+   - **Begründung:** Deutschland setzt der Demokratie eindeutige Grenzen, die extreme Parteien missachten.
    - **Beispiel:** Art 20 GG: Deutschland ist eine Demokratie
-   - **Schluss:** Meinungsfreiheit hat Grenzen, die extreme Parteien misachten.
+   - **Schluss:** Meinungsfreiheit hat Grenzen, die extreme Parteien missachten.
