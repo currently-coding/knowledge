@@ -2,8 +2,8 @@ Nikolaus Kopernikus behauptet, dass sich die Erde um die Sonne dreht := 1514
 James Watt erfindet die Dampfmaschine := 1768
 Galvani entdeckt die galvanische Elektrizität := 1771
 <!--SR:!2025-04-01,55,310-->
-ARPANET := 1989, October 29
-<!--SR:!2025-01-27,1,229-->
+ARPANET := 1969, October 29
+<!--SR:!2025-02-16,1,209-->
 Email (on ARPANET) := 1971
 TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
 <!--SR:!2025-02-07,2,237-->
