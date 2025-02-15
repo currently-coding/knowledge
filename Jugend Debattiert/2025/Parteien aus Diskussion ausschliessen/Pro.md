@@ -1,3 +1,16 @@
+Demokratie lebt vom offenen Austausch – aber wo ziehen wir die Grenze? Meinungsfreiheit ist ein Grundpfeiler unseres Staates, doch was passiert, wenn sie von denen genutzt wird, die unsere Demokratie selbst infrage stellen?  
+
+Artikel 5 unseres Grundgesetzes garantiert, dass in Deutschland jede Meinung zaehlt und vertreten werden darf. Doch auch dieses Recht hat seine Grenzen. Nur wo ziehen wir die? Sollen extreme Parteien auf oeffentlichen Diskussionsrunden ausgeschlossen werden?3
+
+
+
+
+
+demokratischer und sozialer Rechtsstaat bleibt. Gleichzeitig schützt Artikel 79 Absatz 3 diese Grundsätze vor Änderungen. Doch bedeutet das auch, dass wir jedem politischen Akteur eine Bühne bieten müssen – selbst denen, die unsere Demokratie abschaffen wollen?  
+
+Genau darum geht es heute: **Sollten extreme Parteien aus öffentlichen Diskussionsrunden ausgeschlossen werden?** 
+
+
 1. **Verbreitung von Hassrede und Desinformation:**
    - **Begründung:** Extremistische Parteien könnten öffentliche Plattformen nutzen, um Hassrede oder falsche Informationen zu verbreiten.
    - **Beispiel:** In einigen Fällen haben Vertreter extremistischer Parteien in öffentlichen Diskussionen diskriminierende oder unwahre Aussagen getätigt.
