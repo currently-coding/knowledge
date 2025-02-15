@@ -6,16 +6,16 @@ ARPANET := 1969, October 29
 <!--SR:!2025-02-16,1,209-->
 Email (on ARPANET) := 1971
 TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
-<!--SR:!2025-02-07,2,237-->
+<!--SR:!2025-02-22,7,257-->
 DNS(Domain Name System): maps IPs to human readable domain names := 1984
 WWW: Tim Berners-Lee proposed and developed the WWW at CERN := 1989 - 1990
-<!--SR:!2025-02-08,3,257-->
+<!--SR:!2025-02-17,2,237-->
 First Web Browser := Mosaic - 1993 - provided a graphical interface
-<!--SR:!2025-02-06,1,203-->
+<!--SR:!2025-02-16,1,183-->
 First Search Engine := Yahoo! - 1994
-<!--SR:!2025-02-06,1,212-->
+<!--SR:!2025-02-17,2,212-->
 Google := 1998 - better search algorithm
-<!--SR:!2025-01-27,1,223-->
+<!--SR:!2025-02-16,1,203-->
 Wi-Fi introduced := 1997 - IEEE 802.11 -> established wireless internet connections
 Introduction of Social Media := 2003-2004: MySpace(2003), Facebook(2004), etc. launched
 <!--SR:!2025-01-27,1,212-->
