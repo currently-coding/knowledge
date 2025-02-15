@@ -1,5 +1,3 @@
-**Pro-Argumente für die Teilnahme extremistischer Parteien an Diskussionsrunden:**
-
 1. **Demokratische Prinzipien:**
    - **Begründung:** In einer Demokratie sollten alle politischen Ansichten, einschließlich extremer Positionen, Gehör finden, um einen offenen Austausch zu gewährleisten.
    - **Beispiel:** Die Teilnahme der AfD an politischen Talkshows ermöglicht es, ihre Positionen öffentlich zu diskutieren und zu hinterfragen.

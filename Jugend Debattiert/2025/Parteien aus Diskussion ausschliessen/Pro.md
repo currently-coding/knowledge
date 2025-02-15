@@ -22,3 +22,8 @@
    - **Begründung:** Die Präsenz extremistischer Parteien in öffentlichen Diskussionen kann gesellschaftliche Spannungen erhöhen und den sozialen Frieden gefährden.
    - **Beispiel:** In einigen Gemeinden haben öffentliche Auftritte extremistischer Parteien zu Protesten und Unruhen geführt.
    - **Schluss:** Der Ausschluss kann dazu beitragen, soziale Konflikte zu vermeiden und den gesellschaftlichen Frieden zu wahren.
+
+6. **Demokratie hat Grenzen**:
+   - **Begründung:** Deutschland setzt der Demokratie eindeutige Grenzen, die extreme Parteien misachten.
+   - **Beispiel:** Art 20 GG: 4
+   - **Schluss:** Der Ausschluss kann dazu beitragen, soziale Konflikte zu vermeiden und den gesellschaftlichen Frieden zu wahren.
