@@ -5,4 +5,4 @@ https://www.frage.de/politik/sollen-extreme-parteien-ausgeschlossen-werden
 >[!Definition]
 >Eine Partei ist **extrem**, wenn sie sich gegen den freiheitlich-demokratischen Verfassungsstaat stellt
 
-aw
+Schulen müssen alle im Bundestag vertretenen Parteien zu Diskussionen einladen
