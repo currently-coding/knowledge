@@ -1156,12 +1156,12 @@ former(adjective) (The coach is a former professional player., Our former boss w
 to widen(verb) (A shift in perspective can widen our horizon., The city widened the roads to ease the traffic flow., The police has widened the search for the suspect., The police widened the search area to the entire town., The police widened the search for the suspect.) ::: erweitern, verbreitern, ausweiten
 <!--SR:!2025-03-14,27,421!2025-02-02,1,361-->
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
-<!--SR:!2025-06-12,137,410!2025-01-31,5,401-->
+<!--SR:!2025-06-12,137,410!2025-03-13,26,421-->
 to permeate(verb) (The liquid permeated the substrate.) ::: durchdringen, durchsetzen
-<!--SR:!2025-02-06,5,402!2000-01-01,1,250-->
+<!--SR:!2025-03-15,28,422!2000-01-01,1,250-->
 to amass(verb) (In the course of his life, my uncle has amassed great wealth.) ::: sammeln, anhäufen, aufhäufen
-<!--SR:!2000-01-01,1,250!2025-02-06,5,401-->
+<!--SR:!2000-01-01,1,250!2025-02-18,3,381-->
 sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
 formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher
-<!--SR:!2000-01-01,1,250!2025-02-06,5,402-->
+<!--SR:!2000-01-01,1,250!2025-03-14,27,422-->
 former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige 
