@@ -25,5 +25,5 @@
 
 6. **Demokratie hat Grenzen**:
    - **Begründung:** Deutschland setzt der Demokratie eindeutige Grenzen, die extreme Parteien misachten.
-   - **Beispiel:** Art 20 GG: 4
-   - **Schluss:** Der Ausschluss kann dazu beitragen, soziale Konflikte zu vermeiden und den gesellschaftlichen Frieden zu wahren.
+   - **Beispiel:** Art 20 GG: Deutschland ist eine Demokratie
+   - **Schluss:** Meinungsfreiheit hat Grenzen, die extreme Parteien misachten.
