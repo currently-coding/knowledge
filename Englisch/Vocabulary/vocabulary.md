@@ -275,7 +275,7 @@ to construct(verb) (He constructed a wall around his house., She constructed a n
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
 <!--SR:!2026-06-24,508,401!2026-02-14,384,377-->
 federal(adjective) () ::: föderal, föderativ, bundesstaatlich
-<!--SR:!2026-04-24,453,377!2025-02-15,110,387-->
+<!--SR:!2026-04-24,453,377!2026-09-20,582,407-->
 broad(adjective) (His broad shoulders make him look stronger than he is., We offer a broad range of useful products., The candidate possesses a broad knowledge in the field of marketing., Applied sciences is a very broad field., The supermarket offers a broad range of products.) ::: breit, umfassend, weit
 <!--SR:!2026-05-21,481,399!2026-05-31,474,397-->
 to rotate(verb) (The solid rotates around a fixed point: the pivot., I rotated the picture because it was upside down., The object rotates around the pivot.) ::: sich drehen, drehen, rotieren
@@ -466,7 +466,7 @@ to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: er
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
 <!--SR:!2025-05-29,165,422!2025-08-21,188,281-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
-<!--SR:!2025-02-12,90,381!2025-05-01,152,402-->
+<!--SR:!2026-05-30,469,401!2025-05-01,152,402-->
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
 <!--SR:!2025-03-18,124,401!2025-04-24,153,402-->
 creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: Kreativität, Schaffen, Schöpferkraft
@@ -570,7 +570,7 @@ dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, 
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2025-08-15,201,395!2025-06-01,156,423-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
-<!--SR:!2025-03-20,110,403!2025-02-15,68,383-->
+<!--SR:!2025-03-20,110,403!2025-03-20,33,363-->
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
 <!--SR:!2025-06-26,181,423!2025-05-27,173,415-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
@@ -580,7 +580,7 @@ to puzzle(verb) (The research results puzzled the scientists., My colleague's st
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug
 <!--SR:!2025-05-25,161,421!2025-05-24,148,423-->
 to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen
-<!--SR:!2025-02-11,79,375!2025-05-24,166,423-->
+<!--SR:!2026-03-29,407,395!2025-05-24,166,423-->
 intellectual(adjective) (The article remains intellectual property of the author.) ::: geistig, intellektuell, gedanklich
 <!--SR:!2025-05-11,153,421!2024-12-09,25,402-->
 intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
