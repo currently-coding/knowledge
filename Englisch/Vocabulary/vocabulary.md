@@ -638,7 +638,7 @@ firm(adjective) (The material is rigid and firm., Our company values trust as a 
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
 <!--SR:!2025-12-08,316,392!2025-06-05,151,423-->
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif
-<!--SR:!2025-05-17,159,423!2025-02-13,65,375-->
+<!--SR:!2025-05-17,159,423!2025-03-19,32,355-->
 determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung
 <!--SR:!2025-01-08,47,332!2024-12-16,20,382-->
 to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln
@@ -690,7 +690,7 @@ upcoming(adjective) (The department is preparing for the upcoming inspection., T
 portion(noun) (I am not hungry, you can have my portion of cake., I divided the cake into four portions., He could not finish his double portion of cake., I cut the cake into six equal portions.) ::: Teil, Portion, Stück
 <!--SR:!2025-04-23,106,403!2025-04-20,136,421-->
 to portion(verb) () ::: teilen, zuteilen, aufteilen
-<!--SR:!2025-05-22,135,423!2025-02-14,75,375-->
+<!--SR:!2025-05-22,135,423!2026-03-06,384,395-->
 secular(adjective) (A secular state does not have any official religion.) ::: säkular, weltlich, laizistisch
 <!--SR:!2024-12-06,14,363!2024-11-19,5,362-->
 storage(noun) (The storage of cheese changes its taste., A dry and dark place is ideal for the storage of wine., Proper storage of vegetables is important., The price includes transport and storage., The correct storage of wine can be quite difficult., He uses his garage for storage., The hard drive is used for the storage of data.) ::: Lagerung, Lager, Speicherung
@@ -1144,17 +1144,17 @@ resolutely(adverb) (She resolutely defended her beliefs., He resolutely pursued 
 circumspectly(adverb) (He approached the matter circumspectly., She circumspectly evaluated the options., The company circumspectly navigated the issue.) ::: umsichtig, vorsichtig, besonnen
 <!--SR:!2024-12-11,1,355!2000-01-01,1,250-->
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
-<!--SR:!2025-01-01,26,390!2025-02-06,5,401-->
+<!--SR:!2025-07-06,141,410!2025-02-06,5,401-->
 whatsoever(adverb) () ::: überhaupt
-<!--SR:!2025-02-05,4,381!2000-01-01,1,250-->
+<!--SR:!2025-03-08,21,401!2000-01-01,1,250-->
 sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt
-<!--SR:!2025-02-06,5,402!2000-01-01,1,250-->
+<!--SR:!2025-03-14,27,422!2000-01-01,1,250-->
 formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher
-<!--SR:!2000-01-01,1,250!2025-02-05,4,382-->
+<!--SR:!2000-01-01,1,250!2025-02-17,2,362-->
 former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige
-<!--SR:!2025-02-06,5,401!2000-01-01,1,250-->
+<!--SR:!2025-03-15,28,421!2000-01-01,1,250-->
 to widen(verb) (A shift in perspective can widen our horizon., The city widened the roads to ease the traffic flow., The police has widened the search for the suspect., The police widened the search area to the entire town., The police widened the search for the suspect.) ::: erweitern, verbreitern, ausweiten
-<!--SR:!2025-01-31,5,401!2025-02-02,1,361-->
+<!--SR:!2025-03-14,27,421!2025-02-02,1,361-->
 pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
 <!--SR:!2025-06-12,137,410!2025-01-31,5,401-->
 to permeate(verb) (The liquid permeated the substrate.) ::: durchdringen, durchsetzen
