@@ -14,8 +14,8 @@ $C^{*} = \text{Chiralitaetszentrum/asymmetrisches C-Atom}$
 
 ## Flashcards
 Wann ist ein Molekül chiral := Wenn **4 verschieden Substituentengruppen** an ein **C-Atom** binden
-<!--SR:!2025-02-10,16,290-->
+<!--SR:!2025-04-20,64,310-->
 Was nennt man Enantiomer := Zwei [[Stereoisomerie|Stereoisomere]], die sich wie Bild und nicht deckungsgleiches Spiegelbild verhalten, nennt man **Enantiomere**
-<!--SR:!2025-02-14,12,270-->
+<!--SR:!2025-04-03,47,290-->
 Was ist ein Diastereomer := Ein nicht-enantionemeres Stereoisomer
 <!--SR:!2025-03-05,25,270-->
