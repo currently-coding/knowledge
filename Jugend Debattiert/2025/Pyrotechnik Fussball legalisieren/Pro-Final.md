@@ -19,7 +19,7 @@
 Immer extremer. Ein Satz der heutzutage auf vieles zutrifft. Doch heute soll es nicht um Politik, sondern um Freizeit gehen - um Fußball. Denn auch hier trifft dieser Satz zu. Seit 2018 sind die verhängten Geldstrafen um mehr als das doppelte angestiegen. 
 
 #### V2 - Geschichte
-Fussball war schon immer ein Spiel der Emotionen - auf dem Platz und in der Kurve. Doch wo früher Fahnen geschwenkt wurden, explodiert heute Feuerwerk.
+Fußball war schon immer ein Spiel der Emotionen - auf dem Platz und in der Kurve. Doch wo früher Fahnen geschwenkt wurden, explodiert heute Feuerwerk.
 
 
 Erst letztens wurden beim Spiel Augsburg-Hoffenheim 5 Menschen verletzt: durch einen illegalen Böller, der explodierte. Um die Sicherheit in unseren Stadien wiederherzustellen muss sich etwas ändern. Soll Pyrotechnik in Fußballstadien erlaubt sein? Das mag zuerst widersprüchlich klingen, löst das Problem aber langfristig. Zuerst einmal wollen wir nur bengalisches Feuer legalisieren, denn "Pyro gehört in die Hand, nicht in die Luft und nicht auf den Boden", um die Ultra-Szene zu zitieren. Wir wollen Stadien erlauben nach beantragter Genehmigung und Ueberpruefung durch die Feuerwehr, sogenannte "Pyro-Zonen" auszuweisen, welche genügend Freiraum um sich haben, um Sicherheit zu gewährleisten. In dieses Zonen dürfen vorher, durch Namenslisten bekannte Besucher während des Spiels Pyrotechnik verwenden. Dadurch lösen wir zwei zentrale Probleme: Wir wissen wer die Pyrotechnik benutzt und wir wissen wo sie benutzt wird. Dadurch können wir im Vorhinein die Risiken minimieren und das Erlebnis für die Zuschauer maximieren. Ich spreche mich für mehr Sicherheit in Stadien, für die Legalisierung von Pyrotechnik aus.
