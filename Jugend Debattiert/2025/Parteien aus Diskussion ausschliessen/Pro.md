@@ -1,8 +1,8 @@
 Demokratie lebt vom offenen Austausch – aber wo ziehen wir die Grenze? Meinungsfreiheit ist ein Grundpfeiler unseres Staates, doch was passiert, wenn sie von denen genutzt wird, die unsere Demokratie selbst infrage stellen?  
 Artikel 5 unseres Grundgesetzes garantiert, dass in Deutschland jede Meinung zählt und vertreten werden darf. Doch auch dieses Recht hat seine Grenzen. Nur wo ziehen wir die? Sollen extreme Parteien auf öffentlichen Diskussionsrunden ausgeschlossen werden?
 
-
-
+>[!Vorschlag]
+>Wenn der Verfassungsschutz mindestens in Teilen als rechts-
 
 
 
