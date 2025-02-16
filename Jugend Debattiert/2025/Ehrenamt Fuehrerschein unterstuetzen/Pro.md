@@ -40,7 +40,7 @@
 ## Vom Ehrenamt gewollt
 - **Behauptung**: Ehrenamtsorganisationen befürworten diese Maßnahme.  
 - **Begründung**: Institutionen wie das Rote Kreuz und die Feuerwehr in Bayern unterstützen den Vorschlag, da sie von einer besseren Mobilitätsbasis profitieren.  
-- **Beispiel**: Interne Befragungen bei Organisationen bestätigen, dass finanzielle Förderungen als essentiell für die Gewinnung und Bindung von Ehrenamtlichen angesehen werden.  
+- **Beispiel**: Interne Befragungen bei Organisationen bestätigen, dass finanzielle Förderungen als essentiell für die Gewinnung und Bindung von Ehrenamtlichen angesehen werden.
 - **Schluss**: Die Zustimmung etablierter ehrenamtlicher Organisationen unterstreicht den gesellschaftlichen Nutzen der Maßnahme.
 
 ## Förderung der Selbstständigkeit und Unabhängigkeit
