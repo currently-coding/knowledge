@@ -1,3 +1,7 @@
+
+
+
+
 ## Missbrauch und Fehlanreize  
 - **Behauptung**:  
 	- Die Maßnahme könnte Menschen dazu motivieren, ein Ehrenamt nicht aus Idealismus, sondern primär zur Finanzierung des Führerscheins anzunehmen.  
