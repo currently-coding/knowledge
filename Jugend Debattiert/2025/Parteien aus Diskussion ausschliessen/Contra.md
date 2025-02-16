@@ -19,11 +19,20 @@
    - **Begründung:** Offene Diskussionen ermöglichen es, extreme Positionen direkt mit fundierten Gegenargumenten zu konfrontieren und deren Schwächen aufzudecken.
    - **Beispiel:** In Talkshows werden extreme Ansichten oft durch Expertenmeinungen widerlegt, was zur Aufklärung der Zuschauer beiträgt.
    - **Schluss:** Die Auseinandersetzung mit extremen Positionen stärkt die Argumentationskultur und fördert kritisches Denken.
+   - **Konter**:
+	   - ""
 
 5. **Förderung des gesellschaftlichen Dialogs:**
    - **Begründung:** Die Einbindung aller politischen Strömungen in Diskussionen kann helfen, gesellschaftliche Spannungen abzubauen und den Dialog zwischen unterschiedlichen Gruppen zu fördern.
    - **Beispiel:** Bürgerforen, die Vertreter verschiedener politischer Richtungen einbeziehen, tragen zum besseren Verständnis und zur Toleranz bei.
    - **Schluss:** Ein umfassender Dialog fördert den sozialen Zusammenhalt und die Resilienz der Demokratie.
+   - **Konter**:
+	   - 
 
 6. **Ausschluss stärkt Narrativ**:
-	- **Begründung**: Die Parteien 
+	- **Begründung**: Die Parteien verstärken Narrativ und grenzen sich weiter vom 'Establishment' ab.
+	- **Beispiel**: AfD: "gegen die da oben"
+	- **Schluss**: Ausschluss spaltet.
+
+7. **Bundesverfassungsgericht**:
+	- **Begründung**: 

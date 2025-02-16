@@ -6,3 +6,7 @@ https://www.frage.de/politik/sollen-extreme-parteien-ausgeschlossen-werden
 >Eine Partei ist **extrem**, wenn sie sich gegen den freiheitlich-demokratischen Verfassungsstaat stellt
 
 Schulen müssen alle im Bundestag vertretenen Parteien zu Diskussionen einladen(nur Hamburg)
+
+
+
+25% bemängeln, dass Medien die gesellschaftliche Meinungsvielfalt nicht angemessen dargestellt wird
