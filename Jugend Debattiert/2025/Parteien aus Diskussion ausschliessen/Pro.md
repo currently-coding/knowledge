@@ -2,7 +2,7 @@ Demokratie lebt vom offenen Austausch – aber wo ziehen wir die Grenze? Meinung
 Artikel 5 unseres Grundgesetzes garantiert, dass in Deutschland jede Meinung zählt und vertreten werden darf. Doch auch dieses Recht hat seine Grenzen. Nur wo ziehen wir die? Sollen extreme Parteien auf öffentlichen Diskussionsrunden ausgeschlossen werden?
 
 >[!Vorschlag]
->Wenn der Verfassungsschutz mindestens in Teilen als rechts- oder linksextrem einstuft, duerfen Vertreter dieser Parteien nicht mehr in Diskussionsrunden im oeffentlich-rechtlichen Fernsehen auftreten.
+>Wenn der Verfassungsschutz mindestens in Teilen als rechts- oder linksextrem einstuft, dürfen Vertreter dieser Parteien nicht mehr in Diskussionsrunden im öffentlich-rechtliche Fernsehen/staatlich finanzierte Institutionen auftreten.
 
 1. **Verbreitung von Hassrede und Desinformation:**
    - **Begründung:** Extremistische Parteien könnten öffentliche Plattformen nutzen, um Hassrede oder falsche Informationen zu verbreiten.
