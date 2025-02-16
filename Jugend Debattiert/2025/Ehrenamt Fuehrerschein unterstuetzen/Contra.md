@@ -86,3 +86,12 @@
 - **Beispiel**:  
 	- 
 - **Schluss**:  
+
+## Gibt bereits Steuervorteile
+- **Begründung**:
+	- Ehrenamtspauschale
+		- Übungsleiter: bis 3000/Jahr steuerfrei
+- **Beispiel**:
+	- Chorleiter, Sporttrainer
+- **Schluss**:
+	- 
