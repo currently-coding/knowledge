@@ -64,7 +64,7 @@
 	- Die Wertschätzung des Ehrenamts sollte unabhängig von finanziellen Anreizen erfolgen, um Ungerechtigkeiten zu vermeiden.
 
 
-## Nicht noetig
+## Nicht nötig
 - **Behauptung**:  
 	- Es gibt genügend Ehrenamtliche
 	- Bereitschaft ist sehr hoch
@@ -99,4 +99,8 @@
 
 ## Führerschein bereits unterstützt
 - **Begründung**:
-	- Feuerwehrfuehrerschein wird von Gemeinden bereits untes
+	- Feuerwehrführerschein wird von Gemeinden bereits unterstützt
+- **Beispiel**:
+	- Gemeinde Waar Fuehrerscheinklasse C/CE (Kosten 3000)
+
+## Gefahr von Fake-Organisationen
