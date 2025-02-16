@@ -42,7 +42,7 @@
 - **Schluss**:  
 	- Die administrativen Kosten könnten den Nutzen der Maßnahme teilweise aufheben.  
 
-## Demotivation anderer Ehrenamtlicher  
+## Demotivation anderer Ehrenamtlicher
 - **Behauptung**:  
 	- Die Maßnahme könnte bestehende Ehrenamtliche demotivieren, die bereits freiwillig ohne finanzielle Vorteile tätig sind.  
 - **Begründung**:  
@@ -95,3 +95,8 @@
 	- Chorleiter, Sporttrainer
 - **Schluss**:
 	- 
+
+
+## Führerschein bereits unterstützt
+- **Begründung**:
+	- Feuerwehrfuehrerschein wird von Gemeinden bereits untes
