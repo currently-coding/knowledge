@@ -37,11 +37,6 @@
 - **Beispiel**: Nach dem Schulabschluss sind viele unsicher bezüglich ihrer Zukunft; ein subventionierter Führerschein kann den Anreiz erhöhen, etwa ein Freiwilliges Soziales Jahr (FSJ) zu beginnen.  
 - **Schluss**: Der finanzielle Anreiz fördert das gesellschaftliche Engagement und trägt langfristig zur Stärkung des Ehrenamts bei.
 
-## Vom Ehrenamt gewollt
-- **Behauptung**: Ehrenamtsorganisationen befürworten diese Maßnahme.  
-- **Begründung**: Institutionen wie das Rote Kreuz und die Feuerwehr in Bayern unterstützen den Vorschlag, da sie von einer besseren Mobilitätsbasis profitieren.  
-- **Beispiel**: Interne Befragungen bei Organisationen bestätigen, dass finanzielle Förderungen als essentiell für die Gewinnung und Bindung von Ehrenamtlichen angesehen werden.
-- **Schluss**: Die Zustimmung etablierter ehrenamtlicher Organisationen unterstreicht den gesellschaftlichen Nutzen der Maßnahme.
 
 ## Förderung der Selbstständigkeit und Unabhängigkeit
 - **Behauptung**: Finanzielle Unterstützung beim Führerscheinerwerb stärkt die Selbstständigkeit junger Menschen.  
