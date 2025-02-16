@@ -12,6 +12,8 @@
    - **Begründung:** Die Teilnahme an öffentlichen Debatten kann extreme Parteien dazu bewegen, moderatere Positionen einzunehmen und sich konstruktiv am politischen Prozess zu beteiligen.
    - **Beispiel:** Historisch haben einige Parteien durch kontinuierlichen Dialog ihre extremen Positionen abgeschwächt und sich stärker am demokratischen Konsens orientiert.
    - **Schluss:** Integration durch Dialog kann zur Mäßigung extremistischer Positionen beitragen.
+   - **Konter**:
+	   - "Wolf im Schlafspelz"
 
 4. **Konfrontation mit Gegenargumenten:**
    - **Begründung:** Offene Diskussionen ermöglichen es, extreme Positionen direkt mit fundierten Gegenargumenten zu konfrontieren und deren Schwächen aufzudecken.
@@ -23,3 +25,5 @@
    - **Beispiel:** Bürgerforen, die Vertreter verschiedener politischer Richtungen einbeziehen, tragen zum besseren Verständnis und zur Toleranz bei.
    - **Schluss:** Ein umfassender Dialog fördert den sozialen Zusammenhalt und die Resilienz der Demokratie.
 
+6. **Ausschluss stärkt Narrativ**:
+	- **Begründung**: Die Parteien 
