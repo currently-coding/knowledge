@@ -104,3 +104,5 @@
 	- Gemeinde Waar Fuehrerscheinklasse C/CE (Kosten 3000)
 
 ## Gefahr von Fake-Organisationen
+- **Begründung**:
+	- Es kann nicht verhindert werden, dass Ausnutzung passiert
