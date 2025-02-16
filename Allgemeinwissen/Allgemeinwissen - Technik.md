@@ -18,16 +18,16 @@ Google := 1998 - better search algorithm
 <!--SR:!2025-02-16,1,203-->
 Wi-Fi introduced := 1997 - IEEE 802.11 -> established wireless internet connections
 Introduction of Social Media := 2003-2004: MySpace(2003), Facebook(2004), etc. launched
-<!--SR:!2025-01-27,1,212-->
+<!--SR:!2025-02-16,1,192-->
 First iPhone := 2007 - enabled mobile internet usage and app-based ecosystems
 Cloud Computing Services := Late 2000s - AWS(2006), etc.
 4G/LTE := 2009 - improved speed -> enabled video streaming and advanced mobile apps
 Bitcoin and Blockchain := 2009  - The first decenttralized cryptocurrency, Bitcoin, launched.
 5G Networks begin to roll out := 2019 - higher speeds and lower latency -> enabled real time applications
-<!--SR:!2024-11-05,3,252-->
+<!--SR:!2025-02-26,11,272-->
 First commercially available computer :=UNIVAC I - 1951
 First OS := 1961 - IBMs OS/360 standardized the concept of an OS -> introduced multitasking and process management
-<!--SR:!2025-01-27,1,229-->
+<!--SR:!2025-02-16,1,209-->
 Moore's Law := 1965  - number of transistors/chip double every ~2 years
 First commercially available microprocessor := Intel 4004 Microprocessor - 1971
 <!--SR:!2025-02-03,1,203-->
