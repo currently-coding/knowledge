@@ -7,8 +7,8 @@
 >Wenn min. 2h/Woche fuer 1 Jahr -> Fuehrerschein 20% guenstiger
 
 >[!Definition Ehrenamt]
->- fuer gesellschaft
->- oeffentlich
+>- für gesellschaft
+>- öffentlich
 >- unentgeltlich
 >- 
 
@@ -48,3 +48,7 @@
 - **Begründung**: Der Führerschein ermöglicht eigenverantwortliche Mobilität und erleichtert den Übergang ins Berufsleben.  
 - **Beispiel**: Jugendliche, die durch finanzielle Förderung den Führerschein erwerben, berichten von gesteigertem Selbstbewusstsein und besserer gesellschaftlicher Integration.  
 - **Schluss**: Eine gesteigerte Selbstständigkeit trägt langfristig zur persönlichen Entwicklung und zu einer nachhaltigeren Integration in die Gesellschaft bei.
+
+## Wieso Ehrenamt wichtig ist
+- effizientere Krisenhilfe
+	-> Staat entzieht sich Verantwortung
