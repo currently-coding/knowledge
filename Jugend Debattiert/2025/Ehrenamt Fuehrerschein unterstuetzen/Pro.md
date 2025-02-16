@@ -6,7 +6,11 @@
 >[!Vorschlag]
 >Wenn min. 2h/Woche fuer 1 Jahr -> Fuehrerschein 20% guenstiger
 
-
+>[!Definition Ehrenamt]
+>- fuer gesellschaft
+>- oeffentlich
+>- unentgeltlich
+>- 
 
 
 ## Wertschätzung des Ehrenamts
