@@ -24,7 +24,7 @@ $M \not\subseteq N$ means it does not hold $M \subseteq N$
 $M \subsetneq N$ means $M \subseteq N$ and $M \neq N$ (M is proper subset of N)
 ### Operations
 $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B)
-<!--SR:!2025-02-16,53,214-->
+<!--SR:!2025-07-27,161,234-->
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 <!--SR:!2025-07-18,205,317-->
 $A \setminus B$ oder $A - B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
