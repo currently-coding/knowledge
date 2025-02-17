@@ -40,8 +40,11 @@
 	- signifikant langsamere Reaktionsgeschwindigkeit bereits nach wenigen Jahren im Beruf(~3)
 	- Hintergrund: Flüge mit >8h Zeitverschiebung
 = unregelmaessiger Schlafrhythmus bei Schülern hat die selben Folgen 
+- Schlaefrigkeit foerdert akademisches Scheitern
 ## Folie 
 - wie sieht es bei kurzfristigem Schlafmangel aus?
 	- Bsp: die Nacht vor der Prüfung durchlernen
 - Studie fand heraus:
-	- 
+	- geistige Leistungsfaehigkeit nicht **eingeschraenkt/vermindert**
+	- Reaktionsgeschwindigkeit stark verlangsamt
+		- Leute schlafen beim Autofahren ein, etc. -> gefaehrlich
