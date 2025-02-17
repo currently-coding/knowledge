@@ -1,7 +1,3 @@
-
-
-
-
 ## Missbrauch und Fehlanreize  
 - **Behauptung**:  
 	- Die Maßnahme könnte Menschen dazu motivieren, ein Ehrenamt nicht aus Idealismus, sondern primär zur Finanzierung des Führerscheins anzunehmen.  
@@ -110,3 +106,6 @@
 ## Gefahr von Fake-Organisationen
 - **Begründung**:
 	- Es kann nicht verhindert werden, dass Ausnutzung passiert
+
+## Sprachlich
+- Ein Pflaster fuer den die gebrochenen Beine der Mobl
