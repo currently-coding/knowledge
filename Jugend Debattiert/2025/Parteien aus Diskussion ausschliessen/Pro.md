@@ -38,3 +38,6 @@ Artikel 5 unseres Grundgesetzes garantiert, dass in Deutschland jede Meinung zä
    - **Begründung:** Deutschland setzt der Demokratie eindeutige Grenzen, die extreme Parteien missachten.
    - **Beispiel:** Art 20 GG: Deutschland ist eine Demokratie
    - **Schluss:** Meinungsfreiheit hat Grenzen, die extreme Parteien missachten.
+
+## Sprachlich
+- 
