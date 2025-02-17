@@ -14,5 +14,6 @@
   "attachmentFolderPath": "Attachments",
   "showUnsupportedFiles": true,
   "showInlineTitle": true,
-  "showLineNumber": false
+  "showRibbon": true,
+  "showLineNumber": true
 }
