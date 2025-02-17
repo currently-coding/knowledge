@@ -4,6 +4,11 @@ Artikel 5 unseres Grundgesetzes garantiert, dass in Deutschland jede Meinung zä
 >[!Vorschlag]
 >Wenn der Verfassungsschutz mindestens in Teilen als rechts- oder linksextrem einstuft, dürfen Vertreter dieser Parteien nicht mehr in Diskussionsrunden im öffentlich-rechtliche Fernsehen/staatlich finanzierte Institutionen auftreten.
 
+>[!Definition]
+>Extrem ist eine Partei, wenn sie sich in ihren Forderungen gegen die Grundprinzipien des freiheitlich-demokratischen Deutschlands wendet. Diese Prinzipien sind z.B. die Demokratie, die Gleichheit aller Menschen, etc.
+
+
+
 1. **Verbreitung von Hassrede und Desinformation:**
    - **Begründung:** Extremistische Parteien könnten öffentliche Plattformen nutzen, um Hassrede oder falsche Informationen zu verbreiten.
    - **Beispiel:** In einigen Fällen haben Vertreter extremistischer Parteien in öffentlichen Diskussionen diskriminierende oder unwahre Aussagen getätigt.
