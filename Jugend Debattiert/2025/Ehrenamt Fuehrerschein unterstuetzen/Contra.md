@@ -7,7 +7,9 @@
 - **Beispiel**:  
 	- Eine Person engagiert sich nur für das Mindestjahr, um den Führerschein finanziert zu bekommen, und beendet danach das Ehrenamt.  
 - **Schluss**:  
-	- Die Maßnahme könnte das Ehrenamt entwerten und zu einer kurzfristigen, eigennützigen Motivation führen.  
+	- Die Maßnahme könnte das Ehrenamt entwerten und zu einer kurzfristigen, eigennützigen Motivation führen.
+- **Konter**:
+	- Jede Stunde des Ehrenamts ist eine Stunde für die Gesellschaft und das soll belohnt werden.
 
 ## Finanzielle Belastung und Priorisierung  
 - **Behauptung**:  
@@ -19,6 +21,8 @@
 	- Statt Fördermittel in die Verbesserung des ÖPNV oder direkter Unterstützung sozial Benachteiligter zu investieren, fließen sie in Führerscheine für Ehrenamtliche.  
 - **Schluss**:  
 	- Die Mittelverteilung sollte kritisch hinterfragt werden, da andere Maßnahmen eine größere gesellschaftliche Wirkung haben könnten.  
+- **Konter**:
+	- Die Belohnung des  Dienstes Ehrenamtlicher ist ebenso wichtige wie andere gesellschaftliche Investitionen
 
 ## Ungerechte Bevorzugung bestimmter Ehrenämter  
 - **Behauptung**:  
@@ -31,7 +35,7 @@
 - **Schluss**:  
 	- Eine gezielte Förderung nach Bedarf wäre gerechter als eine pauschale Führerscheinfinanzierung.  
 - **Konter**:
-	- Leider braucht in Deutschland heutzutage immer noch fast jeder einen Fuehrerschein. Anderes ist eine Illusion. Sobald man zwischen Staedten reist
+	- Leider braucht in Deutschland heutzutage immer noch fast jeder einen Führerschein. Anderes ist eine Illusion. Sobald man zeitgerecht zwischen Städten reisen will, gibt es keine andere Möglichkeit.
 ## Bürokratischer Aufwand  
 - **Behauptung**:  
 	- Die Verwaltung und Kontrolle der Maßnahme erfordert zusätzlichen bürokratischen Aufwand.  
