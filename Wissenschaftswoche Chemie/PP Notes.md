@@ -40,11 +40,19 @@
 	- signifikant langsamere Reaktionsgeschwindigkeit bereits nach wenigen Jahren im Beruf(~3)
 	- Hintergrund: Flüge mit >8h Zeitverschiebung
 = unregelmaessiger Schlafrhythmus bei Schülern hat die selben Folgen 
-- Schlaefrigkeit foerdert akademisches Scheitern
-## Folie 
+- Schlaefrigkeit foerdert akademisches Scheitern, schlechte emotionale Verfassung, ...
+- hindert deklaratives(aktiv abrufbar, es ist bekannt, dass man es kann) und prozesdurales(unterbewusst abrufbar) Lernen
+## Folie 26
+- auch konstant verschobene Schlafrhythmen bringen Probleme
+	- bsp: Schichtarbeit
+- **Folgen**:
+	- erhöhte Cortisol level
+	- dauerhaft niedriger Melatoninspiegel -> schlechterer Schlaf
+## Folie 27
 - wie sieht es bei kurzfristigem Schlafmangel aus?
 	- Bsp: die Nacht vor der Prüfung durchlernen
-- Studie fand heraus:
+- Studie fand heraus(bei Leuten mit gesundem Schlafrhythmus):
 	- geistige Leistungsfaehigkeit nicht **eingeschraenkt/vermindert**
 	- Reaktionsgeschwindigkeit stark verlangsamt
 		- Leute schlafen beim Autofahren ein, etc. -> gefaehrlich
+- um sich von nem all-nighter zu erholen, braucht man 2 Tage mit nem gesunden Schlafrhythmus
