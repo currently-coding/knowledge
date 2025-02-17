@@ -82,10 +82,6 @@ Erst letztens wurden beim Spiel Augsburg-Hoffenheim 5 Menschen verletzt: durch e
 	- Legalisierung um Kontrolle zu gewinnen
 	-> vgl. Pyro
 - aus der Kriminalität raus, um zu kontrollieren
-### Bezug
-- todo
-
-
 ## 3. Teil der Fankultur
 ### Fakten
 - Kommunikation zw. DFB und Ultras scheitert, weil DFB Pyro verbieten will, Ultras Pyro aber erzwingen
@@ -101,5 +97,3 @@ Erst letztens wurden beim Spiel Augsburg-Hoffenheim 5 Menschen verletzt: durch e
 ### Bezug
 - Maßnahme ermöglicht selbstbestimmten Gebrauch von Pyro
 -> nimmt Ultras ernst
-
-
