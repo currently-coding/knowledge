@@ -20,17 +20,17 @@
 		- **Bundesverfassungsgericht**:
 			- *Vielfaltsgebot*: Eine Partei muss angemessen zu Wort kommen im *Gesamtprogramm*
    - **Beispiel:** In Talkshows werden extreme Ansichten oft durch Expertenmeinungen widerlegt, was zur Aufklärung der Zuschauer beiträgt.
-	   - Man darf diese Ideen nicht im Dunklen hochkochen lassen, sondern muss ihnen rational beg
+	   - Man darf diese Ideen nicht im Dunklen hochkochen lassen, sondern muss sie offen diskutieren und widerlegen
    - **Schluss:** Die Auseinandersetzung mit extremen Positionen stärkt die Argumentationskultur und fördert kritisches Denken.
    - **Konter**:
-	   - Popu
+	   - Extreme zielen darauf ab, die Grenze des Sagbaren zu verschieben. Natürlich kann man diese ehemals 'unaussprechlichen' Ideen dann widerlegen. Doch wer diese Ideen glaubt, ist meist zu tief davon überzeugt um. Und dann muss man sich fragen, welchen Preis das jetzt gekostet hat. Sobald etwas gesagt wurde, wird es immer da sein. Siehe "Remigration". Ehemals unsagbar - heute aktiv in Debatten.
 
 6. **Förderung des gesellschaftlichen Dialogs:**
    - **Begründung:** Die Einbindung aller politischen Strömungen in Diskussionen kann helfen, gesellschaftliche Spannungen abzubauen und den Dialog zwischen unterschiedlichen Gruppen zu fördern.
    - **Beispiel:** Bürgerforen, die Vertreter verschiedener politischer Richtungen einbeziehen, tragen zum besseren Verständnis und zur Toleranz bei.
    - **Schluss:** Ein umfassender Dialog fördert den sozialen Zusammenhalt und die Resilienz der Demokratie.
    - **Konter**:
-	   - 
+	   - Toleranz gegenüber Position, die Grundprinzipien verletzen ist der erste Schritt zum Ende dieser Prinzipien, die wir alle schaetzen.
 
 7. **Ausschluss stärkt Narrativ**:
 	- **Begründung**: Die Parteien verstärken Narrativ und grenzen sich weiter vom 'Establishment' ab.
