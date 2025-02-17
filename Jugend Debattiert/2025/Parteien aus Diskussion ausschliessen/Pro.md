@@ -40,4 +40,8 @@ Artikel 5 unseres Grundgesetzes garantiert, dass in Deutschland jede Meinung zä
    - **Schluss:** Meinungsfreiheit hat Grenzen, die extreme Parteien missachten.
 
 ## Sprachlich
-- 
+- Ausnutzung der Demokratie
+- Auch die Demokratie hat Grenzen
+- Wer sich gegen das Land wendet, soll keine Stimme bekommen
+- Wer das Land spaltet, soll keine Stimme haben
+- Wer das Land von innen zerstören will, soll keine Stimme haben
