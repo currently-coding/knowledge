@@ -29,8 +29,6 @@
 ### Bezug
 - man kauft Karten, nur damit das Spiel abgebrochen wird
 - **die laute Minderheit, darf nicht der schweigenden Mehrheit den Spaß am Fußball nehmen**
-
-
 ## Stört Spielverlauf
 ### Behauptung
 - Bengalos hindern Spielverlauf durch Störung der Sicht
@@ -44,10 +42,6 @@
 	- -> Abbruch wegen Rauch
 - Viertelfinale DFB Pokal 2024
 	- Spielunterbrechung wegen Pyro
-
-### Bezug
-
-
 ## Umwelt
 ### Fakten
 - Verbrennung emittieren $CO_{2}$
@@ -118,7 +112,6 @@ ABER: Ultras sahen sich zu eingeschränkt -> scheitert
 - Regelungen rufen nur Unverständnis hervor
 ### Begründung
 - in Österreich gab es Konflikte zw. Ultras-Behörde wegen Regelungen
-
 ## Sprachlich
 - Ziel: Familie mit Kind soll unbesorgt ins Stadium gehen können.
 	-> genau das erreicht die Maßnahme, denn alle fühlen sich beachtet, vom Ultra der nun legal seine Emotionen ausleben darf zur Familie die nun unbesorgt ins Stadium gehen kann. Deswegen ist die Legalisierung der einzig richtige, der einzig moegliche Weg.
