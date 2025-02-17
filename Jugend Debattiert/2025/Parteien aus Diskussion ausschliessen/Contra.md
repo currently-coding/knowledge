@@ -36,4 +36,10 @@
 
 7. **Bundesverfassungsgericht**:
 	- **Begründung**: *Vielfaltsgebot*: Eine Partei muss angemessen zu Wort kommen im *Gesamtprogramm*
-	- 
+
+## Sprachlich
+>Wäre es da  
+Nicht doch einfacher, die Regierung  
+Löste das Volk auf und  
+Wählte ein anderes? - Bertold Brecht gegen die DDR
+- Wer man die Mehrheit ins Dunkle draengt, wird die Dunkelheit irgendwann staerker als de
