@@ -34,6 +34,14 @@
 
 ## Folie 25
 - Was sind die Folgen von zu wenig Schlaf?
-1. offensichtlich Schlaefrigkeit...
+1. offensichtlich Schläfrigkeit...
 2. Fettleibigkeit
-3. Studie bei F
+3. Studie bei Flugzeugleuten
+	- signifikant langsamere Reaktionsgeschwindigkeit bereits nach wenigen Jahren im Beruf(~3)
+	- Hintergrund: Flüge mit >8h Zeitverschiebung
+= unregelmaessiger Schlafrhythmus bei Schülern hat die selben Folgen 
+## Folie 
+- wie sieht es bei kurzfristigem Schlafmangel aus?
+	- Bsp: die Nacht vor der Prüfung durchlernen
+- Studie fand heraus:
+	- 
