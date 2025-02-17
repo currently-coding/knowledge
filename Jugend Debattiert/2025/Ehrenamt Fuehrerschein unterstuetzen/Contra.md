@@ -74,6 +74,9 @@
 - **Beispiel**:  
 	- 
 - **Schluss**:  
+	- Maßnahme basiert auf keinerlei Fakten
+- **Konter**:
+	- es geht um langfristige Wertschaetzung, nicht um akute Proble$$
 
 
 ## Ändert nichts
@@ -108,4 +111,11 @@
 	- Es kann nicht verhindert werden, dass Ausnutzung passiert
 
 ## Sprachlich
-- Ein Pflaster fuer den die gebrochenen Beine der Mobl
+- Ein Pflaster für die gebrochenen Beine der Mobilität auf dem Land
+- reine Symptombehandlung
+
+
+## Fakten
+- 40% Ehrenamtlich aktiv
+- weitere 40% dazu bereit
+- 60% der Gymnasiasten
