@@ -17,29 +17,33 @@
 
 4. **Konfrontation mit Gegenargumenten:**
    - **Begründung:** Offene Diskussionen ermöglichen es, extreme Positionen direkt mit fundierten Gegenargumenten zu konfrontieren und deren Schwächen aufzudecken.
+		- **Bundesverfassungsgericht**:
+			- *Vielfaltsgebot*: Eine Partei muss angemessen zu Wort kommen im *Gesamtprogramm*
    - **Beispiel:** In Talkshows werden extreme Ansichten oft durch Expertenmeinungen widerlegt, was zur Aufklärung der Zuschauer beiträgt.
+	   - Man darf diese Ideen nicht im Dunklen hochkochen lassen, sondern muss ihnen rational beg
    - **Schluss:** Die Auseinandersetzung mit extremen Positionen stärkt die Argumentationskultur und fördert kritisches Denken.
    - **Konter**:
-	   - ""
+	   - Popu
 
-5. **Förderung des gesellschaftlichen Dialogs:**
+6. **Förderung des gesellschaftlichen Dialogs:**
    - **Begründung:** Die Einbindung aller politischen Strömungen in Diskussionen kann helfen, gesellschaftliche Spannungen abzubauen und den Dialog zwischen unterschiedlichen Gruppen zu fördern.
    - **Beispiel:** Bürgerforen, die Vertreter verschiedener politischer Richtungen einbeziehen, tragen zum besseren Verständnis und zur Toleranz bei.
    - **Schluss:** Ein umfassender Dialog fördert den sozialen Zusammenhalt und die Resilienz der Demokratie.
    - **Konter**:
 	   - 
 
-6. **Ausschluss stärkt Narrativ**:
+7. **Ausschluss stärkt Narrativ**:
 	- **Begründung**: Die Parteien verstärken Narrativ und grenzen sich weiter vom 'Establishment' ab.
 	- **Beispiel**: AfD: "gegen die da oben"
 	- **Schluss**: Ausschluss spaltet.
-
-7. **Bundesverfassungsgericht**:
-	- **Begründung**: *Vielfaltsgebot*: Eine Partei muss angemessen zu Wort kommen im *Gesamtprogramm*
 
 ## Sprachlich
 >Wäre es da  
 Nicht doch einfacher, die Regierung  
 Löste das Volk auf und  
 Wählte ein anderes? - Bertold Brecht gegen die DDR
-- Wer man die Mehrheit ins Dunkle draengt, wird die Dunkelheit irgendwann staerker als de
+- Wer man die Mehrheit ins Dunkle drängt, wird die Dunkelheit irgendwann stärker als der Rest sein.
+- Wer die Stimme der Bevölkerung ignoriert, kann diese nicht vertreten wollen
+- Wer sich vor der Stimme der Bevölkerung verstecken muss, kann nicht für das Richtige kämpfen.
+## Fakten
+25% bemängeln, dass Medien die gesellschaftliche Meinungsvielfalt nicht angemessen dargestellt wird
