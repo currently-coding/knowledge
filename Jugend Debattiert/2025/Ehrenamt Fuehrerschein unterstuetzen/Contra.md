@@ -30,7 +30,8 @@
 	- Ehrenamtliche in der Nachhilfe oder in sozialen Diensten profitieren nicht von der Maßnahme, obwohl ihr Engagement genauso wertvoll ist.  
 - **Schluss**:  
 	- Eine gezielte Förderung nach Bedarf wäre gerechter als eine pauschale Führerscheinfinanzierung.  
-
+- **Konter**:
+	- Leider braucht in Deutschland heutzutage immer noch fast jeder einen Fuehrerschein. Anderes ist eine Illusion. Sobald man zwischen Staedten reist
 ## Bürokratischer Aufwand  
 - **Behauptung**:  
 	- Die Verwaltung und Kontrolle der Maßnahme erfordert zusätzlichen bürokratischen Aufwand.  
@@ -41,6 +42,8 @@
 	- Behörden müssen Kriterien festlegen, Nachweise prüfen und Sanktionen bei Missbrauch durchsetzen.  
 - **Schluss**:  
 	- Die administrativen Kosten könnten den Nutzen der Maßnahme teilweise aufheben.  
+- **Konter**:
+	- idk
 
 ## Demotivation anderer Ehrenamtlicher
 - **Behauptung**:  
@@ -51,8 +54,8 @@
 	- Langjährige Ehrenamtliche fühlen sich übergangen, da sie keinen Führerschein erstattet bekommen haben.  
 - **Schluss**:  
 	- Die Wertschätzung des Ehrenamts sollte unabhängig von finanziellen Anreizen erfolgen, um Ungerechtigkeiten zu vermeiden.
-
-
+- **Konter**:
+	- Jede Unterstützung muss irgendwo einen Anfang haben und diese hat ihren Anfang hier, um die kommenden Ehrenamtlichen zu unterstützen.
 ## Ungleichheit
 - **Behauptung**:  
 	- Ausnutzung durch minimale Arbeitszeit
@@ -62,8 +65,8 @@
 	- 
 - **Schluss**:  
 	- Die Wertschätzung des Ehrenamts sollte unabhängig von finanziellen Anreizen erfolgen, um Ungerechtigkeiten zu vermeiden.
-
-
+- **Konter**:
+	- es geht um ein Zeichen der Wertschätzung/Anreiz - Ziel ist kein 'Lohn' -> widerspricht Ehrenamt
 ## Nicht nötig
 - **Behauptung**:  
 	- Es gibt genügend Ehrenamtliche
@@ -76,7 +79,7 @@
 - **Schluss**:  
 	- Maßnahme basiert auf keinerlei Fakten
 - **Konter**:
-	- es geht um langfristige Wertschaetzung, nicht um akute Proble$$
+	- es geht um langfristige Wertschätzung, nicht um akute Problembehandlung
 
 
 ## Ändert nichts
@@ -86,10 +89,8 @@
 - **Begründung**:  
 	- Schüler: 70% geben keine Zeit als Grund an
 	- ~15% haben Geld als Motiv
-- **Beispiel**:  
+- **Konter**:
 	- 
-- **Schluss**:  
-
 ## Gibt bereits Steuervorteile
 - **Begründung**:
 	- Ehrenamtspauschale
