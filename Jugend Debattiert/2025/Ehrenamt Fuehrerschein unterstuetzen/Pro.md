@@ -43,7 +43,11 @@
 - **Begründung**: Der Führerschein ermöglicht eigenverantwortliche Mobilität und erleichtert den Übergang ins Berufsleben.  
 - **Beispiel**: Jugendliche, die durch finanzielle Förderung den Führerschein erwerben, berichten von gesteigertem Selbstbewusstsein und besserer gesellschaftlicher Integration.  
 - **Schluss**: Eine gesteigerte Selbstständigkeit trägt langfristig zur persönlichen Entwicklung und zu einer nachhaltigeren Integration in die Gesellschaft bei.
+### Konter
+- OPNV Ausbau viel nachhaltigere Wirkung und für alle
 
 ## Wieso Ehrenamt wichtig ist
 - effizientere Krisenhilfe
-	-> Staat entzieht sich Verantwortung
+### Konter
+- Staat entzieht sich Verantwortung
+- 
