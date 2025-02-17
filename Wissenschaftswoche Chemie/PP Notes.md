@@ -20,3 +20,20 @@
 	- Männer länger in **N1**
 	- Männer wachen Nachts öfters auf
 	- Frauen haben mehr Probleme beim Einschlafen
+
+- ueberleiten durch Bekanntheit von **REM-Schlaf** - was ist das eigentlich
+
+## Folie 22
+- einfach ablesen....
+
+## Folie 23
+- einfach ablesen, evtl ein Beispiel ueberlegen
+
+## Folie 24
+- 71% der Studenten erreichen keine 8h Schlaf
+
+## Folie 25
+- Was sind die Folgen von zu wenig Schlaf?
+1. offensichtlich Schlaefrigkeit...
+2. Fettleibigkeit
+3. Studie bei F
