@@ -66,10 +66,6 @@ Erst letztens wurden beim Spiel Augsburg-Hoffenheim 5 Menschen verletzt: durch e
 -> schadet kleinen Vereinen(siehe Beschwerde bei DFB)
 ### Beispiel
 - in Einleitung
-### Bezug
-- todo
-
-
 ## 3. Reduziert illegale Nutzung
 ### Behauptung
 - Die Teil-Legalisierung von Pyro reduziert die Illegale Nutzung
