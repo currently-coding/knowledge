@@ -102,3 +102,4 @@ Erst letztens wurden beim Spiel Augsburg-Hoffenheim 5 Menschen verletzt: durch e
 - Maßnahme ermöglicht selbstbestimmten Gebrauch von Pyro
 -> nimmt Ultras ernst
 
+
