@@ -9,4 +9,3 @@ Schulen müssen alle im Bundestag vertretenen Parteien zu Diskussionen einladen(
 
 
 
-25% bemängeln, dass Medien die gesellschaftliche Meinungsvielfalt nicht angemessen dargestellt wird
