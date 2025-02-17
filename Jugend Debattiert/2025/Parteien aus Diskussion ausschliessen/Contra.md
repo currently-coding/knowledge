@@ -35,5 +35,5 @@
 	- **Schluss**: Ausschluss spaltet.
 
 7. **Bundesverfassungsgericht**:
-	- **Begründung**: *Vielfaltsgebot*: Eine Partei muss angemessen zu Wort kommen im *Gesamtprogram*
+	- **Begründung**: *Vielfaltsgebot*: Eine Partei muss angemessen zu Wort kommen im *Gesamtprogramm*
 	- 
