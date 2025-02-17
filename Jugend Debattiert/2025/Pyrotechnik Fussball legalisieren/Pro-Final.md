@@ -13,12 +13,6 @@
 >Pyro ist nicht abschaffbar
  Pyro kann immer reingeschmuggelt werden
 
-## Reden
-### P1
-#### V1 - Extreme
-Immer extremer. Ein Satz der heutzutage auf vieles zutrifft. Doch heute soll es nicht um Politik, sondern um Freizeit gehen - um Fußball. Denn auch hier trifft dieser Satz zu. Seit 2018 sind die verhängten Geldstrafen um mehr als das doppelte angestiegen. 
-
-#### V2 - Geschichte
 Fußball war schon immer ein Spiel der Emotionen - auf dem Platz und in der Kurve. Doch wo früher Fahnen geschwenkt wurden, explodiert heute Feuerwerk.
 
 
