@@ -9,7 +9,7 @@
 # Allgemeines
 ## Gefahr
 ### Fakten
-- brennen ~2500 Grad heiss
+- brennen ~2500 Grad heiß
 - sehr helle Flamme
 - starke Rauchentwicklung
 ### Behauptung
@@ -118,3 +118,7 @@ ABER: Ultras sahen sich zu eingeschränkt -> scheitert
 - Regelungen rufen nur Unverständnis hervor
 ### Begründung
 - in Österreich gab es Konflikte zw. Ultras-Behörde wegen Regelungen
+
+## Sprachlich
+- Ziel: Familie mit Kind soll unbesorgt ins Stadium gehen können.
+	-> genau das erreicht die Maßnahme, denn alle fühlen sich beachtet, vom Ultra der nun legal seine Emotionen ausleben darf zur Familie die nun unbesorgt ins Stadium gehen kann. Deswegen ist die Legalisierung der einzig richtige, der einzig moegliche Weg.
