@@ -2,13 +2,13 @@
 - Fruehstudium
 	- 4. Semester
 		- Theoretische Informatik
-- Jugend Debattiert mehrfach Schulsieg + Regienalrunde
-	- gute Gespraechsfaehigkeit
+- Jugend Debattiert mehrfach Schulsieg + Regionalrunde
+	- gute Gesprächsfähigkeit
 	- sachliche Argumentationen
 	- kann Kritik aufnehmen
 - BWINF
 - JWINF
-- Grosses Interesse am Verstaendnis naturwissenschaftlicher Phaenomaene
+- Grosses Interesse am Verständnis naturwissenschaftlicher Phaenomaene
 
 # Motivation
 
@@ -19,5 +19,5 @@
 - immer bereit anderen zu helfen
 
 # Erhoffter Mehrwert
-- Tiefes Verstaendnis erarbeiten macht Spass
+- Tiefes Verständnis erarbeiten macht Spaß
 - mit anderen auf dem gleichen Level arbeiten spornt an
