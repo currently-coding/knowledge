@@ -8,7 +8,7 @@
 	- kann Kritik aufnehmen
 - BWINF
 - JWINF
-- Grosses Interesse am Verständnis naturwissenschaftlicher Phaenomaene
+- Grosses Interesse am Verständnis naturwissenschaftlicher Phaenomane
 
 # Motivation
 
