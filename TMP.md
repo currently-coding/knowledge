@@ -15,4 +15,9 @@
 
 # Interessen
 - Nachhilfe
-- ehrenamtlich Nach
+- ehrenamtlich Nachmittagsbetreuung
+- immer bereit anderen zu helfen
+
+# Erhoffter Mehrwert
+- Tiefes Verstaendnis erarbeiten macht Spass
+- mit anderen auf dem gleichen Level arbeiten spornt an
