@@ -223,7 +223,7 @@ versus(noun) () ::: Rückseite einer Münze
 shareholder(noun) (I am one of the shareholders of the company., Unfortunately, some shareholders forfeited their voting rights.) ::: Aktionär, Gesellschafter, Anteilseigner
 <!--SR:!2025-06-02,192,353!2026-07-05,519,395-->
 outstanding(adjective) () ::: ausgezeichnet, außergewöhnlich, fällig
-<!--SR:!2026-02-02,369,373!2025-02-17,22,295-->
+<!--SR:!2026-02-02,369,373!2025-05-20,90,315-->
 dive(noun) () ::: Tauchen, Tauchgang, Sprung
 <!--SR:!2026-05-05,450,395!2026-03-17,415,393-->
 to dive(verb) (He dives in order to explore the underwater world., I love diving into the water.) ::: tauchen, springen, untertauchen
@@ -326,7 +326,7 @@ yet(adverb) (I was tired, yet I decided to go to the concert., Is it time to go 
 yet(conjunction) (The car is beautiful, yet expensive.) ::: doch, trotzdem(Konjunktion)
 <!--SR:!2026-07-27,537,409!2025-10-24,307,379-->
 subscription(noun) (The magazine's monthly subscription costs 50 dollars., A subscription to a magazine costs money.) ::: Abonnement, Abo, Subskription
-<!--SR:!2026-05-18,477,399!2025-02-17,112,388-->
+<!--SR:!2026-05-18,477,399!2026-10-06,594,408-->
 palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 <!--SR:!2026-04-28,457,399!2026-07-19,532,405-->
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
