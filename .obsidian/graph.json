@@ -155,10 +155,10 @@
       }
     },
     {
-      "query": "path:\"Computer Science/C++\" path:",
+      "query": "path:\"Computer Science/C++\"  ",
       "color": {
         "a": 1,
-        "rgb": 9240320
+        "rgb": 0
       }
     }
   ],
