@@ -61,5 +61,5 @@ Initialisierung := Der Variable wird ein initialer Wert zugewiesen
 
 
 <!--SR:!2025-03-23,218,330-->
-Reihenfolge der Schritte beim Erstellen einer Variable := Deklaration -> Definition -> Initialisierung
-<!--SR:!2025-02-09,176,310-->
+Reihenfolge der Schritte beim Erstellen einer Variable := Deklaration $\rightarrow$ Definition $\rightarrow$ Initialisierung
+<!--SR:!2027-03-20,755,330-->
