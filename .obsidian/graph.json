@@ -64,13 +64,6 @@
       }
     },
     {
-      "query": "path:Informatik  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "path:Latein  ",
       "color": {
         "a": 1,
@@ -159,6 +152,13 @@
       "color": {
         "a": 1,
         "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Kommunikationssysteme\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
       }
     }
   ],
