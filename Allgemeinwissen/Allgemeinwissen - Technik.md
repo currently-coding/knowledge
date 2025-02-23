@@ -3,7 +3,7 @@ James Watt erfindet die Dampfmaschine := 1768
 Galvani entdeckt die galvanische Elektrizität := 1771
 <!--SR:!2025-04-01,55,310-->
 ARPANET := 1969, October 29
-<!--SR:!2025-02-16,1,209-->
+<!--SR:!2025-02-26,3,229-->
 Email (on ARPANET) := 1971
 TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
 <!--SR:!2025-02-22,7,257-->
