@@ -1,6 +1,6 @@
 >[!Note]
 >Global Player := Unternehmen und Konzerne, die auf der ganzen Welt produzieren, Handel treiben und Waren kaufen/verkaufen
-<!--SR:!2025-02-16,43,270-->
+<!--SR:!2025-08-03,161,290-->
 
 - nutzt stragisch globale Lieferketten und Infrastruktur(Spezialisierung)
 - verfügt über finanzielle, technische und politische Macht
