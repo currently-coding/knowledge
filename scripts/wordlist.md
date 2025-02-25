@@ -1,6 +1,3 @@
-succinct
-expediency  
-appropriateness  
 practicality  
 evidence  
 clarity  

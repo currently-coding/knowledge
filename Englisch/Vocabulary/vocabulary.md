@@ -1164,4 +1164,9 @@ to amass(verb) (In the course of his life, my uncle has amassed great wealth.) :
 sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
 formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher
 <!--SR:!2000-01-01,1,250!2025-03-14,27,422-->
-former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige 
+former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige succinct(adjective) (His answer was succinct because he was in a hurry., My brother always gives very short and succinct answers to questions.) ::: knapp, kurz, prägnant 
+expediency(noun) () ::: Zweckmäßigkeit, Zweckdienlichkeit, Opportunität 
+expedient(adjective) (The measure is expedient and desirable., In each case, he finds the most expedient solution.) ::: zweckmäßig, sinnvoll, zielführend 
+appropriateness(noun) (The teacher checked the appropriateness of the textbook.) ::: Angemessenheit, Zweckmäßigkeit, Eignung 
+appropriate(adjective) (My speech was appropriate for the occasion., Please select the appropriate option below., Tennis players have to wear appropriate shoes., At this time, a vote is not yet appropriate., I have the appropriate clothing for all purposes and occasions.) ::: angemessen, entsprechend, geeignet 
+to appropriate(verb) (Public officials should not appropriate government funds., The manager appropriated funds for the new computer system., The director appropriated his employee's idea.) ::: zuweisen, bewilligen, sich zu eigen machen 
