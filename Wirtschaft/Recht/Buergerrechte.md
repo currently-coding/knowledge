@@ -1,0 +1,6 @@
+- gelten fuer deutsche Staatsbuerger
+- staatlich garantiert
+- einklagbar
+- Beispiele
+	- freie Berufswahl
+	- Recht auf Versammlungsfreiheit
