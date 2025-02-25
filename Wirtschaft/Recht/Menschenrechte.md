@@ -1,0 +1,1 @@
+- gelten fuer alle Menschen in Deutschland

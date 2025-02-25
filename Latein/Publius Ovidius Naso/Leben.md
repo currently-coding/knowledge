@@ -33,5 +33,5 @@ gestorben 17 n. Chr in Tomi(Konstanzia) am schwarzen Meer
 	- Restaurationspolitik
 		- Sittengesetze
 		- konservative Politik
-	=> Frieden und Wohlstand im Reich - ausserhalb Kriege
-	=> Literatur und Kunst erbluehen
+	=> Frieden und Wohlstand im Reich - außerhalb Kriege
+	=> Literatur und Kunst erblühen
