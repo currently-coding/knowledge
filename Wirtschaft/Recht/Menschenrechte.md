@@ -1,1 +1,7 @@
-- gelten fuer alle Menschen in Deutschland
+- gelten für alle Menschen in Deutschland(mindestens)
+- universell gültig
+- unverkäuflich, nicht änderbar
+- Beispiele
+	- Menschenwürde
+	- Meinungsfreiheit
+	- Glaubens- und Wissensfreiheit
