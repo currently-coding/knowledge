@@ -1205,11 +1205,25 @@ deduction(noun) (The income declaration does not allow any deductions., Logical 
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
 to deduce(verb) (The detective deduced the thief's height from his footprints.) ::: ableiten, herleiten, ermitteln
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
-conclusion(noun) (A magnificent dinner was the conclusion of the conference., I came to the conclusion that we should stay., The conclusion sums up the findings at the end of the dissertation., The dissertation's conclusion sums up the results., Our study's conclusion confirmed our theory., The manager warned us not to draw any hasty conclusions.) ::: Abschluss, Schluss, Fazit 
-resilience(noun) (The resilience of this material varies with the temperature.) ::: Widerstandsfähigkeit, Belastbarkeit, Widerstandskraft 
-adaptability(noun) (The adaptability of animals is crucial for their survival.) ::: Anpassungsfähigkeit, Flexibilität, Anpassbarkeit 
-adaptable(adjective) (Humans have a very adaptable nature.) ::: anpassungsfähig, anpassbar, flexibel 
-causality(noun) () ::: Kausalität, ursächlicher Zusammenhang, Ursächlichkeit 
-causal(adjective) (There is a causal relationship between the two events.) ::: kausal, ursächlich, auslösend 
-paradigm shift(noun) (The theory of relativity caused a paradigm shift in physics.) ::: Paradigmenwechsel, Paradigmenwandel 
-fundamental change(noun) () ::: grundlegende Veränderung, grundlegende Änderung, fundamentaler Wandel 
+conclusion(noun) (A magnificent dinner was the conclusion of the conference., I came to the conclusion that we should stay., The conclusion sums up the findings at the end of the dissertation., The dissertation's conclusion sums up the results., Our study's conclusion confirmed our theory., The manager warned us not to draw any hasty conclusions.) ::: Abschluss, Schluss, Fazit
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+resilience(noun) (The resilience of this material varies with the temperature.) ::: Widerstandsfähigkeit, Belastbarkeit, Widerstandskraft
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+adaptability(noun) (The adaptability of animals is crucial for their survival.) ::: Anpassungsfähigkeit, Flexibilität, Anpassbarkeit
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+adaptable(adjective) (Humans have a very adaptable nature.) ::: anpassungsfähig, anpassbar, flexibel
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+causality(noun) () ::: Kausalität, ursächlicher Zusammenhang, Ursächlichkeit
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+causal(adjective) (There is a causal relationship between the two events.) ::: kausal, ursächlich, auslösend
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+paradigm shift(noun) (The theory of relativity caused a paradigm shift in physics.) ::: Paradigmenwechsel, Paradigmenwandel
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+fundamental change(noun) () ::: grundlegende Veränderung, grundlegende Änderung, fundamentaler Wandel
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+coherence(noun) (I do not see any coherence between the results., I am going to check the coherence of the text.) ::: Kohärenz, Zusammenhang, Stimmigkeit
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+consistency(noun) (The dessert has the consistency of whipped cream., Training for a marathon requires persistence and consistency.) ::: Konsistenz, Übereinstimmung, Konsequenz
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent 
+logical flow(noun) () ::: logischer Fluss, logischer Ablauf 
