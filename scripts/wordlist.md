@@ -1,6 +1,6 @@
 Strafverfolgung
 historical reappraisal
-enquiry
+equiry(BE)
 mixed feelings  
 inference  
 deduction  

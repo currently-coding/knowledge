@@ -1166,7 +1166,7 @@ formerly(adverb) (The singer was formerly known under a different name.) ::: vor
 <!--SR:!2000-01-01,1,250!2025-03-14,27,422-->
 former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige
 succinct(adjective) (His answer was succinct because he was in a hurry., My brother always gives very short and succinct answers to questions.) ::: knapp, kurz, prägnant
-<!--SR:!2025-02-27,1,364!2000-01-01,1,250-->
+<!--SR:!2025-02-27,1,364!2025-03-03,5,404-->
 expediency(noun) () ::: Zweckmäßigkeit, Zweckdienlichkeit, Opportunität
 <!--SR:!2025-02-27,1,364!2000-01-01,1,250-->
 expedient(adjective) (The measure is expedient and desirable., In each case, he finds the most expedient solution.) ::: zweckmäßig, sinnvoll, zielführend
