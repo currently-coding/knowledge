@@ -1,28 +1,13 @@
-Strafverfolgung
-historical reappraisal
-equiry(BE)
-mixed feelings  
-inference  
-deduction  
-conclusion  
-resilience  
-adaptability  
-causality  
-cause-and-effect relationship  
-paradigm shift  
-fundamental change  
 coherence  
 consistency  
 logical flow  
 redundancy  
 duplication  
-reliability-enhancing repetition  
 premise  
 assumption  
 foundational idea  
 discrepancy  
 inconsistency  
-gap  
 hypothesis  
 proposed explanation  
 conjecture  
@@ -37,7 +22,6 @@ reliability
 correlation  
 interdependence  
 relation  
-precedent  
 prior example  
 case reference  
 differentiation  
@@ -733,4 +717,3 @@ delete
 referendum
 suite
 taxpayer
-

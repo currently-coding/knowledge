@@ -1175,11 +1175,35 @@ appropriateness(noun) (The teacher checked the appropriateness of the textbook.)
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
 appropriate(adjective) (My speech was appropriate for the occasion., Please select the appropriate option below., Tennis players have to wear appropriate shoes., At this time, a vote is not yet appropriate., I have the appropriate clothing for all purposes and occasions.) ::: angemessen, entsprechend, geeignet
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
-to appropriate(verb) (Public officials should not appropriate government funds., The manager appropriated funds for the new computer system., The director appropriated his employee's idea.) ::: zuweisen, bewilligen, sich zu eigen machen 
-practicality(noun) () ::: Zweckmäßigkeit, Praxistauglichkeit, Durchführbarkeit 
-practical(adjective) (During work experience, students can gain practical skills., Vocational training combines theory and practical work., Our new solution is practical and effective.) ::: praktisch, praktikabel, angewandt 
-evidence(noun) (The court set aside the judgement because of new evidence., The scientist provided the evidence for her theory., The detective was looking everywhere for evidence., The court set aside the judgement because of new evidence., The drug is being tested to find evidence of its efficacy.) ::: Beweis, Nachweis, Beweise 
-to evidence(verb) (The certificate evidences completion of the course.) ::: beweisen, bescheinigen 
-clarity(noun) (I spoke slowly, for the sake of clarity.) ::: Klarheit, Übersichtlichkeit, Reinheit 
-ambivalence(noun) () ::: Ambivalenz, Mehrdeutigkeit, Zwiespältigkeit 
-duality(noun) (The philosophers discussed the duality of certain axioms.) ::: Dualität, Zweiheit 
+to appropriate(verb) (Public officials should not appropriate government funds., The manager appropriated funds for the new computer system., The director appropriated his employee's idea.) ::: zuweisen, bewilligen, sich zu eigen machen
+<!--SR:!2025-03-02,4,384!2000-01-01,1,250-->
+practicality(noun) () ::: Zweckmäßigkeit, Praxistauglichkeit, Durchführbarkeit
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+practical(adjective) (During work experience, students can gain practical skills., Vocational training combines theory and practical work., Our new solution is practical and effective.) ::: praktisch, praktikabel, angewandt
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+evidence(noun) (The court set aside the judgement because of new evidence., The scientist provided the evidence for her theory., The detective was looking everywhere for evidence., The court set aside the judgement because of new evidence., The drug is being tested to find evidence of its efficacy.) ::: Beweis, Nachweis, Beweise
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+to evidence(verb) (The certificate evidences completion of the course.) ::: beweisen, bescheinigen
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+clarity(noun) (I spoke slowly, for the sake of clarity.) ::: Klarheit, Übersichtlichkeit, Reinheit
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+ambivalence(noun) () ::: Ambivalenz, Mehrdeutigkeit, Zwiespältigkeit
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+duality(noun) (The philosophers discussed the duality of certain axioms.) ::: Dualität, Zweiheit
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+historical reappraisal(noun) () ::: historische Aufarbeitung
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+precedent(noun) (The lawyer cited a precedent.) ::: Präzedenzfall, Vorbild, Präjudiz 
+precedent(adjective) (The lawyer cited precedent cases to convince the judge.) ::: vorhergehend, vorangehend 
+equity(noun) (The investment is covered by equity., Innovative companies have less trouble finding private equity., He has been fighting for social equity for years.) ::: Eigenkapital, Gerechtigkeit, Aktienkapital 
+inference(noun) () ::: Inferenz, Rückschluss, Folgerung 
+deduction(noun) (The income declaration does not allow any deductions., Logical deduction led me to the solution., Thanks to the inspector's intelligent deductions, the case was quickly solved.) ::: Abzug, Ableitung, Schlussfolgerung 
+to deduce(verb) (The detective deduced the thief's height from his footprints.) ::: ableiten, herleiten, ermitteln 
+conclusion(noun) (A magnificent dinner was the conclusion of the conference., I came to the conclusion that we should stay., The conclusion sums up the findings at the end of the dissertation., The dissertation's conclusion sums up the results., Our study's conclusion confirmed our theory., The manager warned us not to draw any hasty conclusions.) ::: Abschluss, Schluss, Fazit 
+resilience(noun) (The resilience of this material varies with the temperature.) ::: Widerstandsfähigkeit, Belastbarkeit, Widerstandskraft 
+adaptability(noun) (The adaptability of animals is crucial for their survival.) ::: Anpassungsfähigkeit, Flexibilität, Anpassbarkeit 
+adaptable(adjective) (Humans have a very adaptable nature.) ::: anpassungsfähig, anpassbar, flexibel 
+causality(noun) () ::: Kausalität, ursächlicher Zusammenhang, Ursächlichkeit 
+causal(adjective) (There is a causal relationship between the two events.) ::: kausal, ursächlich, auslösend 
+paradigm shift(noun) (The theory of relativity caused a paradigm shift in physics.) ::: Paradigmenwechsel, Paradigmenwandel 
+fundamental change(noun) () ::: grundlegende Veränderung, grundlegende Änderung, fundamentaler Wandel 
