@@ -129,7 +129,7 @@ to launch(verb) (The space agency will launch a rocket next month., The company 
 welfare(noun) (The new government promotes welfare and development., We only want the child's welfare., The welfare of my family matters to me.) ::: Sozialhilfe, Wohlfahrt
 <!--SR:!2025-11-29,343,366!2026-01-25,386,377-->
 livelihood(noun) (I earn my livelihood by teaching English., Climatic changes affect people's livelihood., I earn my livelihood as a dishwasher in a restaurant.) ::: Lebensunterhalt, Lebensgrundlage, Existenz
-<!--SR:!2025-08-19,261,358!2025-02-26,25,286-->
+<!--SR:!2025-08-19,261,358!2025-06-06,100,306-->
 to flourish(verb) (Many plants flourish in the rich, fertile soil by the river., Tourism flourishes in Italy during the summer months., After a summer rain, the plants flourished in my garden.) ::: gedeihen, florieren, aufblühen
 <!--SR:!2026-01-19,380,366!2026-01-04,373,377-->
 flourish(noun) (The composition has various flourishes., She decorated the birthday card with flourishes., The orchestra opened the concert with a flourish.) ::: Verzierung, Schnörkel, Fanfare
@@ -384,7 +384,7 @@ to comprehend(verb) (I tried to comprehend my brother's attitude., I could easil
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
 <!--SR:!2025-03-03,100,348!2026-06-29,513,407-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
-<!--SR:!2025-02-25,115,387!2026-08-10,548,405-->
+<!--SR:!2026-10-27,608,407!2026-08-10,548,405-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
 <!--SR:!2025-10-26,303,389!2024-12-25,59,328-->
 transformation(noun) (The Internet has led to a transformation of society.) ::: Umwandlung, Transformation, Umsetzung
@@ -412,7 +412,7 @@ to consult(verb) (If the symptoms persist, consult your doctor., I will consult 
 consult(noun) () ::: Befragung
 <!--SR:!2026-01-24,345,369!2026-01-14,355,365-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
-<!--SR:!2025-02-25,115,389!2025-04-23,165,387-->
+<!--SR:!2026-10-30,611,409!2025-04-23,165,387-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
 <!--SR:!2026-04-28,429,367!2025-10-10,293,388-->
 ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
@@ -434,7 +434,7 @@ sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
 <!--SR:!2025-05-07,158,347!2025-04-25,140,356-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
-<!--SR:!2026-05-27,486,408!2025-02-24,114,389-->
+<!--SR:!2026-05-27,486,408!2026-10-25,606,409-->
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
 <!--SR:!2025-03-02,120,387!2025-03-11,129,388-->
 strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced the chicken into strips., A narrow strip of land connects the two islands., I used a strip of cloth to mend my dress., The tailor cut the fabric into strips., Me and the boys want to go on the strip tonight.) ::: Streifen, Band, Piste
@@ -588,7 +588,7 @@ intellectual(noun) () ::: Intellektuelle, Intellektueller, Geistesmensch
 crack(noun) (Crack is one of the most dangerous drugs., I opened the door just a crack to see better., Unfortunately, there was a crack in one of the cups., My grandfather always tells the best cracks.) ::: Riss, Crack, Spalt
 <!--SR:!2025-04-23,139,422!2025-07-02,187,422-->
 to crack(verb) (The police are trying to crack the code., The ice on the puddle cracked when I stepped on it., The mirror cracked when it fell to the floor., Plastic can crack if you bend it too much., The glass cracked when the frame fell on the floor., Yesterday, my crazy uncle cracked completely., She withstood the pressure and did not crack.) ::: knacken, zersplittern, brechen
-<!--SR:!2025-02-26,96,391!2025-05-08,158,416-->
+<!--SR:!2026-07-24,513,411!2025-05-08,158,416-->
 success(noun) (His first book was a great success, everybody loved it., The book was a huge success.) ::: Erfolg, Gelingen, Triumph
 <!--SR:!2024-11-21,24,392!2024-12-06,14,363-->
 reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig
@@ -1164,11 +1164,17 @@ to amass(verb) (In the course of his life, my uncle has amassed great wealth.) :
 sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
 formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher
 <!--SR:!2000-01-01,1,250!2025-03-14,27,422-->
-former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige succinct(adjective) (His answer was succinct because he was in a hurry., My brother always gives very short and succinct answers to questions.) ::: knapp, kurz, prägnant 
-expediency(noun) () ::: Zweckmäßigkeit, Zweckdienlichkeit, Opportunität 
-expedient(adjective) (The measure is expedient and desirable., In each case, he finds the most expedient solution.) ::: zweckmäßig, sinnvoll, zielführend 
-appropriateness(noun) (The teacher checked the appropriateness of the textbook.) ::: Angemessenheit, Zweckmäßigkeit, Eignung 
-appropriate(adjective) (My speech was appropriate for the occasion., Please select the appropriate option below., Tennis players have to wear appropriate shoes., At this time, a vote is not yet appropriate., I have the appropriate clothing for all purposes and occasions.) ::: angemessen, entsprechend, geeignet 
+former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige
+succinct(adjective) (His answer was succinct because he was in a hurry., My brother always gives very short and succinct answers to questions.) ::: knapp, kurz, prägnant
+<!--SR:!2025-02-27,1,364!2000-01-01,1,250-->
+expediency(noun) () ::: Zweckmäßigkeit, Zweckdienlichkeit, Opportunität
+<!--SR:!2025-02-27,1,364!2000-01-01,1,250-->
+expedient(adjective) (The measure is expedient and desirable., In each case, he finds the most expedient solution.) ::: zweckmäßig, sinnvoll, zielführend
+<!--SR:!2025-03-02,4,384!2000-01-01,1,250-->
+appropriateness(noun) (The teacher checked the appropriateness of the textbook.) ::: Angemessenheit, Zweckmäßigkeit, Eignung
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+appropriate(adjective) (My speech was appropriate for the occasion., Please select the appropriate option below., Tennis players have to wear appropriate shoes., At this time, a vote is not yet appropriate., I have the appropriate clothing for all purposes and occasions.) ::: angemessen, entsprechend, geeignet
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
 to appropriate(verb) (Public officials should not appropriate government funds., The manager appropriated funds for the new computer system., The director appropriated his employee's idea.) ::: zuweisen, bewilligen, sich zu eigen machen 
 practicality(noun) () ::: Zweckmäßigkeit, Praxistauglichkeit, Durchführbarkeit 
 practical(adjective) (During work experience, students can gain practical skills., Vocational training combines theory and practical work., Our new solution is practical and effective.) ::: praktisch, praktikabel, angewandt 
