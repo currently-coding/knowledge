@@ -1181,3 +1181,5 @@ practical(adjective) (During work experience, students can gain practical skills
 evidence(noun) (The court set aside the judgement because of new evidence., The scientist provided the evidence for her theory., The detective was looking everywhere for evidence., The court set aside the judgement because of new evidence., The drug is being tested to find evidence of its efficacy.) ::: Beweis, Nachweis, Beweise 
 to evidence(verb) (The certificate evidences completion of the course.) ::: beweisen, bescheinigen 
 clarity(noun) (I spoke slowly, for the sake of clarity.) ::: Klarheit, Übersichtlichkeit, Reinheit 
+ambivalence(noun) () ::: Ambivalenz, Mehrdeutigkeit, Zwiespältigkeit 
+duality(noun) (The philosophers discussed the duality of certain axioms.) ::: Dualität, Zweiheit 

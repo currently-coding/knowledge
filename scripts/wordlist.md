@@ -1,6 +1,3 @@
-self-evidence  
-ambivalence  
-duality  
 mixed feelings  
 inference  
 deduction  
