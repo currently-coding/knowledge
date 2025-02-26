@@ -1,5 +1,5 @@
 Strafverfolgung
-historical reapraisal
+historical reappraisal
 enquiry
 mixed feelings  
 inference  
