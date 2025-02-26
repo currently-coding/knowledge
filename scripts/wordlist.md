@@ -1,3 +1,6 @@
+Strafverfolgung
+historical reapraisal
+enquiry
 mixed feelings  
 inference  
 deduction  
@@ -730,3 +733,4 @@ delete
 referendum
 suite
 taxpayer
+
