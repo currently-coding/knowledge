@@ -1,12 +1,3 @@
-generous
-caring
-considerate
-empathetic
-resilient
-persistent
-courageous
-imaginative
-inventive
 sincere
 reserved
 discreet

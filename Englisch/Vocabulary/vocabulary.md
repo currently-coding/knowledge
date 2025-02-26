@@ -1225,5 +1225,25 @@ coherence(noun) (I do not see any coherence between the results., I am going to 
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
 consistency(noun) (The dessert has the consistency of whipped cream., Training for a marathon requires persistence and consistency.) ::: Konsistenz, Übereinstimmung, Konsequenz
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
-consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent 
-logical flow(noun) () ::: logischer Fluss, logischer Ablauf 
+consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+logical flow(noun) () ::: logischer Fluss, logischer Ablauf
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+generous(adjective) (Thank you for your generous donation., The new baseball team is looking for generous sponsors., The trophy was endowed by a generous sponsor.) ::: großzügig, generös, großmütig
+<!--SR:!2025-03-02,4,384!2000-01-01,1,250-->
+caring(adjective / present participle) (My mother is a very caring and kind person., He is a caring father for his children.) ::: umsorgend, sich Gedanken machend
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+considerate(adjective) (Offering the older man her seat on the bus was very considerate of the young woman., She is always very considerate and careful when talking to her clients., We should be thoughtful and considerate towards others.) ::: rücksichtsvoll, besonnen, aufmerksam
+<!--SR:!2025-02-27,1,364!2000-01-01,1,250-->
+empathetic(adjective) () ::: einfühlsam, empathisch, einfühlend
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+resilient(adjective) (Rubber is a resilient material., The shoes are made of resilient materials., Plastic is a resilient material., Rubber is a resilient substance., The effective reforms helped create a resilient economy.) ::: robust, belastbar, widerstandsfähig
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+persistent(adjective) (We have had persistent rain for weeks now., Persistent people do not give up easily., The little girl was very persistent and kept asking questions.) ::: anhaltend, hartnäckig, beharrlich
+<!--SR:!2025-02-27,1,364!2000-01-01,1,250-->
+courageous(adjective) () ::: mutig, couragiert, wagemutig
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+imaginative(adjective) (The artist's works are very creative and imaginative., She is imaginative and always has great ideas.) ::: imaginativ, phantasievoll, erfinderisch
+<!--SR:!2025-03-02,4,384!2000-01-01,1,250-->
+inventive(adjective) (The new novel has an inventive plot., The screenplay is inventive and very funny.) ::: erfinderisch, originell, einfallsreich
+<!--SR:!2025-03-02,4,384!2000-01-01,1,250-->
