@@ -1,6 +1,3 @@
-practicality  
-evidence  
-clarity  
 self-evidence  
 ambivalence  
 duality  

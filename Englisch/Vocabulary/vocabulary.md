@@ -1170,3 +1170,8 @@ expedient(adjective) (The measure is expedient and desirable., In each case, he 
 appropriateness(noun) (The teacher checked the appropriateness of the textbook.) ::: Angemessenheit, Zweckmäßigkeit, Eignung 
 appropriate(adjective) (My speech was appropriate for the occasion., Please select the appropriate option below., Tennis players have to wear appropriate shoes., At this time, a vote is not yet appropriate., I have the appropriate clothing for all purposes and occasions.) ::: angemessen, entsprechend, geeignet 
 to appropriate(verb) (Public officials should not appropriate government funds., The manager appropriated funds for the new computer system., The director appropriated his employee's idea.) ::: zuweisen, bewilligen, sich zu eigen machen 
+practicality(noun) () ::: Zweckmäßigkeit, Praxistauglichkeit, Durchführbarkeit 
+practical(adjective) (During work experience, students can gain practical skills., Vocational training combines theory and practical work., Our new solution is practical and effective.) ::: praktisch, praktikabel, angewandt 
+evidence(noun) (The court set aside the judgement because of new evidence., The scientist provided the evidence for her theory., The detective was looking everywhere for evidence., The court set aside the judgement because of new evidence., The drug is being tested to find evidence of its efficacy.) ::: Beweis, Nachweis, Beweise 
+to evidence(verb) (The certificate evidences completion of the course.) ::: beweisen, bescheinigen 
+clarity(noun) (I spoke slowly, for the sake of clarity.) ::: Klarheit, Übersichtlichkeit, Reinheit 
