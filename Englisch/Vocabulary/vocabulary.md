@@ -1193,12 +1193,18 @@ duality(noun) (The philosophers discussed the duality of certain axioms.) ::: Du
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
 historical reappraisal(noun) () ::: historische Aufarbeitung
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
-precedent(noun) (The lawyer cited a precedent.) ::: Präzedenzfall, Vorbild, Präjudiz 
-precedent(adjective) (The lawyer cited precedent cases to convince the judge.) ::: vorhergehend, vorangehend 
-equity(noun) (The investment is covered by equity., Innovative companies have less trouble finding private equity., He has been fighting for social equity for years.) ::: Eigenkapital, Gerechtigkeit, Aktienkapital 
-inference(noun) () ::: Inferenz, Rückschluss, Folgerung 
-deduction(noun) (The income declaration does not allow any deductions., Logical deduction led me to the solution., Thanks to the inspector's intelligent deductions, the case was quickly solved.) ::: Abzug, Ableitung, Schlussfolgerung 
-to deduce(verb) (The detective deduced the thief's height from his footprints.) ::: ableiten, herleiten, ermitteln 
+precedent(noun) (The lawyer cited a precedent.) ::: Präzedenzfall, Vorbild, Präjudiz
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+precedent(adjective) (The lawyer cited precedent cases to convince the judge.) ::: vorhergehend, vorangehend
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+equity(noun) (The investment is covered by equity., Innovative companies have less trouble finding private equity., He has been fighting for social equity for years.) ::: Eigenkapital, Gerechtigkeit, Aktienkapital
+<!--SR:!2025-03-02,4,384!2000-01-01,1,250-->
+inference(noun) () ::: Inferenz, Rückschluss, Folgerung
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+deduction(noun) (The income declaration does not allow any deductions., Logical deduction led me to the solution., Thanks to the inspector's intelligent deductions, the case was quickly solved.) ::: Abzug, Ableitung, Schlussfolgerung
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
+to deduce(verb) (The detective deduced the thief's height from his footprints.) ::: ableiten, herleiten, ermitteln
+<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
 conclusion(noun) (A magnificent dinner was the conclusion of the conference., I came to the conclusion that we should stay., The conclusion sums up the findings at the end of the dissertation., The dissertation's conclusion sums up the results., Our study's conclusion confirmed our theory., The manager warned us not to draw any hasty conclusions.) ::: Abschluss, Schluss, Fazit 
 resilience(noun) (The resilience of this material varies with the temperature.) ::: Widerstandsfähigkeit, Belastbarkeit, Widerstandskraft 
 adaptability(noun) (The adaptability of animals is crucial for their survival.) ::: Anpassungsfähigkeit, Flexibilität, Anpassbarkeit 
