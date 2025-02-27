@@ -2,5 +2,5 @@ Staatssicherheit
 ?
 >[!Definition]
 >Der durch das „Ministerium für Staatssicherheit“ (MfS) gesteuerte Geheimdienst der DDR, der auch die eigene Bevölkerung überwachte und dabei als Mittel Einschüchterungen, willkürliche Verhaftungen und Gewalt einsetzte; Kurzbezeichnung: „Stasi”
-<!--SR:!2025-02-21,6,250-->
+<!--SR:!2025-03-13,14,250-->
 
