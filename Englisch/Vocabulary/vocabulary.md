@@ -1166,7 +1166,7 @@ formerly(adverb) (The singer was formerly known under a different name.) ::: vor
 <!--SR:!2000-01-01,1,250!2025-03-14,27,422-->
 former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige
 succinct(adjective) (His answer was succinct because he was in a hurry., My brother always gives very short and succinct answers to questions.) ::: knapp, kurz, prägnant
-<!--SR:!2025-02-27,1,364!2025-03-03,5,404-->
+<!--SR:!2025-03-04,5,384!2025-03-03,5,404-->
 expediency(noun) () ::: Zweckmäßigkeit, Zweckdienlichkeit, Opportunität
 <!--SR:!2025-02-27,1,364!2000-01-01,1,250-->
 expedient(adjective) (The measure is expedient and desirable., In each case, he finds the most expedient solution.) ::: zweckmäßig, sinnvoll, zielführend
@@ -1247,7 +1247,11 @@ imaginative(adjective) (The artist's works are very creative and imaginative., S
 <!--SR:!2025-03-02,4,384!2000-01-01,1,250-->
 inventive(adjective) (The new novel has an inventive plot., The screenplay is inventive and very funny.) ::: erfinderisch, originell, einfallsreich
 <!--SR:!2025-03-02,4,384!2000-01-01,1,250-->
-sincere(adjective) (She is looking for a sincere man to marry., The welcome was warm and sincere.) ::: aufrichtig, herzlich, ehrlich 
-reserved(adjective) () ::: vorbehalten, reserviert, zurückhaltend 
-to reserve(verb) (I would like to reserve a table., The company reserves the right to withdraw from the sale., We should reserve the tickets, otherwise they will be sold out., The bookshop reserved the requested books.) ::: reservieren, sich vorbehalten, vorbestellen 
-discreet(adjective) (A diplomat should be tactful and discreet.) ::: diskret, dezent, schlicht 
+sincere(adjective) (She is looking for a sincere man to marry., The welcome was warm and sincere.) ::: aufrichtig, herzlich, ehrlich
+<!--SR:!2025-03-03,4,384!2000-01-01,1,250-->
+reserved(adjective) () ::: vorbehalten, reserviert, zurückhaltend
+<!--SR:!2025-03-04,5,404!2000-01-01,1,250-->
+to reserve(verb) (I would like to reserve a table., The company reserves the right to withdraw from the sale., We should reserve the tickets, otherwise they will be sold out., The bookshop reserved the requested books.) ::: reservieren, sich vorbehalten, vorbestellen
+<!--SR:!2025-03-04,5,404!2000-01-01,1,250-->
+discreet(adjective) (A diplomat should be tactful and discreet.) ::: diskret, dezent, schlicht
+<!--SR:!2025-03-03,4,384!2000-01-01,1,250-->
