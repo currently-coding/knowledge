@@ -54,9 +54,9 @@ If $(a, b) \in G_f$, then $f(a)$ = $b$.
 If there is no $b \in B$ with $f(a) = b$, then $f(a)$ is not defined (notation: $f(a) = n.d.$).
 
 $g \circ f$ := $f : A \to C$ with $(g \circ f)(x)$ := $g(f(x))$ (composition of functions).
-<!--SR:!2025-02-26,92,294-->
+<!--SR:!2026-03-10,376,314-->
 $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of definition of f)
-<!--SR:!2025-02-27,93,294-->
+<!--SR:!2026-03-09,375,314-->
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
 <!--SR:!2025-05-11,160,310-->
 $f$ is total ::: $D_f = A$
