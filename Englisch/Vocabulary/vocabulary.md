@@ -1247,3 +1247,7 @@ imaginative(adjective) (The artist's works are very creative and imaginative., S
 <!--SR:!2025-03-02,4,384!2000-01-01,1,250-->
 inventive(adjective) (The new novel has an inventive plot., The screenplay is inventive and very funny.) ::: erfinderisch, originell, einfallsreich
 <!--SR:!2025-03-02,4,384!2000-01-01,1,250-->
+sincere(adjective) (She is looking for a sincere man to marry., The welcome was warm and sincere.) ::: aufrichtig, herzlich, ehrlich 
+reserved(adjective) () ::: vorbehalten, reserviert, zurückhaltend 
+to reserve(verb) (I would like to reserve a table., The company reserves the right to withdraw from the sale., We should reserve the tickets, otherwise they will be sold out., The bookshop reserved the requested books.) ::: reservieren, sich vorbehalten, vorbestellen 
+discreet(adjective) (A diplomat should be tactful and discreet.) ::: diskret, dezent, schlicht 

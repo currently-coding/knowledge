@@ -1,6 +1,3 @@
-sincere
-reserved
-discreet
 quirky
 unconventional
 expressive
