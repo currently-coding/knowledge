@@ -25,7 +25,8 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "**/*.excalidraw.md"
+      "**/*.excalidraw.md",
+      "/Attachments"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
