@@ -1,1 +1,1 @@
-When you think of peaceful protest the first name coming to mind is Mahatma Ghandi. When you think of someone fighting against Apartheid the first name coming to mind is Nelson Mandela. 
+When you think of peaceful protest the first name coming to mind is Mahatma Ghandi. When you think of someone fighting against Apartheid the first name coming to mind is Nelson Mandela. However combining these topics we end up at Desmond Tutu, a theologian who devoted his life to the fight for the people of south Africa. A fight he fought unexhaustibly until his death in 2010.
