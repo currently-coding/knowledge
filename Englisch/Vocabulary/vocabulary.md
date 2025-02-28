@@ -1258,3 +1258,6 @@ discreet(adjective) (A diplomat should be tactful and discreet.) ::: diskret, de
 quirky(adjective) (The detective story was a bit quirky and strange., The man next door is a quirky old man, but I like him.) ::: skurril, sonderbar, schrullig 
 unconventional(adjective) (She was good at finding unconventional solutions.) ::: unkonventionell, ungewöhnlich, unüblich 
 expressive(adjective) (The artist's latest paintings are very expressive.) ::: ausdrucksstark, ausdrucksvoll, expressiv 
+retributive(adjective) () ::: vergeltend, ausgleichend 
+reconciliation(noun) (She had brought them together for reconciliation after their argument., The reconciliation of the contract conditions took a few hours.) ::: Versöhnung, Abstimmung, Aussöhnung 
+atrocities(noun) () ::: Gräueltaten, Grausamkeiten, Gräuel 

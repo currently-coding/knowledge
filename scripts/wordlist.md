@@ -1,6 +1,3 @@
-retributive
-reconciliation
-atrocities
 denounce
 complicity
 confess
