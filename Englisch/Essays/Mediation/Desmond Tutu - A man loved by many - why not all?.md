@@ -1,0 +1,1 @@
+Nelson Mandela. A name known to everyone today for his continous fight against ra
