@@ -1263,12 +1263,18 @@ expressive(adjective) (The artist's latest paintings are very expressive.) ::: a
 <!--SR:!2025-03-05,5,404!2000-01-01,1,250-->
 retributive(adjective) () ::: vergeltend, ausgleichend
 <!--SR:!2025-03-04,4,384!2000-01-01,1,250-->
-reconciliation(noun) (She had brought them together for reconciliation after their argument., The reconciliation of the contract conditions took a few hours.) ::: Versöhnung, Abstimmung, Aussöhnung 
-atrocities(noun) () ::: Gräueltaten, Grausamkeiten, Gräuel 
-to denounce(verb) (His accomplice denounced him to the police.) ::: anprangern, anprangern, denunzieren 
-complicity(noun) () ::: Komplizenschaft, Mittäterschaft, Mitschuld 
-to confess(verb) (After the police caught the thief, he confessed immediately., The criminal confessed all his crimes., He confessed his sins., The suspect confessed and was convicted.) ::: bekennen, gestehen, zugeben 
-to confess to(verb) () ::: gestehen 
+reconciliation(noun) (She had brought them together for reconciliation after their argument., The reconciliation of the contract conditions took a few hours.) ::: Versöhnung, Abstimmung, Aussöhnung
+<!--SR:!2025-03-05,5,404!2000-01-01,1,250-->
+atrocities(noun) () ::: Gräueltaten, Grausamkeiten, Gräuel
+<!--SR:!2025-03-01,1,364!2000-01-01,1,250-->
+to denounce(verb) (His accomplice denounced him to the police.) ::: anprangern, denunzieren
+<!--SR:!2025-03-01,1,364!2000-01-01,1,250-->
+complicity(noun) () ::: Komplizenschaft, Mittäterschaft, Mitschuld
+<!--SR:!2025-03-05,5,404!2000-01-01,1,250-->
+to confess(verb) (After the police caught the thief, he confessed immediately., The criminal confessed all his crimes., He confessed his sins., The suspect confessed and was convicted.) ::: bekennen, gestehen, zugeben
+<!--SR:!2025-03-05,5,404!2000-01-01,1,250-->
+to confess to(verb) () ::: gestehen
+<!--SR:!2025-03-05,5,404!2000-01-01,1,250-->
 composed(adjective / past participle) (I have composed a list of all items., He is very composed and patient.) :::  
 to compose(verb) (The piece was composed for strings and brass., I have composed a list of all items., The concert was composed of several different acts.) ::: komponieren, zusammenstellen, zusammensetzen 
 to compose oneself(verb) (I need to compose myself and concentrate on the task.) ::: sich zusammennehmen, sich fassen, sich beruhigen 
