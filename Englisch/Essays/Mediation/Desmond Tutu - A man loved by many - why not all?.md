@@ -5,7 +5,7 @@ Yet even after such an accomplishment he kept fighting expanding his battlegroun
 However while his goals undisputedly were of honor, the way lead the Truth and Reconciliation Commission afterwards is faced criticism. Focusing on reconciliation he opted for a restorative solution instead of a retributive one leading to a peaceful end of apartheid at the cost of many murders staying unresolved.
 Additionally he parted ways with the ANC, the African National Congress. The party he once supported lost his trust by enabling corruption, something he rigorously detested. Logically this earned him disdain from the party.
 
-
+"Sometimes i wish i could keep quiet, but I cannot. I have to speak up" is what he once said and always lived by. His whole life was dedicated to the people of South Africa, to the fight against inequality. He accomplished the abolishment of aparthei
 
 
 
