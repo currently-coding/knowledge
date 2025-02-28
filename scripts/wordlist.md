@@ -1,6 +1,3 @@
-composed
-restrained
-assertive
 boastful
 snobbish
 vain

@@ -390,7 +390,7 @@ specimen(noun) (The doctor asked for a specimen., This butterfly is an especiall
 transformation(noun) (The Internet has led to a transformation of society.) ::: Umwandlung, Transformation, Umsetzung
 <!--SR:!2026-08-25,558,409!2026-10-15,599,408-->
 rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellion, Aufstand, Aufruhr
-<!--SR:!2025-02-28,118,388!2025-03-12,130,388-->
+<!--SR:!2026-11-16,626,408!2025-03-12,130,388-->
 dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
 <!--SR:!2026-05-08,467,405!2025-03-12,130,388-->
 tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
@@ -1265,3 +1265,10 @@ to denounce(verb) (His accomplice denounced him to the police.) ::: anprangern, 
 complicity(noun) () ::: Komplizenschaft, Mittäterschaft, Mitschuld 
 to confess(verb) (After the police caught the thief, he confessed immediately., The criminal confessed all his crimes., He confessed his sins., The suspect confessed and was convicted.) ::: bekennen, gestehen, zugeben 
 to confess to(verb) () ::: gestehen 
+composed(adjective / past participle) (I have composed a list of all items., He is very composed and patient.) :::  
+to compose(verb) (The piece was composed for strings and brass., I have composed a list of all items., The concert was composed of several different acts.) ::: komponieren, zusammenstellen, zusammensetzen 
+to compose oneself(verb) (I need to compose myself and concentrate on the task.) ::: sich zusammennehmen, sich fassen, sich beruhigen 
+restrained(adjective / past participle) (He has a restrained character.) :::  
+to restrain(verb) (The student restrained his spending to a minimum., The children could not restrain their enthusiasm in the zoo.) ::: einschränken, zurückhalten, beschränken 
+to restrain oneself(verb) (Although she was angry, she restrained herself and kept calm., Despite the provocation, I was able to restrain myself.) ::: sich zurückhalten, sich beherrschen 
+assertive(adjective) (She is assertive because she knows what she wants., If you want to be successful in your career, you must be assertive.) ::: durchsetzungsfähig, selbstbewusst, energisch 
