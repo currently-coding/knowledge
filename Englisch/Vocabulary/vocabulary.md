@@ -626,7 +626,7 @@ suspicious(adjective) (I heard suspicious noises in the attic., The investigator
 governor(noun) (The governor of my home state was elected by a vast majority.) ::: Gouverneur, Statthalter, Landeshauptmann
 <!--SR:!2025-04-04,116,402!2025-04-24,140,422-->
 spare(noun) (I have bought spares for the repair of my car., He lost his key, but luckily he had a spare.) ::: Ersatzteil, Ersatz, Reserve
-<!--SR:!2025-02-28,93,403!2025-03-15,100,402-->
+<!--SR:!2026-07-23,510,423!2025-03-15,100,402-->
 to spare(verb) (Luckily, the butcher spared me a detailed description of his work., I will give you the money I can spare., Fortunately, my son was spared from the sickness.) ::: ersparen, erübrigen, verschonen
 <!--SR:!2025-04-13,125,402!2025-06-02,179,412-->
 spare(adjective) (There are still a few spare seats on the plane., I gave my spare money to my sister because I did not need it.) ::: frei, übrig, sparsam
@@ -658,7 +658,7 @@ to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, ü
 occupation(noun) (The judge asked the witness to state his name and occupation., The occupation of the town was over and there was peace., My skills allowed me to find a better occupation., The country declared independence after a long period of occupation., The new office building is ready for occupation.) ::: Beschäftigung, Beruf, Besetzung
 <!--SR:!2025-04-19,144,411!2025-06-03,180,415-->
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren
-<!--SR:!2025-02-28,89,402!2025-06-21,165,422-->
+<!--SR:!2026-07-08,495,422!2025-06-21,165,422-->
 fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur
 <!--SR:!2025-04-28,149,411!2026-03-11,388,415-->
 ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote
@@ -1255,10 +1255,14 @@ to reserve(verb) (I would like to reserve a table., The company reserves the rig
 <!--SR:!2025-03-04,5,404!2000-01-01,1,250-->
 discreet(adjective) (A diplomat should be tactful and discreet.) ::: diskret, dezent, schlicht
 <!--SR:!2025-03-03,4,384!2000-01-01,1,250-->
-quirky(adjective) (The detective story was a bit quirky and strange., The man next door is a quirky old man, but I like him.) ::: skurril, sonderbar, schrullig 
-unconventional(adjective) (She was good at finding unconventional solutions.) ::: unkonventionell, ungewöhnlich, unüblich 
-expressive(adjective) (The artist's latest paintings are very expressive.) ::: ausdrucksstark, ausdrucksvoll, expressiv 
-retributive(adjective) () ::: vergeltend, ausgleichend 
+quirky(adjective) (The detective story was a bit quirky and strange., The man next door is a quirky old man, but I like him.) ::: skurril, sonderbar, schrullig
+<!--SR:!2025-03-01,1,364!2000-01-01,1,250-->
+unconventional(adjective) (She was good at finding unconventional solutions.) ::: unkonventionell, ungewöhnlich, unüblich
+<!--SR:!2025-03-05,5,404!2000-01-01,1,250-->
+expressive(adjective) (The artist's latest paintings are very expressive.) ::: ausdrucksstark, ausdrucksvoll, expressiv
+<!--SR:!2025-03-05,5,404!2000-01-01,1,250-->
+retributive(adjective) () ::: vergeltend, ausgleichend
+<!--SR:!2025-03-04,4,384!2000-01-01,1,250-->
 reconciliation(noun) (She had brought them together for reconciliation after their argument., The reconciliation of the contract conditions took a few hours.) ::: Versöhnung, Abstimmung, Aussöhnung 
 atrocities(noun) () ::: Gräueltaten, Grausamkeiten, Gräuel 
 to denounce(verb) (His accomplice denounced him to the police.) ::: anprangern, anprangern, denunzieren 
