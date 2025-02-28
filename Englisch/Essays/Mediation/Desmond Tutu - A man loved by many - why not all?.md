@@ -1,1 +1,1 @@
-Nelson Mandela. A name known to everyone today for his continous fight against ra
+When you think of peaceful protest the first name coming to mind is Mahatma Ghandi. When you think of someone fighting against Apartheid the first name coming to mind is Nelson Mandela. 
