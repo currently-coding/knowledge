@@ -3,4 +3,5 @@ Growing up in South Africa he experienced racism and violence first-hand. Howeve
 For his fight alongside Nelson Mandela he ultimately won the peace nobel prize.
 Yet even after such an accomplishment, he kept fighting expanding his battleground to gang-criminality and gay-rights.
 Reading this one might think he just about is the perfect man: Morals, dedication and altruism at it's best.
-However while his goals undisputedly were of honor the way lead the Truth and Reconciliation Commision afterwards is criticised. Putting the primary focus on reconciliation he opted for a restorative solution instead of a retributive one leading to many 
+However while his goals undisputedly were of honor the way lead the Truth and Reconciliation Commision afterwards is criticised. Putting the primary focus on reconciliation he opted for a restorative solution instead of a retributive one leading to many murders staying unresolved.
+Additionally he parted ways with the ANC, the African National Congress. The party he once supported lost his
