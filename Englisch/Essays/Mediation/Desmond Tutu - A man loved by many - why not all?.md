@@ -1,7 +1,8 @@
 When you think of peaceful protest the first name coming to mind is Mahatma Ghandi. When you think of someone fighting against Apartheid the first name coming to mind is Nelson Mandela. However combining these topics the man we end up at is Desmond Tutu, a theologian who devoted his life to the fight for the people of south Africa. A fight he fought unexhaustibly until his death in 2010.
 Growing up in South Africa he experienced racism and violence first-hand. However instead of keeping quiet about it he spoke up. Beginning what will become his lifelong task he criticized apartheid, the system of racial segregation oppressing the majority of the people. While most would at some point break from the immense strain of opposing the government for years, he kept his contagious smile following his motto of "there is no such thing as unchangeable". When the local fight stalled, Tutu went international prompting countries to economically sanction South Africa for its inhuman practices. Reaping what he had sown he cleverly negotiated the end of apartheid avoiding a civil war.
 For his fight alongside Nelson Mandela he ultimately won the peace nobel prize.
-Yet even after such an accomplishment, he kept fighting expanding his battleground to gang-criminality and gay-rights.
+Yet even after such an accomplishment he kept fighting expanding his battleground to gang-criminality and gay-rights.
 Reading this one might think he just about is the perfect man: Morals, dedication and altruism at it's best.
 However while his goals undisputedly were of honor the way lead the Truth and Reconciliation Commision afterwards is criticised. Putting the primary focus on reconciliation he opted for a restorative solution instead of a retributive one leading to many murders staying unresolved.
-Additionally he parted ways with the ANC, the African National Congress. The party he once supported lost his
+Additionally he parted ways with the ANC, the African National Congress. The party he once supported lost his trust by enabling corruption, something he rigorously detested.
+Ultimately he managed to 
