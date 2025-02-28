@@ -1,6 +1,5 @@
 retributive
 reconciliation
-moral conscience
 atrocities
 denounce
 complicity
