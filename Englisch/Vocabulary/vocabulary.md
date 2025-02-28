@@ -1255,3 +1255,6 @@ to reserve(verb) (I would like to reserve a table., The company reserves the rig
 <!--SR:!2025-03-04,5,404!2000-01-01,1,250-->
 discreet(adjective) (A diplomat should be tactful and discreet.) ::: diskret, dezent, schlicht
 <!--SR:!2025-03-03,4,384!2000-01-01,1,250-->
+quirky(adjective) (The detective story was a bit quirky and strange., The man next door is a quirky old man, but I like him.) ::: skurril, sonderbar, schrullig 
+unconventional(adjective) (She was good at finding unconventional solutions.) ::: unkonventionell, ungewöhnlich, unüblich 
+expressive(adjective) (The artist's latest paintings are very expressive.) ::: ausdrucksstark, ausdrucksvoll, expressiv 

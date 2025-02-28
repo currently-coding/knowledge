@@ -1,6 +1,3 @@
-quirky
-unconventional
-expressive
 composed
 restrained
 assertive
