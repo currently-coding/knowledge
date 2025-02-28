@@ -1,6 +1,3 @@
-denounce
-complicity
-confess
 composed
 restrained
 assertive

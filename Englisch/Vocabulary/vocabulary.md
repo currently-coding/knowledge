@@ -1261,3 +1261,7 @@ expressive(adjective) (The artist's latest paintings are very expressive.) ::: a
 retributive(adjective) () ::: vergeltend, ausgleichend 
 reconciliation(noun) (She had brought them together for reconciliation after their argument., The reconciliation of the contract conditions took a few hours.) ::: Versöhnung, Abstimmung, Aussöhnung 
 atrocities(noun) () ::: Gräueltaten, Grausamkeiten, Gräuel 
+to denounce(verb) (His accomplice denounced him to the police.) ::: anprangern, anprangern, denunzieren 
+complicity(noun) () ::: Komplizenschaft, Mittäterschaft, Mitschuld 
+to confess(verb) (After the police caught the thief, he confessed immediately., The criminal confessed all his crimes., He confessed his sins., The suspect confessed and was convicted.) ::: bekennen, gestehen, zugeben 
+to confess to(verb) () ::: gestehen 
