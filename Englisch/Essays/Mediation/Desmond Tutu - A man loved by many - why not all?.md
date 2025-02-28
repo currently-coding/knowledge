@@ -5,4 +5,8 @@ Yet even after such an accomplishment he kept fighting expanding his battlegroun
 Reading this one might think he just about is the perfect man: Morals, dedication and altruism at it's best.
 However while his goals undisputedly were of honor the way lead the Truth and Reconciliation Commision afterwards is criticised. Focusing on reconciliation he opted for a restorative solution instead of a retributive one leading to a peaceful end of apartheid at the cost of many murders staying unresolved.
 Additionally he parted ways with the ANC, the African National Congress. The party he once supported lost his trust by enabling corruption, something he rigorously detested. Logically this earned him disdain from the party.
-Ultimately his work paved the way for future generations to one day achieve his dream of a "rainbow nation" - one where everyone lives together peacefully. By ending apartheid he made the first huge leap towards that. Even though some of his actions in office were disputed, he always stood by his morals thus becoming the moral conscience of South Africa.
+
+
+
+
+Ultimately dedication for peace and equality laid the foundation for the "rainbow nation" - a place people of all backgrounds peacefully live together.
