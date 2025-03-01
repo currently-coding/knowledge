@@ -5,3 +5,13 @@ However while his goals undisputedly were of honor, the way led the Truth and Re
 Additionally he parted ways with the ANC, the African National Congress. The party he once supported lost his trust by enabling corruption, something he rigorously detested. Logically this earned him disdain from the party, which expectedly did not stop him from calling out this contradiction.
 "Sometimes i wish i could keep quiet, but I cannot. I have to speak out" is what he once said and always lived by. His whole life was dedicated to the people of South Africa, to the fight against inequality. He accomplished the abolishment of apartheid by always speaking up for those who were oppressed. Even though some of his actions as head of the Truth and Reconciliation Commission were disputed, the overall benefits he achieved for the population outweigh any critique he faced.
 Ultimately his dedication for peace and equality laid the foundation for his dream of a "rainbow nation" - a place people of all backgrounds peacefully live together.
+
+#### Use of AI
+##### Vocabulary
+- to succumb
+- profoundly shaped by
+- to embody
+- to avert
+- to detest
+##### Other
+-

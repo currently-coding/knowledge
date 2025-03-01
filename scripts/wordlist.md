@@ -1,4 +1,9 @@
+succumb
+avert
+egregious
+astutely
 deceitful
+hypocrisy
 timid
 irritable
 sluggish
