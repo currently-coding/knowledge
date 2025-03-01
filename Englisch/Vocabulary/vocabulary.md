@@ -1085,8 +1085,6 @@ clothes(noun) (He folded his clothes neatly., We sell clothes made of cotton and
 <!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 cloth(noun) (You can clean the surface with a cloth., The dye had colored the cloth red., The constant friction wore out the cloth., His shirt scratched, because it was made of coarse cloth., I always clean the windows with a soft cloth.) ::: Tuch, Leinen, Stoff
 <!--SR:!2024-12-21,25,406!2000-01-01,1,250-->
-residential(adjective) () :::
-<!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 to tolerate(verb) (The teacher does not tolerate disruptive noises.) ::: dulden, tolerieren, vertragen
 <!--SR:!2000-01-01,1,250!2024-12-24,32,406-->
 fundamentally(adverb) () ::: grundsätzlich, grundlegend, wesentlich
@@ -1276,7 +1274,6 @@ to confess(verb) (After the police caught the thief, he confessed immediately., 
 to confess to(verb) () ::: gestehen
 <!--SR:!2025-03-05,5,404!2000-01-01,1,250-->
 <<<<<<< HEAD
-composed(adjective / past participle) (I have composed a list of all items., He is very composed and patient.) :::  
 to compose(verb) (The piece was composed for strings and brass., I have composed a list of all items., The concert was composed of several different acts.) ::: komponieren, zusammenstellen, zusammensetzen 
 to compose oneself(verb) (I need to compose myself and concentrate on the task.) ::: sich zusammennehmen, sich fassen, sich beruhigen 
 restrained(adjective / past participle) (He has a restrained character.) :::  
