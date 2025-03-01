@@ -1,4 +1,4 @@
-
+The man synonymous with peaceful protest is Mahatma Gandhi.
 
 
 
