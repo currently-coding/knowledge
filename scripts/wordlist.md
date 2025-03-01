@@ -1,6 +1,3 @@
-detest
-repudiate
-disdain
 boastful
 snobbish
 vain

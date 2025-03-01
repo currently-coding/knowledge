@@ -1282,3 +1282,7 @@ restrained(adjective / past participle) (He has a restrained character.) :::
 to restrain(verb) (The student restrained his spending to a minimum., The children could not restrain their enthusiasm in the zoo.) ::: einschränken, zurückhalten, beschränken 
 to restrain oneself(verb) (Although she was angry, she restrained herself and kept calm., Despite the provocation, I was able to restrain myself.) ::: sich zurückhalten, sich beherrschen 
 assertive(adjective) (She is assertive because she knows what she wants., If you want to be successful in your career, you must be assertive.) ::: durchsetzungsfähig, selbstbewusst, energisch 
+to detest(verb) (I detest aggression and violence., My son detests spinach.) ::: verabscheuen, hassen, nicht ausstehen können 
+to repudiate(verb) () ::: ablehnen, zurückweisen, weisen 
+disdain(noun) (The artist's works express his disdain for money and fame.) ::: Verachtung, Geringschätzung, Missachtung 
+to disdain(verb) () ::: verachten, verschmähen, gering schätzen 
