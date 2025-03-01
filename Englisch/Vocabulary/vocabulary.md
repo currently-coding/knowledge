@@ -1297,4 +1297,5 @@ boastful(adjective) () ::: prahlerisch, überheblich, großsprecherisch
 <!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
 snobbish(adjective) (Since her promotion she has become snobbish and arrogant.) ::: snobistisch, versnobt, hochnäsig
 <!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
-vain(adjective) (He made a vain attempt to change her mind., The girl was too vain to wear glasses.) ::: vergeblich, eitel, eingebildet 
+vain(adjective) (He made a vain attempt to change her mind., The girl was too vain to wear glasses.) ::: vergeblich, eitel, eingebildet
+<!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
