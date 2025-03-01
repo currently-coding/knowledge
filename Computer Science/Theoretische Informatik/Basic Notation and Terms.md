@@ -64,7 +64,7 @@ $f$ is total ::: $D_f = A$
 $f$ is surjective ::: $R_f = B$
 <!--SR:!2025-12-05,285,298!2025-03-17,111,294-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
-<!--SR:!2025-03-23,57,258!2025-03-01,106,294-->
+<!--SR:!2025-03-23,57,258!2026-05-12,437,314-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
 <!--SR:!2025-11-29,295,334!2025-11-26,305,338-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.

@@ -44,9 +44,9 @@
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
     "algorithm": "SM-2-OSR",
-    "baseEase": 250,
+    "baseEase": 210,
     "lapsesIntervalChange": 0.5,
-    "easyBonus": 1.3,
+    "easyBonus": 1.1,
     "loadBalance": true,
     "maximumInterval": 36525,
     "maxLinkFactor": 1,
@@ -395,7 +395,19 @@
     "13407413e78659",
     "1ef483881c1875",
     "1afebaeab30dfe",
-    "15a3477f20b7ea"
+    "15a3477f20b7ea",
+    "ff58a4f630263",
+    "550dbdcd8a2b9",
+    "14f4dc9d7a3c7b",
+    "5b42612a85591",
+    "17e2b3510cc574",
+    "1e2720562a00d4",
+    "1b9d8e735174aa",
+    "1c1f1a8e445670",
+    "42695c9aec646",
+    "75788eeb629",
+    "52a207bae7ce1",
+    "c90510765bf0"
   ],
   "historyDeck": null
 }

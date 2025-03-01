@@ -1,6 +1,3 @@
-boastful
-snobbish
-vain
 deceitful
 timid
 irritable

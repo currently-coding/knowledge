@@ -372,7 +372,7 @@ radiation(noun) (There is no radiation leaking from the reactor., The decay of a
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
 <!--SR:!2026-07-26,536,409!2025-03-08,106,347-->
 sigh(noun) () ::: Seufzer, Seufzen
-<!--SR:!2026-05-10,469,405!2025-03-01,119,387-->
+<!--SR:!2026-05-10,469,405!2026-11-21,630,407-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
 <!--SR:!2025-03-11,129,389!2026-08-23,556,407-->
 surveillance(noun) (The building is under surveillance., Satellites allow an exhaustive surveillance., The police have the suspect under surveillance.) ::: Überwachung, Aufsicht, Kontrolle
@@ -428,7 +428,7 @@ underlying(adjective) (The underlying theory made it easier to discuss the ideas
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
 <!--SR:!2026-04-21,450,408!2025-03-12,130,387-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
-<!--SR:!2025-04-29,157,389!2025-03-01,112,396-->
+<!--SR:!2025-04-29,157,389!2026-10-28,606,416-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
 <!--SR:!2025-03-18,136,389!2026-08-22,555,407-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
@@ -1275,6 +1275,7 @@ to confess(verb) (After the police caught the thief, he confessed immediately., 
 <!--SR:!2025-03-05,5,404!2000-01-01,1,250-->
 to confess to(verb) () ::: gestehen
 <!--SR:!2025-03-05,5,404!2000-01-01,1,250-->
+<<<<<<< HEAD
 composed(adjective / past participle) (I have composed a list of all items., He is very composed and patient.) :::  
 to compose(verb) (The piece was composed for strings and brass., I have composed a list of all items., The concert was composed of several different acts.) ::: komponieren, zusammenstellen, zusammensetzen 
 to compose oneself(verb) (I need to compose myself and concentrate on the task.) ::: sich zusammennehmen, sich fassen, sich beruhigen 
@@ -1286,3 +1287,27 @@ to detest(verb) (I detest aggression and violence., My son detests spinach.) :::
 to repudiate(verb) () ::: ablehnen, zurückweisen, weisen 
 disdain(noun) (The artist's works express his disdain for money and fame.) ::: Verachtung, Geringschätzung, Missachtung 
 to disdain(verb) () ::: verachten, verschmähen, gering schätzen 
+to compose(verb) (The piece was composed for strings and brass., I have composed a list of all items., The concert was composed of several different acts.) ::: komponieren, zusammenstellen, zusammensetzen
+<!--SR:!2025-03-05,4,385!2000-01-01,1,250-->
+to compose oneself(verb) (I need to compose myself and concentrate on the task.) ::: sich zusammennehmen, sich fassen, sich beruhigen
+<!--SR:!2025-03-05,4,385!2000-01-01,1,250-->
+to restrain(verb) (The student restrained his spending to a minimum., The children could not restrain their enthusiasm in the zoo.) ::: einschränken, zurückhalten, beschränken
+<!--SR:!2025-03-06,5,405!2000-01-01,1,250-->
+to restrain oneself(verb) (Although she was angry, she restrained herself and kept calm., Despite the provocation, I was able to restrain myself.) ::: sich zurückhalten, sich beherrschen
+<!--SR:!2025-03-05,4,385!2000-01-01,1,250-->
+assertive(adjective) (She is assertive because she knows what she wants., If you want to be successful in your career, you must be assertive.) ::: durchsetzungsfähig, selbstbewusst, energisch
+<!--SR:!2025-03-06,5,405!2000-01-01,1,250-->
+to detest(verb) (I detest aggression and violence., My son detests spinach.) ::: verabscheuen, hassen, nicht ausstehen können
+<!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
+to repudiate(verb) () ::: ablehnen, zurückweisen, weisen
+<!--SR:!2025-03-05,4,385!2000-01-01,1,250-->
+disdain(noun) (The artist's works express his disdain for money and fame.) ::: Verachtung, Geringschätzung, Missachtung
+<!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
+to disdain(verb) () ::: verachten, verschmähen, gering schätzen
+<!--SR:!2025-03-05,4,385!2000-01-01,1,250-->
+boastful(adjective) () ::: prahlerisch, überheblich, großsprecherisch
+<!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
+snobbish(adjective) (Since her promotion she has become snobbish and arrogant.) ::: snobistisch, versnobt, hochnäsig
+<!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
+vain(adjective) (He made a vain attempt to change her mind., The girl was too vain to wear glasses.) ::: vergeblich, eitel, eingebildet
+<!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
