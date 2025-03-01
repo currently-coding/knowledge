@@ -1,9 +1,3 @@
-detest
-repudiate
-disdain
-boastful
-snobbish
-vain
 deceitful
 timid
 irritable
