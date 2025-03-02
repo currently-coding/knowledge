@@ -1276,7 +1276,8 @@ to confess to(verb) () ::: gestehen
 <<<<<<< HEAD
 to compose(verb) (The piece was composed for strings and brass., I have composed a list of all items., The concert was composed of several different acts.) ::: komponieren, zusammenstellen, zusammensetzen 
 to compose oneself(verb) (I need to compose myself and concentrate on the task.) ::: sich zusammennehmen, sich fassen, sich beruhigen 
-restrained(adjective / past participle) (He has a restrained character.) :::  
+restrained(adjective / past participle) (He has a restrained character.) :::
+<!--SR:!2025-03-06,4,404!2000-01-01,1,210-->
 to restrain(verb) (The student restrained his spending to a minimum., The children could not restrain their enthusiasm in the zoo.) ::: einschränken, zurückhalten, beschränken 
 to restrain oneself(verb) (Although she was angry, she restrained herself and kept calm., Despite the provocation, I was able to restrain myself.) ::: sich zurückhalten, sich beherrschen 
 assertive(adjective) (She is assertive because she knows what she wants., If you want to be successful in your career, you must be assertive.) ::: durchsetzungsfähig, selbstbewusst, energisch 
@@ -1308,7 +1309,11 @@ snobbish(adjective) (Since her promotion she has become snobbish and arrogant.) 
 <!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
 vain(adjective) (He made a vain attempt to change her mind., The girl was too vain to wear glasses.) ::: vergeblich, eitel, eingebildet
 <!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
-to succumb(verb) () ::: erliegen, unterliegen, zusammenbrechen 
-to succumb to(verb) (I succumbed to the temptation and ate the chocolate., I could not resist and succumbed to my appetite for chocolate.) ::: erliegen, nachgeben, sich hingeben 
-to avert(verb) (He successfully averted a catastrophe., The pilot landed the plane safely and averted a catastrophe.) ::: abwenden, verhindern, vermeiden 
-egregious(adjective) () ::: ungeheuerlich, ungeheuer, unerhört 
+to succumb(verb) () ::: erliegen, unterliegen, zusammenbrechen
+<!--SR:!2025-03-03,1,364!2000-01-01,1,210-->
+to succumb to(verb) (I succumbed to the temptation and ate the chocolate., I could not resist and succumbed to my appetite for chocolate.) ::: erliegen, nachgeben, sich hingeben
+<!--SR:!2025-03-06,4,404!2000-01-01,1,210-->
+to avert(verb) (He successfully averted a catastrophe., The pilot landed the plane safely and averted a catastrophe.) ::: abwenden, verhindern, vermeiden
+<!--SR:!2025-03-06,4,404!2000-01-01,1,210-->
+egregious(adjective) () ::: ungeheuerlich, ungeheuer, unerhört
+<!--SR:!2025-03-03,1,364!2000-01-01,1,210-->
