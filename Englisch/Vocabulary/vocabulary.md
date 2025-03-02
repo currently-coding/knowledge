@@ -1308,3 +1308,7 @@ snobbish(adjective) (Since her promotion she has become snobbish and arrogant.) 
 <!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
 vain(adjective) (He made a vain attempt to change her mind., The girl was too vain to wear glasses.) ::: vergeblich, eitel, eingebildet
 <!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
+to succumb(verb) () ::: erliegen, unterliegen, zusammenbrechen 
+to succumb to(verb) (I succumbed to the temptation and ate the chocolate., I could not resist and succumbed to my appetite for chocolate.) ::: erliegen, nachgeben, sich hingeben 
+to avert(verb) (He successfully averted a catastrophe., The pilot landed the plane safely and averted a catastrophe.) ::: abwenden, verhindern, vermeiden 
+egregious(adjective) () ::: ungeheuerlich, ungeheuer, unerhört 

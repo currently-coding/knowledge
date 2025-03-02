@@ -1,6 +1,3 @@
-succumb
-avert
-egregious
 astutely
 deceitful
 hypocrisy
