@@ -39,7 +39,7 @@ adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) ::: angemessen, hinreichend, ausreichend
 <!--SR:!2025-10-19,308,342!2025-11-05,319,356-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
-<!--SR:!2025-03-20,124,402!2025-03-02,108,401-->
+<!--SR:!2025-03-20,124,402!2026-07-15,500,421-->
 to adjust oneself(verb) () ::: sich anpassen
 <!--SR:!2025-11-24,338,361!2025-05-25,184,322-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) ::: erschwinglich, bezahlbar, preiswert, kostengünstig
@@ -436,7 +436,7 @@ to infer(verb) (From the available information, I can infer certain things., I i
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
 <!--SR:!2026-05-27,486,408!2026-10-25,606,409-->
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
-<!--SR:!2025-03-02,120,387!2025-03-11,129,388-->
+<!--SR:!2026-08-21,537,407!2025-03-11,129,388-->
 strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced the chicken into strips., A narrow strip of land connects the two islands., I used a strip of cloth to mend my dress., The tailor cut the fabric into strips., Me and the boys want to go on the strip tonight.) ::: Streifen, Band, Piste
 <!--SR:!2025-04-10,145,387!2025-12-24,324,389-->
 to strip(verb) (The electrician stripped the cable and installed the lamp., It is hard to strip wallpaper off a wall., We stripped the paint with sandpaper.) ::: abisolieren, abziehen, abkratzen
