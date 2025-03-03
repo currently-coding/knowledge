@@ -1,6 +1,3 @@
-astutely
-deceitful
-hypocrisy
 timid
 irritable
 sluggish

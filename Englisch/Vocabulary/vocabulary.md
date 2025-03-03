@@ -1317,3 +1317,7 @@ to avert(verb) (He successfully averted a catastrophe., The pilot landed the pla
 <!--SR:!2025-03-06,4,404!2000-01-01,1,210-->
 egregious(adjective) () ::: ungeheuerlich, ungeheuer, unerhört
 <!--SR:!2025-03-03,1,364!2000-01-01,1,210-->
+astutely(adverb) () ::: schlau, klug, scharfsinnig 
+astute(adjective) (The child is very clever and astute., She is really clever and makes astute remarks., His students' astute observations pleased him.) ::: geschickt, klug, scharfsinnig 
+deceitful(adjective) (He did not trust her because he knew she was deceitful.) ::: arglistig, betrügerisch, verlogen 
+hypocrisy(noun) () ::: Heuchelei, Scheinheiligkeit, Verlogenheit 
