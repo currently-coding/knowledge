@@ -1,6 +1,3 @@
-timid
-irritable
-sluggish
 careless
 quixotic
 redundancy  
