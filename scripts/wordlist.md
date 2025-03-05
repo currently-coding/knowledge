@@ -1,6 +1,3 @@
-careless
-quixotic
-redundancy  
 duplication  
 premise  
 assumption  

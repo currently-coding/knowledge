@@ -1324,3 +1324,7 @@ hypocrisy(noun) () ::: Heuchelei, Scheinheiligkeit, Verlogenheit
 timid(adjective) (As a child, I was rather timid., Deer are timid, skittish animals., These rabbits are very timid, be careful not to scare them.) ::: zaghaft, schüchtern, ängstlich 
 irritable(adjective) (He was always irritable when he was a smoker.) ::: reizbar, gereizt, nervös 
 sluggish(adjective) (I am feeling too sluggish to get out of bed., The old train moves at a sluggish pace., He felt sluggish after the big meal., I am feeling tired and sluggish today.) ::: träge, schleppend, schwerfällig 
+careless(adjective) (The driver was careless and caused an accident., It was careless of us not to ask the owner first.) ::: unvorsichtig, leichtsinnig, fahrlässig 
+to care(verb) (My sister cares for our cat when we are on holiday.) ::: sorgen, behüten 
+quixotic(adjective) () ::: weltfremd, fantastisch, phantastisch 
+redundancy(noun) (The new management has announced redundancies., The workers in our company are not threatened by redundancy.) ::: Redundanz, Entlassung, Arbeitslosigkeit 
