@@ -1,6 +1,3 @@
-duplication  
-premise  
-assumption  
 foundational idea  
 discrepancy  
 inconsistency  

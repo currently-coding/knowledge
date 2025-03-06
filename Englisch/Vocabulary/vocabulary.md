@@ -1328,3 +1328,6 @@ careless(adjective) (The driver was careless and caused an accident., It was car
 to care(verb) (My sister cares for our cat when we are on holiday.) ::: sorgen, behüten 
 quixotic(adjective) () ::: weltfremd, fantastisch, phantastisch 
 redundancy(noun) (The new management has announced redundancies., The workers in our company are not threatened by redundancy.) ::: Redundanz, Entlassung, Arbeitslosigkeit 
+duplication(noun) (Duplication of the document requires our consent.) ::: Vervielfältigung, Doppelung, Duplizierung 
+premise(noun) () ::: Prämisse, Voraussetzung, Lokal 
+assumption(noun) (His assumption was right and he won the bet., A newspaper article has to be based on facts, not assumptions., The results confirm the validity of the assumption., I demonstrated that my initial assumption was correct., The assumption of leadership duties was important to him., The theory is based on simple assumptions.) ::: Annahme, Übernahme, Voraussetzung 
