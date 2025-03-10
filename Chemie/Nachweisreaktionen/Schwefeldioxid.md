@@ -16,4 +16,3 @@ $$
 $$
 >[!Note]
 >Schwefeldioxid kann als Konservierungsmittel über die Entfärbung einer blau-violetten Iodstärkeloesung nachgewiesen werden
-
