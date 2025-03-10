@@ -11,14 +11,14 @@
       "query": "path:Attachments  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 6381921
       }
     },
     {
       "query": "path:BWINF  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 11982612
       }
     },
     {
@@ -113,13 +113,6 @@
       }
     },
     {
-      "query": "path:Personal  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
       "query": "path:\"Politik & Gesellschaft\"  ",
       "color": {
         "a": 1,
@@ -134,24 +127,17 @@
       }
     },
     {
-      "query": "path:\"Wissenschaftswoche Chemie\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
       "query": "path:Allgemeinwissen  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 16739179
       }
     },
     {
       "query": "path:Personal  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 16711680
       }
     },
     {
@@ -159,13 +145,6 @@
       "color": {
         "a": 1,
         "rgb": 2031360
-      }
-    },
-    {
-      "query": "path:Attachments  ",
-      "color": {
-        "a": 1,
-        "rgb": 7566195
       }
     }
   ],
@@ -175,10 +154,10 @@
   "nodeSizeMultiplier": 1.325,
   "lineSizeMultiplier": 1.7078125,
   "collapse-forces": false,
-  "centerStrength": 0.229166666666667,
-  "repelStrength": 10.3125,
+  "centerStrength": 0.338541666666667,
+  "repelStrength": 15.8333333333333,
   "linkStrength": 0.807291666666667,
   "linkDistance": 412,
-  "scale": 0.16339309614475225,
+  "scale": 0.0831281796852373,
   "close": false
 }

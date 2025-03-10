@@ -26,4 +26,3 @@
 
 >[!Note]
 >Negation of "Each prime is odd" is "There exists an even prime"
-
