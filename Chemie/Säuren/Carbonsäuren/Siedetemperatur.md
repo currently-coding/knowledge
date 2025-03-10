@@ -1,1 +1,2 @@
-- höher als der vergleichbare Alkohol
+Carbonsäuren haben höhere Siedetemperaturen als primäre Alkohole,
+da  die Carbonsäure aufgrund der Carboxygruppe staerker polarisiert
