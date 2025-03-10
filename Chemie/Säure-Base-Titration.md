@@ -36,6 +36,7 @@ $c(H_3Cit)=\frac{1}{3}\cdot \frac{7,7mL \cdot 1,0 \frac{mol}{L}}{20mL}=$...
 
 
 ## Flashcards
+
 Erläutere die Schritte einer Säure-Base-Titration.
 ?
 1. basische Lösung bekannten Volumens und Konzentration vorbereiten
