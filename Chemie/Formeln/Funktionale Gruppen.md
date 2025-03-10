@@ -10,9 +10,10 @@ $COOH$ ::: Carboxy-gruppe
 
 ![[Pasted image 20250121154009.png]] ::: Ether (unpolar)
 <!--SR:!2025-01-24,3,250!2000-01-01,1,250-->
+## Carboxy
 ![[Pasted image 20250121154056.png]] ::: Carboxy (saure Reaktion)
 <!--SR:!2025-01-25,4,270!2000-01-01,1,250-->
-## Ep
+## Ester
 ![[Pasted image 20250121154124.png]] ::: Ester (kann in Alkohol und Säure gespalten werden)
 <!--SR:!2025-01-25,4,270!2000-01-01,1,250-->
 ## Carbonyl/Keton
