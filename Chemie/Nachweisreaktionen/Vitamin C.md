@@ -1,8 +1,8 @@
-## V: Vitamin-C Lösung wird zu blauer Iodstaerkeloesung gegeben
+#### V: Vitamin-C Lösung wird zu blauer Iodstaerkeloesung gegeben
 
-## B: Entfärbung
+#### B: Entfärbung
 
-## D: Redoxreaktion
+#### D: Redoxreaktion
 
 $$
 Re: I_2 + 2e^- \rightarrow 2I^-
