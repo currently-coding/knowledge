@@ -1,5 +1,5 @@
 ```smiles
-O=C(OH)
+O=C(O)
 ```
 
 
