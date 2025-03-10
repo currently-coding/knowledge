@@ -2,7 +2,6 @@
 ## Einflussfaktoren der Stärke der WW
 - Zahl der Elektronenpaarbindungen im Molekül
 ![[Untitled-1 3.jpg]]
-- Größe Moleküloberfläche
 - Größe der Atomhülle der verbauten Atome im Molekül
 - Größe des Atoms
 	-> linearer Anstieg der Siedetemperaturen der [[Halogene]]
