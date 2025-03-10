@@ -1,0 +1,1 @@
+Elemente der 1. Hauptgruppe

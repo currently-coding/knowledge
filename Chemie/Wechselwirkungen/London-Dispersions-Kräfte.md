@@ -1,5 +1,9 @@
 - wirken zwischen allen Molekülen
-## Einflussfaktoren auf die Staerke der WW
+## Einflussfaktoren der Stärke der WW
+- Zahl der Elektronenpaarbindungen im Molekül
+- Größe der Atomhülle der verbauten Atome im Molekül
+	-> linearer Anstieg der Siedetemperaturen der [[Halogene]]
+- Moleküloberfläche
 
 ## Entstehung
 ![[Untitled-1.jpg]]
