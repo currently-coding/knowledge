@@ -1,1 +1,1 @@
-Elemente der 18. Hauptgruppe
+Elemente der 17. Hauptgruppe
