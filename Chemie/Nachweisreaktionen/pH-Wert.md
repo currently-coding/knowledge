@@ -8,9 +8,7 @@ aliases:
 <!--SR:!2025-09-06,203,310-->
 -> $pH=7$ => $c(H_3O^+)=10^{-7}\frac{mol}{l}$
 
-## in wässrigen Lösungen
+in wässrigen Lösungen ist die Konzentration immer ausgeglichen:
 $$
 c(H_3O^+)=c(OH^-)
 $$
-=> $pH + pOH = 14$
--> $pOH=1$ => $pH=13$
