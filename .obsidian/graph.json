@@ -8,86 +8,184 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Allgemeinwissen  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "path:Attachments  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 0
       }
     },
     {
       "query": "path:Biologie  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 0
       }
     },
     {
       "query": "path:BWINF  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 0
       }
     },
     {
       "query": "path:Chemie  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"Computer Science\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
+        "rgb": 0
       }
     },
     {
       "query": "path:\"Computer Science/C\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 0
       }
     },
     {
       "query": "path:\"Computer Science/C++\"  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 0
       }
     },
     {
       "query": "path:\"Computer Science/Hacking\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 0
       }
     },
     {
-      "query": "path:\"Computer Science/Kommunikationssysteme\"  ",
+      "query": "path:Deutsch  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Englisch  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Ethik  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Geographie  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Geschichte  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Jugend Debattiert\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Latein  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Mathematik  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Musik  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Physik  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Politik & Gesellschaft\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Wirtschaft  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Wissenschaftswoche Chemie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Allgemeinwissen  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Theoretische Informatik\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.35052083333333,
-  "lineSizeMultiplier": 1.35052083333333,
+  "nodeSizeMultiplier": 1.325,
+  "lineSizeMultiplier": 1.7078125,
   "collapse-forces": false,
-  "centerStrength": 0.505208333333333,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.3211582879458785,
+  "centerStrength": 0.229166666666667,
+  "repelStrength": 10.3125,
+  "linkStrength": 0.807291666666667,
+  "linkDistance": 412,
+  "scale": 0.1165442862419612,
   "close": false
 }
