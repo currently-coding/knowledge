@@ -1,3 +1,4 @@
+verbatim
 foundational idea  
 discrepancy  
 inconsistency  
