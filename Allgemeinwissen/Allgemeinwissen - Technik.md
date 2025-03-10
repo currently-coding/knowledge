@@ -27,10 +27,10 @@ Bitcoin and Blockchain := 2009  - The first decenttralized cryptocurrency, Bitco
 <!--SR:!2025-04-14,35,292-->
 First commercially available computer :=UNIVAC I - 1951
 First OS := 1961 - IBMs OS/360 standardized the concept of an OS -> introduced multitasking and process management
-<!--SR:!2025-02-16,1,209-->
+<!--SR:!2025-03-13,3,229-->
 Moore's Law := 1965  - number of transistors/chip double every ~2 years
 First commercially available microprocessor := Intel 4004 Microprocessor - 1971
-<!--SR:!2025-02-03,1,203-->
+<!--SR:!2025-03-11,1,183-->
 First PCs := 1970s and 1980s - Apple's Apple II(1997) and IBM's PC(1981) introduced affordable, personal computing to the public
 <!--SR:!2024-11-03,1,232-->
 Open-Source Software Movement := 1985 - Richard Stallman launched the *Free Software Foundation* promoting software freedom -> lead to projects like Linux(1991)
