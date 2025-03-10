@@ -1325,12 +1325,21 @@ hypocrisy(noun) () ::: Heuchelei, Scheinheiligkeit, Verlogenheit
 <!--SR:!2025-03-11,1,365!2000-01-01,1,210-->
 timid(adjective) (As a child, I was rather timid., Deer are timid, skittish animals., These rabbits are very timid, be careful not to scare them.) ::: zaghaft, schüchtern, ängstlich
 <!--SR:!2025-03-14,4,405!2000-01-01,1,210-->
-irritable(adjective) (He was always irritable when he was a smoker.) ::: reizbar, gereizt, nervös 
-sluggish(adjective) (I am feeling too sluggish to get out of bed., The old train moves at a sluggish pace., He felt sluggish after the big meal., I am feeling tired and sluggish today.) ::: träge, schleppend, schwerfällig 
-careless(adjective) (The driver was careless and caused an accident., It was careless of us not to ask the owner first.) ::: unvorsichtig, leichtsinnig, fahrlässig 
-to care(verb) (My sister cares for our cat when we are on holiday.) ::: sorgen, behüten 
-quixotic(adjective) () ::: weltfremd, fantastisch, phantastisch 
-redundancy(noun) (The new management has announced redundancies., The workers in our company are not threatened by redundancy.) ::: Redundanz, Entlassung, Arbeitslosigkeit 
-duplication(noun) (Duplication of the document requires our consent.) ::: Vervielfältigung, Doppelung, Duplizierung 
-premise(noun) () ::: Prämisse, Voraussetzung, Lokal 
-assumption(noun) (His assumption was right and he won the bet., A newspaper article has to be based on facts, not assumptions., The results confirm the validity of the assumption., I demonstrated that my initial assumption was correct., The assumption of leadership duties was important to him., The theory is based on simple assumptions.) ::: Annahme, Übernahme, Voraussetzung 
+irritable(adjective) (He was always irritable when he was a smoker.) ::: reizbar, gereizt, nervös
+<!--SR:!2025-03-11,1,365!2000-01-01,1,210-->
+sluggish(adjective) (I am feeling too sluggish to get out of bed., The old train moves at a sluggish pace., He felt sluggish after the big meal., I am feeling tired and sluggish today.) ::: träge, schleppend, schwerfällig
+<!--SR:!2025-03-11,1,365!2000-01-01,1,210-->
+careless(adjective) (The driver was careless and caused an accident., It was careless of us not to ask the owner first.) ::: unvorsichtig, leichtsinnig, fahrlässig
+<!--SR:!2025-03-11,1,365!2000-01-01,1,210-->
+to care(verb) (My sister cares for our cat when we are on holiday.) ::: sorgen, behüten
+<!--SR:!2025-03-14,4,405!2000-01-01,1,210-->
+quixotic(adjective) () ::: weltfremd, fantastisch, absurd. (Having ideas that show imagination but are rarely practical)
+<!--SR:!2025-03-14,4,385!2000-01-01,1,210-->
+redundancy(noun) (The new management has announced redundancies., The workers in our company are not threatened by redundancy.) ::: Redundanz, Entlassung, Arbeitslosigkeit
+<!--SR:!2025-03-14,4,405!2000-01-01,1,210-->
+duplication(noun) (Duplication of the document requires our consent.) ::: Vervielfältigung, Doppelung, Duplizierung
+<!--SR:!2025-03-14,4,405!2000-01-01,1,210-->
+premise(noun) () ::: Prämisse, Voraussetzung, Lokal
+<!--SR:!2025-03-14,4,405!2000-01-01,1,210-->
+assumption(noun) (His assumption was right and he won the bet., A newspaper article has to be based on facts, not assumptions., The results confirm the validity of the assumption., I demonstrated that my initial assumption was correct., The assumption of leadership duties was important to him., The theory is based on simple assumptions.) ::: Annahme, Übernahme, Voraussetzung
+<!--SR:!2025-03-14,4,405!2000-01-01,1,210-->
