@@ -315,7 +315,7 @@ to call attention(verb) () ::: aufmerksam machen
 to call attention to(verb) (The speaker wants to call attention to the sensitive issue.) ::: aufmerksam machen auf
 <!--SR:!2026-05-11,470,401!2026-07-20,529,399-->
 interpretation(noun) (This is clearly the only feasible interpretation.) ::: Auslegung, Interpretation, Deutung
-<!--SR:!2025-03-07,125,388!2025-11-16,324,381-->
+<!--SR:!2026-09-22,561,408!2025-11-16,324,381-->
 to interpret(verb) (Every critic interpreted the play differently., I am not sure how to interpret his silence., They interpreted the speech into other European languages., I was not sure how to interpret his statement.) ::: interpretieren, auslegen, dolmetschen
 <!--SR:!2026-06-26,510,399!2026-06-05,495,405-->
 <!--SR:!2024-10-20,14,345!2024-10-22,18,361-->
@@ -340,7 +340,7 @@ consistently(adverb) (The scientist consistently pursues his goal., The product 
 consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
 <!--SR:!2025-05-24,175,365!2025-12-21,351,379-->
 thrilled(adjective) (He was thrilled with the singer's voice.) ::: bezaubert, hocherfreut, freudig erregt
-<!--SR:!2025-03-10,100,347!2025-07-12,219,359-->
+<!--SR:!2026-02-20,347,347!2025-07-12,219,359-->
 to thrill(verb) (The audience was thrilled by the dance performance.) ::: erfreuen, fesseln, begeistern
 <!--SR:!2025-08-07,223,367!2025-11-22,322,359-->
 harbour(noun) (The boat entered the harbour.) ::: Hafen, Zufluchtsort, Unterschlupf
@@ -370,7 +370,7 @@ to enhance(verb) (The application can enhance the image quality., The agreement 
 radiation(noun) (There is no radiation leaking from the reactor., The decay of atoms causes radiation.) ::: Strahlung, Ausstrahlung, Bestrahlung
 <!--SR:!2026-04-15,444,405!2026-08-24,557,408-->
 to radiate(verb) (Accelerated electrons radiate electromagnetic energy., The sun radiates light and heat.) ::: ausstrahlen, strahlen, abstrahlen
-<!--SR:!2026-07-26,536,409!2025-03-08,106,347-->
+<!--SR:!2026-07-26,536,409!2026-05-15,431,367-->
 sigh(noun) () ::: Seufzer, Seufzen
 <!--SR:!2026-05-10,469,405!2026-11-21,630,407-->
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
@@ -382,7 +382,7 @@ restoration(noun) (The restoration of the old church took many years., Her job i
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
 <!--SR:!2025-06-04,193,369!2025-05-31,182,365-->
 to embrace(verb) (I embraced my friend before she got on the train., The book embraces a wide range of topics., Couples usually learn to embrace their differences.) ::: umarmen, umfassen, annehmen
-<!--SR:!2025-03-03,100,348!2026-06-29,513,407-->
+<!--SR:!2026-04-19,405,368!2026-06-29,513,407-->
 embrace(noun) (He welcomed his sister with a warm embrace.) ::: Umarmung, Umklammerung, Umfassung
 <!--SR:!2026-10-27,608,407!2026-08-10,548,405-->
 specimen(noun) (The doctor asked for a specimen., This butterfly is an especially large specimen of its species.) ::: Probe, Exemplar, Prüfling
@@ -400,7 +400,7 @@ one-to-one tuition(noun) () ::: Einzelunterricht
 moreover(adverb) (Apples are delicious and, moreover, great for your health.) ::: außerdem, darüber hinaus, ferner
 <!--SR:!2025-12-23,353,388!2025-08-16,232,365-->
 ray(noun) () ::: Strahl, Lichtstrahl, Rochen
-<!--SR:!2025-03-05,123,389!2026-03-19,417,387-->
+<!--SR:!2026-09-13,552,409!2026-03-19,417,387-->
 to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
 <!--SR:!2024-12-20,59,369!2025-01-26,90,367-->
 to address(verb) (She addressed the letter to her son., The manager addressed the topic of the new advertising campaign., We will convene a special meeting to address the issue.) ::: adressieren, ansprechen
@@ -408,15 +408,13 @@ to address(verb) (She addressed the letter to her son., The manager addressed th
 to address oneself to(verb) () ::: sich etw. widmen
 <!--SR:!2026-03-26,424,388!2025-12-09,336,365-->
 to consult(verb) (If the symptoms persist, consult your doctor., I will consult my lawyer before I sign the contract., He consulted the management board before signing the contract., I consult a dictionary if I do not know a word.) ::: konsultieren, befragen, hinzuziehen
-<!--SR:!2025-03-06,124,387!2026-06-04,494,405-->
+<!--SR:!2026-09-16,555,407!2026-06-04,494,405-->
 consult(noun) () ::: Befragung
 <!--SR:!2026-01-24,345,369!2026-01-14,355,365-->
 diverse(adjective) (The artist used diverse materials for his sculptures., The menu of the new restaurant is very diverse., Wildlife in tropical rainforests is stunningly diverse.) ::: verschieden, vielfältig, unterschiedlich
 <!--SR:!2026-10-30,611,409!2025-04-23,165,387-->
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
 <!--SR:!2026-04-28,429,367!2025-10-10,293,388-->
-ritual(noun) (The ritual was accompanied by the scent of incense.) ::: Ritual, Ritus, Kult
-<!--SR:!2025-03-07,125,387!2026-09-05,569,409-->
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
 <!--SR:!2025-03-29,135,387!2025-05-03,162,389-->
 home(adjective) () ::: einheimisch, inländisch
@@ -460,7 +458,7 @@ exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat
 excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich
 <!--SR:!2025-05-18,154,423!2026-07-04,505,401-->
 to excruciate(verb) () ::: quälen
-<!--SR:!2025-03-03,101,402!2025-03-05,119,401-->
+<!--SR:!2025-05-01,52,382!2025-03-05,119,401-->
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
 <!--SR:!2025-03-14,120,405!2026-03-05,391,381-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
@@ -544,7 +542,7 @@ regardless(adjective) () ::: ungeachtet, trotzdem
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen
 <!--SR:!2024-11-07,5,382!2024-12-23,31,402-->
 prospective(adjective) (The local industry is ready for prospective challenges., The local industry is prepared for prospective challenges., We are well prepared for prospective challenges., We are going to meet a prospective business partner.) ::: künftig, prospektiv, voraussichtlich
-<!--SR:!2025-04-30,151,415!2025-03-10,107,395-->
+<!--SR:!2025-04-30,151,415!2026-07-09,486,415-->
 comparable(adjective) (We can offer a comparable alternative.) ::: vergleichbar
 <!--SR:!2025-05-23,169,412!2025-05-22,164,423-->
 random(adjective) (I had a random encounter with an old friend today., The selection of participants is completely random., The collage shows a random selection of photos., The magician called a random spectator to the stage.) ::: zufällig, willkürlich, stichprobenartig
@@ -576,7 +574,7 @@ mechanical(adjective) (For precision work, suitable mechanical instruments are n
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
 <!--SR:!2026-06-29,491,415!2025-05-09,159,417-->
 to puzzle(verb) (The research results puzzled the scientists., My colleague's statement puzzled me., The results of the experiment puzzled me.) ::: verwirren, stutzig machen, verblüffen
-<!--SR:!2025-06-28,125,377!2025-03-06,69,362-->
+<!--SR:!2025-06-28,125,377!2025-12-25,290,382-->
 trigger(noun) (A lack of sleep is a common trigger for headaches., The salesman showed us how to pull the trigger of the pistol.) ::: Trigger, Auslöser, Abzug
 <!--SR:!2025-05-25,161,421!2025-05-24,148,423-->
 to trigger(verb) (Viruses can trigger diseases., Vivid memories can trigger strong emotions., The memories triggered positive emotions., Pushing this button triggers the alarm., He tried not to trigger an argument with his words.) ::: auslösen, erzeugen, hervorrufen
@@ -610,7 +608,7 @@ relevance(noun) (I could not see the relevance of his argument., The solution of
 obstacle(noun) (We can overcome any obstacle if we do not give up., Obstacles on the track can cause an obstruction., They have successfully overcome the last obstacle., If she wants to attend the class, the cost should not be an obstacle.) ::: Hindernis, Hürde, Hinderungsgrund
 <!--SR:!2024-12-22,30,402!2024-11-20,18,373-->
 ruling(noun) (The judge announced that she will issue a ruling tomorrow., The ruling applied to all companies, whether large or small.) ::: Entscheidung, Urteil, Regelung
-<!--SR:!2025-03-13,110,395!2025-03-03,84,403-->
+<!--SR:!2025-03-13,110,395!2026-04-05,391,423-->
 ruling(adjective) (The ruling party won the election again.) ::: regierend, herrschend, beherrschend
 <!--SR:!2025-05-29,175,412!2025-05-23,147,422-->
 illusion(noun) (The magician was a master of deception and illusion.) ::: Illusion, Täuschung, Wahn
@@ -662,13 +660,13 @@ to classify(verb) (An independent institute classified our products as harmless.
 fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur
 <!--SR:!2025-04-28,149,411!2026-03-11,388,415-->
 ratio(noun) (For the dressing, I mix oil and vinegar at a ratio of three to one., The ratio of renewable energy sources is constantly growing., The ratio with this bet is one to five., The statistician calculated the demographic ratios.) ::: Verhältnis, Anteil, Quote
-<!--SR:!2025-04-05,130,417!2025-03-08,89,382-->
+<!--SR:!2025-04-05,130,417!2026-04-08,394,402-->
 to weave(verb) (I wove the carpet myself., I am weaving a small carpet out of old remnants.) ::: weben, flechten, verweben
 <!--SR:!2024-11-08,6,382!2024-12-22,30,403-->
 to elevate(verb) (The queen promised to elevate me to knighthood.) ::: hochheben, erheben, erhöhen
 <!--SR:!2024-12-19,27,402!2024-11-15,1,318-->
 worthy(adjective) (He showed himself worthy of my trust.) ::: würdig, wert, angemessen
-<!--SR:!2026-02-03,361,403!2025-03-04,98,397-->
+<!--SR:!2026-02-03,361,403!2026-06-03,450,417-->
 worth(adjective) (My grandmother's earrings are worth a lot of money., The actor's estate is worth two million dollars.) ::: wert
 <!--SR:!2024-11-26,24,396!2025-04-15,136,417-->
 provision(noun) (Members have to conform to the provisions., The new provision shall henceforth apply to all members.) ::: Bestimmung, Regelung, Bereitstellung
@@ -704,7 +702,7 @@ reasonable(adjective) (The food was delicious and the prices were reasonable., I
 analogously(adverb) () ::: analog, sinngemäß
 <!--SR:!2025-03-27,122,417!2025-05-12,161,415-->
 succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge
-<!--SR:!2025-06-02,146,422!2025-03-06,90,397-->
+<!--SR:!2025-06-02,146,422!2026-04-27,413,417-->
 to elbow(verb) (He elbowed his way through the crowd.) ::: drängen
 <!--SR:!2025-04-22,138,422!2025-07-16,190,422-->
 ownership(noun) (After payment, ownership passes on to the buyer., The city took ownership of the land.) ::: Eigentum, Besitz, Eigentumsrecht
@@ -825,7 +823,7 @@ refusal(noun) (Our proposal was met with a flat refusal., His refusal to accept 
 stability(noun) (Large ships have tanks for ballast to improve stability.) ::: Stabilität, Beständigkeit, Standsicherheit
 <!--SR:!2025-07-03,177,424!2024-12-16,30,403-->
 stable(adjective) (Prices are stable and not constantly changing., This year, the company's net sales remained stable., The new base of the lamp is very stable., Rather than a temporary contract, I would like a stable job., Wine must be stored at a stable temperature., Despite its dilapidated look, the bridge is very stable., My internet connection is fast and stable.) ::: stabil, standfest, fest
-<!--SR:!2025-03-09,94,403!2025-05-16,129,406-->
+<!--SR:!2026-05-21,437,423!2025-05-16,129,406-->
 founder(noun) (The founder of the company still runs it today.) ::: Gründer, Gründerin, Stifter
 <!--SR:!2024-12-14,5,394!2000-01-01,1,250-->
 to founder(verb) (The project must not founder.) ::: scheitern, fehlschlagen, sinken
@@ -1164,7 +1162,7 @@ formerly(adverb) (The singer was formerly known under a different name.) ::: vor
 <!--SR:!2000-01-01,1,250!2025-03-14,27,422-->
 former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige
 succinct(adjective) (His answer was succinct because he was in a hurry., My brother always gives very short and succinct answers to questions.) ::: knapp, kurz, prägnant
-<!--SR:!2025-03-04,5,384!2025-03-03,5,404-->
+<!--SR:!2025-03-13,3,364!2025-03-03,5,404-->
 expediency(noun) () ::: Zweckmäßigkeit, Zweckdienlichkeit, Opportunität
 <!--SR:!2025-02-27,1,364!2000-01-01,1,250-->
 expedient(adjective) (The measure is expedient and desirable., In each case, he finds the most expedient solution.) ::: zweckmäßig, sinnvoll, zielführend
@@ -1317,11 +1315,16 @@ to avert(verb) (He successfully averted a catastrophe., The pilot landed the pla
 <!--SR:!2025-03-06,4,404!2000-01-01,1,210-->
 egregious(adjective) () ::: ungeheuerlich, ungeheuer, unerhört
 <!--SR:!2025-03-03,1,364!2000-01-01,1,210-->
-astutely(adverb) () ::: schlau, klug, scharfsinnig 
-astute(adjective) (The child is very clever and astute., She is really clever and makes astute remarks., His students' astute observations pleased him.) ::: geschickt, klug, scharfsinnig 
-deceitful(adjective) (He did not trust her because he knew she was deceitful.) ::: arglistig, betrügerisch, verlogen 
-hypocrisy(noun) () ::: Heuchelei, Scheinheiligkeit, Verlogenheit 
-timid(adjective) (As a child, I was rather timid., Deer are timid, skittish animals., These rabbits are very timid, be careful not to scare them.) ::: zaghaft, schüchtern, ängstlich 
+astutely(adverb) () ::: schlau, klug, scharfsinnig
+<!--SR:!2025-03-11,1,365!2000-01-01,1,210-->
+astute(adjective) (The child is very clever and astute., She is really clever and makes astute remarks., His students' astute observations pleased him.) ::: geschickt, klug, scharfsinnig
+<!--SR:!2025-03-14,4,385!2000-01-01,1,210-->
+deceitful(adjective) (He did not trust her because he knew she was deceitful.) ::: arglistig, betrügerisch, verlogen
+<!--SR:!2025-03-11,1,365!2000-01-01,1,210-->
+hypocrisy(noun) () ::: Heuchelei, Scheinheiligkeit, Verlogenheit
+<!--SR:!2025-03-11,1,365!2000-01-01,1,210-->
+timid(adjective) (As a child, I was rather timid., Deer are timid, skittish animals., These rabbits are very timid, be careful not to scare them.) ::: zaghaft, schüchtern, ängstlich
+<!--SR:!2025-03-14,4,405!2000-01-01,1,210-->
 irritable(adjective) (He was always irritable when he was a smoker.) ::: reizbar, gereizt, nervös 
 sluggish(adjective) (I am feeling too sluggish to get out of bed., The old train moves at a sluggish pace., He felt sluggish after the big meal., I am feeling tired and sluggish today.) ::: träge, schleppend, schwerfällig 
 careless(adjective) (The driver was careless and caused an accident., It was careless of us not to ask the owner first.) ::: unvorsichtig, leichtsinnig, fahrlässig 
