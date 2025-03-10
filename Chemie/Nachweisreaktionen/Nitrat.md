@@ -1,8 +1,4 @@
----
-tags:
-  - chemie
-aliases:
----
+# []
 - Zugabe von Farbstoff
 $$
 \text{Red: }NO_3^- + 2e^- \rightarrow NO_2^- + 3H_2O

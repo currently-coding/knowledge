@@ -1,3 +1,4 @@
+# [[Nachweis]] von Aldehyden oder Ketonen:
 - unterscheidet nicht zwischen Keton oder Aldehyd
 - kann in Kombination mit [[Aldehyd|Aldehydnachweis]] auch Ketone nachweisen
 Reagenz: *DNPH(Dinitrophenylhydrazin)*
