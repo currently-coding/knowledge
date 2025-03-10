@@ -36,16 +36,15 @@ $c(H_3Cit)=\frac{1}{3}\cdot \frac{7,7mL \cdot 1,0 \frac{mol}{L}}{20mL}=$...
 
 
 ## Flashcards
-Erläutere die Schritte einer Säure-Base-Titration. ?
+Erläutere die Schritte einer Säure-Base-Titration.
+?
 1. basische Lösung bekannten Volumens und Konzentration vorbereiten
 2. abgemessene Menge(Volumen) der zu bestimmenden Lösung vorbereiten
 3. Nach und nach basische Lösung zu saurer hinzutropfen und auf Farbumschlag warten
 4. Zugetropftes Volumen notieren
 5. Konzentration der Säurelösung berechnen
 
-Erkläre die Berechnung der Konzentration der Säurelösung bei gegebenen Daten: ${} V(\text{{Baseloesung}}), V(\text{Säurelösung}), c(\text{Baseloesung})$, Reaktionsgleichung. ?
+Erkläre die Berechnung der Konzentration der Säurelösung bei gegebenen Daten: ${} V(\text{{Baseloesung}}), V(\text{Säurelösung}), c(\text{Baseloesung})$, Reaktionsgleichung.
+?
 1. Stoffmengenverhältnis aus der Reaktionsgleichung bestimmen
 2. $$c(Säurelösung)=\frac{n(Säurelösung)}{V(Säurelösung)} =\frac{a \cdot n(Base)}{V(Säurelösung)} = \frac{{a \cdot c(Base) \cdot v(Base)}}{V(Säurelösung)}$$
-
-
-
