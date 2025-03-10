@@ -1,3 +1,3 @@
 ```smiles
-O=C(O)
+O=C(O)[R]
 ```
