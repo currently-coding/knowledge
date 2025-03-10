@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path:Biologie  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
       "query": "path:BWINF  ",
       "color": {
         "a": 1,
@@ -29,10 +22,10 @@
       }
     },
     {
-      "query": "path:Chemie  ",
+      "query": "path:Chemie",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 6422466
       }
     },
     {
@@ -67,7 +60,7 @@
       "query": "path:Englisch  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 12735231
       }
     },
     {
@@ -81,7 +74,7 @@
       "query": "path:Geographie  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 5141536
       }
     },
     {
@@ -102,28 +95,28 @@
       "query": "path:Latein  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 4148934
       }
     },
     {
       "query": "path:Mathematik  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 10920
       }
     },
     {
       "query": "path:Musik  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 5361080
       }
     },
     {
       "query": "path:Physik  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 13137046
       }
     },
     {
@@ -137,14 +130,14 @@
       "query": "path:\"Politik & Gesellschaft\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 13537595
       }
     },
     {
       "query": "path:Wirtschaft  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 9258277
       }
     },
     {
