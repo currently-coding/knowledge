@@ -1,3 +1,2 @@
-
-Reagenz | *Cer(IV)-ammoniumnitrat*
-Farbveränderung | gelb -> rot
+Reagenz: *Cer(IV)-ammoniumnitrat*
+Farbveränderung: gelb -> rot
