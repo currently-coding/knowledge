@@ -10,7 +10,7 @@
     "Font",
     "Print"
   ],
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Cascadia Code",
   "textFontFamily": "Cascadia Code",
   "showRibbon": true
 }
