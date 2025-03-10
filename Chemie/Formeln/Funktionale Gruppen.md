@@ -3,11 +3,7 @@ tags:
   - chemie
 aliases:
 ---
-$CO$ ::: Carbonyl-gruppe
-<!--SR:!2025-01-25,4,270!2000-01-01,1,250-->
-$COOH$ ::: Carboxy-gruppe
-<!--SR:!2025-01-25,4,270!2000-01-01,1,250-->
-
+## Ether
 ![[Pasted image 20250121154009.png]] ::: Ether (unpolar)
 <!--SR:!2025-01-24,3,250!2000-01-01,1,250-->
 ## Carboxy
