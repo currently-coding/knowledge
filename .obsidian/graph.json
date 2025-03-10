@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -32,7 +32,7 @@
       "query": "path:\"Computer Science/C\" ",
       "color": {
         "a": 1,
-        "rgb": 16711854
+        "rgb": 43775
       }
     },
     {
@@ -106,7 +106,7 @@
       }
     },
     {
-      "query": "path:Physik  ",
+      "query": "path:Physik",
       "color": {
         "a": 1,
         "rgb": 13137046
@@ -144,20 +144,20 @@
       "query": "path:\"Computer Science/Theoretische Informatik\"  ",
       "color": {
         "a": 1,
-        "rgb": 2031360
+        "rgb": 6160199
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.325,
   "lineSizeMultiplier": 1.7078125,
   "collapse-forces": false,
-  "centerStrength": 0.338541666666667,
-  "repelStrength": 15.8333333333333,
+  "centerStrength": 0.515625,
+  "repelStrength": 18.9583333333333,
   "linkStrength": 0.807291666666667,
   "linkDistance": 412,
-  "scale": 0.0831281796852373,
+  "scale": 0.11654428624196161,
   "close": false
 }
