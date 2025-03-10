@@ -11,9 +11,7 @@ links:
 ![[Pasted image 20240503121351.png]]
 All in STL: `std`
 - `cout` Standardausgabe(*gepuffert* -> evtl. keine Ausgabe bei Crash nach Befehl)
-<!--SR:!2024-08-21,4,272-->
 - `cerr` Standardfehlerausgabe(*ungepuffert* -> direkte Ausgabe)
-<!--SR:!2024-08-21,4,272-->
 - `clog` Standardfehlerausgabe(*gepuffert*)
 - `flush` leert *Puffer* und schreibt Ausgabe
 - `endl` newline + `flush`
@@ -41,8 +39,6 @@ All in STL: `std`
 ![[Pasted image 20240503123753.png]]
 - - -
 - `noskipws` -> Whitespace als input
-<!--SR:!2024-08-21,4,272-->
 # Code Beispiele/Aufgaben
 ![[Pasted image 20240503121845.png]]
 ![[Pasted image 20240503121657.png]]
-# Flashcards

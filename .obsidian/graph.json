@@ -29,31 +29,24 @@
       }
     },
     {
-      "query": "path:\"Computer Science/C\"  ",
+      "query": "path:\"Computer Science/C\" ",
       "color": {
         "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:\"Computer Science/C++\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
+        "rgb": 16711854
       }
     },
     {
       "query": "path:\"Computer Science/Hacking\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 14606046
       }
     },
     {
       "query": "path:Deutsch  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 3510907
       }
     },
     {
@@ -67,7 +60,7 @@
       "query": "path:Ethik  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 9213504
       }
     },
     {
@@ -81,14 +74,14 @@
       "query": "path:Geschichte  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 9464861
       }
     },
     {
       "query": "path:\"Jugend Debattiert\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 9705753
       }
     },
     {
@@ -165,7 +158,14 @@
       "query": "path:\"Computer Science/Theoretische Informatik\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 2031360
+      }
+    },
+    {
+      "query": "path:Attachments  ",
+      "color": {
+        "a": 1,
+        "rgb": 7566195
       }
     }
   ],
@@ -179,6 +179,6 @@
   "repelStrength": 10.3125,
   "linkStrength": 0.807291666666667,
   "linkDistance": 412,
-  "scale": 0.1165442862419612,
+  "scale": 0.16339309614475225,
   "close": false
 }
