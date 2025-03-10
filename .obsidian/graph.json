@@ -8,157 +8,73 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:Allgemeinwissen  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Attachments  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Biologie  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:BWINF  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
       "query": "path:Chemie  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Deutsch  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Englisch  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:Ethik  ",
-      "color": {
-        "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:Excalidraw  ",
+      "query": "path:\"Computer Science\"  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "path:Geographie  ",
+      "query": "path:\"Computer Science/C\"  ",
       "color": {
         "a": 1,
         "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:Geschichte  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "path:Images  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395026
-      }
-    },
-    {
-      "query": "path:Latein  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Mathematik  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Musik  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:PDFs  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:Physik  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:\"Politik & Gesellschaft\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:Settings  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:Vim  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395121
-      }
-    },
-    {
-      "query": "path:Wirtschaft  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "path:scripts  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395026
-      }
-    },
-    {
-      "query": "path:\"Computer Science/Theoretische Informatik\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:\"Computer Science/C++\" path:\"Computer Science/C\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 64511
       }
     },
     {
       "query": "path:\"Computer Science/C++\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Hacking\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     },
     {
       "query": "path:\"Computer Science/Kommunikationssysteme\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395026
+        "rgb": 14701138
       }
     }
   ],
@@ -172,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4502584271791735,
+  "scale": 0.3211582879458785,
   "close": false
 }
