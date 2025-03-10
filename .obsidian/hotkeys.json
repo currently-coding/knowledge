@@ -1,12 +1,4 @@
 {
-  "graph:open-local": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "G"
-    }
-  ],
   "file-explorer:new-file": [],
   "templater-obsidian:create-new-note-from-template": [
     {
@@ -229,6 +221,22 @@
         "Mod"
       ],
       "key": "L"
+    }
+  ],
+  "graph:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
     }
   ]
 }
