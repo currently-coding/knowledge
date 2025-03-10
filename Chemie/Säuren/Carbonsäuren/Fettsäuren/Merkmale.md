@@ -1,2 +1,3 @@
 1. gerade Anzahl an Kohlenstoffatomen
-2. genau 1 [[Carboxygruppe]]
+	- min. 2 -> max. 24
+2. genau 1 Carboxygruppe
