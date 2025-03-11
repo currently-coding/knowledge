@@ -233,3 +233,38 @@ Das Rechtssprichwort „Iudex non calculat“ (“der Richter rechnet nicht”) 
 Im juristischen Teil lernen Teilnehmende, Gesetze zu verstehen und anzuwenden und auf dieser Grundlage Gutachten zu formulieren – vor allem im Schuldrecht. Im mathematischen Teil modellieren Teilnehmende die rationale Entscheidungsfindung in Spielen – vor allem Spiele, die juristische Sachverhalte abbilden. In Simulationen zum Beispiel von Schadensfällen, Vertragsverhandlungen, Wahlen und Versteigerungen suchen Teilnehmende die jeweils optimalen Handlungsformen und prüfen, inwieweit Ansprüche bestehen. Gemeinsam bereiten sich Teilnehmende auf diese Simulationen mit Hilfe von Arbeitsblättern vor und teilen ihr Verständnis mit anderen in Kurzvorträgen.
 
 Die Kursleiter erwarten keine speziellen mathematischen oder juristischen Vorkenntnisse – sondern nur Neugier, Freude am Knobeln, sowie Spaß und Interesse am Umgang mit deutschsprachigen Texten. Auf individuelle Interessen und Vorlieben gehen die Kursleiter gerne ein, solange ein Grundinteresse an beiden Themengebieten bleibt. Wer programmieren kann oder lernen möchte, wird in diesem Kurs durchaus Anlass dafür finden.
+
+
+
+## Kurs 4.5
+### Was bedeutet es, gebildet zu sein?
+
+Zur Akademie Clemenswerth 2025-4
+17.07. - 02.08.2025
+
+Die SchülerAkademie – zweieinhalb Wochen Lernen – in den Sommerferien, während andere Urlaub machen. Man könnte sich fragen: Wozu das Ganze? Man könnte überhaupt fragen: Wozu lernen? Geht es um das gute Abitur, das gute Studium, die gute Karriere – oder doch um mehr? Was streben wir auf den vielen Bildungswegen, die wir einschlagen, letztlich an?
+
+Dieser Kurs untersucht, was unter jenem „mehr“ zu verstehen sein könnte, welches die Tradition mit dem Begriff „Bildung“ bezeichnet hat. Es geht darum, in der Lektüre von philosophischen Grundlagentexten den großen Fragen zu begegnen, vor die uns der Bildungsbegriff stellt. Was unterscheidet Bildung von Wissen? Wie verändert sich die Sicht auf die Welt, die eigene Kultur und Herkunft und auf sich selbst auf dem Aufstiegsweg der Bildung?
+
+Die Teilnehmenden erlernen im Umgang mit Primärquellen, wie man eine philosophische Theorie entwickelt. Das heißt: Sie verstehen erstens, dass das, was man in der Schule nach dem Muster „Philosoph*in X hat Standpunkt Y zu Z“ kennengelernt, lediglich das Resultat verzweigter Argumentationen ist, die es im Einzelnen nachzuvollziehen gilt. Zweitens übertragen sie diese Lektüreerfahrung auf das eigene Philosophieren und machen nachvollziehbar, durch welche Entscheidungen auf welche Problemstellungen sie zu ihrem eigenen Standpunkt gelangt sind.
+
+In Vorbereitung auf den Kurs lesen die Teilnehmenden eigenständig den Textapparat und erstellen in Gruppenarbeit ein kurzes Impulsreferat. Während des Kurses besteht die Gelegenheit, die Texte eigenständig zu vertiefen und in Kleingruppen zu besprechen, um sie schließlich in einer für das Philosophiestudium typischen Seminarsituation zu diskutieren.
+
+
+
+## Kurs 2.1
+### Post-Quanten-Kryptografie
+Was schützt unsere digitale Kommunikation der Zukunft?
+
+Zur Akademie Waldenburg 2025-2
+17.07. - 02.08.2025
+
+In der digitalen Welt ist Kryptografie ständig im Einsatz – ob beim sicheren Chatten oder beim Aufruf einer Internetseite. Dabei wird meistens Public-Key-Kryptografie wie das RSA-Verfahren verwendet, die den Aufbau einer sicheren Verbindung über einen unsicheren Kanal ermöglicht. Doch seit den 90er Jahren sind Algorithmen für damals noch theoretische Quantencomputer bekannt, die diese Verfahren brechen können. Daher werden gegenwärtig sogenannte Post-Quanten-Verfahren entwickelt. Das Algorithmen, die auf gängiger Hardware laufen und auch gegen Angriffe durch Quantencomputer resistent sein sollen.
+
+In diesem Kurs erarbeiten die Teilnehmenden Grundlagen der Public-Key-Kryptografie und entwickeln darauf aufbauend ein tiefes Verständnis für mindestens eines der vorgeschlagenen und teilweise bereits standardisierten Post-Quanten-Verfahren.
+
+Dazu lernen die Teilnehmenden zunächst Grundlagen der Kryptografie kennen und vertiefen sie selbstständig mit interessanten Übungsaufgaben. Anschließend erarbeiten sich die Teilnehmenden in Kleingruppen und unterstützt durch die Kursleitenden verschiedene Post-Quanten-Verfahren und stellen sich die Ergebnisse gegenseitig vor. Als Ausblick diskutiert der Kurs die praktischen Herausforderungen beim Einsatz der neuen Algorithmen.
+
+Als Vorbereitung auf den Kurs bearbeiten die Teilnehmenden eine allgemeinverständliche Einführung in das Thema mit zugehörigen Leitfragen sowie ein Kurzskript zu benötigten mathematischen Grundlagen. Da Mathematik eine wichtige Grundlage für Kryptografie ist, sollten die Teilnehmenden Ausdauer und Freude beim Lösen herausfordernder Probleme und Rätsel mitbringen.
+
+Achtung: Bei der Akademie in Waldenburg ist aus organisatorischen Gründen keine vegane Verpflegung möglich. Vegetarische Verpflegung stellt kein Problem dar.
