@@ -303,3 +303,24 @@ Nämlich die Lösung der Frage: Wie ist in verteilten Systemen die Herstellung e
 Wir werden erörtern, inwiefern Bitcoin aus der radikal anarchistischen Cypherpunk-Bewegung der neunziger Jahre in Kalifornien hervorgegangen ist. Da Bitcoin als Geld „gelesen“ werden kann, werden wir studieren, was Geld ist, warum Geld nichts Ontologisches ist, sondern idealerweise über ein glaubwürdiges Knappheitsversprechen verfügt, dass von einer Gemeinschaft genutzt und akzeptiert werden muss.
 
 Achtung: Bei der Akademie in Waldenburg ist aus organisatorischen Gründen keine vegane Verpflegung möglich. Vegetarische Verpflegung stellt kein Problem dar.
+
+
+
+Kurs 2.6
+Auferstanden aus Ruinen?
+Die Deutsche Wochenschau 1940-1963
+
+Zur Akademie Waldenburg 2025-2
+17.07. - 02.08.2025
+
+Kinowochenschauen erklärten seit dem Ersten Weltkrieg den Zuschauern die Welt. Sie waren audiovisuelle Pioniere und wurden mit dem Siegeszug des Kinos nicht nur weithin bekannt, sondern auch einflussreich. Schnell wurden diese gut viertelstündigen Nachrichtenüberblicke, im Lichtspielhaus vor den Hauptfilm geschaltet, daher neben den Zeitungen zur vertrauten und vertrauenswürdigen Informationsquelle. In Deutschland gab es in der Weimarer Republik vier privatwirtschaftlich produzierte konkurrierende Wochenschauen, die auch mit ausländischen Wochenschauen Bildmaterial tauschten.
+
+Zugleich waren nationale Wochenschauen ein gutes Mittel zur (staatlichen) Selbstdarstellung. Das erkannten auch die Nationalsozialisten und verstaatlichten die Wochenschauen. Damit sollte ihr Bild von der Welt – aber eben auch ihr Weltbild – massenwirksam propagiert werden. Mit der Zwangsvereinigung zur Deutschen Wochenschau unter Leitung der staatlichen Filmgesellschaft UFA im Jahre 1940 brach für die Propaganda ein neues Zeitalter an: Der Ausgangspunkt des Kurses ist folglich die Beschreibung der Deutschen Wochenschau im Zweiten Weltkrieg als eindrucksvollstes Medium des nationalsozialistischen Durchhaltewillens.
+
+Besonders interessant ist sodann, dass in allen Besatzungszonen nach Kriegsende die Wochenschau weitergeführt wurde. Einst reichsweit zu Propagandazwecken gleichgeschaltet, wurden die Nachfolger der Deutschen Wochenschau von den Alliierten mit Macht zu Leitmedien der Umerziehung der Deutschen umgebaut. Es soll im Kurs nachgezeichnet werden, wie stark sich die Themenwahl, die Weltanschauungen, aber auch die Freiheitsgrade der staatlichen Nachrichtenredaktionen in Ost und West dabei unterschieden. Unbestritten ist jedoch auch in diesem Zeitraum der Zugriff der Auftraggeber auf die von ihnen kontrollierten Nachrichtenredaktionen und ihr Wille zur gesellschaftlichen Einflussnahme in Deutschland.
+
+Dieser Themenkomplex wird im Kurs an konkreten audiovisuellen Quellenbeispielen erarbeitet, und zwar anhand einer Parallelbetrachtung der Berichterstattung der Neuen Deutschen Wochenschau in der Bundesrepublik und des Augenzeugen in der DDR über wichtige Ereignisse der deutschen Zeitgeschichte: Nürnberger Prozesse (1946); Berlin-Blockade (1948); doppelte Staatsgründung (1949); Aufstand vom 17. Juni (1953); westdeutsche Wiederbewaffnung (1955); Mauerbau (1961). Neben der eingehenden Analyse dieser Bild- und Tonquellen wird dabei die Frage im Vordergrund stehen, inwieweit diese Berichterstattung in den einzelnen Fallstudien noch einer klassischen Definition von „Propaganda“ entsprach und ob hier über den betrachteten Zeitraum hinweg eine Entwicklung erkennbar ist. Es geht also um einen doppelten Vergleich: Wie unterschieden sich die Berichterstattungen in Ost und West? Inwieweit sind sie auch in der Nachkriegszeit mit dem Propagandabegriff fassbar?
+
+Seit 1952 verdrängten Wochenmagazine im Fernsehen allmählich die Kinowochenschauen. Bekannte Formate wie der Weltspiegel oder das Auslandsjournal im öffentlich-rechtlichen Fernsehen sind damit – trotz aller wichtigen Unterschiede in Stil und Substanz – entfernte Verwandte der Deutschen Wochenschau.
+
+Achtung: Bei der Akademie in Waldenburg ist aus organisatorischen Gründen keine vegane Verpflegung möglich. Vegetarische Verpflegung stellt kein Problem dar.
