@@ -373,3 +373,44 @@ Der Kurs enthüllt typische Trugschlüsse: warum sich in Daten immer ein Effekt 
 Vor Ort behandelt der Kurs Wahrscheinlichkeitsverteilungen, Schätzfunktionen, lineare Regression, Hypothesentests und den Satz von Bayes, theoretisch und mit konkreten Rechenaufgaben. Parallel dazu analysieren die Teilnehmenden in Gruppen eigenständig einen Datensatz, um herauszufinden, welche Erkenntnisse eine gründliche Datenanalyse liefert. Ihre Ergebnisse präsentieren sie regelmäßig in „Minikonferenzen“.
 
 Die benötigten Programmierkenntnisse in Python erwerben die Teilnehmenden durch Vorbereitungsmaterialien und während des Kurses. Vorkenntnisse im Programmieren sind hilfreich, aber nicht erforderlich. Wichtiger sind Freude am analytischen Denken und an der Zusammenarbeit. Da einige Materialien nur auf Englisch vorliegen, erleichtert ein gutes passives Sprachverständnis den Zugang.
+
+
+
+
+## Kurs 6.4
+### „Du sollst nicht…“
+Gehorsam, ein kulturelles Schlüsselmoment?
+
+Zur Akademie Torgelow 2025-6
+24.07. - 09.08.2025
+
+Frieden zwischen Menschen braucht Gehorsam. So befremdlich dieses Postulat auch anmuten mag: Ein Blick in Praxis, Theorie und Geschichte der „Friedensstifter“(?) Recht, Religion und Pädagogik offenbart komplexe Normensysteme, die zumindest ein „Sollen“ formulieren, mithin einen Anspruch auf Befolgung – also auf Gehorsam. Normen ohne diesen Anspruch auf Gehorsam laufen leer, Gehorsam kann freilich furchtbar missbraucht werden, wenn die Normen unmenschlichen Inhalts sind. Gehorsam ist stets kritisch, multiperspektivisch zu hinterfragen.
+
+Die Problematik des Gehorsams soll in diesem interdisziplinären Kurs rechtshistorisch (z.B. „Befehl ist Befehl“ bei NS-Verbrechen, Schießbefehl an der deutsch-deutschen Grenze), rechtsphilosophisch (Was sind (Moral-/Rechts-)Normen?), theologisch („Du sollst nicht…“) anhand von Schlüsselquellen, biblischen und philosophischen Texten (Kant, Radbruch, Kelsen) untersucht werden. Nach einer Einführung in Grundlagen der Grundrechts- und Strafrechtsdogmatik dürfen die Teilnehmenden authentische Rechtsfälle lösen, bei denen die Frage nach den Grenzen des Gehorsams virulent wird. Die exegetische Arbeit „am Text“ und die gutachterliche Arbeit „am Fall“ werden sich dabei die Waage halten. Ein Ausflug in die pädagogische Psychologie mag Anlass geben zu ersten Gehversuchen im empirischen Arbeiten („Warum halten sich DSAler an welche Normen?“).
+
+Für diesen Kurs sind keine juristischen Vorkenntnisse erforderlich, wohl aber die Bereitschaft, sich – auch im Rahmen eines vor der Akademie vorzubereitenden Referats – auf Denken und Schreiben in bisweilen schematischen Strukturen einzulassen. Im Kurs werden weniger politisch-religiöse Ansichten debattiert, sondern struktur- und geisteswissenschaftlich gearbeitet.
+
+
+
+## Kurs 6.5
+### Städte für Menschen
+
+Zur Akademie Torgelow 2025-6
+24.07. - 09.08.2025
+
+Städte sind hochkomplex und dynamisch; über Jahrtausende schon sind sie Brennpunkte menschlicher Zivilisation. In den letzten Jahrzehnten wird dabei wieder zunehmend der Mensch in den Mittelpunkt der Planung gestellt. Wurden Städte Mitte des 20. Jahrhunderts noch eher “aus der Vogelperspektive” gedacht, steht heute vermehrt das Erleben der Stadt im kleineren Maßstab im Vordergrund.
+
+Die Bedürfnisse der Bewohnerinnen an die Stadt variieren jedoch stark. Um die städtische Lebensqualität im Kleinen zu verbessern, braucht es eine intensive Auseinandersetzung mit dem gesamten Spektrum menschlicher Vielfalt und Bedürfnisse.
+
+Dieser interdisziplinäre Kurs untersucht deshalb Stadt und öffentlichen Raum nicht nur als gebaute Umwelt, sondern als sozialen Mikrokosmos, der die heterogenen gesellschaftlichen Aktivitäten im urbanen Kontext prägt. Gemeinsam vorbereitete englisch- und deutschsprachige Texte und Theorien werden im Rahmen von Referaten und Vorträgen analysiert und in der Gruppe diskutiert.
+
+Dabei stehen unter anderem folgende Fragestellungen im Fokus:
+
+- Wie können Planende Einfluss nehmen auf die Entwicklung einer Stadt?
+- Wie wird der öffentliche Raum gestaltet und definiert? Von wem und für wen?
+- Wie können unsere Städte gerechter gestaltet werden?
+- Wie können Bürger*innen an der Gestaltung des öffentlichen Raums beteiligt werden? 
+
+Neben der fachlichen Auseinandersetzung mit den Inhalten lernen die Teilnehmenden verschiedene Methoden der Stadtforschung kennen, die sie anschließend selbst in einer Felduntersuchung im urbanen Kontext anwenden.
+
+Für den Kurs sind keine besonderen zeichnerischen oder künstlerischen Fähigkeiten erforderlich. Ein Interesse an der Stadt als Forschungsobjekt, an urbanen Transformationsprozessen und am menschlichen Zusammenleben in urbanen Räumen ist förderlich.
