@@ -268,3 +268,38 @@ Dazu lernen die Teilnehmenden zunächst Grundlagen der Kryptografie kennen und v
 Als Vorbereitung auf den Kurs bearbeiten die Teilnehmenden eine allgemeinverständliche Einführung in das Thema mit zugehörigen Leitfragen sowie ein Kurzskript zu benötigten mathematischen Grundlagen. Da Mathematik eine wichtige Grundlage für Kryptografie ist, sollten die Teilnehmenden Ausdauer und Freude beim Lösen herausfordernder Probleme und Rätsel mitbringen.
 
 Achtung: Bei der Akademie in Waldenburg ist aus organisatorischen Gründen keine vegane Verpflegung möglich. Vegetarische Verpflegung stellt kein Problem dar.
+
+
+## Kurs 2.2
+### Grenzenlos denken
+Die Unendlichkeit zwischen Mathematik und Theologie
+
+Zur Akademie Waldenburg 2025-2
+17.07. - 02.08.2025
+
+Der Begriff „Unendlichkeit“ begegnet den meisten Menschen mindestens einmal im Leben, und bleibt doch häufig nur ein abstraktes Konzept. Um sich ein konkreteres Bild ihrer Vielschichtigkeit zu machen, tauchen die Teilnehmer:innen in zwei Disziplinen ein, für die die Unendlichkeit von großer Bedeutung ist. Nach einem Einblick in die Grundlagen wichtiger wissenschaftlicher Methoden untersuchen die Teilnehmer:innen zentrale Fragestellungen zu Unendlichkeit.
+
+Der Kurs startet mit einer Einführung, um einen gemeinsamen Wissensstand zu schaffen. Theologisch nähern sich die Teilnehmer:innen über verschiedene biblisch-exegetische, religionswissenschaftliche und religionsphilosophische Perspektiven und diskutieren Themen wie Gottesbeweise, die Theodizee-Frage und das Mensch-Sein an sich. Im mathematischen Teil erarbeiten sich die Teilnehmer:innen Grundlagenwissen aus der Mengenlehre und Analysis, und üben den Umgang mit mathematischen Beweismethoden.
+
+Im weiteren Verlauf des Kurses analysieren die Teilnehmer:innen abhängig von eigenen Vorlieben diverse Fragestellungen aus der Mathematik und Theologie. Problemorientierte Lerneinheiten, Gruppenarbeiten und Diskussionen sind dabei ein wesentlicher Bestandteil der Kursarbeit. Die Teilnehmer:innen gewinnen so Einblicke in interdisziplinäre wissenschaftliche Arbeit und lernen, unterschiedliche Perspektiven miteinander zu verknüpfen. Sie verbessern ihr analytisches Denken, argumentatives Geschick und die Fähigkeit, eigenständig komplexe Fragestellungen zu bearbeiten. Eine spezielle Konfessions- oder Religionszugehörigkeit oder besondere mathematische Vorkenntnisse sind nicht erforderlich. Die Bereitschaft, sich intensiv und ergebnisoffen mit beiden Disziplinen auseinanderzusetzen, ist jedoch unabdingbar.
+
+Achtung: Bei der Akademie in Waldenburg ist aus organisatorischen Gründen keine vegane Verpflegung möglich. Vegetarische Verpflegung stellt kein Problem dar.
+
+
+
+## Kurs 2.3
+### Bitcoin entschlüsseln
+Vom Cypherpunk zum digitalen Gold
+
+Zur Akademie Waldenburg 2025-2
+17.07. - 02.08.2025
+
+Der Bitcoin ist eine harte, aber intellektuell sehr reizvolle Nuss, weil sie auf transdisziplinäre Weise verschiedene Wissensbereiche verknüpft. Dadurch kommen sehr unterschiedliche Denkschulen, Wissenschaftsmilieus, wie Kryptographie Spieltheorie und Ökonomie und Individuen in dem Bestreben zusammen, Bitcoin zu verbessern, weiterzuentwickeln und zu erklären.
+
+Diesen Aspekt wollen wir für unseren Kurs fruchtbar machen, und zwar sowohl auf der Ebene der Kursleitung als auch der Teilnehmer. Als Mathematiker und Literaturwissenschaftler, mit sehr unterschiedlichen (Berufs-)Erfahrungsräumen freuen wir uns auf Schüler, die sich gleicherweise für Technologie, Mathematik, Sozialwissenschaft und Gesellschaftspolitik interessieren. Gemeinsam werden wir sowohl durch technische Deep Dives, als auch durch das Lesen und Diskutieren historischer Texte den technologischen Durchbruch des Bitcoin Protokolls erklären.
+
+Nämlich die Lösung der Frage: Wie ist in verteilten Systemen die Herstellung eines Konsens möglich? Dabei werden wir nachvollziehen, inwiefern Bitcoin Transaktionen durch digitale Signaturen absichert, Dezentralität in der Führung eines Kassenbuchs durch „proof of work“-Verfahren ermöglicht, und inwiefern Bitcoin damit gewissermaßen eine zivile Anwendungsform der Kryptografie darstellt, die noch bis in die neunziger Jahre (Stichwort: crypto wars) exklusiv als militärische Geheimwissenschaft betrieben wurde.
+
+Wir werden erörtern, inwiefern Bitcoin aus der radikal anarchistischen Cypherpunk-Bewegung der neunziger Jahre in Kalifornien hervorgegangen ist. Da Bitcoin als Geld „gelesen“ werden kann, werden wir studieren, was Geld ist, warum Geld nichts Ontologisches ist, sondern idealerweise über ein glaubwürdiges Knappheitsversprechen verfügt, dass von einer Gemeinschaft genutzt und akzeptiert werden muss.
+
+Achtung: Bei der Akademie in Waldenburg ist aus organisatorischen Gründen keine vegane Verpflegung möglich. Vegetarische Verpflegung stellt kein Problem dar.
