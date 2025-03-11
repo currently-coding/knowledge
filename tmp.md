@@ -409,8 +409,161 @@ Dabei stehen unter anderem folgende Fragestellungen im Fokus:
 - Wie können Planende Einfluss nehmen auf die Entwicklung einer Stadt?
 - Wie wird der öffentliche Raum gestaltet und definiert? Von wem und für wen?
 - Wie können unsere Städte gerechter gestaltet werden?
-- Wie können Bürger*innen an der Gestaltung des öffentlichen Raums beteiligt werden? 
+- Wie können Bürgerinnen an der Gestaltung des öffentlichen Raums beteiligt werden? 
 
 Neben der fachlichen Auseinandersetzung mit den Inhalten lernen die Teilnehmenden verschiedene Methoden der Stadtforschung kennen, die sie anschließend selbst in einer Felduntersuchung im urbanen Kontext anwenden.
 
 Für den Kurs sind keine besonderen zeichnerischen oder künstlerischen Fähigkeiten erforderlich. Ein Interesse an der Stadt als Forschungsobjekt, an urbanen Transformationsprozessen und am menschlichen Zusammenleben in urbanen Räumen ist förderlich.
+
+
+
+## Kurs 6.6
+### Die rechtschraipkattastrofe
+Müssen wir uns für Rechtschreibfehler schämen?
+
+Zur Akademie Torgelow 2025-6
+24.07. - 09.08.2025
+
+Kaum ein anderer Lerngegenstand des Deutschunterrichts erregt die Gemüter so stark wie die Rechtschreibung. Manch einer glaubt gar, in den Rechtschreibleistungen der jüngeren Generation den bevorstehenden Untergang der Menschheit zu erkennen. Die Verantwortung für schlechte Rechtschreibung liegt nach Ansicht vieler Erwachsener allein bei Jugendlichen, die zu wenig üben und zu viel Social Media konsumieren würden. Selten in der Kritik steht dagegen die Art und Weise, wie Schülerinnen in den Schulen rechtschreiben lernen.
+
+Dieser Kurs geht der Frage nach, wie der Deutschunterricht aktuell Rechtschreibung vermittelt - und was er optimieren könnte. Die Teilnehmenden erarbeiten zunächst phonologische, silbische, morphologische und syntaktische Grundlagen der theoretischen Linguistik, die das Fundament unserer Orthographie bilden. Anhand von Beispielen aus aktuellen Lehrwerken sowie ihrer eigenen Lernbiographie skizzieren und evaluieren die Teilnehmenden den Status Quo der Unterrichtspraxis. Diesen kontrastieren sie mit alternativen, wissenschaftlich fundierten Vermittlungsansätzen. Mithilfe gängiger empirischer Methoden der Sozialforschung und der angewandten Linguistik stellen die Teilnehmenden die unterschiedlichen Ansätze auf die Probe und entdecken mögliche Vor- und Nachteile. 
+
+Voraussetzung für die Teilnahme sind Begeisterung für sprachliche und didaktische Themen, die Bereitschaft, das eigene orthographische Lernen und Können kritisch zu reflektieren, sowie die Fähigkeit, die Lernendenperspektive gelegentlich zu verlassen. Ausdrücklich nicht notwendig sind hervorragende Rechtschreibfähigkeiten! In Vorbereitung auf den Kurs erarbeiten die Teilnehmenden orthographisches Vorwissen, sammeln Unterrichtsbeispiele und bereiten einen Vortrag zu einem kursrelevanten Thema vor.
+
+
+
+## Kurs 1.1
+### Das Gehirn sezieren
+Experimentelle Werkzeuge als Skalpell der molekularen Neurowissenschaften
+
+Zur Akademie Louisenlund 2025-1
+31.07. - 16.08.2025
+
+Welche Rolle spielen Proteine beim Lernen einer neuen Sprache? Und was hat ein Funkloch mit neuropsychiatrischen Erkrankungen zu tun? Wie entsteht ein komplettes menschliches Gehirn aus nur zwei Zellen?
+
+Um diese Fragen zu beantworten, müssen wir das Gehirn sezieren, auf Gewebe-, Zell- bis hin zur Molekülebene. Dieser Kurs gibt sowohl theoretische als auch angewandte Einblicke in den experimentellen Werkzeugkasten der molekularen „Hirnchirurgen“, also der Forschenden, die im Labor daran arbeiten, das menschliche Gehirn im Detail zu verstehen. Er erklärt, warum in den Neurowissenschaften personalisierte Viren entwickelt, manchmal Experimente inmitten von Aquarien durchgeführt und Miniaturgehirne in Petrischalen gezüchtet werden.
+
+Im ersten Kursteil stellen die Teilnehmenden die Grundlagen in Form vorbereiteter Kurzreferate vor. Gemeinsam erarbeiten sie sich ein theoretisches Grundverständnis der molekularen Biologie und experimenteller Strategien im Forschungsalltag, und vertiefen dieses mithilfe praktischer Beispiele.
+
+Im zweiten Teil des Kurses sind – wie in der Wissenschaft – Kreativität und Teamwork gefragt! Es folgt die Anwendung der erworbenen Kenntnisse in einer Projektarbeit: Von der Forschungsfrage über die Hypothese bis zum experimentellen Vorgehen entwickeln und pitchen die Teilnehmenden ein eigenes Forschungsprojekt. Anschließend haben sie die Aufgabe, im Sinne des sogenannten Peer-Reviews, ihre Vorhaben gegenseitig kritisch zu betrachten und ethische Implikationen zu diskutieren.
+
+Die Motivation, sich in komplexe Zusammenhänge einzuarbeiten und sich bereits vorbereitend auf den Kurs mit Fachliteratur auseinanderzusetzen, wird erwartet. Weitere Voraussetzungen – außer Spaß und Interesse an der Thematik – bestehen nicht.
+
+
+## Kurs 1.2
+### I gotta feeling
+Psychologie der Emotionen
+
+Zur Akademie Louisenlund 2025-1
+31.07. - 16.08.2025
+
+Seit jeher versuchen Menschen, ihre eigenen Emotionen und die Emotionen anderer Menschen zu verstehen. Ein Kind lernt früh, Basisemotionen seiner Bezugspersonen zu erkennen. Diese Fähigkeit entwickelt sich im Laufe des Lebens immer weiter. Emotionen haben in unserem Leben essenzielle Funktionen: Sie sind evolutionär bedingt, man benötigt sie in der effektiven Kommunikation, im sozialen Miteinander und sie machen das eigene Leben und die eigene Person grundlegend aus.
+
+Aber wie entstehen Emotionen? Steuern wir unsere Emotionen oder steuern sie uns? Welchen Einfluss hat physiologische Erregung auf die Entwicklung von Emotionen? Welche emotionalen Dynamiken können sich zwischen Menschen entwickeln? Und wie kann man seine eigenen Emotionen beeinflussen?
+
+„Nicht Worte sollen wir lesen, sondern den Menschen, den wir hinter den Worten fühlen.“ - Samuel Butler
+
+Im Kurs erfolgt eine psychologisch fundierte Auseinandersetzung mit verschiedenen Konstrukten wie Basisemotionen, biologischen Grundlagen von Emotionen, Emotionsverläufen und emotionaler Resilienz. Der Fokus liegt darauf, psychologische Prozesse bei der Entstehung, Entwicklung, Diagnostik und Regulation von Emotionen zu erforschen und zu verstehen, wie Strategien der Emotionsregulation aussehen können.
+
+Neben der Freude am Forschen ist auch die Bereitschaft zur Auseinandersetzung mit psychologischen Theorien und eine Offenheit für Perspektivwechsel und Selbstreflexion sowie für Gruppenarbeit eine zentrale Voraussetzung zur Teilnahme am Kurs. Philosophische oder medizinische Fragestellungen werden nicht behandelt. Vorkenntnisse sind keine erforderlich. Im Vorfeld werden Referate mit vorwiegend englischer Fachliteratur zu einzelnen Themengebieten erarbeitet, deren gründliche Vorbereitung erwartet wird.
+
+
+
+## Kurs 1.3
+### Big Tech, Big Impact
+Wirtschaftliche Einblicke in die Macht von Big Tech
+
+Zur Akademie Louisenlund 2025-1
+31.07. - 16.08.2025
+
+Der Kurs behandelt die Ökonomie der Tech-Giganten (Alphabet, Amazon, Apple, Meta und Microsoft), die heute den Großteil des digitalen Alltags bestimmen. Warum sind diese Unternehmen so mächtig und profitabel? Warum gibt es nur so wenige? Warum haben sie kaum Wettbewerber? Die Teilnehmenden analysieren, wie die Geschäftsmodelle dieser Firmen funktionieren und welche Rolle Marktformen, Wettbewerb und Netzwerkökonomien spielen.
+
+Die Teilnehmenden lernen, Geschäftsmodelle der Unternehmen zu analysieren, Finanzkennzahlen zu interpretieren, Jahresabschlüsse zu verstehen und Strategien zu bewerten. Gleichzeitig bietet der Kurs volkswirtschaftliche Perspektiven auf Marktstrukturen, Wettbewerb und wirtschaftliche Macht. Aus der Zusammenschau dieser Faktoren ergeben sich Erklärungen für die Macht der Tech-Giganten und deren Quasi-Monopole.
+
+Der Vergleich mit anderen Branchen verdeutlicht, warum Big-Tech von wenigen dominanten Firmen geprägt ist und wie sich deren Dynamik von anderen Märkten (z.B. Automobilsektor oder dem Lebensmittelhandel) unterscheidet. Diskussionen zu politischen und gesellschaftlichen Fragen runden den Kurs ab.
+
+Die Kursinhalte nutzen einen Methodenmix, der die aktive Beteiligung der Teilnehmenden in den Vordergrund stellt. Dazu gehört auch die Anwendung von mathematischen Modellen und Methoden auf Oberstufenniveau. Von den Teilnehmenden wird erwartet, dass sie im Vorfeld der Akademie bereit sind, sich anhand von zur Verfügung gestelltem Material eigenständig vorzubereiten.
+
+Nach dem Kurs können die Teilnehmenden:
+
+- Die Geschäftsmodelle Tech-Giganten analysieren und bewerten,
+- Marktstrukturen und deren Einfluss auf Wettbewerb und Wirtschaft verstehen,
+- Kritisch hinterfragen, welche Konsequenzen die Macht der Tech-Giganten für Gesellschaft und Wirtschaft hat. 
+
+
+
+
+## Kurs 1.4
+### Gerechtere Strukturen, bessere Ergebnisse: Welche Diversität braucht die Wissenschaft?
+
+Zur Akademie Louisenlund 2025-1
+31.07. - 16.08.2025
+
+Alt, weiß, männlich, aus dem globalen Norden: So sah Wissenschaft lange aus (und sieht es teilweise immer noch). Dabei kann mehr Diversität nicht nur zu einer gerechteren Wissenschaft führen, sondern auch zu besseren Forschungsergebnissen. Insbesondere feministische Philosoph:innen argumentieren, dass unterschiedliche Erfahrungen, Perspektiven oder Werte dabei helfen, Verzerrungen in der Wissenschaft zu vermeiden.
+
+Gleichzeitig ist die Umsetzung von Diversität nicht immer leicht. Zum Beispiel diskutieren Wissenschaftsphilosoph:innen, welche Art von Diversität eigentlich gemeint ist: Geht es um unterschiedliche Werte und Einstellungen? Oder sollen sich vielmehr die Forscher:innen in Bezug auf Merkmale wie Gender, race oder Bildungshintergrund unterscheiden? Dazu kommen ethische Fragen, etwa nach der Notwendigkeit von Quoten. Und schließlich ist Diversität kein Allheilmittel: Dass unterschiedliche Perspektiven in der Wissenschaft vertreten sind, führt nicht automatisch dazu, dass diese Perspektiven auch gehört werden.
+
+Der Kurs beschäftigt sich mit Diversität aus philosophischer Perspektive. Die Teilnehmer:innen werden zentrale Positionen diskutieren – sowohl wissenschaftstheoretische als auch ethische Ansätze. Die philosophischen Theorien werden immer wieder auf konkrete Beispiele aus der Wissenschaft bezogen und mit aktuellen politischen Debatten zu Diversität verknüpft. Ein Schwerpunkt liegt auf dem philosophischen Schreiben: In den Kurs eingebettet ist eine Textwerkstatt, in der die Teilnehmer:innen eigene Essays entwickeln. Zudem wird es Raum für ein praktisches Projekt geben.
+
+Es wird erwartet, dass die Teilnehmer:innen im Vorfeld der Akademie zentrale Texte lesen und kurze Impulsreferate vorbereiten. Sonstige Voraussetzungen gibt es keine.
+
+
+
+
+## Kurs 1.5
+### Optime optimam regere rem publicam
+Ciceros „De re publica“, der römische Staat und die antike politische Philosophie
+
+Zur Akademie Louisenlund 2025-1
+31.07. - 16.08.2025
+
+Marcus Tullius Cicero ragt unter den Staatsmännern des antiken Rom heraus: als Politiker wie als Autor. Die Summe seiner reichhaltigen Erfahrungen und seines politischen Denkens suchte er in „De re publica“ zu fassen – und umriß in turbulenten Zeiten der römischen Republik, was einen idealen Staat und einen idealen Staatsmann ausmache.
+
+Die gemeinsame intensive Lektüre dieses facettenreiches Textes über das Gemeinwesen setzt gute Lateinkenntnisse voraus. Mit umsichtiger Übersetzungsarbeit (durchaus in beide Richtungen) gilt es, Ciceros kunstvolle Sprache und deren Eleganz zu entdecken, die auf seine Weise ein Kommentar zu zeitgenössischen Entwicklungen war. So entsteht ein vielschichtiges Verständnis des uns nur fragmentarisch überlieferten Werkes – bei dessen Abfassung sich der belesene Autor an einem anderen antiken Klassiker orientierte: an Platons „Politeia“. „De re publica“ gehört also in eine lange Tradition der politischen Philosophie, die das Abendland bis in unsere Gegenwart prägt.
+
+So stellt „De re publica“ zugleich kritische Rückfragen an unser heutiges Empfinden und regt an, grundsätzlich über Politik nachzudenken. Denn Ciceros weitreichendes Untersuchungsprogramm erweist sich als charakteristisch für die antike Staatsphilosophie. Sie fragte nach der Bedeutung von Gerechtigkeit und Freiheit, sie verklammerte individuelle Ethik und kollektive Zwecke, sie widmete sich der Kunst der richtigen Lebensführung in Verbindung mit politischen Institutionen, sie integrierte die Vorstellung einer Unsterblichkeit der Seele in das Nachdenken über das Gemeinwesen – und sie stand Erwägungen über den Ursprung des Staates näher als solchen nach seiner Zukunft.
+
+
+
+
+## Kurs 1.6
+### Improvisation in der Musik
+Theorie und Praxis musikalischer Freiheit
+
+Zur Akademie Louisenlund 2025-1
+31.07. - 16.08.2025
+
+Improvisation hat in zahlreichen Kulturen weltweit sowie in der westlichen Musik eine lange Tradition, die jedoch im Schulkontext und auch im Instrumentalunterricht oft zu kurz kommt. Dieser Kurs ermöglicht den Teilnehmerinnen und Teilnehmern einen fundierten Einstieg in die Kunst der musikalischen Improvisation. Ziel ist es, dass alle Teilnehmerinnen und Teilnehmer am Ende des Kurses grundlegende Improvisationsfähigkeiten auf ihrem Instrument haben, die sie anhand der im Kurs theoretisch erarbeiteten Inhalte vertiefen können. Dabei erhalten die Teilnehmerinnen und Teilnehmer auch einen Einblick in verschiedene Stilrichtungen sowie Improvisation in gebundenen und ungebundenen Kontexten. Sie setzen sich außerdem mit Quellen aus unterschiedlichen Epochen auseinander, um in die Geschichte und Entwicklung der musikalischen Improvisation in der europäischen Kunstmusik einzutauchen. Da der Kurs auch einen praktischen musikalischen Teil umfasst, ist es erforderlich, ein Instrument seit wenigstens zwei Jahren zu spielen. Sollte dies nicht bereits das Klavier sein, wird erwartet, dass die Teilnehmerinnen und Teilnehmer sich grundlegende Kenntnisse auf einer Klaviatur aneignen. Hierfür wird im Vorfeld Material zur Verfügung gestellt. Außerdem sollten sie sich mit den wesentlichen Akkordsymbolen auskennen. Auch hierfür lassen wird den Teilnehmerinnen und Teilnehmern im Vorfeld Material zukommen.
+
+
+
+## Kurs Q.1
+### Stabilität des Wasserstoffatoms
+Eine mathematische Perspektive auf die Quantenmechanik
+
+Zur QuantenAkademie 2025
+10.08. - 25.08.2025
+
+Die Stabilität von Atomen ist eine der fundamentalen Eigenschaften unserer Natur, die ebenso selbstverständlich wie existenziell zu sein scheint. Nur auf Grundlage der klassischen Mechanik kann die stabile Konstellation von Nukleonen und Elektronen im Bohrschen Atommodell jedoch nicht erklärt werden. Wie lässt sich die physikalisch beobachtbare Stabilität des Atoms und damit der Welt, wie wir sie kennen, dann konsistent herleiten?
+
+Der Kurs bietet im Kontext dieser Frage eine Einführung in die (mathematische) Quantenmechanik mit dem Ziel, diese physikalische Frage mathematisch rigoros zu beantworten. 
+
+Am Anfang erarbeiten die Teilnehmenden in Vorträgen gemeinsam mathematische Grundlagen -- einschließlich der Axiomatik der Quantenmechanik. Darauf stützend leiten die Schülerinnen und Schüler die Stabilität des Wasserstoffatoms her: Ausgehend von der Heisenbergschen Unschärferelation beweisen die Teilnehmenden verwandte Ungleichungen, mit welchen sich die Gesamtenergie des Wasserstoffatoms im Grundzustand abschätzen lässt, und analysieren und interpretieren diese im Rahmen der Quantenmechanik. Als Ausblick beschäftigt sich der Kurs mit der genauen Bestimmung der Grundzustandsenergie durch die Schrödingergleichung, einer der fundamentalen Differentialgleichungen der Quantenmechanik, und veranschaulicht dies in Orbitalmodellen.
+
+Während des Kurses lernen die Schülerinnen und Schüler wissenschaftliches und mathematisches Arbeiten kennen, indem sie mathematische Beweise führen, ihre Ergebnisse im Zusammenspiel von Mathematik und Physik interpretieren und ihre Erkenntnisse sinnvoll in LaTeX dokumentieren.
+
+
+
+
+## Kurs Q.2
+### „Spooky Action at a distance“
+Von den Grundzügen der Quantenmechanik bis zu Entanglement und Quantencomputern
+
+Zur QuantenAkademie 2025
+10.08. - 25.08.2025
+
+Die Theorie der Quanten erlaubt die Verschränkung (Entanglement) mehrerer Zustände, wie zum Beispiel der Spins von Elektronen oder der Polarisationsrichtung von Photonen. Eine Messung des Spins eines der beiden Elektronen legt bei vorliegender Verschränkung automatisch den Spin des anderen Elektrons fest. Da die Information der Messung demnach auch über beliebig große Entfernungen direkt den Zustand des anderen beeinflusst, nannte Einstein dieses Phänomen „Spooky action at a distance“. Eine Lösung dieses Paradoxes wäre, dass der Zustand der Spins schon vor der Messung feststeht, dieser Zustand uns aber aufgrund von ”Hidden Variables” nicht zugänglich ist.
+
+Der Kurs baut zunächst ein Grundgerüst der Quantenmechanik auf, um die teilweise unintuitiven Konzepte der Quantenmechanik mathematisch und anhand von Beispielen zugänglich zu machen. Darauf aufbauend wird die oben genannte Problematik diskutiert, welche zu Beginn der Quantenmechanik große Fragen darüber aufwarf, ob das Universum deterministisch oder probabilistisch ist. Das Ziel des Kurses ist ein Verständnis von Bell’s Inequality, mit welcher nachgewiesen werden konnte, dass Entanglement tatsächlich real ist (Nobelpreis 2022). Eine Erkenntnis, die, wie der Kurs diskutiert, eine essenzielle Voraussetzung für Quantencomputing ist.
+
+Für den Kurs ist kein fachliches Vorwissen notwendig, alle Konzepte werden schrittweise erarbeitet. Um die Konzepte der Quantenmechanik zu verinnerlichen, lösen die Teilnehmenden in Kleingruppen Probleme, welche dann im Kurs besprochen werden. Besonders schön: Physik heißt Mathematik. Deshalb sollen die Teilnehmenden die notwendigen mathematischen Werkzeuge, insbesondere der linearen Algebra, vor dem Kursbeginn unter Anleitung der Kursleitenden erarbeiten.
