@@ -123,3 +123,113 @@ Wir wollen das Thema Hitze und Temperatur aus verschiedenen Sichtweisen betracht
 Zu Beginn thematisiert der Kurs wichtige physikalische Parameter, bespricht allgemeine Messmethoden und führt diese teilweise selbst durch. Anhand von Vulkanen werden sich die Teilnehmenden auch komplexeren Systemen nähern. Von der medizinischen Seite werden zunächst relevante Grundlagen des menschlichen Organismus wie z.B. die Temperaturregulation oder das Herzkreislaufsystem erarbeitet, anschließend sammelt der Kurs auch hier praktische Erfahrungen. Abschließend diskutieren die Teilnehmenden Aspekte des Klimawandels und untersuchen den Akademie-Standort auf Hitzetauglichkeit.
 
 Der Kurs richtet sich an Schüler:innen mit Interesse an interdisziplinärem Arbeiten in den Themengebieten von Naturwissenschaften und Medizin. Besondere Vorkenntnisse sind nicht erforderlich. Die Teilnehmenden erarbeiten im Vorfeld in Zweiergruppen einführende Vorträge zu kursrelevanten Themen.
+
+
+## Kurs 3.3
+### Den Sternen ein Stück näher kommen
+
+Zur Akademie Grovesmühle 2025-3
+10.07. - 26.07.2025
+
+Wenn man das Universum mit einem Kuchen vergleicht, so wären die Sterne in der Sprache des Bäckers die wohl wichtigste (makroskopische) Zutat. Ohne sie gäbe es die Planeten nicht und natürlich auch nicht das wärmeerhaschende Leben auf einigen von Ihnen. Ohne Sterne gäbe es (außer den schon beim Urknall entstandenen Elementen Wasserstoff und Helium) nicht die Vielfalt an Elementen, die wir aus dem Periodensystem kennen. Es lohnt sich also unbedingt, den Himmelskörper Stern genauer zu betrachten. Dabei öffnen sich Türen zu vielen Wissenschaftsdisziplinen.
+
+Im Astronomiekurs wird es Gruppen von Spezialisten geben, die sich mit verschiedenen Aspekten der Sterne befassen und untereinander austauschen (Abbild der modernen Forschungsarbeit). Nach Präsentationen sollen die Spezialisten ihr Forschungsfeld den anderen Teilnehmern durch kleine Aktivitäten nahbarer machen. Eine anschließende Projektphase im Kurs wird dann zur Bearbeitung etwas größerer praktischer Aufgaben dienen.
+
+Vor dem Einstieg in das Kursthema steht eine kurze Einführung in die Grundlagen der Orientierung am Sternhimmels. Dabei bekommen die Kursteilnehmer den ersten „Direktkontakt“ zu ihren Zielobjekten – den Sternen. Die Einstiegsphase mündet in einer akademieoffenen Aktivität, bei der die Teilnehmer des Astronomiekurses die anderen Akademieteilnehmer in die „Geheimnisse des Sternhimmels“ einweihen.
+
+
+## Kurs 3.4
+### Alles nur Show?
+Eine Studie zu unserer Persönlichkeitsentwicklung
+
+Zur Akademie Grovesmühle 2025-3
+10.07. - 26.07.2025
+
+In unserer Gesellschaft werden bestimmte Persönlichkeiten belohnt. Du bist gesellig und emotional stabil? – Dann wird dir vermeintlich einiges einfacher fallen. In den letzten Jahren beschäftigte sich die psychologische Forschung daher zunehmend mit der Frage: Wie können wir unsere Persönlichkeit entwickeln? Diese Frage wird auch in der Theaterpädagogik immer wieder diskutiert. Das Theater bietet nämlich schon jetzt spannende Möglichkeiten, die eigene Persönlichkeit herauszufordern. Auf der Bühne zu stehen und in Gruppen aktiv zu werden macht etwas mit Menschen. Nur was? In diesem Kurs werden wir gemeinsam ein eigenes Training zur Persönlichkeitsentwicklung mit den Mitteln der Theaterpädagogik erarbeiten und in einer psychologischen Studie empirisch untersuchen.
+
+Dazu werden wir uns mit der jüngsten Forschung zur Persönlichkeitspsychologie beschäftigen und die Philosophie und Praxis Theaterpädagogik besprechen und selbst ausprobieren. Der Kurs wird anschließend einen methodisch geleiteten Versuch starten, ein theatrales Training zu erstellen und dieses an anderen Teilnehmenden zu testen. Die Ergebnisse werden statistisch und qualitativ ausgewertet. Von den Teilnehmenden wünschen wir uns Offenheit, sich auf wissenschaftlichem Niveau mit empirisch-psychologischer Forschung auseinanderzusetzen und Freude daran, die Theaterpädagogik in ihren Fundamenten und auf der Bühne zu studieren.
+
+Auf Grundlage der Studie werden wir abschließend diskutieren, ob und wie unsere Persönlichkeit durch das Theater beeinflusst ist, getreu dem Motto: Alles nur Show?
+
+
+
+## Kurs 3.5
+### Stadt, Land, Fluss!
+Technik und Geschichte der Kartographie
+
+Zur Akademie Grovesmühle 2025-3
+10.07. - 26.07.2025
+
+Wissen wo man ist, ist immer wichtig. Und zwar egal, ob man den Atlantik im Segelboot überquert oder in Veckenstedt einen Burger sucht. Kolumbus ist also in China gelandet und Veckenstedt hat drei Burgerladen. Ach doch nicht? Für die Beantwortung aller dieser Fragen braucht man mindestens immer eine Landkarte. Doch wie macht man eigentlich eine Landkarte?
+
+Landkarten haben in vielen Lebensbereichen eine zentrale Bedeutung. Sie dienen nicht nur der Orientierung, sondern auch der Darstellung und Analyse räumlicher Informationen. Sie helfen sowohl bei der Einteilung und Verwaltung von Gebieten als auch bei der Vorbereitung und Planung von wirtschaftlichen und politischen Entscheidungen. Landkarten aus früheren Zeiten geben Auskunft über ehemalige politische Grenzen, vergangenen Kulturen und ihrer Vorstellung von der Welt. Landkarten sind also weit mehr als bloße Abbildungen von Landschaften, sondern sind ein wichtiges Mittel, mit dem Menschen ihre „Anschauung der Welt“ bilden und spielen eine Schlüsselrolle in fast allen Bereichen des modernen Lebens.
+
+Der Kurs nähert sich Landkarten von zwei Seiten. Die Teilnehmenden untersuchen historische und aktuelle Karten aus unterschiedlichen Quellen für verschiedene Anwendungen. Dabei versuchen sie die Frage zu beantworten, welche Anforderungen Karten eigentlich erfüllen sollen und in welchem Kontext bestimmte Karten entstehen. Gibt es die perfekte Karte? Die Teilnehmenden erlernen sowohl naturwissenschaftliche als auch mathematische und technische Methoden, mit denen Karten erzeugt werden. Diese Kenntnisse sollen sie dann praktisch einsetzen, um eine Karte ihrer Umgebung selber zu erstellen.
+
+Das mathematische Grundlagenwissen zu Triangulation und Projektion wird in einem Vorbereitungsskript zur Verfügung gestellt.
+
+
+
+## Kurs 4.1
+### True Statistics
+Mit Inspektor Sigma und Doktor Signifikant präzise analysiert
+
+Zur Akademie Clemenswerth 2025-4
+17.07. - 02.08.2025
+
+Statistik liefert Antworten auf zentrale Fragen in vielen verschiedenen Bereichen wie der Medizin, Umweltforschung oder Wirtschaft. Sie zeigt, ob Therapien wirken, analysiert klimatische Veränderungen oder unterstützt fundierte Entscheidungen in der Geschäftswelt.
+
+Im Kurs begleiten Inspektor Sigma und Doktor Signifikant die Teilnehmenden durch die spannenden Fälle der Statistik. Inspektor Sigma gruppiert, beschreibt und visualisiert Daten mit Methoden der deskriptiven Statistik. Mittelwerte, Streuungsmaße, Diagramme und Korrelationsanalysen machen Muster sichtbar. Die Teilnehmenden lernen, Daten anschaulich darzustellen, um Unterschiede und Zusammenhänge in den Daten zu entdecken.
+
+Anschließend stellt Doktor Signifikant die entscheidende Frage: „Ist das ein echter Zusammenhang oder nur Zufall?“ Die inferentielle Statistik geht über die bloße Beschreibung hinaus und untersucht, ob die gefundenen Muster verallgemeinerbar sind. Die Teilnehmenden nutzen Methoden wie Konfidenzintervalle und Hypothesentests, bewerten so die Verlässlichkeit der Ergebnisse und berücksichtigen Unsicherheiten in den Daten.
+
+Der Kurs beginnt mit einer Einführung in die mathematischen Grundlagen der Statistik. Theorie und Praxis wechseln sich ab: Python, eine gefragte Programmiersprache für Datenanalyse, dient als zentrales Werkzeug. In interaktiven Notebooks lösen die Teilnehmenden Daten-Fälle mit realen und fiktiven Szenarien. In der zweiten Hälfte stellen sie eigene Nachforschungen an: Sie analysieren individuelle Fragestellungen, prüfen Studien kritisch oder beschäftigen sich intensiver mit den mathematischen Hintergründen statistischer Tests.
+
+Der Kurs setzt weder Programmier- noch besondere Mathematikkenntnisse voraus.
+
+
+## Kurs 4.2
+### Noether und die Ordnung des Universums
+
+Zur Akademie Clemenswerth 2025-4
+17.07. - 02.08.2025
+
+Vor gut 100 Jahren stellte Emmy Noether die Verbindung zwischen Symmetrien und Erhaltungsgrößen her. Dies stellt seither einen wesentlichen Grundpfeiler der Physik dar.
+
+Nach einer Einführung in den Lagrange-Formalismus, der dem Noether-Theorem zugrunde liegt, haben die Teilnehmenden im Kurs die Möglichkeit, verschiedene Symmetrien und die sich daraus ergebenden Erhaltungsgrößen zu erforschen.
+
+In Kleingruppen erarbeiten sich die Teilnehmenden Anwendungen von Symmetrien und Erhaltungsgrößen Physik. In der Mechanik ist die Impulserhaltung eine Konsequenz der Symmetrie unter Verschiebungen im Raum, die Drehimpulserhaltung folgt aus der Invarianz unter Drehungen und die Energieerhaltung ist eine Folge der Unabhängigkeit der Naturgesetze von der Zeit. Die Relativitätstheorie vereinheitlicht Raum und Zeit zur Raumzeit und untersucht deren Symmetrien. In der Quantenmechanik folgt die Ladungserhaltung aus Symmetrien der Wellenfunktion. Atomspektren können durch quantenmechanische Betrachtung der Drehimpulserhaltung verstanden werden. Symmetrien helfen bei der Erklärung von fundamentalen Wechselwirkungen und führten zur Vorhersage neuer Teilchen. So zeigte Chien-Shiung Wu 1956 zum ersten Mal, dass die schwache Wechselwirkung andere Symmetrieeigenschaften hat als der aus dem Alltag bekannte Elektromagnetismus. Es zeichnet sich ab, dass alle Modelle der modernen Physik eine fundamentale Symmetrie besitzen: CPT (Ladungskonjugation, Parität und Zeitinversion).
+
+Symmetrien sind somit ein wichtiges Hilfsmittel, um Naturgesetze systematisch zu verstehen, konkrete Vorhersagen aus mathematischen Modellen abzuleiten und eine physikalische Intuition zu entwickeln.
+
+Grundkenntnisse der Differential- und Integralrechnung sind unabdingbar. Die Bereitschaft zum Durcharbeiten eines Vorbereitungsskripts wird erwartet.
+
+
+
+## Kurs 4.3
+### Experiment oder Argument?
+Debatten zwischen Natur- und Geisteswissenschaften
+
+Zur Akademie Clemenswerth 2025-4
+17.07. - 02.08.2025
+
+Natur- und Geisteswissenschaften werden oft als unvereinbare Gegensätze dargestellt. Naturwissenschaften gelten als präzise und objektiv, während Geisteswissenschaften manchmal als unbegründet und spekulativ wahrgenommen werden. Doch gerade die Geisteswissenschaften bieten wertvolle Perspektiven, die Naturwissenschaften allein nicht leisten können. Während Naturwissenschaften manchmal Gefahr laufen, sich in den Details zu verlieren, können Geisteswissenschaften den Blick auf das große Ganze wahren und komplexe gesellschaftliche Zusammenhänge einordnen. Solche Darstellungen von Natur- und Geisteswissenschaften hört man immer wieder.
+
+Der Kurs zielt darauf ab, diese scheinbare Unvereinbarkeit zu überwinden und Stärken und Schwächen beider Fachkulturen kennenzulernen und wertzuschätzen. Die Teilnehmerinnen untersuchen, was Natur- und Geisteswissenschaften trennt, aber auch, was sie verbindet. Am Beispiel des Themas Klimawandel nehmen die Teilnehmerinnen die Rollen von Natur- und Geisteswissenschaftlerinnen ein. Anhand praktischer Experimente und philosophischer Argumentationen testen sie die Arbeitsweisen der unterschiedlichen Wissenschaftskulturen. Anschließend wenden sie die Arbeitsweisen auf selbst gewählte Themen an: Wie können sowohl Natur- als auch Geisteswissenschaften dabei konkret zur Klärung komplexer gesellschaftlicher Konflikte beitragen?
+
+Der Kurs verfolgt einen interdisziplinären Ansatz und erfordert daher von den Teilnehmerinnen ein hohes Maß an Offenheit und Diskussionsfreude. Gegebenenfalls erhalten die Teilnehmerinnen vor Beginn der Akademie Texte zur Vorbereitung.
+
+
+
+## Kurs 4.4
+### Iudex Calculat
+Spieltheorie und Recht
+
+Zur Akademie Clemenswerth 2025-4
+17.07. - 02.08.2025
+
+Das Rechtssprichwort „Iudex non calculat“ (“der Richter rechnet nicht”) wird abschätzig über die mathematischen Fähigkeiten von Juristen verwendet. In diesem Kurs hingegen rechnen Richter: Teilnehmende bewerten rechtliche Sachverhalte sowohl aus juristischer als auch aus mathematischer Perspektive. Wenn in einer Verhandlung mein Gegenüber mir einen Preis vorschlägt, akzeptiere ich diesen Preis, obwohl er mir unfair scheint? Oder lehne ich weitere Verhandlungen trotzig ab? Welche Konsequenzen kann es rechtlich haben, dass ich vertragliche Pflichten nicht einhalte oder Rücksichtnahmepflichten verletze?
+
+Im juristischen Teil lernen Teilnehmende, Gesetze zu verstehen und anzuwenden und auf dieser Grundlage Gutachten zu formulieren – vor allem im Schuldrecht. Im mathematischen Teil modellieren Teilnehmende die rationale Entscheidungsfindung in Spielen – vor allem Spiele, die juristische Sachverhalte abbilden. In Simulationen zum Beispiel von Schadensfällen, Vertragsverhandlungen, Wahlen und Versteigerungen suchen Teilnehmende die jeweils optimalen Handlungsformen und prüfen, inwieweit Ansprüche bestehen. Gemeinsam bereiten sich Teilnehmende auf diese Simulationen mit Hilfe von Arbeitsblättern vor und teilen ihr Verständnis mit anderen in Kurzvorträgen.
+
+Die Kursleiter erwarten keine speziellen mathematischen oder juristischen Vorkenntnisse – sondern nur Neugier, Freude am Knobeln, sowie Spaß und Interesse am Umgang mit deutschsprachigen Texten. Auf individuelle Interessen und Vorlieben gehen die Kursleiter gerne ein, solange ein Grundinteresse an beiden Themengebieten bleibt. Wer programmieren kann oder lernen möchte, wird in diesem Kurs durchaus Anlass dafür finden.
