@@ -1,6 +1,3 @@
-foundational idea  
-discrepancy  
-inconsistency  
 hypothesis  
 proposed explanation  
 conjecture  
