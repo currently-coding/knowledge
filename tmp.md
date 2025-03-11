@@ -306,8 +306,8 @@ Achtung: Bei der Akademie in Waldenburg ist aus organisatorischen Gründen keine
 
 
 
-Kurs 2.6
-Auferstanden aus Ruinen?
+## Kurs 2.6
+### Auferstanden aus Ruinen?
 Die Deutsche Wochenschau 1940-1963
 
 Zur Akademie Waldenburg 2025-2
@@ -324,3 +324,22 @@ Dieser Themenkomplex wird im Kurs an konkreten audiovisuellen Quellenbeispielen 
 Seit 1952 verdrängten Wochenmagazine im Fernsehen allmählich die Kinowochenschauen. Bekannte Formate wie der Weltspiegel oder das Auslandsjournal im öffentlich-rechtlichen Fernsehen sind damit – trotz aller wichtigen Unterschiede in Stil und Substanz – entfernte Verwandte der Deutschen Wochenschau.
 
 Achtung: Bei der Akademie in Waldenburg ist aus organisatorischen Gründen keine vegane Verpflegung möglich. Vegetarische Verpflegung stellt kein Problem dar.
+
+
+
+
+
+## Kurs 6.2
+### Von Chomsky bis ChatGPT
+Ein interdisziplinärer Einstieg in KI
+
+Zur Akademie Torgelow 2025-6
+24.07. - 09.08.2025
+
+Ob ChatGPT, Dall-E oder ElevenLabs - KI-Anwendungen sind in aller Munde und haben heute das Potenzial, ähnlich transformativ zu wirken wie einst die Dampfmaschine während der industriellen Revolution. Doch wie genau funktioniert das, was wir heute künstliche Intelligenz nennen? Der Kurs beantwortet diese Frage im Hinblick auf smarte Sprachanwendungen.
+
+Die Teilnehmenden bereisen die Entwicklung der maschinellen Sprache von den ersten regelbasierten Chatbots der 1960er Jahre bis in die neuste Epoche der Large Language Modelle. Dabei erarbeiten sie Grundlagen der Linearen Algebra, Analysis und Stochastik als Schlüssel zur mathematischen Formulierung von neuronalen Netzen im Allgemeinen und Large Language Modellen im Speziellen. Teilnehmende erschließen Inhalte durch selbst vorbereitete Kurzvorträge sowie durch Diskussion untereinander und mit der Kursleitung. Abschließend untersucht der Kurs die gesellschaftlichen Auswirkungen künstlicher Intelligenz.
+
+Nach der Akademie verstehen die Teilnehmenden auf linguistischer und mathematischer Ebene, wie Computer Sprache lernen. Außerdem können sie Chancen und Risiken von KI im gesellschaftlichen Kontext kritisch einordnen.
+
+Die Teilnehmenden erarbeiten vor dem Kurs ein Referat mit entsprechender Literatur. Sie bringen Freude an der Beschäftigung mit Sprache und Mathematik sowie die Bereitschaft, sich mit Unterstützung der Kursleitung auch im Vorfeld in fortgeschrittene mathematische Themen einzuarbeiten, mit. Wenn möglich, kann ein Laptop mitgebracht werden.
