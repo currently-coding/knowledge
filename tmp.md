@@ -567,3 +567,32 @@ Die Theorie der Quanten erlaubt die Verschränkung (Entanglement) mehrerer Zust�
 Der Kurs baut zunächst ein Grundgerüst der Quantenmechanik auf, um die teilweise unintuitiven Konzepte der Quantenmechanik mathematisch und anhand von Beispielen zugänglich zu machen. Darauf aufbauend wird die oben genannte Problematik diskutiert, welche zu Beginn der Quantenmechanik große Fragen darüber aufwarf, ob das Universum deterministisch oder probabilistisch ist. Das Ziel des Kurses ist ein Verständnis von Bell’s Inequality, mit welcher nachgewiesen werden konnte, dass Entanglement tatsächlich real ist (Nobelpreis 2022). Eine Erkenntnis, die, wie der Kurs diskutiert, eine essenzielle Voraussetzung für Quantencomputing ist.
 
 Für den Kurs ist kein fachliches Vorwissen notwendig, alle Konzepte werden schrittweise erarbeitet. Um die Konzepte der Quantenmechanik zu verinnerlichen, lösen die Teilnehmenden in Kleingruppen Probleme, welche dann im Kurs besprochen werden. Besonders schön: Physik heißt Mathematik. Deshalb sollen die Teilnehmenden die notwendigen mathematischen Werkzeuge, insbesondere der linearen Algebra, vor dem Kursbeginn unter Anleitung der Kursleitenden erarbeiten.
+
+
+
+## Kurs Q.3
+### Komplexität trifft Quanten
+Wie Komplexitätstheorie und Quantenphysik zusammenhängen
+
+Zur QuantenAkademie 2025
+10.08. - 25.08.2025
+
+Was haben ein reisender Händler, das Packen eines Rucksacks und Seifenblasen auf einem Nagelbrett gemeinsam? Alle drei beschreiben Probleme, die auf klassischen Computern nur schwer zu lösen sind – doch was heißt „schwer“? In der Informatik werden solche Probleme und ihre Lösbarkeit mit Hilfe der Komplexitätstheorie beschrieben. Die Teilnehmenden lernen die verschiedenen Problemklassen sowie deren Zusammenhänge kennen und analysieren, welche Grenzen sich daraus für ihre praktische Berechenbarkeit ergeben.
+
+Jedoch werden Berechnungen auf physikalischen Systemen (Computern) ausgeführt, deren Verhalten durch physikalische Gesetze bestimmt wird. Dort lassen sich wiederum sogenannte Quanteneffekte beobachten, durch die schwere Probleme scheinbar einfach gelöst werden. Wie also hängen diese Beobachtungen mit der Komplexitätstheorie zusammen?
+
+Um diese Frage zu beantworten, taucht der Kurs in die Welt der Quantenphysik ein und lernt den Quantencomputer kennen. Um ein Verständnis dafür zu entwickeln, welche Probleme/Problemklassen ein Quantencomputer lösen kann, erarbeiten sich die Teilnehmenden die beiden bekanntesten (und ältesten) Quantenalgorithmen: den Grover-Algorithmus und den Shor-Algorithmus. Dadurch nähert sich der Kurs der Verbindung zwischen Physik und Komplexitätstheorie an, was weit hinein in die logischen Grundlagen der Physik und Informatik führt und letztlich tiefe philosophische Fragen aufwirft.
+
+Da das Kursprogramm ehrgeizig ist, sollten Teilnehmende bereit sein, sich anhand eines Vorbereitungsskriptes in die Grundlagen von Logik und Quantenphysik einzuarbeiten. Trotz des mathematischen Schwerpunkts bleibt im Kurs jedoch auch Raum für philosophische Diskussionen.
+
+
+
+
+## Kurs Q.4
+### Universelles Quantencomputing
+Anwendungen moderner Quantenphysik und die vielen Chancen und Herausforderungen
+
+Zur QuantenAkademie 2025
+10.08. - 25.08.2025
+
+In diesem interdisziplinären Kurs werden sich die Teilnehmenden die nötigen Grundlagen der Mathematik und Physik eines einzelnen Quantenbits (Qubits) erarbeiten, um in das Quantencomputing einzusteigen. Der Kurs analysiert das Qubit aus den verschiedenen Perspektiven der Quanteninformationstheorie, dem Programmieren von Quantencomputern und experimenteller Umsetzung am Beispiel der Quantenoptik. Basierend auf den grundlegenden Erkenntnissen werden die Teilnehmenden verschiedene physikalische Realisierungsmöglichkeiten von Verschränkung diskutieren, diese in Präsentationen festhalten, und dann zu Quantenalgorithmen und deren Anwendungen übergehen, die sie mit der Python-Bibliothek Qiskit umsetzen und mit verschiedenen Visualisierungsmethoden unterstützen. Optional wird der Kurs gegen Ende die vielseitigen Facetten der Quantenfehlerkorrektur beleuchten, die essenziell ist für die Einsetzbarkeit universeller Quantencomputer. Als Resultat des Kurses können die Teilnehmenden den aktuellen Stand der Technik, die Herausforderungen und die Zukunftsaussichten des Quantencomputings diskutieren und verstehen die Funktionsweise von Quantenalgorithmen und verschiedener Arten von Quantencomputern. Zur Teilnahme erwartet werden mathematische Grundkenntnisse von elementaren Funktionen, Reihen, Matrizen- und Vektorrechnung und komplexen Zahlen. Die Bearbeitung eines kurzen Vorbereitungsskripts ist deshalb unabdingbar.
