@@ -327,6 +327,17 @@ Achtung: Bei der Akademie in Waldenburg ist aus organisatorischen Gründen keine
 
 
 
+## Kurs 6.1
+### Approximationen
+
+Zur Akademie Torgelow 2025-6
+24.07. - 09.08.2025
+
+Approximationen werden verwendet, um mathematische Objekte (wie z.B. Funktionen, Flächen, etc.), die schwer zu berechnen oder nicht vollständig bekannt sind, durch einfachere, leichter handhabbare Objekte zu ersetzen. Dabei ist zu beachten, dass der durch diese Näherung entstehende Fehler in vertretbaren Grenzen bleibt. Beispielsweise kann der funktionale Zusammenhang zwischen physikalischen Größen, der nur durch einige Messpunkte bekannt ist, durch Polynome approximiert und damit weiteren Untersuchungen zugänglich gemacht werden. Kubische Splines sind hier oft das Mittel der Wahl. Allgemein helfen Approximationen Berechnungsverfahren in mathematischen Anwendungen schneller und effizienter zu machen. Im Kurs werden verschiedene Approximationsprobleme und ihre Lösungen behandelt; dabei lernen die Teilnehmenden die Arbeitsweise der modernen Forschung kennen, indem sie im Spannungsfeld zwischen theoretischen Ansätzen und praktischen Anwendungen agieren.
+
+In einem ersten Kursteil werden die mathematischen Grundlagen in Seminarform erarbeitet; die Teilnehmenden arbeiten gemeinsam an mathematischen Texten, informieren sich gegenseitig über die Literatur und lösen Übungsaufgaben. Im zweiten Teil werden in Zweierteams spezielle Fragestellungen des Themas in Projekten erforscht, deren Ergebnisse im dritten Teil durch Vorträge präsentiert und in schriftlicher Form dokumentiert werden.
+
+Teilnehmende benötigen Kenntnisse in der Differenzial- und Integralrechnung und müssen aufgeschlossen gegenüber neuen und ungewohnten mathematischen Arbeitsmethoden sein. Erwartet wird, dass in kleinen Arbeitsgruppen Themen eines „Expertenpuzzles“ vorbereitet werden. Der Umgang mit wissenschaftlicher Software und Programmierkenntnisse sind bei der Durchführung einiger Projekte nützlich.
 
 
 ## Kurs 6.2
@@ -343,3 +354,22 @@ Die Teilnehmenden bereisen die Entwicklung der maschinellen Sprache von den erst
 Nach der Akademie verstehen die Teilnehmenden auf linguistischer und mathematischer Ebene, wie Computer Sprache lernen. Außerdem können sie Chancen und Risiken von KI im gesellschaftlichen Kontext kritisch einordnen.
 
 Die Teilnehmenden erarbeiten vor dem Kurs ein Referat mit entsprechender Literatur. Sie bringen Freude an der Beschäftigung mit Sprache und Mathematik sowie die Bereitschaft, sich mit Unterstützung der Kursleitung auch im Vorfeld in fortgeschrittene mathematische Themen einzuarbeiten, mit. Wenn möglich, kann ein Laptop mitgebracht werden.
+
+
+
+
+
+## Kurs 6.3
+### Zufall oder Nachweis?
+Feinheiten der Datenauswertung und Statistik
+
+Zur Akademie Torgelow 2025-6
+24.07. - 09.08.2025
+
+Um die Welt zu verstehen und gute Entscheidungen zu treffen, braucht es solide Fakten. Wer Daten und Zahlen vorweisen kann, fühlt sich oft auf der sicheren Seite. Doch selbst die Aussage unverfälschter Daten ist selten so eindeutig, wie es auf den ersten Blick scheint. Sie sprechen nicht für sich selbst – ihre Interpretation bleibt den Betrachtenden überlassen.
+
+Der Kurs enthüllt typische Trugschlüsse: warum sich in Daten immer ein Effekt findet, wenn man lange genug sucht, und weshalb ein Zusammenhang nicht automatisch Ursache und Wirkung bedeutet. Mathematik, insbesondere Statistik, weist den richtigen Weg durch dieses Labyrinth. Die Teilnehmenden sollten daher Ableiten, Integrieren und einfache Wahrscheinlichkeitsrechnungen (Würfel- und Urnenexperimente) beherrschen. Lücken lassen sich im Voraus mit bereitgestellten Materialien schließen, die sich am Schulstoff der Oberstufe orientieren.
+
+Vor Ort behandelt der Kurs Wahrscheinlichkeitsverteilungen, Schätzfunktionen, lineare Regression, Hypothesentests und den Satz von Bayes, theoretisch und mit konkreten Rechenaufgaben. Parallel dazu analysieren die Teilnehmenden in Gruppen eigenständig einen Datensatz, um herauszufinden, welche Erkenntnisse eine gründliche Datenanalyse liefert. Ihre Ergebnisse präsentieren sie regelmäßig in „Minikonferenzen“.
+
+Die benötigten Programmierkenntnisse in Python erwerben die Teilnehmenden durch Vorbereitungsmaterialien und während des Kurses. Vorkenntnisse im Programmieren sind hilfreich, aber nicht erforderlich. Wichtiger sind Freude am analytischen Denken und an der Zusammenarbeit. Da einige Materialien nur auf Englisch vorliegen, erleichtert ein gutes passives Sprachverständnis den Zugang.
