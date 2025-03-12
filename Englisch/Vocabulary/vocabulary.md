@@ -1343,3 +1343,16 @@ premise(noun) () ::: Prämisse, Voraussetzung, Lokal
 <!--SR:!2025-03-14,4,405!2000-01-01,1,210-->
 assumption(noun) (His assumption was right and he won the bet., A newspaper article has to be based on facts, not assumptions., The results confirm the validity of the assumption., I demonstrated that my initial assumption was correct., The assumption of leadership duties was important to him., The theory is based on simple assumptions.) ::: Annahme, Übernahme, Voraussetzung
 <!--SR:!2025-03-14,4,405!2000-01-01,1,210-->
+Linking words: Adding Information := Moreover, Furthermore, In addition, Additionally, Not only that, Besides, Also
+<!--SR:!2025-03-16,4,405-->
+Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the other hand, In contrast, Whereas, While, Conversely, Yet, Despite that
+<!--SR:!2025-03-13,1,365-->
+Linking words: Expressing Cause & Effect := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
+<!--SR:!2025-03-13,1,365-->
+Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically  
+Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly  
+Linking words: Emphasizing a Point := Indeed, In fact, Above all, What is more, Notably, Significantly, Importantly  
+Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that  
+Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile  
+Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that  
+Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary  
