@@ -1,8 +1,3 @@
-aloof
-dilapidated
-bleak
-feasible
-verbatim
 foundational idea  
 discrepancy  
 inconsistency  
