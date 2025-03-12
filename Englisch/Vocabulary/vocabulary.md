@@ -1376,3 +1376,11 @@ to disengage(verb) (I disengaged the hand brake and began to drive.) ::: lï¿½sen
 to disengage oneself(verb) (I should disengage from a few of my hobbies and spend time with my family.) ::: sich freimachen 
 estranged(adjective / past participle) (The estranged brothers rarely spoke to each other., The siblings were estranged for years, but have now made up.) :::  
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend 
+aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert 
+aloof(adverb) (I keep aloof from controversial topics.) ::: abseits 
+dilapidated(adjective / past participle) () :::  
+to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen 
+bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, öde, düster 
+bleak(noun) () ::: Laube, Ukelei 
+feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: möglich, machbar, praktikabel 
+verbatim(adjective) () ::: wörtlich, wortwörtlich, wortgetreu 
