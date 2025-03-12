@@ -1274,8 +1274,6 @@ to confess to(verb) () ::: gestehen
 <<<<<<< HEAD
 to compose(verb) (The piece was composed for strings and brass., I have composed a list of all items., The concert was composed of several different acts.) ::: komponieren, zusammenstellen, zusammensetzen 
 to compose oneself(verb) (I need to compose myself and concentrate on the task.) ::: sich zusammennehmen, sich fassen, sich beruhigen 
-restrained(adjective / past participle) (He has a restrained character.) :::
-<!--SR:!2025-03-06,4,404!2000-01-01,1,210-->
 to restrain(verb) (The student restrained his spending to a minimum., The children could not restrain their enthusiasm in the zoo.) ::: einschränken, zurückhalten, beschränken 
 to restrain oneself(verb) (Although she was angry, she restrained herself and kept calm., Despite the provocation, I was able to restrain myself.) ::: sich zurückhalten, sich beherrschen 
 assertive(adjective) (She is assertive because she knows what she wants., If you want to be successful in your career, you must be assertive.) ::: durchsetzungsfähig, selbstbewusst, energisch 
@@ -1367,13 +1365,13 @@ diligent(adjective) (At school she was a very diligent pupil., My son is a dilig
 <!--SR:!2025-03-16,4,385!2000-01-01,1,210-->
 submissive(adjective) (My dog is quite submissive and not at all dominant.) ::: unterw�rfig, gef�gig, gehorsam
 <!--SR:!2025-03-16,4,405!2000-01-01,1,210-->
-to burden(verb) (I do not want to burden you with my problems.) ::: belasten, beschweren, befrachten 
+to burden(verb) (I do not want to burden you with my problems.) ::: belasten, beschweren, befrachten
+<!--SR:!2025-03-16,4,405!2000-01-01,1,210-->
 weary(adjective) (I am weary of the constant rain., I was weary after the long journey.) ::: �berdr�ssig, m�de, abgespannt 
 neglectful(adjective) () ::: nachl�ssig 
 superficial(adjective) (If you talk about poetry, nobody will think you are superficial.) ::: oberfl�chlich, vordergr�ndig, �u�erlich 
 taciturn(adjective) (The talkative young boy is unusually taciturn today., He usually talks a lot, but today he seems rather taciturn.) ::: wortkarg, schweigsam, einsilbig 
 reclusive(adjective) (Deer are very reclusive animals., The reclusive writer lives alone.) ::: scheu, einsam, eigenbr�tlerisch 
-disengaged(adjective / past participle) () :::  
 to disengage(verb) (I disengaged the hand brake and began to drive.) ::: l�sen, auskuppeln, abkoppeln 
 to disengage oneself(verb) (I should disengage from a few of my hobbies and spend time with my family.) ::: sich freimachen 
 estranged(adjective / past participle) (The estranged brothers rarely spoke to each other., The siblings were estranged for years, but have now made up.) :::  
