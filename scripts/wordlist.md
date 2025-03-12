@@ -1,3 +1,19 @@
+diligent
+
+submissive
+burdened
+weary
+neglectful
+superficial
+unkempt
+taciturn
+reclusive
+disengaged
+estranged
+dysfunctional
+aloof
+dilapidated
+bleak
 feasible
 verbatim
 foundational idea  
