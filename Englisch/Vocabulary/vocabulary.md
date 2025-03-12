@@ -1363,18 +1363,18 @@ Linking words: Expressing Condition := If, Unless, Provided that, As long as, In
 <!--SR:!2025-03-16,4,385-->
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
 <!--SR:!2025-03-16,4,385-->
-diligent(adjective) (At school she was a very diligent pupil., My son is a diligent student., This project requires diligent planning.) ::: gewissenhaft, fleißig, sorgfältig 
-submissive(adjective) (My dog is quite submissive and not at all dominant.) ::: unterwürfig, gefügig, gehorsam 
-burdened(adjective / past participle) () :::  
+diligent(adjective) (At school she was a very diligent pupil., My son is a diligent student., This project requires diligent planning.) ::: gewissenhaft, fleiï¿½ig, sorgfï¿½ltig
+<!--SR:!2025-03-16,4,385!2000-01-01,1,210-->
+submissive(adjective) (My dog is quite submissive and not at all dominant.) ::: unterwï¿½rfig, gefï¿½gig, gehorsam
+<!--SR:!2025-03-16,4,405!2000-01-01,1,210-->
 to burden(verb) (I do not want to burden you with my problems.) ::: belasten, beschweren, befrachten 
-weary(adjective) (I am weary of the constant rain., I was weary after the long journey.) ::: überdrüssig, müde, abgespannt 
-neglectful(adjective) () ::: nachlässig 
-superficial(adjective) (If you talk about poetry, nobody will think you are superficial.) ::: oberflächlich, vordergründig, äußerlich 
-unkempt(adjective / past participle) (After a week without a shower, he looked unkempt., Her hair is always unkempt because she does not brush it.) :::  
+weary(adjective) (I am weary of the constant rain., I was weary after the long journey.) ::: ï¿½berdrï¿½ssig, mï¿½de, abgespannt 
+neglectful(adjective) () ::: nachlï¿½ssig 
+superficial(adjective) (If you talk about poetry, nobody will think you are superficial.) ::: oberflï¿½chlich, vordergrï¿½ndig, ï¿½uï¿½erlich 
 taciturn(adjective) (The talkative young boy is unusually taciturn today., He usually talks a lot, but today he seems rather taciturn.) ::: wortkarg, schweigsam, einsilbig 
-reclusive(adjective) (Deer are very reclusive animals., The reclusive writer lives alone.) ::: scheu, einsam, eigenbrötlerisch 
+reclusive(adjective) (Deer are very reclusive animals., The reclusive writer lives alone.) ::: scheu, einsam, eigenbrï¿½tlerisch 
 disengaged(adjective / past participle) () :::  
-to disengage(verb) (I disengaged the hand brake and began to drive.) ::: lösen, auskuppeln, abkoppeln 
+to disengage(verb) (I disengaged the hand brake and began to drive.) ::: lï¿½sen, auskuppeln, abkoppeln 
 to disengage oneself(verb) (I should disengage from a few of my hobbies and spend time with my family.) ::: sich freimachen 
 estranged(adjective / past participle) (The estranged brothers rarely spoke to each other., The siblings were estranged for years, but have now made up.) :::  
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend 
