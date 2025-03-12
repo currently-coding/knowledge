@@ -29,5 +29,5 @@
 ### Ziel: Internalisierung
 >[!Note]
 >Internalisierung := Verbrauchern Anreiz geben die sozialen Kosten und Nutzen einzubeziehen
-<!--SR:!2025-03-02,7,190-->
+<!--SR:!2025-03-28,16,210-->
 

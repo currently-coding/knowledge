@@ -1349,10 +1349,17 @@ Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the ot
 <!--SR:!2025-03-13,1,365-->
 Linking words: Expressing Cause & Effect := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
 <!--SR:!2025-03-13,1,365-->
-Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically  
-Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly  
-Linking words: Emphasizing a Point := Indeed, In fact, Above all, What is more, Notably, Significantly, Importantly  
-Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that  
-Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile  
-Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that  
-Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary  
+Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
+<!--SR:!2025-03-16,4,385-->
+Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
+<!--SR:!2025-03-16,4,385-->
+Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
+<!--SR:!2025-03-13,1,365-->
+Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
+<!--SR:!2025-03-13,1,365-->
+Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
+<!--SR:!2025-03-16,4,405-->
+Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
+<!--SR:!2025-03-16,4,385-->
+Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
+<!--SR:!2025-03-16,4,385-->
