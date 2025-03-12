@@ -44,7 +44,7 @@ Erläutere die Schritte einer Säure-Base-Titration.
 3. Nach und nach basische Lösung zu saurer hinzutropfen und auf Farbumschlag warten
 4. Zugetropftes Volumen notieren
 5. Konzentration der Säurelösung berechnen
-<!--SR:!2025-03-12,2,210-->
+<!--SR:!2025-03-17,5,230-->
 
 Erkläre die Berechnung der Konzentration der Säurelösung bei gegebenen Daten: ${} V(\text{{Baseloesung}}), V(\text{Säurelösung}), c(\text{Baseloesung})$, Reaktionsgleichung.
 ?
