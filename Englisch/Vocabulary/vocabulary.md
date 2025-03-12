@@ -390,9 +390,9 @@ specimen(noun) (The doctor asked for a specimen., This butterfly is an especiall
 transformation(noun) (The Internet has led to a transformation of society.) ::: Umwandlung, Transformation, Umsetzung
 <!--SR:!2026-08-25,558,409!2026-10-15,599,408-->
 rebellion(noun) (The unrest of the people turned into a rebellion.) ::: Rebellion, Aufstand, Aufruhr
-<!--SR:!2026-11-16,626,408!2025-03-12,130,388-->
+<!--SR:!2026-11-16,626,408!2026-10-16,583,408-->
 dramatic(adjective) () ::: dramatisch, pathetisch, darstellerisch
-<!--SR:!2026-05-08,467,405!2025-03-12,130,388-->
+<!--SR:!2026-05-08,467,405!2026-10-17,584,408-->
 tuition(noun) (Tuition takes place at our modern classrooms., Private schools usually charge tuition.) ::: Unterricht, Schulgeld, Unterweisung
 <!--SR:!2025-08-13,243,368!2026-06-07,494,405-->
 one-to-one tuition(noun) () ::: Einzelunterricht
@@ -424,7 +424,7 @@ helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: H
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
 <!--SR:!2026-06-10,500,409!2025-06-17,185,347-->
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
-<!--SR:!2026-04-21,450,408!2025-03-12,130,387-->
+<!--SR:!2026-04-21,450,408!2026-10-14,581,407-->
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
 <!--SR:!2025-04-29,157,389!2026-10-28,606,416-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
