@@ -12,7 +12,6 @@ $$
 - In jedem Bahnpunkt wirkt die erforderliche Zentripetalkraft *radial zum Kreismittelpunkt*(=> auch $a_z$ wirkt radial zum Kreismittelpunkt)
 
 ## Beispiel: Kettenkarussell
-#todo skizze importieren
 
 ## Beispiel: Kurvenfahrt
 ![[Phyik-Kurvenfahrt]]
