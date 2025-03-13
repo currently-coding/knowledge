@@ -1345,14 +1345,14 @@ Linking words: Adding Information := Moreover, Furthermore, In addition, Additio
 <!--SR:!2025-03-16,4,405-->
 Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the other hand, In contrast, Whereas, While, Conversely, Yet, Despite that
 <!--SR:!2025-03-14,1,345-->
-Linking words: Expressing Cause & Effect := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
-<!--SR:!2025-03-13,1,365-->
+Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
+<!--SR:!2025-03-14,1,345-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
 <!--SR:!2025-03-16,4,385-->
 Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
 <!--SR:!2025-03-16,4,385-->
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
-<!--SR:!2025-03-13,1,365-->
+<!--SR:!2025-03-14,1,345-->
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
 <!--SR:!2025-03-17,4,365-->
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
@@ -1367,20 +1367,29 @@ submissive(adjective) (My dog is quite submissive and not at all dominant.) ::: 
 <!--SR:!2025-03-16,4,405!2000-01-01,1,210-->
 to burden(verb) (I do not want to burden you with my problems.) ::: belasten, beschweren, befrachten
 <!--SR:!2025-03-16,4,405!2000-01-01,1,210-->
-weary(adjective) (I am weary of the constant rain., I was weary after the long journey.) ::: �berdr�ssig, m�de, abgespannt 
-neglectful(adjective) () ::: nachl�ssig 
-superficial(adjective) (If you talk about poetry, nobody will think you are superficial.) ::: oberfl�chlich, vordergr�ndig, �u�erlich 
+weary(adjective) (I am weary of the constant rain., I was weary after the long journey.) ::: �berdr�ssig, m�de, abgespannt
+<!--SR:!2025-03-17,4,385!2000-01-01,1,210-->
+neglectful(adjective) () ::: nachl�ssig
+<!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
+superficial(adjective) (If you talk about poetry, nobody will think you are superficial.) ::: oberfl�chlich, vordergr�ndig, �u�erlich
+<!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
 taciturn(adjective) (The talkative young boy is unusually taciturn today., He usually talks a lot, but today he seems rather taciturn.) ::: wortkarg, schweigsam, einsilbig 
-reclusive(adjective) (Deer are very reclusive animals., The reclusive writer lives alone.) ::: scheu, einsam, eigenbr�tlerisch 
-to disengage(verb) (I disengaged the hand brake and began to drive.) ::: l�sen, auskuppeln, abkoppeln 
-to disengage oneself(verb) (I should disengage from a few of my hobbies and spend time with my family.) ::: sich freimachen 
-estranged(adjective / past participle) (The estranged brothers rarely spoke to each other., The siblings were estranged for years, but have now made up.) :::  
-dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend 
-aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert 
+reclusive(adjective) (Deer are very reclusive animals., The reclusive writer lives alone.) ::: scheu, einsam, eigenbr�tlerisch
+<!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
+to disengage(verb) (I disengaged the hand brake and began to drive.) ::: l�sen, auskuppeln, abkoppeln
+<!--SR:!2000-01-01,1,210!2025-03-17,4,405-->
+to disengage oneself(verb) (I should disengage from a few of my hobbies and spend time with my family.) ::: sich freimachen
+<!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
+dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend
+<!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
+aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert, reserviert
+<!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
 aloof(adverb) (I keep aloof from controversial topics.) ::: abseits 
-dilapidated(adjective / past participle) () :::  
-to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen 
-bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, �de, d�ster 
-bleak(noun) () ::: Laube, Ukelei 
-feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: m�glich, machbar, praktikabel 
-verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu 
+to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
+<!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
+bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, �de, d�ster
+<!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
+feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: m�glich, machbar, praktikabel
+<!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
+verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
+<!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
