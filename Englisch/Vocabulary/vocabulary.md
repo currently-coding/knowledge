@@ -1389,9 +1389,9 @@ aloof(adverb) (I keep aloof from controversial topics.) ::: abseits
 <!--SR:!2000-01-01,1,210!2025-03-17,4,405-->
 to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
 <!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
-bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, �de, duester
+bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, öde, düster
 <!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
-feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: moeglich, machbar, praktikabel
+feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: möglich, machbar, praktikabel
 <!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
 verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
 <!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
