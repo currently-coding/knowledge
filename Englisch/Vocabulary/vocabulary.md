@@ -1373,7 +1373,8 @@ neglectful(adjective) () ::: nachl�ssig
 <!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
 superficial(adjective) (If you talk about poetry, nobody will think you are superficial.) ::: oberfl�chlich, vordergr�ndig, �u�erlich
 <!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
-taciturn(adjective) (The talkative young boy is unusually taciturn today., He usually talks a lot, but today he seems rather taciturn.) ::: wortkarg, schweigsam, einsilbig 
+taciturn(adjective) (The talkative young boy is unusually taciturn today., He usually talks a lot, but today he seems rather taciturn.) ::: wortkarg, schweigsam, einsilbig
+<!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
 reclusive(adjective) (Deer are very reclusive animals., The reclusive writer lives alone.) ::: scheu, einsam, eigenbr�tlerisch
 <!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
 to disengage(verb) (I disengaged the hand brake and began to drive.) ::: l�sen, auskuppeln, abkoppeln
@@ -1383,8 +1384,9 @@ to disengage oneself(verb) (I should disengage from a few of my hobbies and spen
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend
 <!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
 aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert, reserviert
-<!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
-aloof(adverb) (I keep aloof from controversial topics.) ::: abseits 
+<!--SR:!2025-03-17,4,405!2025-03-14,1,365-->
+aloof(adverb) (I keep aloof from controversial topics.) ::: abseits
+<!--SR:!2000-01-01,1,210!2025-03-17,4,405-->
 to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
 <!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
 bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, �de, d�ster
