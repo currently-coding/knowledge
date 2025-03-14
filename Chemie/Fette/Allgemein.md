@@ -6,3 +6,6 @@
 -> aufgrund der Doppelbindung liegt eine Z-E-Isomerie vor
 ![[Z-E-Isomerie]]
 - bei Fettsäuren liegt meist eine Z-Konfiguration vor
+```smiles
+O=C
+```
