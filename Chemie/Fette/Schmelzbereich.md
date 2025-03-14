@@ -1,1 +1,1 @@
-da Fette aus 3 (meist verschiedenen) Fettsäuren aufgebaut sind, deren *Schmelztemperatur jeweils verschieden* ist, gibt es keinen definierten Schmelzpunkt, sonder einen **Schmelzbereich**
+Da Fette aus 3 (meist verschiedenen) Fettsäuren aufgebaut sind, deren *Schmelztemperatur jeweils verschieden* ist, gibt es keinen definierten Schmelzpunkt, sonder einen **Schmelzbereich**
