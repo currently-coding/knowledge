@@ -1,0 +1,37 @@
+{
+  "dateFormat": "dd/mm/yy",
+  "fileDateProperty": "",
+  "fileDatePropertyFormat": "",
+  "legendOrder": "ASCENDING_CHART_VALUE",
+  "categories": [
+    {
+      "id": 2,
+      "name": "Notes",
+      "pattern": ":regex:.*\\.(md)$",
+      "color": "#ea8383",
+      "alwaysApply": false
+    },
+    {
+      "alwaysApply": false,
+      "color": "#0ded17",
+      "id": 4,
+      "name": "Attachment",
+      "pattern": ":in:[Attachments]"
+    },
+    {
+      "id": 3,
+      "name": "Other Files",
+      "pattern": ":regex:.*$",
+      "color": "#0dd6a8",
+      "alwaysApply": false
+    },
+    {
+      "id": 1,
+      "name": "All Files",
+      "pattern": ":regex:.*$",
+      "color": "#0ded17",
+      "alwaysApply": true
+    }
+  ],
+  "startDateBasedOn": -1
+}
