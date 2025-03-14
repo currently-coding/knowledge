@@ -1,18 +1,12 @@
 >[!Definition]
 >Fett := [[Ester]] des Alkohols Glycerin mit drei Fettsäuren. Diese Verbindungen werden **Triacylglycerine** genannt.
 ## Grundlegender Aufbau
-### Glycerin - Propan-1,2,3-triol
-```smiles
-C(C(CO)O)O
-```
-
+![[Glycerin]]
 ### Fettsäure
-
+-> [[Fettsäuren]]
 ```smiles
 CCCCCCCCCCCCCCCC(=O)O
 ```
 ### Ester
--> [[Ester]] als funktionale Gruppe enthalten
+-> [[Ester]] als funktionale Gruppe enthalten(-> [[Veresterung]])
 ![[Unsaturated_Triglyceride_Structural_Formula_V1.svg.png]]
-## Fettsäuren
-![[Fettsäuren]]
