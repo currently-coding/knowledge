@@ -3,4 +3,6 @@
 ## Arten von Fettsäuren
 **gesättigte Fettsäure** := hat keine Doppelbindung
 **ungesättigte Fettsäure** := hat mindestens 1 Doppelbindung
--> [[Z-E-Isomerie]]
+-> aufgrund der Doppelbindung liegt eine Z-E-Isomerie vor
+![[Z-E-Isomerie]]
+- bei Fettsäuren liegt meist eine Z-Konfiguration vor
