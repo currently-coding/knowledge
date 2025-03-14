@@ -1,3 +1,6 @@
+Voraussetzung:
+- erhöhte Temperatur
+- Zugabe von Säure(meist wird [[Schwefelsäure]] verwendet)
 ## Reaktion
 ![[Pasted image 20250314195237.png]]
 - gilt nur bei primären und sekundären Alkoholen
