@@ -4,6 +4,6 @@ C(C(CO)O)O
 ```
 - dreifacher Alkohol
 
-Unter hohen Temperaturen:
+Unter hohen Temperaturen zersetzt sich Glycerin:
 $\text{Glycerin} \to \text{Propenal} + H_{2}O$
 ![[Propenal]]
