@@ -4,7 +4,9 @@
 
 ## Arten von Fettsäuren
 **gesättigte Fettsäure** := hat keine Doppelbindung
+<!--SR:!2025-03-17,3,230-->
 **ungesättigte Fettsäure** := hat mindestens 1 Doppelbindung
+<!--SR:!2025-03-17,3,230-->
 -> aufgrund der Doppelbindung liegt eine Z-E-Isomerie vor
 ![[Z-E-Isomerie]]
 - bei Fettsäuren liegt meist eine Z-Konfiguration vor
@@ -21,4 +23,5 @@ CCCC/C=C\CCCCCCCCCCCCC(O)=O
 
 >[!Definition]
 >Essentielle Fettsäure := kann vom Körper nicht synthetisiert werden und muss über die Nahrung aufgenommen werden
+<!--SR:!2025-03-17,3,230-->
 
