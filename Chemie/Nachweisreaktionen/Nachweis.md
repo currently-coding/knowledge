@@ -5,3 +5,8 @@
 - [[Nitrat]]
 - [[Schwefeldioxid]]
 - [[Vitamin C]]
+- [[Fettsäure in Fetten]]
+- [[Fett]]
+- [[reduzierende Zucker]]
+- [[Doppelbindung]]
+- [[Fructose]]

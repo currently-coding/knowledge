@@ -102,7 +102,7 @@
       "query": "path:Musik  ",
       "color": {
         "a": 1,
-        "rgb": 5361080
+        "rgb": 11644207
       }
     },
     {
@@ -154,9 +154,9 @@
   "nodeSizeMultiplier": 1.325,
   "lineSizeMultiplier": 1.7078125,
   "collapse-forces": false,
-  "centerStrength": 0.515625,
-  "repelStrength": 18.9583333333333,
-  "linkStrength": 0.807291666666667,
+  "centerStrength": 0.546875,
+  "repelStrength": 20,
+  "linkStrength": 1,
   "linkDistance": 412,
   "scale": 0.11654428624196161,
   "close": false

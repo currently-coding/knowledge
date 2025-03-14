@@ -1,5 +1,5 @@
 ## Makronaehrstoffe
-- [[Fette]]
+- [[Chemie/Fette/Allgemein|Fette]]
 - [[Proteine]]
 - [[Kohlenhydrate]]
 => Energielieferanten
