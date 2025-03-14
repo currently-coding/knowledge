@@ -17,3 +17,8 @@ CCCC/C=C\CCCCCCCCCCCCC(O)=O
 - Omega = von hinten(=nicht der [[Carboxylgruppe]]) gezählt
 	- Alpha = von der [[Carboxylgruppe]] gezählt
 - 3 = zwischen 3. und 4. C-Atom
+---
+
+>[!Definition]
+>Essentielle Fettsäure := kann vom Körper nicht synthetisiert werden und muss über die Nahrung aufgenommen werden
+
