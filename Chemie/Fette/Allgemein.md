@@ -5,6 +5,7 @@
 ```smiles
 C(C(CO)O)O
 ```
+
 ### Fettsäure
 
 ```smiles
