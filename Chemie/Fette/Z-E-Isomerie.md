@@ -6,5 +6,5 @@
 ```smiles
 [R]/C=C/[R]
 ```
-
-
+---
+Aufgrund der Doppelbindung
