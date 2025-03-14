@@ -14,4 +14,4 @@ CCCCCCCCCCCCCCCC(=O)O
 -> [[Ester]] als funktionale Gruppe enthalten
 ![[Unsaturated_Triglyceride_Structural_Formula_V1.svg.png]]
 ## Fettsäuren
-![[Merkmale]]
+![[Fettsäuren]]
