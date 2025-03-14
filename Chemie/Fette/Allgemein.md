@@ -1,5 +1,5 @@
 >[!Definition]
->Fett := Ester des Alkohols Glycerin mit drei Fettsäuren. Diese Verbindungen werden **Triacylglycerine** genannt.
+>Fett := [[Ester]] des Alkohols Glycerin mit drei Fettsäuren. Diese Verbindungen werden **Triacylglycerine** genannt.
 ## Arten von Fettsäuren
 **gesättigte Fettsäure** := hat keine Doppelbindung
 **ungesättigte Fettsäure** := hat mindestens 1 Doppelbindung
