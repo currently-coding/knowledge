@@ -460,7 +460,7 @@ excruciating(adjective) (She was finally relieved from her excruciating pain.) :
 to excruciate(verb) () ::: quälen
 <!--SR:!2025-05-01,52,382!2025-03-05,119,401-->
 to fathom(verb) (The doctor was able to fathom the cause of the illness.) ::: ergründen, ausloten, verstehen
-<!--SR:!2025-03-14,120,405!2026-03-05,391,381-->
+<!--SR:!2026-09-26,561,425!2026-03-05,391,381-->
 nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch, doch, gleichwohl
 <!--SR:!2025-05-29,165,422!2025-08-21,188,281-->
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
@@ -1384,13 +1384,13 @@ to disengage oneself(verb) (I should disengage from a few of my hobbies and spen
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend
 <!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
 aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert, reserviert
-<!--SR:!2025-03-17,4,405!2025-03-14,1,365-->
+<!--SR:!2025-03-17,4,405!2025-03-18,4,385-->
 aloof(adverb) (I keep aloof from controversial topics.) ::: abseits
 <!--SR:!2000-01-01,1,210!2025-03-17,4,405-->
 to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
 <!--SR:!2025-03-17,4,405!2000-0101,1,210-->
 bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, öde, düster
-<!--SR:!2025-03-14,1,365!2025-03-14,1,365-->
+<!--SR:!2025-03-18,4,385!2025-03-14,1,365-->
 feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: möglich, machbar, praktikabel
 <!--SR:!2025-03-17,4,405!2025-03-18,4,385-->
 verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
