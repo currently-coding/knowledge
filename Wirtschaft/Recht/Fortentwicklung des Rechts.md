@@ -9,8 +9,8 @@
 - Einfügung zusätzlicher neuer Paragrafen
 - Verabschiedung neuer Gesetze
 
-## Beruecksichtigungen bei Fortentwicklung
+## Berücksichtigungen bei Fortentwicklung
 - Gerechtigkeit
 - Rechtssicherheit
-- Zweckmaessigkeit
+- Zweckmäßigkeit
 - Ewigkeitsklausel Art.79 Abs.3 GG
