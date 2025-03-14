@@ -15,5 +15,5 @@ CCCC/C=C\CCCCCCCCCCCCC(O)=O
 ## Benennung
 **"Omega-3-Fettsäure"**:
 - Omega = von hinten(=nicht der [[Carboxylgruppe]]) gezählt
-	- 
+	- Alpha = von der [[Carboxylgruppe]] gezählt
 - 3 = zwischen 3. und 4. C-Atom
