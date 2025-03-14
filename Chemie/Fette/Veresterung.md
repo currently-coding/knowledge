@@ -6,11 +6,9 @@ Voraussetzung:
 ![[Pasted image 20250314195237.png]]
 - gilt nur bei primären und sekundären Alkoholen
 ## Erklärung
-- mit Saeurekatalysator(daher kommt das $\ce H^+$)
-
-Protonierung der Carbonsäure zu einem mesomeriestabilisierten Kation
+Protonierung(durch $\ce H^+$ der Schwefelsäure als Katalysator) der Carbonsäure zu einem mesomeriestabilisierten Kation
 ![[Pasted image 20250314191521.png]]
-Das gebildete Kation wird nukleophil von  der Hydroxygruppe des Alkohols angegriffen. Das Wasserstoffatom des ursprünglichen Alkanols bildet eine intramolekulare Wasserstoffbrücke zu einem Sauerstoffatom der Carboxylgruppe aus und geht mit diesem schließlich eine Bindung ein.
+Das gebildete Kation wird **nukleophil** von  der Hydroxygruppe des Alkohols angegriffen. Das Wasserstoffatom des ursprünglichen Alkanols bildet eine intramolekulare Wasserstoffbrücke zu einem Sauerstoffatom der Carboxylgruppe aus und geht mit diesem schließlich eine Bindung ein.
 ![[Pasted image 20250314200406.png]]
 Das oben im letzten Schritt entstandene Oxonium-ion spaltet zunächst Wasser zu einem Kation ab, das nach Deprotonierung den Ester ergibt. 
 ![[Pasted image 20250314200418.png]]
