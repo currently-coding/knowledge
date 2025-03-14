@@ -1,7 +1,7 @@
 - [[Aldehyd]]
 - [[Aldehyd oder Keton]]
 - [[Carbonsäuren]]
-- [[Hydroxygruppen]]
+- [[Hydroxylgruppen]]
 - [[Nitrat]]
 - [[Schwefeldioxid]]
 - [[Vitamin C]]

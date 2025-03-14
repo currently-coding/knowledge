@@ -2,10 +2,12 @@ Voraussetzung:
 - erhöhte Temperatur
 - Zugabe von Säure(meist wird [[Schwefelsäure]] verwendet)
 ## Reaktion
+- Gleichgewichtsreaktion
 ![[Pasted image 20250314195237.png]]
 - gilt nur bei primären und sekundären Alkoholen
 ## Erklärung
 - mit Saeurekatalysator(daher kommt das $\ce H^+$)
+
 Protonierung der Carbonsäure zu einem mesomeriestabilisierten Kation
 ![[Pasted image 20250314191521.png]]
 Das gebildete Kation wird nukleophil von  der Hydroxygruppe des Alkohols angegriffen. Das Wasserstoffatom des ursprünglichen Alkanols bildet eine intramolekulare Wasserstoffbrücke zu einem Sauerstoffatom der Carboxylgruppe aus und geht mit diesem schließlich eine Bindung ein.
