@@ -11,7 +11,7 @@ C(C(CO)O)O
 CCCCCCCCCCCCCCCC(=O)O
 ```
 ### Ester
--> [[Ester]] 
+-> [[Ester]] als funktionale Gruppe enthalten
 ![[Unsaturated_Triglyceride_Structural_Formula_V1.svg.png]]
 ## Arten von Fettsäuren
 **gesättigte Fettsäure** := hat keine Doppelbindung
@@ -22,4 +22,4 @@ CCCCCCCCCCCCCCCC(=O)O
 ```smiles
 CCCC/C=C\CCCCCCCCCCCCC(O)=O
 ```
-- dadurch herrschen 
+- aufgrund des "Knicks" herrschen weniger [[London-Dispersions-Kräfte]] -> niedrigerer [[Schmelzbereich]]
