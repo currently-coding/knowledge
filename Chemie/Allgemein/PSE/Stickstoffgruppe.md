@@ -3,9 +3,5 @@
 > Die Gruppe wird nach den ersten Elementen auch als Stickstoff-Gruppe oder Stickstoff-Phosphor-Gruppe bezeichnet. Die Bezeichnung Pentele (von gr. πέντε pente = fünf) wird von der IUPAC nicht mehr empfohlen.
 >
 > Die von der IUPAC akzeptierten, aber ungebräuchlichen Bezeichnungen Pnictogene, Pnicogene oder Pnikogene gehen auf das griechische Wort πνίγειν zurück, was so viel wie Ersticken bedeutet.
->
-> 
->
-> 	Die **Stickstoffgruppe** bzw. Pnictogene
->
+>![[Pasted image 20250315073940.png]]
 > [Wikipedia](https://de.wikipedia.org/wiki/Stickstoffgruppe)
