@@ -1,16 +1,10 @@
-[[Soundscape|Soundscapes]] bestehen aus 2 Teilen:
-1. **Keynote-Sounds**:
-	- Hintergrund der [[Soundscape]]
-		- Klima, Geografie
-		- Flora & Fauna
-2. **Sound Signals**:
-	- Vordergrund der [[Soundscape]]
-		- oft Warnsignale wie Glocken und Sirenen
-		- Tierlaute
+![[Soundscape|Soundscapes]] 
 
 >[!Definition]
 >Sample := aufgenommener Klang/Baustein
+<!--SR:!2025-03-18,3,230-->
 
 >[!Definition]
 >Sounddesign := kreatives Nutzen von Samples
+<!--SR:!2025-03-18,3,230-->
 - benutzt in Computerspielen, Filmen, Musicals, Opern
