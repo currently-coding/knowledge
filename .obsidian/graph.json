@@ -25,7 +25,7 @@
       "query": "path:Chemie",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 65493
       }
     },
     {
@@ -144,20 +144,20 @@
       "query": "path:\"Computer Science/Theoretische Informatik\"  ",
       "color": {
         "a": 1,
-        "rgb": 6160199
+        "rgb": 14810880
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.325,
   "lineSizeMultiplier": 1.7078125,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.546875,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 412,
-  "scale": 0.11654428624196161,
+  "scale": 0.4502584271791798,
   "close": false
 }

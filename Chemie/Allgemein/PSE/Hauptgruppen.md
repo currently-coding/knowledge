@@ -1,0 +1,8 @@
+1. [[Alkalimetalle]]
+2. [[Erdalkalimetalle]]
+3. [[Borgruppe]]
+4. [[Kohlenstoffgruppe]]
+5. [[Stickstoffgruppe]]
+6. [[Chalkogene]]
+7. [[Halogene]]
+8. [[Edelgase]]
