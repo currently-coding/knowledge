@@ -12,7 +12,7 @@
   "dataview": false,
   "inlineSmiles": true,
   "inlineSmilesPrefix": "/smiles=",
-  "core": "smiles-drawer",
+  "core": "rdkit",
   "commonOptions": {
     "width": 600,
     "scale": 1,
