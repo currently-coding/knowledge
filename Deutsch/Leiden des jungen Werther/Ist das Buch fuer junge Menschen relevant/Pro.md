@@ -7,4 +7,5 @@
 		- Wenige erleben Liebeskummer dieser Stärke
 2. Gesellschaftskritik an der Leistungsgesellschaft
 	- **Entkräftung**: \<Zitat S. 10>: Diese Situation trifft heute - zu Zeiten von Work-Life-Balance, 4-Tage-Woche, etc. nicht mehr zu.
-3. 
+3. Psychische Gesundheit als wichtiges Thema
+	- **Entkräftung**: falsche Lösung wird dargestellt
