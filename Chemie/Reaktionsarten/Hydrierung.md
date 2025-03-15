@@ -1,3 +1,5 @@
+>[!Definition]
+>Hydrierung := Addition von Wasserstoff an chemische Elemente/Verbindungen.
 > Unter **Hydrierung** versteht man in der Chemie die Addition von Wasserstoff an andere chemische Elemente oder Verbindungen. Eine in der organischen Chemie sehr häufig durchgeführte chemische Reaktion ist die addierende Hydrierung von Kohlenstoff-Kohlenstoff-Doppelbindungen. Hydrierungen haben eine große industrielle Bedeutung wie z. B. bei der katalytischen Hydrierung von Fettsäuren (Fetthärtung) bei der Herstellung von Margarine.
 >
 > Die umgekehrte Reaktion heißt [[Dehydrierung]].
