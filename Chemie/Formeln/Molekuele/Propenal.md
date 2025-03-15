@@ -1,4 +1,4 @@
 ```smiles
-C(=O)/C=C\
+[H]C(C(=O))=C([H])[H]\
 ```
 - toxisch
