@@ -10,9 +10,10 @@ Die umgekehrte Reaktion heißt [[Dehydrierung]].
 ## Verwendung
 - [[Fetthärtung]]
 ## Reaktion
-Vorraussetzung:
+Voraussetzung:
 - Katalysator
-	- da hohe Stabilitaet von 
+	- da hohe Stabilität von $\ce H_{2}$
+	![[Untitled.jpg]]
 - hohe Temperatur
 Auflösung der Doppelbindung in Z-Pent-2-en:
 $\ce H_{3}C-CH=CH-CH_{2}-CH_{3} + H_{2} \to H_{3}C-CH_{2}-CH_{2}-CH_{2}-CH_{3}$
