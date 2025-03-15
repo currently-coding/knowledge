@@ -1,3 +1,5 @@
-> Als **Alkalimetalle** werden die chemischen Elemente Lithium, Natrium, Kalium, Rubidium, Caesium und Francium aus der 1. Hauptgruppe des Periodensystems bezeichnet. Sie sind silbrig glänzende, reaktive Metalle, die in ihrer Valenzschale ein einzelnes Elektron besitzen, das sie als starke Reduktionsmittel leicht abgeben können. Obwohl Wasserstoff in vielen Darstellungen des Periodensystems auch in der ersten Hauptgruppe steht – ganz oben und meist mit einer Lücke abgetrennt, oder in anderer Farbe dargestellt – kann Wasserstoff keinesfalls zu den Alkalimetallen gezählt werden. Als typisches Nichtmetall ist Wasserstoff unter Standardbedingungen gasförmig und nicht fest, hat eine viel größere Ionisierungsenergie und zeigt keine typischen metallische Eigenschaften.
+> Als **Alkalimetalle** werden die chemischen Elemente **Lithium, Natrium, Kalium, Rubidium, Caesium und Francium** aus der **1. Hauptgruppe** des Periodensystems bezeichnet. Sie sind silbrig glänzende, **reaktive Metalle**, die in ihrer Valenzschale ein einzelnes Elektron besitzen, das sie als **starke Reduktionsmittel** leicht abgeben können.
+>
+>  **ACHTUNG**: Wasserstoff($\ce H$) zählt nicht zu den Alkalimetallen!
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Alkalimetalle)
