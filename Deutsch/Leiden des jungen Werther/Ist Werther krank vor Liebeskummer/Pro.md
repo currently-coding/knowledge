@@ -2,4 +2,5 @@
 >krank = nach heutigen psychologischen Masstaeben als krank diagnostiziert
 
 1. Sucht nach Lotte
-	> "Alles, alles verschlingt sich in dieser Aussicht"
+>"Alles, alles verschlingt sich in dieser Aussicht" - S.46/16
+- **Entkräftung**: 
