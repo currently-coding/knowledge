@@ -24,7 +24,7 @@ $\ce H_{3}C-CH=CH-CH_{2}-CH_{3} + H_{2} \to H_{3}C-CH_{2}-CH_{2}-CH_{2}-CH_{3}$
 ```
 
 ## Aufgaben
-Zeigen sie, dass bei der Hydrierung von [[Ethen]] eine Redoxreaktion stattfindet.
+
+Zeigen Sie, dass bei der Hydrierung von [[Ethen]] eine Redoxreaktion stattfindet.
 ?
-
-
+${} \ce  {}$
