@@ -14,7 +14,7 @@
   "inlineSmilesPrefix": "$smiles=",
   "core": "smiles-drawer",
   "commonOptions": {
-    "width": 700,
+    "width": 600,
     "scale": 1,
     "unifiedWidth": 300,
     "compactDrawing": false,
@@ -26,7 +26,7 @@
       "compactDrawing": false,
       "terminalCarbons": true,
       "explicitHydrogens": true,
-      "width": 700
+      "width": 600
     },
     "reactionOptions": {}
   },
