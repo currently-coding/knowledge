@@ -27,5 +27,4 @@ $\ce H_{3}C-CH=CH-CH_{2}-CH_{3} + H_{2} \to H_{3}C-CH_{2}-CH_{2}-CH_{2}-CH_{3}$
 
 Zeigen Sie, dass bei der Hydrierung von [[Ethen]] eine Redoxreaktion stattfindet.
 ?
-$a\overset{\text{M}}$
-$trans-Fettsäuren$
+Oxidation: Wasserstoff 
