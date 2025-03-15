@@ -22,3 +22,9 @@ $\ce H_{3}C-CH=CH-CH_{2}-CH_{3} + H_{2} \to H_{3}C-CH_{2}-CH_{2}-CH_{2}-CH_{3}$
 [R]/C([H])=C([H])\[R]
 [R]C([H])([H])C([H])([H])[R]
 ```
+
+## Aufgaben
+Zeigen sie, dass bei der Hydrierung von [[Ethen]] eine Redoxreaktion stattfindet.
+?
+
+
