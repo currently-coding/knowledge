@@ -1,6 +1,8 @@
 1. Fehlender Bezug zum Alltag junger Menschen
+	- andere 
 
-2. Alte Sprache und ungewohnte Form des Briefromans verhindert Zugang
+3. Alte Sprache und ungewohnte Form des Briefromans verhindert Zugang
 	- **Entkräftung**: Schule bereitet einen darauf vor
 	
-3. Dargestellter Umgang mit Liebeskummer spricht
+4. Dargestellter Umgang mit Liebeskummer spricht nicht an
+	- **Entkräftung**: 
