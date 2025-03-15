@@ -4,4 +4,4 @@
 1. Liebe als universell relevantes Thema behandelt
 	- **Entkräftung**: Wird oft behandelt - macht Werther nicht relevant
 2. Gesellschaftskritik
-	- **Entkräftung**: 
+	- **Entkräftung**: \<Zitat S. 10>: 
