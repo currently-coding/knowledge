@@ -2,8 +2,10 @@
 	- andere gesellschaftliche Systeme/Strukturen
 	- **Entkräftung**: -
 
-3. Alte Sprache und ungewohnte Form des Briefromans verhindert Zugang
+2. Alte Sprache und ungewohnte Form des Briefromans verhindert Zugang
+	- keine schreibt Briefe
+	- Grammatik schwer verständlich
 	- **Entkräftung**: Schule bereitet einen darauf vor
 	
-4. Dargestellter Umgang mit Liebeskummer spricht nicht an
+3. Dargestellter Umgang mit Liebeskummer spricht nicht an
 	- **Entkräftung**: regt an über psychische Gesundheit(aktuelles Thema) zu diskutieren
