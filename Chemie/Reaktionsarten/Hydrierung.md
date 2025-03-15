@@ -11,6 +11,4 @@ Die umgekehrte Reaktion heißt [[Dehydrierung]].
 - [[Fetthärtung]]
 ## Reaktion
 Auflösung der Doppelbindung in Z-Pent-2-en:
-```smiles
-CCC=CC
-```
+>Z-Pent-2-en + ${} \ce H_{2} \to H_{3}C-CH_{2}-CH_{2}-CH_{2} {}$
