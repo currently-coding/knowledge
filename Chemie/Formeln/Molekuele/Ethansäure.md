@@ -1,3 +1,4 @@
 ```smiles
-O=S(=O)(O)O
+CC(=O)O
 ```
+
