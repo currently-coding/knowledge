@@ -6,7 +6,7 @@
 ### Fettsäure
 -> [[Fettsäuren]]
 ```smiles
-CCCCCCCCCCCCCCCC(=O)O
+CCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 ```
 ### Ester
 -> [[Ester]] als funktionale Gruppe enthalten(-> [[Veresterung]])
