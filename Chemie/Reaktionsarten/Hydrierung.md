@@ -1,5 +1,6 @@
 >[!Definition]
 Hydrierung := Addition von Wasserstoff an chemische Elemente/Verbindungen.
+<!--SR:!2025-03-17,2,210-->
 
 Die umgekehrte Reaktion heißt [[Dehydrierung]].
 
@@ -27,5 +28,6 @@ $\ce H_{3}C-CH=CH-CH_{2}-CH_{3} + H_{2} \to H_{3}C-CH_{2}-CH_{2}-CH_{2}-CH_{3}$
 
 Zeigen Sie, dass bei der Hydrierung von [[Ethen]] eine Redoxreaktion stattfindet.
 ?
-Oxidation: Wasserstoff 0 -> 1
-Reduktion: C -2 -> -3
+Oxidation: Wasserstoff $0 \to 1$
+Reduktion: C $-2 \to -3$
+<!--SR:!2025-03-18,3,230-->
