@@ -10,8 +10,8 @@
     "theme": "default"
   },
   "dataview": false,
-  "inlineSmiles": false,
-  "inlineSmilesPrefix": "$smiles=",
+  "inlineSmiles": true,
+  "inlineSmilesPrefix": "/smiles=",
   "core": "smiles-drawer",
   "commonOptions": {
     "width": 600,
