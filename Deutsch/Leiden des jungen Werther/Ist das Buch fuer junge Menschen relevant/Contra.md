@@ -2,5 +2,5 @@
 
 2. Alte Sprache und ungewohnte Form des Briefromans verhindert Zugang
 	- **Entkräftung**: Schule bereitet einen darauf vor
-
-3. 
+	
+3. Dargestellter Umgang mit Liebeskummer spricht
