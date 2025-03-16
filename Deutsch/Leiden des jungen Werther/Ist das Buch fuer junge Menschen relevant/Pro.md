@@ -12,6 +12,11 @@
 3. Psychische Gesundheit als wichtiges Thema
 	- **Entkräftung**: falsche Lösung wird dargestellt
 4. Selbstfindung als universelles Thema der Jugend
-(6. Kritisiert Monopole)
-	- FAANG-Kritik, die alle Innovation aufkaufen/unterdrücken
-	>"warum der Strom des Genies so selten ausbricht, \[...] Liebe Freunde, da wohnen die gelassenen Herren \[...] die daher in Zeiten mit Dämmen und Ableiten der künftig drohenden Gefahr abzuwenden wissen" - S.16/11
+
+
+
+---
+## Zitate
+
+>"warum der Strom des Genies so selten ausbricht, \[...] Liebe Freunde, da wohnen die gelassenen Herren \[...] die daher in Zeiten mit Dämmen und Ableiten der künftig drohenden Gefahr abzuwenden wissen" - S.16/11
+

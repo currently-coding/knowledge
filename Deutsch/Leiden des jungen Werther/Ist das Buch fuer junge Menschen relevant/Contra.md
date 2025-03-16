@@ -7,6 +7,3 @@
 	- Grammatik schwer verständlich
 	- **Entkräftung**: Schule bereitet einen darauf vor
 	
-3. Dargestellter Umgang mit Liebeskummer spricht nicht an
-	- **Entkräftung**: regt an über psychische Gesundheit(aktuelles Thema) zu diskutieren
-4. 
