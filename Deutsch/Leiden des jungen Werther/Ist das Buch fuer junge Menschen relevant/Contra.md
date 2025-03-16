@@ -1,6 +1,6 @@
 1. Fehlender Bezug zum Alltag junger Menschen
 	- andere gesellschaftliche Systeme/Strukturen
-	- **Entkräftung**: -
+	- **Entkräftung**: Depressionen prägen den Alltag
 
 2. Alte Sprache und ungewohnte Form des Briefromans verhindert Zugang
 	- keine schreibt Briefe
