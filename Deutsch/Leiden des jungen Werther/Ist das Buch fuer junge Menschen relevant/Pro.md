@@ -6,7 +6,7 @@
 		- Wird oft behandelt - macht Werther nicht relevant
 		- Wenige erleben Liebeskummer dieser Stärke
 2. Gesellschaftskritik an der Leistungsgesellschaft
-	> "ein Mensch, der um anderer Willen, ohne dass es seine eigene Leidschaft, sein eigenes Beduerfnis ist, sich um Geld oder Ehre oder sonst was abarbeitet, ist immer ein Tor." - S. 46/27
+	> "ein Mensch, der um anderer Willen, ohne dass es seine eigene Leidenschaft, sein eigenes Bedürfnis ist, sich um Geld oder Ehre oder sonst was abarbeitet, ist immer ein Tor." - S. 46/27
 	- **Entkräftung**: \<Zitat S. 10>: Diese Situation trifft heute - zu Zeiten von Work-Life-Balance, 4-Tage-Woche, etc. nicht mehr zu.
 4. Psychische Gesundheit als wichtiges Thema
 	>
