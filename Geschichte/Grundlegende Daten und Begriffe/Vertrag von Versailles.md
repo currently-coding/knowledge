@@ -2,6 +2,6 @@ Vetrag von Versailles
 ?
 >[!Definition]
 1919 geschlossener Friedensvertrag, der den Ersten Weltkrieg beendete. Die Siegermächte schrieben u. a. die alleinige Kriegsschuld Deutschlands fest und verfügten Gebietsabtretungen, militärische Beschränkungen und Reparationszahlungen.
-Zu den „Pariser Vorortverträgen“ gehören weitere Verträge, die sich u. a. mit den anderen unterlegenen Kriegsparteien wie ÖsterreichUngarn und dem Osmanischen Reich beschäftigten und insgesamt zu einer territorialen Neuordnung beitrugen.
-<!--SR:!2025-03-09,10,250-->
+Zu den „Pariser Vorortverträgen“ gehören weitere Verträge, die sich u. a. mit den anderen unterlegenen Kriegsparteien wie Österreich, Ungarn und dem Osmanischen Reich beschäftigten und insgesamt zu einer territorialen Neuordnung beitrugen.
+<!--SR:!2025-04-15,30,270-->
 
