@@ -269,7 +269,7 @@ to exclude(verb) () ::: ausschließen, ausnehmen, herausnehmen
 stark(adjective) (There is a stark contrast between city life and country life., He presented the stark facts without any softening details., In the stark landscape, a few big rocks stood out.) ::: schier, krass, nackt
 <!--SR:!2025-06-15,200,357!2026-03-31,429,388-->
 withdrawal(noun) (The minister announced his withdrawal from government., The withdrawal of the troops will be phased., Withdrawals can be accepted on a goodwill basis., The government announced the withdrawal of the troops., This credit card does not allow withdrawals abroad.) ::: Rücktritt, Rückzug, Zurücknahme
-<!--SR:!2025-08-04,245,377!2025-03-16,134,387-->
+<!--SR:!2025-08-04,245,377!2026-11-06,600,407-->
 to construct(verb) (He constructed a wall around his house., She constructed a new plan to solve the problem.) ::: konstruieren, bauen, sich ausdenken
 <!--SR:!2026-06-27,511,401!2026-04-07,436,397-->
 construct(noun) (So far the idea is nothing more than a construct.) ::: Gedankengebäude, Konstrukt, Konstruktion
@@ -472,7 +472,7 @@ creativity(noun) (Some games stimulate the children's creativity., Regular guest
 creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch
 <!--SR:!2025-04-20,149,401!2026-07-31,538,422-->
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
-<!--SR:!2025-03-16,105,403!2026-07-07,499,412-->
+<!--SR:!2026-07-16,487,423!2026-07-07,499,412-->
 to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun
 <!--SR:!2025-12-06,314,393!2025-06-18,173,421-->
 to resume(verb) (After a short break, they resumed negotiations., She resumed her work after lunch.) ::: wieder aufnehmen, fortsetzen, wiederaufnehmen
@@ -1342,15 +1342,15 @@ premise(noun) () ::: Prämisse, Voraussetzung, Lokal
 assumption(noun) (His assumption was right and he won the bet., A newspaper article has to be based on facts, not assumptions., The results confirm the validity of the assumption., I demonstrated that my initial assumption was correct., The assumption of leadership duties was important to him., The theory is based on simple assumptions.) ::: Annahme, Übernahme, Voraussetzung
 <!--SR:!2025-03-14,4,405!2000-01-01,1,210-->
 Linking words: Adding Information := Moreover, Furthermore, In addition, Additionally, Not only that, Besides, Also
-<!--SR:!2025-03-16,4,405-->
+<!--SR:!2025-04-02,17,405-->
 Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the other hand, In contrast, Whereas, While, Conversely, Yet, Despite that
 <!--SR:!2025-03-17,3,345-->
 Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
 <!--SR:!2025-03-17,3,345-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
-<!--SR:!2025-03-16,4,385-->
+<!--SR:!2025-03-18,2,365-->
 Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
-<!--SR:!2025-03-16,4,385-->
+<!--SR:!2025-04-01,16,385-->
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
 <!--SR:!2025-03-17,3,345-->
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
@@ -1358,9 +1358,9 @@ Linking words: Clarifying or Explaining := That is to say, In other words, To pu
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
 <!--SR:!2025-03-18,2,385-->
 Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
-<!--SR:!2025-03-16,4,385-->
+<!--SR:!2025-03-18,2,365-->
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
-<!--SR:!2025-03-16,4,385-->
+<!--SR:!2025-03-30,14,385-->
 diligent(adjective) (At school she was a very diligent pupil., My son is a diligent student., This project requires diligent planning.) ::: gewissenhaft, flei�ig, sorgf�ltig
 <!--SR:!2025-03-16,4,385!2000-01-01,1,210-->
 submissive(adjective) (My dog is quite submissive and not at all dominant.) ::: unterw�rfig, gef�gig, gehorsam
