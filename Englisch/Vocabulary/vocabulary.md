@@ -1356,7 +1356,7 @@ Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Signi
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
 <!--SR:!2025-03-17,4,365-->
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
-<!--SR:!2025-03-16,4,405-->
+<!--SR:!2025-03-18,2,385-->
 Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
 <!--SR:!2025-03-16,4,385-->
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
