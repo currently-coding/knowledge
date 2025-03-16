@@ -1,6 +1,10 @@
 >[!Definition]
 >Relevant bedeutet hier, dass junge Menschen, etwa im Alter von 16 bis 25 Jahren, einen Zugang zum Roman durch thematische und emotionale Ansprache sowie durch seine äußere Form finden.
 
+>[!Definition]
+>Relevant bedeutet, dass der Roman durch Thematik und aeussere Form eine Bedeutung für junge Menschen im Alter von 16-25 hat.
+
+
 1. Liebe als universell relevantes Thema behandelt
 	- **Entkräftung**: 
 		- Wird oft behandelt - macht Werther nicht relevant
@@ -14,5 +18,6 @@
 5. Kritisiert Monopole
 	- FAANG-Kritik, die alle Innovation aufkaufen/unterdrücken
 	> "warum der Strom des Genies so selten ausbricht, \[...] Liebe Freunde, da wohnen die gelassenen Herren \[...] die daher in Zeiten mit Dämmen und Ableiten der künftig drohenden Gefahr abzuwenden wissen" - S.16/11
-
 	- **Entkräftung**:
+6. Selbstfindung als universelles Thema der Jugend
+7. 
