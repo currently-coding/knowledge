@@ -20,4 +20,4 @@
 
 >"warum der Strom des Genies so selten ausbricht, \[...] Liebe Freunde, da wohnen die gelassenen Herren \[...] die daher in Zeiten mit Dämmen und Ableiten der künftig drohenden Gefahr abzuwenden wissen" - S.16/11
 
-> S. 114: Unmut und
+> "Unmut und Unlust hatten in Werthers Seele immer tiefere Wurzeln geschlagen, sich fester " - S. 114/21
