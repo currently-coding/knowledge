@@ -2,7 +2,7 @@
 - gesellschaftliche & politische Folgen
 - veränderte sachliche Grundlagen
 - verändertes Rechtsbewusstsein
-	- Bsp: Abtreibung, Klimawandel
+	- Bspw. Abtreibung, Klimawandel
 ## Möglichkeiten der Fortentwicklung
 - Änderung einzelner Paragrafen/Artikel
 - Streichung von Paragrafen
