@@ -9,4 +9,5 @@
 - Lotte liebt Albert - nicht ihn
 - 
 
-3. 
+1. starke Verhaltensänderungen
+- isst sein Lieblingsessen nicht mehr
