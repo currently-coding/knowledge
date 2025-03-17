@@ -11,7 +11,7 @@
 	- **Entkräftung**: \<Zitat S. 10>: Diese Situation trifft heute - zu Zeiten von Work-Life-Balance, 4-Tage-Woche, etc. nicht mehr zu.
 3. Psychische Gesundheit als wichtiges Thema
 	- **Entkräftung**: falsche Lösung wird dargestellt
-4. Selbstfindung als universelles Thema der Jugend
+4. Selbstfindung als universelles Thema der Jugend vs Gesellschaftliche Erwartung
 
 
 
