@@ -1346,7 +1346,7 @@ Linking words: Adding Information := Moreover, Furthermore, In addition, Additio
 Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the other hand, In contrast, Whereas, While, Conversely, Yet, Despite that
 <!--SR:!2025-03-17,3,345-->
 Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
-<!--SR:!2025-03-17,3,345-->
+<!--SR:!2025-03-19,2,325-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
 <!--SR:!2025-03-18,2,365-->
 Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
@@ -1384,7 +1384,7 @@ to disengage oneself(verb) (I should disengage from a few of my hobbies and spen
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend
 <!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
 aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert, reserviert
-<!--SR:!2025-03-17,4,405!2025-03-18,4,385-->
+<!--SR:!2025-03-19,2,385!2025-03-18,4,385-->
 aloof(adverb) (I keep aloof from controversial topics.) ::: abseits
 <!--SR:!2000-01-01,1,210!2025-03-17,4,405-->
 to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
