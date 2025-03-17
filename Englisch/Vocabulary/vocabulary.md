@@ -498,7 +498,7 @@ prompt(noun) (I got a prompt to save the file., The speaker uses cards with prom
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen
 <!--SR:!2026-04-14,419,403!2025-05-24,148,421-->
 victory(noun) (The new player led the team to victory., I will strive for victory.) ::: Sieg, Triumph
-<!--SR:!2025-03-17,117,412!2025-04-25,146,416-->
+<!--SR:!2026-09-24,556,432!2025-04-25,146,416-->
 disagreement(noun) (They resolved their disagreement with a compromise., The parties managed to avoid disagreements.) ::: Uneinigkeit, Unstimmigkeit, Meinungsverschiedenheit
 <!--SR:!2025-07-07,192,423!2025-04-27,148,417-->
 to interact(verb) (In modern computer games, you can interact with other players., The experiment showed how atoms interact with each other.) ::: interagieren, wechselwirken, zusammenwirken
@@ -1392,6 +1392,6 @@ to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
 bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, öde, düster
 <!--SR:!2025-03-18,4,385!2025-03-14,1,365-->
 feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: möglich, machbar, praktikabel
-<!--SR:!2025-03-17,4,405!2025-03-18,4,385-->
+<!--SR:!2025-04-04,18,425!2025-03-18,4,385-->
 verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
 <!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
