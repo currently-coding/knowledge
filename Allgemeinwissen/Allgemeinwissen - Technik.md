@@ -6,7 +6,7 @@ ARPANET := 1969, October 29
 <!--SR:!2025-04-11,32,269-->
 Email (on ARPANET) := 1971
 TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
-<!--SR:!2025-03-17,18,257-->
+<!--SR:!2025-03-27,10,237-->
 DNS(Domain Name System): maps IPs to human readable domain names := 1984
 WWW: Tim Berners-Lee proposed and developed the WWW at CERN := 1989 - 1990
 <!--SR:!2025-03-13,1,197-->
