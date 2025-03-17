@@ -19,8 +19,3 @@
 4. Suizid
 - **Entkräftung**: Schon bevor der Liebe zu Lotte war Werther beim Streitgespräch mit Lotte dem Suizid 
 
-5. sagt selbst er ist krank
-- 29. Juni
----
-
-1. 
