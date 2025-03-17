@@ -1,32 +1,3 @@
-herewith  
-thereupon  
-whereinsoever  
-thereanent  
-whereunto  
-hereunto  
-wherefore  
-thereby  
-wherewithal  
-thereamong  
-whereover  
-hereafter  
-thereagainst  
-whereat  
-thereof  
-wherefrom  
-hereinbefore  
-thereinto  
-whereby  
-hereuntofore  
-thereout
-foundational idea  
-discrepancy  
-inconsistency  
-hypothesis  
-proposed explanation  
-conjecture  
-convergence  
-alignment  
 divergence  
 difference  
 discrepancy  

@@ -1395,3 +1395,31 @@ feasible(adjective) (This is clearly the only feasible interpretation., This is 
 <!--SR:!2025-04-04,18,425!2025-03-18,4,385-->
 verbatim(adjective) () ::: wï¿½rtlich, wortwï¿½rtlich, wortgetreu
 <!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
+herewith(adverb) (We herewith accept this assignment.) ::: hiermit 
+thereupon(adverb) () ::: daraufhin, darauf, alsdann 
+wheresoever(adverb) () ::: wo auch immer 
+hereunto(adverb) () ::: hierauf 
+therefore(adverb) (The boy studied and, therefore, passed the exam., The boy studied and, therefore, passed the exam., I have not eaten anything and therefore I am hungry., I study a lot; therefore, my marks are quite good., I studied hard and therefore passed the exam., It rained all week and therefore the match was called off.) ::: daher, also, folglich 
+thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.) ::: damit, dadurch, dabei 
+wherewithal(noun) () ::: nötige Mittel 
+the wherewithal(noun) () ::: die erforderlichen Mittel 
+wherever(adverb) (My dog follows me wherever I go., My husband supports me wherever he can., His dog followed him wherever he went., I can travel wherever I want to.) ::: wo, wo immer, überall wo 
+hereafter(adverb) (Hereafter, some examples are listed for better understanding.) ::: nachstehend, im Folgenden, nachfolgend 
+hereafter(noun) (Many people believe in the hereafter, a life after death.) ::: Jenseits 
+whereas(conjunction) (My brother became an engineer, whereas I became a singer., I love pizza, whereas my sister prefers pasta.) ::: während, wohingegen, hingegen 
+thereof(adverb) (The contract and deviations thereof are subject to prior approval.) ::: davon, daraus, hiervon 
+wherefrom(adverb) () ::: woher, von wo 
+thereunto(adverb) () ::: dazu 
+whereby(adverb) () ::: wobei, wodurch, womit 
+thereof(adverb) (The contract and deviations thereof are subject to prior approval.) ::: davon, daraus, hiervon 
+discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch 
+inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widersprüchlichkeit 
+inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widersprüchlich, uneinheitlich 
+hypothesis(noun) (The hypothesis made by the scientist turned out to be correct., The speaker elucidated his hypothesis.) ::: Hypothese, These, Vermutung 
+proposed explanation(noun) () ::: vorgestellte Erklärung 
+conjecture(noun) (His conjecture about the results of the elections was right.) ::: Vermutung, Mutmaßung, Annahme 
+to conjecture(verb) () ::: vermuten, spekulieren, annehmen 
+convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Annäherung, Zusammenlaufen 
+alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten 
+to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten 
+to align oneself to(verb) () ::: sich an anpassen 
