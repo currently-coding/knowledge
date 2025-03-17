@@ -6,7 +6,7 @@
 **gesättigte Fettsäure** := hat keine Doppelbindung
 <!--SR:!2025-03-26,9,250-->
 **ungesättigte Fettsäure** := hat mindestens 1 Doppelbindung
-<!--SR:!2025-03-17,3,230-->
+<!--SR:!2025-03-25,8,250-->
 -> aufgrund der Doppelbindung liegt eine Z-E-Isomerie vor
 ![[Z-E-Isomerie]]
 - bei Fettsäuren liegt meist eine Z-Konfiguration vor
