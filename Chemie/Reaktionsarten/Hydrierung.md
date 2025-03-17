@@ -1,6 +1,6 @@
 >[!Definition]
 Hydrierung := Addition von Wasserstoff an chemische Elemente/Verbindungen.
-<!--SR:!2025-03-17,2,210-->
+<!--SR:!2025-03-18,1,190-->
 
 Die umgekehrte Reaktion heißt [[Dehydrierung]].
 
