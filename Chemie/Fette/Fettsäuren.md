@@ -23,5 +23,5 @@ CCCC/C=C\CCCCCCCCCCCCC(O)=O
 
 >[!Definition]
 >Essentielle Fettsäure := kann vom Körper nicht synthetisiert werden und muss über die Nahrung aufgenommen werden
-<!--SR:!2025-03-17,3,230-->
+<!--SR:!2025-03-26,9,250-->
 
