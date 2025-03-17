@@ -1,15 +1,10 @@
-1. Goethe schrieb Werther als psychologische Selbstreinigung
--> er hat sich gemasst des Sturm und Drang nicht als "krank" angesehen sondern einfach "wahre" und "echte" Gefühle gehabt
-- **Entkräftung**: Lyrisches Ich != Autor
-
 1. Kann Distanz wahren
-- 1 Jahr weg
+	- 1 Jahr weg
 
-1. Bei Rückkehr stake Gefühle der Freude weil lang ersehnte Menschen wiedersieht
-2. Suizid wird von Werther als adequate Lösung angesehen
+2. Bei Rückkehr stake Gefühle der Freude weil lang ersehnte Menschen wiedersieht
 3. Gesellschaft hat Suizid verursacht
-- **Entkräftung**: 
-1. Sturm und Drang benutzt einfach starke Adjektive zur Darstellung - hat nichts mit Krankheit zu tun
+	- **Entkräftung**: 
+4. Sturm und Drang benutzt einfach starke Adjektive zur Darstellung - hat nichts mit Krankheit zu tun
 ---
 ## Zitate
 > ""
