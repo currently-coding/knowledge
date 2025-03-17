@@ -17,3 +17,16 @@
 > und ich muss mich wieder in meine Käfig sperren 20. Jan
 
 > 2. Platz in Lottes Herz -> akzeptiert seinen Platz
+
+
+
+----
+
+•	Werther zeigt schon vor Lotte eine gewisse Melancholie und Vorbelastung, sowie Narzisstische Züge und seine Flucht vor Problemen -> Es ist nicht die Liebe, die ihn krank macht
+•	auch aus anderen Gründen Selbstmordgedanken (Demütigung am Hof) vgl. Narzissmus
+•	Narzissmus:
+o	Infantile Persönlichkeit, die nicht bereit ist, Verantwortung für ihr Tun zu übernehmen	
+o	fühlt sich innerlich leer und vergeblich versucht, diese narzisstische Leere durch Arbeit oder durch Lottes Liebe zu füllen (Lotte: „Ich fürchte, es ist nur die Unmöglichkeit, mich zu besitzen, die Ihnen diesen Wunsch so reizend macht“)
+-	neben Schuld- und Minderwertigkeitsgefühlen vor allem Existenzangst, Antriebsschwäche, Unrast, Stimmungsschwankungen, Realitätsverlust, der Drang zum Idealisieren, unerfüllbarer Kreativitätsdrang, Melancholie, Größenwahn, extreme Vulnerabilität, Psychose und (euphorische) Suizidneigung
+-	Depression und Suizidalität können Symptome narzisstischer Störung sein
+-	Jeden Menschen, mit dem er nicht auskommt, bezeichnet er als unterlegen
