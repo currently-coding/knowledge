@@ -4,7 +4,7 @@
 
 ## Arten von Fettsäuren
 **gesättigte Fettsäure** := hat keine Doppelbindung
-<!--SR:!2025-03-17,3,230-->
+<!--SR:!2025-03-26,9,250-->
 **ungesättigte Fettsäure** := hat mindestens 1 Doppelbindung
 <!--SR:!2025-03-17,3,230-->
 -> aufgrund der Doppelbindung liegt eine Z-E-Isomerie vor
