@@ -32,3 +32,9 @@
 	-	fühlt sich innerlich leer und vergeblich versucht, diese narzisstische Leere durch Arbeit oder durch Lottes Liebe zu füllen (Lotte: „Ich fürchte, es ist nur die Unmöglichkeit, mich zu besitzen, die Ihnen diesen Wunsch so reizend macht“)
 	-	neben Schuld- und Minderwertigkeitsgefühlen vor allem Existenzangst, Antriebsschwäche, Unrast, Stimmungsschwankungen, Realitätsverlust, der Drang zum Idealisieren, unerfüllbarer Kreativitätsdrang, Melancholie, Größenwahn, extreme Vulnerabilität, Psychose und (euphorische) Suizidneigung
 -	Depression und Suizidalität können Symptome narzisstischer Störung sein
+
+- Narzissmus:
+	- findet sich selbst sehr wichtig
+	- keine Empathie für andere
+	- braucht Lob
+	- anderen überlegen
