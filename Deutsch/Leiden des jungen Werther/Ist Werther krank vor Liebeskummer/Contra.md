@@ -1,10 +1,12 @@
 1. Kann Distanz wahren
 	- 1 Jahr weg
+2. Erkennt seinen Platz - korrekte Selbstwahrnehmung der Realität
+	- S. 81
 
-2. Bei Rückkehr stake Gefühle der Freude weil lang ersehnte Menschen wiedersieht
-3. Gesellschaft hat Suizid verursacht
+3. Bei Rückkehr stake Gefühle der Freude weil lang ersehnte Menschen wiedersieht
+4. Gesellschaft hat Suizid verursacht
 	- **Entkräftung**: 
-4. Sturm und Drang benutzt einfach starke Adjektive zur Darstellung - hat nichts mit Krankheit zu tun
+5. Sturm und Drang benutzt einfach starke Adjektive zur Darstellung - hat nichts mit Krankheit zu tun
 ---
 ## Zitate
 > ""
