@@ -24,6 +24,7 @@
 
 1.	Werther zeigt schon vor Lotte eine gewisse Melancholie und Vorbelastung, sowie Narzisstische Züge und seine Flucht vor Problemen -> Es ist nicht die Liebe, die ihn krank macht
 2.	auch aus anderen Gründen Selbstmordgedanken (Demütigung am Hof) vgl. Narzissmus
+	- S. 15
 3.	Jeden Menschen, mit dem er nicht auskommt, bezeichnet er als unterlegen
 ---
 -	Narzissmus:
