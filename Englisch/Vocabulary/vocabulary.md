@@ -1354,7 +1354,7 @@ Linking words: Comparing Similarities := Similarly, Likewise, In the same way, J
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
 <!--SR:!2025-03-17,3,345-->
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
-<!--SR:!2025-03-17,4,365-->
+<!--SR:!2025-04-01,15,365-->
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
 <!--SR:!2025-03-18,2,385-->
 Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
