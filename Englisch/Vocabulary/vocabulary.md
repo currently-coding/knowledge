@@ -1352,7 +1352,7 @@ Linking words: Giving Examples := For example, For instance, Such as, Like, Name
 Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
 <!--SR:!2025-04-01,16,385-->
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
-<!--SR:!2025-03-17,3,345-->
+<!--SR:!2025-03-19,2,325-->
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
 <!--SR:!2025-04-01,15,365-->
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
