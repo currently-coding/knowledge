@@ -1384,7 +1384,7 @@ to disengage oneself(verb) (I should disengage from a few of my hobbies and spen
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend
 <!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
 aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert, reserviert
-<!--SR:!2025-03-19,2,385!2025-03-18,4,385-->
+<!--SR:!2025-03-19,2,385!2025-04-03,16,385-->
 aloof(adverb) (I keep aloof from controversial topics.) ::: abseits
 <!--SR:!2000-01-01,1,210!2025-03-17,4,405-->
 to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
