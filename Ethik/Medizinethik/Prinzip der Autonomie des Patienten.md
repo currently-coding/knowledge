@@ -1,2 +1,3 @@
-- Respektieren der Wünsche, Ziele und Werte des Patienten
-- Schutz vor Manipu
+- Respektieren der **Wünsche**, **Ziele** und **Werte** des Patienten
+- Schutz vor Manipulation und Förderung der Entscheidungsfähigkeit
+- "**Informed consent**": **Aufklärung**, **Verständnis** und **Zustimmung** des **Patienten**
