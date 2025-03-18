@@ -1405,7 +1405,8 @@ therefore(adverb) (The boy studied and, therefore, passed the exam., The boy stu
 <!--SR:!2025-03-22,4,405-->
 thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.)  :=  damit, dadurch, dabei
 <!--SR:!2025-03-22,4,405-->
-hereafter(adverb) (Hereafter, some examples are listed for better understanding.)  :=  nachstehend, im Folgenden, nachfolgend 
+hereafter(adverb) (Hereafter, some examples are listed for better understanding.)  :=  nachstehend, im Folgenden, nachfolgend
+<!--SR:!2025-03-22,4,405-->
 whereas(conjunction) (My brother became an engineer, whereas I became a singer., I love pizza, whereas my sister prefers pasta.)  :=  w�hrend, wohingegen, hingegen
 <!--SR:!2025-03-22,4,405-->
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon

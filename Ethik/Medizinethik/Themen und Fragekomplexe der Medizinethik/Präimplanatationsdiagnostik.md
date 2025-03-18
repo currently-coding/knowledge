@@ -1,0 +1,1 @@
+- = genetische Untersuchung von Zellen eines durch künstliche Befruchtung gezeugten [[Embryo|Embryos]] [[in vitro]] vor seiner Uebetragun
