@@ -18,7 +18,7 @@ Google := 1998 - better search algorithm
 <!--SR:!2025-03-13,1,163-->
 Wi-Fi introduced := 1997 - IEEE 802.11 -> established wireless internet connections
 Introduction of Social Media := 2003-2004: MySpace(2003), Facebook(2004), etc. launched
-<!--SR:!2025-03-17,5,212-->
+<!--SR:!2025-03-31,13,232-->
 First iPhone := 2007 - enabled mobile internet usage and app-based ecosystems
 Cloud Computing Services := Late 2000s - AWS(2006), etc.
 4G/LTE := 2009 - improved speed -> enabled video streaming and advanced mobile apps
