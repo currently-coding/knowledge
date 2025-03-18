@@ -468,7 +468,7 @@ strain(noun) (His new job put a strain on their marriage., The system collapsed 
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
 <!--SR:!2025-03-18,124,401!2025-04-24,153,402-->
 creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: KreativitÃ¤t, Schaffen, SchÃ¶pferkraft
-<!--SR:!2025-03-18,124,402!2025-03-21,117,401-->
+<!--SR:!2026-10-13,574,422!2025-03-21,117,401-->
 creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schÃ¶pferisch, gestalterisch
 <!--SR:!2025-04-20,149,401!2026-07-31,538,422-->
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
@@ -1356,7 +1356,7 @@ Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Signi
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
 <!--SR:!2025-04-01,15,365-->
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
-<!--SR:!2025-03-18,2,385-->
+<!--SR:!2025-03-27,9,385-->
 Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
 <!--SR:!2025-03-18,2,365-->
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
@@ -1392,7 +1392,7 @@ to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
 bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, Ã¶de, dÃ¼ster
 <!--SR:!2025-03-18,4,385!2025-03-14,1,365-->
 feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: mÃ¶glich, machbar, praktikabel
-<!--SR:!2025-04-04,18,425!2025-03-18,4,385-->
+<!--SR:!2025-04-04,18,425!2025-04-05,18,405-->
 verbatim(adjective) () ::: wï¿½rtlich, wortwï¿½rtlich, wortgetreu
 <!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
 herewith(adverb) (We herewith accept this assignment.) ::: hiermit 
@@ -1401,25 +1401,25 @@ wheresoever(adverb) () ::: wo auch immer
 hereunto(adverb) () ::: hierauf 
 therefore(adverb) (The boy studied and, therefore, passed the exam., The boy studied and, therefore, passed the exam., I have not eaten anything and therefore I am hungry., I study a lot; therefore, my marks are quite good., I studied hard and therefore passed the exam., It rained all week and therefore the match was called off.) ::: daher, also, folglich 
 thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.) ::: damit, dadurch, dabei 
-wherewithal(noun) () ::: nötige Mittel 
+wherewithal(noun) () ::: nï¿½tige Mittel 
 the wherewithal(noun) () ::: die erforderlichen Mittel 
-wherever(adverb) (My dog follows me wherever I go., My husband supports me wherever he can., His dog followed him wherever he went., I can travel wherever I want to.) ::: wo, wo immer, überall wo 
+wherever(adverb) (My dog follows me wherever I go., My husband supports me wherever he can., His dog followed him wherever he went., I can travel wherever I want to.) ::: wo, wo immer, ï¿½berall wo 
 hereafter(adverb) (Hereafter, some examples are listed for better understanding.) ::: nachstehend, im Folgenden, nachfolgend 
 hereafter(noun) (Many people believe in the hereafter, a life after death.) ::: Jenseits 
-whereas(conjunction) (My brother became an engineer, whereas I became a singer., I love pizza, whereas my sister prefers pasta.) ::: während, wohingegen, hingegen 
+whereas(conjunction) (My brother became an engineer, whereas I became a singer., I love pizza, whereas my sister prefers pasta.) ::: wï¿½hrend, wohingegen, hingegen 
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.) ::: davon, daraus, hiervon 
 wherefrom(adverb) () ::: woher, von wo 
 thereunto(adverb) () ::: dazu 
 whereby(adverb) () ::: wobei, wodurch, womit 
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.) ::: davon, daraus, hiervon 
 discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch 
-inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widersprüchlichkeit 
-inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widersprüchlich, uneinheitlich 
+inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widersprï¿½chlichkeit 
+inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widersprï¿½chlich, uneinheitlich 
 hypothesis(noun) (The hypothesis made by the scientist turned out to be correct., The speaker elucidated his hypothesis.) ::: Hypothese, These, Vermutung 
-proposed explanation(noun) () ::: vorgestellte Erklärung 
-conjecture(noun) (His conjecture about the results of the elections was right.) ::: Vermutung, Mutmaßung, Annahme 
+proposed explanation(noun) () ::: vorgestellte Erklï¿½rung 
+conjecture(noun) (His conjecture about the results of the elections was right.) ::: Vermutung, Mutmaï¿½ung, Annahme 
 to conjecture(verb) () ::: vermuten, spekulieren, annehmen 
-convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Annäherung, Zusammenlaufen 
+convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Annï¿½herung, Zusammenlaufen 
 alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten 
 to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten 
 to align oneself to(verb) () ::: sich an anpassen 
