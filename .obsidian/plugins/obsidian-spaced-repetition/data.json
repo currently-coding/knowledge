@@ -48,7 +48,7 @@
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.1,
     "loadBalance": true,
-    "maximumInterval": 36525,
+    "maximumInterval": 500,
     "maxLinkFactor": 1,
     "dataStore": "NOTES",
     "cardCommentOnSameLine": false,
@@ -456,7 +456,8 @@
     "d04e23d24d0b7",
     "1160c5382500e0",
     "1f98e4dd65e10b",
-    "fdfbb55ea132"
+    "fdfbb55ea132",
+    "f89a521d3b873"
   ],
   "historyDeck": null
 }
