@@ -1395,7 +1395,8 @@ feasible(adjective) (This is clearly the only feasible interpretation., This is 
 <!--SR:!2025-04-04,18,425!2025-04-05,18,405-->
 verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
 <!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
-herewith(adverb) (We herewith accept this assignment.) ::: hiermit 
+herewith(adverb) (We herewith accept this assignment.) ::: hiermit
+<!--SR:!2025-03-22,4,405!2000-01-01,1,210-->
 thereupon(adverb) () ::: daraufhin, darauf, alsdann 
 wheresoever(adverb) () ::: wo auch immer 
 hereunto(adverb) () ::: hierauf 
@@ -1419,7 +1420,8 @@ hypothesis(noun) (The hypothesis made by the scientist turned out to be correct.
 proposed explanation(noun) () ::: vorgestellte Erkl�rung 
 conjecture(noun) (His conjecture about the results of the elections was right.) ::: Vermutung, Mutma�ung, Annahme 
 to conjecture(verb) () ::: vermuten, spekulieren, annehmen 
-convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Ann�herung, Zusammenlaufen 
+convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Ann�herung, Zusammenlaufen
+<!--SR:!2025-03-22,4,385!2000-01-01,1,210-->
 alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten 
 to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten 
 to align oneself to(verb) () ::: sich an anpassen 
