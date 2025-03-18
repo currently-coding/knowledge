@@ -1415,9 +1415,11 @@ whereby(adverb) ()  :=  wobei, wodurch, womit
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon 
 discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch 
 inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widerspr�chlichkeit 
-inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widerspr�chlich, uneinheitlich 
+inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widerspr�chlich, uneinheitlich
+<!--SR:!2025-03-22,4,405!2000-01-01,1,210-->
 hypothesis(noun) (The hypothesis made by the scientist turned out to be correct., The speaker elucidated his hypothesis.) ::: Hypothese, These, Vermutung 
-proposed explanation(noun) () ::: vorgestellte Erkl�rung 
+proposed explanation(noun) () ::: vorgestellte Erkl�rung
+<!--SR:!2025-03-22,4,405!2000-01-01,1,210-->
 conjecture(noun) (His conjecture about the results of the elections was right.) ::: Vermutung, Mutma�ung, Annahme 
 to conjecture(verb) () ::: vermuten, spekulieren, annehmen 
 convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Ann�herung, Zusammenlaufen
