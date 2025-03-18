@@ -1,0 +1,2 @@
+- Respektieren der Wünsche, Ziele und Werte des Patienten
+- Schutz vor Manipu
