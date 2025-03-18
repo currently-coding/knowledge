@@ -1,11 +1,14 @@
 indefatigable
 rectitude
 gainsay
+to extol
+profundity
 atonement
 implacable
 iniquities
 ardouos
 wherefore
+elusive
 to refute 
 to equivocate
 specious
