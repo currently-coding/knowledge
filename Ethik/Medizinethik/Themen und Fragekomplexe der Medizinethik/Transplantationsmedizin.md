@@ -3,4 +3,4 @@
 ## Fragen
 - Wann ist eine Organentnahme zur Spende erlaubt?
 - Wer erhält Lebensrettende Organe?
-- Nach welchen Kriterien werden die Empfaenger
+- Nach welchen Kriterien werden die Empfänger lebensrettender Organe ausgewählt?
