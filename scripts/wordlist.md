@@ -1,3 +1,7 @@
+indefatigable
+rectitude
+gainsay
+atonement
 to refute 
 to equivocate
 specious
