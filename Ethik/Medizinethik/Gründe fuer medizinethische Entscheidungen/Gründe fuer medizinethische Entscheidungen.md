@@ -31,5 +31,6 @@
 2. [[Prinzip des Nichtschadens]] wird durch Antibiotika erfüllt
 3. [[Prinzip der Autonomie des Patienten]] wird nicht erfüllt
 4. [[Prinzip der Gerechtigkeit]] wird nicht erfuellt, da die Verwendung von Antibiotika die Entstehung multi-resistenter Keime fördern kann und man damit anderen Unbeteiligten schadet
-=> **FAZIT**:
-- Aufgrund 4. und 1. sollte ein Nasenspray gegeben werden, da ein Antibiotikum die Symptome weder lindert, noch
+
+**FAZIT**:
+- Aufgrund 4. und 1. sollte ein Nasenspray gegeben werden, da ein Antibiotikum die Symptome weder lindert, noch die Krankheit bekämpft, sondern nur anderen potenziell schadet.
