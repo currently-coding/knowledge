@@ -2,6 +2,10 @@ indefatigable
 rectitude
 gainsay
 atonement
+implacable
+iniquities
+ardouos
+wherefore
 to refute 
 to equivocate
 specious
