@@ -10,3 +10,14 @@
 4. [[Prinzip der Gerechtigkeit]]
 ---
 -> [[Themen und Fragekomplexe der Medizinethik]]
+
+---
+## Beispielanalyse(s.S.127/Fall 1)
+**Symptome**:
+- "Nase zu" = Schnupfen
+- starke Kopfschmerzen
+- Geschmacksverlust
+**Diagnose**:
+- akute Entzündung der Nasenschleimhaut
+**Empfohlene Behandlung**:
+- Nasenp
