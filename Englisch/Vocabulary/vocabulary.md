@@ -1398,21 +1398,23 @@ verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
 herewith(adverb) (We herewith accept this assignment.)  :=  hiermit
 <!--SR:!2025-03-22,4,405-->
 thereupon(adverb) ()  :=  daraufhin, darauf, alsdann 
-wheresoever(adverb) ()  :=  wo auch immer 
+wheresoever(adverb) ()  :=  wo auch immer
+<!--SR:!2025-03-22,4,405-->
 hereunto(adverb) ()  :=  hierauf 
 therefore(adverb) (The boy studied and, therefore, passed the exam., The boy studied and, therefore, passed the exam., I have not eaten anything and therefore I am hungry., I study a lot; therefore, my marks are quite good., I studied hard and therefore passed the exam., It rained all week and therefore the match was called off.)  :=  daher, also, folglich 
 thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.)  :=  damit, dadurch, dabei 
 wherewithal(noun) ()  :=  n�tige Mittel 
-the wherewithal(noun) ()  :=  die erforderlichen Mittel 
+the wherewithal(noun) ()  :=  die erforderlichen Mittel
+<!--SR:!2025-03-19,1,365-->
 wherever(adverb) (My dog follows me wherever I go., My husband supports me wherever he can., His dog followed him wherever he went., I can travel wherever I want to.)  :=  wo, wo immer, �berall wo 
 hereafter(adverb) (Hereafter, some examples are listed for better understanding.)  :=  nachstehend, im Folgenden, nachfolgend 
 hereafter(noun) (Many people believe in the hereafter, a life after death.)  :=  Jenseits 
 whereas(conjunction) (My brother became an engineer, whereas I became a singer., I love pizza, whereas my sister prefers pasta.)  :=  w�hrend, wohingegen, hingegen 
-thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon 
+thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon
+<!--SR:!2025-03-19,1,365-->
 wherefrom(adverb) ()  :=  woher, von wo 
-thereunto(adverb) ()  :=  dazu 
 whereby(adverb) ()  :=  wobei, wodurch, womit 
-thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon 
+thereof(adverb) (The contract and deviations thereof are subject to prior approval.) :=  davon, daraus, hiervon 
 discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch 
 inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widerspr�chlichkeit 
 inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widerspr�chlich, uneinheitlich
@@ -1424,6 +1426,7 @@ conjecture(noun) (His conjecture about the results of the elections was right.) 
 to conjecture(verb) () ::: vermuten, spekulieren, annehmen 
 convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Ann�herung, Zusammenlaufen
 <!--SR:!2025-03-22,4,385!2000-01-01,1,210-->
-alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten 
+alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten
+<!--SR:!2025-03-22,4,405!2000-01-01,1,210-->
 to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten 
 to align oneself to(verb) () ::: sich an anpassen 
