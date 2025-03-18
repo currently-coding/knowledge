@@ -287,7 +287,7 @@ convenience(noun) (We provide pillows for your convenience., I do not like cooki
 to assure(verb) (I assured my mother that I would take care of everything., We assure a warm and welcoming atmosphere., I assured my husband I would be on time for dinner.) ::: versichern, gewährleisten, sichern
 <!--SR:!2025-08-28,262,379!2026-04-25,454,397-->
 provincial(adjective) () ::: provinziell, kleinstädtisch, provinzlerisch
-<!--SR:!2025-03-18,136,389!2026-05-01,460,397-->
+<!--SR:!2026-11-19,611,409!2026-05-01,460,397-->
 provincial(noun) () ::: Provinzbewohner, Kleinstädter, Provinzler
 <!--SR:!2025-08-02,224,361!2026-03-24,422,397-->
 to induce(verb) (Certain medications can induce drowsiness., The current economic situation induces people to invest more., We will now induce narcosis.) ::: veranlassen, hervorrufen, anregen
@@ -466,7 +466,7 @@ nonetheless(adverb) (It is difficult, but we must try nonetheless.) ::: dennoch,
 strain(noun) (His new job put a strain on their marriage., The system collapsed under the strain., The vaccine contains three strains of the flu virus., He overexerted himself playing soccer, which caused a strain in his leg., The rope tore because of the excessive strain.) ::: Belastung, Beanspruchung, Stamm
 <!--SR:!2026-05-30,469,401!2025-05-01,152,402-->
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
-<!--SR:!2025-03-18,124,401!2025-04-24,153,402-->
+<!--SR:!2026-10-10,571,421!2025-04-24,153,402-->
 creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: Kreativität, Schaffen, Schöpferkraft
 <!--SR:!2026-10-13,574,422!2025-03-21,117,401-->
 creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch
@@ -1348,7 +1348,7 @@ Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the ot
 Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
 <!--SR:!2025-03-19,2,325-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
-<!--SR:!2025-03-18,2,365-->
+<!--SR:!2025-03-19,1,345-->
 Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
 <!--SR:!2025-04-01,16,385-->
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
