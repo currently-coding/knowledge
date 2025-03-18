@@ -1416,7 +1416,8 @@ thereof(adverb) (The contract and deviations thereof are subject to prior approv
 wherefrom(adverb) ()  :=  woher, von wo 
 whereby(adverb) ()  :=  wobei, wodurch, womit 
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.) :=  davon, daraus, hiervon 
-discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch 
+discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch
+<!--SR:!2025-03-22,4,385!2000-01-01,1,210-->
 inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widerspr�chlichkeit
 <!--SR:!2000-01-01,1,210!2025-03-22,4,405-->
 inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widerspr�chlich, uneinheitlich
