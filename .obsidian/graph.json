@@ -25,14 +25,14 @@
       "query": "path:Chemie",
       "color": {
         "a": 1,
-        "rgb": 65493
+        "rgb": 65535
       }
     },
     {
       "query": "path:\"Computer Science/C\" ",
       "color": {
         "a": 1,
-        "rgb": 43775
+        "rgb": 16610045
       }
     },
     {
@@ -53,14 +53,14 @@
       "query": "path:Englisch  ",
       "color": {
         "a": 1,
-        "rgb": 12735231
+        "rgb": 13998071
       }
     },
     {
       "query": "path:Ethik  ",
       "color": {
         "a": 1,
-        "rgb": 9213504
+        "rgb": 10253823
       }
     },
     {
@@ -158,6 +158,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 412,
-  "scale": 0.4502584271791798,
-  "close": false
+  "scale": 0.16339309614475397,
+  "close": true
 }
