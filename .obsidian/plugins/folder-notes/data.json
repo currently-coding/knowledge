@@ -6,7 +6,34 @@
   "templatePath": "",
   "autoCreate": false,
   "enableCollapsing": false,
-  "excludeFolders": [],
+  "excludeFolders": [
+    {
+      "type": "folder",
+      "path": "Attachments",
+      "subFolders": true,
+      "disableSync": true,
+      "disableAutoCreate": true,
+      "disableFolderNote": false,
+      "enableCollapsing": false,
+      "position": 0,
+      "excludeFromFolderOverview": false,
+      "string": "",
+      "hideInSettings": false
+    },
+    {
+      "type": "folder",
+      "path": "scripts",
+      "subFolders": true,
+      "disableSync": true,
+      "disableAutoCreate": true,
+      "disableFolderNote": false,
+      "enableCollapsing": false,
+      "position": 1,
+      "excludeFromFolderOverview": false,
+      "string": "",
+      "hideInSettings": false
+    }
+  ],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": true,
@@ -51,7 +78,8 @@
   "settingsTab": "general",
   "supportedFileTypes": [
     "md",
-    "canvas"
+    "canvas",
+    "excalidraw"
   ],
   "boldName": false,
   "boldNameInPath": false,
