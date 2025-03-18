@@ -1403,7 +1403,8 @@ wheresoever(adverb) ()  :=  wo auch immer
 <!--SR:!2025-03-22,4,405-->
 therefore(adverb) (The boy studied and, therefore, passed the exam., The boy studied and, therefore, passed the exam., I have not eaten anything and therefore I am hungry., I study a lot; therefore, my marks are quite good., I studied hard and therefore passed the exam., It rained all week and therefore the match was called off.)  :=  daher, also, folglich
 <!--SR:!2025-03-22,4,405-->
-thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.)  :=  damit, dadurch, dabei 
+thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.)  :=  damit, dadurch, dabei
+<!--SR:!2025-03-22,4,405-->
 hereafter(adverb) (Hereafter, some examples are listed for better understanding.)  :=  nachstehend, im Folgenden, nachfolgend 
 whereas(conjunction) (My brother became an engineer, whereas I became a singer., I love pizza, whereas my sister prefers pasta.)  :=  w�hrend, wohingegen, hingegen
 <!--SR:!2025-03-22,4,405-->
@@ -1429,6 +1430,7 @@ convergence(noun) (The compromise was enabled by a convergence of interests.) ::
 <!--SR:!2025-03-22,4,385!2000-01-01,1,210-->
 alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten
 <!--SR:!2025-03-22,4,405!2000-01-01,1,210-->
-to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten 
+to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten
+<!--SR:!2000-01-01,1,210!2025-03-22,4,405-->
 to align oneself to(verb) () ::: sich an anpassen
 <!--SR:!2000-01-01,1,210!2025-03-19,1,365-->
