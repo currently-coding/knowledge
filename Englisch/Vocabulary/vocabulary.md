@@ -428,7 +428,7 @@ applicant(noun) (Applicants for a loan can fill in a form online., Applicants ha
 refuge(noun) (In hard times, he had found refuge in his music.) ::: Zuflucht, Zufluchtsort, Refugium
 <!--SR:!2025-04-29,157,389!2026-10-28,606,416-->
 sphere(noun) (A sphere has no corners.) ::: Bereich, Kugel, Sphäre
-<!--SR:!2025-03-18,136,389!2026-08-22,555,407-->
+<!--SR:!2026-11-20,612,409!2026-08-22,555,407-->
 to infer(verb) (From the available information, I can infer certain things., I inferred from his nod that he agreed with me.) ::: schließen, ableiten, folgern
 <!--SR:!2025-05-07,158,347!2025-04-25,140,356-->
 systematic(adjective) () ::: systematisch, planmäßig, planvoll
