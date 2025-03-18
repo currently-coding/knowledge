@@ -8,3 +8,5 @@
 2. [[Prinzip des Nichtschadens]]
 3. [[Prinzip der Autonomie des Patienten]]
 4. [[Prinzip der Gerechtigkeit]]
+---
+-> [[Themen und Fragekomplexe der Medizinethik]]
