@@ -7,5 +7,3 @@ https://www.frage.de/politik/sollen-extreme-parteien-ausgeschlossen-werden
 
 Schulen müssen alle im Bundestag vertretenen Parteien zu Diskussionen einladen(nur Hamburg)
 
-
-
