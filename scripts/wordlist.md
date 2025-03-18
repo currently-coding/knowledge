@@ -1,3 +1,10 @@
+to refute 
+to equivocate
+specious
+to postulate
+unequivocal
+dichotomy
+to conflate
 divergence  
 difference  
 discrepancy  
