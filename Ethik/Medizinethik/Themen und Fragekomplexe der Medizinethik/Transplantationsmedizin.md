@@ -1,4 +1,4 @@
-- = Teilgebiet der Medizin , das sicht mit der Uebetragung(= Transplantation) von Zellen, Geweben, Organen, Organsystemen oder Koerperteilen von einem Organismus in einen anderen Organismus befasst
+- = Teilgebiet der Medizin , das sicht mit der Übertragung(= Transplantation) von Zellen, Geweben, Organen, Organsystemen oder Körperteilen von einem Organismus in einen anderen Organismus befasst
 ---
 ## Fragen
 - Wann ist eine Organentnahme zur Spende erlaubt?
