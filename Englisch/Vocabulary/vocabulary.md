@@ -636,7 +636,7 @@ firm(adjective) (The material is rigid and firm., Our company values trust as a 
 Firmen(noun) (Viele Firmen haben ihren Hauptsitz in New York., Manche Firmen liefern ihre Ware mit der Post.) ::: companies, firms, businesses
 <!--SR:!2025-12-08,316,392!2025-06-05,151,423-->
 fare(noun) (Before taking the bus, the tourist wanted to know the fare.) ::: Preis, Fahrpreis, Tarif
-<!--SR:!2025-05-17,159,423!2025-03-19,32,355-->
+<!--SR:!2025-05-17,159,423!2025-04-04,16,335-->
 determination(noun) (The determination of the best strategy will take place tomorrow., The decision was made with fierce determination.) ::: Festlegung, Entschlossenheit, Bestimmung
 <!--SR:!2025-01-08,47,332!2024-12-16,20,382-->
 to determine(verb) (It is difficult to determine the cause of the problem., The rotor power determines the helicopter's lift., The computer system will determine the overall cost of the project., The examiner determines whether I have passed the driving test., The engineer has determined the cause of the system failure., In our meeting, we will determine the next steps of the project., Sometimes it is difficult to determine the impact of weather phenomena., At the meeting, we determined what the next project will be., The detective determined the whereabouts of the suspect.) ::: bestimmen, berechnen, ermitteln
@@ -1348,7 +1348,7 @@ Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the ot
 Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
 <!--SR:!2025-03-19,2,325-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
-<!--SR:!2025-03-19,1,345-->
+<!--SR:!2025-03-20,1,325-->
 Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
 <!--SR:!2025-04-01,16,385-->
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
@@ -1410,7 +1410,7 @@ hereafter(adverb) (Hereafter, some examples are listed for better understanding.
 whereas(conjunction) (My brother became an engineer, whereas I became a singer., I love pizza, whereas my sister prefers pasta.)  :=  w�hrend, wohingegen, hingegen
 <!--SR:!2025-03-22,4,405-->
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon
-<!--SR:!2025-03-19,1,365-->
+<!--SR:!2025-03-23,4,385-->
 whereby(adverb) ()  :=  wobei, wodurch, womit
 <!--SR:!2025-03-22,4,405-->
 discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch
