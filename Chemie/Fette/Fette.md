@@ -6,7 +6,7 @@
 
 ## Grundlegender Aufbau
 
-![[Glycerin]]
+![[Glycerin#Formel]]
 
 ### Fettsäure
 
