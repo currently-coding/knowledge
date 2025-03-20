@@ -9,8 +9,8 @@
 **ungesättigte Fettsäure** := hat mindestens 1 Doppelbindung
 <!--SR:!2025-03-25,8,250-->
 -> aufgrund der Doppelbindung liegt eine Z-E-Isomerie vor
-![[Z-E-Isomerie]]
-- bei Fettsäuren liegt meist eine Z-Konfiguration vor
+![[Chemie/Fette/Z-E-Isomerie]]
+- bei Fettsäuren liegt meist eine [[cis-Fettsäuren|Z-Konfiguration]] vor
 ```smiles
 CCCC/C=C\CCCCCCCCCCCCC(O)=O
 ```
