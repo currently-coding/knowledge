@@ -568,7 +568,7 @@ dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, 
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2025-08-15,201,395!2025-06-01,156,423-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
-<!--SR:!2025-03-20,110,403!2025-04-06,17,343-->
+<!--SR:!2026-08-02,500,423!2025-04-06,17,343-->
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
 <!--SR:!2025-06-26,181,423!2025-05-27,173,415-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
