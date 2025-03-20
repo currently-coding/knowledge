@@ -39,7 +39,7 @@ adequately(adverb) () ::: angemessen, hinreichend, ausreichend, entsprechend
 adequate(adjective) (I finally received an adequate answer to my question., My income is not high, but it is adequate., An adequate amount of water is important on every hike.) ::: angemessen, hinreichend, ausreichend
 <!--SR:!2025-10-19,308,342!2025-11-05,319,356-->
 to adjust(verb) (I had to adjust my daily routine to my new job., You can adjust the height of the chair individually., You can adjust the volume with this button., The stroke can be adjusted on the machine tool., The speaker adjusted his lecture to the audience's interests., The height of the bicycle seat can be adjusted., I adjusted the spotlights before the rehearsal started., I adjusted the volume with the round button.) ::: anpassen, einstellen, abstimmen, verstellen
-<!--SR:!2025-03-20,124,402!2026-07-15,500,421-->
+<!--SR:!2026-08-02,500,422!2026-07-15,500,421-->
 to adjust oneself(verb) () ::: sich anpassen
 <!--SR:!2025-11-24,338,361!2025-05-25,184,322-->
 affordable(adjective) (We offer good quality at affordable prices., This laptop provides cutting-edge technology at an affordable price., The shop offers affordable products.) ::: erschwinglich, bezahlbar, preiswert, kostengünstig
@@ -446,7 +446,7 @@ to sanction(verb) (The committee sanctioned the expenditure for the project.) ::
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
 <!--SR:!2026-01-27,388,387!2026-01-28,386,389-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
-<!--SR:!2025-04-17,146,388!2025-03-20,72,347-->
+<!--SR:!2025-04-17,146,388!2026-01-06,292,367-->
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
 <!--SR:!2025-04-01,136,389!2026-05-24,483,408-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
@@ -568,7 +568,7 @@ dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, 
 genuinely(adverb) () ::: wirklich, echt, authentisch
 <!--SR:!2025-08-15,201,395!2025-06-01,156,423-->
 genuine(adjective) (The bag is made of genuine leather., The customer has a genuine interest in the product., The students express a genuine interest in art.) ::: original, echt, ernsthaft
-<!--SR:!2025-03-20,110,403!2025-03-20,33,363-->
+<!--SR:!2025-03-20,110,403!2025-04-06,17,343-->
 mechanical(adjective) (For precision work, suitable mechanical instruments are necessary.) ::: mechanisch, technisch, maschinell
 <!--SR:!2025-06-26,181,423!2025-05-27,173,415-->
 regime(noun) (After the revolution, the country was run by a new regime., Revolutionaries overthrew the regime.) ::: Regime, Regierung, herrschendes System
@@ -1344,11 +1344,11 @@ assumption(noun) (His assumption was right and he won the bet., A newspaper arti
 Linking words: Adding Information := Moreover, Furthermore, In addition, Additionally, Not only that, Besides, Also
 <!--SR:!2025-04-02,17,405-->
 Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the other hand, In contrast, Whereas, While, Conversely, Yet, Despite that
-<!--SR:!2025-03-20,1,305-->
+<!--SR:!2025-03-21,1,285-->
 Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
 <!--SR:!2025-03-26,7,325-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
-<!--SR:!2025-03-20,1,325-->
+<!--SR:!2025-03-23,3,325-->
 Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
 <!--SR:!2025-04-01,16,385-->
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
