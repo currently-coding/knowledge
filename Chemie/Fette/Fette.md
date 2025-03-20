@@ -5,6 +5,7 @@
 <!--SR:!2025-03-19,2,210-->
 
 ## Grundlegender Aufbau
+### Glycerin
 
 ![[Glycerin#Formel]]
 
@@ -13,7 +14,7 @@
 -> [[Fettsäuren]]
 
 ```smiles
-CCCCCCCCCCCCCCCCCCC(=O)O
+CCCCCCCCCCCCCCC(=O)O
 ```
 
 ### Ester
