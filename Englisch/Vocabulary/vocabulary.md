@@ -468,7 +468,7 @@ strain(noun) (His new job put a strain on their marriage., The system collapsed 
 to strain(verb) (Working in the garden often strains the back., I always strain the pasta before I season it., Some people say that reading overly strains the eyes., I have strained my muscles.) ::: belasten, abseihen, beanspruchen
 <!--SR:!2026-10-10,571,421!2025-04-24,153,402-->
 creativity(noun) (Some games stimulate the children's creativity., Regular guests praise the chef's creativity.) ::: Kreativität, Schaffen, Schöpferkraft
-<!--SR:!2026-10-13,574,422!2025-03-21,117,401-->
+<!--SR:!2026-10-13,574,422!2026-08-04,500,421-->
 creative(adjective) (I am an engineer, but I have a creative side., A book is the result of a creative process., We need creative, resourceful people., The artist explained her creative process.) ::: kreativ, schöpferisch, gestalterisch
 <!--SR:!2025-04-20,149,401!2026-07-31,538,422-->
 to distinguish(verb) (Small children cannot distinguish left from right.) ::: unterscheiden, auszeichnen, erkennen
@@ -494,7 +494,7 @@ cabin(noun) (The captain has a private cabin on the ship., My parents own a cabi
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
 <!--SR:!2025-05-19,149,395!2025-05-15,151,402-->
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
-<!--SR:!2025-03-21,111,402!2025-03-22,120,405-->
+<!--SR:!2026-08-04,500,422!2025-03-22,120,405-->
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen
 <!--SR:!2026-04-14,419,403!2025-05-24,148,421-->
 victory(noun) (The new player led the team to victory., I will strive for victory.) ::: Sieg, Triumph
@@ -1344,7 +1344,7 @@ assumption(noun) (His assumption was right and he won the bet., A newspaper arti
 Linking words: Adding Information := Moreover, Furthermore, In addition, Additionally, Not only that, Besides, Also
 <!--SR:!2025-04-02,17,405-->
 Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the other hand, In contrast, Whereas, While, Conversely, Yet, Despite that
-<!--SR:!2025-03-21,1,285-->
+<!--SR:!2025-03-25,3,285-->
 Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
 <!--SR:!2025-03-26,7,325-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
@@ -1396,7 +1396,7 @@ feasible(adjective) (This is clearly the only feasible interpretation., This is 
 verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
 <!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
 herewith(adverb) (We herewith accept this assignment.)  :=  hiermit
-<!--SR:!2025-03-22,4,405-->
+<!--SR:!2025-04-09,18,425-->
 thereupon(adverb) ()  :=  daraufhin, darauf, alsdann
 <!--SR:!2025-04-09,18,425-->
 therefore(adverb) (The boy studied and, therefore, passed the exam., The boy studied and, therefore, passed the exam., I have not eaten anything and therefore I am hungry., I study a lot; therefore, my marks are quite good., I studied hard and therefore passed the exam., It rained all week and therefore the match was called off.)  :=  daher, also, folglich
@@ -1410,7 +1410,7 @@ whereas(conjunction) (My brother became an engineer, whereas I became a singer.,
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon
 <!--SR:!2025-03-23,4,385-->
 whereby(adverb) ()  :=  wobei, wodurch, womit
-<!--SR:!2025-03-22,4,405-->
+<!--SR:!2025-04-10,19,425-->
 discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch
 <!--SR:!2025-03-22,4,385!2000-01-01,1,210-->
 inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widerspr�chlichkeit
