@@ -11,7 +11,7 @@
   },
   "dataview": false,
   "inlineSmiles": true,
-  "inlineSmilesPrefix": "/smiles=",
+  "inlineSmilesPrefix": "smiles=",
   "core": "smiles-drawer",
   "commonOptions": {
     "width": 300,
