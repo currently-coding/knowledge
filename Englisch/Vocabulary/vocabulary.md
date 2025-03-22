@@ -1001,7 +1001,7 @@ forecast(noun) (According to the forecast, it's going to be cloudy tomorrow., Th
 to forecast(verb) (Experts forecast an increase in energy demand., The met office is forecasting rain for this weekend., The meteorologists forecast rain this weekend.) ::: prognostizieren, vorhersagen, voraussagen
 <!--SR:!2024-12-25,32,403!2000-01-01,1,250-->
 controversy(noun) () ::: Kontroverse, Auseinandersetzung, Streitigkeit
-<!--SR:!2025-03-21,105,403!2025-06-07,151,423-->
+<!--SR:!2026-07-25,490,423!2025-06-07,151,423-->
 greatly(adverb) (I greatly admire this painter., The merger had greatly increased the company's goodwill.) ::: stark, sehr, erheblich
 <!--SR:!2024-12-29,27,409!2000-01-01,1,250-->
 great(adjective) (The job requires a great sense of responsibility., The king ruled over a great kingdom., The famous director has made some great films., Thanks again for the great party!, She had a great trip to Scotland., The dress looks great, right?, The waiter was great; I am going to tip him generously.) ::: groß, großartig, super
@@ -1398,7 +1398,7 @@ verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
 herewith(adverb) (We herewith accept this assignment.)  :=  hiermit
 <!--SR:!2025-03-22,4,405-->
 thereupon(adverb) ()  :=  daraufhin, darauf, alsdann
-<!--SR:!2025-03-22,4,405-->
+<!--SR:!2025-04-09,18,425-->
 therefore(adverb) (The boy studied and, therefore, passed the exam., The boy studied and, therefore, passed the exam., I have not eaten anything and therefore I am hungry., I study a lot; therefore, my marks are quite good., I studied hard and therefore passed the exam., It rained all week and therefore the match was called off.)  :=  daher, also, folglich
 <!--SR:!2025-04-09,18,425-->
 thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.)  :=  damit, dadurch, dabei
