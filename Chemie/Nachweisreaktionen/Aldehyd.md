@@ -3,4 +3,8 @@ Reagenz: *Schiffs Reagenz*
 Farbe: es entsteht ein *violetter* Farbton
 
 
-## GOD-Test4
+## GOD-Test
+```smiles
+
+```
+C + `smiles=O` -> 
