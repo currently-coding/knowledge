@@ -1399,16 +1399,14 @@ herewith(adverb) (We herewith accept this assignment.)  :=  hiermit
 <!--SR:!2025-03-22,4,405-->
 thereupon(adverb) ()  :=  daraufhin, darauf, alsdann
 <!--SR:!2025-03-22,4,405-->
-wheresoever(adverb) ()  :=  wo auch immer
-<!--SR:!2025-03-22,4,405-->
 therefore(adverb) (The boy studied and, therefore, passed the exam., The boy studied and, therefore, passed the exam., I have not eaten anything and therefore I am hungry., I study a lot; therefore, my marks are quite good., I studied hard and therefore passed the exam., It rained all week and therefore the match was called off.)  :=  daher, also, folglich
-<!--SR:!2025-03-22,4,405-->
+<!--SR:!2025-04-09,18,425-->
 thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.)  :=  damit, dadurch, dabei
 <!--SR:!2025-03-22,4,405-->
 hereafter(adverb) (Hereafter, some examples are listed for better understanding.)  :=  nachstehend, im Folgenden, nachfolgend
 <!--SR:!2025-03-22,4,405-->
 whereas(conjunction) (My brother became an engineer, whereas I became a singer., I love pizza, whereas my sister prefers pasta.)  :=  w�hrend, wohingegen, hingegen
-<!--SR:!2025-03-22,4,405-->
+<!--SR:!2025-04-10,19,425-->
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon
 <!--SR:!2025-03-23,4,385-->
 whereby(adverb) ()  :=  wobei, wodurch, womit
