@@ -17,3 +17,5 @@ $$
 $$
 \text{Red.: } O_{2} + 2e^- + 2H_{3}O^+ \to H_{2}O_{2} + 2H_{2}O
 $$
+- $\ce H_{2}O_{2}$ führt zu Bildung eines blauen Farbstoffes
+	-> Streifen wird grün(, da Grundfarbe gelb)
