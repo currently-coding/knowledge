@@ -7,5 +7,3 @@
 | 1   | 1 * 0 + 1  |
 |     |            |
 $\implies dya(45) = 12221$(von unter nach oben aus Tabelle lesen)
-
-
