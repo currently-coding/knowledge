@@ -7,4 +7,14 @@ Farbe: es entsteht ein *violetter* Farbton
 ```smiles
 
 ```
-C + `smiles=O` -> 
+```smiles
+[R]C(=O)[H]
+O
+```
+$\rightarrow$
+```smiles
+[R]C(=O)O
+O
+H[O+]
+
+```
