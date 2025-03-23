@@ -1,1 +1,2 @@
-- [[Hydrolyse]] eines [[Fette|Fetts]]
+- [[Hydrolyse]] eines [[Fette|Fetts]] durch die wässrige Lösung eines Hydroxids
+- nahezu irreversibel
