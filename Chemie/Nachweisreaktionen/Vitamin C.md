@@ -1,4 +1,3 @@
-# [[Nachweis]] von Vitamin C
 #### V: Vitamin-C Lösung wird zu blauer Iodstaerkeloesung gegeben
 
 #### B: Entfärbung
@@ -12,4 +11,4 @@ $$
 Ox: H_2Asc + 2H_2O \rightarrow Asc + 2e^- + 2H_3O^+
 $$
 
--> $Asc$ wirkt als *Reduktionsmittel* - wird aber *oxidiert*
+-> $Asc$ wirkt als *Reduktionsmittel* - wird aber *[[Oxidation|oxidiert]]*

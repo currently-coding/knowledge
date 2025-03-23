@@ -25,14 +25,14 @@
       "query": "path:Chemie",
       "color": {
         "a": 1,
-        "rgb": 6422466
+        "rgb": 65535
       }
     },
     {
       "query": "path:\"Computer Science/C\" ",
       "color": {
         "a": 1,
-        "rgb": 43775
+        "rgb": 16610045
       }
     },
     {
@@ -53,14 +53,14 @@
       "query": "path:Englisch  ",
       "color": {
         "a": 1,
-        "rgb": 12735231
+        "rgb": 13998071
       }
     },
     {
       "query": "path:Ethik  ",
       "color": {
         "a": 1,
-        "rgb": 9213504
+        "rgb": 10253823
       }
     },
     {
@@ -102,7 +102,7 @@
       "query": "path:Musik  ",
       "color": {
         "a": 1,
-        "rgb": 5361080
+        "rgb": 11644207
       }
     },
     {
@@ -144,20 +144,24 @@
       "query": "path:\"Computer Science/Theoretische Informatik\"  ",
       "color": {
         "a": 1,
-        "rgb": 6160199
+        "rgb": 14810880
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.325,
   "lineSizeMultiplier": 1.7078125,
-  "collapse-forces": false,
-  "centerStrength": 0.515625,
-  "repelStrength": 18.9583333333333,
-  "linkStrength": 0.807291666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.546875,
+  "repelStrength": 20,
+  "linkStrength": 1,
   "linkDistance": 412,
-  "scale": 0.11654428624196161,
-  "close": false
+<<<<<<< HEAD
+  "scale": 0.11654428624196254,
+=======
+  "scale": 0.14273701686483697,
+>>>>>>> origin/main
+  "close": true
 }
