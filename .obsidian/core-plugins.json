@@ -4,7 +4,7 @@
   "switcher": true,
   "graph": true,
   "backlink": true,
-  "canvas": true,
+  "canvas": false,
   "outgoing-link": true,
   "tag-pane": false,
   "properties": false,
@@ -18,7 +18,7 @@
   "bookmarks": false,
   "markdown-importer": false,
   "zk-prefixer": false,
-  "random-note": true,
+  "random-note": false,
   "outline": true,
   "word-count": true,
   "slides": false,
@@ -27,5 +27,5 @@
   "file-recovery": false,
   "publish": false,
   "sync": false,
-  "webviewer": false
+  "webviewer": true
 }
