@@ -1,3 +1,8 @@
+verbatim
+foundational idea  
+discrepancy  
+inconsistency  
+>>>>>>> origin/main
 hypothesis  
 proposed explanation  
 conjecture  

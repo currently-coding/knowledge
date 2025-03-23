@@ -30,4 +30,4 @@
 18. `Trust author and enable plugins` auswählen.
 19. Fertig
 
-Die Einrichtung des lesenden Zugriffs ist nun abgeschlossen. Der Vault wird sich automatisch updaten und immer die neueste Version von Dateien beinhalten. Alte Versionen koennen ueber die Website wiederhergestellt werden.
+Die Einrichtung des lesenden Zugriffs ist nun abgeschlossen. Der Vault wird sich automatisch updaten und immer die neueste Version von Dateien beinhalten. Alte Versionen können über die Website wiederhergestellt werden.

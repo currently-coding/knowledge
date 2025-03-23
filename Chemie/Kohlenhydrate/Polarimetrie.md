@@ -39,7 +39,7 @@ $\rightarrow$ dann wurde die *Schwingungsebene* des [[Polarimetrie|linear polari
 
 # Flashcards
 Wofür wird $$[a] = \frac{a}{100 \cdot \beta \cdot d}$$verwendet? := Die Formel gibt die Berechnung des **spezifischen** **Drehwinkels** an. Dabei ist $a$ der *gemessene* *Drehwinkel*, $d$ die durchstrahlte *Länge* der *Küvette* in *dm* und $\beta$ die *Massenkonzentration* in $$\frac{g}{100mL}$$
-<!--SR:!2025-03-04,9,250-->
+<!--SR:!2025-04-06,27,270-->
 
 Was gibt folgende Gleichung an:
 $${[a]}^{20}_{D} = \frac{-2.6^{\degree} \cdot 1mL}{1dm \cdot g(1, H_{2}O)}$$

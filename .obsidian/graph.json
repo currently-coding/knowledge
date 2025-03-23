@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,170 +8,156 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Chemie  ",
+      "query": "path:Attachments  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 6381921
+      }
+    },
+    {
+      "query": "path:BWINF  ",
+      "color": {
+        "a": 1,
+        "rgb": 11982612
+      }
+    },
+    {
+      "query": "path:Chemie",
+      "color": {
+        "a": 1,
+        "rgb": 6422466
+      }
+    },
+    {
+      "query": "path:\"Computer Science/C\" ",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Hacking\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14606046
       }
     },
     {
       "query": "path:Deutsch  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 3510907
       }
     },
     {
       "query": "path:Englisch  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 12735231
       }
     },
     {
       "query": "path:Ethik  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:Excalidraw  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
+        "rgb": 9213504
       }
     },
     {
       "query": "path:Geographie  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 5141536
       }
     },
     {
       "query": "path:Geschichte  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 9464861
       }
     },
     {
-      "query": "path:Images  ",
+      "query": "path:\"Jugend Debattiert\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395026
+        "rgb": 9705753
       }
     },
     {
       "query": "path:Latein  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 4148934
       }
     },
     {
       "query": "path:Mathematik  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 10920
       }
     },
     {
       "query": "path:Musik  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 5361080
       }
     },
     {
-      "query": "path:PDFs  ",
+      "query": "path:Physik",
       "color": {
         "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:Physik  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
+        "rgb": 13137046
       }
     },
     {
       "query": "path:\"Politik & Gesellschaft\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:Settings  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:Vim  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395121
+        "rgb": 13537595
       }
     },
     {
       "query": "path:Wirtschaft  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 9258277
       }
     },
     {
-      "query": "path:scripts  ",
+      "query": "path:Allgemeinwissen  ",
       "color": {
         "a": 1,
-        "rgb": 5395026
+        "rgb": 16739179
+      }
+    },
+    {
+      "query": "path:Personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     },
     {
       "query": "path:\"Computer Science/Theoretische Informatik\"  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:\"Computer Science/C++\" path:\"Computer Science/C\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 64511
-      }
-    },
-    {
-      "query": "path:\"Computer Science/C++\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:\"Computer Science/Kommunikationssysteme\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395026
+        "rgb": 6160199
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.35052083333333,
-  "lineSizeMultiplier": 1.35052083333333,
+  "nodeSizeMultiplier": 1.325,
+  "lineSizeMultiplier": 1.7078125,
   "collapse-forces": false,
-  "centerStrength": 0.505208333333333,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.22907432640962733,
+  "centerStrength": 0.515625,
+  "repelStrength": 18.9583333333333,
+  "linkStrength": 0.807291666666667,
+  "linkDistance": 412,
+  "scale": 0.11654428624196161,
   "close": false
 }
