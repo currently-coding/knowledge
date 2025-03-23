@@ -21,7 +21,11 @@ C(C(CO)O)O
 
 ```smiles
 [R]C(O)=O
-[-]
+[OH]
+```
+->
+```smiles
+OC(O)([O-])([R])
 ```
 
 
