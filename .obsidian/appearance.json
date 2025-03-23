@@ -11,6 +11,6 @@
     "Print"
   ],
   "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "textFontFamily": "Cascadia Code",
   "showRibbon": true
 }

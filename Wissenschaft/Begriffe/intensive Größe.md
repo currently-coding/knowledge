@@ -1,0 +1,9 @@
+> Physikalische Größen, insbesondere Zustandsgrößen, werden unterschieden in **intensive Größe**n und extensive Größen des Systems, je nachdem, ob sie von der Größe des Systems abhängen.
+>
+> Eine intensive Größe behält bei einer Aufteilung eines homogenen Systems in Teilsysteme in allen Teilsystemen denselben Wert; bei Zusammenfassung mehrerer Systeme, in denen die intensive Zustandsgröße denselben Wert hat, gilt dieser dann auch für das Gesamtsystem. In diesem Sinn kann man sagen, dass eine intensive Größe nicht von der Größe des Systems abhängt. Man unterscheidet hierbei systemeigene intensive Größen, wie beispielsweise Temperatur und Druck, und stoffeigene intensive Größen, wie alle spezifischen Größen reiner Stoffe und Konzentrationsangaben von homogenen Gemischen.
+>
+> Eine extensive Größe hingegen hängt von der Größe des betrachteten Systems ab. Beispiele hierfür sind Masse, Stoffmenge, Volumen, Entropie sowie die thermodynamischen Potentiale (innere Energie, freie Energie, Enthalpie und freie Enthalpie). 
+>
+> Die Abhängigkeit einer Größe von der Größe des betrachteten Systems kann beispielsweise anhand zweier identischer Systeme, die durch eine Zwischenwand getrennt sind, nachvollzogen werden. Hebt man diese Trennung auf und erweitert die Betrachtung auf das gesamte System, so wird der Unterschied zwischen intensiven und extensiven Größen deutlich: Alle Größen, die nun den gleichen Wert wie vor der Entfernung der Zwischenwand besitzen, sind intensive Größen; hingegen sind alle Größen, die nun einen anderen Wert besitzen, extensive Größen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Intensive%20und%20extensive%20Gr%C3%B6%C3%9Fen)
