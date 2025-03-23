@@ -3,19 +3,8 @@
 
 
 ## Reaktion
-- Ester
-```smiles
-C(C(COC(=O)[R])OC(=O)[R])OC(=O)[R]
-```
-wird durch einen nukleophilen Angriff aufgespalten in
-- Glycerin
-```smiles
-C(C(CO)O)O
-```
-- Ione der Fettsäuren(Anion)
-```smiles
-[R]C(O)[O-]
-```
+![[drawing 1]]
+![[drawing 2]]
+![[drawing 3]]
+-> [[drawing all|komplette Reaktion]]
 
-=> Zusammen mit einem Kation($\ce Na^+$ oder $\ce Ka^+$) wird ein Salz gebildet.
-![[Drawing 2025-03-23 16.51.42.excalidraw]]
