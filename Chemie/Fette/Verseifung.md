@@ -12,7 +12,9 @@ wird aufgespalten in
 ```smiles
 C(C(CO)O)O
 ```
-- Ione der Fettsäuren(Anione)
+- Ione der Fettsäuren(Anion)
 ```smiles
 [R]C(O)[O-]
 ```
+
+Zusammen mit einem Kation($\ce Na^+$ oder $\ce Ka^+$) 
