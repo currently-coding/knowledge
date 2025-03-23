@@ -21,16 +21,12 @@ NASM: CMD <dest>, <source> <; comment>
 AT&T: CMD <source>, <dest> <# comment>
 ```
 ### AT&T
-`%` before Registers: meaning *indirect operand*\
-`$` before literal valuesh: meaning *immediate operand*
+`%` before Registers -> *indirect operand*
+`$` before literal value -> *immediate operand*
 - handles memory differently
-
 # Terminology
 - Assembler = Application that translates code into *Assembly*
 - *Assembly* = Assembly Language
-
-
-
 # Flashcards
 Where is NASM being used the most and where do people use AT&T ? -> Windows assemblers/debuggers; Linux Devs/gcc compilers
 <!--SR:!2024-09-09,3,250-->
