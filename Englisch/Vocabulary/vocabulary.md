@@ -494,7 +494,7 @@ cabin(noun) (The captain has a private cabin on the ship., My parents own a cabi
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
 <!--SR:!2025-05-19,149,395!2025-05-15,151,402-->
 prompt(noun) (I got a prompt to save the file., The speaker uses cards with prompts on them.) ::: Aufforderung, Stichwort, Eingabeaufforderung
-<!--SR:!2026-08-04,500,422!2025-03-22,120,405-->
+<!--SR:!2026-08-04,500,422!2026-10-05,561,425-->
 to prompt(verb) (The website prompted me to enter a new password., The actor forgot his line, but the director prompted him.) ::: auffordern, soufflieren, vorsagen
 <!--SR:!2026-04-14,419,403!2025-05-24,148,421-->
 victory(noun) (The new player led the team to victory., I will strive for victory.) ::: Sieg, Triumph
@@ -1361,13 +1361,13 @@ Linking words: Expressing Condition := If, Unless, Provided that, As long as, In
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
 <!--SR:!2025-03-30,14,385-->
 diligent(adjective) (At school she was a very diligent pupil., My son is a diligent student., This project requires diligent planning.) ::: gewissenhaft, flei�ig, sorgf�ltig
-<!--SR:!2025-03-16,4,385!2000-01-01,1,210-->
+<!--SR:!2025-03-25,2,365!2000-01-01,1,210-->
 submissive(adjective) (My dog is quite submissive and not at all dominant.) ::: unterw�rfig, gef�gig, gehorsam
-<!--SR:!2025-03-16,4,405!2000-01-01,1,210-->
+<!--SR:!2025-04-12,20,425!2000-01-01,1,210-->
 to burden(verb) (I do not want to burden you with my problems.) ::: belasten, beschweren, befrachten
-<!--SR:!2025-03-16,4,405!2000-01-01,1,210-->
+<!--SR:!2025-04-11,19,425!2000-01-01,1,210-->
 weary(adjective) (I am weary of the constant rain., I was weary after the long journey.) ::: �berdr�ssig, m�de, abgespannt
-<!--SR:!2025-03-17,4,385!2000-01-01,1,210-->
+<!--SR:!2025-04-09,17,405!2000-01-01,1,210-->
 neglectful(adjective) () ::: nachl�ssig
 <!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
 superficial(adjective) (If you talk about poetry, nobody will think you are superficial.) ::: oberfl�chlich, vordergr�ndig, �u�erlich
