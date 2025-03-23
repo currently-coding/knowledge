@@ -1,0 +1,5 @@
+> Die **Protolyse** (von Proton und altgriechisch λύσις lýsis „Lösung, Auflösung, Beendigung“) (oder auch protolytische Reaktion) ist eine chemische Reaktion, bei der ein Proton (H+-Ion) zwischen zwei Reaktionspartnern übertragen wird. Der Begriff Protolyse bedeutet jedoch sinngemäß die Abspaltung von Protonen. Wegen dieser missverständlichen begrifflichen Ähnlichkeit mit der Hydrolyse oder Photolyse empfiehlt die IUPAC, auf den Begriff zu verzichten, stattdessen sollte besser von Protonen-Übertragungen gesprochen werden.
+>
+> Die Protolyse ist der entscheidende Vorgang nach der wichtigen Brønstedschen Säure-Base-Theorie. Danach überträgt eine Säure ein Proton (H+) an einen Reaktionspartner. Die als Säure bezeichnete Verbindung wirkt als Protonenspender (Protonendonator), die Base (häufig Wasser) nimmt die Protonen auf und wird daher als Protonenakzeptor bezeichnet. Zwischen den Reaktionspartnern stellt sich ein chemisches Gleichgewicht ein.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Protolyse)

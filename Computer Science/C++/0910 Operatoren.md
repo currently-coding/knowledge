@@ -9,30 +9,11 @@ links:
 
 ## Operatorpräzedenz
 
-#todo finish table: see slides 3-8
 
 | Precendence | Operator                                                                                          | Name                                                                                                                                                                                                                                                            | Associativity |
 | ----------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | 1           | ::                                                                                                | scope resolution                                                                                                                                                                                                                                                | none          |
 | 2           | .<br>-><br>\[]<br>()<br>\++<br>\--                                                                | member selection(object)<br>member selection(pointer)<br>subscripting<br>function call<br>postfix decrement<br>postfix increment                                                                                                                                | left to right |
-<!--SR:!2024-08-21,4,270-->
-| 3           | sizeof<br>\++<br>\--<br>~<br>!<br>-<br>+<br>&<br>*<br>new<br>new\[]<br>delete<br>delete\[]<br>\() | size of object/type<br>prefix increment<br>prefix decrement<br>bitwise NOT<br>logical NOT<br>unary minus<br>unary plus<br>address of<br>indirection<br>allocate storage<br>allocate storage\(array)<br>deallocate storage<br>deallocate storage(arrray)<br>cast | right to left |
-| 4           |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 5           |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 6           |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 7           |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 8           |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 9           |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 10          |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 11          |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 12          |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 12          |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 13          |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 14          |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 15          |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 16          |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
-| 17          |                                                                                                   |                                                                                                                                                                                                                                                                 |               |
- 
 ## Operatoroverloading
 
 ### Example
@@ -65,9 +46,3 @@ int main() { Vector2d v1(2.0, 3.0);
 	std::cout << v2 << std::endl; // operator<<(std::cout, v2)
 }
 ```
-
-# Code Beispiele/Aufgaben
-## 1
-
-
-# Flashcards

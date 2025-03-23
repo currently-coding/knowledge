@@ -40,7 +40,7 @@ $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in thi
 <!--SR:!2025-11-12,291,334-->
 ### Cartesian Products
 $A_1 \times A_2 \times \ldots \times A_n$ := $\{(a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ for all } i\}$ (Cartesian product of sets $A_1,A_2, \ldots, A_n$)
-<!--SR:!2025-03-14,119,297-->
+<!--SR:!2026-05-04,415,317-->
 $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of set A)
 <!--SR:!2025-06-27,184,314-->
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
@@ -62,9 +62,9 @@ $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
 $f$ is total ::: $D_f = A$
 <!--SR:!2025-04-26,151,314!2026-03-20,397,339-->
 $f$ is surjective ::: $R_f = B$
-<!--SR:!2025-12-05,285,298!2025-03-17,111,294-->
+<!--SR:!2025-12-05,285,298!2025-05-14,58,274-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
-<!--SR:!2025-03-23,57,258!2026-05-12,437,314-->
+<!--SR:!2025-09-16,177,278!2026-05-12,437,314-->
 $f$ is bijective ::: $f$ is total, surjective, and injective
 <!--SR:!2025-11-29,295,334!2025-11-26,305,338-->
 If $f$ is injective, there exists the inverse function := $f^{-1} : B \to A$ with $f^{-1}(b)$ = the $a \in A$ with $f(a) = b$.
