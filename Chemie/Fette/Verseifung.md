@@ -19,3 +19,10 @@ C(C(CO)O)O
 
 => Zusammen mit einem Kation($\ce Na^+$ oder $\ce Ka^+$) wird ein Salz gebildet.
 
+```smiles
+[R]C(O)=O
+[-]
+```
+
+
+
