@@ -1379,21 +1379,21 @@ reclusive(adjective) (Deer are very reclusive animals., The reclusive writer liv
 to disengage(verb) (I disengaged the hand brake and began to drive.) ::: l�sen, auskuppeln, abkoppeln
 <!--SR:!2000-01-01,1,210!2025-03-25,2,385-->
 to disengage oneself(verb) (I should disengage from a few of my hobbies and spend time with my family.) ::: sich freimachen
-<!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
+<!--SR:!2025-04-08,16,405!2000-01-01,1,210-->
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend
-<!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
+<!--SR:!2025-04-11,19,425!2000-01-01,1,210-->
 aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert, reserviert
 <!--SR:!2025-03-28,9,405!2025-04-03,16,385-->
 aloof(adverb) (I keep aloof from controversial topics.) ::: abseits
-<!--SR:!2000-01-01,1,210!2025-03-17,4,405-->
+<!--SR:!2000-01-01,1,210!2025-03-25,2,385-->
 to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
-<!--SR:!2025-03-17,4,405!2000-0101,1,210-->
+<!--SR:!2025-04-10,18,425!2000-01-01,1,210-->
 bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, öde, düster
-<!--SR:!2025-03-18,4,385!2025-03-14,1,365-->
+<!--SR:!2025-04-09,17,405!2025-03-14,1,365-->
 feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: möglich, machbar, praktikabel
 <!--SR:!2025-04-04,18,425!2025-04-05,18,405-->
 verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
-<!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
+<!--SR:!2025-03-27,4,365!2000-01-01,1,210-->
 herewith(adverb) (We herewith accept this assignment.)  :=  hiermit
 <!--SR:!2025-04-09,18,425-->
 thereupon(adverb) ()  :=  daraufhin, darauf, alsdann
@@ -1407,13 +1407,13 @@ hereafter(adverb) (Hereafter, some examples are listed for better understanding.
 whereas(conjunction) (My brother became an engineer, whereas I became a singer., I love pizza, whereas my sister prefers pasta.)  :=  w�hrend, wohingegen, hingegen
 <!--SR:!2025-04-10,19,425-->
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon
-<!--SR:!2025-03-23,4,385-->
+<!--SR:!2025-04-10,18,405-->
 whereby(adverb) ()  :=  wobei, wodurch, womit
 <!--SR:!2025-04-10,19,425-->
 discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch
-<!--SR:!2025-03-22,4,385!2000-01-01,1,210-->
+<!--SR:!2025-04-09,17,405!2000-01-01,1,210-->
 inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widerspr�chlichkeit
-<!--SR:!2000-01-01,1,210!2025-03-22,4,405-->
+<!--SR:!2000-01-01,1,210!2025-03-25,2,385-->
 inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widerspr�chlich, uneinheitlich
 <!--SR:!2025-03-22,4,405!2000-01-01,1,210-->
 hypothesis(noun) (The hypothesis made by the scientist turned out to be correct., The speaker elucidated his hypothesis.) ::: Hypothese, These, Vermutung
