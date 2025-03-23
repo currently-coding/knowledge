@@ -1371,11 +1371,11 @@ weary(adjective) (I am weary of the constant rain., I was weary after the long j
 neglectful(adjective) () ::: nachl�ssig
 <!--SR:!2000-01-01,1,210!2025-03-24,1,345-->
 superficial(adjective) (If you talk about poetry, nobody will think you are superficial.) ::: oberfl�chlich, vordergr�ndig, �u�erlich
-<!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
+<!--SR:!2000-01-01,1,210!2025-03-27,4,385-->
 taciturn(adjective) (The talkative young boy is unusually taciturn today., He usually talks a lot, but today he seems rather taciturn.) ::: wortkarg, schweigsam, einsilbig
-<!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
+<!--SR:!2025-04-12,20,425!2000-01-01,1,210-->
 reclusive(adjective) (Deer are very reclusive animals., The reclusive writer lives alone.) ::: scheu, einsam, eigenbr�tlerisch
-<!--SR:!2025-03-14,1,365!2000-01-01,1,210-->
+<!--SR:!2025-03-27,4,365!2000-01-01,1,210-->
 to disengage(verb) (I disengaged the hand brake and began to drive.) ::: l�sen, auskuppeln, abkoppeln
 <!--SR:!2000-01-01,1,210!2025-03-17,4,405-->
 to disengage oneself(verb) (I should disengage from a few of my hobbies and spend time with my family.) ::: sich freimachen
