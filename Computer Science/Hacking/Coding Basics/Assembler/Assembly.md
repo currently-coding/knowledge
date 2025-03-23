@@ -3,9 +3,6 @@ tags:
   - hacking
   - coding
 ---
-### Related to
-
-
 # AT&T vs NASM
 ## AT&T
 - used by GNU Assembler in `gcc` compiler suite
