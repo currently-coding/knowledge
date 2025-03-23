@@ -1,15 +1,8 @@
-<<<<<<< HEAD:scripts/wordlist.md
-verbatim
-foundational idea  
-discrepancy  
-inconsistency  
->>>>>>> origin/main
 hypothesis  
 proposed explanation  
 conjecture  
 convergence  
 alignment  
-=======
 indefatigable
 rectitude
 gainsay
@@ -28,7 +21,6 @@ to postulate
 unequivocal
 dichotomy
 to conflate
->>>>>>> origin/main:Settings-and-scripts/wordlist.md
 divergence  
 difference  
 discrepancy  
