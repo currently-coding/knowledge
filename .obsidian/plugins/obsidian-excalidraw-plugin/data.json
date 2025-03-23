@@ -24,7 +24,7 @@
   "cropPrefix": "cropped_",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
-  "previewImageType": "SVGIMG",
+  "previewImageType": "PNG",
   "renderingConcurrency": 3,
   "allowImageCache": true,
   "allowImageCacheInScene": true,
