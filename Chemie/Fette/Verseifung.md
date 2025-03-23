@@ -7,7 +7,7 @@
 ```smiles
 C(C(COC(=O)[R])OC(=O)[R])OC(=O)[R]
 ```
-wird aufgespalten in
+wird durch einen nukleophilen Angriff aufgespalten in
 - Glycerin
 ```smiles
 C(C(CO)O)O
