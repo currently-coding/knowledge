@@ -17,4 +17,4 @@ C(C(CO)O)O
 [R]C(O)[O-]
 ```
 
-Zusammen mit einem Kation($\ce Na^+$ oder $\ce Ka^+$) 
+=> Zusammen mit einem Kation($\ce Na^+$ oder $\ce Ka^+$) wird ein Salz gebildet.
