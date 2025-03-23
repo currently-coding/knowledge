@@ -28,6 +28,3 @@ C(C(CO)O)O
 OC(O)([O-])([R])
 
 ```
-$\rightleftharpoons$
-
-
