@@ -528,7 +528,7 @@ to generate(verb) (The batteries generate power for the radio., I can generate a
 to renew(verb) (I renewed my newspaper subscription., A good polish renews the shine of the wood.) ::: erneuern, verlängern, auffrischen
 <!--SR:!2025-05-23,165,422!2025-05-31,177,415-->
 pure(adjective) (It was pure coincidence that they were in the same city that day., We only use natural oils and pure essences., The necklace was made of pure gold., She looked at the gift with pure joy.) ::: rein, pur, unverfälscht
-<!--SR:!2025-06-10,165,422!2025-03-23,108,397-->
+<!--SR:!2025-06-10,165,422!2026-07-30,494,417-->
 timely(adjective) (Timely procurement of raw materials is essential for production., The supplier is responsible for timely delivery.) ::: rechtzeitig, fristgerecht, zeitgerecht
 <!--SR:!2024-11-21,19,375!2024-12-11,19,383-->
 globe(noun) () ::: Welt, Globus, Erdball
