@@ -12,7 +12,7 @@ wird aufgespalten in
 ```smiles
 C(C(CO)O)O
 ```
-- Ione der Fettsäuren
+- Ione der Fettsäuren(Anione)
 ```smiles
 [R]C(O)[O-]
 ```
