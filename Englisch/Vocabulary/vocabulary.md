@@ -1377,7 +1377,7 @@ taciturn(adjective) (The talkative young boy is unusually taciturn today., He us
 reclusive(adjective) (Deer are very reclusive animals., The reclusive writer lives alone.) ::: scheu, einsam, eigenbr�tlerisch
 <!--SR:!2025-03-27,4,365!2000-01-01,1,210-->
 to disengage(verb) (I disengaged the hand brake and began to drive.) ::: l�sen, auskuppeln, abkoppeln
-<!--SR:!2000-01-01,1,210!2025-03-17,4,405-->
+<!--SR:!2000-01-01,1,210!2025-03-25,2,385-->
 to disengage oneself(verb) (I should disengage from a few of my hobbies and spend time with my family.) ::: sich freimachen
 <!--SR:!2025-03-17,4,405!2000-01-01,1,210-->
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend
