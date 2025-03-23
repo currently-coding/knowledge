@@ -1369,7 +1369,7 @@ to burden(verb) (I do not want to burden you with my problems.) ::: belasten, be
 weary(adjective) (I am weary of the constant rain., I was weary after the long journey.) ::: �berdr�ssig, m�de, abgespannt
 <!--SR:!2025-04-09,17,405!2000-01-01,1,210-->
 neglectful(adjective) () ::: nachl�ssig
-<!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
+<!--SR:!2000-01-01,1,210!2025-03-24,1,345-->
 superficial(adjective) (If you talk about poetry, nobody will think you are superficial.) ::: oberfl�chlich, vordergr�ndig, �u�erlich
 <!--SR:!2000-01-01,1,210!2025-03-14,1,365-->
 taciturn(adjective) (The talkative young boy is unusually taciturn today., He usually talks a lot, but today he seems rather taciturn.) ::: wortkarg, schweigsam, einsilbig
