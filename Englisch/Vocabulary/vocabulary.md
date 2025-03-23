@@ -510,7 +510,7 @@ notable(adjective) (The designer was a notable figure in the fashion world., The
 segment(noun) (He divided the film into several segments., The director divided the film into several segments.) ::: Segment, Bereich, Abschnitt
 <!--SR:!2025-05-30,166,422!2025-05-21,145,423-->
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
-<!--SR:!2025-03-23,121,412!2025-04-20,136,423-->
+<!--SR:!2026-08-05,500,432!2025-04-20,136,423-->
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung
 <!--SR:!2025-03-26,101,403!2025-04-22,138,423-->
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
@@ -1348,7 +1348,7 @@ Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the ot
 Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
 <!--SR:!2025-03-26,7,325-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
-<!--SR:!2025-03-23,3,325-->
+<!--SR:!2025-04-03,11,345-->
 Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
 <!--SR:!2025-04-01,16,385-->
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
