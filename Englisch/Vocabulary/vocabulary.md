@@ -1417,9 +1417,9 @@ inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::
 inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widerspr�chlich, uneinheitlich
 <!--SR:!2025-04-13,20,425!2000-01-01,1,210-->
 hypothesis(noun) (The hypothesis made by the scientist turned out to be correct., The speaker elucidated his hypothesis.) ::: Hypothese, These, Vermutung
-<!--SR:!2000-01-01,1,210!2025-03-22,4,405-->
+<!--SR:!2000-01-01,1,210!2025-04-12,19,425-->
 proposed explanation(noun) () ::: vorgestellte Erkl�rung
-<!--SR:!2025-03-22,4,405!2000-01-01,1,210-->
+<!--SR:!2025-04-13,20,425!2000-01-01,1,210-->
 conjecture(noun) (His conjecture about the results of the elections was right.) ::: Vermutung, Mutma�ung, Annahme
 <!--SR:!2025-03-19,1,365!2000-01-01,1,210-->
 to conjecture(verb) () ::: vermuten, spekulieren, annehmen
