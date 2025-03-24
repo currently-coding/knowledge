@@ -1,0 +1,1 @@
+-> [[Verbindung]] von [[Aminosäuren]]
