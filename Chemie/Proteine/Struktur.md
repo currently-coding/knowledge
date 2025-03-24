@@ -5,6 +5,7 @@
 - kugelförmig
 
 ## Ursache
-We
-- [[London-Dispersions-Kräfte|Wechselwirkungen(LDK)]] zwischen unpolaren Resten
-- [[Wasserstoffbrückenbindung|]]
+-> [[Stärke der Wechselwirkung|Wechselwirkungen]]
+- [[London-Dispersions-Kräfte|LDK]] zwischen unpolaren Resten
+- [[Wasserstoffbrückenbindung]] zwischen polaren Resten o. [[Peptidbindung]]
+- [[]]
