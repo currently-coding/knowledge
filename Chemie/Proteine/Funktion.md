@@ -2,7 +2,7 @@
 - Energielieferant
 - Baustoff
 
-Strukturproteine := Action, Myosin, Keratin, ...
+**Strukturproteine** := Proteine, die für mechanische Stabilität und Form von Zellen, Gewebe und Organismen. (Actin, Myosin, Keratin, ...)
 ## Beispiele
 ### Baustoff
 - Muskel
@@ -10,4 +10,3 @@ Strukturproteine := Action, Myosin, Keratin, ...
 	- Myosin
 - Haar- und Nagelstruktur
 	- Keratin
-=> **Strukturproteine**
