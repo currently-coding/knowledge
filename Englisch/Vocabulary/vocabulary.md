@@ -17,7 +17,7 @@ to accomplish(verb) (With hard work you can accomplish a lot., I have now accomp
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
 <!--SR:!2026-02-01,373,319!2025-04-02,139,316-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
-<!--SR:!2025-10-01,293,342!2025-03-24,142,319-->
+<!--SR:!2025-10-01,293,342!2026-09-05,530,339-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
 <!--SR:!2025-12-01,341,342!2025-05-15,173,310-->
 accurate(adjective) (We need accurate figures with two digits after the decimal point., To write this article, I need accurate data., The audit found the financial statements to be accurate., With this instrument you can get very accurate measurements., The reporter gave an accurate account of the circumstances.) ::: genau, korrekt, sorgfältig, richtig
