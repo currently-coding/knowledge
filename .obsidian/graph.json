@@ -18,7 +18,7 @@
       "query": "path:\"Computer Science/C++\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14200410
       }
     },
     {
@@ -57,17 +57,24 @@
       }
     },
     {
-      "query": "path:Ethik  ",
+      "query": "path:Geschichte  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 13913387
       }
     },
     {
-      "query": "path:\"Jugend Debattiert\"  ",
+      "query": "path:Ethik  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 6531274
+      }
+    },
+    {
+      "query": "path:Physik  ",
+      "color": {
+        "a": 1,
+        "rgb": 11693244
       }
     }
   ],
@@ -76,11 +83,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.651041666666667,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.18462326225858122,
+  "linkDistance": 258,
+  "scale": 0.09392927902846995,
   "close": false
 }
