@@ -1,1 +1,1 @@
-![[Attachments/Aminogruppe|Aminogruppe]]
+![[Attachments/aminogruppe|Aminogruppe]]

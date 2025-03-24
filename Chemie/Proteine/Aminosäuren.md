@@ -1,2 +1,3 @@
-![[Chemie/Formeln/Aminogruppe]]
-
+## Aufbau
+![[aminosaeure_aufbau|Aufbau]]
+## Benennung
