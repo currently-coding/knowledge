@@ -1,5 +1,4 @@
-## Aufbau
-![[aminosaeure_aufbau|Aufbau]]
+- [[Aufbau]]
 ## Benennung
 `L/D`-`X`-Aminocarbonsäure
 - `L/D`, da [[Chiralitaet|chiral]]
