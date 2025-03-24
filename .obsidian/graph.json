@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:\"Computer Science/C++\"  ",
+      "query": "path:\"Computer Science/C\"  ",
       "color": {
         "a": 1,
         "rgb": 14200410
@@ -67,7 +67,7 @@
       "query": "path:Ethik  ",
       "color": {
         "a": 1,
-        "rgb": 6531274
+        "rgb": 6596810
       }
     },
     {
@@ -88,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 258,
-  "scale": 0.0669974499528246,
-  "close": true
+  "scale": 0.09392927902847037,
+  "close": false
 }
