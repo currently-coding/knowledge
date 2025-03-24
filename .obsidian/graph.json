@@ -18,21 +18,21 @@
       "query": "path:\"Computer Science/C\"  ",
       "color": {
         "a": 1,
-        "rgb": 14200410
+        "rgb": 6596810
       }
     },
     {
       "query": "path:\"Computer Science/Theoretische Informatik\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 12119376
       }
     },
     {
       "query": "path:Geographie  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 6469474
       }
     },
     {
@@ -67,7 +67,7 @@
       "query": "path:Ethik  ",
       "color": {
         "a": 1,
-        "rgb": 6596810
+        "rgb": 14200410
       }
     },
     {
@@ -88,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 258,
-  "scale": 0.09392927902847037,
+  "scale": 0.09392927902847041,
   "close": false
 }
