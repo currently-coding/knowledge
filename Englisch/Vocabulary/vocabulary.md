@@ -1427,8 +1427,8 @@ to conjecture(verb) () ::: vermuten, spekulieren, annehmen
 convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Ann�herung, Zusammenlaufen
 <!--SR:!2025-04-11,18,405!2000-01-01,1,210-->
 alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten
-<!--SR:!2025-03-22,4,405!2000-01-01,1,210-->
+<!--SR:!2025-04-08,15,405!2000-01-01,1,210-->
 to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten
-<!--SR:!2000-01-01,1,210!2025-03-22,4,405-->
+<!--SR:!2000-01-01,1,210!2025-04-12,19,425-->
 to align oneself to(verb) () ::: sich an anpassen
-<!--SR:!2000-01-01,1,210!2025-03-19,1,365-->
+<!--SR:!2000-01-01,1,210!2025-03-28,4,365-->
