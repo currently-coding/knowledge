@@ -1,1 +1,2 @@
-- aus [[Aminosäuren|L-2-Aminocarbon:saeuren]] aufgebaut
+- aus [[Aminosäuren|L-2-Aminocarbonsaeuren]] aufgebaut
+- 
