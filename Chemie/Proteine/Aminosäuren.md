@@ -8,3 +8,8 @@
 ### Beispiel:
 ![[L-2-aminocarbonsaeure]]
 -> L-2-Aminocarbonsäuremolekül
+
+## Vorkommen
+- L-2-Aminocarbonsaeuren
+	- **20 verschiedene in der Natur**
+- 
