@@ -301,13 +301,13 @@ to reside(verb) (My parents reside in another country., During our last vacation
 compound(noun) (Brine is a compound of salt and water., The splitting of the chemical compound was a success., A compound is formed by two or more elements., When the soldiers arrived, they established a compound.) ::: Verbindung, Mischung, Lager
 <!--SR:!2025-11-14,322,381!2026-06-19,503,399-->
 compound(adjective) (The lesson was about compound adjectives.) ::: zusammengesetzt
-<!--SR:!2025-03-24,135,388!2026-04-01,430,399-->
+<!--SR:!2026-11-18,604,408!2026-04-01,430,399-->
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 <!--SR:!2025-11-06,320,379!2026-06-06,493,408-->
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
 <!--SR:!2025-04-19,147,387!2025-11-27,327,359-->
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
-<!--SR:!2026-06-03,493,399!2025-03-24,140,387-->
+<!--SR:!2026-06-03,493,399!2026-12-11,627,407-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
 <!--SR:!2026-01-12,372,387!2026-04-22,451,399-->
 to call attention(verb) () ::: aufmerksam machen
@@ -1415,7 +1415,7 @@ discrepancy(noun) (The numbers match, there is no discrepancy., There is a discr
 inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widerspr�chlichkeit
 <!--SR:!2000-01-01,1,210!2025-03-25,2,385-->
 inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widerspr�chlich, uneinheitlich
-<!--SR:!2025-03-22,4,405!2000-01-01,1,210-->
+<!--SR:!2025-04-13,20,425!2000-01-01,1,210-->
 hypothesis(noun) (The hypothesis made by the scientist turned out to be correct., The speaker elucidated his hypothesis.) ::: Hypothese, These, Vermutung
 <!--SR:!2000-01-01,1,210!2025-03-22,4,405-->
 proposed explanation(noun) () ::: vorgestellte Erkl�rung
