@@ -1421,7 +1421,7 @@ hypothesis(noun) (The hypothesis made by the scientist turned out to be correct.
 proposed explanation(noun) () ::: vorgestellte Erkl�rung
 <!--SR:!2025-04-13,20,425!2000-01-01,1,210-->
 conjecture(noun) (His conjecture about the results of the elections was right.) ::: Vermutung, Mutma�ung, Annahme
-<!--SR:!2025-03-19,1,365!2000-01-01,1,210-->
+<!--SR:!2025-03-28,4,365!2000-01-01,1,210-->
 to conjecture(verb) () ::: vermuten, spekulieren, annehmen
 <!--SR:!2000-01-01,1,210!2025-03-19,1,365-->
 convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Ann�herung, Zusammenlaufen
