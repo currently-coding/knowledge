@@ -1,1 +1,4 @@
-![[Cystine-from-xtal-2D-skeletal.png]]
+## Formel
+---
+- Disulfid
+- durch Oxidation der 
