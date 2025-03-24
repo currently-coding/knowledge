@@ -1,4 +1,3 @@
-## Benennung
 `L/D`-`X`-Aminocarbonsäure
 - `L/D`, da [[Chiralitaet|chiral]]
 - `X` bezeichnet das C-Atom, an das die [[Chemie/Formeln/funktionelle Gruppen/Aminogruppe|Aminogruppe]] bindet.
