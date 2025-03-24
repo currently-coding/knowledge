@@ -1,4 +1,8 @@
 ## Formel
+```smiles
+O=C(O)
+```
 ---
 - Disulfid
-- durch Oxidation der 
+- durch Oxidation der [[Sulhyrdrylgruppe]] der proteinogenen $\alpha$-[[Aminosäuren|Aminosaeure]] [[Cystein]]
+- 
