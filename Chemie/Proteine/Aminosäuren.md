@@ -1,0 +1,2 @@
+## Amino-Gruppe
+![[Aminogruppe]]

@@ -1,1 +1,1 @@
-- aus 
+- aus [[Aminosäuren]] aufgebaut
