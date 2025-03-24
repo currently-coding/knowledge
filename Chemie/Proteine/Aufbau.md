@@ -1,1 +1,1 @@
--> [[Verbindung]] von [[Aminosäuren]]
+-> [[Verbindung]] von [[Verbindung#Benennung|min. 100]] [[Aminosäuren]]

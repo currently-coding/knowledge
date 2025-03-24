@@ -1,10 +1,10 @@
-## Makronaehrstoffe
-- [[Chemie/Fette/Allgemein/Allgemein/Allgemein/Allgemein/Allgemein/Allgemein|Fette]]
+## Makronährstoffe
+- [[Fette]]
 - [[Proteine]]
 - [[Kohlenhydrate]]
-=> Energielieferanten
+=> **Energielieferanten** und **Baustoff**
 
-## Mikronaehrstoffe
+## Mikronährstoffe
 - [[Vitamine]]
 - [[Mineralsalze]]
 

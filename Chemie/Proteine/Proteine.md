@@ -1,2 +1,3 @@
-- aus [[Chemie/Proteine/Aminosäuren|L-2-Aminocarbonsaeuren]] aufgebaut
-- 
+= Verbindung von 100+ Aminosäuren
+- [[Chemie/Proteine/Aufbau|Aufbau]]
+- [[Funktion]]
