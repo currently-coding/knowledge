@@ -1,4 +1,4 @@
-## [[Aufbau]]
+## [[Chemie/Proteine/Aminosäuren/Aufbau]]
 ## [[Benennung]]
 ## Allgemeines
 - **natürlich** kommen **20 verschiedene L-2-Aminocarbonsaeuren** vor
