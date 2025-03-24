@@ -1423,7 +1423,7 @@ proposed explanation(noun) () ::: vorgestellte Erkl�rung
 conjecture(noun) (His conjecture about the results of the elections was right.) ::: Vermutung, Mutma�ung, Annahme
 <!--SR:!2025-03-28,4,365!2000-01-01,1,210-->
 to conjecture(verb) () ::: vermuten, spekulieren, annehmen
-<!--SR:!2000-01-01,1,210!2025-03-19,1,365-->
+<!--SR:!2000-01-01,1,210!2025-03-28,4,385-->
 convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Ann�herung, Zusammenlaufen
 <!--SR:!2025-03-22,4,385!2000-01-01,1,210-->
 alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten
