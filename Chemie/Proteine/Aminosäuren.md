@@ -1,2 +1,2 @@
-## Amino-Gruppe
-![[Aminogruppe]]
+![[Chemie/Formeln/Aminogruppe]]
+

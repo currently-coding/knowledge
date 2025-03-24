@@ -1,3 +1,1 @@
-```smiles
-[R]N
-```
+![[Attachments/Aminogruppe|Aminogruppe]]
