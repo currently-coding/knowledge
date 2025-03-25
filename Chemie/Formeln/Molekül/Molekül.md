@@ -1,3 +1,0 @@
-> **Molekül**e [moleˈkyːl] (älter auch: Molekel [moˈleːkəl]; von lateinisch molecula  ‚kleine Masse‘) sind „im weiten Sinn“ zwei- oder mehratomige Teilchen, die durch chemische Bindungen zusammengehalten werden und wenigstens so lange stabil sind, dass sie z. B. spektroskopisch beobachtet werden können. Ein Molekül kann dabei aus mehreren gleichen oder aus verschiedenen Atomen bestehen. Es kann sich um neutrale Teilchen, aber auch um Radikale, Ionen oder auch ionische Addukte handeln. So sind z. B. viele Typen von interstellaren Molekülen unter irdischen Bedingungen nicht stabil. IUPAC nennt solche Teilchen „molekulare Gebilde“ (molecular entity).
->
-> [Wikipedia](https://de.wikipedia.org/wiki/Molek%C3%BCl)

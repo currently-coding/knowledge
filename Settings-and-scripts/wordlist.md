@@ -1,3 +1,8 @@
+hypothesis  
+proposed explanation  
+conjecture  
+convergence  
+alignment  
 indefatigable
 rectitude
 gainsay
