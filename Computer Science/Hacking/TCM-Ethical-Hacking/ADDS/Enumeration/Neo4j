@@ -1,0 +1,12 @@
+# Neo 4 j
+
+
+```bash
+sudo neo4j console
+```
+-> outputs website
+
+![Neo4J website](image.png)
+
+- Password: 'neo4j4felix'
+- Username: 'neo4j'
