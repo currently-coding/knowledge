@@ -113,6 +113,7 @@
   "Editor@@collapse-icon-restore": false,
   "Editor@@heading-indicator-off": false,
   "Editor@@h3-size": "1.28em",
-  "Editor@@h2-size": "1.405em",
-  "Editor@@h4-size": "1.24em"
+  "Editor@@h2-size": "1.37em",
+  "Editor@@h4-size": "1.24em",
+  "Editor@@h1-size": "1.43em"
 }
