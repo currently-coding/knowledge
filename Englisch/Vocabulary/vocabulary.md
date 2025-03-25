@@ -1343,7 +1343,7 @@ assumption(noun) (His assumption was right and he won the bet., A newspaper arti
 Linking words: Adding Information := Moreover, Furthermore, In addition, Additionally, Not only that, Besides, Also
 <!--SR:!2025-04-02,17,405-->
 Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the other hand, In contrast, Whereas, While, Conversely, Yet, Despite that
-<!--SR:!2025-03-25,3,285-->
+<!--SR:!2025-04-02,8,285-->
 Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
 <!--SR:!2025-03-26,7,325-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
@@ -1357,7 +1357,7 @@ Linking words: Clarifying or Explaining := That is to say, In other words, To pu
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
 <!--SR:!2025-03-27,9,385-->
 Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
-<!--SR:!2025-03-25,7,365-->
+<!--SR:!2025-04-20,26,365-->
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
 <!--SR:!2025-03-30,14,385-->
 diligent(adjective) (At school she was a very diligent pupil., My son is a diligent student., This project requires diligent planning.) ::: gewissenhaft, flei�ig, sorgf�ltig
