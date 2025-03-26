@@ -2975,7 +2975,7 @@ var SizeHistoryPlugin = class extends import_obsidian.Plugin {
   async updateHistory() {
     const history = await this.getHistory();
     const latestTimestamp = this.getLatestTimeMs(history);
-    const allFiles = this.app.vault.getFiles();
+    const allFiles = this.app.vault.getMarkdownFiles();
     const unregisterdFiles = allFiles.filter((value) => value.stat.ctime > latestTimestamp + MS_IN_DAY);
     unregisterdFiles.sort((a, b) => a.stat.ctime - b.stat.ctime);
     for (const file of unregisterdFiles) {
