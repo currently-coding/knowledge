@@ -332,7 +332,7 @@ palm(noun) (Palms grow in tropical regions.) ::: Palme, Handfläche, Innenhand
 to palm(verb) (The magician palmed the ring.) ::: in der Hand verschwinden lassen, palmieren
 <!--SR:!2026-04-29,458,401!2026-05-07,449,399-->
 revenge(noun) (The villain plotted his revenge against the hero.) ::: Rache, Revanche, Vergeltung
-<!--SR:!2026-05-20,476,399!2025-03-26,140,387-->
+<!--SR:!2026-05-20,476,399!2026-12-13,627,407-->
 to revenge oneself(verb) () ::: sich rächen
 <!--SR:!2026-06-16,505,405!2025-12-13,343,379-->
 consistently(adverb) (The scientist consistently pursues his goal., The product quality is consistently high., The student consistently asks questions.) ::: konsequent, konsistent, immer wieder
@@ -512,7 +512,7 @@ segment(noun) (He divided the film into several segments., The director divided 
 to segment(verb) (The company segmented its client data into different target groups., She segmented the sentence to study its grammar.) ::: segmentieren, zerlegen, sich teilen
 <!--SR:!2026-08-05,500,432!2025-04-20,136,423-->
 disorder(noun) (There is a good treatment for this mental disorder., The nursery is in a permanent state of disorder.) ::: Störung, Unordnung, Erkrankung
-<!--SR:!2025-03-26,101,403!2025-04-22,138,423-->
+<!--SR:!2026-07-13,474,423!2025-04-22,138,423-->
 to disorder(verb) () ::: zerrütten, in Unordnung bringen
 <!--SR:!2024-12-21,29,375!2024-11-20,6,361-->
 revolutionary(adjective) (His revolutionary ideas slowly found acceptance., The scientists' latest invention was revolutionary.) ::: revolutionär, bahnbrechend, umwälzend
@@ -562,7 +562,7 @@ venture(noun) (The company invests in various ventures., I saved money to invest
 to venture(verb) (I ventured a guess about the company's profit., He ventured a small sum in hopes of a large profit.) ::: wagen, riskieren
 <!--SR:!2025-03-04,102,391!2024-11-08,6,383-->
 to supervise(verb) (To ensure quality, production is constantly supervised., The professor supervises the student's work., The senior doctor is supervising the interns., A foreman supervises the other workers.) ::: überwachen, betreuen, beaufsichtigen
-<!--SR:!2026-10-29,583,432!2025-03-26,59,383-->
+<!--SR:!2026-10-29,583,432!2025-12-13,262,403-->
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant
 <!--SR:!2025-05-14,163,412!2025-11-26,298,402-->
 genuinely(adverb) () ::: wirklich, echt, authentisch
@@ -1345,13 +1345,13 @@ Linking words: Adding Information := Moreover, Furthermore, In addition, Additio
 Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the other hand, In contrast, Whereas, While, Conversely, Yet, Despite that
 <!--SR:!2025-04-02,8,285-->
 Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
-<!--SR:!2025-03-26,7,325-->
+<!--SR:!2025-04-22,27,345-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
 <!--SR:!2025-04-03,11,345-->
 Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
 <!--SR:!2025-04-01,16,385-->
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
-<!--SR:!2025-03-26,7,325-->
+<!--SR:!2025-04-17,22,325-->
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
 <!--SR:!2025-04-01,15,365-->
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
