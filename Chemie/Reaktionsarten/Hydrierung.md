@@ -1,6 +1,6 @@
 >[!Definition]
 Hydrierung := Addition von Wasserstoff an chemische Elemente/Verbindungen.
-<!--SR:!2025-03-25,5,230-->
+<!--SR:!2025-04-07,13,250-->
 
 > Die katalytische Hydrierung wurde in den 1890er Jahren von Paul Sabatier in Zusammenarbeit mit Jean Baptiste Senderens in Frankreich entwickelt. Sabatier erhielt dafür 1912 den Nobelpreis.
 >

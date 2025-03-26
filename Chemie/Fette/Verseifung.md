@@ -3,8 +3,5 @@
 
 
 ## Reaktion
-![[drawing 1]]
-![[drawing 2]]
-![[drawing 3]]
--> [[drawing all|komplette Reaktion]]
+![[drawing all|komplette Reaktion]]
 

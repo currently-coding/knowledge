@@ -1,0 +1,28 @@
+# Cracking Hashes with Hashcat
+
+> Cracking best done on base OS with GPU for fastest cracking times
+
+## Usage
+
+```bash
+hashcat -m 0 hashes.txt /usr/share/wordlists/rockyou.txt --show (--force -O)
+```
+
+- -m = Mode (Set hashing algorithm)
+- hashes.txt = file with hashes
+- /usr/share/wordlists/rockyou.txt = wordlist with Passwords
+- -O = optimized
+- --show = show already cracked passwords/hashes as well
+- --force = if on VM force cracking
+
+### Rules
+- Rules modify password spellings
+BEST RULESET: "OneRuleToRuleThemAll.rule"
+
+## Full command
+- put hashes into "hash.txt"
+- cd into A:\Hacking\Hashcat
+- specify rules with -r <ruleset.rule>
+```bash
+hashcat.exe -m 5600 hash.txt A:/hacking/wordlists/rockyou.txt -r OneRuleToRuleThemAll.rule -O --show
+```
