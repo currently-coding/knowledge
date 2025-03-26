@@ -83,7 +83,7 @@
   "Components@@CTA-BTN-enable": false,
   "Components@@file-names-untrim": true,
   "Components@@folder-font-bold": true,
-  "Components@@file-icon-remove": false,
+  "Components@@file-icon-remove": true,
   "Components@@colorful-folder": false,
   "Components@@outline-enhanced": true,
   "Components@@extra-anim-remove": true,
