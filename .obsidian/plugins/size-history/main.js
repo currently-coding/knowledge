@@ -3083,7 +3083,7 @@ var SizeHistoryModal = class extends import_obsidian.Modal {
     if (!svgLine) {
       return;
     }
-    new SizeHistoryChart(svgLine, this.history.datapoints, this.app.vault.getName());
+    new SizeHistoryChart(svgLine, this.history.datapoints, this.app.vault.getName() + "\n -> Notes");
   }
   onClose() {
     const { contentEl } = this;
