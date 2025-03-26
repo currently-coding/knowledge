@@ -1,5 +1,6 @@
 >[!Definition]
 >Denaturierung := starke Veränderung der räumlichen Struktur von Proteinen durch verschiedene Einflüsse(z.B. Hitze)
+<!--SR:!2025-03-28,2,210-->
 
 -> veränderte physikalische und chemische Eigenschaften
 ## Beispiel: Schlagen von Eiklar
