@@ -562,7 +562,7 @@ venture(noun) (The company invests in various ventures., I saved money to invest
 to venture(verb) (I ventured a guess about the company's profit., He ventured a small sum in hopes of a large profit.) ::: wagen, riskieren
 <!--SR:!2025-03-04,102,391!2024-11-08,6,383-->
 to supervise(verb) (To ensure quality, production is constantly supervised., The professor supervises the student's work., The senior doctor is supervising the interns., A foreman supervises the other workers.) ::: überwachen, betreuen, beaufsichtigen
-<!--SR:!2025-03-25,123,412!2025-03-26,59,383-->
+<!--SR:!2026-10-29,583,432!2025-03-26,59,383-->
 dynamic(adjective) (The presenter of this show is very dynamic.) ::: dynamisch, lebhaft, rasant
 <!--SR:!2025-05-14,163,412!2025-11-26,298,402-->
 genuinely(adverb) () ::: wirklich, echt, authentisch
@@ -590,7 +590,7 @@ to crack(verb) (The police are trying to crack the code., The ice on the puddle 
 success(noun) (His first book was a great success, everybody loved it., The book was a huge success.) ::: Erfolg, Gelingen, Triumph
 <!--SR:!2024-11-21,24,392!2024-12-06,14,363-->
 reluctant(adjective) (I was reluctant at first, but they managed to convince me., She gave a reluctant answer to my question.) ::: widerwillig, zögernd, unwillig
-<!--SR:!2025-03-25,115,402!2025-05-15,57,375-->
+<!--SR:!2026-09-09,533,422!2025-05-15,57,375-->
 hook(noun) (He hung his coat on a hook by the door., There are some hooks on the wall to hang coats.) ::: Haken, Hook, Häkchen
 <!--SR:!2025-05-21,163,421!2024-12-08,24,403-->
 to hook(verb) () ::: haken, anhaken, festhaken
@@ -1343,7 +1343,7 @@ assumption(noun) (His assumption was right and he won the bet., A newspaper arti
 Linking words: Adding Information := Moreover, Furthermore, In addition, Additionally, Not only that, Besides, Also
 <!--SR:!2025-04-02,17,405-->
 Linking words: Showing Contrast := However, Nevertheless, Nonetheless, On the other hand, In contrast, Whereas, While, Conversely, Yet, Despite that
-<!--SR:!2025-03-25,3,285-->
+<!--SR:!2025-04-02,8,285-->
 Linking words: Expressing Cause & Effect: "This is bad. <Word>, ..." := Therefore, Thus, Consequently, As a result, For this reason, Due to this, Hence, So, Because of this
 <!--SR:!2025-03-26,7,325-->
 Linking words: Giving Examples := For example, For instance, Such as, Like, Namely, In particular, To illustrate, Specifically
@@ -1357,7 +1357,7 @@ Linking words: Clarifying or Explaining := That is to say, In other words, To pu
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
 <!--SR:!2025-03-27,9,385-->
 Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
-<!--SR:!2025-03-25,7,365-->
+<!--SR:!2025-04-20,26,365-->
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
 <!--SR:!2025-03-30,14,385-->
 diligent(adjective) (At school she was a very diligent pupil., My son is a diligent student., This project requires diligent planning.) ::: gewissenhaft, flei�ig, sorgf�ltig
