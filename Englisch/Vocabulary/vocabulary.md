@@ -480,7 +480,7 @@ to resume(verb) (After a short break, they resumed negotiations., She resumed he
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
 <!--SR:!2025-05-22,164,422!2025-06-15,170,423-->
 to seize(verb) (She seized the opportunity and started a new life., The customs officer seized the undeclared goods., The police seized the suspect when he tried to run., She seized the opportunity to start her own business., Banks sometimes seize debtors' assets., The illegal items were seized at the border., The police seized the stolen goods., The invaders seized the castle after a tough battle.) ::: ergreifen, beschlagnahmen, packen
-<!--SR:!2025-03-27,90,362!2025-04-07,113,402-->
+<!--SR:!2026-04-09,378,382!2025-04-07,113,402-->
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
 <!--SR:!2025-04-14,135,416!2025-03-30,129,412-->
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
@@ -700,7 +700,7 @@ reasonably(adverb) (The hotel room was reasonably comfortable, considering the c
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig
 <!--SR:!2025-04-16,99,382!2024-12-12,26,401-->
 analogously(adverb) () ::: analog, sinngemäß
-<!--SR:!2025-03-27,122,417!2025-05-12,161,415-->
+<!--SR:!2026-11-03,586,437!2025-05-12,161,415-->
 succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge
 <!--SR:!2025-06-02,146,422!2026-04-27,413,417-->
 to elbow(verb) (He elbowed his way through the crowd.) ::: drängen
@@ -1355,7 +1355,7 @@ Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Signi
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
 <!--SR:!2025-04-01,15,365-->
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
-<!--SR:!2025-03-27,9,385-->
+<!--SR:!2025-04-01,5,365-->
 Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
 <!--SR:!2025-04-20,26,365-->
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
