@@ -4,7 +4,6 @@ def remove_duplicate_and_next(lines):
     skip_next = False  # Flag to skip the next line after a duplicate
 
     for i, line in enumerate(lines):
-
         if line.startswith("\n"):
             continue
         if skip_next:  # If previous line was a duplicate, skip this one
@@ -15,13 +14,13 @@ def remove_duplicate_and_next(lines):
             result.append(line)
             continue
 
-        if line.strip(":")[0] in seen:  # If the line is a duplicate
+        split_line = line.split(":::")[0].split(")")[0]
+        if split_line in seen:  # If the line is a duplicate
             print("Removing line: ", line)
             skip_next = True  # Set the flag to skip the next line
         else:
-            seen.add(line)  # Add line to seen set
+            seen.add(split_line)  # Add line to seen set
             result.append(line)  # Add line to result if it's not a duplicate
-
     return result
 
 

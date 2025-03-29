@@ -1,4 +1,13 @@
 iniquities
+precipitious
+herald
+delineate
+mitigate
+exacarbate
+conundrum
+proliferation
+corroborate
+integral
 ardouos
 wherefore
 elusive
@@ -713,4 +722,3 @@ delete
 referendum
 suite
 taxpayer
-
