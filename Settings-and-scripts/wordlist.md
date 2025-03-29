@@ -1,20 +1,8 @@
-hypothesis  
-proposed explanation  
-conjecture  
-convergence  
-alignment  
-indefatigable
-rectitude
-gainsay
-to extol
-profundity
-atonement
-implacable
 iniquities
 ardouos
 wherefore
 elusive
-to refute 
+to refute
 to equivocate
 specious
 to postulate
@@ -725,3 +713,4 @@ delete
 referendum
 suite
 taxpayer
+

@@ -251,7 +251,7 @@ as a consequence(adverb) () ::: somit, demzufolge, folglich
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
 <!--SR:!2025-06-05,193,368!2026-03-27,412,337-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden,
-<!--SR:!2025-03-28,126,368!2025-08-22,165,357-->
+<!--SR:!2026-09-18,538,388!2025-08-22,165,357-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
 <!--SR:!2026-06-25,508,399!2026-03-25,423,397-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
@@ -376,7 +376,7 @@ sigh(noun) () ::: Seufzer, Seufzen
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
 <!--SR:!2026-10-12,580,409!2026-08-23,556,407-->
 surveillance(noun) (The building is under surveillance., Satellites allow an exhaustive surveillance., The police have the suspect under surveillance.) ::: Überwachung, Aufsicht, Kontrolle
-<!--SR:!2025-03-29,135,387!2026-01-18,339,389-->
+<!--SR:!2026-11-23,604,407!2026-01-18,339,389-->
 restoration(noun) (The restoration of the old church took many years., Her job is the restoration of damaged artworks., The restoration of the castle took long, but it was worth it., The restoration of the castle took several years.) ::: Wiederherstellung, Restauration, Restaurierung
 <!--SR:!2026-05-26,485,405!2025-11-25,333,387-->
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
@@ -416,7 +416,7 @@ diverse(adjective) (The artist used diverse materials for his sculptures., The m
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
 <!--SR:!2026-04-28,429,367!2025-10-10,293,388-->
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
-<!--SR:!2025-03-29,135,387!2025-05-03,162,389-->
+<!--SR:!2026-11-22,603,407!2025-05-03,162,389-->
 home(adjective) () ::: einheimisch, inländisch
 <!--SR:!2026-04-22,451,408!2026-03-13,393,385-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
@@ -538,7 +538,7 @@ to steer(verb) (The captain steers the ship away from the cliffs., It is hard to
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
 <!--SR:!2025-05-26,162,417!2025-05-12,161,415-->
 regardless(adjective) () ::: ungeachtet, trotzdem
-<!--SR:!2026-03-01,393,393!2025-03-28,109,403-->
+<!--SR:!2026-03-01,393,393!2026-08-18,507,423-->
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen
 <!--SR:!2024-11-07,5,382!2024-12-23,31,402-->
 prospective(adjective) (The local industry is ready for prospective challenges., The local industry is prepared for prospective challenges., We are well prepared for prospective challenges., We are going to meet a prospective business partner.) ::: künftig, prospektiv, voraussichtlich
@@ -1383,7 +1383,7 @@ to disengage oneself(verb) (I should disengage from a few of my hobbies and spen
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend
 <!--SR:!2025-04-11,19,425!2000-01-01,1,210-->
 aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert, reserviert
-<!--SR:!2025-03-28,9,405!2025-04-03,16,385-->
+<!--SR:!2025-05-09,41,425!2025-04-03,16,385-->
 aloof(adverb) (I keep aloof from controversial topics.) ::: abseits
 <!--SR:!2000-01-01,1,210!2025-03-25,2,385-->
 to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
@@ -1420,15 +1420,26 @@ hypothesis(noun) (The hypothesis made by the scientist turned out to be correct.
 <!--SR:!2000-01-01,1,210!2025-04-12,19,425-->
 proposed explanation(noun) () ::: vorgestellte Erkl�rung
 <!--SR:!2025-04-13,20,425!2000-01-01,1,210-->
-conjecture(noun) (His conjecture about the results of the elections was right.) ::: Vermutung, Mutma�ung, Annahme
-<!--SR:!2025-03-28,4,365!2000-01-01,1,210-->
-to conjecture(verb) () ::: vermuten, spekulieren, annehmen
-<!--SR:!2000-01-01,1,210!2025-03-28,4,385-->
-convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Ann�herung, Zusammenlaufen
-<!--SR:!2025-04-11,18,405!2000-01-01,1,210-->
 alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten
 <!--SR:!2025-04-08,15,405!2000-01-01,1,210-->
 to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten
 <!--SR:!2000-01-01,1,210!2025-04-12,19,425-->
 to align oneself to(verb) () ::: sich an anpassen
+hypothesis(noun) (The hypothesis made by the scientist turned out to be correct., The speaker elucidated his hypothesis.) ::: Hypothese, These, Vermutung
 <!--SR:!2000-01-01,1,210!2025-03-28,4,365-->
+proposed explanation(noun) () ::: vorgestellte Erklärung
+<!--SR:!2025-04-02,4,406!2000-01-01,1,210-->
+alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten 
+to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten 
+to align oneself to(verb) () ::: sich an anpassen 
+indefatigable(adjective) () ::: unermüdlich, rastlos 
+rectitude(noun) () ::: Rechtschaffenheit, Geradheit 
+to gainsay(verb) () ::: widersprechen, bestreiten, leugnen 
+to extol(verb) (Art historians extol the painting as a masterpiece., The teacher extolled the intelligence of her new class.) ::: preisen, loben, rühmen 
+profundity(noun) () ::: Tiefe, Tiefsinn, Tiefgründigkeit 
+to entice(verb) (The beautiful shop windows entice the shoppers and they go inside., The sale enticed me to spend more than I intended., I can usually entice the cat with food.) ::: locken, verleiten, ködern 
+confluence(noun) (The city was built at the confluence of the two rivers.) ::: Zusammenfluss, Einmündung, Zusammenfließen 
+poised(adjective / past participle) (The skier is poised for the descent at the top of the slope.) :::  
+to poise(verb) () ::: balancieren, verharren, unbeweglich bleiben 
+atonement(noun) (The believers made atonement for their sins.) ::: Sühne, Buße, Sühnung 
+implacable(adjective) (The vendor was implacable and did not reduce the price.) ::: unerbittlich, unversöhnlich, unnachgiebig 
