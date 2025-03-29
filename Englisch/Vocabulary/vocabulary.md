@@ -1369,9 +1369,9 @@ thereof(adverb) (The contract and deviations thereof are subject to prior approv
 discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch
 <!--SR:!2025-04-09,17,405!2000-01-01,1,210-->
 inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widersprüchlichkeit
-<!--SR:!2000-01-01,1,210!2025-03-25,2,385-->
+<!--SR:!2000-01-01,1,210!2025-04-06,8,405-->
 inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widersprüchlich, uneinheitlich
-<!--SR:!2025-04-13,20,425!2000-01-01,1,210-->
+<!--SR:!2025-04-13,20,425!2025-04-02,4,405-->
 hypothesis(noun) (The hypothesis made by the scientist turned out to be correct., The speaker elucidated his hypothesis.) ::: Hypothese, These, Vermutung
 <!--SR:!2000-01-01,1,210!2025-03-28,4,365-->
 proposed explanation(noun) () ::: vorgestellte Erklärung
