@@ -1,5 +1,4 @@
 Nenne Funktionen von Proteinen.
-Was sind Strukturproteine?
 ?
 ![[Funktion#Funktion]]
 <!--SR:!2025-04-01,5,230-->
