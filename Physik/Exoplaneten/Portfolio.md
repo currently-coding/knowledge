@@ -1,7 +1,7 @@
 <div style="text-align: center; font-size: 1.5em; margin-top: 200px;">
     <strong>Portfolio zum Thema Exoplaneten</strong><br>
     im Rahmen der eigenverantwortlichen Arbeit im Fach Physik<br><br>
-    <strong>Autor:</strong> Felix Stangl<br>
+    <strong>Autor:</strong> XXX<br>
     <strong>Datum:</strong> Januar 08, 2025
 </div>
 <div style="page-break-after: always;"></div>
