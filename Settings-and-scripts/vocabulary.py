@@ -17,7 +17,7 @@ closure_end = "}}"
 
 output_with_examples = (True, False)
 separator = ":::"
-amount_of_words_per_execution = 9
+amount_of_words_per_execution = 5
 
 # ================================
 
@@ -103,12 +103,12 @@ def process_translations(data, output_with_examples):
             src_examples = []
             src_examples_string = ""
         else:
-            src_examples_string = f"({", ".join(src_examples)})"
+            src_examples_string = f"({', '.join(src_examples)})"
         if not output_with_examples[1]:
             dst_examples = []
             dst_examples_string = ""
         else:
-            dst_examples_string = f"({", ".join(dst_examples)})"
+            dst_examples_string = f"({', '.join(dst_examples)})"
 
         entry_str = f"{word}({pos}) {src_examples_string} {separator} {', '.join(translations)} {dst_examples_string}\n"
         new_entries.append(entry_str)

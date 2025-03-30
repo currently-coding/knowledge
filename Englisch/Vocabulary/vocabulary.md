@@ -236,8 +236,6 @@ to shrink(verb) (Wool socks shrink in hot water., These tiny socks must have shr
 <!--SR:!2026-02-07,399,393!2026-05-31,487,395-->
 shrink(noun) (My friend is a little bit crazy, I think he should really go see a shrink.) ::: Seelenklempner, Psychiater, Klapsdoktor
 <!--SR:!2026-06-12,502,395!2026-03-30,414,393-->
-shrink(noun) () ::: Psychotherapeut, Psychotherapeutin
-<!--SR:!2026-07-11,525,396!2026-02-22,392,372-->
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2026-06-25,509,395!2025-11-23,301,372-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
@@ -251,7 +249,7 @@ as a consequence(adverb) () ::: somit, demzufolge, folglich
 to engender(verb) (The controversial film engendered a lively discussion., Mutual respect engenders a healthy working relationship.) ::: hervorrufen, erzeugen, schaffen
 <!--SR:!2025-06-05,193,368!2026-03-27,412,337-->
 to fulfil(verb) (The products fulfilled our requirements.) ::: erfüllen, verwirklichen, gerecht werden,
-<!--SR:!2025-03-28,126,368!2025-08-22,165,357-->
+<!--SR:!2026-09-18,538,388!2025-08-22,165,357-->
 command(noun) (The soldier followed the command of his superior., The dog toed the line at his master's command., During the general's absence, the colonel is in command., The captain took command of the ship., The soldier followed the officer's command., My dog sits or comes when I give the command., At her command, the dog fetched the ball., The class promises a better command of the language in a short time., The king's command was law.) ::: Befehl, Kommando, Beherrschung
 <!--SR:!2026-06-25,508,399!2026-03-25,423,397-->
 to command(verb) (The sergeant commanded the troop to march., The admiral commanded a large fleet., The teacher commanded her students' undivided attention., She commands a large amount of resources and support.) ::: beherrschen, befehlen, kommandieren
@@ -376,7 +374,7 @@ sigh(noun) () ::: Seufzer, Seufzen
 to sigh(verb) (She sighed and started the exercise all over again., She looked at her grandson with a worried expression and sighed.) ::: seufzen, säuseln
 <!--SR:!2026-10-12,580,409!2026-08-23,556,407-->
 surveillance(noun) (The building is under surveillance., Satellites allow an exhaustive surveillance., The police have the suspect under surveillance.) ::: Überwachung, Aufsicht, Kontrolle
-<!--SR:!2025-03-29,135,387!2026-01-18,339,389-->
+<!--SR:!2026-11-23,604,407!2026-01-18,339,389-->
 restoration(noun) (The restoration of the old church took many years., Her job is the restoration of damaged artworks., The restoration of the castle took long, but it was worth it., The restoration of the castle took several years.) ::: Wiederherstellung, Restauration, Restaurierung
 <!--SR:!2026-05-26,485,405!2025-11-25,333,387-->
 to comprehend(verb) (I tried to comprehend my brother's attitude., I could easily comprehend his reasoning.) ::: verstehen, begreifen, nachvollziehen
@@ -416,7 +414,7 @@ diverse(adjective) (The artist used diverse materials for his sculptures., The m
 awkward(adjective) (The speaker's greeting was very formal and awkward., He was going through an awkward stage., Money can be an awkward subject., My father broke the awkward silence with a joke., The situation was awkward and she blushed., The compliment sounded awkward, but it was sincerely meant., His dance moves looked rather awkward and robotic.) ::: unangenehm, umständlich, heikel
 <!--SR:!2026-04-28,429,367!2025-10-10,293,388-->
 homeless(adjective) (He has finally found a home and is no longer homeless., The refugees are homeless and need our help.) ::: obdachlos, heimatlos, wohnungslos
-<!--SR:!2025-03-29,135,387!2025-05-03,162,389-->
+<!--SR:!2026-11-22,603,407!2025-05-03,162,389-->
 home(adjective) () ::: einheimisch, inländisch
 <!--SR:!2026-04-22,451,408!2026-03-13,393,385-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
@@ -451,8 +449,6 @@ vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the po
 <!--SR:!2025-04-01,136,389!2026-05-24,483,408-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
 <!--SR:!2026-05-02,461,407!2026-08-26,558,409-->
-to exploit(verb) (The company exploited their competitive advantage to become the market leader., We should all try to exploit our full potential., The company wants to exploit new resources., The company exploited their competitive advantage to become the market leader., The media exploited the scandal.) ::: nutzen, ausschöpfen, erschließen
-<!--SR:!2025-10-07,290,385!2026-08-02,542,409-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
 <!--SR:!2025-05-26,185,365!2026-09-14,577,407-->
 excruciating(adjective) (She was finally relieved from her excruciating pain.) ::: qualvoll, quälend, entsetzlich
@@ -480,9 +476,9 @@ to resume(verb) (After a short break, they resumed negotiations., She resumed he
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
 <!--SR:!2025-05-22,164,422!2025-06-15,170,423-->
 to seize(verb) (She seized the opportunity and started a new life., The customs officer seized the undeclared goods., The police seized the suspect when he tried to run., She seized the opportunity to start her own business., Banks sometimes seize debtors' assets., The illegal items were seized at the border., The police seized the stolen goods., The invaders seized the castle after a tough battle.) ::: ergreifen, beschlagnahmen, packen
-<!--SR:!2025-03-27,90,362!2025-04-07,113,402-->
+<!--SR:!2026-04-09,378,382!2025-04-07,113,402-->
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
-<!--SR:!2025-04-14,135,416!2025-03-30,129,412-->
+<!--SR:!2025-04-14,135,416!2026-12-03,613,432-->
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
 <!--SR:!2025-05-19,155,422!2025-06-01,178,415-->
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
@@ -538,7 +534,7 @@ to steer(verb) (The captain steers the ship away from the cliffs., It is hard to
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
 <!--SR:!2025-05-26,162,417!2025-05-12,161,415-->
 regardless(adjective) () ::: ungeachtet, trotzdem
-<!--SR:!2026-03-01,393,393!2025-03-28,109,403-->
+<!--SR:!2026-03-01,393,393!2026-08-18,507,423-->
 to regard(verb) (I regard my manager as a very intelligent person., Using a typewriter can be regarded as outdated nowadays., We need to regard the demands of our customers., The scientist is highly regarded by his peers.) ::: betrachten, berücksichtigen, schätzen
 <!--SR:!2024-11-07,5,382!2024-12-23,31,402-->
 prospective(adjective) (The local industry is ready for prospective challenges., The local industry is prepared for prospective challenges., We are well prepared for prospective challenges., We are going to meet a prospective business partner.) ::: künftig, prospektiv, voraussichtlich
@@ -700,7 +696,7 @@ reasonably(adverb) (The hotel room was reasonably comfortable, considering the c
 reasonable(adjective) (The food was delicious and the prices were reasonable., It was a reasonable suggestion, so we accepted it., It was a reasonable decision to consult a doctor., The restaurant serves good food at reasonable prices.) ::: angemessen, zumutbar, vernünftig
 <!--SR:!2025-04-16,99,382!2024-12-12,26,401-->
 analogously(adverb) () ::: analog, sinngemäß
-<!--SR:!2025-03-27,122,417!2025-05-12,161,415-->
+<!--SR:!2026-11-03,586,437!2025-05-12,161,415-->
 succession(noun) (In his will, the king made provisions about his succession., She scored four goals in succession., A lucky succession of events led to our meeting.) ::: Nachfolge, Folge, Erbfolge
 <!--SR:!2025-06-02,146,422!2026-04-27,413,417-->
 to elbow(verb) (He elbowed his way through the crowd.) ::: drängen
@@ -912,8 +908,6 @@ recount(noun) () ::: Nachzählung, Bericht, Neuauszählung
 <!--SR:!2024-12-10,1,355!2000-01-01,1,250-->
 to recount(verb) (The travel guide recounted his adventures with evident pleasure., Election officials recounted the votes to confirm the results.) ::: erzählen, nachzählen
 <!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
-triumph(noun) (My team's victory was a great triumph.) ::: Triumph, Sieg, Siegeszug
-<!--SR:!2000-01-01,1,250!2024-12-23,31,404-->
 hence(adverb) (The contract is signed, hence it is valid., These screws are more robust and hence last longer.) ::: daher, dadurch, deshalb
 <!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 clip(noun) (I need a clip to hold the papers together.) ::: Klemme, Klammer, Schelle
@@ -1006,8 +1000,6 @@ greatly(adverb) (I greatly admire this painter., The merger had greatly increase
 <!--SR:!2024-12-29,27,409!2000-01-01,1,250-->
 great(adjective) (The job requires a great sense of responsibility., The king ruled over a great kingdom., The famous director has made some great films., Thanks again for the great party!, She had a great trip to Scotland., The dress looks great, right?, The waiter was great; I am going to tip him generously.) ::: groß, großartig, super
 <!--SR:!2024-12-12,20,386!2000-01-01,1,250-->
-great(adjective) () ::: fantastisch
-<!--SR:!2024-12-06,5,370!2000-01-01,1,250-->
 structural(adjective) (The structural changes had an appreciable impact on the employees.) ::: strukturell, baulich, bautechnisch
 <!--SR:!2024-12-08,15,290!2024-12-28,32,403-->
 to structure(verb) (It is important to structure an essay carefully., I structure my lessons according to the syllabus., It is important to structure an essay clearly.) ::: strukturieren, aufbauen, gliedern
@@ -1020,8 +1012,6 @@ raid(noun) (The police planned a raid on the suspect's home., The police found n
 <!--SR:!2024-12-10,1,355!2000-01-01,1,250-->
 to raid(verb) (Enemy troops tried to raid the city., My son is allowed to raid the fridge if he gets hungry., The robbers raided the local bank., The police raided the club in order to look for drugs.) ::: angreifen, plündern, überfallen
 <!--SR:!2024-12-10,1,355!2000-01-01,1,250-->
-to ray(verb) () ::: durchleuchten, bestrahlen, ausstrahlen
-<!--SR:!2000-01-01,1,250!2024-12-28,26,410-->
 consequently(adverb) (I have worked a lot and consequently I need some rest., I played all my cards and consequently won the game.) ::: folglich, somit, dadurch
 <!--SR:!2024-11-15,6,383!2024-12-25,33,406-->
 consequent(adjective) () ::: folgerichtig, folgend, resultierend
@@ -1044,8 +1034,6 @@ critically(adverb) () ::: kritisch, entscheidend, bedenklich
 <!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 critical(adjective) (My parents constantly stressed the importance of critical thinking., The scientist wrote a critical paper., Good management is critical for a successful company.) ::: kritisch, wesentlich, wichtig
 <!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
-prosperity(noun) (His whole family lived in prosperity., I wished her luck and prosperity for the new year.) ::: Wohlstand, Prosperität, Erfolg
-<!--SR:!2024-12-30,28,410!2000-01-01,1,250-->
 fortunate(adjective) (The jackpot will be split between four fortunate winners.) ::: glücklich, günstig
 <!--SR:!2024-12-20,27,404!2000-01-01,1,250-->
 to testify(verb) (In court, witnesses must testify under oath., The defendant asked me to testify.) ::: bezeugen, aussagen, als Zeuge aussagen
@@ -1076,10 +1064,6 @@ to retrieve(verb) (We can easily retrieve the stored information from the system
 <!--SR:!2024-12-01,5,390!2024-11-23,1,326-->
 whilst(conjunction) (Whilst working I cannot take calls., The road will be closed whilst the construction is in progress.) ::: während, solange, indem
 <!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
-whilst(conjunction) () ::: obwohl, indes
-<!--SR:!2024-12-01,1,329!2000-01-01,1,250-->
-substantial(adjective) (He paid a substantial amount of money for this luxury car., The dishes offered are substantial and balanced.) ::: wesentlich, erheblich, reichhaltig 
-clothes(noun) (He folded his clothes neatly., We sell clothes made of cotton and linen., Purple clothes don't suit most people., My wife's wardrobe is filled with beautiful clothes., I want to get rid of some clothes, so I will donate them., These clothes are very trendy right now.) ::: Kleidung, Kleider, Kleidungsstücke
 <!--SR:!2024-12-14,5,395!2000-01-01,1,250-->
 cloth(noun) (You can clean the surface with a cloth., The dye had colored the cloth red., The constant friction wore out the cloth., His shirt scratched, because it was made of coarse cloth., I always clean the windows with a soft cloth.) ::: Tuch, Leinen, Stoff
 <!--SR:!2024-12-21,25,406!2000-01-01,1,250-->
@@ -1151,17 +1135,11 @@ former(adjective) (The coach is a former professional player., Our former boss w
 <!--SR:!2025-03-15,28,421!2000-01-01,1,250-->
 to widen(verb) (A shift in perspective can widen our horizon., The city widened the roads to ease the traffic flow., The police has widened the search for the suspect., The police widened the search area to the entire town., The police widened the search for the suspect.) ::: erweitern, verbreitern, ausweiten
 <!--SR:!2025-03-14,27,421!2025-02-02,1,361-->
-pursuit(noun) (The police took up pursuit and caught the suspect., She spent her life in the pursuit of wisdom.) ::: Verfolgung, Streben, Verfolgen
-<!--SR:!2025-06-12,137,410!2025-03-13,26,421-->
 to permeate(verb) (The liquid permeated the substrate.) ::: durchdringen, durchsetzen
 <!--SR:!2025-03-15,28,422!2000-01-01,1,250-->
 to amass(verb) (In the course of his life, my uncle has amassed great wealth.) ::: sammeln, anhäufen, aufhäufen
 <!--SR:!2000-01-01,1,250!2025-02-18,3,381-->
-sovereignty(noun) () ::: Souveränität, Hoheit, Hoheitsgewalt 
-formerly(adverb) (The singer was formerly known under a different name.) ::: vormals, ehemals, früher
 <!--SR:!2000-01-01,1,250!2025-03-14,27,422-->
-former(adjective) (The coach is a former professional player., Our former boss was older than the new one., The influence of the former boss was ubiquitous.) ::: ehemalig, früherer, vorige
-succinct(adjective) (His answer was succinct because he was in a hurry., My brother always gives very short and succinct answers to questions.) ::: knapp, kurz, prägnant
 <!--SR:!2025-03-13,3,364!2025-03-03,5,404-->
 expediency(noun) () ::: Zweckmäßigkeit, Zweckdienlichkeit, Opportunität
 <!--SR:!2025-02-27,1,364!2000-01-01,1,250-->
@@ -1221,8 +1199,6 @@ coherence(noun) (I do not see any coherence between the results., I am going to 
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
 consistency(noun) (The dessert has the consistency of whipped cream., Training for a marathon requires persistence and consistency.) ::: Konsistenz, Übereinstimmung, Konsequenz
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
-consistent(adjective) (When it comes to parenting, it is important to be consistent., The boiler needs consistent pressure so that the water can flow., Both methods are reliable and provide consistent results., The rules of the game were clear and consistent., A consistent distribution of the relief supplies is important., The machine needs consistent water pressure to work.) ::: konsequent, gleichbleibend, konsistent
-<!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
 logical flow(noun) () ::: logischer Fluss, logischer Ablauf
 <!--SR:!2025-03-03,5,404!2000-01-01,1,250-->
 generous(adjective) (Thank you for your generous donation., The new baseball team is looking for generous sponsors., The trophy was endowed by a generous sponsor.) ::: großzügig, generös, großmütig
@@ -1281,24 +1257,6 @@ to detest(verb) (I detest aggression and violence., My son detests spinach.) :::
 to repudiate(verb) () ::: ablehnen, zurückweisen, weisen 
 disdain(noun) (The artist's works express his disdain for money and fame.) ::: Verachtung, Geringschätzung, Missachtung 
 to disdain(verb) () ::: verachten, verschmähen, gering schätzen 
-to compose(verb) (The piece was composed for strings and brass., I have composed a list of all items., The concert was composed of several different acts.) ::: komponieren, zusammenstellen, zusammensetzen
-<!--SR:!2025-03-05,4,385!2000-01-01,1,250-->
-to compose oneself(verb) (I need to compose myself and concentrate on the task.) ::: sich zusammennehmen, sich fassen, sich beruhigen
-<!--SR:!2025-03-05,4,385!2000-01-01,1,250-->
-to restrain(verb) (The student restrained his spending to a minimum., The children could not restrain their enthusiasm in the zoo.) ::: einschränken, zurückhalten, beschränken
-<!--SR:!2025-03-06,5,405!2000-01-01,1,250-->
-to restrain oneself(verb) (Although she was angry, she restrained herself and kept calm., Despite the provocation, I was able to restrain myself.) ::: sich zurückhalten, sich beherrschen
-<!--SR:!2025-03-05,4,385!2000-01-01,1,250-->
-assertive(adjective) (She is assertive because she knows what she wants., If you want to be successful in your career, you must be assertive.) ::: durchsetzungsfähig, selbstbewusst, energisch
-<!--SR:!2025-03-06,5,405!2000-01-01,1,250-->
-to detest(verb) (I detest aggression and violence., My son detests spinach.) ::: verabscheuen, hassen, nicht ausstehen können
-<!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
-to repudiate(verb) () ::: ablehnen, zurückweisen, weisen
-<!--SR:!2025-03-05,4,385!2000-01-01,1,250-->
-disdain(noun) (The artist's works express his disdain for money and fame.) ::: Verachtung, Geringschätzung, Missachtung
-<!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
-to disdain(verb) () ::: verachten, verschmähen, gering schätzen
-<!--SR:!2025-03-05,4,385!2000-01-01,1,250-->
 boastful(adjective) () ::: prahlerisch, überheblich, großsprecherisch
 <!--SR:!2025-03-02,1,365!2000-01-01,1,250-->
 snobbish(adjective) (Since her promotion she has become snobbish and arrogant.) ::: snobistisch, versnobt, hochnäsig
@@ -1355,11 +1313,11 @@ Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Signi
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
 <!--SR:!2025-04-01,15,365-->
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
-<!--SR:!2025-03-27,9,385-->
+<!--SR:!2025-04-01,5,365-->
 Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
 <!--SR:!2025-04-20,26,365-->
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
-<!--SR:!2025-03-30,14,385-->
+<!--SR:!2025-05-31,62,405-->
 diligent(adjective) (At school she was a very diligent pupil., My son is a diligent student., This project requires diligent planning.) ::: gewissenhaft, flei�ig, sorgf�ltig
 <!--SR:!2025-03-25,2,365!2000-01-01,1,210-->
 submissive(adjective) (My dog is quite submissive and not at all dominant.) ::: unterw�rfig, gef�gig, gehorsam
@@ -1383,7 +1341,7 @@ to disengage oneself(verb) (I should disengage from a few of my hobbies and spen
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend
 <!--SR:!2025-04-11,19,425!2000-01-01,1,210-->
 aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert, reserviert
-<!--SR:!2025-03-28,9,405!2025-04-03,16,385-->
+<!--SR:!2025-05-09,41,425!2025-04-03,16,385-->
 aloof(adverb) (I keep aloof from controversial topics.) ::: abseits
 <!--SR:!2000-01-01,1,210!2025-03-25,2,385-->
 to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
@@ -1408,27 +1366,34 @@ whereas(conjunction) (My brother became an engineer, whereas I became a singer.,
 <!--SR:!2025-04-10,19,425-->
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon
 <!--SR:!2025-04-10,18,405-->
-whereby(adverb) ()  :=  wobei, wodurch, womit
-<!--SR:!2025-04-10,19,425-->
 discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch
 <!--SR:!2025-04-09,17,405!2000-01-01,1,210-->
-inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widerspr�chlichkeit
-<!--SR:!2000-01-01,1,210!2025-03-25,2,385-->
-inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widerspr�chlich, uneinheitlich
-<!--SR:!2025-04-13,20,425!2000-01-01,1,210-->
+inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widersprüchlichkeit
+<!--SR:!2000-01-01,1,210!2025-04-06,8,405-->
+inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widersprüchlich, uneinheitlich
+<!--SR:!2025-04-13,20,425!2025-04-02,4,405-->
 hypothesis(noun) (The hypothesis made by the scientist turned out to be correct., The speaker elucidated his hypothesis.) ::: Hypothese, These, Vermutung
-<!--SR:!2000-01-01,1,210!2025-04-12,19,425-->
-proposed explanation(noun) () ::: vorgestellte Erkl�rung
-<!--SR:!2025-04-13,20,425!2000-01-01,1,210-->
-conjecture(noun) (His conjecture about the results of the elections was right.) ::: Vermutung, Mutma�ung, Annahme
-<!--SR:!2025-03-28,4,365!2000-01-01,1,210-->
-to conjecture(verb) () ::: vermuten, spekulieren, annehmen
-<!--SR:!2000-01-01,1,210!2025-03-28,4,385-->
-convergence(noun) (The compromise was enabled by a convergence of interests.) ::: Konvergenz, Ann�herung, Zusammenlaufen
-<!--SR:!2025-04-11,18,405!2000-01-01,1,210-->
-alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten
-<!--SR:!2025-04-08,15,405!2000-01-01,1,210-->
-to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten
-<!--SR:!2000-01-01,1,210!2025-04-12,19,425-->
-to align oneself to(verb) () ::: sich an anpassen
 <!--SR:!2000-01-01,1,210!2025-03-28,4,365-->
+proposed explanation(noun) () ::: vorgestellte Erklärung
+<!--SR:!2025-04-02,4,406!2000-01-01,1,210-->
+alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten 
+to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten 
+indefatigable(adjective) () ::: unermüdlich, rastlos
+<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+rectitude(noun) () ::: Rechtschaffenheit, Geradheit
+<!--SR:!2025-04-03,4,386!2000-01-01,1,210-->
+to gainsay(verb) () ::: widersprechen, bestreiten, leugnen
+<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+to extol(verb) (Art historians extol the painting as a masterpiece., The teacher extolled the intelligence of her new class.) ::: preisen, loben, rühmen
+<!--SR:!2025-04-03,4,386!2000-01-01,1,210-->
+profundity(noun) () ::: Tiefe, Tiefsinn, Tiefgründigkeit
+<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+to entice(verb) (The beautiful shop windows entice the shoppers and they go inside., The sale enticed me to spend more than I intended., I can usually entice the cat with food.) ::: locken, verleiten, ködern
+<!--SR:!2025-03-31,1,366!2000-01-01,1,210-->
+confluence(noun) (The city was built at the confluence of the two rivers.) ::: Zusammenfluss, Einmündung, Zusammenfließen
+<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+poised(adjective / past participle) (The skier is poised for the descent at the top of the slope.) :::  bereit, gerüstet
+<!--SR:!2025-03-31,1,366!2000-01-01,1,210-->
+atonement(noun) (The believers made atonement for their sins.) ::: Sühne, Buße, Sühnung => the act of showing you are sorry for doing something wrong in the past
+<!--SR:!2025-03-31,1,366!2000-01-01,1,210-->
+implacable(adjective) (The vendor was implacable and did not reduce the price.) ::: unerbittlich, unversöhnlich, unnachgiebig 

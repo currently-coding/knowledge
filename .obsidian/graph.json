@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Chemie  ",
@@ -88,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 258,
-  "scale": 0.09392927902847041,
+  "scale": 0.1408939185427056,
   "close": false
 }

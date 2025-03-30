@@ -1,20 +1,17 @@
-hypothesis  
-proposed explanation  
-conjecture  
-convergence  
-alignment  
-indefatigable
-rectitude
-gainsay
-to extol
-profundity
-atonement
-implacable
 iniquities
+precipitious
+herald
+delineate
+mitigate
+exacarbate
+conundrum
+proliferation
+corroborate
+integral
 ardouos
 wherefore
 elusive
-to refute 
+to refute
 to equivocate
 specious
 to postulate

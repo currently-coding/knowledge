@@ -1,7 +1,8 @@
 Nenne Funktionen von Proteinen.
+Was sind Strukturproteine?
 ?
-![[Funktion]]
-<!--SR:!2025-03-27,2,210-->
+![[Funktion#Funktion]]
+<!--SR:!2025-04-01,5,230-->
 
 Skizziere den Aufbau eines Proteins. Nenne alle relevanten funktionellen Gruppen.
 ?
