@@ -478,7 +478,7 @@ resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
 to seize(verb) (She seized the opportunity and started a new life., The customs officer seized the undeclared goods., The police seized the suspect when he tried to run., She seized the opportunity to start her own business., Banks sometimes seize debtors' assets., The illegal items were seized at the border., The police seized the stolen goods., The invaders seized the castle after a tough battle.) ::: ergreifen, beschlagnahmen, packen
 <!--SR:!2026-04-09,378,382!2025-04-07,113,402-->
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
-<!--SR:!2025-04-14,135,416!2025-03-30,129,412-->
+<!--SR:!2025-04-14,135,416!2026-12-03,613,432-->
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
 <!--SR:!2025-05-19,155,422!2025-06-01,178,415-->
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
@@ -1317,7 +1317,7 @@ Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After
 Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
 <!--SR:!2025-04-20,26,365-->
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
-<!--SR:!2025-03-30,14,385-->
+<!--SR:!2025-05-31,62,405-->
 diligent(adjective) (At school she was a very diligent pupil., My son is a diligent student., This project requires diligent planning.) ::: gewissenhaft, flei�ig, sorgf�ltig
 <!--SR:!2025-03-25,2,365!2000-01-01,1,210-->
 submissive(adjective) (My dog is quite submissive and not at all dominant.) ::: unterw�rfig, gef�gig, gehorsam
@@ -1378,14 +1378,22 @@ proposed explanation(noun) () ::: vorgestellte Erklärung
 <!--SR:!2025-04-02,4,406!2000-01-01,1,210-->
 alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten 
 to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten 
-indefatigable(adjective) () ::: unermüdlich, rastlos 
-rectitude(noun) () ::: Rechtschaffenheit, Geradheit 
-to gainsay(verb) () ::: widersprechen, bestreiten, leugnen 
-to extol(verb) (Art historians extol the painting as a masterpiece., The teacher extolled the intelligence of her new class.) ::: preisen, loben, rühmen 
-profundity(noun) () ::: Tiefe, Tiefsinn, Tiefgründigkeit 
-to entice(verb) (The beautiful shop windows entice the shoppers and they go inside., The sale enticed me to spend more than I intended., I can usually entice the cat with food.) ::: locken, verleiten, ködern 
-confluence(noun) (The city was built at the confluence of the two rivers.) ::: Zusammenfluss, Einmündung, Zusammenfließen 
+indefatigable(adjective) () ::: unermüdlich, rastlos
+<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+rectitude(noun) () ::: Rechtschaffenheit, Geradheit
+<!--SR:!2025-04-03,4,386!2000-01-01,1,210-->
+to gainsay(verb) () ::: widersprechen, bestreiten, leugnen
+<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+to extol(verb) (Art historians extol the painting as a masterpiece., The teacher extolled the intelligence of her new class.) ::: preisen, loben, rühmen
+<!--SR:!2025-04-03,4,386!2000-01-01,1,210-->
+profundity(noun) () ::: Tiefe, Tiefsinn, Tiefgründigkeit
+<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+to entice(verb) (The beautiful shop windows entice the shoppers and they go inside., The sale enticed me to spend more than I intended., I can usually entice the cat with food.) ::: locken, verleiten, ködern
+<!--SR:!2025-03-31,1,366!2000-01-01,1,210-->
+confluence(noun) (The city was built at the confluence of the two rivers.) ::: Zusammenfluss, Einmündung, Zusammenfließen
+<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
 poised(adjective / past participle) (The skier is poised for the descent at the top of the slope.) :::  bereit, gerüstet
-to poise(verb) () ::: balancieren, verharren, unbeweglich bleiben 
-atonement(noun) (The believers made atonement for their sins.) ::: Sühne, Buße, Sühnung 
+<!--SR:!2025-03-31,1,366!2000-01-01,1,210-->
+atonement(noun) (The believers made atonement for their sins.) ::: Sühne, Buße, Sühnung => the act of showing you are sorry for doing something wrong in the past
+<!--SR:!2025-03-31,1,366!2000-01-01,1,210-->
 implacable(adjective) (The vendor was implacable and did not reduce the price.) ::: unerbittlich, unversöhnlich, unnachgiebig 
