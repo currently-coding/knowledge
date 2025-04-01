@@ -6,3 +6,9 @@
 ## Videos
 ### 1
 Ich erstellte das Intro
+
+
+
+
+## Wettbewerbe
+- Erstellen des Designs des Zusatzblatts mit Informationen
