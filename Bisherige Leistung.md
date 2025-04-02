@@ -9,11 +9,12 @@
 - Finale Änderung/Ästhetik - 4.5h
 ### 2
 - Erstellung der Einführung der Groeßen - 1h
-- Vorbereitung der Animation des Gangunterschieds
+- Vorbereitung der Animation des Gangunterschieds - 30min
 ## Wettbewerbe
 - Erstellen des Designs des Zusatzblatts mit Informationen für Mykyta - 45min
 ## Tag der offenen Tür
 Durchführung folgender Versuche
 - Schokokuss in Vakuumglocke
 - kochendes Wasser in Dose
+
 sowie Unterstützung bei der Vorbereitung anderer Versuche
