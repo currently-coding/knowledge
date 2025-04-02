@@ -4,7 +4,7 @@
 - 27.03.2025 - 30min
 ## Videos
 ### 1
-- Erstellung des Intros - 2h
+- Erstellung des Intros - 3h
 - Erstellung der Animation eines, ein Magnetfeld durchlaufendes, geladenen Teilchens - 30min
 - Finale Änderung/Ästhetik - 4.5h
 ### 2
