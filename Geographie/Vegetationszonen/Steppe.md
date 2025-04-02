@@ -1,0 +1,4 @@
+- waldfrei
+- meist fruchtbare Böden
+- Flora:
+	- Gräser

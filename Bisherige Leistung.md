@@ -11,4 +11,4 @@ Ich erstellte das Intro
 
 
 ## Wettbewerbe
-- Erstellen des Designs des Zusatzblatts mit Informationen
+- Erstellen des Designs des Zusatzblatts mit Informationen für Mykyta
