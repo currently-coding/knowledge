@@ -1,17 +1,17 @@
 ## Protokolle
-- 03.10.2024 - 30min
-- 30.01.2025 - 30min
-- 27.03.2025 - 30min
+- 03.10.2024
+- 30.01.2025
+- 27.03.2025
 ## Videos
-### 1
-- Erstellung des Intros - 3h
-- Erstellung der Animation eines, ein Magnetfeld durchlaufendes, geladenen Teilchens - 30min
-- Finale Änderung/Ästhetik - 4.5h
-### 2
-- Erstellung der Einführung der Groeßen - 1h
-- Vorbereitung der Animation des Gangunterschieds - 30min
+#### Video 1
+- Erstellung des Intros
+- Erstellung der Animation eines, ein Magnetfeld durchlaufendes, geladenen Teilchens
+- Finale Änderung/Ästhetik
+#### Video 2
+- Erstellung der Einführung der Groeßen
+- Vorbereitung der Animation des Gangunterschieds
 ## Wettbewerbe
-- Erstellen des Designs des Zusatzblatts mit Informationen für Mykyta - 45min
+- Erstellen des Designs des Zusatzblatts mit Informationen für Mykyta
 ## Tag der offenen Tür
 Durchführung folgender Versuche
 - Schokokuss in Vakuumglocke
