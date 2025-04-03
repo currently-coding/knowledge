@@ -15,7 +15,7 @@ to accommodate(verb) (We accommodated six refugees in our house., Our hotel can 
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
 <!--SR:!2025-04-18,160,310!2025-08-09,210,322-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
-<!--SR:!2026-02-01,373,319!2025-04-02,139,316-->
+<!--SR:!2026-02-01,373,319!2026-08-29,514,336-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
 <!--SR:!2025-10-01,293,342!2026-09-05,530,339-->
 accuracy(noun) (We tested the accuracy of these claims., Accuracy is a key element of the work I do., The accuracy of the tests has been improved., He does his job with great accuracy.) ::: Richtigkeit, Genauigkeit, Sorgfalt, Fehlerfreiheit, Exaktheit
@@ -151,7 +151,7 @@ state-of-the-art(adjective) (The new school will have state-of-the-art classroom
 state of the art(noun) () ::: Stand der Technik
 <!--SR:!2026-01-06,372,379!2025-10-11,300,350-->
 decline(noun) (We have witnessed a sharp decline in oil prices., The decline in sales worries the investors., The investors are not worried by the decline in sales., The country's economic decline came after the crisis.) ::: Rückgang, Sinken, Abnahme
-<!--SR:!2025-12-30,365,370!2025-03-31,129,351-->
+<!--SR:!2025-12-30,365,370!2026-09-11,527,371-->
 to decline(verb) (Air pollution is declining due to ecological reforms., My friend declined my invitation for lunch., The recession is over and unemployment is declining., Unemployment has declined with the recovery of the economy., The mortality rate is declining, people are living longer., The growth rate of exports has recently declined., I can correctly decline most Latin nouns., For my homework, I had to decline ten nouns.) ::: sinken, ablehnen, zurückgehen
 <!--SR:!2025-08-30,267,350!2026-02-18,410,379-->
 to promote(verb) (Our university promotes international student exchange., We promote cooperation among companies., My institution promotes various ecological initiatives., A new manager was hired to promote development., We need to promote our new product if we want to sell more., The meeting is intended to promote cooperation., I was promoted to head of department today.) ::: fördern, promoten, unterstützen
@@ -446,7 +446,7 @@ to boost(verb) (A good work environment boosts productivity., The commercial boo
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
 <!--SR:!2025-04-17,146,388!2026-01-06,292,367-->
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
-<!--SR:!2025-04-01,136,389!2026-05-24,483,408-->
+<!--SR:!2026-12-05,612,409!2026-05-24,483,408-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
 <!--SR:!2026-05-02,461,407!2026-08-26,558,409-->
 exploit(noun) () ::: Ausnutzen eines Sicherheitsproblems von Software, Heldentat, Tat
