@@ -1,3 +1,3 @@
-- 13% der [[Russland|Flaeche]] werden landwirtschaftlich genutzt
+- 13% der [[Russland|Fläche]] werden landwirtschaftlich genutzt
 	-> [[Agrardreieck]]
 	
