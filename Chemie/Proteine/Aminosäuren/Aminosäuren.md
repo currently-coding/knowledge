@@ -5,4 +5,4 @@
 - nur **L-Enantiomere** sind am **Proteinaufbau** beteiligt
 	-> **proteinogene** Aminosäuren
 - **essentielle Aminosäuren** := können nicht synthetisiert werden -> müssen über Nahrung aufgenommen werden
-<!--SR:!2025-04-05,9,250-->
+<!--SR:!2025-05-05,27,270-->
