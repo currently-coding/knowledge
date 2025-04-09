@@ -1353,11 +1353,11 @@ feasible(adjective) (This is clearly the only feasible interpretation., This is 
 verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
 <!--SR:!2025-03-27,4,365!2000-01-01,1,210-->
 herewith(adverb) (We herewith accept this assignment.)  :=  hiermit
-<!--SR:!2025-04-09,18,425-->
+<!--SR:!2025-07-06,88,445-->
 thereupon(adverb) ()  :=  daraufhin, darauf, alsdann
-<!--SR:!2025-04-09,18,425-->
+<!--SR:!2025-07-05,87,445-->
 therefore(adverb) (The boy studied and, therefore, passed the exam., The boy studied and, therefore, passed the exam., I have not eaten anything and therefore I am hungry., I study a lot; therefore, my marks are quite good., I studied hard and therefore passed the exam., It rained all week and therefore the match was called off.)  :=  daher, also, folglich
-<!--SR:!2025-04-09,18,425-->
+<!--SR:!2025-04-18,9,405-->
 thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.)  :=  damit, dadurch, dabei
 <!--SR:!2025-04-11,20,425-->
 hereafter(adverb) (Hereafter, some examples are listed for better understanding.)  :=  nachstehend, im Folgenden, nachfolgend
