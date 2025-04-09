@@ -16,5 +16,3 @@
 Durchführung folgender Versuche
 - Schokokuss in Vakuumglocke
 - kochendes Wasser in Dose
-
-sowie Unterstützung bei der Vorbereitung anderer Versuche
