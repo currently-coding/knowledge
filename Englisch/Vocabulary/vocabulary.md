@@ -1311,9 +1311,9 @@ Linking words: Comparing Similarities := Similarly, Likewise, In the same way, J
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
 <!--SR:!2025-04-17,22,325-->
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
-<!--SR:!2025-04-01,15,365-->
+<!--SR:!2025-06-04,56,365-->
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
-<!--SR:!2025-04-01,5,365-->
+<!--SR:!2025-04-26,17,365-->
 Linking words: Expressing Condition := If, Unless, Provided that, As long as, In case, Supposing that, Assuming
 <!--SR:!2025-04-20,26,365-->
 Linking words: Summarizing or Concluding := In conclusion, To sum up, All in all, Ultimately, On the whole, To conclude, In summary
@@ -1341,7 +1341,7 @@ to disengage oneself(verb) (I should disengage from a few of my hobbies and spen
 dysfunctional(adjective) (The therapist tries to salvage dysfunctional relationships.) ::: dysfunktional, dysfunktionell, nicht funktionierend
 <!--SR:!2025-04-11,19,425!2000-01-01,1,210-->
 aloof(adjective) (Some people are a bit aloof., He always seems very aloof and quiet., His aloof manner makes him seem shy.) ::: unnahbar, abgehoben, distanziert, reserviert
-<!--SR:!2025-05-09,41,425!2025-04-03,16,385-->
+<!--SR:!2025-05-09,41,425!2025-06-18,70,405-->
 aloof(adverb) (I keep aloof from controversial topics.) ::: abseits
 <!--SR:!2000-01-01,1,210!2025-03-25,2,385-->
 to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
@@ -1349,7 +1349,7 @@ to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
 bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, öde, düster
 <!--SR:!2025-04-09,17,405!2025-03-14,1,365-->
 feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: möglich, machbar, praktikabel
-<!--SR:!2025-04-04,18,425!2025-04-05,18,405-->
+<!--SR:!2025-07-08,90,445!2025-04-05,18,405-->
 verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
 <!--SR:!2025-03-27,4,365!2000-01-01,1,210-->
 herewith(adverb) (We herewith accept this assignment.)  :=  hiermit
