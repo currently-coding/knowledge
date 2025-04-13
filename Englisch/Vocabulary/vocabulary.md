@@ -434,7 +434,7 @@ systematic(adjective) () ::: systematisch, planmäßig, planvoll
 inevitable(adjective) (The passing of this law was inevitable., The imposition of regulatory procedures is inevitable., With such a tight schedule, stress seems inevitable.) ::: unvermeidlich, unumgänglich, unvermeidbar
 <!--SR:!2026-08-21,537,407!2026-10-11,579,408-->
 strip(noun) (My mother mended my dress using a strip of cloth., The cook sliced the chicken into strips., A narrow strip of land connects the two islands., I used a strip of cloth to mend my dress., The tailor cut the fabric into strips., Me and the boys want to go on the strip tonight.) ::: Streifen, Band, Piste
-<!--SR:!2025-04-10,145,387!2025-12-24,324,389-->
+<!--SR:!2027-01-22,649,407!2025-12-24,324,389-->
 to strip(verb) (The electrician stripped the cable and installed the lamp., It is hard to strip wallpaper off a wall., We stripped the paint with sandpaper.) ::: abisolieren, abziehen, abkratzen
 <!--SR:!2025-09-05,258,367!2025-11-17,325,389-->
 sanction(noun) (The government wants to lift the sanctions.) ::: Sanktion, Zustimmung, Genehmigung
