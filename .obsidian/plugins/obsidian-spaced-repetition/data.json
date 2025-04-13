@@ -27,7 +27,7 @@
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md",
       "Attachments",
-      "settings-and-scripts"
+      "Settings-and-scripts"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
