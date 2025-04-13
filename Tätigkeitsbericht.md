@@ -8,8 +8,7 @@
 - Erstellung der Animation eines, ein Magnetfeld durchlaufendes, geladenen Teilchens
 - Finale Änderung/Ästhetik
 #### Video 2
-- Erstellung der Einführung der Größen
-- Vorbereitung der Animation des Gangunterschieds
+- Erstellung des Intros(Einführung der Größen)
 ## Wettbewerbe
 - Erstellen des Designs des Zusatzblatts mit Informationen für Mykyta
 ## Tag der offenen Tür
