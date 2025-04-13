@@ -2,7 +2,7 @@
 
 >[!Definition]
 >Sample := aufgenommener Klang/Baustein
-<!--SR:!2025-04-10,16,230-->
+<!--SR:!2025-05-28,45,250-->
 
 >[!Definition]
 >Sounddesign := kreatives Nutzen von Samples
