@@ -26,7 +26,8 @@
     ],
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md",
-      "Attachments"
+      "Attachments",
+      "settings-and-scripts"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
@@ -454,20 +455,7 @@
     "685b9e7c5f9de",
     "a34c82e1206d1",
     "3d51c754d9eb9",
-    "fdfbb55ea132",
-    "44f9c1ab558a2",
-    "1c0c8b0151b34a",
-    "329564dded2fd",
-    "c5ad173c61a77",
-    "bac46dc2c8aad",
-    "11546ec9ccb9ed",
-    "97da16dc147cd",
-    "2803e0b48207a",
-    "1ab23f9bf74136",
-    "1c9e2b1c028689",
-    "8edcbdcb31eb1",
-    "10f3d40b57c9f5",
-    "1fe7a61fcc0a58"
+    "fdfbb55ea132"
   ],
   "historyDeck": null
 }
