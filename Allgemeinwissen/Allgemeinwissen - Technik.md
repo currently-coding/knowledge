@@ -1,30 +1,30 @@
 Nikolaus Kopernikus behauptet, dass sich die Erde um die Sonne dreht := 1514
 James Watt erfindet die Dampfmaschine := 1768
 Galvani entdeckt die galvanische Elektrizität := 1771
-<!--SR:!2025-04-01,55,310-->
+<!--SR:!2025-05-12,28,290-->
 ARPANET := 1969, October 29
-<!--SR:!2025-04-11,32,269-->
+<!--SR:!2025-04-30,16,249-->
 Email (on ARPANET) := 1971
 TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
-<!--SR:!2025-03-27,10,237-->
+<!--SR:!2025-04-19,5,217-->
 DNS(Domain Name System): maps IPs to human readable domain names := 1984
 WWW: Tim Berners-Lee proposed and developed the WWW at CERN := 1989 - 1990
-<!--SR:!2025-03-13,1,197-->
+<!--SR:!2025-04-16,2,197-->
 First Web Browser := Mosaic - 1993 - provided a graphical interface
-<!--SR:!2025-03-23,1,163-->
+<!--SR:!2025-04-16,2,163-->
 First Search Engine := Yahoo! - 1994
-<!--SR:!2025-03-26,4,192-->
+<!--SR:!2025-04-21,7,192-->
 Google := 1998 - better search algorithm
-<!--SR:!2025-03-24,2,163-->
+<!--SR:!2025-04-17,3,163-->
 Wi-Fi introduced := 1997 - IEEE 802.11 -> established wireless internet connections
 Introduction of Social Media := 2003-2004: MySpace(2003), Facebook(2004), etc. launched
-<!--SR:!2025-03-31,13,232-->
+<!--SR:!2025-05-13,29,232-->
 First iPhone := 2007 - enabled mobile internet usage and app-based ecosystems
 Cloud Computing Services := Late 2000s - AWS(2006), etc.
 4G/LTE := 2009 - improved speed -> enabled video streaming and advanced mobile apps
 Bitcoin and Blockchain := 2009  - The first decenttralized cryptocurrency, Bitcoin, launched.
 5G Networks begin to roll out := 2019 - higher speeds and lower latency -> enabled real time applications
-<!--SR:!2025-04-14,35,292-->
+<!--SR:!2025-07-25,102,292-->
 First commercially available computer :=UNIVAC I - 1951
 First OS := 1961 - IBMs OS/360 standardized the concept of an OS -> introduced multitasking and process management
 <!--SR:!2025-03-29,7,229-->
