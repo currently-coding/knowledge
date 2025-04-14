@@ -2,6 +2,9 @@ roil
 rife
 slender
 upending
+auspices
+haphazard
+amid
 levies
 iniquities
 precipitious
