@@ -1,0 +1,4 @@
+- übergeordneter räumlicher Aufbau von [[Proteine|Proteinen]], [[Nukleinsäure]] oder anderen [[Makromolekülen]]
+	- durch [[Disulfidbrücke|Disulfidbrücken]], [[Ion-Ion-Wechselwirkung|Ion-Ion-Wechselwirkungen]], [[Wasserstoffbrückenbindung|Wasserstoffbrückenbindungen]], 
+- aus Elementen der [[Sekundärstruktur]] zusammengesetzt
+- bereits in der [[Primärstruktur]] codiert
