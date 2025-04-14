@@ -472,13 +472,13 @@ to distinguish(verb) (Small children cannot distinguish left from right.) ::: un
 to distinguish oneself(verb) (The new employee distinguished himself on his first day.) ::: sich profilieren, sich hervortun
 <!--SR:!2025-12-06,314,393!2025-06-18,173,421-->
 to resume(verb) (After a short break, they resumed negotiations., She resumed her work after lunch.) ::: wieder aufnehmen, fortsetzen, wiederaufnehmen
-<!--SR:!2025-04-10,130,417!2025-04-21,137,421-->
+<!--SR:!2026-12-30,625,437!2025-04-21,137,421-->
 resume(noun) (Every application needs to include a resume.) ::: Lebenslauf
 <!--SR:!2025-05-22,164,422!2025-06-15,170,423-->
 to seize(verb) (She seized the opportunity and started a new life., The customs officer seized the undeclared goods., The police seized the suspect when he tried to run., She seized the opportunity to start her own business., Banks sometimes seize debtors' assets., The illegal items were seized at the border., The police seized the stolen goods., The invaders seized the castle after a tough battle.) ::: ergreifen, beschlagnahmen, packen
 <!--SR:!2026-04-09,378,382!2026-09-15,524,422-->
 prior(adjective) (The candidate must have prior experience in the position., You can access the website without prior registration.) ::: vorherig, vorgängig, früherer
-<!--SR:!2025-04-14,135,416!2026-12-03,613,432-->
+<!--SR:!2027-01-21,647,436!2026-12-03,613,432-->
 to discourage(verb) (Nothing can discourage us from attending the protest., I do not let bad luck discourage me., I discouraged my sister from selling her house.) ::: abhalten, entmutigen, abraten
 <!--SR:!2025-05-19,155,422!2025-06-01,178,415-->
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
@@ -498,7 +498,7 @@ victory(noun) (The new player led the team to victory., I will strive for victor
 disagreement(noun) (They resolved their disagreement with a compromise., The parties managed to avoid disagreements.) ::: Uneinigkeit, Unstimmigkeit, Meinungsverschiedenheit
 <!--SR:!2025-07-07,192,423!2025-04-27,148,417-->
 to interact(verb) (In modern computer games, you can interact with other players., The experiment showed how atoms interact with each other.) ::: interagieren, wechselwirken, zusammenwirken
-<!--SR:!2025-04-11,139,411!2025-05-02,138,423-->
+<!--SR:!2027-02-02,659,431!2025-05-02,138,423-->
 notably(adverb) (The tax reform will affect many people, notably entrepreneurs., The tax reform will benefit many, notably young people.) ::: insbesondere, besonders, vor allem
 <!--SR:!2024-12-12,20,383!2024-11-14,5,362-->
 notable(adjective) (The designer was a notable figure in the fashion world., The reform led to a notable improvement of public health., The scientist made a notable discovery., There is a notable want of teachers in my school district., The painter was a notable artist of his time., The hotel welcomes many notable guests.) ::: wichtig, deutlich, bemerkenswert
@@ -530,7 +530,7 @@ timely(adjective) (Timely procurement of raw materials is essential for producti
 globe(noun) () ::: Welt, Globus, Erdball
 <!--SR:!2024-12-22,30,403!2024-11-03,1,343-->
 to steer(verb) (The captain steers the ship away from the cliffs., It is hard to steer a ship through the narrow., The driver saw the dog and steered in the other direction.) ::: steuern, lenken, führen
-<!--SR:!2025-04-12,136,417!2025-05-04,154,415-->
+<!--SR:!2027-01-28,654,437!2025-05-04,154,415-->
 mortgage(noun) (I have redeemed the mortgage on my house.) ::: Hypothek, Pfand, Grundpfandrecht
 <!--SR:!2025-05-26,162,417!2025-05-12,161,415-->
 regardless(adjective) () ::: ungeachtet, trotzdem
@@ -544,7 +544,7 @@ comparable(adjective) (We can offer a comparable alternative.) ::: vergleichbar
 random(adjective) (I had a random encounter with an old friend today., The selection of participants is completely random., The collage shows a random selection of photos., The magician called a random spectator to the stage.) ::: zufällig, willkürlich, stichprobenartig
 <!--SR:!2024-11-25,23,395!2024-12-27,27,402-->
 predictable(adjective) (There were clouds in the sky, so the rain was predictable., My friend is pretty predictable, I always know what he is going to say., We offer all our services at predictable costs.) ::: vorhersehbar, berechenbar, kalkulierbar
-<!--SR:!2025-04-13,134,417!2025-05-28,174,412-->
+<!--SR:!2027-01-18,644,437!2025-05-28,174,412-->
 to predict(verb) (The weather forecast predicts sunshine for the weekend., Experts predict a positive economic development for next year., The weather forecast predicts rain., Experts predict a positive economic development.) ::: vorhersagen, prognostizieren, voraussagen
 <!--SR:!2026-12-24,627,432!2025-05-19,167,415-->
 rotation(noun) (I watched the tube's rotation around its own axis., This button controls tilt and rotation.) ::: Rotation, Drehung, Umdrehung
@@ -622,7 +622,7 @@ governor(noun) (The governor of my home state was elected by a vast majority.) :
 spare(noun) (I have bought spares for the repair of my car., He lost his key, but luckily he had a spare.) ::: Ersatzteil, Ersatz, Reserve
 <!--SR:!2026-07-23,510,423!2026-06-22,464,422-->
 to spare(verb) (Luckily, the butcher spared me a detailed description of his work., I will give you the money I can spare., Fortunately, my son was spared from the sickness.) ::: ersparen, erübrigen, verschonen
-<!--SR:!2025-04-13,125,402!2025-06-02,179,412-->
+<!--SR:!2026-11-15,580,422!2025-06-02,179,412-->
 spare(adjective) (There are still a few spare seats on the plane., I gave my spare money to my sister because I did not need it.) ::: frei, übrig, sparsam
 <!--SR:!2024-11-21,24,392!2024-12-22,30,402-->
 firm(noun) (My brother runs a successful firm., The firm was taken over by a large group.) ::: Firma, Unternehmen, Betrieb
@@ -648,7 +648,7 @@ reflection(noun) (The article offers an interesting reflection on the current si
 to forbid(verb) (The hotel management has forbidden smoking at the pool., The art gallery forbids flash photography.) ::: untersagen, verbieten, verhindern
 <!--SR:!2025-05-16,158,422!2026-12-20,620,437-->
 to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, überreden
-<!--SR:!2026-02-15,377,403!2025-04-14,134,415-->
+<!--SR:!2026-02-15,377,403!2027-01-15,641,435-->
 occupation(noun) (The judge asked the witness to state his name and occupation., The occupation of the town was over and there was peace., My skills allowed me to find a better occupation., The country declared independence after a long period of occupation., The new office building is ready for occupation.) ::: Beschäftigung, Beruf, Besetzung
 <!--SR:!2025-04-19,144,411!2025-06-03,180,415-->
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren
@@ -688,7 +688,7 @@ to portion(verb) () ::: teilen, zuteilen, aufteilen
 secular(adjective) (A secular state does not have any official religion.) ::: säkular, weltlich, laizistisch
 <!--SR:!2024-12-06,14,363!2024-11-19,5,362-->
 storage(noun) (The storage of cheese changes its taste., A dry and dark place is ideal for the storage of wine., Proper storage of vegetables is important., The price includes transport and storage., The correct storage of wine can be quite difficult., He uses his garage for storage., The hard drive is used for the storage of data.) ::: Lagerung, Lager, Speicherung
-<!--SR:!2025-04-13,133,416!2025-07-02,176,423-->
+<!--SR:!2027-01-12,638,436!2025-07-02,176,423-->
 width(noun) (Width, length and height are equal in a cube., I asked for the length and width in yards., The width of the sleeve is adjustable.) ::: Breite, Weite, Bandbreite
 <!--SR:!2025-05-18,166,415!2025-04-28,140,422-->
 reasonably(adverb) (The hotel room was reasonably comfortable, considering the cheap price.) ::: angemessen, einigermaßen, vernünftig
@@ -706,7 +706,7 @@ ownership(noun) (After payment, ownership passes on to the buyer., The city took
 honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufrichtigkeit
 <!--SR:!2025-07-20,194,423!2025-04-17,138,415-->
 rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite
-<!--SR:!2025-07-01,175,423!2025-04-11,129,421-->
+<!--SR:!2025-07-01,175,423!2026-12-30,625,441-->
 rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres
 <!--SR:!2025-05-10,160,417!2025-05-30,143,423-->
 sword(noun) (The point of the sword is very sharp., He put his sword back into its sheath.) ::: Schwert, Degen, Säbel
@@ -1349,7 +1349,7 @@ to dilapidate(verb) () ::: verfallen, ruinieren, zerfallen
 bleak(adjective) (His paintings often portray bleak, industrial landscapes., The landscape was beautiful and not bleak at all., This part of town used to be bleak and dreary, but now it is beautiful., I was not worried, because things are never as bleak as they seem.) ::: kahl, öde, düster
 <!--SR:!2025-04-09,17,405!2025-03-14,1,365-->
 feasible(adjective) (This is clearly the only feasible interpretation., This is a good idea, but it's not feasible in practice., We must find a solution that is really feasible., The plan was well thought out and feasible.) ::: möglich, machbar, praktikabel
-<!--SR:!2025-07-08,90,445!2025-04-05,18,405-->
+<!--SR:!2025-07-08,90,445!2025-07-07,84,425-->
 verbatim(adjective) () ::: w�rtlich, wortw�rtlich, wortgetreu
 <!--SR:!2025-03-27,4,365!2000-01-01,1,210-->
 herewith(adverb) (We herewith accept this assignment.)  :=  hiermit
@@ -1359,41 +1359,42 @@ thereupon(adverb) ()  :=  daraufhin, darauf, alsdann
 therefore(adverb) (The boy studied and, therefore, passed the exam., The boy studied and, therefore, passed the exam., I have not eaten anything and therefore I am hungry., I study a lot; therefore, my marks are quite good., I studied hard and therefore passed the exam., It rained all week and therefore the match was called off.)  :=  daher, also, folglich
 <!--SR:!2025-04-18,9,405-->
 thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.)  :=  damit, dadurch, dabei
-<!--SR:!2025-04-11,20,425-->
+<!--SR:!2025-07-23,100,445-->
 hereafter(adverb) (Hereafter, some examples are listed for better understanding.)  :=  nachstehend, im Folgenden, nachfolgend
-<!--SR:!2025-04-10,19,425-->
+<!--SR:!2025-07-16,93,445-->
 whereas(conjunction) (My brother became an engineer, whereas I became a singer., I love pizza, whereas my sister prefers pasta.)  :=  w�hrend, wohingegen, hingegen
-<!--SR:!2025-04-10,19,425-->
+<!--SR:!2025-07-15,92,445-->
 thereof(adverb) (The contract and deviations thereof are subject to prior approval.)  :=  davon, daraus, hiervon
-<!--SR:!2025-04-10,18,405-->
+<!--SR:!2025-07-08,85,425-->
 discrepancy(noun) (The numbers match, there is no discrepancy., There is a discrepancy between the two witness reports., There were slight discrepancies between the accounts., The suspect's statement was full of discrepancies., I found a discrepancy between the two lists., There were big discrepancies between the witnesses' accounts.) ::: Diskrepanz, Abweichung, Widerspruch
 <!--SR:!2025-04-09,17,405!2000-01-01,1,210-->
 inconsistency(noun) (The inconsistency of his statement gave rise to doubts.) ::: Inkonsistenz, Widerspruch, Widersprüchlichkeit
-<!--SR:!2000-01-01,1,210!2025-04-06,8,405-->
+<!--SR:!2000-01-01,1,210!2025-05-21,37,425-->
 inconsistent(adjective) (The two witnesses gave inconsistent reports., The sloppy measurements led to inconsistent results., The inaccurate measurements led to inconsistent results., In April, the weather here is rather inconsistent.) ::: unvereinbar, widersprüchlich, uneinheitlich
-<!--SR:!2025-04-13,20,425!2025-04-02,4,405-->
+<!--SR:!2025-07-21,98,445!2025-04-02,4,405-->
 hypothesis(noun) (The hypothesis made by the scientist turned out to be correct., The speaker elucidated his hypothesis.) ::: Hypothese, These, Vermutung
 <!--SR:!2000-01-01,1,210!2025-03-28,4,365-->
 proposed explanation(noun) () ::: vorgestellte Erklärung
-<!--SR:!2025-04-02,4,406!2000-01-01,1,210-->
+<!--SR:!2025-05-03,19,426!2000-01-01,1,210-->
 alignment(noun) (The correct alignment of the door is crucial for it to open.) ::: Ausrichtung, Angleichung, Ausrichten 
 to align(verb) (The two companies aligned their policies after the merger.) ::: ausrichten, angleichen, richten 
 indefatigable(adjective) () ::: unermüdlich, rastlos
-<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+<!--SR:!2025-05-02,18,426!2000-01-01,1,210-->
 rectitude(noun) () ::: Rechtschaffenheit, Geradheit
-<!--SR:!2025-04-03,4,386!2000-01-01,1,210-->
+<!--SR:!2025-04-30,16,386!2000-01-01,1,210-->
 to gainsay(verb) () ::: widersprechen, bestreiten, leugnen
-<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+<!--SR:!2025-05-04,20,426!2000-01-01,1,210-->
 to extol(verb) (Art historians extol the painting as a masterpiece., The teacher extolled the intelligence of her new class.) ::: preisen, loben, rühmen
-<!--SR:!2025-04-03,4,386!2000-01-01,1,210-->
+<!--SR:!2025-04-16,2,366!2000-01-01,1,210-->
 profundity(noun) () ::: Tiefe, Tiefsinn, Tiefgründigkeit
-<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+<!--SR:!2025-05-03,19,426!2000-01-01,1,210-->
 to entice(verb) (The beautiful shop windows entice the shoppers and they go inside., The sale enticed me to spend more than I intended., I can usually entice the cat with food.) ::: locken, verleiten, ködern
-<!--SR:!2025-03-31,1,366!2000-01-01,1,210-->
+<!--SR:!2025-04-18,4,366!2000-01-01,1,210-->
 confluence(noun) (The city was built at the confluence of the two rivers.) ::: Zusammenfluss, Einmündung, Zusammenfließen
-<!--SR:!2025-04-03,4,406!2000-01-01,1,210-->
+<!--SR:!2025-05-02,18,426!2000-01-01,1,210-->
 poised(adjective / past participle) (The skier is poised for the descent at the top of the slope.) :::  bereit, gerüstet
-<!--SR:!2025-03-31,1,366!2000-01-01,1,210-->
+<!--SR:!2025-04-18,4,366!2000-01-01,1,210-->
 atonement(noun) (The believers made atonement for their sins.) ::: Sühne, Buße, Sühnung => the act of showing you are sorry for doing something wrong in the past
-<!--SR:!2025-03-31,1,366!2000-01-01,1,210-->
-implacable(adjective) (The vendor was implacable and did not reduce the price.) ::: unerbittlich, unversöhnlich, unnachgiebig 
+<!--SR:!2025-04-15,1,346!2000-01-01,1,210-->
+implacable(adjective) (The vendor was implacable and did not reduce the price.) ::: unerbittlich, unversöhnlich, unnachgiebig
+<!--SR:!2025-04-15,1,366!2000-01-01,1,210-->

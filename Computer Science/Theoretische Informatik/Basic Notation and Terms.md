@@ -32,7 +32,7 @@ $A \setminus B$ oder $A - B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Di
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 <!--SR:!2025-05-22,148,274-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
-<!--SR:!2025-04-12,131,294-->
+<!--SR:!2026-07-11,453,314-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
 <!--SR:!2025-06-12,169,310!2024-12-13,46,299-->
 ## Tuple
