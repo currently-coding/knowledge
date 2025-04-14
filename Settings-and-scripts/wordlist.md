@@ -1,4 +1,7 @@
 roil
+rife
+slender
+upending
 levies
 iniquities
 precipitious
