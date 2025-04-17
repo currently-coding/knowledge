@@ -1,4 +1,4 @@
->!Definition]
+> [!Definition]
 >Permafrostboden := Untergrund, der für mindestens 2 Jahre eine Temperatur von $0^{\circ}C$ nicht überschreitet
 <!--SR:!2025-04-21,7,250-->
 
@@ -11,12 +11,22 @@
 ![[Pasted image 20250417153333.png]]
 
 ## Folgen des Auftauens
-- Freisetzung gespeicherter [[Treibhausgase]] -> [[Permafrostboden#Speicherung von Treibhausgase]]
+### Treibhausgase
+- Freisetzung gespeicherter [[Treibhausgase]]
+	- Kohlenstoff durch verrottete Tiere/Pflanzen: 1,700,000,000,000 Tonnen
 	- Mikroben wandeln $\ce C$ in $\ce CO_{2}$ um
+=> Verstärkung der [[Erderwärmung]]
+### Infrastruktur
 - Schäden an Häusern und Infrastruktur
+- Frostsprengung
+### Wasserkreislauf
+- Tauwasser verändert Wasserführung der Flüsse
+- [[steigende Meeresspiegel]]
+- mehr  Süßwasser in Meeren
+- mögliche Auswirkungen auf [[ozeanische Zirkulationssysteme]] wie den [[Golfstrom]]
 - Versickern des Wassers -> [[Thermokarst]]
 	-> Absinken der Landfläche
-- Frostsprengung
 
-## Speicherung von [[Treibhausgase]]
-- Kohlenstoff durch verrottete Tiere/Pflanzen: 1.700.000.000.000t
+## Gegenmaßnahmen
+- weniger $\ce CO_{2}$ ausstoßen
+- Energieverbrauch senken
