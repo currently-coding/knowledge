@@ -1,0 +1,93 @@
+.callout {
+  position: relative;
+}
+
+.callout-copy-button {
+  position: relative;
+  display: flex;
+  padding: var(--size-2-2) var(--size-2-3);
+  background: none !important;
+  border: none;
+  box-shadow: none !important;
+  border-radius: var(--radius-s);
+  font-family: var(--font-interface);
+  font-size: var(--font-ui-smaller);
+  cursor: var(--cursor);
+  color: var(--text-muted);
+  fill: var(--text-muted);
+  stroke: var(--text-muted);
+  opacity: 0;
+  svg {
+    width: var(--icon-size);
+    height: var(--icon-size);
+  }
+
+  &:hover {
+    background-color: var(--background-modifier-hover) !important;
+  }
+
+  &.just-copied {
+    color: var(--text-success);
+    &::after {
+      display: none;
+    }
+  }
+
+  &:not(.show-copy-format-indicators)::after {
+    display: none;
+  }
+
+  &.callout-copy-button-plain-text::after,
+  &.callout-copy-button-markdown::after {
+    font-size: 0.65em;
+    position: absolute;
+    top: 58%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+  }
+  &.callout-copy-button-plain-text::after {
+    content: "P";
+  }
+  &.callout-copy-button-markdown::after {
+    content: "M";
+  }
+}
+
+.cm-line:hover,
+.cm-callout:hover,
+.callout:hover {
+  .callout-copy-button {
+    opacity: 1;
+  }
+}
+
+div[data-mode="preview"] {
+  .callout-copy-button-markdown:not(.show-reading-mode-copy-markdown-buttons) {
+    display: none;
+  }
+  .callout-copy-button-plain-text:not(.show-reading-mode-copy-plain-text-buttons) {
+    display: none;
+  }
+}
+
+.callout-action-buttons {
+  position: absolute;
+  /* Match the placement of the copy button on codeblocks */
+  top: 6px;
+  inset-inline-end: 6px;
+  display: flex;
+  .edit-block-button {
+    position: relative !important;
+    top: 0px !important;
+    inset-inline-end: 0px !important;
+  }
+}
+
+.callout-copy-button-widget {
+  position: absolute;
+  top: 0px;
+  inset-inline-end: 0px;
+  &:not(.show-source-mode-copy-button-only-on-line-hover) {
+    opacity: 1;
+  }
+}
