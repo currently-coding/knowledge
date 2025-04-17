@@ -1,0 +1,11 @@
+{
+  "pluginVersion": "1.0.0",
+  "showCopyFormatIndicators": false,
+  "sourceModeSettings": {
+    "showCopyButtonOnlyOnLineHover": false
+  },
+  "readingModeSettings": {
+    "showCopyMarkdownButton": true,
+    "showCopyPlainTextButton": true
+  }
+}
