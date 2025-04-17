@@ -11,7 +11,7 @@
 ---
 -> [[Themen und Fragekomplexe der Medizinethik]]
 
----
+--
 ## Beispielanalyse(s.S.127/Fall 1)
 **Symptome**:
 - "Nase zu" = Schnupfen
