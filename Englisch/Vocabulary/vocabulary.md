@@ -59,7 +59,7 @@ altogether(adverb) (He needed two hours to finish his project altogether., Altog
 ambulance(noun) (The ambulance took the patient to the hospital.) ::: Krankenwagen, Ambulanz, Rettungswagen
 <!--SR:!2025-10-15,305,356!2024-12-14,68,322-->
 to amuse(verb) (The clowns amused the kids at the party., My joke amused my guests., The host's jokes amused the guests.) ::: unterhalten, amüsieren, belustigen
-<!--SR:!2025-10-31,314,357!2025-04-16,158,322-->
+<!--SR:!2025-10-31,314,357!2026-12-02,594,342-->
 ancestor(noun) (The history of my ancestors is interesting.) ::: Vorfahre, Vorfahr, Ahnin
 <!--SR:!2025-11-10,324,357!2025-06-09,142,322-->
 annual(adjective) (We are preparing our annual midsummer festival., The annual family reunion will take place next week., We are preparing our annual winter festival., An annual plant completes its life cycle within one year.) ::: jährlich, alljährlich, einjährig
@@ -239,7 +239,7 @@ shrink(noun) (My friend is a little bit crazy, I think he should really go see a
 piece(noun) (Each boy gets a piece of cake., After adding the last piece, the puzzle was complete., Typically, a puzzle for small children consists of less than 50 pieces., She had only one piece left on the board.) ::: Stück, Teil, Spielfigur
 <!--SR:!2026-06-25,509,395!2025-11-23,301,372-->
 to piece(verb) (She pieced the quilt from patches of cloth.) ::: zusammensetzen
-<!--SR:!2026-05-19,464,397!2025-04-15,79,293-->
+<!--SR:!2026-05-19,464,397!2026-01-14,272,313-->
 besides(preposition) (Besides tennis, she also plays basketball., Nobody wanted ice cream besides me.) ::: neben, außer, abgesehen von
 <!--SR:!2026-04-27,456,397!2025-07-15,206,365-->
 besides(adverb) (I am overqualified for the job, and besides, I have another offer., It is too early to sleep; besides, I am not tired.) ::: darüber hinaus, außerdem, daneben
@@ -444,7 +444,7 @@ to sanction(verb) (The committee sanctioned the expenditure for the project.) ::
 to boost(verb) (A good work environment boosts productivity., The commercial boosted the company's sales., Protein shakes can boost muscle growth., Merchandising can help boost sales figures., The teacher's praise boosted her motivation., The government has promised to boost economic growth., A good work environment helps to boost productivity., His mother's praise boosted the boy's mood.) ::: erhöhen, steigern, fördern
 <!--SR:!2026-01-27,388,387!2026-01-28,386,389-->
 boost(noun) (The new model meant a boost to the sales., The donation gave the company the boost it needed., The launch of the new product led to a boost in sales.) ::: Ankurbelung, Förderung
-<!--SR:!2025-04-17,146,388!2026-01-06,292,367-->
+<!--SR:!2027-02-01,655,408!2026-01-06,292,367-->
 vessel(noun) (The vessel left the shipyard yesterday., The vessel reached the port., The girl filled the vessel with water., A vase is a vessel for flowers., She filled the vessel with water.) ::: Schiff, (Gefäß)
 <!--SR:!2026-12-05,612,409!2026-05-24,483,408-->
 to compel(verb) (The rain compelled me to stay home., The contract compels the tenant to pay in advance.) ::: zwingen, nötigen, verpflichten
@@ -484,7 +484,7 @@ to discourage(verb) (Nothing can discourage us from attending the protest., I do
 to expect(verb) (The professor expects a term paper from every student., I expect that he will come tomorrow., The company expected an increase in profits from the new product., According to a report from the treasury we can expect good profits this year., I expect that he will arrive tomorrow., Good language skills are expected in this job.) ::: erwarten, annehmen, sich erhoffen
 <!--SR:!2024-11-22,20,376!2024-12-23,31,403-->
 reproduction(noun) (The reproduction of bootlegs is strictly prohibited.) ::: Vervielfältigung, Reproduktion, Wiedergabe
-<!--SR:!2025-04-26,132,371!2025-04-15,136,417-->
+<!--SR:!2025-04-26,132,371!2027-01-31,654,437-->
 cabin(noun) (The captain has a private cabin on the ship., My parents own a cabin in the mountains., The cabin has no heating, so it is only occupied in the summer., The ship's cabin was surprisingly spacious.) ::: Kabine, Hütte, Kajüte
 <!--SR:!2026-06-21,487,412!2025-05-23,159,421-->
 prompt(adjective) (This query needs a prompt response., The users expect a prompt response from the company., This situation requires a prompt response.) ::: zeitnah, prompt, unverzüglich
@@ -704,7 +704,7 @@ to elbow(verb) (He elbowed his way through the crowd.) ::: drängen
 ownership(noun) (After payment, ownership passes on to the buyer., The city took ownership of the land.) ::: Eigentum, Besitz, Eigentumsrecht
 <!--SR:!2025-06-16,189,415!2024-12-07,35,395-->
 honesty(noun) (Honesty is one of my strengths.) ::: Ehrlichkeit, Offenheit, Aufrichtigkeit
-<!--SR:!2025-07-20,194,423!2025-04-17,138,415-->
+<!--SR:!2025-07-20,194,423!2027-02-06,660,435-->
 rear(noun) (The luggage compartment is at the rear of the car., We sat at the rear of the boat.) ::: Rückseite, Heck, Hinterseite
 <!--SR:!2025-07-01,175,423!2026-12-30,625,441-->
 rear(adjective) (I always make sure that the rear door of the shop is locked.) ::: hintere, rückseitig, hinteres
@@ -1309,7 +1309,7 @@ Linking words: Giving Examples := For example, For instance, Such as, Like, Name
 Linking words: Comparing Similarities := Similarly, Likewise, In the same way, Just as, Equally, Correspondingly
 <!--SR:!2025-06-10,65,385-->
 Linking words: Emphasizing a Point := Indeed, In fact, Above all, Notably, Significantly, Importantly
-<!--SR:!2025-04-17,22,325-->
+<!--SR:!2025-06-29,73,325-->
 Linking words: Clarifying or Explaining := That is to say, In other words, To put it differently, To clarify, This means that
 <!--SR:!2025-06-04,56,365-->
 Linking words: Indicating Time & Sequence := First of all, Secondly, Then, After that, Subsequently, Eventually, Finally, At last, Meanwhile
