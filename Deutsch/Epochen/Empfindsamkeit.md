@@ -7,3 +7,5 @@
 
 ## Quizfragen
 #quiz 
+>[!Question]- Was hat die Empfindsamkeit mit der [[Deutsch/Epochen/Aufklärung|Aufklärung]] bzw. dem [[Sturm und Drang]] zu tun?
+>Die Empfindsamkeit regiert ebenso wie der Sturm und Drang auf die Aufklärung. Im Gegensatz zur vernunftbetonten Aufklärung sind Gefühl und Authentizität wichtig. Während der Sturm und Drang sich programmatisch explosiv nach außen richtig, konzentriert sich die Empfindsamkeit auf die Innerlichkeit und Sensibilität

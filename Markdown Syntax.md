@@ -20,8 +20,6 @@
 > [!Unknown]-
 > will be used when the provided identifier is unknown
 
-> [!Info]-
-
 >[!Abstract]-
 >alias `summary`, `tldr`
 
