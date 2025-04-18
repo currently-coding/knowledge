@@ -1,4 +1,3 @@
-/* Live Preview Mode */
 :not(.cm-formatting).cm-header-1:before {
     content: '# ';
 }
@@ -23,43 +22,10 @@
     content: '###### ';
 }
 
-/* Reading Mode */
-.markdown-preview-view .heading-1:before {
-    content: '# ';
-}
-
-.markdown-preview-view .heading-2:before {
-    content: '## ';
-}
-
-.markdown-preview-view .heading-3:before {
-    content: '### ';
-}
-
-.markdown-preview-view .heading-4:before {
-    content: '#### ';
-}
-
-.markdown-preview-view .heading-5:before {
-    content: '##### ';
-}
-
-.markdown-preview-view .heading-6:before {
-    content: '###### ';
-}
-
-/* For both live preview and reading mode */
-.cm-header:before,
-.markdown-preview-view .heading-1:before,
-.markdown-preview-view .heading-2:before,
-.markdown-preview-view .heading-3:before,
-.markdown-preview-view .heading-4:before,
-.markdown-preview-view .heading-5:before,
-.markdown-preview-view .heading-6:before {
+.cm-header:before {
     color: var(--text-faint);
 }
 
-/* Remove markdown symbols when the header is active in live preview */
 .cm-active.cm-line .cm-header-1:before,
 .cm-active.cm-line .cm-header-2:before,
 .cm-active.cm-line .cm-header-3:before,
@@ -68,4 +34,3 @@
 .cm-active.cm-line .cm-header-6:before {
     content: '';
 }
-

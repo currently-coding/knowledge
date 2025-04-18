@@ -8,16 +8,11 @@
 ![[Glycerin#Formel]]
 
 ## Fettsäure
-
 -> [[Fettsäuren]]
-
 ```smiles
 CCCCCCCCCCCCCCC(=O)O
 ```
-
 ## Ester
-
 -> [[Ester]] als funktionale Gruppe enthalten(-> [[Veresterung]])
 
 ![[Unsaturated_Triglyceride_Structural_Formula_V1.svg.png]]
-
