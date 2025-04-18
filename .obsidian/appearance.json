@@ -9,7 +9,8 @@
   "enabledCssSnippets": [
     "Font",
     "Print",
-    "heading"
+    "heading",
+    "hashtag_heading"
   ],
   "interfaceFontFamily": "",
   "textFontFamily": "Cascadia Code",
