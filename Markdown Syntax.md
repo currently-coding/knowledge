@@ -55,5 +55,5 @@
 >alias `cite
 `
 #### Custom Icons
->[!definition]
+>[!definition]-
 >alias `define`, `def`, `let`
