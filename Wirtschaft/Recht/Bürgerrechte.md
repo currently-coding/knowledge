@@ -1,4 +1,4 @@
-- gelten fuer deutsche Staatsbuerger
+- gelten für deutsche Staatsbürger
 - staatlich garantiert
 - einklagbar
 - Beispiele

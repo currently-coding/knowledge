@@ -1,5 +1,12 @@
 # README
 
+## FAQ
+>[!faq]- Kann ich selbst eigene Notizen hinzufügen?
+>Ja. Du kannst selbst Notizen hinzufügen. Falls sich Dateinamen überschneiden und Inhalte der Datei dann widersprechen, wirst du aufgefordert dies zu ändern. Weiterhin wird durchgehend der neuester Stand synchronisiert werden.
+
+>[!faq]- Wie kann ich die Synchronisation ausstellen?
+>Lösche den `.git` Ordner.
+
 ## Installation
 
 ### Voraussetzungen:
@@ -31,3 +38,5 @@
 19. Fertig
 
 Obsidian wird nun bei jedem Öffnen die neueste Version aller Dateien von [Github](https://github.com) holen.
+
+
