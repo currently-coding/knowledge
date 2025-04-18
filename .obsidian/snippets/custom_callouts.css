@@ -1,0 +1,17 @@
+/* Definitions */
+.callout[data-callout="definition"] {
+    --callout-icon: lucide-book-open-text;
+}
+
+.callout[data-callout="def"] {
+    --callout-icon: lucide-book-open-text;
+}
+
+.callout[data-callout="define"] {
+    --callout-icon: lucide-book-open-text;
+}
+
+.callout[data-callout="let"] {
+    --callout-icon: lucide-book-open-text;
+}
+

@@ -1,10 +1,10 @@
 ## Geistesgeschichtlicher Kontext
-- [[Immanuel Kant]] (Philosoph)
+>[!Quote] [[Immanuel Kant]] (Philosoph)
 >"sapere aude"
 >"Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit"
 
 - Vernunft
-	- ratio statt emotio
+	> ratio statt emotio
 - Empirie
 - Bürgertum(meist reich & gebildet)
 - Distanzierung vom Glauben
