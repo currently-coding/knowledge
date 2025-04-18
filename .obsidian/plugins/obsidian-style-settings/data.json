@@ -123,5 +123,6 @@
   "Editor@@h3-color-select": "h3-color-designated",
   "Editor@@h4-color-select": "h4-color-designated",
   "Editor@@h5-color-select": "h5-color-designated",
-  "Editor@@h6-color-select": "h6-color-designated"
+  "Editor@@h6-color-select": "h6-color-designated",
+  "Editor@@h2-divider-on": true
 }
