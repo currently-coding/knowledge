@@ -1,0 +1,3 @@
+> Gotthold Ephraim **Lessing** (* 22. Januar 1729 in Kamenz, Markgraftum Oberlausitz; † 15. Februar 1781 in Braunschweig) war ein bedeutender Dichter der [[Deutsch/Epochen/Aufklärung|Aufklärung]]. Mit seinen Dramen und seinen theoretischen Schriften, die vor allem dem Toleranzgedanken verpflichtet sind, hat dieser Aufklärer der weiteren Entwicklung des Theaters einen wesentlichen Weg gewiesen und die öffentliche Wirkung von Literatur nachhaltig beeinflusst. Lessing ist der erste deutsche Dramatiker, dessen Werk bis heute ununterbrochen in den Theatern aufgeführt wird.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Gotthold%20Ephraim%20Lessing)

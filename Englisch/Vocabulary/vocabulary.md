@@ -1398,3 +1398,26 @@ atonement(noun) (The believers made atonement for their sins.) ::: Sühne, Buße
 <!--SR:!2025-04-15,1,346!2000-01-01,1,210-->
 implacable(adjective) (The vendor was implacable and did not reduce the price.) ::: unerbittlich, unversöhnlich, unnachgiebig
 <!--SR:!2025-04-15,1,366!2000-01-01,1,210-->
+rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn 
+to rail(verb) (She railed at the car drivers who tried to overtake her.) ::: schimpfen, wettern, fluchen 
+rife(adjective) (This animal species is rife in our area.) ::: weit verbreitet 
+slender(adjective) (She has long and slender legs., The candidate won the vote by a very slender margin.) ::: schlank, schmal, dünn 
+spending(noun) (We have to cut spending, the treasury is empty.) ::: Ausgaben, Ausgabe 
+spending(adjective / present participle) () :::  
+to spend(verb) (I want to spend my whole summer at the beach., I spend a lot of time outdoors., I don't want to spend all my money on a new car., I spent all my pocket money within one day., The team spent a lot of time on the project.) ::: verbringen, ausgeben, verbrauchen 
+auspices(noun) () ::: Schirmherrschaft, Vorzeichen, Auspizien 
+auspice(noun) (These lands are under the auspices of the king.) ::: Schutzherrschaft, Auspizium 
+haphazard(adjective) () ::: zufällig, willkürlich, planlos 
+amid(preposition) (Amid flowers and trees, we saw a small cottage.) ::: inmitten, mitten in, mitten unter 
+Amid(noun) () ::: amide 
+levies(noun) (The municipal levies have not been raised in years.) ::: Abgaben, Erhebungen, Umlagen 
+to levy(verb) (The country levies taxes on imported products., Each region will implement and levy its own taxes.) ::: erheben, auferlegen, beschlagnahmen 
+iniquities(noun) () ::: Ungerechtigkeiten, Frevel 
+precipitous(adjective) () ::: steil, schroff, abschüssig 
+to herald(verb) (The prophecy heralded the arrival of a hero.) ::: einläuten, verkünden, ankündigen 
+to herald(verb) (The swallows herald the return of spring.) ::: von künden 
+herald(noun) (The herald announced the arrival of the king.) ::: Herold, Vorbote, Verkünder 
+to delineate(verb) (He delineated his plan briefly.) ::: voneinander abgrenzen, darstellen, beschreiben 
+to mitigate(verb) (Some countries are seeking to mitigate the effects of climate change., The drug mitigates pain., The quick response mitigated the consequences of the disaster.) ::: mildern, minimieren, entschärfen 
+to exacerbate(verb) (Political corruption exacerbates the country's poverty., Political corruption exacerbates the country's poverty.) ::: verschärfen, verschlimmern, erschweren 
+conundrum(noun) (We must try to solve the conundrum.) ::: Rätsel, Problem, Rätselaufgabe 
