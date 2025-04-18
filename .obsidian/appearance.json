@@ -10,7 +10,8 @@
     "Font",
     "Print",
     "heading",
-    "hashtag_heading"
+    "hashtag_heading",
+    "custom_callouts"
   ],
   "interfaceFontFamily": "",
   "textFontFamily": "Cascadia Code",

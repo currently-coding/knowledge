@@ -9,7 +9,7 @@ $\ce {CO2 + C -> 2 CO}$
 $\ce{ HG^2+ -> HgI2  -> [Hg^{II}I4]^2}$$
 
 ```smiles
-(COOH)C
+[R]C(O)=O
 ```
 
 ```smiles
