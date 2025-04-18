@@ -30,4 +30,4 @@
 18. `Trust author and enable plugins` auswählen.
 19. Fertig
 
-Obsidian wird nun bei jedem Oeffnen die neueste Version aller Dateien von [Github](https://github.com) holen.
+Obsidian wird nun bei jedem Öffnen die neueste Version aller Dateien von [Github](https://github.com) holen.
