@@ -4,7 +4,7 @@ Voraussetzung:
 ## Reaktion
 - [[Gleichgewichtsreaktion]]
 ![[Pasted image 20250314195237.png]]
-- gilt nur bei primären und sekundären Alkoholen
+- gilt nur bei primären und sekundären [[Alkohol]]
 ## Erklärung
 Protonierung(durch $\ce H^+$ der Schwefelsäure als [[Katalysator]]) der Carbonsäure zu einem mesomeriestabilisierten Kation
 ![[Pasted image 20250314191521.png]]
