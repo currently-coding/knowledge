@@ -1,25 +1,25 @@
 :not(.cm-formatting).cm-header-1:before {
-    content: '# ';
+    content: ' ';
 }
 
 :not(.cm-formatting).cm-header-2:before {
-    content: '## ';
+    content: '# ';
 }
 
 :not(.cm-formatting).cm-header-3:before {
-    content: '### ';
+    content: '## ';
 }
 
 :not(.cm-formatting).cm-header-4:before {
-    content: '#### ';
+    content: '### ';
 }
 
 :not(.cm-formatting).cm-header-5:before {
-    content: '##### ';
+    content: '#### ';
 }
 
 :not(.cm-formatting).cm-header-6:before {
-    content: '###### ';
+    content: '##### ';
 }
 
 .cm-header:before {
