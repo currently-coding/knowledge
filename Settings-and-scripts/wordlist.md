@@ -1,5 +1,10 @@
 proliferation
+raison d'être
 corroborate
+sycopathic
+ineluctable
+sesquipedalian
+proclivity
 integral
 ardouos
 wherefore
