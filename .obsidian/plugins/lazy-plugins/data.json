@@ -1,0 +1,69 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "arrows-in-md": {
+        "startupType": "disabled"
+      },
+      "callout-copy-buttons": {
+        "startupType": "instant"
+      },
+      "chem": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "obsidian-day-planner": {
+        "startupType": "instant"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
+      },
+      "folder-notes": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "instant"
+      },
+      "leader-hotkeys-obsidian": {
+        "startupType": "instant"
+      },
+      "inline-math": {
+        "startupType": "instant"
+      },
+      "pdf-plus": {
+        "startupType": "instant"
+      },
+      "obsidian-relative-line-numbers": {
+        "startupType": "instant"
+      },
+      "size-history": {
+        "startupType": "instant"
+      },
+      "obsidian-spaced-repetition": {
+        "startupType": "instant"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "obsidian-week-planner": {
+        "startupType": "instant"
+      },
+      "obsidian-wikipedia": {
+        "startupType": "instant"
+      }
+    },
+    "loadOrder": []
+  }
+}
