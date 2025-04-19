@@ -13,7 +13,7 @@ accidental(adjective) (He felt very sorry for the accidental mix-up., The news a
 to accommodate(verb) (We accommodated six refugees in our house., Our hotel can accommodate five hundred guests., The hotel can accommodate up to 40 people., The customer service accommodated the needs of the customers., The hotel can accommodate 200 guests.) ::: aufnehmen, beherbergen, unterbringen, entgegenkommen, einquartieren
 <!--SR:!2026-04-25,402,310!2025-11-01,315,342-->
 to accomplish(verb) (With hard work you can accomplish a lot., I have now accomplished the task, everything is done., I will need several hours to accomplish this task., We are proud of what we have accomplished so far.) ::: erreichen, erfüllen, bewerkstelligen, schaffen
-<!--SR:!2025-04-18,160,310!2025-08-09,210,322-->
+<!--SR:!2026-11-18,578,330!2025-08-09,210,322-->
 accountant(noun) (As he likes working with numbers, he will train to become an accountant., The accountant stapled the payment receipt to the invoice.) ::: Wirtschaftsprüfer, Buchhalter, Steuerberater
 <!--SR:!2026-02-01,373,319!2026-08-29,514,336-->
 to account(verb) (The police asked him to account for his whereabouts at the time of the incident.) ::: Rechenschaft ablegen
@@ -303,7 +303,7 @@ compound(adjective) (The lesson was about compound adjectives.) ::: zusammengese
 to compound(verb) () ::: verbinden, erschweren, zusammensetzen
 <!--SR:!2025-11-06,320,379!2026-06-06,493,408-->
 to conclude(verb) (To conclude her letter she wrote 'kind regards'., To conclude her letter she wrote 'kind regards'., The student concluded the essay with a quote., The book concluded in a surprising manner.) ::: schließen, abschließen
-<!--SR:!2025-04-19,147,387!2025-11-27,327,359-->
+<!--SR:!2027-02-06,658,407!2025-11-27,327,359-->
 craft(noun) (I want to learn a craft like mosaics or carving.) ::: Handwerk
 <!--SR:!2026-06-03,493,399!2026-12-11,627,407-->
 to craft(verb) (The goldsmith crafted a beautiful ring.) ::: gestalten, fertigen, handwerklich herstellen
@@ -418,7 +418,7 @@ homeless(adjective) (He has finally found a home and is no longer homeless., The
 home(adjective) () ::: einheimisch, inländisch
 <!--SR:!2026-04-22,451,408!2026-03-13,393,385-->
 helmet(noun) (You always have to wear a helmet when driving a motorcycle.) ::: Helm, Schutzhelm, Maske
-<!--SR:!2025-04-18,160,388!2026-08-04,542,405-->
+<!--SR:!2027-04-07,718,408!2026-08-04,542,405-->
 underlying(adjective) (The underlying theory made it easier to discuss the ideas.) ::: zugrunde liegend, zugrundeliegend, grundlegend
 <!--SR:!2026-06-10,500,409!2025-06-17,185,347-->
 applicant(noun) (Applicants for a loan can fill in a form online., Applicants have to submit all the necessary documents., Many applicants are qualified for this job., There were a lot of suitable applicants for the job opening., The number of applicants was amazing., She is the only applicant who has the relevant training., The applicant listed all her strengths.) ::: Antragsteller, Bewerber, Bewerberin
@@ -554,7 +554,7 @@ to rot(verb) (Organic substances rot after a while., The fruit was no longer fre
 modest(adjective) (He contented himself with a modest dinner.) ::: bescheiden, schlicht, dezent
 <!--SR:!2024-11-07,1,275!2024-12-23,30,402-->
 venture(noun) (The company invests in various ventures., I saved money to invest in a new venture.) ::: Unternehmen, Unternehmung, Projekt
-<!--SR:!2025-06-14,160,352!2025-04-19,135,422-->
+<!--SR:!2025-06-14,160,352!2025-06-28,70,402-->
 to venture(verb) (I ventured a guess about the company's profit., He ventured a small sum in hopes of a large profit.) ::: wagen, riskieren
 <!--SR:!2025-03-04,102,391!2024-11-08,6,383-->
 to supervise(verb) (To ensure quality, production is constantly supervised., The professor supervises the student's work., The senior doctor is supervising the interns., A foreman supervises the other workers.) ::: überwachen, betreuen, beaufsichtigen
@@ -650,7 +650,7 @@ to forbid(verb) (The hotel management has forbidden smoking at the pool., The ar
 to convince(verb) (He convinced the fighters not to strike.) ::: überzeugen, überreden
 <!--SR:!2026-02-15,377,403!2027-01-15,641,435-->
 occupation(noun) (The judge asked the witness to state his name and occupation., The occupation of the town was over and there was peace., My skills allowed me to find a better occupation., The country declared independence after a long period of occupation., The new office building is ready for occupation.) ::: Beschäftigung, Beruf, Besetzung
-<!--SR:!2025-04-19,144,411!2025-06-03,180,415-->
+<!--SR:!2027-03-03,683,431!2025-06-03,180,415-->
 to classify(verb) (An independent institute classified our products as harmless.) ::: klassifizieren, einstufen, klassieren
 <!--SR:!2026-07-08,495,422!2025-06-21,165,422-->
 fabric(noun) (Linen is the ideal fabric for summer but it wrinkles easily., The fabric is thinning at the edges., The dress is made from an unusual, innovative fabric., The fabric of the building was damaged by the storm.) ::: Stoff, Gewebe, Struktur
@@ -975,7 +975,7 @@ to implement(verb) (The reforms will be implemented as soon as possible., The go
 implement(noun) (The gardener uses a wide set of implements., The carpenter uses various implements to work wood.) ::: Gerät, Werkzeug, Instrument
 <!--SR:!2000-01-01,1,250!2024-11-23,1,325-->
 saint(noun) () ::: Heilige, Heiliger
-<!--SR:!2025-04-19,131,424!2025-06-03,147,426-->
+<!--SR:!2027-01-18,639,444!2025-06-03,147,426-->
 saint(adjective) () ::: heilig
 <!--SR:!2000-01-01,1,250!2024-12-12,19,384-->
 rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn
@@ -1357,7 +1357,7 @@ herewith(adverb) (We herewith accept this assignment.)  :=  hiermit
 thereupon(adverb) ()  :=  daraufhin, darauf, alsdann
 <!--SR:!2025-07-05,87,445-->
 therefore(adverb) (The boy studied and, therefore, passed the exam., The boy studied and, therefore, passed the exam., I have not eaten anything and therefore I am hungry., I study a lot; therefore, my marks are quite good., I studied hard and therefore passed the exam., It rained all week and therefore the match was called off.)  :=  daher, also, folglich
-<!--SR:!2025-04-18,9,405-->
+<!--SR:!2025-06-01,43,425-->
 thereby(adverb) (They collected a lot of money and thereby helped many people., He stumbled and thereby lost his hat., I study a lot and thereby get good grades.)  :=  damit, dadurch, dabei
 <!--SR:!2025-07-23,100,445-->
 hereafter(adverb) (Hereafter, some examples are listed for better understanding.)  :=  nachstehend, im Folgenden, nachfolgend
@@ -1400,12 +1400,15 @@ implacable(adjective) (The vendor was implacable and did not reduce the price.) 
 <!--SR:!2025-04-15,1,366!2000-01-01,1,210-->
 rail(noun) (Trains move on rails., I am going by rail, not by bus or car., Many goods are carried by rail., Freight can be transported by rail or road., I always hold the rail while climbing the stairs.) ::: Schiene, Bahn, Eisenbahn 
 to rail(verb) (She railed at the car drivers who tried to overtake her.) ::: schimpfen, wettern, fluchen 
-rife(adjective) (This animal species is rife in our area.) ::: weit verbreitet 
-slender(adjective) (She has long and slender legs., The candidate won the vote by a very slender margin.) ::: schlank, schmal, dünn 
-spending(noun) (We have to cut spending, the treasury is empty.) ::: Ausgaben, Ausgabe 
-spending(adjective / present participle) () :::  
-to spend(verb) (I want to spend my whole summer at the beach., I spend a lot of time outdoors., I don't want to spend all my money on a new car., I spent all my pocket money within one day., The team spent a lot of time on the project.) ::: verbringen, ausgeben, verbrauchen 
-auspices(noun) () ::: Schirmherrschaft, Vorzeichen, Auspizien 
+rife(adjective) (    Cheating remains rife. Speculation was rife among the students. Speculation is rife that the company is about to be sold. Temperatures were extreme and epidemics rife.) ::: weit verbreitet
+<!--SR:!2025-04-20,1,366!2000-01-01,1,210-->
+slender(adjective) (She has long and slender legs., The candidate won the vote by a very slender margin.) ::: schlank, schmal, dünn
+<!--SR:!2025-04-23,4,386!2000-01-01,1,210-->
+spending(noun) (We have to cut spending, the treasury is empty.) ::: Ausgaben, Ausgabe
+<!--SR:!2025-04-23,4,406!2000-01-01,1,210-->
+to spend(verb) (I want to spend my whole summer at the beach., I spend a lot of time outdoors., I don't want to spend all my money on a new car., I spent all my pocket money within one day., The team spent a lot of time on the project.) ::: verbringen, ausgeben, verbrauchen
+<!--SR:!2025-04-23,4,406!2000-01-01,1,210-->
+under the auspices of somebody/something(idiom) (The community centre was set up under the auspices of a government initiative.) ::: with the help, support or protection of somebody/something
 auspice(noun) (These lands are under the auspices of the king.) ::: Schutzherrschaft, Auspizium 
 haphazard(adjective) () ::: zufällig, willkürlich, planlos 
 amid(preposition) (Amid flowers and trees, we saw a small cottage.) ::: inmitten, mitten in, mitten unter 
