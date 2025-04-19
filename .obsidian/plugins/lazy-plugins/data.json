@@ -62,6 +62,9 @@
       },
       "obsidian-wikipedia": {
         "startupType": "instant"
+      },
+      "obsidian-desmos": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
