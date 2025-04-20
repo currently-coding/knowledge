@@ -1424,3 +1424,4 @@ to delineate(verb) (He delineated his plan briefly.) ::: voneinander abgrenzen, 
 to mitigate(verb) (Some countries are seeking to mitigate the effects of climate change., The drug mitigates pain., The quick response mitigated the consequences of the disaster.) ::: mildern, minimieren, entschärfen 
 to exacerbate(verb) (Political corruption exacerbates the country's poverty., Political corruption exacerbates the country's poverty.) ::: verschärfen, verschlimmern, erschweren 
 conundrum(noun) (We must try to solve the conundrum.) ::: Rätsel, Problem, Rätselaufgabe 
+
