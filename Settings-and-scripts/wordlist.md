@@ -1,4 +1,5 @@
 proliferation
+	affidavit
 raison d'être
 corroborate
 sycopathic
