@@ -15,3 +15,6 @@
 
 ---
 - Führerscheinkosten stiegen 2022->2023: +7.6%
+
+
+
