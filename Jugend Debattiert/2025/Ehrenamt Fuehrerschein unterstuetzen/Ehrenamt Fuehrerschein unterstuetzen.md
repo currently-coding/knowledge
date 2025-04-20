@@ -16,15 +16,3 @@
 ---
 - Führerscheinkosten stiegen 2022->2023: +7.6%
 
-
-
-to support with evidence or authority (make more certain)
-?
-corroborate
->[!info]- Inflections
-corroborate, , corroborated, corroborating(verb)
->[!info]- Pronunciation
->kə-ˈrä-bə-ˌrāt
->[!example] Examples
->
-:w
