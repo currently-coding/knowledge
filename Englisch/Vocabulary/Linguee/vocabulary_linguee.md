@@ -1425,3 +1425,10 @@ to mitigate(verb) (Some countries are seeking to mitigate the effects of climate
 to exacerbate(verb) (Political corruption exacerbates the country's poverty., Political corruption exacerbates the country's poverty.) ::: verschärfen, verschlimmern, erschweren 
 conundrum(noun) (We must try to solve the conundrum.) ::: Rätsel, Problem, Rätselaufgabe 
 
+proliferation(noun) (This medicine halts the proliferation of the virus., This medication halts the proliferation of cells.) ::: Proliferation, Verbreitung, Ausbreitung 
+Proliferation(noun) () ::: proliferation 
+affidavit(noun) (I filed an affidavit at the court., The lawyer submitted an affidavit before the trial.) ::: eidesstattliche Versicherung, eidesstattliche Erklärung, beeidigte Erklärung 
+Affidavit(noun) () ::: affidavit 
+raison d être(noun) () ::: Daseinsberechtigung, Existenzberechtigung, Daseinszweck 
+to corroborate(verb) (The witness corroborated the suspect's alibi., The record corroborates what was discussed during the meeting.) ::: bestätigen, belegen, erhärten 
+ineluctable(adjective) () ::: unvermeidlich, unausweichlich, unhintergehbar 

@@ -1,9 +1,3 @@
-proliferation
-affidavit
-raison d'être
-corroborate
-sycopathic
-ineluctable
 sesquipedalian
 proclivity
 integral

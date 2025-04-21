@@ -1,20 +1,3 @@
-dichotomy
-curious
-correlation  
-anathema
-reconstruction
-representation
-sound
-denouement
-refine
-to infer  
-defensible
-threshold
-unveil
-to quantify  
-heal
-iconoclast
-obfuscate
 warrior
 revise
 piquant
@@ -22,7 +5,7 @@ allegory
 suppress
 onerous
 conquest
-to postulate
+postulate
 consequence  
 protective
 correspond
@@ -50,10 +33,10 @@ spectrum
 resonate
 retreat
 discern
-to anticipate  
+anticipate  
 connotation
 result in
-to refute
+refute
 emphasize
 harbinger
 exotic
@@ -80,11 +63,11 @@ inhabitant
 invalidate
 reasoning
 arbitrary
-to isolate  
+isolate  
 perceptive
 weed
 prohibit
-to spread gradually  
+spread gradually  
 pity
 panic
 qualitative
@@ -120,7 +103,7 @@ insert
 fortuitous
 principal
 reassess
-to put in context  
+put in context  
 naked
 balance
 riot
@@ -150,7 +133,7 @@ altruism
 martial
 proclaim
 elevate
-to validate  
+validate  
 promising
 dissident
 theoretical
@@ -169,11 +152,11 @@ suspension
 disappointment
 vicarious
 syndrome
-to assess numerically  
+assess numerically  
 mode
 complicit
 engender
-to extrapolate  
+extrapolate  
 intrinsic
 probability
 prior example  
@@ -209,12 +192,12 @@ synthesis
 punch
 enlighten
 simulation
-to confirm  
+confirm  
 significant
 blow
 rape
 penultimate
-to equivocate
+equivocate
 perspectives
 potentially
 pill
@@ -241,13 +224,13 @@ revive
 fortify
 amorphous
 improvise
-to show a relationship  
+show a relationship  
 obstreperous
 affirm
 tactic
 defiant
 bring about
-to predict based on data  
+predict based on data  
 carbon
 dissent
 manufacturing
@@ -301,7 +284,7 @@ reinforce
 amalgamate
 ebullient
 hypothesize
-to piece together  
+piece together  
 historian
 convention
 evolution
@@ -333,7 +316,7 @@ significantly
 condescending
 part-time
 deduce
-to foresee  
+foresee  
 observer
 necessitate
 deadline
@@ -342,7 +325,7 @@ debate
 heuristic
 apt
 eradicate
-to examine  
+examine  
 press for
 hypothesis
 realm
@@ -352,16 +335,16 @@ mercurial
 affirmative
 fulfillment
 avarice
-to conflate
+conflate
 reiterate
 enthral
-to analyze  
+analyze  
 trivial
 influence
 trepidation
 worship
 symbolic
-to falsify  
+falsify  
 sentiment
 concrete
 spurious
@@ -389,7 +372,7 @@ caustic
 affable
 corroborate
 penalty
-to integrate  
+integrate  
 facetious
 frivolous
 frequent
@@ -404,7 +387,7 @@ manifestation
 motion
 stab
 novel
-to differ  
+differ  
 curriculum
 sustain
 capable
@@ -417,7 +400,7 @@ accurate
 triumph
 puerile
 insist
-to come together  
+come together  
 well-being
 methodology
 inference  
@@ -425,18 +408,18 @@ indigent
 equanimity
 racism
 conjecture
-to deliberate  
+deliberate  
 even so
 nutrition
 classify
 thankfully
-to adjust  
+adjust  
 relevant
 suspicion
 originate
 doubt
 implication  
-to frame  
+frame  
 circumspect
 welcoming
 harangue
@@ -455,10 +438,10 @@ hip
 abrogate
 aside
 effective
-to permeate  
+permeate  
 embroil
 defender
-to combine  
+combine  
 instigate
 framework
 reliability
@@ -466,9 +449,9 @@ thrive
 fecund
 fatuous
 hyperbole
-to correlate  
+correlate  
 barely
-to accumulate  
+accumulate  
 realization
 sheer
 dealer
@@ -479,7 +462,7 @@ hesitant
 neutral
 fulgent
 offender
-to change  
+change  
 flexible
 deposit
 on the contrary
@@ -491,10 +474,10 @@ vulnerable
 qualify
 corroborate
 wholly
-to discredit  
-to project  
+discredit  
+project  
 exacerbate
-to deduce  
+deduce  
 proceed
 luminous
 tactical
@@ -507,13 +490,13 @@ laudable
 contend
 zealous
 quest
-to relate  
+relate  
 occult
 relation  
 lethargic
 in brief
 cleavage
-to split  
+split  
 invaluable
 opposition
 medication
@@ -565,8 +548,8 @@ malfeasance
 rational
 infamous
 proliferation
-to demand
-to appraise  
+demand
+appraise  
 consumption
 determine
 ambivalence
@@ -598,7 +581,7 @@ subtle
 internalize
 reign
 squad
-to single out
+single out
 hidden
 ephemeral
 functional
@@ -612,7 +595,7 @@ suicide
 supervisor
 widespread
 envelope
-to reconstruct  
+reconstruct  
 cause
 identical
 emotionally
@@ -665,9 +648,9 @@ chase
 comprehensive
 ingratiate
 substantive
-to modify  
+modify  
 utilitarian
-to recreate  
+recreate  
 trophy
 generate
 abstemious
@@ -687,7 +670,7 @@ perceive
 wherefore
 toll
 resistance
-to disprove  
+disprove  
 polish
 ubiquitous
 pervasive
@@ -770,7 +753,7 @@ comprise
 request
 irascible
 notable
-to synthesize  
+synthesize  
 make-up
 bolster
 loquacious
@@ -778,7 +761,7 @@ considerably
 causal
 socialist
 vanish
-to refute  
+refute  
 slavery
 consensus
 without a doubt
@@ -820,7 +803,7 @@ receptive
 manifest
 bug
 uplift
-to imply  
+imply  
 enigmatic
 hopefully
 spark
@@ -836,7 +819,7 @@ strand
 trial
 reluctance
 conform
-to assess  
+assess  
 elegiac
 mitigate
 compose
@@ -863,7 +846,7 @@ engage
 boost
 preclude
 violate
-to contextualize  
+contextualize  
 occupy
 structure
 membership
@@ -875,14 +858,14 @@ futile
 irrefutable
 anomaly
 vindictive
-to separate  
+separate  
 accentuate
 perception
 collaborative
 discern
 egregious
 empirical
-to suggest  
+suggest  
 differ
 jury
 compelling
@@ -894,7 +877,7 @@ colony
 rating
 rescind
 as exemplified by
-to coordinate  
+coordinate  
 contrast
 relatable
 password
@@ -918,7 +901,7 @@ firefighter
 venerate
 acumen
 insolent
-to discuss  
+discuss  
 chimerical
 sceptical
 shrug
@@ -929,7 +912,7 @@ sue
 enrich
 converge
 contradict
-to diverge  
+diverge  
 affidavit
 accomplishment
 catalyst
@@ -939,7 +922,7 @@ distinguish
 taciturn
 worthwhile
 retain
-to predict  
+predict  
 texture
 exemplify
 expressive
@@ -994,7 +977,7 @@ equivocate
 fortitude
 cue
 propose
-to diffuse  
+diffuse  
 moving
 delete
 indicate
@@ -1002,7 +985,7 @@ antithesis
 along with
 verdict
 reluctant
-to hint at  
+hint at  
 immutable
 tangible
 cheer
@@ -1027,7 +1010,7 @@ intuition
 parallel
 charming
 support
-to evaluate  
+evaluate  
 tangential
 negotiation
 solo
@@ -1042,7 +1025,7 @@ counter
 ineluctable
 rectify
 prescriptive
-to organize  
+organize  
 endorse
 ignoble
 compulsory
@@ -1063,7 +1046,7 @@ precede
 insight
 comprehend
 specious
-to converge  
+converge  
 trace
 defenestrate
 ardouos
@@ -1110,7 +1093,7 @@ cliff
 vacuum
 quixotic
 instant
-to measure  
+measure  
 radical
 pride
 elicit
@@ -1120,7 +1103,7 @@ unequivocal
 ostensibly
 resolve
 maximize
-to debate  
+debate  
 ameliorate
 chivalrous
 phlegmatic
@@ -1158,7 +1141,7 @@ selective
 tenant
 bias
 contemporary
-to conclude  
+conclude  
 terrain
 elucidate
 database
@@ -1184,7 +1167,7 @@ thereby
 realize
 gene
 magnificent
-to gather  
+gather  
 illuminate
 bid
 treaty
@@ -1198,7 +1181,7 @@ defenestration
 illustrate
 assign
 mechanic
-to align  
+align  
 completion
 extrapolate
 analogous
@@ -1222,8 +1205,8 @@ nuanced distinction
 optimize
 uphold
 racial
-to verify  
-to amass  
+verify  
+amass  
 distinct
 culminate
 fostering
@@ -1245,10 +1228,10 @@ arouse
 credible
 verify
 cryptic
-to entail  
+entail  
 argue
 coverage
-to undermine  
+undermine  
 exemplary
 solicitor
 basket

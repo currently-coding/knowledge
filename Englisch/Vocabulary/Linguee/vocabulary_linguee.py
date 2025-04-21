@@ -10,8 +10,8 @@ dst_lang = "de"
 guess_direction = False
 follow_corrections = "always"
 
-in_file = "wordlist.md"
-out_file = "../Englisch/Vocabulary/vocabulary.md"
+in_file = "wordlist_linguee.md"
+out_file = "vocabulary_linguee.md"
 closure_start = "{{"
 closure_end = "}}"
 

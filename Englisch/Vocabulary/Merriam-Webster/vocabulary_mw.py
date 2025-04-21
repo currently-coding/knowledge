@@ -8,9 +8,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 dict_api_key = getenv("DICT_API_KEY")
-in_filepath = "wordlist_mw.mw"
+in_filepath = "wordlist_mw.md"
 out_filepath = "vocabulary_mw.md"
-amount = 2
+words_per_execution = 2
 if not dict_api_key:
     raise ValueError("API key not found. Please set API_KEY in .env file.")
 
@@ -28,7 +28,7 @@ def request(word):
 
     response = None
     while not response:
-        print("Trying to reach url...")
+        print(f'Trying to reach url for word "{word}"...')
         response = get(url)
         if response.status_code != 200:
             print(f"Request failed: Status Code <{response.status_code}>.")
@@ -60,21 +60,19 @@ def get_chosen_entry(data, pos):
 def process_data(data, word, pos, num_definitions=3):
     """extracts data from json into dict"""
     if not data:
-        print(f"Request failed: No data for {word}.")
+        print(" -> No data was received.")
         raise ValueError("Data is empty.")
 
     entry = data[0]
 
     if not isinstance(entry, dict):
-        print(f'Word "{word}" was not found.')
+        print(" -> Not found.")
         return entry  # return suggested word
 
     entry = get_chosen_entry(data, pos)
     if not entry:
-        print("process_data: None. No entry was found for ", pos)
+        print(" -> Not found.")
         return None
-
-    assert type(entry) is dict
 
     raw_id = entry["meta"]["id"]
     word_from_data = raw_id.split(":")[0] if ":" in raw_id else raw_id
@@ -139,23 +137,7 @@ def get_word_info(word):
         "pronoun",
         "preposition",
         "conjunction",
-        "interjection",
-        "article",
-        "determiner",
-        "auxiliary verb",
-        "modal verb",
-        "infinitive marker",
-        "gerund",
-        "participle",
-        "abbreviation",
-        "prefix",
-        "suffix",
-        "contraction",
-        "proper noun",
-        "numeral",
-        "symbol",
     ]
-    parts_of_speech = ["verb", "noun", "adjective"]
 
     result = []
 
@@ -168,24 +150,23 @@ def get_word_info(word):
     print("Successfully completed request.\n")
     for pos in parts_of_speech:
         # requesting data
-        print(f'Looking up "{word}" as a {pos}')
+        print(f'Looking up "{word}" as a {pos}', end="")
 
         # processing data
         try:
             info = process_data(data, word, pos=pos)
         except ValueError as e:
-            print("Unknown return value of process_data()")
-            print("ValueError: ", e)
+            print("\nValueError: ", e)
             return None
         if isinstance(info, str):
-            # misspelled word -> skip
+            print(" -> No dictionary entry found.")
             continue
         if info is None:
             continue
         if not isinstance(info, dict):
-            print("Type: ", type(info))
             raise ValueError("Unknown return type of process_data()")
         result.append(info)
+        print(" -> Success")
     return result
 
 
@@ -224,7 +205,9 @@ def checkout(lines):
 
     print("Deleting words from input file...", end="")
     with open(in_filepath, "r") as fin:
-        remaining = fin.readlines()[amount:]  # keep only lines after the first `amount`
+        remaining = fin.readlines()[
+            words_per_execution:
+        ]  # keep only lines after the first `amount`
 
     with open(in_filepath, "w") as fout:
         fout.writelines(remaining)
@@ -234,8 +217,7 @@ def checkout(lines):
 def get_words(amount):
     print(f"Reading {amount} words from input file...", end="")
     with open(in_filepath, "r") as f:
-        words = [next(f).replace("\n", "") for _ in range(amount)]
-    f.close()
+        words = [next(f).strip() for _ in range(amount)]
     print(" -> Success.")
     return words
 
@@ -247,15 +229,15 @@ def create_flashcard(word):
 
 
 def main():
-    words = get_words(amount)
+    words = get_words(words_per_execution)
     flashcards = []
     for word in words:
         print(f"Processing word {word}...")
-        data = get_word_info(word)
-        lines = format_to_flashcard(data)
+        lines = create_flashcard(word)
         for line in lines:
             flashcards.append(line)
         print(f"Processed word {word} successfully.")
+        print("---\n")
     checkout(flashcards)
 
 
