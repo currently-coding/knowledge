@@ -8,8 +8,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 dict_api_key = getenv("DICT_API_KEY")
-in_filepath = "list.txt"
-out_filepath = "out.txt"
+in_filepath = "wordlist_mw.mw"
+out_filepath = "vocabulary_mw.md"
 amount = 2
 if not dict_api_key:
     raise ValueError("API key not found. Please set API_KEY in .env file.")
