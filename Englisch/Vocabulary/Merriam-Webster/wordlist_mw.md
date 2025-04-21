@@ -1,5 +1,3 @@
-warrior
-revise
 piquant
 allegory
 suppress

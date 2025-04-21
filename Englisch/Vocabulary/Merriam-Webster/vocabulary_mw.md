@@ -126,3 +126,20 @@ to throw into shadow (darken), to make obscure, confuse
 **Inflections**: to obfuscate, obfuscated, obfuscating
 **Pronunciation**: ˈäb-fə-ˌskāt
 
+a person engaged or experienced in warfare; broadly (a person engaged in some struggle or conflict)
+?
+>[!info]- warrior(noun)
+**Pronunciation**: ˈwȯr-yər
+
+an act of revising (revision), a printing proof that incorporates changes marked in a previous proof
+?
+>[!info]- revise(noun)
+**Pronunciation**: ˈrē-ˌvīz
+
+to look over again in order to correct or improve, to study again (review), to make a new, amended, improved, or up-to-date version of
+?
+>[!info]- to revise(verb)
+**Inflections**: to revise, revised, revising
+**Pronunciation**: ri-ˈvīz
+**Examples**: revise a manuscript
+
