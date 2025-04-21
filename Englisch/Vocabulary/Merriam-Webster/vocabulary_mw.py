@@ -182,7 +182,7 @@ def format_to_flashcard(wordlist):
         line = ""
         line += ", ".join(word["definition"])
         line += separator
-        line += ">[!info]- " + word["word"] + "(" + word["part_of_speech"] + ")"
+        line += ">[!vocab]- " + word["word"] + "(" + word["part_of_speech"] + ")"
         if word["inflections"] != "":
             line += "\n**Inflections**: " + word["word"] + word["inflections"]
         if word["pronunciation"] != "":

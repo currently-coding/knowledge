@@ -15,3 +15,8 @@
     --callout-icon: lucide-book-open-text;
 }
 
+.callout[data-callout="vocab"] {
+    --callout-icon: lucide-text;
+}
+
+
