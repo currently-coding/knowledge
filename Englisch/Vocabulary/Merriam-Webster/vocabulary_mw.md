@@ -13,7 +13,7 @@ marked by desire to investigate and learn, marked by inquisitive interest in oth
 **Examples**: They were curious as to who won the game.
 <!--SR:!2025-04-22,1,190-->
 
-the state or relation of being correlated; specifically (a relation existing between phenomeea or things or between mathematical or statistical variables which tend to vary, be associated, or occur together in a way not expected on the basis of chance alone), the act of correlating
+the state or relation of being correlated; specifically (a relation existing between phenomena or things or between mathematical or statistical variables which tend to vary, be associated, or occur together in a way not expected on the basis of chance alone), the act of correlating
 ?
 >[!vocab]- correlation(noun)
 **Pronunciation**: ˌkȯr-ə-ˈlā-shən
