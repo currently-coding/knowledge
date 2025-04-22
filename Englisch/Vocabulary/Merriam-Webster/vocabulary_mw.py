@@ -19,16 +19,11 @@ dictionary_base_url = "https://dictionaryapi.com/api/v3/references/collegiate/js
 thesaurus_base_url = "https://dictionaryapi.com/api/v3/references/thesaurus/json/"
 
 
-def request(word):
-    """requests dictionary entry from merriam-webster-dict"""
-    if not word:
-        print("Word is empty. Aborting...")
-        raise ValueError("Word is empty.")
-    url = f"{dictionary_base_url}{word}?key={dict_api_key}"
-
+def request(url):
+    """requests data from the provided url, returns json()"""
     response = None
     while not response:
-        print(f'Trying to reach url for word "{word}"...')
+        print(f'Trying to reach {url}...')
         response = get(url)
         if response.status_code != 200:
             print(f"Request failed: Status Code <{response.status_code}>.")
@@ -57,7 +52,11 @@ def get_chosen_entry(data, pos):
     return None
 
 
-def process_data(data, word, pos, num_definitions=3):
+def process_linguee(data, word, pos, num_definitions=3):
+    print(data)
+
+
+def process_mw(data, word, pos, num_definitions=3):
     """extracts data from json into dict"""
     if not data:
         print(" -> No data was received.")
@@ -102,7 +101,8 @@ def process_data(data, word, pos, num_definitions=3):
             .get("dt", "")[1][1][0]
             .get("t", "")
         )
-        examples = sub(r"\{[^}]*\}", "", examples)  # remove any format specifiers
+        # remove any format specifiers
+        examples = sub(r"\{[^}]*\}", "", examples)
     except (AttributeError, IndexError):
         examples = ""
 
@@ -128,6 +128,18 @@ def process_data(data, word, pos, num_definitions=3):
     return word_info
 
 
+def mw_url(word):
+    return dictionary_base_url + word + "?key=" + dict_api_key
+
+
+def dict_api_url(word):
+    return "https://api.dictionaryapi.dev/api/v2/entries/en/" + word
+
+
+def linguee_url(word):
+    return f'https://linguee-api.fly.dev/api/v2/translations?query={word}&src=en&dst=de&guess_direction=false&follow_corrections=always'
+
+
 def get_word_info(word):
     parts_of_speech = [
         "noun",
@@ -142,7 +154,7 @@ def get_word_info(word):
     result = []
 
     try:
-        data = request(word)
+        data = request(mw_url(word))
     except ValueError as e:
         print("ValueError: ", e)
         print("Request failed.")
@@ -154,7 +166,7 @@ def get_word_info(word):
 
         # processing data
         try:
-            info = process_data(data, word, pos=pos)
+            info = process_mw(data, word, pos=pos)
         except ValueError as e:
             print("\nValueError: ", e)
             return None
@@ -182,7 +194,8 @@ def format_to_flashcard(wordlist):
         line = ""
         line += ", ".join(word["definition"])
         line += separator
-        line += ">[!vocab]- " + word["word"] + "(" + word["part_of_speech"] + ")"
+        line += ">[!vocab]- " + word["word"] + \
+            "(" + word["part_of_speech"] + ")"
         if word["inflections"] != "":
             line += "\n**Inflections**: " + word["word"] + word["inflections"]
         if word["pronunciation"] != "":
@@ -241,4 +254,13 @@ def main():
     checkout(flashcards)
 
 
-main()
+# main()
+
+data = request(linguee_url("greeting"))
+info = process_linguee(data, "to skate", "verb")
+
+
+# TODO:
+# get all data from linguee
+# get all data from dictionaryapi.dev
+# compare and eval
