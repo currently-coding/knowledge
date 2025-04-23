@@ -74,6 +74,7 @@ The state of being complex; intricacy; entanglement., That which is and renders 
 >>[!example]+ Examples
 >>- The level of complexity affects the product cost.
 >>- This story presents a high degree of complexity.
+<!--SR:!2025-04-26,3,236-->
 
 To open up, unfasten., To uncover, physically expose to view., To expose to the knowledge of others; to make known, state openly, reveal.
 ?
@@ -469,6 +470,7 @@ To combine two or more things to produce a new product., To be combined producin
 **Forms**: synthesized, synthesized; BE frequently used: synthesised, synthesised) (BE: synthesise) (BE frequently used: synthesise
 >**Pronunciation**: /ˈsɪnθəsaɪz/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/d6/d6284de87997d101a0cee91cc449ff46-200.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-04-25,2,217-->
 
 The state or quality of being sound., The result or product of being sound., The property  of not only being valid, but also of having true premises.
 ?
@@ -511,6 +513,7 @@ Someone or thing who lives in a place.
 >>[!example]+ Examples
 >>- This little town has only very few inhabitants.
 >>- Berlin has fewer inhabitants than Cairo.
+<!--SR:!2025-04-25,2,216-->
 
 To make invalid. Especially applied to contract law.
 ?
@@ -542,11 +545,6 @@ Based on individual discretion or judgment; not based on any objective distincti
 >>- Arbitrary changes to the process are not allowed.
 >>- The boss gave arbitrary orders that changed daily.
 
-Something that has been isolated.
-?
->[!vocab]- isolate(noun)
->**Translations**: Isolat
->**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/15/15400d746f02adc8adba4300e6592817-100.mp3" type="audio/mpeg">Unsupported.</audio>
 
 Having or showing keenness of perception, insight, understanding, or intuition.
 ?
@@ -644,6 +642,7 @@ Humorous, amusing or joking.
 >[!vocab]- jocular(adjective)
 >**Translations**: scherzhaft, lustig, spaßig
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-04-26,3,236-->
 
 Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest, or an enlightened inner circle., Having to do with concepts that are highly theoretical and without obvious practical application; often with mystical or religious connotations., Confidential; private.
 ?
@@ -741,6 +740,7 @@ An artificial barrier, variously constructed, over which athletes or horses jump
 >>- The runner cleared all hurdles successfully.
 >>- The athlete jumped over all hurdles and finished the race successfully.
 >>- There are many hurdles on the road to success.
+<!--SR:!2025-04-26,3,237-->
 
 An act of surrendering, submission into the possession of another; abandonment, resignation., The yielding or delivery of a possession in response to a demand., The yielding of the leasehold estate by the lessee to the landlord, so that the tenancy for years merges in the reversion and no longer exists.
 ?

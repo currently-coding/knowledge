@@ -5,6 +5,11 @@ from time import sleep
 
 from requests import ConnectionError, get
 
+in_filepath = "wordlist_mw.md"
+out_filepath = "vocabulary_mw.md"
+words_per_execution = 30
+max_num_translations = 3
+
 
 # start server
 def start_server():
@@ -27,12 +32,6 @@ def start_server():
 def stop_server(server):
     server.send_signal(signal.SIGINT)  # send SIGINT to stop uvicorn gracefully
     server.wait()
-
-
-in_filepath = "wordlist_mw.md"
-out_filepath = "vocabulary_mw.md"
-words_per_execution = 30
-max_num_translations = 3
 
 
 def request(url):
@@ -205,7 +204,7 @@ def main():
     words = get_words(words_per_execution)
     flashcards = []
     for word in words:
-        delay = 1
+        delay = 5
         if delay != 0:
             print(f"Waiting for {delay} seconds.")
         sleep(delay)
