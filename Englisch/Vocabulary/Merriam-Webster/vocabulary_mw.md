@@ -96,22 +96,6 @@ To apply pressure to from two or more sides at once., To embrace closely; to giv
 >>- She squeezed some oranges to make juice.
 >>- I am squeezing an orange to get fresh juice.
 
-The playing of a game or games, including but not limited to video games and games of chance., Careful, strategic use of rules to achieve one's purposes, as one would use the rules of a game.
-?
->[!vocab]- gaming(noun)
->**Translations**: Spielen
->**Pronunciation**: /ˈɡeɪmɪŋ/
->**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/96/967ef2eb34634ba418db94dab610ba6f-100.mp3" type="audio/mpeg">Unsupported.</audio>
-
-To gamble., To play card games, board games, or video games., To exploit loopholes in a system or bureaucracy in a way which defeats or nullifies the spirit of the rules in effect, usually to obtain a result which otherwise would be unobtainable.
-?
->[!vocab]- to gaming(verb)
->**Translations**: manipulieren
->**Pronunciation**: /ˈɡeɪmɪŋ/
->**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/c8/c8d46d341bea4fd5bff866a65ff8aea9-200.mp3" type="audio/mpeg">Unsupported.</audio>
->>[!example]+ Examples
->>- Tight security measures prevented him from gaming the system.
-
 To obtain or receive  from something else., To deduce  by reasoning., To find the derivation of .
 ?
 >[!vocab]- to derive(verb)
@@ -136,6 +120,7 @@ To cause  to be acquainted ., To make  known by formal announcement or recommend
 >>- We ought to introduce changes, and will indeed do so soon.
 >>- The host introduced the guests right at the beginning of the show.
 >>- The company will introduce a range of new products in spring.
+<!--SR:!2025-04-25,2,216-->
 
 To combine two or more things to produce a new product., To be combined producing a new, more complex product., To produce a substance by chemical synthesis.
 ?
@@ -150,6 +135,7 @@ The state or quality of being sound., The result or product of being sound., The
 >[!vocab]- soundness(noun)
 >**Translations**: Solidität, Stabilität, Bonität
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/4c/4c32b4f5c3574ef81256ee3f227ae0aa-100.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-04-26,3,236-->
 
 Having elements of a feast or of entertainment, especially when it comes to eating and drinking, with accompanying festivity
 ?
@@ -157,19 +143,6 @@ Having elements of a feast or of entertainment, especially when it comes to eati
 >**Translations**: gesellig, gastlich, festlich
 >**Pronunciation**: /kənˈvɪv.i.əl/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/44/44219e0dc662875e7a8885fb960c943d-300.mp3" type="audio/mpeg">Unsupported.</audio>
-
-An entity, usually animate, deemed superior to another; one who has a claim to precedence; a superior., A person who makes a bet, such as a wager on the outcome of a game of chance or a sporting event.
-?
->[!vocab]- better(noun)
->**Translations**: gut, schön, brav
->**Pronunciation**: [ˈbeɾə]
->**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/75/755f85c2723bb39381c7379a604160d8-300.mp3" type="audio/mpeg">Unsupported.</audio>
->>[!example]+ Examples
->>- Every town should have a good restaurant.
->>- Good wine needs to mellow.
->>- I wish you a good flight.
->>- Greetings! Good to see you!
->>- My daughter promised to be a good girl.
 
 To improve., To become better; to improve., To surpass in excellence; to exceed; to excel.
 ?
@@ -181,32 +154,6 @@ To improve., To become better; to improve., To surpass in excellence; to exceed;
 >>[!example]+ Examples
 >>- Luckily, the situation bettered.
 >>- I am constantly trying to better myself and reach my goals.
-
-Greater in amount or quantity
-?
->[!vocab]- better(adjective)
->**Translations**: gut, schön, brav
->**Pronunciation**: [ˈbeɾə]
->**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/75/755f85c2723bb39381c7379a604160d8-300.mp3" type="audio/mpeg">Unsupported.</audio>
->>[!example]+ Examples
->>- Every town should have a good restaurant.
->>- Good wine needs to mellow.
->>- I wish you a good flight.
->>- Greetings! Good to see you!
->>- My daughter promised to be a good girl.
-
-Accurately, competently, satisfactorily., Completely, fully., To a significant degree.
-?
->[!vocab]- better(adverb)
->**Translations**: gut, schön, brav
->**Pronunciation**: [ˈbeɾə]
->**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/75/755f85c2723bb39381c7379a604160d8-300.mp3" type="audio/mpeg">Unsupported.</audio>
->>[!example]+ Examples
->>- Every town should have a good restaurant.
->>- Good wine needs to mellow.
->>- I wish you a good flight.
->>- Greetings! Good to see you!
->>- My daughter promised to be a good girl.
 
 The quality of speaking or stating the truth; truthfulness., Something that is true; a truthful statement; a truth., Agreement with the facts; accordance with the truth; accuracy or precision.
 ?
@@ -395,6 +342,7 @@ Something qualitative.
 >[!vocab]- qualitative(noun)
 >**Translations**: qualitatively
 >**Pronunciation**: /ˈkwɒl.ɪ.tə.tɪv/
+<!--SR:!2025-04-26,3,236-->
 
 Of descriptions or distinctions based on some quality rather than on some quantity., Of a form of analysis that yields the identity of a compound.
 ?
@@ -446,6 +394,7 @@ To move, go, or proceed forward; to advance., To improve; to become better or mo
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/3c/3c709b10a5d47ba33d85337dd9110917-200.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- Medicine has progressed a lot thanks to technology.
+<!--SR:!2025-04-26,3,236-->
 
 Of speech or style: brief, concise, to the point., Of manner or speech: abruptly or brusquely short; curt., Burnished, polished; fine, smooth; neat, spruce.
 ?
@@ -559,6 +508,7 @@ Something that impedes, stands in the way of, or holds up progress
 >>- Obstacles on the track can cause an obstruction.
 >>- They have successfully overcome the last obstacle.
 >>- If she wants to attend the class, the cost should not be an obstacle.
+<!--SR:!2025-04-25,2,216-->
 
 To draw conclusions from examining; to assess., To compute or determine the value of ., To return or have a specific value.
 ?
@@ -585,6 +535,7 @@ An artificial barrier, variously constructed, over which athletes or horses jump
 >>- The runner cleared all hurdles successfully.
 >>- The athlete jumped over all hurdles and finished the race successfully.
 >>- There are many hurdles on the road to success.
+<!--SR:!2025-04-24,1,196-->
 
 To jump over something while running., To compete in the track and field events of hurdles ., To overcome an obstacle.
 ?
@@ -595,4 +546,160 @@ To jump over something while running., To compete in the track and field events 
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/1d/1dcaec09256b47c80b4bb53fe21527b9-200.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- Decathletes must also hurdle.
+
+The playing of a game or games, including but not limited to video games and games of chance., Careful, strategic use of rules to achieve one's purposes, as one would use the rules of a game.
+?
+>[!vocab]- gaming(noun)
+>**Translations**: Spielen
+>**Pronunciation**: /ˈɡeɪmɪŋ/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/96/967ef2eb34634ba418db94dab610ba6f-100.mp3" type="audio/mpeg">Unsupported.</audio>
+
+To gamble., To play card games, board games, or video games., To exploit loopholes in a system or bureaucracy in a way which defeats or nullifies the spirit of the rules in effect, usually to obtain a result which otherwise would be unobtainable.
+?
+>[!vocab]- to game(verb)
+>**Translations**: manipulieren
+>**Pronunciation**: /ˈɡeɪmɪŋ/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/c8/c8d46d341bea4fd5bff866a65ff8aea9-200.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Tight security measures prevented him from gaming the system.
+
+
+To improve., To become better; to improve., To surpass in excellence; to exceed; to excel.
+?
+>[!vocab]- to better(verb)
+>**Translations**: besser werden, verbessern
+**Forms**: bettered, bettered
+>**Pronunciation**: [ˈbeɾə]
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/85/8518008e8835d42ddb7c83810b5cede0-200.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Luckily, the situation bettered.
+>>- I am constantly trying to better myself and reach my goals.
+
+Greater in amount or quantity
+?
+>[!vocab]- good(adjective)
+>**Translations**: gut, schön, brav
+>**Pronunciation**: [ˈbeɾə]
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/75/755f85c2723bb39381c7379a604160d8-300.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Every town should have a good restaurant.
+>>- Good wine needs to mellow.
+>>- I wish you a good flight.
+>>- Greetings! Good to see you!
+>>- My daughter promised to be a good girl.
+
+Accurately, competently, satisfactorily., Completely, fully., To a significant degree.
+?
+>[!vocab]- good(adverb)
+>**Translations**: gut, schön, brav
+>**Pronunciation**: [ˈbeɾə]
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/75/755f85c2723bb39381c7379a604160d8-300.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Every town should have a good restaurant.
+>>- Good wine needs to mellow.
+>>- I wish you a good flight.
+>>- Greetings! Good to see you!
+>>- My daughter promised to be a good girl.
+
+A hole sunk into the ground as a source of water, oil, natural gas or other fluids., A place where a liquid such as water surfaces naturally; a spring., A small depression suitable for holding liquid or other objects.
+?
+>[!vocab]- well(noun)
+>**Translations**: Brunnen, Quelle, Bohrloch
+**Forms**: plural: wells) (plural: Brunnen) (plural: Quellen
+>**Pronunciation**: /wɛl/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/f9/f9323f5b51fc23e30c10623bd38de6ff-100.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- The village inhabitants built a new well.
+>>- The village sources its drinking water from a well.
+
+To issue forth, as water from the earth; to flow; to spring., To have something seep out of the surface.
+?
+>[!vocab]- to well(verb)
+>**Translations**: quellen, sprudeln
+**Forms**: welled, welled
+>**Pronunciation**: /wɛl/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/f9/f9323f5b51fc23e30c10623bd38de6ff-200.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- In the mountains, water wells out of the earth in many spots.
+
+In good health., Good, content., Prudent; good; well-advised.
+?
+>[!vocab]- well(adjective)
+>**Translations**: gesund
+>**Pronunciation**: /wɛl/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/f9/f9323f5b51fc23e30c10623bd38de6ff-300.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- I was ill last week but now I am well again.
+
+Accurately, competently, satisfactorily., Completely, fully., To a significant degree.
+?
+>[!vocab]- well(adverb)
+>**Translations**: gut, wohl, sehr
+>**Pronunciation**: /wɛl/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/f9/f9323f5b51fc23e30c10623bd38de6ff-400.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- She slept well in the comfortable bed.
+>>- I hope you are doing well.
+
+The forces or behaviours that are the enemy of evil. Usually consists of helping others and general benevolence., A result that is positive in the view of the speaker., The abstract instantiation of goodness; that which possesses desirable qualities, promotes success, welfare, or happiness, is serviceable, fit, excellent, kind, benevolent, etc.
+?
+>[!vocab]- good(noun)
+>**Translations**: Gute, Gut, Heil
+>**Pronunciation**: /ɡʊ(d)/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/75/755f85c2723bb39381c7379a604160d8-100.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- The goods were transported by ship.
+
+To thrive; fatten; prosper; improve., To make good; turn to good; improve., To make improvements or repairs.
+?
+>[!vocab]- to good(verb)
+>**Translations**: gut, schön, brav
+>**Pronunciation**: /ɡʊ(d)/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/75/755f85c2723bb39381c7379a604160d8-300.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Every town should have a good restaurant.
+>>- Good wine needs to mellow.
+>>- I wish you a good flight.
+>>- Greetings! Good to see you!
+>>- My daughter promised to be a good girl.
+
+, , 
+?
+>[!vocab]- good(adjective)
+>**Translations**: gut, schön, brav
+>**Pronunciation**: /ɡʊ(d)/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/75/755f85c2723bb39381c7379a604160d8-300.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Every town should have a good restaurant.
+>>- Good wine needs to mellow.
+>>- I wish you a good flight.
+>>- Greetings! Good to see you!
+>>- My daughter promised to be a good girl.
+
+Well; satisfactorily or thoroughly.
+?
+>[!vocab]- good(adverb)
+>**Translations**: gut, schön, brav
+>**Pronunciation**: /ɡʊ(d)/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/75/755f85c2723bb39381c7379a604160d8-300.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Every town should have a good restaurant.
+>>- Good wine needs to mellow.
+>>- I wish you a good flight.
+>>- Greetings! Good to see you!
+>>- My daughter promised to be a good girl.
+
+Victory gained through combat; the subjugation of an enemy., An act or instance of overcoming an obstacle., That which is conquered; possession gained by force, physical or moral.
+?
+>[!vocab]- conquest(noun)
+>**Translations**: Eroberung, Bezwingung, Überwindung
+>**Pronunciation**: /ˈkɒŋkwəst/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/97/979e57d16f8271c1924039307f981e66-100.mp3" type="audio/mpeg">Unsupported.</audio>
+
+To conquer., To compete with an established competitor by placing advertisements for one's own products adjacent to editorial content relating to the competitor or by using terms and keywords for one's own products that are currently associated with the competitor.
+?
+>[!vocab]- to conquest(verb)
+>**Translations**: Eroberung, Bezwingung, Überwindung
+>**Pronunciation**: /ˈkɒŋkwəst/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/97/979e57d16f8271c1924039307f981e66-100.mp3" type="audio/mpeg">Unsupported.</audio>
 

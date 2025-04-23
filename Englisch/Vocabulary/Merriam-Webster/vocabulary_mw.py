@@ -26,14 +26,10 @@ for _ in range(20):
 dict_api_key = getenv("DICT_API_KEY")
 in_filepath = "wordlist_mw.md"
 out_filepath = "vocabulary_mw.md"
-words_per_execution = 20
+words_per_execution = 5
 max_num_translations = 3
 if not dict_api_key:
     raise ValueError("API key not found. Please set API_KEY in .env file.")
-
-
-dictionary_base_url = "https://dictionaryapi.com/api/v3/references/collegiate/json/"
-thesaurus_base_url = "https://dictionaryapi.com/api/v3/references/thesaurus/json/"
 
 
 def request(url):
@@ -80,6 +76,7 @@ def process_linguee(data, word, pos):
             data = entry
             break
 
+    info["word"] = entry.get("text", "N/A")
     # audio file
     audios = entry.get("audio_links", [])
     if not audios:
@@ -106,132 +103,12 @@ def process_linguee(data, word, pos):
     return info
 
 
-def process_mw(data, word, pos, num_definitions=3):
-    """extracts data from json into dict"""
-    if not data:
-        print(" -> No data was received.")
-        raise ValueError("Data is empty.")
-
-    entry = data[0]
-
-    if not isinstance(entry, dict):
-        print(" -> Not found.")
-        return entry  # return suggested word
-
-    entry = get_chosen_entry(data, pos)
-    if not entry:
-        print(" -> Not found.")
-        return None
-
-    raw_id = entry["meta"]["id"]
-    word_from_data = raw_id.split(":")[0] if ":" in raw_id else raw_id
-
-    if word != word_from_data:
-        print(f'Changed "{word}" to "{word_from_data}"')
-        word = word_from_data
-
-    # Definition
-    definitions = entry.get("shortdef", ["N/A"])[:num_definitions]
-    for i in range(len(definitions)):
-        if ":" in definitions[i]:
-            parts = definitions[i].split(":")
-            definitions[i] = parts[0] + "(" + parts[1][1:] + ")"
-        elif "—" in definitions[i]:
-            parts = definitions[i].split("—")
-            definitions[i] = parts[0] + "(" + parts[1] + ")"
-
-    # Pronunciation
-    pronunciation = entry.get("hwi", {}).get("prs", [{}])[0].get("mw", "")
-
-    # Examples
-    try:
-        examples = (
-            entry.get("def", [])[0]
-            .get("sseq", "")[0][0][1]
-            .get("dt", "")[1][1][0]
-            .get("t", "")
-        )
-        # remove any format specifiers
-        examples = sub(r"\{[^}]*\}", "", examples)
-    except (AttributeError, IndexError):
-        examples = ""
-
-    # inflections
-    inflections = ""
-    for elem in entry.get("ins", []):
-        connector = elem.get("il", None)
-        if connector:
-            inflections += " " + connector + " "
-        else:
-            inflections += ", "
-        form = elem.get("if", None)
-        if form:
-            inflections += form.replace("*", "")
-    inflections = inflections.split(", ")
-    inflections.remove("")
-
-    # Group all information
-    word_info = {
-        "word": word,
-        "part_of_speech": entry.get("fl", "N/A"),
-        "definition": definitions,
-        "examples": examples,
-        "pronunciation": pronunciation,
-        "inflections": inflections,
-    }
-    return word_info
-
-
 def url(dict, word):
     match dict:
-        case "mw":
-            return dictionary_base_url + word + "?key=" + dict_api_key
         case "api":
             return "https://api.dictionaryapi.dev/api/v2/entries/en/" + word
         case "linguee":
             return f"http://127.0.0.1:8000/api/v2/translations?query={word}&src=en&dst=de&guess_direction=false&follow_corrections=always"
-
-
-def get_word_info(word):
-    parts_of_speech = [
-        "noun",
-        "verb",
-        "adjective",
-        "adverb",
-        "pronoun",
-        "preposition",
-        "conjunction",
-    ]
-
-    result = []
-
-    try:
-        data = request(url("mw", word))
-    except ValueError as e:
-        print("ValueError: ", e)
-        print("Request failed.")
-        return None
-    print("Successfully completed request.\n")
-    for pos in parts_of_speech:
-        # requesting data
-        print(f'Looking up "{word}" as a {pos}', end="")
-
-        # processing data
-        try:
-            info = process_mw(data, word, pos=pos)
-        except ValueError as e:
-            print("\nValueError: ", e)
-            return None
-        if isinstance(info, str):
-            print(" -> No dictionary entry found.")
-            continue
-        if info is None:
-            continue
-        if not isinstance(info, dict):
-            raise ValueError("Unknown return type of process_data()")
-        result.append(info)
-        print(" -> Success")
-    return result
 
 
 def format_to_flashcard(word):
@@ -307,7 +184,6 @@ def get_words(amount):
 
 def process_dictapi(data, word, pos):
     info = {}
-    info["word"] = word
     info["definition"] = []
     for entry in data:
         meaning_entry = {}
@@ -365,7 +241,7 @@ def main():
             continue
         for pos in parts_of_speech:
             lin_info = process_linguee(lin_data, word, pos)
-            api_info = process_dictapi(api_data, word, pos)
+            api_info = process_dictapi(api_data, lin_info["word"], pos)
             info = merge(lin_info, api_info, pos)
             if info:
                 flashcards.append(format_to_flashcard(info))
