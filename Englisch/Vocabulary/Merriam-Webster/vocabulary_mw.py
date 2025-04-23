@@ -1,63 +1,62 @@
-from os import getenv
 import signal
 import subprocess
 from re import sub
 from time import sleep
 
-from dotenv import load_dotenv
-from requests import get, ConnectionError
+from requests import ConnectionError, get
 
-load_dotenv()
 
 # start server
-proc = subprocess.Popen(
-    ["uvicorn", "linguee_api.api:app"],
-    stdout=subprocess.DEVNULL,
-    stderr=subprocess.DEVNULL,
-)
-# wait for server to start
-for _ in range(20):
-    try:
-        get("http://127.0.0.1:8000")  # adjust to actual endpoint
-        break
-    except ConnectionError:
-        sleep(0.2)
+def start_server():
+    proc = subprocess.Popen(
+        ["uvicorn", "linguee_api.api:app"],
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL,
+    )
+    # wait for server to start
+    for _ in range(20):
+        try:
+            get("http://127.0.0.1:8000")
+            print("Server is running...")
+            break
+        except ConnectionError:
+            sleep(0.2)
+    return proc
 
-dict_api_key = getenv("DICT_API_KEY")
+
+def stop_server(server):
+    server.send_signal(signal.SIGINT)  # send SIGINT to stop uvicorn gracefully
+    server.wait()
+
+
 in_filepath = "wordlist_mw.md"
 out_filepath = "vocabulary_mw.md"
 words_per_execution = 30
 max_num_translations = 3
-if not dict_api_key:
-    raise ValueError("API key not found. Please set API_KEY in .env file.")
 
 
 def request(url):
-    """requests data from the provided url, returns json()"""
-    response = None
-    while not response:
+    while True:
         print(f"Trying to reach {url}")
-        response = get(url)
+        try:
+            response = get(url)
+        except ConnectionError:
+            print("Connection failed. Retrying in 5 seconds.")
+            sleep(5)
+            continue
         if response.status_code == 404:
             return None
-        if response.status_code != 200:
-            print(f"Request failed: Status Code <{response.status_code}>.")
-            response = None
-            print("Waiting for 5 seconds.")
-            sleep(5)
-
+        if response.status_code == 200:
+            break
+        print(f"Request failed: Status Code <{response.status_code}>.")
+        sleep(5)
     try:
-        data = response.json()
+        return response.json()
     except ValueError as e:
-        print("----")
         print("Failed to parse JSON:", e)
         print("URL: ", url)
         print("DATA: ", response.text)
-        print("----")
         raise e
-
-    print("Data has been received.")
-    return data
 
 
 def get_chosen_entry(data, pos):
@@ -124,22 +123,15 @@ def format_to_flashcard(word):
     line.append(
         ">**Translations**: " + ", ".join(word["translation"][:num_translations])
     )
-    try:
+    if "forms" in word:
         forms = word["forms"]
         line.append("**Forms**: " + ", ".join(forms))
-    except KeyError:
-        pass
-    try:
+    if "phonetic" in word:
         line.append(">**Pronunciation**: " + word["phonetic"])
-    except KeyError:
-        pass
-    try:
+    if "audio_british" in word:
         link = word["audio_british"]
         audio_lin_be = f'<audio controls><source src="{link}" type="audio/mpeg">Unsupported.</audio>'
         line.append(">**Audio**: " + audio_lin_be)
-    except KeyError:
-        pass
-
     try:
         if word["examples"] != []:
             line.append(">>[!example]+ Examples")
@@ -204,32 +196,16 @@ def process_dictapi(data, word, pos):
 
 
 def merge(data1, data2, pos):
-    master = {"pos": pos}
-    for key, value in data1.items():
-        master[key] = value
-        # add_to_master(master, (key, value))
-    for key, value in data2.items():
-        master[key] = value
-        # add_to_master(master, (key, value))
-    if master["definition"] != []:
-        return master
-    return None
+    master = {"pos": pos, **data1, **data2}
+    return master if master.get("definition") else None
 
 
 def main():
+    proc = start_server()
     words = get_words(words_per_execution)
-    parts_of_speech = [
-        "noun",
-        "verb",
-        "adjective",
-        "adverb",
-        "pronoun",
-        "preposition",
-        "conjunction",
-    ]
     flashcards = []
     for word in words:
-        delay = 5
+        delay = 1
         if delay != 0:
             print(f"Waiting for {delay} seconds.")
         sleep(delay)
@@ -245,8 +221,8 @@ def main():
         if info:
             flashcards.append(format_to_flashcard(info))
     checkout(flashcards)
+    stop_server(proc)
 
 
-main()
-proc.send_signal(signal.SIGINT)  # send SIGINT to stop uvicorn gracefully
-proc.wait()
+if __name__ == "__main__":
+    main()
