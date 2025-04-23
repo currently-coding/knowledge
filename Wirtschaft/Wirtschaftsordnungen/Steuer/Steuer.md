@@ -1,5 +1,6 @@
 >[!Definition]
 >Steuern := Geldleistungen eines Bürgers an den Staat, **ohne** dass dieser einen Anspruch auf eine **direkte Gegenleistung** hat
+<!--SR:!2025-04-26,3,230-->
 
 ## Funktionen
 ### Umverteilungsfunktion
