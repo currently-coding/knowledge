@@ -2,8 +2,8 @@
   "dualConfigs": false,
   "showConsoleLog": false,
   "desktop": {
-    "shortDelaySeconds": 5,
-    "longDelaySeconds": 15,
+    "shortDelaySeconds": 3,
+    "longDelaySeconds": 8,
     "delayBetweenPlugins": 40,
     "defaultStartupType": null,
     "showDescriptions": true,
@@ -13,19 +13,19 @@
         "startupType": "disabled"
       },
       "callout-copy-buttons": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "chem": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "dataview": {
         "startupType": "instant"
       },
       "obsidian-day-planner": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "folder-notes": {
         "startupType": "instant"
@@ -43,7 +43,7 @@
         "startupType": "instant"
       },
       "pdf-plus": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-relative-line-numbers": {
         "startupType": "instant"
@@ -61,10 +61,10 @@
         "startupType": "instant"
       },
       "obsidian-wikipedia": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-desmos": {
-        "startupType": "instant"
+        "startupType": "short"
       }
     },
     "loadOrder": []

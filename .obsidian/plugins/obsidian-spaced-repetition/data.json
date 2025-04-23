@@ -6,7 +6,7 @@
     "convertFoldersToDecks": true,
     "burySiblingCards": true,
     "randomizeCardOrder": null,
-    "flashcardCardOrder": "DueFirstSequential",
+    "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,

@@ -1,11 +1,27 @@
 from os import getenv
+import signal
+import subprocess
 from re import sub
 from time import sleep
 
 from dotenv import load_dotenv
-from requests import get
+from requests import get, ConnectionError
 
 load_dotenv()
+
+# start server
+proc = subprocess.Popen(
+    ["uvicorn", "linguee_api.api:app"],
+    stdout=subprocess.DEVNULL,
+    stderr=subprocess.DEVNULL,
+)
+# wait for server to start
+for _ in range(20):
+    try:
+        get("http://127.0.0.1:8000")  # adjust to actual endpoint
+        break
+    except ConnectionError:
+        sleep(0.2)
 
 dict_api_key = getenv("DICT_API_KEY")
 in_filepath = "wordlist_mw.md"
@@ -44,6 +60,7 @@ def request(url):
         print("----")
         raise e
 
+    print("Data has been received.")
     return data
 
 
@@ -172,7 +189,7 @@ def url(dict, word):
         case "api":
             return "https://api.dictionaryapi.dev/api/v2/entries/en/" + word
         case "linguee":
-            return f"https://linguee-api.fly.dev/api/v2/translations?query={word}&src=en&dst=de&guess_direction=false&follow_corrections=always"
+            return f"http://127.0.0.1:8000/api/v2/translations?query={word}&src=en&dst=de&guess_direction=false&follow_corrections=always"
 
 
 def get_word_info(word):
@@ -337,8 +354,9 @@ def main():
     ]
     flashcards = []
     for word in words:
-        delay = 0.5
-        print(f"Waiting for {delay} seconds.")
+        delay = 0
+        if delay != 0:
+            print(f"Waiting for {delay} seconds.")
         sleep(delay)
         lin_data = request(url("linguee", word))
         api_data = request(url("api", word))
@@ -355,3 +373,5 @@ def main():
 
 
 main()
+proc.send_signal(signal.SIGINT)  # send SIGINT to stop uvicorn gracefully
+proc.wait()
