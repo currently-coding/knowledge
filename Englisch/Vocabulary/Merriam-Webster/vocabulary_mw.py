@@ -26,7 +26,7 @@ for _ in range(20):
 dict_api_key = getenv("DICT_API_KEY")
 in_filepath = "wordlist_mw.md"
 out_filepath = "vocabulary_mw.md"
-words_per_execution = 5
+words_per_execution = 30
 max_num_translations = 3
 if not dict_api_key:
     raise ValueError("API key not found. Please set API_KEY in .env file.")
@@ -68,13 +68,11 @@ def get_chosen_entry(data, pos):
     return None
 
 
-def process_linguee(data, word, pos):
+def process_linguee(data, word):
     info = {}
     entry = {}
-    for entry in data:
-        if entry.get("pos", "") == pos:
-            data = entry
-            break
+    entry = data[0]
+    info["pos"] = entry.get("pos", "")
 
     info["word"] = entry.get("text", "N/A")
     # audio file
@@ -200,7 +198,8 @@ def process_dictapi(data, word, pos):
             if not defi:
                 continue
             defi = sub(r"\(.*?\)", "", defi).strip()
-            info["definition"].append(defi)
+            if defi != "":
+                info["definition"].append(defi)
     return info
 
 
@@ -230,7 +229,7 @@ def main():
     ]
     flashcards = []
     for word in words:
-        delay = 0
+        delay = 5
         if delay != 0:
             print(f"Waiting for {delay} seconds.")
         sleep(delay)
@@ -239,12 +238,12 @@ def main():
         if not lin_data or not api_data:
             print(f'Failed to retrieve information for "{word}" -> Skipped.')
             continue
-        for pos in parts_of_speech:
-            lin_info = process_linguee(lin_data, word, pos)
-            api_info = process_dictapi(api_data, lin_info["word"], pos)
-            info = merge(lin_info, api_info, pos)
-            if info:
-                flashcards.append(format_to_flashcard(info))
+        lin_info = process_linguee(lin_data, word)
+        pos = lin_info["pos"]
+        api_info = process_dictapi(api_data, lin_info["word"], pos)
+        info = merge(lin_info, api_info, pos)
+        if info:
+            flashcards.append(format_to_flashcard(info))
     checkout(flashcards)
 
 
