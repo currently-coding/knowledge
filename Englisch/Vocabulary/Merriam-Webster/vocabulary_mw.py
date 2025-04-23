@@ -2,15 +2,16 @@ from os import getenv
 from re import sub
 from time import sleep
 
-from requests import get
 from dotenv import load_dotenv
+from requests import get
 
 load_dotenv()
 
 dict_api_key = getenv("DICT_API_KEY")
 in_filepath = "wordlist_mw.md"
 out_filepath = "vocabulary_mw.md"
-words_per_execution = 2
+words_per_execution = 1
+max_num_translations = 3
 if not dict_api_key:
     raise ValueError("API key not found. Please set API_KEY in .env file.")
 
@@ -23,7 +24,7 @@ def request(url):
     """requests data from the provided url, returns json()"""
     response = None
     while not response:
-        print(f'Trying to reach {url}...')
+        print(f"Trying to reach {url}")
         response = get(url)
         if response.status_code != 200:
             print(f"Request failed: Status Code <{response.status_code}>.")
@@ -52,8 +53,38 @@ def get_chosen_entry(data, pos):
     return None
 
 
-def process_linguee(data, word, pos, num_definitions=3):
-    print(data)
+def process_linguee(data, word, pos):
+    info = {}
+    entry = {}
+    for entry in data:
+        if entry.get("pos", "") == pos:
+            data = entry
+            break
+
+    # audio file
+    audios = entry.get("audio_links", [])
+    for audio in audios:
+        if audio.get("lang", "") == "British English":
+            info["audio_british"] = audio.get("url")  # link is fine
+            print("LINK: BE: G: ", info["audio_british"])
+        elif audio.get("lang", "") == "American English":
+            info["audio_american"] = audio.get("url")
+    print("LINK: BE: PLA: ", info["audio_british"])
+    forms = entry.get("forms", [])
+    if forms:
+        info["forms"] = []
+    for form in forms:
+        info["forms"].append(form)
+
+    # translation
+    info["translation"] = []
+    info["examples"] = []
+    for trans in entry.get("translations", []):
+        info["translation"].append(trans.get("text", ""))
+        for ex in trans.get("examples", []):
+            info["examples"].append(ex.get("src", ""))
+    print("LINK: BE: PLE: ", info["audio_british"])
+    return info
 
 
 def process_mw(data, word, pos, num_definitions=3):
@@ -114,7 +145,11 @@ def process_mw(data, word, pos, num_definitions=3):
             inflections += " " + connector + " "
         else:
             inflections += ", "
-        inflections += elem.get("if", "").replace("*", "")
+        form = elem.get("if", None)
+        if form:
+            inflections += form.replace("*", "")
+    inflections = inflections.split(", ")
+    inflections.remove("")
 
     # Group all information
     word_info = {
@@ -128,16 +163,14 @@ def process_mw(data, word, pos, num_definitions=3):
     return word_info
 
 
-def mw_url(word):
-    return dictionary_base_url + word + "?key=" + dict_api_key
-
-
-def dict_api_url(word):
-    return "https://api.dictionaryapi.dev/api/v2/entries/en/" + word
-
-
-def linguee_url(word):
-    return f'https://linguee-api.fly.dev/api/v2/translations?query={word}&src=en&dst=de&guess_direction=false&follow_corrections=always'
+def url(dict, word):
+    match dict:
+        case "mw":
+            return dictionary_base_url + word + "?key=" + dict_api_key
+        case "api":
+            return "https://api.dictionaryapi.dev/api/v2/entries/en/" + word
+        case "linguee":
+            return f"https://linguee-api.fly.dev/api/v2/translations?query={word}&src=en&dst=de&guess_direction=false&follow_corrections=always"
 
 
 def get_word_info(word):
@@ -154,7 +187,7 @@ def get_word_info(word):
     result = []
 
     try:
-        data = request(mw_url(word))
+        data = request(url("mw", word))
     except ValueError as e:
         print("ValueError: ", e)
         print("Request failed.")
@@ -182,30 +215,31 @@ def get_word_info(word):
     return result
 
 
-def format_to_flashcard(wordlist):
-    separator = "\n?\n"
-    lines = []
-    for word in wordlist:
-        # Example line
-        # <definition>
-        # >[!]
-        if word["part_of_speech"] == "verb":
-            word["word"] = "to " + word["word"]
-        line = ""
-        line += ", ".join(word["definition"])
-        line += separator
-        line += ">[!vocab]- " + word["word"] + \
-            "(" + word["part_of_speech"] + ")"
-        if word["inflections"] != "":
-            line += "\n**Inflections**: " + word["word"] + word["inflections"]
-        if word["pronunciation"] != "":
-            line += "\n**Pronunciation**: " + word["pronunciation"]
-        if word["examples"] != "":
-            line += "\n**Examples**: " + word["examples"]
-        line += "\n"
+def format_to_flashcard(word):
+    separator = "?"
+    num_examples = 5
+    line = []
+    definition = ", ".join(word["definition"])
+    line.append(definition)
+    line.append(separator)
+    line.append(">[!vocab]- " + word["word"] + "(" + word["pos"])
+    link = word["audio_british"]
+    print("LINK: BE2: ", link)  # link is not fine
+    audio = f'<audio controls > <source src ="{link}" type ="audio/mpeg"> Your browser does not support the audio element.</audio>'
+    line.append(">**Audio**: " + audio)
 
-        lines.append(line)
-    return lines
+    line.append(">>[!Examples]-")
+    for n in range(num_examples):
+        if n >= len(word["examples"]):
+            break
+        line.append(">>- " + word["examples"][n])
+    for key, value in word.items():
+        if key not in ["word", "pos", "examples", "audio_british", "audio_american"]:
+            if isinstance(value, list):
+                value = ", ".join(value)
+            line.insert(3, ">**" + key + "**: " + value)
+    line = "\n".join(line)
+    return line
 
 
 def checkout(lines):
@@ -235,32 +269,66 @@ def get_words(amount):
     return words
 
 
-def create_flashcard(word):
-    data = get_word_info(word)
-    lines = format_to_flashcard(data)
-    return lines
+def process_dictapi(data, word, pos):
+    info = {}
+    info["word"] = word
+    info["definition"] = []
+    for entry in data:
+        meaning_entry = {}
+        for m in entry.get("meanings", []):
+            if m.get("partOfSpeech", "") == pos:
+                meaning_entry = m
+                break
+
+        phonetic = entry.get("phonetic", None)
+        if phonetic:
+            info["phonetic"] = phonetic
+        for definition in meaning_entry.get("definitions", []):
+            defi = definition.get("definition", None)
+            if not defi:
+                continue
+            defi = sub(r"\(.*?\)", "", defi).strip()
+            info["definition"].append(defi)
+    return info
+
+
+def merge(data1, data2, pos):
+    master = {"pos": pos}
+    for key, value in data1.items():
+        master[key] = value
+        # add_to_master(master, (key, value))
+    for key, value in data2.items():
+        master[key] = value
+        # add_to_master(master, (key, value))
+    if master["definition"] != []:
+        return master
+    return None
 
 
 def main():
     words = get_words(words_per_execution)
+    parts_of_speech = [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb",
+        "pronoun",
+        "preposition",
+        "conjunction",
+    ]
     flashcards = []
     for word in words:
-        print(f"Processing word {word}...")
-        lines = create_flashcard(word)
-        for line in lines:
-            flashcards.append(line)
-        print(f"Processed word {word} successfully.")
-        print("---\n")
-    checkout(flashcards)
+        lin_data = request(url("linguee", word))
+        api_data = request(url("api", word))
+        for pos in parts_of_speech:
+            lin_info = process_linguee(lin_data, word, pos)
+            api_info = process_dictapi(api_data, word, pos)
+            info = merge(lin_info, api_info, pos)
+            if info:
+                flashcards.append(format_to_flashcard(info))
+    # checkout(flashcards)
+    for flashcard in flashcards:
+        print(flashcard)
 
 
-# main()
-
-data = request(linguee_url("greeting"))
-info = process_linguee(data, "to skate", "verb")
-
-
-# TODO:
-# get all data from linguee
-# get all data from dictionaryapi.dev
-# compare and eval
+main()

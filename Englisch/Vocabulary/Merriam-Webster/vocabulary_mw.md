@@ -138,3 +138,47 @@ to look over again in order to correct or improve, to study again (review), to m
 **Pronunciation**: ri-ˈvīz
 **Examples**: revise a manuscript
 
+<audio controls><source src="https://assets.linguee.com/static/current-release/mp3/EN_US/a8/a8982eb2a988054aa4d8d792dd074cca-100.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
+
+
+>[!vocab]- to catch(verb)
+>phonetic
+>>[!examples]- Examples
+>>1
+>>2
+>
+>forms
+
+<br></br>
+?
+<br></br>>[!vocab] allegory(conjunction<br></br>>**phonetic**: /ˈæl.ɘˌɡoʊɹ.i/<br></br>>**definition**: <br></br>>**translation**: Allegorie, S
+innbild, Gleichnis, sinnbildliche Darstellung<br></br>>**audio_american**: https://www.linguee.com/mp3/https://assets.linguee.com/static/a647f
+caf/mp3/EN_US/83/83f106e9c3d4af6b9986e8a44b5fd223-100.mp3<br></br>>**audio_british**: https://www.linguee.com/mp3/https://assets.linguee.com/s
+tatic/a647fcaf/mp3/EN_UK/83/83f106e9c3d4af6b9986e8a44b5fd223-100.mp3<br></br>>>[!Examples]<br></br>- The teacher used an allegory to illustrat
+e a complex concept.
+
+
+dictapi
+?
+>[!vocab]- piquant(noun
+>**phonetic**: /piːˈkɑːnt/
+>**definition**: dictapi
+>**translation**: pikant
+**Audio**: <audio controls > <source src ="https://www.linguee.com/mp3/https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/2b/2b6f1d72d4c188265bd56df948680372-300.mp3" type ="audio/mpeg"> Your browser does not support the audio element.</audio>
+>>[!example]- Examples
+>>- The dish is piquant, but not too spicy.
+
+
+
+dictapi
+?
+>[!vocab]- piquant(conjunction
+>**phonetic**: /piːˈkɑːnt/
+>**definition**: dictapi
+>**translation**: pikant
+**Audio**: <audio controls > <source src ="https://www.linguee.com/mp3/https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/2b/2b6f1d72d4c1882
+65bd56df948680372-300.mp3" type ="audio/mpeg"> Your browser does not support the audio element.</audio>
+>>[!Examples]-
+>>- The dish is piquant, but not too spicy.
+
+
