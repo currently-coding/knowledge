@@ -10,7 +10,7 @@ load_dotenv()
 dict_api_key = getenv("DICT_API_KEY")
 in_filepath = "wordlist_mw.md"
 out_filepath = "vocabulary_mw.md"
-words_per_execution = 1
+words_per_execution = 20
 max_num_translations = 3
 if not dict_api_key:
     raise ValueError("API key not found. Please set API_KEY in .env file.")
@@ -26,6 +26,8 @@ def request(url):
     while not response:
         print(f"Trying to reach {url}")
         response = get(url)
+        if response.status_code == 404:
+            return None
         if response.status_code != 200:
             print(f"Request failed: Status Code <{response.status_code}>.")
             response = None
@@ -63,13 +65,14 @@ def process_linguee(data, word, pos):
 
     # audio file
     audios = entry.get("audio_links", [])
+    if not audios:
+        audios = []
     for audio in audios:
+        to_remove = "https://www.linguee.com/mp3/"
         if audio.get("lang", "") == "British English":
-            info["audio_british"] = audio.get("url")  # link is fine
-            print("LINK: BE: G: ", info["audio_british"])
+            info["audio_british"] = audio.get("url").replace(to_remove, "")
         elif audio.get("lang", "") == "American English":
-            info["audio_american"] = audio.get("url")
-    print("LINK: BE: PLA: ", info["audio_british"])
+            info["audio_american"] = audio.get("url").replace(to_remove, "")
     forms = entry.get("forms", [])
     if forms:
         info["forms"] = []
@@ -83,7 +86,6 @@ def process_linguee(data, word, pos):
         info["translation"].append(trans.get("text", ""))
         for ex in trans.get("examples", []):
             info["examples"].append(ex.get("src", ""))
-    print("LINK: BE: PLE: ", info["audio_british"])
     return info
 
 
@@ -218,37 +220,54 @@ def get_word_info(word):
 def format_to_flashcard(word):
     separator = "?"
     num_examples = 5
+    num_definitions = 3
+    num_translations = 3
     line = []
-    definition = ", ".join(word["definition"])
+    if word["pos"] == "verb":
+        word["word"] = "to " + word["word"]
+    definition = ", ".join(word["definition"][:num_definitions])
     line.append(definition)
     line.append(separator)
-    line.append(">[!vocab]- " + word["word"] + "(" + word["pos"])
-    link = word["audio_british"]
-    print("LINK: BE2: ", link)  # link is not fine
-    audio = f'<audio controls > <source src ="{link}" type ="audio/mpeg"> Your browser does not support the audio element.</audio>'
-    line.append(">**Audio**: " + audio)
+    line.append(">[!vocab]- " + word["word"] + "(" + word["pos"] + ")")
+    line.append(
+        ">**Translations**: " + ", ".join(word["translation"][:num_translations])
+    )
+    try:
+        forms = word["forms"]
+        line.append("**Forms**: " + ", ".join(forms))
+    except KeyError:
+        pass
+    try:
+        line.append(">**Pronunciation**: " + word["phonetic"])
+    except KeyError:
+        pass
+    try:
+        link = word["audio_british"]
+        audio_lin_be = f'<audio controls><source src="{link}" type="audio/mpeg">Unsupported.</audio>'
+        line.append(">**Audio**: " + audio_lin_be)
+    except KeyError:
+        pass
 
-    line.append(">>[!Examples]-")
-    for n in range(num_examples):
-        if n >= len(word["examples"]):
-            break
-        line.append(">>- " + word["examples"][n])
-    for key, value in word.items():
-        if key not in ["word", "pos", "examples", "audio_british", "audio_american"]:
-            if isinstance(value, list):
-                value = ", ".join(value)
-            line.insert(3, ">**" + key + "**: " + value)
-    line = "\n".join(line)
+    try:
+        if word["examples"] != []:
+            line.append(">>[!example]+ Examples")
+            for n in range(num_examples):
+                if n >= len(word["examples"]):
+                    break
+                line.append(">>- " + word["examples"][n])
+    except KeyError:
+        pass
+    line = "\n".join(line) + "\n"
     return line
 
 
 def checkout(lines):
     with open(out_filepath, "a") as f:
         print("Writing to output file...", end="")
-        f.write("\n".join(lines) + "\n")  # added newline for separation
+        for line in lines:
+            f.write(line)
+            f.write("\n")
         print(" -> Success")
-
-    lines = []
 
     print("Deleting words from input file...", end="")
     with open(in_filepath, "r") as fin:
@@ -318,17 +337,21 @@ def main():
     ]
     flashcards = []
     for word in words:
+        delay = 0.5
+        print(f"Waiting for {delay} seconds.")
+        sleep(delay)
         lin_data = request(url("linguee", word))
         api_data = request(url("api", word))
+        if not lin_data or not api_data:
+            print(f'Failed to retrieve information for "{word}" -> Skipped.')
+            continue
         for pos in parts_of_speech:
             lin_info = process_linguee(lin_data, word, pos)
             api_info = process_dictapi(api_data, word, pos)
             info = merge(lin_info, api_info, pos)
             if info:
                 flashcards.append(format_to_flashcard(info))
-    # checkout(flashcards)
-    for flashcard in flashcards:
-        print(flashcard)
+    checkout(flashcards)
 
 
 main()
