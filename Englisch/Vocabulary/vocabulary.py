@@ -2,13 +2,19 @@ import signal
 import subprocess
 from re import sub
 from time import sleep
-
 from requests import ConnectionError, get
 
 in_filepath = "wordlist_mw.md"
 out_filepath = "vocabulary_mw.md"
-words_per_execution = 30
+words_per_execution = 7
 max_num_translations = 3
+delay_per_request = 2
+
+# vars
+audio_british = "audio_british"
+audio_american = "audio_american"
+
+lin_base_url = "https://linguee-api.fly.dev"
 
 
 # start server
@@ -26,12 +32,15 @@ def start_server():
             break
         except ConnectionError:
             sleep(0.2)
+    lin_base_url = "http://127.0.0.1:8000"
     return proc
 
 
 def stop_server(server):
+    print("Shutting down server...", end="")
     server.send_signal(signal.SIGINT)  # send SIGINT to stop uvicorn gracefully
     server.wait()
+    print(" -> Success")
 
 
 def request(url):
@@ -80,9 +89,9 @@ def process_linguee(data, word):
     for audio in audios:
         to_remove = "https://www.linguee.com/mp3/"
         if audio.get("lang", "") == "British English":
-            info["audio_british"] = audio.get("url").replace(to_remove, "")
+            info[audio_british] = audio.get("url").replace(to_remove, "")
         elif audio.get("lang", "") == "American English":
-            info["audio_american"] = audio.get("url").replace(to_remove, "")
+            info[audio_american] = audio.get("url").replace(to_remove, "")
     forms = entry.get("forms", [])
     if forms:
         info["forms"] = []
@@ -99,12 +108,13 @@ def process_linguee(data, word):
     return info
 
 
-def url(dict, word):
-    match dict:
+def url(dictionary, word):
+    match dictionary:
         case "api":
             return "https://api.dictionaryapi.dev/api/v2/entries/en/" + word
         case "linguee":
-            return f"http://127.0.0.1:8000/api/v2/translations?query={word}&src=en&dst=de&guess_direction=false&follow_corrections=always"
+            lin_url = f"{lin_base_url}/api/v2/translations?query={word}&src=en&dst=de&guess_direction=false&follow_corrections=always"
+            return lin_url
 
 
 def format_to_flashcard(word):
@@ -188,7 +198,7 @@ def process_dictapi(data, word, pos):
             defi = definition.get("definition", None)
             if not defi:
                 continue
-            defi = sub(r"\(.*?\)", "", defi).strip()
+            defi = sub(r"\([^\s]*?\)", "", defi).strip()
             if defi != "":
                 info["definition"].append(defi)
     return info
@@ -196,18 +206,23 @@ def process_dictapi(data, word, pos):
 
 def merge(data1, data2, pos):
     master = {"pos": pos, **data1, **data2}
+    # each word must have a definition to be valid
     return master if master.get("definition") else None
 
 
 def main():
-    proc = start_server()
+    try:
+        proc = start_server()
+    except:
+        print('Setting up server failed.\nDefaulting to "https://linguee-api.fly.dev"')
+        pass
+
     words = get_words(words_per_execution)
     flashcards = []
     for word in words:
-        delay = 5
-        if delay != 0:
-            print(f"Waiting for {delay} seconds.")
-        sleep(delay)
+        if delay_per_request != 0:
+            print(f"Waiting for {delay_per_request} seconds.")
+        sleep(delay_per_request)
         lin_data = request(url("linguee", word))
         api_data = request(url("api", word))
         if not lin_data or not api_data:
@@ -216,11 +231,15 @@ def main():
         lin_info = process_linguee(lin_data, word)
         pos = lin_info["pos"]
         api_info = process_dictapi(api_data, lin_info["word"], pos)
+
         info = merge(lin_info, api_info, pos)
         if info:
             flashcards.append(format_to_flashcard(info))
     checkout(flashcards)
-    stop_server(proc)
+    try:
+        stop_server(proc)
+    except:
+        pass
 
 
 if __name__ == "__main__":

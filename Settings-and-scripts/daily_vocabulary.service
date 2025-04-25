@@ -1,10 +1,10 @@
 [Unit]
-Description=Run Python script daily
+Description=Creates new Vocabulary flashcards
 
 [Service]
 Type=simple
 WorkingDirectory=/home/me/Documents/knowledge/scripts
-ExecStart=/usr/bin/python3 ~/documents/knowledge/scripts/vocabulary.py
+ExecStart=/usr/bin/python3 ~/documents/knowledge/English/vocabulary/vocabulary_mw.py
 
 
 
@@ -14,15 +14,3 @@ Persistent=true             # To ensure the timer runs even if the system was of
 
 [Install]
 WantedBy=timers.target
-
-
-
-
-
-
-
-
-
-
-
-

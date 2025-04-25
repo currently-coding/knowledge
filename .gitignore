@@ -2,3 +2,4 @@
 .obsidian/graph.json
 .obsidian/plugins/size-history/data.json
 .env
+venv/

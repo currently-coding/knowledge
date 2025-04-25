@@ -1,35 +1,3 @@
-conscientious
-laconic
-utility
-insert
-fortuitous
-principal
-reassess
-put in context  
-balance
-riot
-serial
-clarify
-inculcate
-surgical
-pernicious
-apropos
-reliability  
-with this in mind
-freely
-jovial
-resolve
-assurance
-inflation
-turnout
-conclude
-heterodox
-remainder
-perceive
-dissonance
-immune
-judge
-stymie
 altruism
 martial
 proclaim

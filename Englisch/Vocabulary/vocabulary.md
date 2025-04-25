@@ -33,7 +33,7 @@ Serving, intended or wishing to protect
 >**Translations**: geschützt, schützend, protektiv
 >**Pronunciation**: /pɹoʊtɛktɪv/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/8d/8de0913c031da954e1eabeab2c555428-300.mp3" type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-04-25,2,216-->
+<!--SR:!2025-04-30,5,236-->
 
 To be equivalent or similar in character, quantity, quality, origin, structure, function etc., to exchange messages, especially by postal letter, over a period of time., To have sex with.
 ?
@@ -45,7 +45,7 @@ To be equivalent or similar in character, quantity, quality, origin, structure, 
 >>[!example]+ Examples
 >>- One kilo corresponds to about two pounds.
 >>- Our company's fiscal year corresponds to the calendar year.
-<!--SR:!2025-04-25,2,216-->
+<!--SR:!2025-04-29,4,216-->
 
 Seriousness in bearing or manner; dignity, Substance, weight
 ?
@@ -111,7 +111,7 @@ A competition to determine a champion, especially the final of a series of compe
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/01/01c81308522327b0b7ecdeb6bdc7bf9c-101.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- Many different teams competed in the championship.
-<!--SR:!2025-04-25,2,216-->
+<!--SR:!2025-04-30,5,236-->
 
 Inclined to waste resources or behave extravagantly., Immoral; abandoned to vice., Overthrown, ruined.
 ?
@@ -122,7 +122,7 @@ Inclined to waste resources or behave extravagantly., Immoral; abandoned to vice
 >>[!example]+ Examples
 >>- He should spend less money and not be so profligate.
 >>- She left her profligate life behind to become a better person.
-<!--SR:!2025-04-24,1,196-->
+<!--SR:!2025-04-26,1,176-->
 
 The quality of being brief in duration., Succinctness; conciseness., A short piece of writing.
 ?
@@ -160,7 +160,7 @@ A bad habit., Any of various crimes related  to prostitution, pornography, gambl
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/03/03f753c08ba5ff2bd7d2ee230b4683b1-100.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- Smoking can be a vice.
-<!--SR:!2025-04-24,1,196-->
+<!--SR:!2025-04-27,2,216-->
 
 The act or an instance of violating or the condition of being violated.
 ?
@@ -281,7 +281,7 @@ To act before , especially to prevent an action., To take up or introduce  prema
 >>- Product designers anticipate the needs of the customers.
 >>- You cannot anticipate every possible reaction to an act.
 >>- I anticipated my mother's reaction.
-<!--SR:!2025-04-24,1,196-->
+<!--SR:!2025-04-27,2,216-->
 
 A meaning of a word or phrase that is suggested or implied, as opposed to a denotation, or literal meaning. A characteristic of words or phrases, or of the contexts that words and phrases are used in., The attribute or aggregate of attributes connoted by a term, contrasted with denotation.
 ?
@@ -293,7 +293,7 @@ A meaning of a word or phrase that is suggested or implied, as opposed to a deno
 >>- Words can have different connotations.
 >>- The word she used had a positive connotation.
 >>- The connotation encompasses the different meanings of a word.
-<!--SR:!2025-04-25,2,216-->
+<!--SR:!2025-04-30,5,236-->
 
 To prove  to be false or incorrect., To deny the truth or correctness of .
 ?
@@ -834,4 +834,296 @@ The amount of money taken as sales transacted in a given period., The frequency 
 >>- The new manager was able to reduce staff turnover.
 >>- The new marketing campaign increased turnover.
 >>- Our turnover increased last year.
+
+Thorough, careful, or vigilant in one’s task performance., Influenced by conscience; governed by a strict regard to the dictates of conscience, or by the known or supposed rules of right and wrong .
+?
+>[!vocab]- conscientious(adjective)
+>**Translations**: gewissenhaft, verantwortungsbewusst, pflichtbewusst
+>**Pronunciation**: /ˌkɒnʃiˈɛnʃəs/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/f7/f70a24b160304466d687a730a133cc7a-300.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- My assistant is very conscientious and attentive.
+>>- They are looking for a conscientious babysitter.
+
+Using as few words as possible; pithy and concise.
+?
+>[!vocab]- laconic(adjective)
+>**Translations**: lakonisch, prägnant, knapp
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/d3/d34836636055093de27bb87aad3764d0-300.mp3" type="audio/mpeg">Unsupported.</audio>
+
+The state or condition of being useful; usefulness., Something that is useful., The ability of a commodity to satisfy needs or wants; the satisfaction experienced by the consumer of that commodity.
+?
+>[!vocab]- utility(noun)
+>**Translations**: Dienstprogramm, Nutzen, Nützlichkeit
+>**Pronunciation**: /juːˈtɪl.ɪ.ti/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/67/67b732dc42aaffa9056d34cc477c863c-100.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- This utility keeps the computer free of viruses.
+
+To put in between or into.
+?
+>[!vocab]- to insert(verb)
+>**Translations**: einfügen, einlegen, einsetzen
+**Forms**: inserted, inserted
+>**Pronunciation**: /ɪnˈsɜːt/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/e0/e0df5f3dfd2650ae5be9993434e2b2c0-200.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- I showed him how to insert a picture into the document.
+>>- She inserted a CD into the stereo.
+>>- I inserted the batteries into the camera.
+>>- The card needs to be inserted into the reader.
+>>- She inserted the key into the lock.
+
+Happening by chance; coincidental, accidental., Happening by a lucky chance; lucky or fortunate., Happening independently of human will.
+?
+>[!vocab]- fortuitous(adjective)
+>**Translations**: zufällig
+>**Pronunciation**: /fɔːˈtjuːɪtəs/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/f3/f354847ec637e15410e8afd2a656d1a9-300.mp3" type="audio/mpeg">Unsupported.</audio>
+
+The money originally invested or loaned, on which basis interest and returns are calculated., The chief administrator of a school., The chief executive and chief academic officer of a university or college.
+?
+>[!vocab]- principal(noun)
+>**Translations**: Auftraggeber, Rektor, Direktor
+**Forms**: plural: principals) (plural: Auftraggeber) (plural: Direktoren) (plural: Chefs
+>**Pronunciation**: /ˈpɹɪnsəpəl/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/e7/e7d715a9b79d263ae527955341bbe9b1-100.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- The contract defines the rights of principal and agent.
+>>- Every certificate is signed by the principal of the school.
+>>- The principal gave a speech at the term's end.
+>>- He is the founder and principal of the company.
+>>- The principal commissioned the translation of the contract.
+
+To assess again; to revise an earlier assessment; to reevaluate
+?
+>[!vocab]- to reassess(verb)
+>**Translations**: überdenken, bereinigen, umwerten
+**Forms**: reassessed, reassessed
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/15/152312fd145f174e7b164f112d3f49a1-200.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Let us reassess the decision once again.
+
+A state in which opposing forces harmonise; equilibrium., Mental equilibrium; mental health; calmness, a state of remaining clear-headed and unperturbed., Something of equal weight used to provide equilibrium; counterweight.
+?
+>[!vocab]- balance(noun)
+>**Translations**: Bilanz, Gleichgewicht, Saldo
+**Forms**: plural: Salden, Saldi, Saldos
+>**Pronunciation**: /ˈbæləns/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/20/2069ca795d8e10a6f9a92dd57d01af10-100.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Defaults have negative effects on the balance.
+>>- She extended her arms to keep her balance.
+>>- I logged into my account and checked my balance.
+>>- Meditation helps him achieve an inner balance.
+>>- I went to the bank to check my balance.
+
+Wanton or unrestrained behavior; uproar; tumult., The tumultuous disturbance of the public peace by an unlawful assembly of three or more persons in the execution of some private object., A wide and unconstrained variety.
+?
+>[!vocab]- riot(noun)
+>**Translations**: Aufruhr, Unruhen, Ausschreitungen
+>**Pronunciation**: /ˈɹaɪ.ət/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/2f/2f53086555b7fbb940ce78616ff212e5-100.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- There was no riot, just a peaceful demonstration.
+>>- The riots stopped when the unpopular measure was withdrawn.
+>>- Luckily, there was no riot after the game.
+>>- The police could prevent riots in front of the stadium.
+
+Having to do with or arranged in a series., Published or produced in installments.
+?
+>[!vocab]- serial(adjective)
+>**Translations**: seriell, serienmäßig, fortlaufend
+>**Pronunciation**: /ˈsɪəɹiːəɫ/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/74/74136b24217cb75599440e6e1d807cf7-300.mp3" type="audio/mpeg">Unsupported.</audio>
+
+To make clear or bright by freeing from feculent matter, To make clear or easily understood; to explain in order to remove doubt or obscurity, To grow or become clear or transparent; to become free from feculent impurities, as wine or other liquid under clarification.
+?
+>[!vocab]- to clarify(verb)
+>**Translations**: klären, verdeutlichen, erläutern
+**Forms**: clarified, clarified
+>**Pronunciation**: /ˈklæɹɪfaɪ/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/91d3356c/mp3/EN_UK/34/34fce488a86f5f5889a4efb990bacd7c-200.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- In the first place, the police officer needed to clarify the facts.
+>>- An example will clarify what I mean.
+>>- He clarified the main aspects of his book.
+>>- We have published a White Paper in which we clarify our position.
+
+Of, relating to, used in, or resulting from surgery., Precise or very accurate.
+?
+>[!vocab]- surgical(adjective)
+>**Translations**: chirurgisch, operativ
+>**Pronunciation**: /ˈsɜːdʒɪkəl/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/51/510bf23a763f9ee71b2117df72537066-300.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Hygienically clean surgical instruments are indispensable.
+
+Causing much harm in a subtle way., Causing death or injury; deadly.
+?
+>[!vocab]- pernicious(adjective)
+>**Translations**: schädlich, perniziös, gefährlich
+>**Pronunciation**: /pəˈnɪʃəs/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/6f/6fbef9453cb9ff2c308dba53384fb2b8-300.mp3" type="audio/mpeg">Unsupported.</audio>
+
+Regarding or concerning.
+?
+>[!vocab]- apropos(preposition)
+>**Translations**: apropos
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/37/37d70f528b5be4756059a24cd87d3dfc-0.mp3" type="audio/mpeg">Unsupported.</audio>
+
+The quality of being reliable, dependable or trustworthy., The ability to measure the same thing consistently ; that is, repeated measurements would give the same result ., Measurable time of work before failure
+?
+>[!vocab]- reliability(noun)
+>**Translations**: Zuverlässigkeit, Verlässlichkeit, Sicherheit
+**Forms**: plural: Zuverlässigkeiten
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/46/464fe4ea0557b9c34b4ef33c135f6a08-100.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Quality control ensures the reliability of the product.
+>>- My colleague is well known for her hard work and reliability.
+>>- The brand is known for its quality and reliability.
+
+In a free manner., Without interference or restriction., Of one's own free will.
+?
+>[!vocab]- freely(adverb)
+>**Translations**: frei, kostenfrei, unentgeltlich
+>**Pronunciation**: /ˈfɹili/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/da/daa759be97f37e5f7eff5883801aebed-400.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- The guests could choose freely from the menu.
+
+Cheerful and good-humoured; jolly, merry., Pertaining to the astrological influence of the planet Jupiter; having the characteristics of a person under such influence .
+?
+>[!vocab]- jovial(adjective)
+>**Translations**: gemütlich, heiter, fröhlich
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/bc/bca819d1bd18491ef16e16ca22fa38bf-300.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- The mood at the party was very jovial.
+
+To find a solution to ., To reduce to simple or intelligible notions; to make clear or certain; to unravel; to explain., To make a firm decision to do something.
+?
+>[!vocab]- to resolve(verb)
+>**Translations**: beschließen, lösen, beilegen
+**Forms**: resolved, resolved
+>**Pronunciation**: /ɹiˈsɒlv/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/78/785e254f4f43227df02945c04559dbaf-200.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- The company meeting resolved the amendment of the article.
+>>- We need to resolve this problem soon.
+>>- We resolved the old problem with a new approach.
+>>- We resolved the conflict by peaceful means.
+>>- The police officer managed to resolve the case.
+
+The act of assuring; a declaration tending to inspire full confidence; that which is designed to give confidence., The state of being assured; firm persuasion; full confidence or trust; freedom from doubt; certainty., Firmness of mind; undoubting, steadiness; intrepidity; courage; confidence; self-reliance.
+?
+>[!vocab]- assurance(noun)
+>**Translations**: Sicherheit, Zusicherung, Versicherung
+**Forms**: plural: Sicherheiten) (plural: Versicherungen
+>**Pronunciation**: /əˈʃɔːɹəns/
+>**Audio**: <audio controls><source src="EN_UK/88/8819c28a9403fea7c13c04d38ce0e990-100.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- I received the assurance that the product is suitable.
+>>- I received the assurance that the product is safe to use.
+>>- The assurance of product quality is our top priority.
+
+An act, instance of, or state of expansion or increase in size, especially by injection of a gas., An increase in the general level of prices or in the cost of living., A decline in the value of money.
+?
+>[!vocab]- inflation(noun)
+>**Translations**: Inflation, Geldentwertung, Aufblasen
+>**Pronunciation**: /ɪnˈfleɪʃən/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/3d/3d3c439478e8edb8bc00b8c5a890bd2d-101.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Inflation has not been this low for a long time.
+
+The act of coming forth., The number of people who attend or participate in an event  or are present at a venue., A place to pull off a road.
+?
+>[!vocab]- turnout(noun)
+>**Translations**: Wahlbeteiligung, Weiche, Beteiligung
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/26/26966fb6268d5ca92da5f39b64c21a91-101.mp3" type="audio/mpeg">Unsupported.</audio>
+
+To end; to come to an end., To bring to an end; to close; to finish., To bring about as a result; to effect; to make.
+?
+>[!vocab]- to conclude(verb)
+>**Translations**: schließen, abschließen, abschließen
+**Forms**: concluded, concluded
+>**Pronunciation**: /kən.ˈkluːd/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/c482d3a6/mp3/EN_UK/9b/9beda706051671a52ae7c5af00e4d6df-201.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- To conclude her letter she wrote 'kind regards'.
+>>- To conclude her letter she wrote 'kind regards'.
+>>- The student concluded the essay with a quote.
+>>- The book concluded in a surprising manner.
+
+Of or pertaining to creeds, beliefs, or teachings, especially religious ones, that are different from orthodoxy, or the norm, but not sufficiently different to be called heretical.
+?
+>[!vocab]- heterodox(adjective)
+>**Translations**: heterodox, andersgläubig
+>**Pronunciation**: /ˈhɛtɛɹədɒks/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/71/71be61c58ee5b65b51ece8a448f8bd1d-300.mp3" type="audio/mpeg">Unsupported.</audio>
+
+A part or parts remaining after some has/have been removed., The amount left over after subtracting the divisor as many times as possible from the dividend without producing a negative result. If   and d  are integers, then  can always be expressed in the form n = dq + r, where q  and r  are also integers and 0 ≤ r < d., The number left over after a simple subtraction
+?
+>[!vocab]- remainder(noun)
+>**Translations**: Rest, Restbetrag, Restmenge
+>**Pronunciation**: /ɹəˈmeɪndə/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/8e/8e2bb981f1bb93f356b6974a54a40fd7-101.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- I left the office and spent the remainder of the day at home.
+
+To become aware of, through the physical senses or by thinking; to see; to understand.
+?
+>[!vocab]- to perceive(verb)
+>**Translations**: wahrnehmen, erkennen, betrachten
+**Forms**: perceived, perceived
+>**Pronunciation**: /pəˈsiːv/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/91d3356c/mp3/EN_UK/34/340cbdadd77efbf214438778148d7d29-200.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- The discovery was perceived as a major breakthrough.
+>>- Long-term trends are often difficult to perceive.
+
+A harsh, discordant combination of sounds., Conflicting notes that are not overtones of the note or chord sounding., A state of disagreement or conflict.
+?
+>[!vocab]- dissonance(noun)
+>**Translations**: Dissonanz, Unstimmigkeit, Missklang
+>**Pronunciation**: /ˈdɪsənəns/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/53/53b786eb8e5ec93e524590979bd27ee5-100.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- A dissonance is a combination of sounds that lack harmony.
+
+Exempt; not subject to., Protected by inoculation, or due to innate resistance to pathogens., Not vulnerable.
+?
+>[!vocab]- immune(adjective)
+>**Translations**: immun, gefeit, unempfänglich
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/6c/6c984780f7f842593a67c5db3deefaf3-300.mp3" type="audio/mpeg">Unsupported.</audio>
+
+A public official whose duty it is to administer the law, especially by presiding over trials and rendering judgments; a justice., A person who decides the fate of someone or something that has been called into question., A person officiating at a sports event or similar.
+?
+>[!vocab]- judge(noun)
+>**Translations**: Richter, Richterin, Preisrichter
+>**Pronunciation**: /d͡ʒʌd͡ʒ/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/15/1562eb3f6d9c5ac7e159c04a96ff4dfe-101.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- The judge passes sentence at the end of the trial.
+>>- A judge has to try to remain impartial.
+>>- A good judge is impartial and just.
+>>- The judge recommended arbitration.
+>>- The judges have conferred and chosen the winners.
+
+To thwart or stump; to cause to fail or to leave hopelessly puzzled, confused, or stuck., To bring into the position of, or impede by, a stymie.
+?
+>[!vocab]- to stymie(verb)
+>**Translations**: matt setzen
+>**Pronunciation**: /ˈstaɪmi/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/8c/8cde807c0f9c367a11134e75755b88db-200.mp3" type="audio/mpeg">Unsupported.</audio>
+
+To cause to become smaller., To become smaller; to contract., To cower or flinch.
+?
+>[!vocab]- to shrink(verb)
+>**Translations**: schrumpfen, sich verkleinern, einlaufen
+**Forms**: shrank or shrunk, shrunk
+>**Pronunciation**: /ˈʃɹɪŋk/
+>**Audio**: <audio controls><source src="https://assets.linguee.com/static/c482d3a6/mp3/EN_UK/91/91808da94826016395b10b662ed4363b-200.mp3" type="audio/mpeg">Unsupported.</audio>
+>>[!example]+ Examples
+>>- Wool socks shrink in hot water.
+>>- These tiny socks must have shrunk in the wash.
 
