@@ -2,6 +2,7 @@
 
 >[!Definition] Suburbanisierung
 >Suburbanisierung := Prozess der Verlagerung von Bevölkerung, Industrie, Handel und Dienstleistungen aus der Kernstadt ins Umland(**Suburbs**)
+<!--SR:!2025-04-28,3,230-->
 
 **Probleme der Suburbanisierung**:
 - hohes Verkehrsaufkommen

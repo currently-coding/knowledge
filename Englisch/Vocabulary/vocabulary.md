@@ -13,7 +13,7 @@ Something assumed without proof as being self-evident or generally accepted, esp
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/18/1869119e100e3fd60b1dfad777a61049-101.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- The theory is based on three postulates.
-<!--SR:!2025-04-25,2,216-->
+<!--SR:!2025-04-30,5,236-->
 
 That which follows something on which it depends; that which is produced by a cause., A result of actions, especially if such a result is unwanted or unpleasant., A proposition collected from the agreement of other previous propositions; any conclusion which results from reason or argument; inference.
 ?
@@ -25,7 +25,7 @@ That which follows something on which it depends; that which is produced by a ca
 >>[!example]+ Examples
 >>- Effectively, the mistake did not have any consequences.
 >>- A volcanic eruption would have dire consequences.
-<!--SR:!2025-04-25,2,216-->
+<!--SR:!2025-04-30,5,236-->
 
 Serving, intended or wishing to protect
 ?
@@ -101,7 +101,7 @@ The edge of the paper, typically left blank when printing but sometimes used for
 >>- The margin is the difference between the cost and selling price.
 >>- I added an annotation in the margin with my comments.
 >>- Our new price list reflects the higher margin we want to achieve.
-<!--SR:!2025-04-25,2,216-->
+<!--SR:!2025-04-30,5,236-->
 
 A competition to determine a champion, especially the final of a series of competitions., The position of champion, or winner., Defense or support of some cause.
 ?
@@ -246,7 +246,7 @@ To vibrate or sound, especially in response to another vibration., To have an ef
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/2b/2b7b93155422a4034d65f5238c334e88-200.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- My voice resonates in the tunnel.
-<!--SR:!2025-04-25,2,216-->
+<!--SR:!2025-04-30,5,236-->
 
 The act of pulling back or withdrawing, as from something dangerous, or unpleasant., The act of reversing direction and receding from a forward position., A peaceful, quiet place affording privacy or security.
 ?
@@ -257,7 +257,7 @@ The act of pulling back or withdrawing, as from something dangerous, or unpleasa
 >>[!example]+ Examples
 >>- This military strategy forced the enemy's retreat.
 >>- My house in the mountains is my retreat.
-<!--SR:!2025-04-24,1,196-->
+<!--SR:!2025-04-27,2,216-->
 
 To detect with the senses, especially with the eyes., To perceive, recognize, or comprehend with the mind; to descry., To distinguish something as being different from something else; to differentiate.
 ?
@@ -267,7 +267,7 @@ To detect with the senses, especially with the eyes., To perceive, recognize, or
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/62/620099028f603c1f9352fce5801c2e58-200.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- She can easily discern his face in the crowd.
-<!--SR:!2025-04-24,1,196-->
+<!--SR:!2025-04-26,1,176-->
 
 To act before , especially to prevent an action., To take up or introduce  prematurely., To know of  before it happens; to expect.
 ?
@@ -470,7 +470,7 @@ To combine two or more things to produce a new product., To be combined producin
 **Forms**: synthesized, synthesized; BE frequently used: synthesised, synthesised) (BE: synthesise) (BE frequently used: synthesise
 >**Pronunciation**: /ˈsɪnθəsaɪz/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/d6/d6284de87997d101a0cee91cc449ff46-200.mp3" type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-04-25,2,217-->
+<!--SR:!2025-04-30,5,237-->
 
 The state or quality of being sound., The result or product of being sound., The property  of not only being valid, but also of having true premises.
 ?
@@ -513,7 +513,7 @@ Someone or thing who lives in a place.
 >>[!example]+ Examples
 >>- This little town has only very few inhabitants.
 >>- Berlin has fewer inhabitants than Cairo.
-<!--SR:!2025-04-25,2,216-->
+<!--SR:!2025-04-29,4,216-->
 
 To make invalid. Especially applied to contract law.
 ?

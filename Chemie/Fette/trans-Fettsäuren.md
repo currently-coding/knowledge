@@ -1,6 +1,6 @@
 >[!Definition]
 >trans-Fettsäuren := Fettsäuren mit E-konfigurierten Doppelbildungen
-<!--SR:!2025-04-23,27,270-->
+<!--SR:!2025-07-20,86,290-->
 ```smiles
 [R]/C=C/[R]
 ```

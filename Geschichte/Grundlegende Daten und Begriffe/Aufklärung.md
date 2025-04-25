@@ -6,4 +6,4 @@ Aufklärung
 >>„Habe Mut, dich deines eigenen Verstandes zu bedienen!“
 >
 >In der Zeit der Aufklärung ändert sich das Selbstverständnis des Menschen. Er wird nun als ein mit natürlichen Rechten ausgestattetes Individuum betrachtet, das keiner gottgewollten Schöpfung untergeordnet ist. Vielmehr kann er sie selbst auf der Grundlage von wissenschaftlicher Erkenntnis und Vernunft gestalten. Dies gilt auch für die Konzeption von Staatlichkeit, weshalb dem Einzelnen gesicherte Möglichkeiten der Mitgestaltung zugestanden sein sollen.
-<!--SR:!2025-04-17,24,270-->
+<!--SR:!2025-07-02,68,270-->
