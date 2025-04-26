@@ -1,5 +1,5 @@
 {
   "zenMode": true,
-  "leftSidebar": true,
+  "leftSidebar": false,
   "rightSidebar": true
 }
