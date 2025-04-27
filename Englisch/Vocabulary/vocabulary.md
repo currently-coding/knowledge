@@ -4,7 +4,7 @@ Victory gained through combat; the subjugation of an enemy., An act or instance 
 >**Translations**: Eroberung, Bezwingung, Überwindung
 >**Pronunciation**: /ˈkɒŋkwəst/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/97/979e57d16f8271c1924039307f981e66-100.mp3" type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-04-26,3,236-->
+<!--SR:!2025-05-04,8,256-->
 
 Something assumed without proof as being self-evident or generally accepted, especially when used as a basis for an argument. Sometimes distinguished from axioms as being relevant to a particular science or context, rather than universally true, and following from other axioms rather than being an absolute assumption., A fundamental element; a basic principle., An axiom.
 ?
@@ -51,7 +51,7 @@ Seriousness in bearing or manner; dignity, Substance, weight
 ?
 >[!vocab]- gravitas(noun)
 >**Translations**: Bedeutung
-<!--SR:!2025-04-26,3,236-->
+<!--SR:!2025-05-03,7,256-->
 
 Susceptibility to attack or injury; the state or condition of being weak or poorly defended., A specific weakness in the protections or defences surrounding someone or something., A weakness which allows an attacker to reduce a system's security
 ?
@@ -62,7 +62,7 @@ Susceptibility to attack or injury; the state or condition of being weak or poor
 >>[!example]+ Examples
 >>- He never exploited his wife's emotional vulnerability.
 >>- An operation increases vulnerability to infections.
-<!--SR:!2025-04-26,3,236-->
+<!--SR:!2025-04-28,2,216-->
 
 The state of being complex; intricacy; entanglement., That which is and renders complex; intricacy; complication.
 ?
@@ -74,7 +74,7 @@ The state of being complex; intricacy; entanglement., That which is and renders 
 >>[!example]+ Examples
 >>- The level of complexity affects the product cost.
 >>- This story presents a high degree of complexity.
-<!--SR:!2025-04-26,3,236-->
+<!--SR:!2025-05-04,8,256-->
 
 To open up, unfasten., To uncover, physically expose to view., To expose to the knowledge of others; to make known, state openly, reveal.
 ?
@@ -88,7 +88,7 @@ To open up, unfasten., To uncover, physically expose to view., To expose to the 
 >>- The police did not disclose the name of the suspect.
 >>- The bank may not disclose information about its clients.
 >>- He wants to disclose his secret.
-<!--SR:!2025-04-26,3,236-->
+<!--SR:!2025-05-04,8,256-->
 
 The edge of the paper, typically left blank when printing but sometimes used for annotations etc., The edge or border of any flat surface., The edge defining inclusion in or exclusion from a set or group.
 ?
@@ -122,7 +122,7 @@ Inclined to waste resources or behave extravagantly., Immoral; abandoned to vice
 >>[!example]+ Examples
 >>- He should spend less money and not be so profligate.
 >>- She left her profligate life behind to become a better person.
-<!--SR:!2025-04-26,1,176-->
+<!--SR:!2025-04-28,2,196-->
 
 The quality of being brief in duration., Succinctness; conciseness., A short piece of writing.
 ?
@@ -132,6 +132,7 @@ The quality of being brief in duration., Succinctness; conciseness., A short pie
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/e7/e794f072286cdb9e7c003b5f91116a69-100.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- Brevity is a typical feature of technical texts.
+<!--SR:!2025-04-28,2,229-->
 
 In an efficient manner.
 ?
@@ -171,7 +172,7 @@ The act or an instance of violating or the condition of being violated.
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/31/3145c2ef4c310129fb265093244c9c1a-100.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- Slavery is a violation of human rights.
-<!--SR:!2025-04-26,3,236-->
+<!--SR:!2025-05-04,8,256-->
 
 To show how to use ., To show the steps taken to create a logical argument or equation., To participate in or organize a demonstration.
 ?
@@ -186,7 +187,7 @@ To show how to use ., To show the steps taken to create a logical argument or eq
 >>- I demonstrated that my initial assumption was correct.
 >>- The salesperson demonstrated the correct use of the chainsaw.
 >>- The salesman demonstrated the correct use of the product.
-<!--SR:!2025-04-26,3,236-->
+<!--SR:!2025-05-03,7,236-->
 
 To make use of; to use., To make useful; to find a practical use for., To make best use of; to use to its fullest extent, potential, or ability.
 ?
@@ -198,6 +199,7 @@ To make use of; to use., To make useful; to find a practical use for., To make b
 >>[!example]+ Examples
 >>- We utilize the information for the drafting of the report.
 >>- They utilize solar power to heat their house.
+<!--SR:!2025-04-27,1,209-->
 
 Of or relating to comparison., Using comparison as a method of study, or founded on something using it., Approximated by comparison; relative.
 ?
@@ -207,6 +209,7 @@ Of or relating to comparison., Using comparison as a method of study, or founded
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/72/723a99d8c2d2a7654113ca57c2df7123-300.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- The professor conducts comparative research.
+<!--SR:!2025-04-29,3,249-->
 
 Able to be done in practice.
 ?
@@ -219,13 +222,7 @@ Able to be done in practice.
 >>- This is a good idea, but it's not feasible in practice.
 >>- We must find a solution that is really feasible.
 >>- The plan was well thought out and feasible.
-<!--SR:!2025-04-26,3,236-->
-
-Of or relating to the tailoring of clothing., Of or relating to the quality of dress., Of or relating to the sartorius muscle.
-?
->[!vocab]- sartorial(adjective)
->**Translations**: Schneider..., schneidermäßig, Kleidungs...
->**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/e7/e7021ca76148b183fc2f5481bc689517-300.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-05,9,256-->
 
 A range; a continuous, infinite, one-dimensional set, possibly bounded by extremes., Specifically, a range of colours representing light  of contiguous frequencies; hence electromagnetic spectrum, visible spectrum, ultraviolet spectrum, etc., The autism spectrum.
 ?
@@ -267,7 +264,7 @@ To detect with the senses, especially with the eyes., To perceive, recognize, or
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/62/620099028f603c1f9352fce5801c2e58-200.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- She can easily discern his face in the crowd.
-<!--SR:!2025-04-26,1,176-->
+<!--SR:!2025-04-28,2,196-->
 
 To act before , especially to prevent an action., To take up or introduce  prematurely., To know of  before it happens; to expect.
 ?
@@ -380,6 +377,7 @@ To make someone believe, or feel sure about something, especially by using logic
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/d9/d966a024a058e078e0b04ad6af5fd844-200.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- He convinced the fighters not to strike.
+<!--SR:!2025-04-29,3,249-->
 
 To display or show  for others to see, especially at an exhibition or contest., To demonstrate., To submit  to a court as evidence.
 ?
@@ -430,6 +428,7 @@ To apply pressure to from two or more sides at once., To embrace closely; to giv
 >>- I am squeezing all my clothes into a tiny suitcase.
 >>- She squeezed some oranges to make juice.
 >>- I am squeezing an orange to get fresh juice.
+<!--SR:!2025-04-28,2,229-->
 
 The playing of a game or games, including but not limited to video games and games of chance., Careful, strategic use of rules to achieve one's purposes, as one would use the rules of a game.
 ?
@@ -437,6 +436,7 @@ The playing of a game or games, including but not limited to video games and gam
 >**Translations**: Spielen
 >**Pronunciation**: /ˈɡeɪmɪŋ/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/96/967ef2eb34634ba418db94dab610ba6f-100.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-04-29,3,249-->
 
 To obtain or receive  from something else., To deduce  by reasoning., To find the derivation of .
 ?
@@ -462,6 +462,7 @@ To cause  to be acquainted ., To make  known by formal announcement or recommend
 >>- We ought to introduce changes, and will indeed do so soon.
 >>- The host introduced the guests right at the beginning of the show.
 >>- The company will introduce a range of new products in spring.
+<!--SR:!2025-04-29,3,249-->
 
 To combine two or more things to produce a new product., To be combined producing a new, more complex product., To produce a substance by chemical synthesis.
 ?
@@ -484,6 +485,7 @@ Having elements of a feast or of entertainment, especially when it comes to eati
 >**Translations**: gesellig, gastlich, festlich
 >**Pronunciation**: /kənˈvɪv.i.əl/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/44/44219e0dc662875e7a8885fb960c943d-300.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-04-27,1,209-->
 
 The quality of speaking or stating the truth; truthfulness., Something that is true; a truthful statement; a truth., Agreement with the facts; accordance with the truth; accuracy or precision.
 ?
@@ -503,6 +505,7 @@ In a precise manner; exactly., Used to provide emphasis.
 >>[!example]+ Examples
 >>- She solved the problem precisely as the teacher expected.
 >>- I can set the scaling of the machine precisely.
+<!--SR:!2025-04-27,1,209-->
 
 Someone or thing who lives in a place.
 ?
@@ -525,6 +528,7 @@ To make invalid. Especially applied to contract law.
 >>[!example]+ Examples
 >>- The facts I presented invalidated her argument.
 >>- The new certificate will invalidate the old one.
+<!--SR:!2025-04-27,1,209-->
 
 The deduction of inferences or interpretations from premises; abstract thought; ratiocination., A Rastafari meeting held for the purposes of chanting, prayer and discussion.
 ?
@@ -544,6 +548,7 @@ Based on individual discretion or judgment; not based on any objective distincti
 >>- You can complete the tasks in arbitrary order.
 >>- Arbitrary changes to the process are not allowed.
 >>- The boss gave arbitrary orders that changed daily.
+<!--SR:!2025-04-28,2,229-->
 
 
 Having or showing keenness of perception, insight, understanding, or intuition.
@@ -552,6 +557,7 @@ Having or showing keenness of perception, insight, understanding, or intuition.
 >**Translations**: perzeptiv, wahrnehmend, einfühlsam
 >**Pronunciation**: /pəˈsɛptɪv/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-04-27,1,209-->
 
 Any plant regarded as unwanted at the place where, and at the time when it is growing., Short for duckweed., Underbrush; low shrubs.
 ?
@@ -561,6 +567,7 @@ Any plant regarded as unwanted at the place where, and at the time when it is gr
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/84/8417a031bdadfb493a827cfec74bba14-102.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- She does not allow a single weed among her pretty flowers.
+<!--SR:!2025-04-27,1,209-->
 
 To forbid, disallow, or proscribe officially; to make illegal or illicit.
 ?
@@ -571,6 +578,7 @@ To forbid, disallow, or proscribe officially; to make illegal or illicit.
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- The company prohibits smoking in the entire building.
+<!--SR:!2025-04-29,3,249-->
 
 A feeling of sympathy at the misfortune or suffering of someone or something., Something regrettable., Piety.
 ?
@@ -607,6 +615,7 @@ To form a circle around; to encircle., To include within its scope; to circumscr
 >>- The vast desert encompasses parts of several countries.
 >>- The syllabus encompasses theoretical and practical texts.
 >>- The area encompasses a large nature park.
+<!--SR:!2025-04-29,3,249-->
 
 According to reports or rumors; supposedly.
 ?
@@ -642,7 +651,7 @@ Humorous, amusing or joking.
 >[!vocab]- jocular(adjective)
 >**Translations**: scherzhaft, lustig, spaßig
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3" type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-04-26,3,236-->
+<!--SR:!2025-05-03,7,256-->
 
 Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest, or an enlightened inner circle., Having to do with concepts that are highly theoretical and without obvious practical application; often with mystical or religious connotations., Confidential; private.
 ?
@@ -673,6 +682,7 @@ To dig underneath , to make a passage for destructive or military purposes; to s
 >>- The pupil has undermined the teacher's authority.
 >>- The student has undermined the teacher's authority.
 >>- Frequent lying undermines any trust.
+<!--SR:!2025-04-29,3,249-->
 
 The act of blaming, criticizing, or condemning as wrong; reprehension., An official reprimand., Judicial or ecclesiastical sentence or reprimand; condemnatory judgment.
 ?
@@ -681,6 +691,7 @@ The act of blaming, criticizing, or condemning as wrong; reprehension., An offic
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/ac/ac70ee11b6753a3c70ae2fb5df05ffd8-101.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- The politician accepted the public censure and resigned.
+<!--SR:!2025-04-27,1,209-->
 
 The position or authority of a master; dominion; command; supremacy; superiority., Superiority in war or competition; victory; triumph; preeminence., Contest for superiority.
 ?
@@ -702,6 +713,7 @@ The state or quality of being independent; freedom from dependence; exemption fr
 >>[!example]+ Examples
 >>- The country declared independence after a long period of occupation.
 >>- The country declared its independence.
+<!--SR:!2025-04-29,3,249-->
 
 Something that impedes, stands in the way of, or holds up progress
 ?
@@ -740,7 +752,7 @@ An artificial barrier, variously constructed, over which athletes or horses jump
 >>- The runner cleared all hurdles successfully.
 >>- The athlete jumped over all hurdles and finished the race successfully.
 >>- There are many hurdles on the road to success.
-<!--SR:!2025-04-26,3,237-->
+<!--SR:!2025-05-05,9,257-->
 
 An act of surrendering, submission into the possession of another; abandonment, resignation., The yielding or delivery of a possession in response to a demand., The yielding of the leasehold estate by the lessee to the landlord, so that the tenancy for years merges in the reversion and no longer exists.
 ?
@@ -753,12 +765,14 @@ An act of surrendering, submission into the possession of another; abandonment, 
 >>- The countries negotiated the surrender of wanted criminals.
 >>- The surrender helped to avoid further casualties.
 >>- The war ended with the surrender of the enemy.
+<!--SR:!2025-04-29,3,249-->
 
 A mix of discordant sounds; dissonance.
 ?
 >[!vocab]- cacophony(noun)
 >**Translations**: Kakophonie, Kakofonie, Missklang
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/36/3617c0cffb8f9bcb15405a7230d79775-100.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-04-27,1,209-->
 
 The layout of a publication or document., The form of presentation of something., The type of programming that a radio station broadcasts; such as a certain genre of music, news, sports, talk, etc.
 ?
@@ -797,6 +811,7 @@ Ruling; governing; prevailing, Predominant, common, prevalent, of greatest impor
 >>[!example]+ Examples
 >>- My father was a very dominant person.
 >>- The dominant shade in his paintings is blue.
+<!--SR:!2025-04-27,1,209-->
 
 In agreement with the principles of logic., Reasonable., Of or pertaining to logic.
 ?
@@ -894,6 +909,7 @@ The money originally invested or loaned, on which basis interest and returns are
 >>- The principal gave a speech at the term's end.
 >>- He is the founder and principal of the company.
 >>- The principal commissioned the translation of the contract.
+<!--SR:!2025-04-27,1,209-->
 
 To assess again; to revise an earlier assessment; to reevaluate
 ?
@@ -929,6 +945,7 @@ Wanton or unrestrained behavior; uproar; tumult., The tumultuous disturbance of 
 >>- The riots stopped when the unpopular measure was withdrawn.
 >>- Luckily, there was no riot after the game.
 >>- The police could prevent riots in front of the stadium.
+<!--SR:!2025-04-29,3,249-->
 
 Having to do with or arranged in a series., Published or produced in installments.
 ?
@@ -965,12 +982,14 @@ Causing much harm in a subtle way., Causing death or injury; deadly.
 >**Translations**: schädlich, perniziös, gefährlich
 >**Pronunciation**: /pəˈnɪʃəs/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/6f/6fbef9453cb9ff2c308dba53384fb2b8-300.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-04-27,1,209-->
 
 Regarding or concerning.
 ?
 >[!vocab]- apropos(preposition)
 >**Translations**: apropos
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/37/37d70f528b5be4756059a24cd87d3dfc-0.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-04-27,1,209-->
 
 The quality of being reliable, dependable or trustworthy., The ability to measure the same thing consistently ; that is, repeated measurements would give the same result ., Measurable time of work before failure
 ?
@@ -1013,18 +1032,7 @@ To find a solution to ., To reduce to simple or intelligible notions; to make cl
 >>- We resolved the old problem with a new approach.
 >>- We resolved the conflict by peaceful means.
 >>- The police officer managed to resolve the case.
-
-The act of assuring; a declaration tending to inspire full confidence; that which is designed to give confidence., The state of being assured; firm persuasion; full confidence or trust; freedom from doubt; certainty., Firmness of mind; undoubting, steadiness; intrepidity; courage; confidence; self-reliance.
-?
->[!vocab]- assurance(noun)
->**Translations**: Sicherheit, Zusicherung, Versicherung
-**Forms**: plural: Sicherheiten) (plural: Versicherungen
->**Pronunciation**: /əˈʃɔːɹəns/
->**Audio**: <audio controls><source src="EN_UK/88/8819c28a9403fea7c13c04d38ce0e990-100.mp3" type="audio/mpeg">Unsupported.</audio>
->>[!example]+ Examples
->>- I received the assurance that the product is suitable.
->>- I received the assurance that the product is safe to use.
->>- The assurance of product quality is our top priority.
+<!--SR:!2025-04-27,1,209-->
 
 An act, instance of, or state of expansion or increase in size, especially by injection of a gas., An increase in the general level of prices or in the cost of living., A decline in the value of money.
 ?
@@ -1034,6 +1042,7 @@ An act, instance of, or state of expansion or increase in size, especially by in
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/3d/3d3c439478e8edb8bc00b8c5a890bd2d-101.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- Inflation has not been this low for a long time.
+<!--SR:!2025-04-29,3,249-->
 
 The act of coming forth., The number of people who attend or participate in an event  or are present at a venue., A place to pull off a road.
 ?
@@ -1080,6 +1089,7 @@ To become aware of, through the physical senses or by thinking; to see; to under
 >>[!example]+ Examples
 >>- The discovery was perceived as a major breakthrough.
 >>- Long-term trends are often difficult to perceive.
+<!--SR:!2025-04-27,1,209-->
 
 A harsh, discordant combination of sounds., Conflicting notes that are not overtones of the note or chord sounding., A state of disagreement or conflict.
 ?
@@ -1089,12 +1099,14 @@ A harsh, discordant combination of sounds., Conflicting notes that are not overt
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/53/53b786eb8e5ec93e524590979bd27ee5-100.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- A dissonance is a combination of sounds that lack harmony.
+<!--SR:!2025-04-29,3,249-->
 
 Exempt; not subject to., Protected by inoculation, or due to innate resistance to pathogens., Not vulnerable.
 ?
 >[!vocab]- immune(adjective)
 >**Translations**: immun, gefeit, unempfänglich
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/6c/6c984780f7f842593a67c5db3deefaf3-300.mp3" type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-04-28,2,229-->
 
 A public official whose duty it is to administer the law, especially by presiding over trials and rendering judgments; a justice., A person who decides the fate of someone or something that has been called into question., A person officiating at a sports event or similar.
 ?
@@ -1108,6 +1120,7 @@ A public official whose duty it is to administer the law, especially by presidin
 >>- A good judge is impartial and just.
 >>- The judge recommended arbitration.
 >>- The judges have conferred and chosen the winners.
+<!--SR:!2025-04-27,1,209-->
 
 To thwart or stump; to cause to fail or to leave hopelessly puzzled, confused, or stuck., To bring into the position of, or impede by, a stymie.
 ?

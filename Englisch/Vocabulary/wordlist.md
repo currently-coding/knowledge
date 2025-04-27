@@ -1,3 +1,4 @@
+assurance
 altruism
 martial
 proclaim

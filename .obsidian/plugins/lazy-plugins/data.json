@@ -65,6 +65,9 @@
       },
       "obsidian-desmos": {
         "startupType": "short"
+      },
+      "zenmode": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []

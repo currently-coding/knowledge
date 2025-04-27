@@ -3,6 +3,7 @@ import subprocess
 from re import sub
 from time import sleep
 from requests import ConnectionError, get
+from requests.sessions import adapters
 
 in_filepath = "wordlist_mw.md"
 out_filepath = "vocabulary_mw.md"
@@ -89,9 +90,16 @@ def process_linguee(data, word):
     for audio in audios:
         to_remove = "https://www.linguee.com/mp3/"
         if audio.get("lang", "") == "British English":
-            info[audio_british] = audio.get("url").replace(to_remove, "")
+            link = audio.get("url")
+            if link.count(to_remove) > 1:
+                link.replace(to_remove, "")
+            info[audio_british] = link
         elif audio.get("lang", "") == "American English":
-            info[audio_american] = audio.get("url").replace(to_remove, "")
+            link = audio.get("url")
+            if link.count(to_remove) > 1:
+                link.replace(to_remove, "")
+            info[audio_american] = link
+
     forms = entry.get("forms", [])
     if forms:
         info["forms"] = []
