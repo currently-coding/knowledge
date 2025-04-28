@@ -55,25 +55,6 @@
     color: var(--text-faint);
 }
 
-/* In reading mode, adjust the anchor's position */
-/* Adjust the position of the heading anchor in reading mode */
-.markdown-preview-view .heading-anchor {
-    position: relative;  /* Ensure it's positioned relative to the heading */
-    left: -80px;         /* Move it left or right (adjust this value as needed) */
-    top: 0;              /* Adjust this value to move it up or down (optional) */
-}
-
-/* Optionally, if you want to hide the anchor on hover */
-.markdown-preview-view h1:hover .heading-anchor,
-.markdown-preview-view h2:hover .heading-anchor,
-.markdown-preview-view h3:hover .heading-anchor,
-.markdown-preview-view h4:hover .heading-anchor,
-.markdown-preview-view h5:hover .heading-anchor,
-.markdown-preview-view h6:hover .heading-anchor {
-    display: none;  /* Hide the anchor when hovering */
-}
-
-
 .cm-active.cm-line .cm-header-1:before,
 .cm-active.cm-line .cm-header-2:before,
 .cm-active.cm-line .cm-header-3:before,
