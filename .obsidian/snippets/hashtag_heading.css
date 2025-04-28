@@ -1,5 +1,5 @@
 :not(.cm-formatting).cm-header-1:before {
-    content: ' ';
+    content: '';
 }
 
 :not(.cm-formatting).cm-header-2:before {

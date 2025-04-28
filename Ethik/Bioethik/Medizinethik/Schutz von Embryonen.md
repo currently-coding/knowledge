@@ -8,5 +8,3 @@
 - der Embyro ist mit dem Säugling und dem daraus folgenden Mensch **identisch**
 ## **P**otentialitätsargument
 - in der menschlichen Anlage steckt das **Potential**(Möglichkeit/Leistung) zum Menschen
-
-# Gegenargumente
