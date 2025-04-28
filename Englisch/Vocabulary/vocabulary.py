@@ -136,7 +136,7 @@ def format_to_flashcard(word):
     definition = ", ".join(word["definition"][:num_definitions])
     line.append(definition)
     line.append(separator)
-    line.append(">[!vocab]- " + word["word"] + "(" + word["pos"] + ")")
+    line.append(">[!vocab]+ " + word["word"] + "(" + word["pos"] + ")")
     line.append(
         ">**Translations**: " + ", ".join(word["translation"][:num_translations])
     )
