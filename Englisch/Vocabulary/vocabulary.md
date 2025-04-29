@@ -464,7 +464,7 @@ To cause  to be acquainted ., To make  known by formal announcement or recommend
 >>- We ought to introduce changes, and will indeed do so soon.
 >>- The host introduced the guests right at the beginning of the show.
 >>- The company will introduce a range of new products in spring.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-07,8,269-->
 
 To combine two or more things to produce a new product., To be combined producing a new, more complex product., To produce a substance by chemical synthesis.
 ?
@@ -518,7 +518,7 @@ Someone or thing who lives in a place.
 >>[!example]+ Examples
 >>- This little town has only very few inhabitants.
 >>- Berlin has fewer inhabitants than Cairo.
-<!--SR:!2025-04-29,4,216-->
+<!--SR:!2025-05-09,10,236-->
 
 To make invalid. Especially applied to contract law.
 ?
@@ -580,7 +580,7 @@ To forbid, disallow, or proscribe officially; to make illegal or illicit.
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- The company prohibits smoking in the entire building.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-08,9,269-->
 
 A feeling of sympathy at the misfortune or suffering of someone or something., Something regrettable., Piety.
 ?
@@ -1049,7 +1049,7 @@ An act, instance of, or state of expansion or increase in size, especially by in
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/3d/3d3c439478e8edb8bc00b8c5a890bd2d-101.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- Inflation has not been this low for a long time.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-08,9,269-->
 
 The act of coming forth., The number of people who attend or participate in an event  or are present at a venue., A place to pull off a road.
 ?
