@@ -1,5 +1,6 @@
+/* preview mode */
 :not(.cm-formatting).cm-header-1:before {
-    content: ' ';
+    content: '';
 }
 
 :not(.cm-formatting).cm-header-2:before {
@@ -22,6 +23,34 @@
     content: '##### ';
 }
 
+.cm-header:before {
+    color: var(--text-faint);
+}
+
+/* In reading mode */
+.markdown-preview-view h1:before {
+    content: '';
+}
+
+.markdown-preview-view h2:before {
+    content: '# ';
+}
+
+.markdown-preview-view h3:before {
+    content: '## ';
+}
+
+.markdown-preview-view h4:before {
+    content: '### ';
+}
+
+.markdown-preview-view h5:before {
+    content: '#### ';
+}
+
+.markdown-preview-view h6:before {
+    content: '##### ';
+}
 .cm-header:before {
     color: var(--text-faint);
 }

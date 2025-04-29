@@ -2,7 +2,7 @@
 
 ---
 ## Pro
-1. ermöglichtKindern **Belastungen** durch mögliche Einschränkungen zu **vermeiden**
+1. ermöglicht Kindern **Belastungen** durch mögliche Einschränkungen zu **vermeiden**
 	- **frühzeitige Diagnosen**: "Choosing in" und "Screening out"
 
 ## Contra
