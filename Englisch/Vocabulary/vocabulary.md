@@ -45,7 +45,7 @@ To be equivalent or similar in character, quantity, quality, origin, structure, 
 >>[!example]+ Examples
 >>- One kilo corresponds to about two pounds.
 >>- Our company's fiscal year corresponds to the calendar year.
-<!--SR:!2025-04-29,4,216-->
+<!--SR:!2025-05-10,11,236-->
 
 Seriousness in bearing or manner; dignity, Substance, weight
 ?
@@ -209,7 +209,7 @@ Of or relating to comparison., Using comparison as a method of study, or founded
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/72/723a99d8c2d2a7654113ca57c2df7123-300.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- The professor conducts comparative research.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-08,9,269-->
 
 Able to be done in practice.
 ?
@@ -377,7 +377,7 @@ To make someone believe, or feel sure about something, especially by using logic
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/d9/d966a024a058e078e0b04ad6af5fd844-200.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- He convinced the fighters not to strike.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-07,8,269-->
 
 To display or show  for others to see, especially at an exhibition or contest., To demonstrate., To submit  to a court as evidence.
 ?
@@ -437,7 +437,7 @@ The playing of a game or games, including but not limited to video games and gam
 >**Translations**: Spielen
 >**Pronunciation**: /ˈɡeɪmɪŋ/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/96/967ef2eb34634ba418db94dab610ba6f-100.mp3" type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-07,8,269-->
 
 To obtain or receive  from something else., To deduce  by reasoning., To find the derivation of .
 ?
@@ -449,7 +449,7 @@ To obtain or receive  from something else., To deduce  by reasoning., To find th
 >>[!example]+ Examples
 >>- The correct answer can be derived from the data.
 >>- She derives her inner strength from meditation.
-<!--SR:!2025-04-29,1,214-->
+<!--SR:!2025-05-02,3,234-->
 
 To cause  to be acquainted ., To make  known by formal announcement or recommendation., To add  to a system, a mixture, or a container.
 ?
@@ -487,7 +487,7 @@ Having elements of a feast or of entertainment, especially when it comes to eati
 >**Translations**: gesellig, gastlich, festlich
 >**Pronunciation**: /kənˈvɪv.i.əl/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/44/44219e0dc662875e7a8885fb960c943d-300.mp3" type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-04-29,1,189-->
+<!--SR:!2025-05-01,2,209-->
 
 The quality of speaking or stating the truth; truthfulness., Something that is true; a truthful statement; a truth., Agreement with the facts; accordance with the truth; accuracy or precision.
 ?
@@ -617,7 +617,7 @@ To form a circle around; to encircle., To include within its scope; to circumscr
 >>- The vast desert encompasses parts of several countries.
 >>- The syllabus encompasses theoretical and practical texts.
 >>- The area encompasses a large nature park.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-09,10,269-->
 
 According to reports or rumors; supposedly.
 ?
@@ -627,6 +627,7 @@ According to reports or rumors; supposedly.
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/4a/4a6c4866376c2a50fc06b22f2886772a-400.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- Reportedly, the storm did not cause any damages.
+<!--SR:!2025-05-02,3,258-->
 
 Movement or advancement through a series of events, or points in time; development through time., Specifically, advancement to a higher or more developed state; development, growth., An official journey made by a monarch or other high personage; a state journey, a circuit.
 ?
@@ -685,7 +686,7 @@ To dig underneath , to make a passage for destructive or military purposes; to s
 >>- The pupil has undermined the teacher's authority.
 >>- The student has undermined the teacher's authority.
 >>- Frequent lying undermines any trust.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-09,10,269-->
 
 The act of blaming, criticizing, or condemning as wrong; reprehension., An official reprimand., Judicial or ecclesiastical sentence or reprimand; condemnatory judgment.
 ?
@@ -716,7 +717,7 @@ The state or quality of being independent; freedom from dependence; exemption fr
 >>[!example]+ Examples
 >>- The country declared independence after a long period of occupation.
 >>- The country declared its independence.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-07,8,269-->
 
 Something that impedes, stands in the way of, or holds up progress
 ?
@@ -768,7 +769,7 @@ An act of surrendering, submission into the possession of another; abandonment, 
 >>- The countries negotiated the surrender of wanted criminals.
 >>- The surrender helped to avoid further casualties.
 >>- The war ended with the surrender of the enemy.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-09,10,269-->
 
 A mix of discordant sounds; dissonance.
 ?
@@ -786,6 +787,7 @@ The layout of a publication or document., The form of presentation of something.
 >>[!example]+ Examples
 >>- We sell drawing paper in all standard formats.
 >>- You can convert the file into another format.
+<!--SR:!2025-05-02,3,258-->
 
 The process of rehabilitating somebody or something.
 ?
@@ -832,7 +834,7 @@ An acknowledgment of gratitude, respect or admiration; an accompanying gift., A 
 >>[!example]+ Examples
 >>- This documentary pays tribute to a famous composer.
 >>- The book was a tribute to the famous artist.
-<!--SR:!2025-04-29,1,214-->
+<!--SR:!2025-05-02,3,234-->
 
 To reduce strength or energy; debilitate., To weaken morally or mentally., To partially or completely remove a nerve.
 ?
@@ -950,7 +952,7 @@ Wanton or unrestrained behavior; uproar; tumult., The tumultuous disturbance of 
 >>- The riots stopped when the unpopular measure was withdrawn.
 >>- Luckily, there was no riot after the game.
 >>- The police could prevent riots in front of the stadium.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-08,9,269-->
 
 Having to do with or arranged in a series., Published or produced in installments.
 ?
@@ -1106,7 +1108,7 @@ A harsh, discordant combination of sounds., Conflicting notes that are not overt
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a905ff11/mp3/EN_UK/53/53b786eb8e5ec93e524590979bd27ee5-100.mp3" type="audio/mpeg">Unsupported.</audio>
 >>[!example]+ Examples
 >>- A dissonance is a combination of sounds that lack harmony.
-<!--SR:!2025-04-29,3,249-->
+<!--SR:!2025-05-08,9,269-->
 
 Exempt; not subject to., Protected by inoculation, or due to innate resistance to pathogens., Not vulnerable.
 ?
@@ -1146,4 +1148,5 @@ To cause to become smaller., To become smaller; to contract., To cower or flinch
 >>[!example]+ Examples
 >>- Wool socks shrink in hot water.
 >>- These tiny socks must have shrunk in the wash.
+<!--SR:!2025-05-01,2,238-->
 
