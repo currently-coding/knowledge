@@ -25,7 +25,7 @@ That which follows something on which it depends; that which is produced by a ca
 >>[!example]+ Examples
 >>- Effectively, the mistake did not have any consequences.
 >>- A volcanic eruption would have dire consequences.
-<!--SR:!2025-04-30,5,236-->
+<!--SR:!2025-05-13,13,256-->
 
 Serving, intended or wishing to protect
 ?
@@ -473,7 +473,7 @@ To combine two or more things to produce a new product., To be combined producin
 **Forms**: synthesized, synthesized; BE frequently used: synthesised, synthesised) (BE: synthesise) (BE frequently used: synthesise
 >**Pronunciation**: /ˈsɪnθəsaɪz/
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/d6/d6284de87997d101a0cee91cc449ff46-200.mp3" type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-04-30,5,237-->
+<!--SR:!2025-05-14,14,257-->
 
 The state or quality of being sound., The result or product of being sound., The property  of not only being valid, but also of having true premises.
 ?
@@ -771,12 +771,17 @@ An act of surrendering, submission into the possession of another; abandonment, 
 >>- The war ended with the surrender of the enemy.
 <!--SR:!2025-05-09,10,269-->
 
-A mix of discordant sounds; dissonance.
+harsh or jarring sound, incongruous or chaotic mixture
 ?
 >[!vocab]+ cacophony(noun)
 >**Translations**: Kakophonie, Kakofonie, Missklang
 >**Audio**: <audio controls><source src="https://assets.linguee.com/static/a647fcaf/mp3/EN_UK/36/3617c0cffb8f9bcb15405a7230d79775-100.mp3" type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-04-30,2,209-->
+<!--SR:!2025-05-05,5,229-->
+>>[!Example] Examples
+>>- a cacophony of colors
+>>- a cacophony of smells
+>>- Shell casings littered the highway, where a cacophony of car alarms and sobbing rent the winter air.
+>>- to escape that cacophony of piping voices
 
 The layout of a publication or document., The form of presentation of something., The type of programming that a radio station broadcasts; such as a certain genre of music, news, sports, talk, etc.
 ?

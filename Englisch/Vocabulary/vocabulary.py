@@ -3,10 +3,9 @@ import subprocess
 from re import sub
 from time import sleep
 from requests import ConnectionError, get
-from requests.sessions import adapters
 
-in_filepath = "wordlist_mw.md"
-out_filepath = "vocabulary_mw.md"
+in_filepath = "wordlist.md"
+out_filepath = "vocabulary.md"
 words_per_execution = 7
 max_num_translations = 3
 delay_per_request = 2
@@ -76,9 +75,16 @@ def get_chosen_entry(data, pos):
     return None
 
 
+def process_mw(data, word, pos):
+    print(data)
+    info = {}
+    entry = get_chosen_entry(data, pos)
+
+    pass
+
+
 def process_linguee(data, word):
     info = {}
-    entry = {}
     entry = data[0]
     info["pos"] = entry.get("pos", "")
 
@@ -123,6 +129,8 @@ def url(dictionary, word):
         case "linguee":
             lin_url = f"{lin_base_url}/api/v2/translations?query={word}&src=en&dst=de&guess_direction=false&follow_corrections=always"
             return lin_url
+        case "mw":
+            return f"https://dictionaryapi.com/api/v3/references/collegiate/json/{word}?key=51624bf2-914f-4dee-b757-83d6a2c67fb2"
 
 
 def format_to_flashcard(word):
@@ -233,12 +241,15 @@ def main():
         sleep(delay_per_request)
         lin_data = request(url("linguee", word))
         api_data = request(url("api", word))
+        mw_data = request(url("mw", word))
+        print(mw_data)
         if not lin_data or not api_data:
             print(f'Failed to retrieve information for "{word}" -> Skipped.')
             continue
         lin_info = process_linguee(lin_data, word)
         pos = lin_info["pos"]
         api_info = process_dictapi(api_data, lin_info["word"], pos)
+        mw_info = process_mw(mw_data, lin_info["word"], pos)
 
         info = merge(lin_info, api_info, pos)
         if info:
