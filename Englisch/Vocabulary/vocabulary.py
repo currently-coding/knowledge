@@ -6,9 +6,9 @@ from requests import ConnectionError, get
 
 in_filepath = "wordlist.md"
 out_filepath = "vocabulary.md"
-words_per_execution = 7
+words_per_execution = 1
 max_num_translations = 3
-delay_per_request = 2
+delay_per_request = 0
 
 # vars
 audio_british = "audio_british"
@@ -76,11 +76,29 @@ def get_chosen_entry(data, pos):
 
 
 def process_mw(data, word, pos):
-    print(data)
     info = {}
     entry = get_chosen_entry(data, pos)
+    if not entry:
+        return info
+    info["shortdef"] = []
+    info["definition"] = []
+    info["examples"] = []
+    for definition in entry.get("shortdef", []):
+        info["shortdef"].append(definition)
+    for def_block in entry.get("def", []):
+        for sseq in def_block.get("sseq", []):
+            for sense_group in sseq:
+                sense_data = sense_group[-1].get(
+                    "sense", sense_group[-1]
+                )  # handle both "bs" and "sense"
 
-    pass
+                # Collect definition text and usage examples
+                for dt_item in sense_data.get("dt", []):
+                    if dt_item[0] == "text":
+                        info["definition"].append(dt_item[1])
+                    elif dt_item[0] == "vis":
+                        info["examples"].append([vis["t"] for vis in dt_item[1]])
+    return info
 
 
 def process_linguee(data, word):
@@ -221,8 +239,33 @@ def process_dictapi(data, word, pos):
 
 
 def merge(data1, data2, pos):
-    master = {"pos": pos, **data1, **data2}
-    # each word must have a definition to be valid
+    master = {"pos": pos}
+
+    keys = set(data1) | set(data2)
+    for key in keys:
+        val1 = data1.get(key)
+        val2 = data2.get(key)
+
+        if key in data1 and key in data2:
+            if val1 == val2:
+                master[key] = val1
+            else:
+                # Combine into list, avoiding nested lists and duplicates
+                combined = []
+                if isinstance(val1, list):
+                    combined.extend(val1)
+                else:
+                    combined.append(val1)
+                if isinstance(val2, list):
+                    combined.extend(val2)
+                else:
+                    combined.append(val2)
+                # Remove duplicates, preserve order
+                seen = set()
+                master[key] = [x for x in combined if not (x in seen or seen.add(x))]
+        else:
+            master[key] = val1 if key in data1 else val2
+
     return master if master.get("definition") else None
 
 
@@ -242,16 +285,20 @@ def main():
         lin_data = request(url("linguee", word))
         api_data = request(url("api", word))
         mw_data = request(url("mw", word))
-        print(mw_data)
-        if not lin_data or not api_data:
+        if not lin_data or not api_data or not mw_data:
             print(f'Failed to retrieve information for "{word}" -> Skipped.')
             continue
         lin_info = process_linguee(lin_data, word)
+        word = lin_info["word"]
         pos = lin_info["pos"]
-        api_info = process_dictapi(api_data, lin_info["word"], pos)
-        mw_info = process_mw(mw_data, lin_info["word"], pos)
+        pos = "noun"
+        word = "assumption"
+        api_info = process_dictapi(api_data, word, pos)
+        mw_info = process_mw(mw_data, word, pos)
+        print("Info mw: ", mw_info)
 
         info = merge(lin_info, api_info, pos)
+        info = merge(info, mw_info, pos)
         if info:
             flashcards.append(format_to_flashcard(info))
     checkout(flashcards)

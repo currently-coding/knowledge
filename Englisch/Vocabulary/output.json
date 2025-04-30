@@ -1,444 +1,55 @@
-{
-  "meta": {
-    "id": "assurance",
-    "uuid": "0cbec46c-c203-4873-8add-e6ae1446aec1",
-    "sort": "014355000",
-    "src": "collegiate",
-    "section": "alpha",
-    "s tems": [
-      "assurance",
-      "assurances"
-    ],
-    "offensive": false
+[
+  {'definition': '{bc
+    }a taking to or upon oneself ', 'examples': []
   },
-  "hwi": {
-    "hw": "as*sur*ance",
-    "prs": [
-      {
-        "mw": "ə-ˈshu̇r-ən(t)s",
-        "sound": {
-          "audio": "ass ura01",
-          "ref": "c",
-          "stat": "1"
-        }
-      }
+  {'
+definition': '', 'examples': ['the {wi
+      }assumption{/wi
+      } of a new position'
     ]
   },
-  "fl": "noun",
-  "def": [
-    {
-      "sseq": [
-        [
-          [
-            "bs",
-            {
-              "sense": {
-                "sn": "1",
-                "dt": [
-                  [
-                    "text", "{bc
-                  }the state of being {a_ link|assured
-                  }: such as"
-                ]
-              ]
-            }
-          }
-        ],
-        [
-          "sense",
-          {
-            "sn": "a",
-            "dt": [
-              [
-                "text", "{bc
-              }a being certain in the mind "
-            ],
-            [
-              "vis",
-              [
-                {
-                  "t": "the puritan"s {wi
-                  }ass urance{/wi
-                  } of salvation"
-                }
-              ]
-            ]
-          ]
-        }
-      ],
-      [
-        "sense",
-        {
-          "sn": "b",
-          "dt": [
-            [
-              "text", "{bc
-            }confidence of mind or manner {bc
-            }easy freedom from self-doubt or u ncertainty "
-          ],
-          [
-            "vis",
-            [
-              {
-                "t": "spoke with {wi
-              }assurance{/wi
-              } about his future plans"
-            }
-          ]
-        ]
-      ],
-      "sdsense": {
-        "sd": "also",
-        "dt": [
-          [
-            "text", "{bc
-          }exces sive self-confidence {bc
-          }{sx|brashness||
-          },
-          {sx|presumption||
-          }"
-        ]
-      ]
-    }
-  }
-],
-[
-  "sense",
+  {'de
+finition': '{bc
+    }the act of laying claim to or taking possession of something ', '
+examples': []
+  },
+  {'definition': '', 'examples': ['the {wi
+      }assumption{/wi
+      } of power
+'
+    ]
+  },
+  {'definition': '{bc
+    }an assuming that something is true ', 'examples': []
+  },
   {
-    "sn": "c",
-    "dt": [
-      [
-        "text", "{bc
-      }{sx|security||
-      }"
+'definition': '', 'examples': ['a mistaken {wi
+      }assumption{/wi
+      }'
     ]
-  ]
+  },
+  {'definition':
+ '{bc
+    }a fact or statement (such as a proposition, axiom {dx_def
+    }see {dxt|axiom||2
+    }{/dx_def
+    },
+    {d_link|postulate|postulate: 2
+    }, or notion) taken for granted', 'examp
+les': []
+  },
+  {'definition': '{bc
+    }the taking up of a person into heaven', 'examples'
+: []
+  },
+  {'definition': '{bc
+    }August 15 observed in commemoration of the Assumption 
+of the Virgin Mary', 'examples': []
+  },
+  {'definition': "{bc}the taking over of anot
+her's debts", 'examples': []}, {'definition': '{bc}{sx|arrogance||}, {sx|pretensi
+on||
+  }', 'examples': []
 }
-]
-],
-[
-[
-"sens e",
-{
-  "sn": "2",
-  "dt": [
-    [
-      "text", "{bc
-    }something that inspires or tends to inspire confidence "
-  ],
-  [
-    "vis",
-    [
-      {
-        "t": "gave repeated {wi
-      }assurances{/ wi
-      } of goodwill"
-    }
-  ]
-]
-]
-}
-]
-],
-[
-[
-"bs",
-{
-"sense": {
-"sn": "3",
-"dt": [
-  [
-    "text", "{bc
-  }the act or action of {a_link|assuring
-  } someone or something: such as"
-]
-]
-}
-}
-],
-[
-"sense",
-{
-"sn": "a",
-"dt": [
-[
-"text", "{bc
-}{sx|pledge||
-},
-{sx|guarantee||
-} "
-],
-[
-"vis",
-[
-{
-  "t": "You have my solemn {wi
-}assurance{/wi
-} that it is true."
-}
-]
-]
-]
-}
-],
-[
-"sense",
-{
-"sn": "b",
-"dt": [
-[
-"text", "{bc
-}the act of conveying real property {dx_def
-}see {dxt|real: 1||2
-}{/dx_def
-}"
-]
-],
-"sdsense": {
-"sd": "also",
-"dt": [
-[
-"text", "{bc
-}the instrument {dx_def
-}see {dxt|instrument: 1||5
-}{/dx_def
-} by which it is conveyed"
-]
-]
-}
-}
-],
-[
-"s ense",
-{
-"sn": "c",
-"sls": [
-"chiefly British"
-],
-"dt": [
-[
-"text", "{bc
-}{sx|insurance||
-}"
-]
-]
-}
-]
-]
-]
-}
-],
-"syns": [
-{
-"pl": "synonyms",
-"pt": [
-[
-"text",
-"{s c}confidence{/sc} {sc}assurance{/sc} {sc}self-possession{/sc} {sc}aplomb{/sc} mean a state of mind or a manner marked by easy coolness and fre edom from uncertainty, diffidence, or embarrassment. {sc}confidence{/sc} stresses faith in oneself and one"s powers without any suggestion of conceit or arrogance. "
-],
-[
-"vis",
-[
-{
-"t": "the {it
-}confidence{/it
-} that comes from long experience"
-}
-]
-],
-[
-"text",
-" {sc}assurance{/sc} carries a stronger implication of certainty and may suggest arrogance or lack of objectivity in assessing one"s own powers. "
-],
-[
-"vis",
-[
-{
-"t": "handled the cross-examination with complete {it
-}assurance{/it
-}"
-}
-]
-],
-[
-"text",
-" {sc}self-possession{/sc} implies an ease or coolness under stress that reflects perfect self-control and command of one"s powers. "
-],
-[
-"vis",
-[
-{
-"t": "answered the insolent question with complete {it
-}self-possessi on{/it
-}"
-}
-]
-],
-[
-"text", " {sc
-}aplomb{/sc
-} implies a manifest self-possession in trying or challenging situations. "
-],
-[
-"vis",
-[
-{
-"t": "handled th e reporters with great {it
-}aplomb{/it
-}"
-}
-]
-]
-]
-}
-],
-"et": [
-[
-"text", "{dx_ety
-}see {dxt|assure||
-}{/dx_ety
-}"
-]
-],
-"date": "14th century{ds||3||
-}", "shor tdef": ["the state of being assured: such as", "a being certain in the mind", "confidence of mind or manner : easy freedom from self-doubt or uncertainty; also : excessive self-confidence : brashness, presumption"
-]
-},
-{
-"meta": {
-"id": "quality assurance",
-"uuid": "301e4328-a0ef-40e2-a8 ba-84692aa41ea5",
-"sort": "170012400",
-"src": "collegiate",
-"section": "alpha",
-"stems": [
-"quality assurance",
-"quality assurances"
-],
-"offensi ve": False
-},
-"hwi": {
-"hw": "quality assurance"
-},
-"fl": "noun",
-"def": [
-{
-"sseq": [
-[
-[
-"sense",
-{
-"dt": [
-[
-"text", "{bc
-}a program for the systematic monitoring and evaluation of the various aspects of a project, service, or facility to ensure that standards of quality are being met"
-]
-]
-}
-]
-]
-]
-}
-],
-"date": "1973",
-"shortdef": [
-"a program for the systematic monitoring and evaluation of the various aspects of a project, service, or facil ity to ensure that standards of quality are being met"
-]
-},
-{
-"meta": {
-"id": "self-assurance",
-"uuid": "41bcaabd-bc0e-46bd-9cf6-7efbd145422a",
-"s ort": "192097000",
-"src": "collegiate",
-"section": "alpha",
-"stems": [
-"self-assurance",
-"self-assurances"
-],
-"offensive": False
-},
-"hwi": {
-"hw": "self-as*sur*ance",
-"prs": [
-{
-"mw": "ˌself-ə-ˈshu̇r-ən(t)s",
-"sound": {
-"audio": "selfas08",
-"ref": "c",
-"stat": "1"
-}
-},
-{
-"mw": "-ˈshər-"
-}
-]
-},
-"fl ": "noun",
-"def": [
-{
-"sseq": [
-[
-[
-"sense",
-{
-"dt": [
-[
-"text", "{bc
-}{sx|self-confidence||
-}"
-]
-]
-}
-]
-]
-]
-}
-],
-"date": "1595",
-"shortdef": [
-"self-confidence"
-]
-},
-{
-"meta": {
-"id": "life assurance",
-"uuid": "9ecc1ea0-3e82-4d15-bf3c-d61c83c0a659",
-"sort": "3011059000",
-"src": "ld",
-"section": "idioms",
-" stems": [
-"life assurance"
-],
-"offensive": False
-},
-"hwi": {
-"hw": "life assurance"
-},
-"fl": "noun",
-"def": [
-{
-"sls": [
-"British"
-],
-"sseq": [
-[
-[
-"sense ",
-{
-"dt": [
-[
-"text", "{bc
-}a type of insurance that pays money to the family of someone who has died"
-]
-]
-}
-]
-]
-]
-}
-],
-"shortdef": [
-"a type of insurance that pays money to the family of someone who has died"
 ]
 }
