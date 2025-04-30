@@ -1,7 +1,3 @@
-assumption
-assurance
-altruism
-martial
 proclaim
 elevate
 validate  
@@ -1598,3 +1594,4 @@ vital
 voluntary
 warrant
 widespread
+

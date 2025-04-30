@@ -1,4 +1,6 @@
 import signal
+from dataclasses import dataclass, field
+from typing import List, Optional
 import subprocess
 from re import sub
 from time import sleep
@@ -17,6 +19,64 @@ audio_american = "audio_american"
 lin_base_url = "https://linguee-api.fly.dev"
 
 
+@dataclass
+class WordInfo:
+    word: str
+    pos: str
+    definitions: List[str] = field(default_factory=list)
+    examples: Optional[List[str]] = None
+    translations: List[str] = field(default_factory=list)
+    forms: Optional[List[str]] = None
+    pronunciation: Optional[str] = None
+    audio: Optional[dict[str, str]] = None
+    separotr: str = "?"
+
+    def add_definition(self, definition):
+        self.definitions.append(definition)
+
+    def add_example(self, example):
+        if not self.examples:
+            self.examples = []
+        self.examples.append(example)
+
+    def add_translation(self, translation):
+        self.translations.append(translation)
+
+    def add_forms(self, forms):
+        if not self.forms:
+            self.forms = []
+        self.forms.append(forms)
+
+    def add_audio(self, key, value):
+        if not self.audio:
+            self.audio = {}
+        self.audio[key] = value
+
+    def add_phonetic(self, phonetic):
+        self.pronunciation = phonetic
+
+    def to_flashcard(self) -> str:
+        flashcard = []
+        def_string = ", ".join(self.definitions)
+        flashcard.append(def_string)
+        flashcard.append(self.separotr)
+        flashcard.append(">[!vocab] " + self.word + "(" + self.pos + ")")
+        flashcard.append(">**Translations**: " + ", ".join(self.translations))
+        # if self.forms:
+        #     print("forms: ", self.forms)
+        #     flashcard.append(">**Forms**: " + ", ".join(self.forms))
+        if self.pronunciation:
+            flashcard.append(">**Pronunciation**: " + self.pronunciation)
+        if self.audio:
+            for key, value in self.audio.items():
+                flashcard.append(">**Audio " + key + ": " + value)
+        if self.examples:
+            flashcard.append(">>[!Example] Examples")
+            for example in self.examples:
+                flashcard.append(">>- " + example)
+        return "<br></br>".join(flashcard)
+
+
 # start server
 def start_server():
     proc = subprocess.Popen(
@@ -25,14 +85,14 @@ def start_server():
         stderr=subprocess.DEVNULL,
     )
     # wait for server to start
+    lin_base_url = "http://127.0.0.1:8000"
     for _ in range(20):
         try:
-            get("http://127.0.0.1:8000")
+            get(lin_base_url)
             print("Server is running...")
             break
         except ConnectionError:
             sleep(0.2)
-    lin_base_url = "http://127.0.0.1:8000"
     return proc
 
 
@@ -75,16 +135,13 @@ def get_chosen_entry(data, pos):
     return None
 
 
-def process_mw(data, word, pos):
-    info = {}
+def process_mw(result: WordInfo, data, word, pos):
     entry = get_chosen_entry(data, pos)
     if not entry:
-        return info
-    info["shortdef"] = []
-    info["definition"] = []
-    info["examples"] = []
+        return
     for definition in entry.get("shortdef", []):
-        info["shortdef"].append(definition)
+        if definition and definition != "":
+            result.add_definition(definition)
     for def_block in entry.get("def", []):
         for sseq in def_block.get("sseq", []):
             for sense_group in sseq:
@@ -95,18 +152,23 @@ def process_mw(data, word, pos):
                 # Collect definition text and usage examples
                 for dt_item in sense_data.get("dt", []):
                     if dt_item[0] == "text":
-                        info["definition"].append(dt_item[1])
+                        result.add_definition(dt_item[1])
                     elif dt_item[0] == "vis":
-                        info["examples"].append([vis["t"] for vis in dt_item[1]])
-    return info
+                        for vis in dt_item[1]:
+                            example = vis.get("t", None)
+                            if example:
+                                result.add_example(example)
 
 
-def process_linguee(data, word):
-    info = {}
+def process_linguee(data, word) -> WordInfo:
+    if len(data) < 1:
+        raise ValueError("Unknown word. No entry was found")
     entry = data[0]
-    info["pos"] = entry.get("pos", "")
-
-    info["word"] = entry.get("text", "N/A")
+    pos = entry.get("pos", None)
+    word = entry.get("text", None)
+    if not word or not pos:
+        raise ValueError("Unknown word. No entry was found")
+    result = WordInfo(word=word, pos=pos)
     # audio file
     audios = entry.get("audio_links", [])
     if not audios:
@@ -117,27 +179,26 @@ def process_linguee(data, word):
             link = audio.get("url")
             if link.count(to_remove) > 1:
                 link.replace(to_remove, "")
-            info[audio_british] = link
+            result.add_audio("british", link)
         elif audio.get("lang", "") == "American English":
             link = audio.get("url")
             if link.count(to_remove) > 1:
                 link.replace(to_remove, "")
-            info[audio_american] = link
+            result.add_audio("american", link)
 
     forms = entry.get("forms", [])
-    if forms:
-        info["forms"] = []
-    for form in forms:
-        info["forms"].append(form)
+    result.add_forms(forms)
 
     # translation
-    info["translation"] = []
-    info["examples"] = []
     for trans in entry.get("translations", []):
-        info["translation"].append(trans.get("text", ""))
+        translation = trans.get("text", None)
+        if translation:
+            result.add_translation(translation)
         for ex in trans.get("examples", []):
-            info["examples"].append(ex.get("src", ""))
-    return info
+            example = ex.get("src", None)
+            if example:
+                result.add_example(example)
+    return result
 
 
 def url(dictionary, word):
@@ -215,9 +276,7 @@ def get_words(amount):
     return words
 
 
-def process_dictapi(data, word, pos):
-    info = {}
-    info["definition"] = []
+def process_dictapi(result: WordInfo, data, word, pos):
     for entry in data:
         meaning_entry = {}
         for m in entry.get("meanings", []):
@@ -227,15 +286,13 @@ def process_dictapi(data, word, pos):
 
         phonetic = entry.get("phonetic", None)
         if phonetic:
-            info["phonetic"] = phonetic
+            result.add_phonetic(phonetic)
         for definition in meaning_entry.get("definitions", []):
             defi = definition.get("definition", None)
-            if not defi:
+            if not defi or defi == "":
                 continue
-            defi = sub(r"\([^\s]*?\)", "", defi).strip()
-            if defi != "":
-                info["definition"].append(defi)
-    return info
+            # defi = sub(r"\([^\s]*?\)", "", defi).strip()
+            result.add_definition(defi)
 
 
 def merge(data1, data2, pos):
@@ -245,6 +302,8 @@ def merge(data1, data2, pos):
     for key in keys:
         val1 = data1.get(key)
         val2 = data2.get(key)
+        print("1: ", key, "->", val1)
+        print("2: ", key, "->", val2)
 
         if key in data1 and key in data2:
             if val1 == val2:
@@ -262,7 +321,9 @@ def merge(data1, data2, pos):
                     combined.append(val2)
                 # Remove duplicates, preserve order
                 seen = set()
-                master[key] = [x for x in combined if not (x in seen or seen.add(x))]
+                for x in combined:
+                    seen.add(str(x))
+                master[key] = list(seen)
         else:
             master[key] = val1 if key in data1 else val2
 
@@ -278,6 +339,7 @@ def main():
 
     words = get_words(words_per_execution)
     flashcards = []
+    words = ["assumption"]
     for word in words:
         if delay_per_request != 0:
             print(f"Waiting for {delay_per_request} seconds.")
@@ -285,27 +347,31 @@ def main():
         lin_data = request(url("linguee", word))
         api_data = request(url("api", word))
         mw_data = request(url("mw", word))
-        if not lin_data or not api_data or not mw_data:
+        # lin data is needed and one of api/mw for the definition
+        if not lin_data or (not api_data and mw_data):
             print(f'Failed to retrieve information for "{word}" -> Skipped.')
             continue
-        lin_info = process_linguee(lin_data, word)
-        word = lin_info["word"]
-        pos = lin_info["pos"]
-        pos = "noun"
-        word = "assumption"
-        api_info = process_dictapi(api_data, word, pos)
-        mw_info = process_mw(mw_data, word, pos)
-        print("Info mw: ", mw_info)
+        info = process_linguee(lin_data, word)
+        process_dictapi(info, api_data, word, info.pos)
+        process_mw(info, mw_data, word, info.pos)
 
-        info = merge(lin_info, api_info, pos)
-        info = merge(info, mw_info, pos)
-        if info:
-            flashcards.append(format_to_flashcard(info))
-    checkout(flashcards)
+        # merge data from all sources
+        flashcard = info.to_flashcard()
+        print("FLASHCARD: ")
+        print(flashcard)
+        print()
+    # do all permanent file actions
+    # checkout(flashcards)
     try:
         stop_server(proc)
-    except:
-        pass
+    except (
+        AttributeError,
+        ProcessLookupError,
+        ValueError,
+        OSError,
+        UnboundLocalError,
+    ) as e:
+        print("Error while trying to shut down server:", e)
 
 
 if __name__ == "__main__":

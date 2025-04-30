@@ -1154,4 +1154,3 @@ To cause to become smaller., To become smaller; to contract., To cower or flinch
 >>- Wool socks shrink in hot water.
 >>- These tiny socks must have shrunk in the wash.
 <!--SR:!2025-05-01,2,238-->
-
