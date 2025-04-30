@@ -1,4 +1,3 @@
-proclaim
 elevate
 validate  
 promising

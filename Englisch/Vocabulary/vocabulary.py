@@ -23,20 +23,29 @@ lin_base_url = "https://linguee-api.fly.dev"
 class WordInfo:
     word: str
     pos: str
-    definitions: List[str] = field(default_factory=list)
+    definitions_api: List[str] = field(default_factory=list)
+    definitions_mw: List[str] = field(default_factory=list)
     examples: Optional[List[str]] = None
     translations: List[str] = field(default_factory=list)
     forms: Optional[List[str]] = None
     pronunciation: Optional[str] = None
     audio: Optional[dict[str, str]] = None
-    separotr: str = "?"
+    separator: str = "?"
+    max: int = 3
 
-    def add_definition(self, definition):
-        self.definitions.append(definition)
+    def add_definition(self, source, definition):
+        match source:
+            case "api":
+                self.definitions_api.append(definition)
+            case "mw":
+                self.definitions_mw.append(definition)
 
     def add_example(self, example):
         if not self.examples:
             self.examples = []
+        example = sub(r"\{[^}]+\}", "", example)
+        # example.replace("{wi}", "")
+        # example.replace("{/wi}", "")
         self.examples.append(example)
 
     def add_translation(self, translation):
@@ -45,7 +54,8 @@ class WordInfo:
     def add_forms(self, forms):
         if not self.forms:
             self.forms = []
-        self.forms.append(forms)
+        if len(forms) >= 2:
+            self.forms.append(forms)
 
     def add_audio(self, key, value):
         if not self.audio:
@@ -57,24 +67,29 @@ class WordInfo:
 
     def to_flashcard(self) -> str:
         flashcard = []
-        def_string = ", ".join(self.definitions)
-        flashcard.append(def_string)
-        flashcard.append(self.separotr)
+        definition = (
+            ", ".join(self.definitions_mw[:3])
+            + ", "
+            + ", ".join(self.definitions_api[:3])
+        )
+        flashcard.append(definition)
+        flashcard.append(self.separator)
         flashcard.append(">[!vocab] " + self.word + "(" + self.pos + ")")
-        flashcard.append(">**Translations**: " + ", ".join(self.translations))
-        # if self.forms:
-        #     print("forms: ", self.forms)
-        #     flashcard.append(">**Forms**: " + ", ".join(self.forms))
+        flashcard.append(">**Translations**: " + ", ".join(self.translations[:3]))
+        if self.forms:
+            print("forms: ", self.forms)
+            flashcard.append(">**Forms**: " + ", ".join(self.forms[0]))
         if self.pronunciation:
             flashcard.append(">**Pronunciation**: " + self.pronunciation)
         if self.audio:
             for key, value in self.audio.items():
+                value = f'<audio controls><source src={value} type="audio/mpeg">Unsupported.</audio>'
                 flashcard.append(">**Audio " + key + ": " + value)
         if self.examples:
             flashcard.append(">>[!Example] Examples")
             for example in self.examples:
                 flashcard.append(">>- " + example)
-        return "<br></br>".join(flashcard)
+        return "\n".join(flashcard) + "\n"
 
 
 # start server
@@ -97,6 +112,8 @@ def start_server():
 
 
 def stop_server(server):
+    if not server:
+        return
     print("Shutting down server...", end="")
     server.send_signal(signal.SIGINT)  # send SIGINT to stop uvicorn gracefully
     server.wait()
@@ -141,7 +158,7 @@ def process_mw(result: WordInfo, data, word, pos):
         return
     for definition in entry.get("shortdef", []):
         if definition and definition != "":
-            result.add_definition(definition)
+            result.add_definition("mw", definition)
     for def_block in entry.get("def", []):
         for sseq in def_block.get("sseq", []):
             for sense_group in sseq:
@@ -152,7 +169,8 @@ def process_mw(result: WordInfo, data, word, pos):
                 # Collect definition text and usage examples
                 for dt_item in sense_data.get("dt", []):
                     if dt_item[0] == "text":
-                        result.add_definition(dt_item[1])
+                        # result.add_definition("mw", dt_item[1])
+                        pass
                     elif dt_item[0] == "vis":
                         for vis in dt_item[1]:
                             example = vis.get("t", None)
@@ -177,13 +195,14 @@ def process_linguee(data, word) -> WordInfo:
         to_remove = "https://www.linguee.com/mp3/"
         if audio.get("lang", "") == "British English":
             link = audio.get("url")
-            if link.count(to_remove) > 1:
-                link.replace(to_remove, "")
+            print("contains: ", to_remove in link)
+            if to_remove in link:
+                link = link.replace(to_remove, "")
             result.add_audio("british", link)
         elif audio.get("lang", "") == "American English":
             link = audio.get("url")
-            if link.count(to_remove) > 1:
-                link.replace(to_remove, "")
+            if to_remove in link:
+                link = link.replace(to_remove, "")
             result.add_audio("american", link)
 
     forms = entry.get("forms", [])
@@ -292,7 +311,7 @@ def process_dictapi(result: WordInfo, data, word, pos):
             if not defi or defi == "":
                 continue
             # defi = sub(r"\([^\s]*?\)", "", defi).strip()
-            result.add_definition(defi)
+            result.add_definition("api", defi)
 
 
 def merge(data1, data2, pos):
@@ -302,8 +321,6 @@ def merge(data1, data2, pos):
     for key in keys:
         val1 = data1.get(key)
         val2 = data2.get(key)
-        print("1: ", key, "->", val1)
-        print("2: ", key, "->", val2)
 
         if key in data1 and key in data2:
             if val1 == val2:
@@ -331,6 +348,7 @@ def merge(data1, data2, pos):
 
 
 def main():
+    proc = None
     try:
         proc = start_server()
     except:
@@ -339,7 +357,6 @@ def main():
 
     words = get_words(words_per_execution)
     flashcards = []
-    words = ["assumption"]
     for word in words:
         if delay_per_request != 0:
             print(f"Waiting for {delay_per_request} seconds.")
@@ -359,9 +376,9 @@ def main():
         flashcard = info.to_flashcard()
         print("FLASHCARD: ")
         print(flashcard)
-        print()
+        flashcards.append(flashcard)
     # do all permanent file actions
-    # checkout(flashcards)
+    checkout(flashcards)
     try:
         stop_server(proc)
     except (

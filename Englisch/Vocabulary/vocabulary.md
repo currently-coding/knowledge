@@ -1154,3 +1154,38 @@ To cause to become smaller., To become smaller; to contract., To cower or flinch
 >>- Wool socks shrink in hot water.
 >>- These tiny socks must have shrunk in the wash.
 <!--SR:!2025-05-01,2,238-->
+
+a taking to or upon oneself, the act of laying claim to or taking possession of something, an assuming that something is true, The act of assuming, or taking to or upon oneself; the act of taking up or adopting., The act of taking for granted, or supposing a thing without proof; a supposition; an unwarrantable claim., The thing supposed; a postulate, or proposition assumed; a supposition.
+?
+>[!vocab] assumption(noun)
+>**Translations**: Annahme, Übernahme, Voraussetzung
+>**Pronunciation**: /əˈsʌmp.ʃən/
+>**Audio british: <audio controls><source src=https://assets.linguee.com/static/c482d3a6/mp3/EN_UK/64/64812e29215704620e2fd4965b413dbf-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american: <audio controls><source src=https://assets.linguee.com/static/c482d3a6/mp3/EN_US/64/64812e29215704620e2fd4965b413dbf-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- His assumption was right and he won the bet.
+>>- A newspaper article has to be based on facts, not assumptions.
+>>- The results confirm the validity of the assumption.
+>>- I demonstrated that my initial assumption was correct.
+>>- The assumption of leadership duties was important to him.
+>>- The theory is based on simple assumptions.
+>>- the assumption of a new position
+>>- the assumption of power
+>>- a mistaken assumption
+
+to declare publicly, typically insistently, proudly, or defiantly and in either speech or writing : announce, to give outward indication of : show, to declare or declare to be solemnly, officially, or formally, To announce or declare.
+?
+>[!vocab] proclaim(verb)
+>**Translations**: verkünden, verkündigen, ausrufen
+>**Forms**: proclaimed, proclaimed
+>**Pronunciation**: /pɹoʊˈkleɪm/
+>**Audio british: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/f7/f7c9b4226c83d519b2e143de9479287e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/f7/f7c9b4226c83d519b2e143de9479287e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The rebels proclaimed the country a republic.
+>>- She proudly proclaims her roots.
+>>- his manner proclaimed his genteel upbringing
+>>- proclaim an amnesty
+>>- proclaim the country a republic
+>>- proclaimed the rescue workers' efforts
+
