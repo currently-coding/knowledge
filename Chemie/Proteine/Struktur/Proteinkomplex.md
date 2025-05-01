@@ -1,5 +1,5 @@
 > [!Definition]
 > Proteinkomplex := Zusammelagerung mehrerer [[Proteine]]
-<!--SR:!2025-04-26,1,190-->
+<!--SR:!2025-05-03,2,190-->
 
 - 

@@ -1,17 +1,3 @@
-disclose
-margin
-championship
-profligate
-brevity
-efficiently
-intensify
-vice
-violation
-demonstrate
-utilize
-comparative
-feasible
-retreat
 discern
 anticipate
 connotation

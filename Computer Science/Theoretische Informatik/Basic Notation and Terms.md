@@ -60,7 +60,7 @@ $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of de
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
 <!--SR:!2025-05-11,160,310-->
 $f$ is total ::: $D_f = A$
-<!--SR:!2025-04-26,151,314!2026-03-20,397,339-->
+<!--SR:!2025-07-16,76,294!2026-03-20,397,339-->
 $f$ is surjective ::: $R_f = B$
 <!--SR:!2025-12-05,285,298!2025-05-14,58,274-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$

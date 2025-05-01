@@ -6,5 +6,5 @@
 
 >[!Definition]
 >Sounddesign := kreatives Nutzen von Samples
-<!--SR:!2025-04-24,28,270-->
+<!--SR:!2025-07-29,89,290-->
 - benutzt in Computerspielen, Filmen, Musicals, Opern
