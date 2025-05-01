@@ -33,8 +33,10 @@ else:
 in_filepath = "wordlist.md"
 out_filepath = "vocabulary.md"
 
-print(argv)
 if len(argv) != 2:
+    print(
+        f"Exiting...\nIncorrect number of arguments. Expected: 1, Received: {len(argv) - 1}."
+    )
     exit("Usage: python vocabulary.py <num_new_flashcards>")
 else:
     words_per_execution = int(argv[1])
