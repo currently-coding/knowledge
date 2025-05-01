@@ -1,23 +1,25 @@
-# Requesting webdata
+# WordInfo class
+from typing import List, Optional
 from dataclasses import dataclass, field
-
-# API key
-from os import getenv
-from random import randint
-
-# String cleaning
-from re import sub
 
 # Local server
 from signal import SIGINT
 from subprocess import DEVNULL, Popen
+
+# Requesting webdata
 from time import sleep
-
-# WordInfo class
-from typing import List, Optional
-
-from dotenv import load_dotenv
+from random import randint
 from requests import ConnectionError, get
+
+# Read arguments
+from sys import argv
+
+# API key
+from dotenv import load_dotenv
+from os import getenv
+
+# String cleaning
+from re import sub
 
 # get API key for Merriam-Webster
 load_dotenv()
@@ -31,9 +33,11 @@ else:
 in_filepath = "wordlist.md"
 out_filepath = "vocabulary.md"
 
-# Settings
-words_per_execution = 7
-# --------
+print(argv)
+if len(argv) != 2:
+    exit("Usage: python vocabulary.py <num_new_flashcards>")
+else:
+    words_per_execution = int(argv[1])
 
 # if server starts succesfully this will change to localhost
 lin_base_url = "https://linguee-api.fly.dev"
@@ -85,11 +89,11 @@ class WordInfo:
 
     def to_flashcard(self) -> str:
         flashcard = []
-        definition = (
-            ", ".join(self.definitions_mw[:3])
-            + ", "
-            + ", ".join(self.definitions_api[:3])
-        )
+        line_break = "<br>"
+        if use_mw:
+            definition = line_break.join(self.definitions_mw[:3])
+        else:
+            definition = line_break.join(self.definitions_api[:3])
         flashcard.append(definition)
         flashcard.append(self.separator)
         if self.pos == "verb":
@@ -123,22 +127,25 @@ def start_server():
         subprocess.Popen: Process object for the server.
     """
     global lin_base_url
-    print("Staring up server...", end=" ")
-    proc = Popen(
-        ["uvicorn", "linguee_api.api:app"],
-        stdout=DEVNULL,
-        stderr=DEVNULL,
-    )
-    # wait for server to start
-    lin_base_url = "http://127.0.0.1:8000"
-    for _ in range(20):
-        try:
-            get(lin_base_url)
-            print("-> Success")
-            break
-        except ConnectionError:
-            sleep(0.2)
-    return proc
+    try:
+        print("Staring up server...", end=" ")
+        proc = Popen(
+            ["uvicorn", "linguee_api.api:app"],
+            stdout=DEVNULL,
+            stderr=DEVNULL,
+        )
+        # wait for server to start
+        lin_base_url = "http://127.0.0.1:8000"
+        for _ in range(20):
+            try:
+                get(lin_base_url)
+                print("-> Success")
+                break
+            except ConnectionError:
+                sleep(0.2)
+        return proc
+    except (FileNotFoundError, PermissionError, OSError):
+        print("-> Failed.\n\t=> Defaulting to https://www.linguee-api.fly.dev/")
 
 
 def stop_server(server):
@@ -150,10 +157,13 @@ def stop_server(server):
     """
     if not server:
         return
-    print("Shutting down server...", end="")
-    server.send_signal(SIGINT)  # send SIGINT to stop uvicorn gracefully
-    server.wait()
-    print(" -> Success")
+    try:
+        print("Shutting down server...", end=" ")
+        server.send_signal(SIGINT)  # send SIGINT to stop uvicorn gracefully
+        server.wait()
+        print("-> Success")
+    except (ValueError, AttributeError, ProcessLookupError, ValueError, OSError) as e:
+        print("-> Failed.\n", e)
 
 
 def request(url):
@@ -180,7 +190,7 @@ def request(url):
         if response.status_code == 200:
             print("-> Success")
             break
-        print(f"->Request failed: Status Code <{response.status_code}>.")
+        print(f"-> Request failed: Status Code <{response.status_code}>.")
         sleep(5)
     try:
         return response.json()
@@ -388,22 +398,16 @@ def main():
     Main execution logic: retrieves words, queries APIs, processes results,
     writes flashcards, and handles server lifecycle.
     """
-    proc = None
-    try:
-        proc = start_server()
-    except:
-        print(
-            '-> Failed.\nSetting up server failed.\nDefaulting to "https://linguee-api.fly.dev"'
-        )
-        pass
+    proc = start_server()
 
     words = get_words(words_per_execution)
     flashcards = []
     for word in words:
-        delay_per_request = randint(1, 4)
+        delay_per_request = randint(0, 4)
         if delay_per_request != 0:
             print(f"\nWaiting for {delay_per_request} seconds.\n")
         sleep(delay_per_request)
+        print(f"\nLooking up {word}...\n")
         lin_data = request(url("linguee", word))
         api_data = request(url("api", word))
         if use_mw:
@@ -423,16 +427,7 @@ def main():
         flashcards.append(flashcard)
     # do all permanent file actions
     checkout(flashcards)
-    try:
-        stop_server(proc)
-    except (
-        AttributeError,
-        ProcessLookupError,
-        ValueError,
-        OSError,
-        UnboundLocalError,
-    ) as e:
-        print(" -> Error while trying to shut down server:", e)
+    stop_server(proc)
 
 
 if __name__ == "__main__":
