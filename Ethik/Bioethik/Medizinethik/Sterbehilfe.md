@@ -13,5 +13,5 @@
 2. Entkräftung des Dammbrucharguments durch klar definierte Regeln, Transparenz und Aufmerksamkeit
 
 ### Contra
-1. aktives Eingreifen ist ethisch grundsätzlich anders zu beurteilen als passives Untaetigbleiben.
-2. Vertrauensverlust in Aerzte
+1. aktives Eingreifen ist ethisch grundsätzlich anders zu beurteilen als passives Untätigbleiben.
+2. Vertrauensverlust in 
