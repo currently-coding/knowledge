@@ -92,7 +92,11 @@ class WordInfo:
         )
         flashcard.append(definition)
         flashcard.append(self.separator)
-        flashcard.append(">[!vocab] " + self.word + "(" + self.pos + ")")
+        if self.pos == "verb":
+            word = "to " + self.word
+        else:
+            word = self.word
+        flashcard.append(">[!vocab] " + word + "(" + self.pos + ")")
         flashcard.append(">**Translations**: " + ", ".join(self.translations[:3]))
         if self.forms:
             flashcard.append(">**Forms**: " + ", ".join(self.forms))
@@ -396,7 +400,7 @@ def main():
     words = get_words(words_per_execution)
     flashcards = []
     for word in words:
-        delay_per_request = randint(1, 5)
+        delay_per_request = randint(1, 4)
         if delay_per_request != 0:
             print(f"\nWaiting for {delay_per_request} seconds.\n")
         sleep(delay_per_request)

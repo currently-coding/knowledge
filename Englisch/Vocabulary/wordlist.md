@@ -1,17 +1,3 @@
-resonate
-retreat
-discern
-anticipate
-connotation
-refute
-emphasize
-harbinger
-exotic
-refrain
-provoke
-set-up
-augment
-convince
 exhibit
 link
 consequence
