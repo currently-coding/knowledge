@@ -1189,3 +1189,19 @@ to declare publicly, typically insistently, proudly, or defiantly and in either 
 >>- proclaim the country a republic
 >>- proclaimed the rescue workers' efforts
 
+to lift up or make higher : raise, to raise in rank or status, to improve morally, intellectually, or culturally, To raise (something) to a higher position., To promote (someone) to a higher rank., To confer honor or nobility on (someone).
+?
+>[!vocab] elevate(verb)
+>**Translations**: hochheben, erheben, erhöhen
+>**Forms**: elevated, elevated
+>**Pronunciation**: /ˈɛləveɪt/
+>**Audio american: <audio controls><source src=https://assets.linguee.com/static/2e0777ce/mp3/EN_US/c9/c9ff055d5178c1e5686eb62017e3c4ff-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british: <audio controls><source src=https://assets.linguee.com/static/2e0777ce/mp3/EN_UK/c9/c9ff055d5178c1e5686eb62017e3c4ff-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The queen promised to elevate me to knighthood.
+>>- elevate a patient's leg
+>>- exercises that elevate the heart rate
+>>- was elevated to chairman
+>>- great books that both entertain and elevate their readers
+>>- his voice elevated to a shout
+

@@ -1,4 +1,3 @@
-elevate
 validate  
 promising
 dissident
