@@ -211,3 +211,28 @@ of, relating to, or constituting the degree of comparison in a language that den
 >>[!Example] Examples
 >>- The professor conducts comparative research.
 
+, Able to be done in practice.
+?
+>[!vocab] feasible(adjective)
+>**Translations**: möglich, machbar, praktikabel
+>**Pronunciation**: /ˈfiːzəbəl/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/34/34408d2036c7a1760f0922ab779e5947-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/34/34408d2036c7a1760f0922ab779e5947-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- This is clearly the only feasible interpretation.
+>>- This is a good idea, but it's not feasible in practice.
+>>- We must find a solution that is really feasible.
+>>- The plan was well thought out and feasible.
+
+, A range; a continuous, infinite, one-dimensional set, possibly bounded by extremes., Specifically, a range of colours representing light (electromagnetic radiation) of contiguous frequencies; hence electromagnetic spectrum, visible spectrum, ultraviolet spectrum, etc., The autism spectrum.
+?
+>[!vocab] spectrum(noun)
+>**Translations**: Spektrum, Breite, Bandbreite
+>**Forms**: plural: spectra, spectrums
+>**Pronunciation**: /ˈspektɹəm/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/74/743bb262648fdcac6c5518898283c220-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/74/743bb262648fdcac6c5518898283c220-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The spectrum of possibilities is almost infinite.
+>>- The spectrum of different models is very broad.
+

@@ -1,5 +1,3 @@
-feasible
-spectrum
 resonate
 retreat
 discern
