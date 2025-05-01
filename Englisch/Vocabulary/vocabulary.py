@@ -8,7 +8,7 @@ from requests import ConnectionError, get
 
 in_filepath = "wordlist.md"
 out_filepath = "vocabulary.md"
-words_per_execution = 1
+words_per_execution = 7
 max_num_translations = 3
 delay_per_request = 0
 
