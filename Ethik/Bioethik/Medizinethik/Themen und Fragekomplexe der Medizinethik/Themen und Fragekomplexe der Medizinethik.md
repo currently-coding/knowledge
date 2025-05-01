@@ -2,7 +2,7 @@
 2. [[Präimplanatationsdiagnostik]]
 3. [[Klonen]]
 4. [[Transplantationsmedizin]]
-5. [[Sterbehilfe]]
+5. [[Ethik/Bioethik/Medizinethik/Themen und Fragekomplexe der Medizinethik/Sterbehilfe]]
 6. [[Schwangerschaftsabbruch]]
 7. [[Chancen und Risiken des Medizinischen Fortschritts]]
 8. [[Stellung der Handelnden]]
