@@ -84,7 +84,7 @@ class WordInfo:
         if self.audio:
             for key, value in self.audio.items():
                 value = f'<audio controls><source src={value} type="audio/mpeg">Unsupported.</audio>'
-                flashcard.append(">**Audio " + key + ": " + value)
+                flashcard.append(">**Audio**: " + key + ": " + value)
         if self.examples:
             flashcard.append(">>[!Example] Examples")
             for example in self.examples:

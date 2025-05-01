@@ -1195,8 +1195,8 @@ to lift up or make higher : raise, to raise in rank or status, to improve morall
 >**Translations**: hochheben, erheben, erhöhen
 >**Forms**: elevated, elevated
 >**Pronunciation**: /ˈɛləveɪt/
->**Audio american: <audio controls><source src=https://assets.linguee.com/static/2e0777ce/mp3/EN_US/c9/c9ff055d5178c1e5686eb62017e3c4ff-200.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio british: <audio controls><source src=https://assets.linguee.com/static/2e0777ce/mp3/EN_UK/c9/c9ff055d5178c1e5686eb62017e3c4ff-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/2e0777ce/mp3/EN_US/c9/c9ff055d5178c1e5686eb62017e3c4ff-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/2e0777ce/mp3/EN_UK/c9/c9ff055d5178c1e5686eb62017e3c4ff-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The queen promised to elevate me to knighthood.
 >>- elevate a patient's leg
