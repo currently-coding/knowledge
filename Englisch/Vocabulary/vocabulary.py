@@ -5,12 +5,12 @@ import subprocess
 from re import sub
 from time import sleep
 from requests import ConnectionError, get
+from random import randint
 
 in_filepath = "wordlist.md"
 out_filepath = "vocabulary.md"
-words_per_execution = 1
+words_per_execution = 10
 max_num_translations = 3
-delay_per_request = 0
 
 # vars
 audio_british = "audio_british"
@@ -84,7 +84,7 @@ class WordInfo:
         if self.audio:
             for key, value in self.audio.items():
                 value = f'<audio controls><source src={value} type="audio/mpeg">Unsupported.</audio>'
-                flashcard.append(">**Audio**: " + key + ": " + value)
+                flashcard.append(">**Audio " + key + "**: " + value)
         if self.examples:
             flashcard.append(">>[!Example] Examples")
             for example in self.examples:
@@ -162,6 +162,8 @@ def process_mw(result: WordInfo, data, word, pos):
     for def_block in entry.get("def", []):
         for sseq in def_block.get("sseq", []):
             for sense_group in sseq:
+                if type(sense_group) is not dict:
+                    continue
                 sense_data = sense_group[-1].get(
                     "sense", sense_group[-1]
                 )  # handle both "bs" and "sense"
@@ -358,6 +360,7 @@ def main():
     words = get_words(words_per_execution)
     flashcards = []
     for word in words:
+        delay_per_request = randint(1, 5)
         if delay_per_request != 0:
             print(f"Waiting for {delay_per_request} seconds.")
         sleep(delay_per_request)
@@ -374,8 +377,6 @@ def main():
 
         # merge data from all sources
         flashcard = info.to_flashcard()
-        print("FLASHCARD: ")
-        print(flashcard)
         flashcards.append(flashcard)
     # do all permanent file actions
     checkout(flashcards)
