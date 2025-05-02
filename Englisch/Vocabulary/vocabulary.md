@@ -401,6 +401,7 @@ a connecting structure: such as<br>a single ring or division of a chain<br>one o
 >>- I deleted the link to the file on my website.
 >>- The link opens in a new tab.
 >>- The link to this file was deleted.
+<!--SR:!2025-05-03,1,221-->
 
 a conclusion derived through logic : inference<br>something produced by a cause or necessarily following from a set of conditions<br>importance with respect to power to produce an effect
 ?
