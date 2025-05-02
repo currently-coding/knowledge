@@ -343,3 +343,107 @@ to call forth (a feeling, an action, etc.) : evoke<br>to stir up purposely<br>to
 >>- The politician's statement provoked public criticism.
 <!--SR:!2025-05-03,1,220-->
 
+to make greater, more numerous, larger, or more intense<br>supplement<br>to add an augment to (a verb form)
+?
+>[!vocab] to augment(verb)
+>**Translations**: ergänzen, vermehren, verbessern
+>**Forms**: augmented, augmented
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c5/c5343dde4ad1c4ce6e65bb8d9cc0682e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c5/c5343dde4ad1c4ce6e65bb8d9cc0682e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- We augmented the range of products with some new options.
+>>- She augmented her savings with prudent investments.
+
+carriage of the body; especially : erect and soldierly bearing<br>constitution, makeup<br>the assembly and arrangement of the tools and apparatus required for the performance of an operation
+?
+>[!vocab] setup(noun)
+>**Translations**: Aufbau, Einrichtung, Einrichten
+>**Pronunciation**: /ˈsɛtˌʌp/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/a0/a0f848942ce863cf53c0fa6cc684007d-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The setup of the computer program did not take long.
+
+to bring (as by argument) to belief, consent, or a course of action : persuade<br>to overcome by argument<br>overpower, overcome
+?
+>[!vocab] to convince(verb)
+>**Translations**: überzeugen, überreden
+>**Forms**: convinced, convinced
+>**Pronunciation**: /kənˈvɪns/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/d9/d966a024a058e078e0b04ad6af5fd844-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/d9/d966a024a058e078e0b04ad6af5fd844-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- He convinced the fighters not to strike.
+
+to submit (something, such as a document) to a court or officer in course of proceedings; also : to present or offer officially or in legal form<br>to present to view: such as<br>to show or display outwardly especially by visible signs or actions
+?
+>[!vocab] to exhibit(verb)
+>**Translations**: aufweisen, zeigen, ausstellen
+>**Forms**: exhibited, exhibited
+>**Pronunciation**: /ɛɡ-/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/22/22645ed8b5f5fa4b597d0fe61bed6a96-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/22/22645ed8b5f5fa4b597d0fe61bed6a96-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The man exhibited several signs of old age.
+>>- The patient exhibited signs of improvement after the treatment.
+>>- She decided to exhibit her paintings in a local museum.
+
+a connecting structure: such as<br>a single ring or division of a chain<br>one of the standardized divisions of a surveyor's chain that is 7.92 inches (20.1 centimeters) long and serves as a measure of length
+?
+>[!vocab] link(noun)
+>**Translations**: Verbindung, Zusammenhang, Link
+>**Pronunciation**: /lɪŋk/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/2a/2a304a1348456ccd2234cd71a81bd338-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/2a/2a304a1348456ccd2234cd71a81bd338-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The bridge serves as a link between the two islands.
+>>- A strong link exists between music and arts.
+>>- The detective tried to find the link between two cases.
+>>- I deleted the link to the file on my website.
+>>- The link opens in a new tab.
+>>- The link to this file was deleted.
+
+a conclusion derived through logic : inference<br>something produced by a cause or necessarily following from a set of conditions<br>importance with respect to power to produce an effect
+?
+>[!vocab] consequence(noun)
+>**Translations**: Folge, Konsequenz, Ergebnis
+>**Pronunciation**: /ˈkɒnsɪkwɛns/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/da/da9c3748877e7cc063dea8073b33986d-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/da/da9c3748877e7cc063dea8073b33986d-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Effectively, the mistake did not have any consequences.
+>>- A volcanic eruption would have dire consequences.
+
+to exert pressure especially on opposite sides of : compress<br>to extract or emit under pressure<br>to force or thrust by compression
+?
+>[!vocab] to squeeze(verb)
+>**Translations**: drücken, pressen, quetschen
+>**Forms**: squeezed, squeezed
+>**Pronunciation**: /skwiːz/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c6/c695be4ac9d9282355db8c412a4d0a84-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c6/c695be4ac9d9282355db8c412a4d0a84-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- She squeezed the tube to get the toothpaste out.
+>>- I am squeezing all my clothes into a tiny suitcase.
+>>- She squeezed some oranges to make juice.
+>>- I am squeezing an orange to get fresh juice.
+
+the practice or activity of playing games for stakes : gambling —often used before another noun<br>the practice or activity of playing games (such as board games, card games, or video games) —often used before another noun
+?
+>[!vocab] gaming(noun)
+>**Translations**: Spielen
+>**Pronunciation**: /ˈɡeɪmɪŋ/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/96/967ef2eb34634ba418db94dab610ba6f-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/96/967ef2eb34634ba418db94dab610ba6f-100.mp3 type="audio/mpeg">Unsupported.</audio>
+
+to take, receive, or obtain especially from a specified source<br>to obtain (a chemical substance) actually or theoretically from a parent substance<br>infer, deduce
+?
+>[!vocab] to derive(verb)
+>**Translations**: ableiten, erlangen
+>**Forms**: derived, derived
+>**Pronunciation**: /dəˈɹaɪv/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c4/c4f636394cbfb29aa8fd5e192dae3060-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c4/c4f636394cbfb29aa8fd5e192dae3060-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The correct answer can be derived from the data.
+>>- She derives her inner strength from meditation.
+

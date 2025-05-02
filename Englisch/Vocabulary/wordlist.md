@@ -1,12 +1,3 @@
-augment
-setup
-convince
-exhibit
-link
-consequence
-squeeze
-gaming
-derive
 introduce
 synthesize
 soundness

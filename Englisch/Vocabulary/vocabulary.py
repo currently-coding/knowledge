@@ -98,6 +98,11 @@ class WordInfo:
             definition = line_break.join(self.definitions_mw[:3])
         else:
             definition = line_break.join(self.definitions_api[:3])
+        if definition.strip() == "":
+            print(
+                f'\nError: Skipping flashcard for "{self.word}" as there was no definition found.'
+            )
+            return ""
         flashcard.append(definition)
         flashcard.append(self.separator)
         if self.pos == "verb":
@@ -239,9 +244,9 @@ def process_mw(result: WordInfo, data, word, pos):
         print(f"-> No Entry was found for the {pos} {word}.")
         return
     # FIX: also removes skips wrong words
-    # if not entry.get("meta", {}).get("id", "") == word:
-    #     print(f"-> No Entry was found for the {pos} {word}.")
-    #     return
+    if word not in entry.get("meta", {}).get("id", ""):
+        print(f"-> No Entry was found for the {pos} {word}.")
+        return
     for definition in entry.get("shortdef", []):
         if definition and definition != "":
             result.add_definition("mw", definition)
