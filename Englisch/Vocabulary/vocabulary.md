@@ -17,18 +17,6 @@ a hypothesis advanced as an essential presupposition, condition, or premise of a
 >>- The theory is based on three postulates.
 <!--SR:!2025-05-04,3,252-->
 
-a conclusion derived through logic : inference<br>something produced by a cause or necessarily following from a set of conditions<br>importance with respect to power to produce an effect
-?
->[!vocab] consequence(noun)
->**Translations**: Folge, Konsequenz, Ergebnis
->**Pronunciation**: /ˈkɒnsɪkwɛns/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/da/da9c3748877e7cc063dea8073b33986d-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/da/da9c3748877e7cc063dea8073b33986d-100.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example] Examples
->>- Effectively, the mistake did not have any consequences.
->>- A volcanic eruption would have dire consequences.
-<!--SR:!2025-05-04,2,241-->
-
 serving or tending to protect oneself
 ?
 >[!vocab] protective(adjective)
@@ -353,7 +341,7 @@ to make greater, more numerous, larger, or more intense<br>supplement<br>to add 
 >>[!Example] Examples
 >>- We augmented the range of products with some new options.
 >>- She augmented her savings with prudent investments.
-<!--SR:!2025-05-04,2,241-->
+<!--SR:!2025-05-05,3,262-->
 
 carriage of the body; especially : erect and soldierly bearing<br>constitution, makeup<br>the assembly and arrangement of the tools and apparatus required for the performance of an operation
 ?
@@ -389,6 +377,7 @@ to submit (something, such as a document) to a court or officer in course of pro
 >>- The man exhibited several signs of old age.
 >>- The patient exhibited signs of improvement after the treatment.
 >>- She decided to exhibit her paintings in a local museum.
+<!--SR:!2025-05-03,1,222-->
 
 a connecting structure: such as<br>a single ring or division of a chain<br>one of the standardized divisions of a surveyor's chain that is 7.92 inches (20.1 centimeters) long and serves as a measure of length
 ?
@@ -416,6 +405,7 @@ a conclusion derived through logic : inference<br>something produced by a cause 
 >>[!Example] Examples
 >>- Effectively, the mistake did not have any consequences.
 >>- A volcanic eruption would have dire consequences.
+<!--SR:!2025-05-05,3,262-->
 
 to exert pressure especially on opposite sides of : compress<br>to extract or emit under pressure<br>to force or thrust by compression
 ?
@@ -444,26 +434,3 @@ to take, receive, or obtain especially from a specified source<br>to obtain (a c
 >>- The correct answer can be derived from the data.
 >>- She derives her inner strength from meditation.
 <!--SR:!2025-05-04,2,241-->
-
-to make greater, more numerous, larger, or more intense<br>supplement<br>to add an augment to (a verb form)
-?
->[!vocab] to augment(verb)
->**Translations**: ergänzen, vermehren, verbessern
->**Forms**: augmented, augmented
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c5/c5343dde4ad1c4ce6e65bb8d9cc0682e-200.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c5/c5343dde4ad1c4ce6e65bb8d9cc0682e-200.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example] Examples
->>- We augmented the range of products with some new options.
->>- She augmented her savings with prudent investments.
-
-to make greater, more numerous, larger, or more intense<br>supplement<br>to add an augment to (a verb form)
-?
->[!vocab] to augment(verb)
->**Translations**: ergänzen, vermehren, verbessern
->**Forms**: augmented, augmented
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c5/c5343dde4ad1c4ce6e65bb8d9cc0682e-200.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c5/c5343dde4ad1c4ce6e65bb8d9cc0682e-200.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example] Examples
->>- We augmented the range of products with some new options.
->>- She augmented her savings with prudent investments.
-
