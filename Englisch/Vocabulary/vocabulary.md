@@ -28,7 +28,6 @@ a conclusion derived through logic : inference<br>something produced by a cause 
 >>- Effectively, the mistake did not have any consequences.
 >>- A volcanic eruption would have dire consequences.
 <!--SR:!2025-05-04,2,241-->
-<!--SR:!2025-05-04,3,252-->
 
 serving or tending to protect oneself
 ?
@@ -354,6 +353,7 @@ to make greater, more numerous, larger, or more intense<br>supplement<br>to add 
 >>[!Example] Examples
 >>- We augmented the range of products with some new options.
 >>- She augmented her savings with prudent investments.
+<!--SR:!2025-05-04,2,241-->
 
 carriage of the body; especially : erect and soldierly bearing<br>constitution, makeup<br>the assembly and arrangement of the tools and apparatus required for the performance of an operation
 ?
@@ -363,6 +363,7 @@ carriage of the body; especially : erect and soldierly bearing<br>constitution, 
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/a0/a0f848942ce863cf53c0fa6cc684007d-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The setup of the computer program did not take long.
+<!--SR:!2025-05-05,3,261-->
 
 to bring (as by argument) to belief, consent, or a course of action : persuade<br>to overcome by argument<br>overpower, overcome
 ?
@@ -429,14 +430,7 @@ to exert pressure especially on opposite sides of : compress<br>to extract or em
 >>- I am squeezing all my clothes into a tiny suitcase.
 >>- She squeezed some oranges to make juice.
 >>- I am squeezing an orange to get fresh juice.
-
-the practice or activity of playing games for stakes : gambling —often used before another noun<br>the practice or activity of playing games (such as board games, card games, or video games) —often used before another noun
-?
->[!vocab] gaming(noun)
->**Translations**: Spielen
->**Pronunciation**: /ˈɡeɪmɪŋ/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/96/967ef2eb34634ba418db94dab610ba6f-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/96/967ef2eb34634ba418db94dab610ba6f-100.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-05,3,261-->
 
 to take, receive, or obtain especially from a specified source<br>to obtain (a chemical substance) actually or theoretically from a parent substance<br>infer, deduce
 ?
