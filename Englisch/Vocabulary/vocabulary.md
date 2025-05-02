@@ -80,7 +80,7 @@ to make known or public<br>to expose to view<br>hatch
 >>- The police did not disclose the name of the suspect.
 >>- The bank may not disclose information about its clients.
 >>- He wants to disclose his secret.
-<!--SR:!2025-05-02,1,209-->
+<!--SR:!2025-05-05,3,229-->
 
 the part of a page or sheet outside the main body of printed or written matter<br>the outside limit and adjoining surface of something : edge<br>a spare amount or measure or degree allowed or given for contingencies or special situations
 ?
@@ -239,4 +239,107 @@ an act or process of withdrawing especially from what is difficult, dangerous, o
 >>- This military strategy forced the enemy's retreat.
 >>- My house in the mountains is my retreat.
 <!--SR:!2025-05-04,3,253-->
+
+to detect with the eyes<br>to detect with senses other than vision<br>to recognize or identify as separate and distinct : discriminate
+?
+>[!vocab] to discern(verb)
+>**Translations**: erkennen, unterscheiden, wahrnehmen
+>**Forms**: discerned, discerned
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/62/620099028f603c1f9352fce5801c2e58-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/62/620099028f603c1f9352fce5801c2e58-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- She can easily discern his face in the crowd.
+<!--SR:!2025-05-05,3,260-->
+
+to give advance thought, discussion, or treatment to<br>to meet (an obligation) before a due date<br>to foresee and deal with in advance : forestall
+?
+>[!vocab] to anticipate(verb)
+>**Translations**: erwarten, vorwegnehmen, vorhersehen
+>**Forms**: anticipated, anticipated
+>**Pronunciation**: /ænˈtɪs.ɪ.peɪt/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/d3/d33ddd3fc3de04fa9cfbaa53ab423b9f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/d3/d33ddd3fc3de04fa9cfbaa53ab423b9f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The company anticipates sales growth in the upcoming year.
+>>- Product designers anticipate the needs of the customers.
+>>- You cannot anticipate every possible reaction to an act.
+>>- I anticipated my mother's reaction.
+<!--SR:!2025-05-05,3,260-->
+
+something suggested by a word or thing : implication<br>the suggesting of a meaning by a word apart from the thing it explicitly names or describes<br>the signification of something
+?
+>[!vocab] connotation(noun)
+>**Translations**: Konnotation, Beiklang, Begriffsinhalt
+>**Pronunciation**: /ˌkɒnəˈteɪʃən/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/2b/2bc63a3ecee50c46de4cd7f6a2cccf5e-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/2b/2bc63a3ecee50c46de4cd7f6a2cccf5e-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Words can have different connotations.
+>>- The word she used had a positive connotation.
+>>- The connotation encompasses the different meanings of a word.
+<!--SR:!2025-05-05,3,259-->
+
+to prove wrong by argument or evidence : show to be false or erroneous<br>to deny the truth or accuracy of
+?
+>[!vocab] to refute(verb)
+>**Translations**: widerlegen, entkräften, leugnen
+>**Forms**: refuted, refuted
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/08/08290ab350f041d54b1da164022ed268-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/08/08290ab350f041d54b1da164022ed268-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- I refute these false allegations.
+<!--SR:!2025-05-03,1,220-->
+
+to place emphasis on : stress
+?
+>[!vocab] to emphasize(verb)
+>**Translations**: betonen, hervorheben, unterstreichen
+>**Forms**: (emphasized, emphasized; BE frequently used: emphasised, emphasised) (BE: emphasise, emphasise sth.) (BE frequently used: emphasise)
+>**Pronunciation**: /ˈɛm.fə.saɪz/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/ce/ced0132b3e34e52ca7d9458602e6e1d4-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/ce/ced0132b3e34e52ca7d9458602e6e1d4-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- He emphasized the importance of donations.
+>>- The professor emphasized the importance of recycling.
+<!--SR:!2025-05-05,3,260-->
+
+
+?
+>[!vocab] harbinger(noun)
+>**Translations**: Vorbote, Herold, Vorläufer
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/7b/7b52da21e09c1c25ec89c2b04a35a595-100.mp3 type="audio/mpeg">Unsupported.</audio>
+
+
+?
+>[!vocab] exotic(adjective)
+>**Translations**: exotisch, fremdartig, ausländisch
+>**Pronunciation**: /ɪɡˈzɒtɪk/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/65/65285ac7c754ae478ed41fc4e5867e9e-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/65/65285ac7c754ae478ed41fc4e5867e9e-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- I like to eat exotic fruits, such as papayas and mangos.
+>>- The unexplored jungle had an exotic beauty.
+
+
+?
+>[!vocab] refrain(noun)
+>**Translations**: Refrain, Kehrreim
+>**Pronunciation**: /ɹɪˈfɹeɪn/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/6b/6b426ddb4f48b444084a66258627fde1-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/6b/6b426ddb4f48b444084a66258627fde1-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The choir sings a refrain after every strophe.
+
+to call forth (a feeling, an action, etc.) : evoke<br>to stir up purposely<br>to provide the needed stimulus for
+?
+>[!vocab] to provoke(verb)
+>**Translations**: provozieren, auslösen, zur Folge haben
+>**Forms**: (provoked, provoked)
+>**Pronunciation**: /pɹəˈvəʊk/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/b9/b98b13e0dde93476c472601976edb489-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/b9/b98b13e0dde93476c472601976edb489-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The scandal provoked public anger.
+>>- The politician's statement provoked public criticism.
+<!--SR:!2025-05-03,1,220-->
 

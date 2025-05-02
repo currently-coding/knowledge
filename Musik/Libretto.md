@@ -1,5 +1,6 @@
 >[!Definition]
 >Libretto := Text eines Musiktheaters
+<!--SR:!2025-05-05,3,230-->
 
 ## Merkmale
 - viele Wiederholungen

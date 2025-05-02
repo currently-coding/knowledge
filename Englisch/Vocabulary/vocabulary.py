@@ -79,6 +79,8 @@ class WordInfo:
         if not self.forms:
             self.forms = []
         if len(forms) >= 2:
+            if ")" in forms or "(" in forms:
+                forms = "(" + forms + ")"
             self.forms.append(", ".join(forms))
 
     def add_audio(self, key, value):
@@ -234,8 +236,12 @@ def process_mw(result: WordInfo, data, word, pos):
     """
     entry = get_chosen_entry(data, pos)
     if not entry:
+        print(f"-> No Entry was found for the {pos} {word}.")
         return
-    # TODO: only process if the word matches the provided one
+    # FIX: also removes skips wrong words
+    # if not entry.get("meta", {}).get("id", "") == word:
+    #     print(f"-> No Entry was found for the {pos} {word}.")
+    #     return
     for definition in entry.get("shortdef", []):
         if definition and definition != "":
             result.add_definition("mw", definition)

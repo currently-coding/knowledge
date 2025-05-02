@@ -1,14 +1,5 @@
-discern
-anticipate
-connotation
-refute
-emphasize
-harbinger
-exotic
-refrain
-provoke
-set-up
 augment
+setup
 convince
 exhibit
 link
