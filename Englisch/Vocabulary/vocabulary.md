@@ -27,6 +27,7 @@ a conclusion derived through logic : inference<br>something produced by a cause 
 >>[!Example] Examples
 >>- Effectively, the mistake did not have any consequences.
 >>- A volcanic eruption would have dire consequences.
+<!--SR:!2025-05-04,2,241-->
 <!--SR:!2025-05-04,3,252-->
 
 serving or tending to protect oneself
@@ -373,6 +374,7 @@ to bring (as by argument) to belief, consent, or a course of action : persuade<b
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/d9/d966a024a058e078e0b04ad6af5fd844-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- He convinced the fighters not to strike.
+<!--SR:!2025-05-05,3,261-->
 
 to submit (something, such as a document) to a court or officer in course of proceedings; also : to present or offer officially or in legal form<br>to present to view: such as<br>to show or display outwardly especially by visible signs or actions
 ?
