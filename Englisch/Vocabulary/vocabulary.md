@@ -446,4 +446,5 @@ to take, receive, or obtain especially from a specified source<br>to obtain (a c
 >>[!Example] Examples
 >>- The correct answer can be derived from the data.
 >>- She derives her inner strength from meditation.
+<!--SR:!2025-05-04,2,241-->
 
