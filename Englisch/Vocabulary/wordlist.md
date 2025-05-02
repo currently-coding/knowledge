@@ -1,10 +1,3 @@
-introduce
-synthesize
-soundness
-convivial
-veracity
-precisely
-inhabitant
 invalidate
 reasoning
 arbitrary

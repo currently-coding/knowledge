@@ -434,3 +434,77 @@ to take, receive, or obtain especially from a specified source<br>to obtain (a c
 >>- The correct answer can be derived from the data.
 >>- She derives her inner strength from meditation.
 <!--SR:!2025-05-04,2,241-->
+to lead to or make known by a formal act, announcement, or recommendation: such as<br>to cause to be acquainted<br>to make preliminary explanatory or laudatory remarks about
+?
+>[!vocab] to introduce(verb)
+>**Translations**: einführen, vorstellen, einbringen
+>**Forms**: introduced, introduced
+>**Pronunciation**: /ˌɪntɹəˈdjuːs/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/71/718863f992362b7ba323aa59a2a44ed1-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/71/718863f992362b7ba323aa59a2a44ed1-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Our company introduced two new products last year.
+>>- They introduced double checks at some airports.
+>>- We ought to introduce changes, and will indeed do so soon.
+>>- The host introduced the guests right at the beginning of the show.
+>>- The company will introduce a range of new products in spring.
+>>- I introduced myself to the new associate at the office.
+>>- I introduced a new suggestion to the discussion.
+>>- The new administration introduced many important changes.
+>>- This course will introduce you to the different types of boats.
+>>- The first settlers introduced European diseases to America.
+>>- The speaker introduced the winner.
+
+to combine or produce by synthesis<br>to make a synthesis of<br>to produce (something, such as music) by an electronic synthesizer
+?
+>[!vocab] to synthesize(verb)
+>**Translations**: synthetisieren, künstlich herstellen, aufbauen
+>**Forms**: synthesized, synthesized; BE frequently used: synthesised, synthesised) (BE: synthesise) (BE frequently used: synthesise
+>**Pronunciation**: /ˈsɪnθəsaɪz/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/d6/d6284de87997d101a0cee91cc449ff46-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/d6/d6284de87997d101a0cee91cc449ff46-200.mp3 type="audio/mpeg">Unsupported.</audio>
+
+
+relating to, occupied with, or fond of feasting, drinking, and good company
+?
+>[!vocab] convivial(adjective)
+>**Translations**: gesellig, gastlich, festlich
+>**Pronunciation**: /kənˈvɪv.i.əl/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/44/44219e0dc662875e7a8885fb960c943d-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/44/44219e0dc662875e7a8885fb960c943d-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-05,3,263-->
+
+conformity with truth or fact : accuracy<br>devotion to the truth : truthfulness<br>power of conveying or perceiving truth
+?
+>[!vocab] veracity(noun)
+>**Translations**: Richtigkeit, Wahrhaftigkeit, Wahrheitsgehalt
+>**Pronunciation**: /vəˈɹæ.sɪ.ti/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/23/2383576a9ae22802531a0634f2c46952-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/23/2383576a9ae22802531a0634f2c46952-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The expert was able to confirm the veracity of the information.
+<!--SR:!2025-05-03,1,223-->
+
+in a precise manner : exactly —often used to emphasize the precision of something (such as a measurement, time, description, etc.)<br>quite so —used to confirm emphatically that what has been said or suggested is exactly correct
+?
+>[!vocab] precisely(adverb)
+>**Translations**: genau, gerade, präzise
+>**Pronunciation**: /pɹɪˈsaɪsli/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/f8/f8d5619dce76ee38cf24c4da2cec84ca-400.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/f8/f8d5619dce76ee38cf24c4da2cec84ca-400.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- She solved the problem precisely as the teacher expected.
+>>- I can set the scaling of the machine precisely.
+<!--SR:!2025-05-05,3,263-->
+
+one that occupies a particular place regularly, routinely, or for a period of time
+?
+>[!vocab] inhabitant(noun)
+>**Translations**: Einwohner, Bewohner, Bewohnerin
+>**Pronunciation**: /ɪnˈhæ.bɪ.tənt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/e9/e95b0ee0ac5e1c1590e83a480cad2e5b-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/e9/e95b0ee0ac5e1c1590e83a480cad2e5b-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- This little town has only very few inhabitants.
+>>- Berlin has fewer inhabitants than Cairo.
+
