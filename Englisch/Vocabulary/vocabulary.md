@@ -451,3 +451,25 @@ to take, receive, or obtain especially from a specified source<br>to obtain (a c
 >>- She derives her inner strength from meditation.
 <!--SR:!2025-05-04,2,241-->
 
+to make greater, more numerous, larger, or more intense<br>supplement<br>to add an augment to (a verb form)
+?
+>[!vocab] to augment(verb)
+>**Translations**: ergänzen, vermehren, verbessern
+>**Forms**: augmented, augmented
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c5/c5343dde4ad1c4ce6e65bb8d9cc0682e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c5/c5343dde4ad1c4ce6e65bb8d9cc0682e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- We augmented the range of products with some new options.
+>>- She augmented her savings with prudent investments.
+
+to make greater, more numerous, larger, or more intense<br>supplement<br>to add an augment to (a verb form)
+?
+>[!vocab] to augment(verb)
+>**Translations**: ergänzen, vermehren, verbessern
+>**Forms**: augmented, augmented
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c5/c5343dde4ad1c4ce6e65bb8d9cc0682e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c5/c5343dde4ad1c4ce6e65bb8d9cc0682e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- We augmented the range of products with some new options.
+>>- She augmented her savings with prudent investments.
+
