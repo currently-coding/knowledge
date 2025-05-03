@@ -88,6 +88,9 @@ class WordInfo:
                 if forms.startswith("("):
                     forms = forms[1:]
                     forms = forms.replace(")", "", 1)
+            else:
+                forms = ") (".join(forms)
+            self.forms = forms
 
     def add_audio(self, key, value):
         if not self.audio:

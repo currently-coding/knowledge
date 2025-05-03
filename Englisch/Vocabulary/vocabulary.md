@@ -711,16 +711,6 @@ a judgment involving condemnation<br>the act of blaming or condemning sternly<br
 >>- The politician accepted the public censure and resigned.
 <!--SR:!2025-05-06,3,250-->
 
-to give new life or vigor to
-?
->[!vocab] to revitalize(verb)
->**Translations**: revitalisieren, wiederbeleben, neu beleben
->**Forms**: r, e, v, i, t, a, l, i, z, e, d, ,,  , r, e, v, i, t, a, l, i, z, e, d,  , (, B, E,  , f, r, e, q, u, e, n, t, l, y,  , u, s, e, d, :,  , r, e, v, i, t, a, l, i, s, e, )
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example] Examples
->>- The cream will revitalize dry skin.
-
 the authority of a master : dominion<br>the upper hand in a contest or competition : superiority, ascendancy<br>possession or display of great skill or technique
 ?
 >[!vocab] mastery(noun)
@@ -731,6 +721,7 @@ the authority of a master : dominion<br>the upper hand in a contest or competiti
 >>[!Example] Examples
 >>- The job requires mastery of two languages.
 >>- Our company's mastery of the crisis was impressive.
+<!--SR:!2025-05-06,3,270-->
 
 the quality or state of being independent<br>competence
 ?
@@ -742,6 +733,7 @@ the quality or state of being independent<br>competence
 >>[!Example] Examples
 >>- The country declared independence after a long period of occupation.
 >>- The country declared its independence.
+<!--SR:!2025-05-06,3,270-->
 
 something that impedes progress or achievement
 ?
@@ -755,6 +747,7 @@ something that impedes progress or achievement
 >>- Obstacles on the track can cause an obstruction.
 >>- They have successfully overcome the last obstacle.
 >>- If she wants to attend the class, the cost should not be an obstacle.
+<!--SR:!2025-05-06,3,270-->
 
 to determine or fix the value of<br>to determine the significance, worth, or condition of usually by careful appraisal and study
 ?
@@ -781,6 +774,7 @@ a portable panel usually of wattled withes and stakes used especially for enclos
 >>- The runner cleared all hurdles successfully.
 >>- The athlete jumped over all hurdles and finished the race successfully.
 >>- There are many hurdles on the road to success.
+<!--SR:!2025-05-06,3,250-->
 
 the action of yielding one's person or giving up the possession of something especially into the power of another<br>the relinquishment by a patentee of rights or claims under a patent<br>the delivery of a principal into lawful custody by bail —called also surrender by bail
 ?
@@ -793,6 +787,7 @@ the action of yielding one's person or giving up the possession of something esp
 >>- The countries negotiated the surrender of wanted criminals.
 >>- The surrender helped to avoid further casualties.
 >>- The war ended with the surrender of the enemy.
+<!--SR:!2025-05-06,3,250-->
 
 harsh or jarring sound : dissonance; specifically : harshness in the sound of words or phrases<br>an incongruous or chaotic mixture : a striking combination
 ?
@@ -800,4 +795,15 @@ harsh or jarring sound : dissonance; specifically : harshness in the sound of wo
 >**Translations**: Kakophonie, Kakofonie, Missklang
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/36/3617c0cffb8f9bcb15405a7230d79775-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/36/3617c0cffb8f9bcb15405a7230d79775-100.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-06,3,270-->
+
+to give new life or vigor to
+?
+>[!vocab] to revitalize(verb)
+>**Translations**: revitalisieren, wiederbeleben, neu beleben
+>**Forms**: revitalized, revitalized (BE frequently used: revitalise)
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The cream will revitalize dry skin.
 
