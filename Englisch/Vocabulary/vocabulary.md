@@ -508,3 +508,75 @@ one that occupies a particular place regularly, routinely, or for a period of ti
 >>- This little town has only very few inhabitants.
 >>- Berlin has fewer inhabitants than Cairo.
 
+to make invalid; especially : to weaken or destroy the cogency of
+?
+>[!vocab] to invalidate(verb)
+>**Translations**: entkräften, annullieren, ungültig machen
+>**Forms**: invalidated, invalidated
+>**Pronunciation**: /ˌɪnˈvæl.ɪ.deɪt/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c9/c9ef7a446d9608ed2229ef347d13af7e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c9/c9ef7a446d9608ed2229ef347d13af7e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The facts I presented invalidated her argument.
+>>- The new certificate will invalidate the old one.
+
+the use of reason; especially : the drawing of inferences or conclusions through the use of reason<br>an instance of the use of reason : argument
+?
+>[!vocab] reasoning(noun)
+>**Translations**: Argumentation, logisches Denken, Logik
+>**Pronunciation**: /ˈɹiːzənɪŋ/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/4d/4db0062a5ec022e76d5f853ebfba540a-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/4d/4db0062a5ec022e76d5f853ebfba540a-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Your reasoning convinces me.
+
+existing or coming about seemingly at random or by chance or as a capricious and unreasonable act of will<br>based on or determined by individual preference or convenience rather than by necessity or the intrinsic nature of something<br>not restrained or limited in the exercise of power : ruling by absolute authority
+?
+>[!vocab] arbitrary(adjective)
+>**Translations**: willkürlich, beliebig, eigenmächtig
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/4d/4d268fe1f1f6bbc13d29c30d9c15f5b9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/4d/4d268fe1f1f6bbc13d29c30d9c15f5b9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- You can complete the tasks in arbitrary order.
+>>- Arbitrary changes to the process are not allowed.
+>>- The boss gave arbitrary orders that changed daily.
+
+responsive to sensory stimuli : discerning<br>capable of or exhibiting keen perception : observant<br>characterized by sympathetic understanding or insight
+?
+>[!vocab] perceptive(adjective)
+>**Translations**: perzeptiv, wahrnehmend, einfühlsam
+>**Pronunciation**: /pəˈsɛptɪv/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3 type="audio/mpeg">Unsupported.</audio>
+
+a plant that is not valued where it is growing and is usually of vigorous growth; especially : one that tends to overgrow or choke out more desirable plants<br>a weedy growth of plants<br>an aquatic plant; especially : seaweed
+?
+>[!vocab] weed(noun)
+>**Translations**: Unkraut, Kraut
+>**Pronunciation**: /wiːd/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/84/8417a031bdadfb493a827cfec74bba14-102.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/84/8417a031bdadfb493a827cfec74bba14-102.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- She does not allow a single weed among her pretty flowers.
+
+to forbid by authority : enjoin<br>to prevent from doing something<br>preclude
+?
+>[!vocab] to prohibit(verb)
+>**Translations**: untersagen, verbieten, verhindern
+>**Forms**: prohibited, prohibited
+>**Pronunciation**: /pɹəʊˈhɪbɪt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The company prohibits smoking in the entire building.
+
+sympathetic sorrow for one suffering, distressed, or unhappy<br>capacity to feel pity<br>something to be regretted
+?
+>[!vocab] pity(noun)
+>**Translations**: Mitleid, Erbarmen
+>**Pronunciation**: /ˈpɪti/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/0a/0a2db9b7b0296859aee1b8b9237d1a9b-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/0a/0a2db9b7b0296859aee1b8b9237d1a9b-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- I feel pity when I see other people suffer.
+

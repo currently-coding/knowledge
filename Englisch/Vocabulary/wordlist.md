@@ -1,10 +1,3 @@
-invalidate
-reasoning
-arbitrary
-perceptive
-weed
-prohibit
-pity
 panic
 qualitative
 encompass
