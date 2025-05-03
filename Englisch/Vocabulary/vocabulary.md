@@ -529,6 +529,7 @@ the use of reason; especially : the drawing of inferences or conclusions through
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/4d/4db0062a5ec022e76d5f853ebfba540a-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Your reasoning convinces me.
+<!--SR:!2025-05-05,2,244-->
 
 existing or coming about seemingly at random or by chance or as a capricious and unreasonable act of will<br>based on or determined by individual preference or convenience rather than by necessity or the intrinsic nature of something<br>not restrained or limited in the exercise of power : ruling by absolute authority
 ?
@@ -540,6 +541,7 @@ existing or coming about seemingly at random or by chance or as a capricious and
 >>- You can complete the tasks in arbitrary order.
 >>- Arbitrary changes to the process are not allowed.
 >>- The boss gave arbitrary orders that changed daily.
+<!--SR:!2025-05-06,3,264-->
 
 responsive to sensory stimuli : discerning<br>capable of or exhibiting keen perception : observant<br>characterized by sympathetic understanding or insight
 ?
@@ -548,6 +550,7 @@ responsive to sensory stimuli : discerning<br>capable of or exhibiting keen perc
 >**Pronunciation**: /pəˈsɛptɪv/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-06,3,264-->
 
 a plant that is not valued where it is growing and is usually of vigorous growth; especially : one that tends to overgrow or choke out more desirable plants<br>a weedy growth of plants<br>an aquatic plant; especially : seaweed
 ?
@@ -558,6 +561,7 @@ a plant that is not valued where it is growing and is usually of vigorous growth
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/84/8417a031bdadfb493a827cfec74bba14-102.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- She does not allow a single weed among her pretty flowers.
+<!--SR:!2025-05-06,3,264-->
 
 to forbid by authority : enjoin<br>to prevent from doing something<br>preclude
 ?
@@ -579,6 +583,7 @@ sympathetic sorrow for one suffering, distressed, or unhappy<br>capacity to feel
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/0a/0a2db9b7b0296859aee1b8b9237d1a9b-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- I feel pity when I see other people suffer.
+<!--SR:!2025-05-04,1,224-->
 
 a sudden overpowering fright; also : acute, extreme anxiety<br>a sudden unreasoning terror often accompanied by mass flight<br>a sudden widespread fright concerning financial affairs that results in a depression of values caused by extreme measures for protection of property (such as securities)
 ?
