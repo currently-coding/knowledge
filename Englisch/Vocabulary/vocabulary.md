@@ -276,7 +276,7 @@ to prove wrong by argument or evidence : show to be false or erroneous<br>to den
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/08/08290ab350f041d54b1da164022ed268-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- I refute these false allegations.
-<!--SR:!2025-05-03,1,220-->
+<!--SR:!2025-05-06,3,240-->
 
 to place emphasis on : stress
 ?
@@ -329,7 +329,7 @@ to call forth (a feeling, an action, etc.) : evoke<br>to stir up purposely<br>to
 >>[!Example] Examples
 >>- The scandal provoked public anger.
 >>- The politician's statement provoked public criticism.
-<!--SR:!2025-05-03,1,220-->
+<!--SR:!2025-05-06,3,240-->
 
 to make greater, more numerous, larger, or more intense<br>supplement<br>to add an augment to (a verb form)
 ?
@@ -377,7 +377,7 @@ to submit (something, such as a document) to a court or officer in course of pro
 >>- The man exhibited several signs of old age.
 >>- The patient exhibited signs of improvement after the treatment.
 >>- She decided to exhibit her paintings in a local museum.
-<!--SR:!2025-05-03,1,222-->
+<!--SR:!2025-05-06,3,242-->
 
 a connecting structure: such as<br>a single ring or division of a chain<br>one of the standardized divisions of a surveyor's chain that is 7.92 inches (20.1 centimeters) long and serves as a measure of length
 ?
@@ -393,7 +393,7 @@ a connecting structure: such as<br>a single ring or division of a chain<br>one o
 >>- I deleted the link to the file on my website.
 >>- The link opens in a new tab.
 >>- The link to this file was deleted.
-<!--SR:!2025-05-03,1,221-->
+<!--SR:!2025-05-06,3,241-->
 
 a conclusion derived through logic : inference<br>something produced by a cause or necessarily following from a set of conditions<br>importance with respect to power to produce an effect
 ?
@@ -483,7 +483,7 @@ conformity with truth or fact : accuracy<br>devotion to the truth : truthfulness
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/23/2383576a9ae22802531a0634f2c46952-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The expert was able to confirm the veracity of the information.
-<!--SR:!2025-05-03,1,223-->
+<!--SR:!2025-05-06,3,243-->
 
 in a precise manner : exactly —often used to emphasize the precision of something (such as a measurement, time, description, etc.)<br>quite so —used to confirm emphatically that what has been said or suggested is exactly correct
 ?
@@ -587,6 +587,7 @@ a sudden overpowering fright; also : acute, extreme anxiety<br>a sudden unreason
 >**Pronunciation**: /ˈpænɪk/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c1/c1a9a474d030d4706c8346a0d15a48a5-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c1/c1a9a474d030d4706c8346a0d15a48a5-100.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-06,3,264-->
 
 of, relating to, or involving quality or kind
 ?
@@ -597,6 +598,7 @@ of, relating to, or involving quality or kind
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/78/78b055818452c4703aac38db0dba2e4f-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Further training for the workers led to qualitative improvements.
+<!--SR:!2025-05-04,1,224-->
 
 include, comprehend<br>envelop<br>to form a circle about : enclose
 ?
@@ -619,6 +621,7 @@ according to report
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/4a/4a6c4866376c2a50fc06b22f2886772a-400.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Reportedly, the storm did not cause any damages.
+<!--SR:!2025-05-06,3,264-->
 
 a royal journey marked by pomp and pageant<br>a state procession<br>a tour or circuit made by an official (such as a judge)
 ?
