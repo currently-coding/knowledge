@@ -711,3 +711,93 @@ a judgment involving condemnation<br>the act of blaming or condemning sternly<br
 >>- The politician accepted the public censure and resigned.
 <!--SR:!2025-05-06,3,250-->
 
+to give new life or vigor to
+?
+>[!vocab] to revitalize(verb)
+>**Translations**: revitalisieren, wiederbeleben, neu beleben
+>**Forms**: r, e, v, i, t, a, l, i, z, e, d, ,,  , r, e, v, i, t, a, l, i, z, e, d,  , (, B, E,  , f, r, e, q, u, e, n, t, l, y,  , u, s, e, d, :,  , r, e, v, i, t, a, l, i, s, e, )
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The cream will revitalize dry skin.
+
+the authority of a master : dominion<br>the upper hand in a contest or competition : superiority, ascendancy<br>possession or display of great skill or technique
+?
+>[!vocab] mastery(noun)
+>**Translations**: Beherrschung, Können, Bewältigung
+>**Pronunciation**: /ˈmɑːst(ə)ɹi/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/39/394230d123ce5f3ad5f8619d3afbf397-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/39/394230d123ce5f3ad5f8619d3afbf397-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The job requires mastery of two languages.
+>>- Our company's mastery of the crisis was impressive.
+
+the quality or state of being independent<br>competence
+?
+>[!vocab] independence(noun)
+>**Translations**: Unabhängigkeit, Selbstständigkeit, Selbständigkeit
+>**Pronunciation**: /ɪndɪˈpɛndəns/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/40/4078cad790aceada1e87da607b1bde97-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/40/4078cad790aceada1e87da607b1bde97-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The country declared independence after a long period of occupation.
+>>- The country declared its independence.
+
+something that impedes progress or achievement
+?
+>[!vocab] obstacle(noun)
+>**Translations**: Hindernis, Hürde, Hinderungsgrund
+>**Pronunciation**: /ˈɒbstəkl̩/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/95/95ffb2fe603fe47bf26481ae310a71cb-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/95/95ffb2fe603fe47bf26481ae310a71cb-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- We can overcome any obstacle if we do not give up.
+>>- Obstacles on the track can cause an obstruction.
+>>- They have successfully overcome the last obstacle.
+>>- If she wants to attend the class, the cost should not be an obstacle.
+
+to determine or fix the value of<br>to determine the significance, worth, or condition of usually by careful appraisal and study
+?
+>[!vocab] to evaluate(verb)
+>**Translations**: bewerten, beurteilen, auswerten
+>**Pronunciation**: /ɨˈvaljʊeɪt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/94/94d2f2aabfda3169d54a9531cdb99890-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/94/94d2f2aabfda3169d54a9531cdb99890-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The judges evaluate the nominees.
+>>- The teacher evaluates the performance of the pupils.
+>>- He used a stencil to evaluate the tests.
+>>- The institute evaluated the new product.
+>>- I evaluated the pros and cons of the situation.
+
+a portable panel usually of wattled withes and stakes used especially for enclosing land or livestock<br>a frame or sled formerly used in England for dragging traitors to execution<br>an artificial barrier over which racers must leap
+?
+>[!vocab] hurdle(noun)
+>**Translations**: Hürde, Hindernis, Stolperstein
+>**Pronunciation**: /ˈhɜːdəl/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/1d/1dcaec09256b47c80b4bb53fe21527b9-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/1d/1dcaec09256b47c80b4bb53fe21527b9-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The runner cleared all hurdles successfully.
+>>- The athlete jumped over all hurdles and finished the race successfully.
+>>- There are many hurdles on the road to success.
+
+the action of yielding one's person or giving up the possession of something especially into the power of another<br>the relinquishment by a patentee of rights or claims under a patent<br>the delivery of a principal into lawful custody by bail —called also surrender by bail
+?
+>[!vocab] surrender(noun)
+>**Translations**: Auslieferung, Kapitulation, Aufgabe
+>**Pronunciation**: /səˈɹɛndəɹ/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/b6/b6eb4be17059516c4c9276e38b29f26a-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/b6/b6eb4be17059516c4c9276e38b29f26a-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The countries negotiated the surrender of wanted criminals.
+>>- The surrender helped to avoid further casualties.
+>>- The war ended with the surrender of the enemy.
+
+harsh or jarring sound : dissonance; specifically : harshness in the sound of words or phrases<br>an incongruous or chaotic mixture : a striking combination
+?
+>[!vocab] cacophony(noun)
+>**Translations**: Kakophonie, Kakofonie, Missklang
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/36/3617c0cffb8f9bcb15405a7230d79775-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/36/3617c0cffb8f9bcb15405a7230d79775-100.mp3 type="audio/mpeg">Unsupported.</audio>
+

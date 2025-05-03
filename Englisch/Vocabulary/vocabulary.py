@@ -79,19 +79,15 @@ class WordInfo:
         if not self.forms:
             self.forms = ""
         if len(forms) >= 2:
-            print(forms)
             forms = ", ".join(forms)
-            print(forms)
-            forms = forms.split(";")
-            print(forms)
+            forms = forms.split(") (")
             if len(forms) > 1:
-                forms[1] = "(" + forms[1]
+                forms[0] = "(" + forms[0]
                 forms[-1] = forms[-1] + ")"
-                print(forms)
-                forms = "; ".join(forms)
-                print(forms)
-            print(forms)
-            self.forms = ", ".join(forms)
+                forms = ") (".join(forms)
+                if forms.startswith("("):
+                    forms = forms[1:]
+                    forms = forms.replace(")", "", 1)
 
     def add_audio(self, key, value):
         if not self.audio:

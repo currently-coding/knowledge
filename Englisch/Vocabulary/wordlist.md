@@ -1,14 +1,3 @@
-revitalize
-mastery
-independence
-obstacle
-evaluate
-hurdle
-surrender
-cacophony
-format
-rehabilitation
-dominant
 logical
 tribute
 enervate
