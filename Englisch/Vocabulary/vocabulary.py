@@ -53,7 +53,7 @@ class WordInfo:
     definitions_mw: List[str] = field(default_factory=list)
     examples: Optional[List[str]] = None
     translations: List[str] = field(default_factory=list)
-    forms: Optional[List[str]] = None
+    forms: Optional[str] = None
     pronunciation: Optional[str] = None
     audio: Optional[dict[str, str]] = None
     separator: str = "?"
@@ -77,11 +77,21 @@ class WordInfo:
 
     def add_forms(self, forms):
         if not self.forms:
-            self.forms = []
+            self.forms = ""
         if len(forms) >= 2:
-            if ")" in forms or "(" in forms:
-                forms = "(" + forms + ")"
-            self.forms.append(", ".join(forms))
+            print(forms)
+            forms = ", ".join(forms)
+            print(forms)
+            forms = forms.split(";")
+            print(forms)
+            if len(forms) > 1:
+                forms[1] = "(" + forms[1]
+                forms[-1] = forms[-1] + ")"
+                print(forms)
+                forms = "; ".join(forms)
+                print(forms)
+            print(forms)
+            self.forms = ", ".join(forms)
 
     def add_audio(self, key, value):
         if not self.audio:
@@ -112,7 +122,7 @@ class WordInfo:
         flashcard.append(">[!vocab] " + word + "(" + self.pos + ")")
         flashcard.append(">**Translations**: " + ", ".join(self.translations[:3]))
         if self.forms:
-            flashcard.append(">**Forms**: " + ", ".join(self.forms))
+            flashcard.append(">**Forms**: " + self.forms)
         if self.pronunciation:
             flashcard.append(">**Pronunciation**: " + self.pronunciation)
         if self.audio:

@@ -1,3 +1,4 @@
+revitalize
 mastery
 independence
 obstacle
@@ -7,7 +8,6 @@ surrender
 cacophony
 format
 rehabilitation
-revitalize
 dominant
 logical
 tribute
