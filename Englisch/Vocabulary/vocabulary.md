@@ -762,6 +762,7 @@ to determine or fix the value of<br>to determine the significance, worth, or con
 >>- He used a stencil to evaluate the tests.
 >>- The institute evaluated the new product.
 >>- I evaluated the pros and cons of the situation.
+<!--SR:!2025-05-06,3,253-->
 
 a portable panel usually of wattled withes and stakes used especially for enclosing land or livestock<br>a frame or sled formerly used in England for dragging traitors to execution<br>an artificial barrier over which racers must leap
 ?
@@ -806,4 +807,5 @@ to give new life or vigor to
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The cream will revitalize dry skin.
+<!--SR:!2025-05-06,3,273-->
 
