@@ -640,6 +640,7 @@ a royal journey marked by pomp and pageant<br>a state procession<br>a tour or ci
 >>- The patient made great progress and was discharged by the end of the week.
 >>- To make progress, we should focus on the essential.
 >>- The patient made great progress and was discharged by the end of the week.
+<!--SR:!2025-05-05,2,244-->
 
 using few words : devoid of superfluity; also : short, brusque<br>smoothly elegant : polished
 ?
@@ -656,4 +657,5 @@ said or done as a joke : characterized by jesting : playful<br>given to jesting 
 >**Translations**: scherzhaft, lustig, spaßig
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-06,3,264-->
 
