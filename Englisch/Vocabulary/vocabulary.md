@@ -379,7 +379,7 @@ to submit (something, such as a document) to a court or officer in course of pro
 >>- She decided to exhibit her paintings in a local museum.
 <!--SR:!2025-05-06,3,242-->
 
-a connecting structure: such as<br>a single ring or division of a chain<br>one of the standardized divisions of a surveyor's chain that is 7.92 inches (20.1 centimeters) long and serves as a measure of length
+a connecting structure: such as<br>a single ring or division of a chain<br>one of the standardised divisions of a surveyor's chain that is 7.92 inches (20.1 centimeters) long and serves as a measure of length
 ?
 >[!vocab] link(noun)
 >**Translations**: Verbindung, Zusammenhang, Link
@@ -459,10 +459,11 @@ to combine or produce by synthesis<br>to make a synthesis of<br>to produce (some
 ?
 >[!vocab] to synthesize(verb)
 >**Translations**: synthetisieren, künstlich herstellen, aufbauen
->**Forms**: synthesized, synthesized; BE frequently used: synthesised, synthesised) (BE: synthesise) (BE frequently used: synthesise
+>**Forms**: (synthesized, synthesized; BE frequently used: synthesised, synthesised) (BE: synthesise) (BE frequently used: synthesise)
 >**Pronunciation**: /ˈsɪnθəsaɪz/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/d6/d6284de87997d101a0cee91cc449ff46-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/d6/d6284de87997d101a0cee91cc449ff46-200.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-06,3,264-->
 
 
 relating to, occupied with, or fond of feasting, drinking, and good company
@@ -507,6 +508,7 @@ one that occupies a particular place regularly, routinely, or for a period of ti
 >>[!Example] Examples
 >>- This little town has only very few inhabitants.
 >>- Berlin has fewer inhabitants than Cairo.
+<!--SR:!2025-05-06,3,264-->
 
 to make invalid; especially : to weaken or destroy the cogency of
 ?
@@ -519,6 +521,7 @@ to make invalid; especially : to weaken or destroy the cogency of
 >>[!Example] Examples
 >>- The facts I presented invalidated her argument.
 >>- The new certificate will invalidate the old one.
+<!--SR:!2025-05-06,3,264-->
 
 the use of reason; especially : the drawing of inferences or conclusions through the use of reason<br>an instance of the use of reason : argument
 ?
@@ -573,6 +576,7 @@ to forbid by authority : enjoin<br>to prevent from doing something<br>preclude
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The company prohibits smoking in the entire building.
+<!--SR:!2025-05-06,3,264-->
 
 sympathetic sorrow for one suffering, distressed, or unhappy<br>capacity to feel pity<br>something to be regretted
 ?
@@ -616,6 +620,7 @@ include, comprehend<br>envelop<br>to form a circle about : enclose
 >>- The vast desert encompasses parts of several countries.
 >>- The syllabus encompasses theoretical and practical texts.
 >>- The area encompasses a large nature park.
+<!--SR:!2025-05-05,2,244-->
 
 according to report
 ?
@@ -650,6 +655,7 @@ using few words : devoid of superfluity; also : short, brusque<br>smoothly elega
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/2c/2c1fd6e09f7ba9cf642bdeb20b1b9b64-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- His answer was brief and terse.
+<!--SR:!2025-05-04,1,224-->
 
 said or done as a joke : characterized by jesting : playful<br>given to jesting : habitually jolly or jocund
 ?
@@ -658,4 +664,50 @@ said or done as a joke : characterized by jesting : playful<br>given to jesting 
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
 <!--SR:!2025-05-06,3,264-->
+
+designed for or understood by the specially initiated alone<br>requiring or exhibiting knowledge that is restricted to a small group; broadly : difficult to understand<br>limited to a small circle
+?
+>[!vocab] esoteric(adjective)
+>**Translations**: esoterisch, abseitig, geheim
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/db/dbc6486d9c1788ccce2f4ece3e498fb3-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/db/dbc6486d9c1788ccce2f4ece3e498fb3-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-04,1,230-->
+
+to spur on : impel, motivate<br>to exert an animating, enlivening, or exalting influence on<br>affect
+?
+>[!vocab] to inspire(verb)
+>**Translations**: inspirieren, begeistern, anregen
+>**Forms**: inspired, inspired
+>**Pronunciation**: /ɪn.ˈspaɪə(ɹ)/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/6d/6dca4fe9cc3dfa1e593e1a60462b55c4-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/6d/6dca4fe9cc3dfa1e593e1a60462b55c4-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Classical music inspires me.
+>>- He had the ability to inspire people.
+>>- He had the ability to inspire people.
+<!--SR:!2025-05-04,1,230-->
+
+to subvert or weaken insidiously or secretly<br>to weaken or ruin by degrees<br>to wash away supporting material from under
+?
+>[!vocab] to undermine(verb)
+>**Translations**: untergraben, beeinträchtigen, gefährden
+>**Forms**: undermined, undermined
+>**Pronunciation**: /ʌndəˈmaɪn/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/8d/8d5d9bb86a9770524cbace05ffac8644-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/8d/8d5d9bb86a9770524cbace05ffac8644-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The pupil has undermined the teacher's authority.
+>>- The student has undermined the teacher's authority.
+>>- Frequent lying undermines any trust.
+<!--SR:!2025-05-06,3,270-->
+
+a judgment involving condemnation<br>the act of blaming or condemning sternly<br>an official reprimand
+?
+>[!vocab] censure(noun)
+>**Translations**: Kritik, Verweis, Tadel
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/ac/ac70ee11b6753a3c70ae2fb5df05ffd8-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/ac/ac70ee11b6753a3c70ae2fb5df05ffd8-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The politician accepted the public censure and resigned.
+<!--SR:!2025-05-06,3,250-->
 

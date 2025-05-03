@@ -1,7 +1,3 @@
-esoteric
-inspire
-undermine
-censure
 mastery
 independence
 obstacle

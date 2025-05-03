@@ -28,7 +28,7 @@ $A \cap B$ := $\{a \mid a \in A \text{ and } a \in B\}$ (Intersection of A and B
 $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 <!--SR:!2025-07-18,205,317-->
 $A \setminus B$ oder $A - B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
-<!--SR:!2025-05-03,76,344-->
+<!--SR:!2026-03-03,304,364-->
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
 <!--SR:!2025-05-22,148,274-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
