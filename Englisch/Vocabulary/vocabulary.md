@@ -580,3 +580,72 @@ sympathetic sorrow for one suffering, distressed, or unhappy<br>capacity to feel
 >>[!Example] Examples
 >>- I feel pity when I see other people suffer.
 
+a sudden overpowering fright; also : acute, extreme anxiety<br>a sudden unreasoning terror often accompanied by mass flight<br>a sudden widespread fright concerning financial affairs that results in a depression of values caused by extreme measures for protection of property (such as securities)
+?
+>[!vocab] panic(noun)
+>**Translations**: Panik, panische Angst, Kopflosigkeit
+>**Pronunciation**: /ˈpænɪk/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c1/c1a9a474d030d4706c8346a0d15a48a5-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c1/c1a9a474d030d4706c8346a0d15a48a5-100.mp3 type="audio/mpeg">Unsupported.</audio>
+
+of, relating to, or involving quality or kind
+?
+>[!vocab] qualitative(adjective)
+>**Translations**: qualitativ
+>**Pronunciation**: /ˈkwɒl.ɪ.tə.tɪv/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/78/78b055818452c4703aac38db0dba2e4f-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/78/78b055818452c4703aac38db0dba2e4f-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Further training for the workers led to qualitative improvements.
+
+include, comprehend<br>envelop<br>to form a circle about : enclose
+?
+>[!vocab] to encompass(verb)
+>**Translations**: umfassen, beinhalten, umschließen
+>**Forms**: encompassed, encompassed
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/97/974f1d891607e2b24585cf866cc2d3e4-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/97/974f1d891607e2b24585cf866cc2d3e4-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The vast desert encompasses parts of several countries.
+>>- The syllabus encompasses theoretical and practical texts.
+>>- The area encompasses a large nature park.
+
+according to report
+?
+>[!vocab] reportedly(adverb)
+>**Translations**: Berichten zufolge, angeblich, wie verlautet
+>**Pronunciation**: /ɹɪˈpɔːtɪdli/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/4a/4a6c4866376c2a50fc06b22f2886772a-400.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/4a/4a6c4866376c2a50fc06b22f2886772a-400.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Reportedly, the storm did not cause any damages.
+
+a royal journey marked by pomp and pageant<br>a state procession<br>a tour or circuit made by an official (such as a judge)
+?
+>[!vocab] progress(noun)
+>**Translations**: Fortschritt, Fortschreiten, Fortschritte
+>**Pronunciation**: /pɹəˈɡɹɛs/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/3c/3c709b10a5d47ba33d85337dd9110917-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/3c/3c709b10a5d47ba33d85337dd9110917-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- I will keep you informed of the project's progress.
+>>- The patient made great progress and was discharged by the end of the week.
+>>- To make progress, we should focus on the essential.
+>>- The patient made great progress and was discharged by the end of the week.
+
+using few words : devoid of superfluity; also : short, brusque<br>smoothly elegant : polished
+?
+>[!vocab] terse(adjective)
+>**Translations**: knapp, lapidar, prägnant
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/2c/2c1fd6e09f7ba9cf642bdeb20b1b9b64-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/2c/2c1fd6e09f7ba9cf642bdeb20b1b9b64-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- His answer was brief and terse.
+
+said or done as a joke : characterized by jesting : playful<br>given to jesting : habitually jolly or jocund
+?
+>[!vocab] jocular(adjective)
+>**Translations**: scherzhaft, lustig, spaßig
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+

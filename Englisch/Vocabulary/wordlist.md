@@ -1,10 +1,3 @@
-panic
-qualitative
-encompass
-reportedly
-progress
-terse
-jocular
 esoteric
 inspire
 undermine
