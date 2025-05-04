@@ -866,13 +866,15 @@ something given or contributed voluntarily as due or deserved; especially : a gi
 >>[!Example] Examples
 >>- This documentary pays tribute to a famous composer.
 >>- The book was a tribute to the famous artist.
+<!--SR:!2025-05-07,3,281-->
 
 to reduce the mental or moral vigor of<br>to lessen the vitality or strength of
 ?
->[!vocab] to enervate(verb)
->**Translations**: entnerven
+>[!vocab] to enervate(verb)(formal)
+>**Translations**: entnerven, schwächen
 >**Forms**: enervated, enervated
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/48/48ff75593824fbcda45e5d6f43d69980-200.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-05,1,241-->
 
 meticulous, careful<br>governed by or conforming to the dictates of conscience : scrupulous
 ?
@@ -884,4 +886,5 @@ meticulous, careful<br>governed by or conforming to the dictates of conscience :
 >>[!Example] Examples
 >>- My assistant is very conscientious and attentive.
 >>- They are looking for a conscientious babysitter.
+<!--SR:!2025-05-05,1,241-->
 
