@@ -1,7 +1,3 @@
-laconic
-utility
-insert
-fortuitous
 principal
 reassess
 balance

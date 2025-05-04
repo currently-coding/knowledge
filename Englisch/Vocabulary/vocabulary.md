@@ -888,3 +888,43 @@ meticulous, careful<br>governed by or conforming to the dictates of conscience :
 >>- They are looking for a conscientious babysitter.
 <!--SR:!2025-05-05,1,241-->
 
+using or involving the use of a minimum of words : concise to the point of seeming rude or mysterious
+?
+>[!vocab] laconic(adjective)
+>**Translations**: lakonisch, prägnant, knapp
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/d3/d34836636055093de27bb87aad3764d0-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/d3/d34836636055093de27bb87aad3764d0-300.mp3 type="audio/mpeg">Unsupported.</audio>
+
+fitness for some purpose or worth to some end<br>something useful or designed for use<br>public utility
+?
+>[!vocab] utility(noun)
+>**Translations**: Dienstprogramm, Nutzen, Nützlichkeit
+>**Pronunciation**: /juːˈtɪl.ɪ.ti/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/67/67b732dc42aaffa9056d34cc477c863c-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/67/67b732dc42aaffa9056d34cc477c863c-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- This utility keeps the computer free of viruses.
+
+to put or thrust in<br>to put or introduce into the body of something : interpolate<br>to set in and make fast; especially : to insert by sewing between two cut edges
+?
+>[!vocab] to insert(verb)
+>**Translations**: einfügen, einlegen, einsetzen
+>**Forms**: inserted, inserted
+>**Pronunciation**: /ɪnˈsɜːt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/e0/e0df5f3dfd2650ae5be9993434e2b2c0-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/e0/e0df5f3dfd2650ae5be9993434e2b2c0-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- I showed him how to insert a picture into the document.
+>>- She inserted a CD into the stereo.
+>>- I inserted the batteries into the camera.
+>>- The card needs to be inserted into the reader.
+>>- She inserted the key into the lock.
+
+occurring by chance<br>fortunate, lucky<br>coming or happening by a lucky chance
+?
+>[!vocab] fortuitous(adjective)
+>**Translations**: zufällig
+>**Pronunciation**: /fɔːˈtjuːɪtəs/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/f3/f354847ec637e15410e8afd2a656d1a9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/f3/f354847ec637e15410e8afd2a656d1a9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+
