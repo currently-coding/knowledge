@@ -31,9 +31,11 @@ Bitcoin and Blockchain := 2009  - The first decenttralized cryptocurrency, Bitco
 5G Networks begin to roll out := 2019 - higher speeds and lower latency -> enabled real time applications
 <!--SR:!2025-07-25,102,292-->
 First commercially available computer :=UNIVAC I - 1951
+<!--SR:!2025-05-05,1,185-->
 First OS := 1961 - IBMs OS/360 standardized the concept of an OS -> introduced multitasking and process management
 <!--SR:!2025-05-05,4,209-->
 Moore's Law := 1965  - number of transistors/chip double every ~2 years
+<!--SR:!2025-05-06,2,225-->
 First commercially available microprocessor := Intel 4004 Microprocessor - 1971
 <!--SR:!2025-05-06,2,150-->
 First PCs := 1970s and 1980s - Apple's Apple II(1997) and IBM's PC(1981) introduced affordable, personal computing to the public
