@@ -894,16 +894,7 @@ using or involving the use of a minimum of words : concise to the point of seemi
 >**Translations**: lakonisch, prägnant, knapp
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/d3/d34836636055093de27bb87aad3764d0-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/d3/d34836636055093de27bb87aad3764d0-300.mp3 type="audio/mpeg">Unsupported.</audio>
-
-fitness for some purpose or worth to some end<br>something useful or designed for use<br>public utility
-?
->[!vocab] utility(noun)
->**Translations**: Dienstprogramm, Nutzen, Nützlichkeit
->**Pronunciation**: /juːˈtɪl.ɪ.ti/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/67/67b732dc42aaffa9056d34cc477c863c-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/67/67b732dc42aaffa9056d34cc477c863c-100.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example] Examples
->>- This utility keeps the computer free of viruses.
+<!--SR:!2025-05-07,3,260-->
 
 to put or thrust in<br>to put or introduce into the body of something : interpolate<br>to set in and make fast; especially : to insert by sewing between two cut edges
 ?
@@ -919,6 +910,7 @@ to put or thrust in<br>to put or introduce into the body of something : interpol
 >>- I inserted the batteries into the camera.
 >>- The card needs to be inserted into the reader.
 >>- She inserted the key into the lock.
+<!--SR:!2025-05-07,3,260-->
 
 occurring by chance<br>fortunate, lucky<br>coming or happening by a lucky chance
 ?
@@ -927,4 +919,5 @@ occurring by chance<br>fortunate, lucky<br>coming or happening by a lucky chance
 >**Pronunciation**: /fɔːˈtjuːɪtəs/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/f3/f354847ec637e15410e8afd2a656d1a9-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/f3/f354847ec637e15410e8afd2a656d1a9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-05,1,240-->
 
