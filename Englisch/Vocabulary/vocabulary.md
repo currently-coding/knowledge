@@ -5,7 +5,7 @@ the act or process of conquering<br>something conquered; especially : territory 
 >**Pronunciation**: /ˈkɒŋkwəst/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/97/979e57d16f8271c1924039307f981e66-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/97/979e57d16f8271c1924039307f981e66-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-04,3,252-->
+<!--SR:!2025-05-13,9,272-->
 
 a hypothesis advanced as an essential presupposition, condition, or premise of a train of reasoning<br>axiom
 ?
@@ -24,7 +24,7 @@ serving or tending to protect oneself
 >**Pronunciation**: /pɹoʊtɛktɪv/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/8d/8de0913c031da954e1eabeab2c555428-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/8d/8de0913c031da954e1eabeab2c555428-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-04,3,252-->
+<!--SR:!2025-05-14,10,272-->
 
 high seriousness (as in a person's bearing or in the treatment of a subject)
 ?
@@ -53,7 +53,7 @@ something complex<br>the quality or state of being complex
 >>[!Example] Examples
 >>- The level of complexity affects the product cost.
 >>- This story presents a high degree of complexity.
-<!--SR:!2025-05-04,3,252-->
+<!--SR:!2025-05-13,9,272-->
 
 to make known or public<br>to expose to view<br>hatch
 ?
@@ -81,7 +81,7 @@ the part of a page or sheet outside the main body of printed or written matter<b
 >>- The margin is the difference between the cost and selling price.
 >>- I added an annotation in the margin with my comments.
 >>- Our new price list reflects the higher margin we want to achieve.
-<!--SR:!2025-05-04,3,249-->
+<!--SR:!2025-05-12,8,269-->
 
 designation as champion<br>the act of championing : defense<br>a contest held to determine a champion
 ?
@@ -92,7 +92,7 @@ designation as champion<br>the act of championing : defense<br>a contest held to
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/01/01c81308522327b0b7ecdeb6bdc7bf9c-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Many different teams competed in the championship.
-<!--SR:!2025-05-04,3,249-->
+<!--SR:!2025-05-12,8,269-->
 
 wildly extravagant<br>completely given up to dissipation and licentiousness : shamelessly immoral
 ?
@@ -115,7 +115,7 @@ shortness of duration; especially : shortness or conciseness of expression
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/e7/e794f072286cdb9e7c003b5f91116a69-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Brevity is a typical feature of technical texts.
-<!--SR:!2025-05-04,3,249-->
+<!--SR:!2025-05-14,10,269-->
 
 in an efficient manner : with success, competence, or adequate effect
 ?
@@ -126,7 +126,7 @@ in an efficient manner : with success, competence, or adequate effect
 >>[!Example] Examples
 >>- The team works quickly and efficiently.
 >>- The company implemented the changes quickly and efficiently.
-<!--SR:!2025-05-04,3,249-->
+<!--SR:!2025-05-13,9,269-->
 
 to become intense or more intensive : grow stronger or more acute<br>to make intense or more intensive : strengthen<br>to make more acute : sharpen
 ?
@@ -138,7 +138,7 @@ to become intense or more intensive : grow stronger or more acute<br>to make int
 >>[!Example] Examples
 >>- We intensified our efforts to solve the urgent problem.
 >>- She intensified her efforts to exercise regularly.
-<!--SR:!2025-05-04,3,249-->
+<!--SR:!2025-05-13,9,269-->
 
 moral depravity or corruption : wickedness<br>a moral fault or failing<br>a habitual and usually trivial defect or shortcoming : foible
 ?
@@ -149,7 +149,7 @@ moral depravity or corruption : wickedness<br>a moral fault or failing<br>a habi
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/03/03f753c08ba5ff2bd7d2ee230b4683b1-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Smoking can be a vice.
-<!--SR:!2025-05-04,3,253-->
+<!--SR:!2025-05-13,9,273-->
 
 the act of violating : the state of being violated: such as<br>infringement, transgression; specifically : an infringement of the rules in sports that is less serious than a foul and usually involves technicalities of play<br>an act of irreverence or desecration : profanation
 ?
@@ -176,7 +176,7 @@ to show clearly<br>to prove or make clear by reasoning or evidence<br>to illustr
 >>- I demonstrated that my initial assumption was correct.
 >>- The salesperson demonstrated the correct use of the chainsaw.
 >>- The salesman demonstrated the correct use of the product.
-<!--SR:!2025-05-04,3,253-->
+<!--SR:!2025-05-12,8,273-->
 
 to make use of : turn to practical use or account
 ?
@@ -189,7 +189,7 @@ to make use of : turn to practical use or account
 >>[!Example] Examples
 >>- We utilize the information for the drafting of the report.
 >>- They utilize solar power to heat their house.
-<!--SR:!2025-05-04,3,253-->
+<!--SR:!2025-05-14,10,273-->
 
 of, relating to, or constituting the degree of comparison in a language that denotes increase in the quality, quantity, or relation expressed by an adjective or adverb<br>considered as if in comparison to something else as a standard not quite attained : relative<br>characterized by systematic comparison especially of likenesses and dissimilarities
 ?
@@ -200,7 +200,7 @@ of, relating to, or constituting the degree of comparison in a language that den
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/72/723a99d8c2d2a7654113ca57c2df7123-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The professor conducts comparative research.
-<!--SR:!2025-05-04,3,253-->
+<!--SR:!2025-05-12,8,273-->
 
 capable of being done or carried out<br>capable of being used or dealt with successfully : suitable<br>reasonable, likely
 ?
@@ -214,7 +214,7 @@ capable of being done or carried out<br>capable of being used or dealt with succ
 >>- This is a good idea, but it's not feasible in practice.
 >>- We must find a solution that is really feasible.
 >>- The plan was well thought out and feasible.
-<!--SR:!2025-05-04,3,253-->
+<!--SR:!2025-05-14,10,273-->
 
 an act or process of withdrawing especially from what is difficult, dangerous, or disagreeable<br>the process of receding from a position or state attained<br>the usually forced withdrawal of troops from an enemy or from an advanced position
 ?
@@ -226,7 +226,7 @@ an act or process of withdrawing especially from what is difficult, dangerous, o
 >>[!Example] Examples
 >>- This military strategy forced the enemy's retreat.
 >>- My house in the mountains is my retreat.
-<!--SR:!2025-05-04,3,253-->
+<!--SR:!2025-05-14,10,273-->
 
 to detect with the eyes<br>to detect with senses other than vision<br>to recognize or identify as separate and distinct : discriminate
 ?
@@ -433,7 +433,8 @@ to take, receive, or obtain especially from a specified source<br>to obtain (a c
 >>[!Example] Examples
 >>- The correct answer can be derived from the data.
 >>- She derives her inner strength from meditation.
-<!--SR:!2025-05-04,2,241-->
+<!--SR:!2025-05-10,6,261-->
+
 to lead to or make known by a formal act, announcement, or recommendation: such as<br>to cause to be acquainted<br>to make preliminary explanatory or laudatory remarks about
 ?
 >[!vocab] to introduce(verb)
@@ -454,6 +455,7 @@ to lead to or make known by a formal act, announcement, or recommendation: such 
 >>- This course will introduce you to the different types of boats.
 >>- The first settlers introduced European diseases to America.
 >>- The speaker introduced the winner.
+<!--SR:!2025-05-07,3,274-->
 
 
 to combine or produce by synthesis<br>to make a synthesis of<br>to produce (something, such as music) by an electronic synthesizer
@@ -672,7 +674,7 @@ designed for or understood by the specially initiated alone<br>requiring or exhi
 >**Translations**: esoterisch, abseitig, geheim
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/db/dbc6486d9c1788ccce2f4ece3e498fb3-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/db/dbc6486d9c1788ccce2f4ece3e498fb3-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-04,1,230-->
+<!--SR:!2025-05-07,3,250-->
 
 to spur on : impel, motivate<br>to exert an animating, enlivening, or exalting influence on<br>affect
 ?
@@ -686,7 +688,7 @@ to spur on : impel, motivate<br>to exert an animating, enlivening, or exalting i
 >>- Classical music inspires me.
 >>- He had the ability to inspire people.
 >>- He had the ability to inspire people.
-<!--SR:!2025-05-04,1,230-->
+<!--SR:!2025-05-07,3,250-->
 
 to subvert or weaken insidiously or secretly<br>to weaken or ruin by degrees<br>to wash away supporting material from under
 ?
@@ -809,4 +811,77 @@ to give new life or vigor to
 >>[!Example] Examples
 >>- The cream will revitalize dry skin.
 <!--SR:!2025-05-06,3,273-->
+
+the shape, size, and general makeup (as of something printed)<br>general plan of organization, arrangement, or choice of material (as for a television show)<br>a method of organizing data (as for storage)
+?
+>[!vocab] format(noun)
+>**Translations**: Format
+>**Pronunciation**: /ˈfɔː(ɹ).mæt/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/1d/1ddcb92ade31c8fbd370001f9b29a7d9-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/1d/1ddcb92ade31c8fbd370001f9b29a7d9-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- We sell drawing paper in all standard formats.
+>>- You can convert the file into another format.
+<!--SR:!2025-05-07,3,280-->
+
+the action, process, or result of rehabilitating or of being rehabilitated: such as<br>restoration especially by therapeutic means to an improved condition of physical function; also : the process of restoring a person to a drug- or alcohol-free state<br>the process of restoring someone (such as a criminal) to a useful and constructive place in society
+?
+>[!vocab] rehabilitation(noun)
+>**Translations**: Rehabilitation, Sanierung, Rehabilitierung
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/83/833187bbc7ec78e132c3f3275f893d35-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/83/833187bbc7ec78e132c3f3275f893d35-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- His rehabilitation after the car accident was successful.
+>>- After fifty years, a rehabilitation of the hotel is necessary.
+<!--SR:!2025-05-07,3,280-->
+
+commanding, controlling, or prevailing over all others<br>very important, powerful, or successful<br>overlooking and commanding from a superior position
+?
+>[!vocab] dominant(adjective)
+>**Translations**: dominant, beherrschend, vorherrschend
+>**Pronunciation**: /ˈdɒmɪnənt/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/a5/a58a246f88b5442d91c01fadc4bb7831-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/a5/a58a246f88b5442d91c01fadc4bb7831-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- My father was a very dominant person.
+>>- The dominant shade in his paintings is blue.
+<!--SR:!2025-05-05,1,240-->
+
+of, relating to, involving, or being in accordance with logic<br>skilled in logic<br>formally true or valid : analytic, deductive
+?
+>[!vocab] logical(adjective)
+>**Translations**: logisch, folgerichtig, konsequent
+>**Pronunciation**: /ˈlɒdʒɪkəɫ/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/78/78ae2000a3964dd5a903ab9fc5f460f8-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/78/78ae2000a3964dd5a903ab9fc5f460f8-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-07,3,280-->
+
+something given or contributed voluntarily as due or deserved; especially : a gift or service showing respect, gratitude, or affection<br>something (such as material evidence or a formal attestation) that indicates the worth, virtue, or effectiveness of the one in question<br>a payment by one ruler or nation to another in acknowledgment of submission or as the price of protection; also : the tax levied for such a payment
+?
+>[!vocab] tribute(noun)
+>**Translations**: Tribut, Hommage, Anerkennung
+>**Pronunciation**: /ˈtɹɪbjuːt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/de/dec4c00f11b18978177a6d532dcd36f1-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/de/dec4c00f11b18978177a6d532dcd36f1-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- This documentary pays tribute to a famous composer.
+>>- The book was a tribute to the famous artist.
+
+to reduce the mental or moral vigor of<br>to lessen the vitality or strength of
+?
+>[!vocab] to enervate(verb)
+>**Translations**: entnerven
+>**Forms**: enervated, enervated
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/48/48ff75593824fbcda45e5d6f43d69980-200.mp3 type="audio/mpeg">Unsupported.</audio>
+
+meticulous, careful<br>governed by or conforming to the dictates of conscience : scrupulous
+?
+>[!vocab] conscientious(adjective)
+>**Translations**: gewissenhaft, verantwortungsbewusst, pflichtbewusst
+>**Pronunciation**: /ˌkɒnʃiˈɛnʃəs/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/f7/f70a24b160304466d687a730a133cc7a-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/f7/f70a24b160304466d687a730a133cc7a-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- My assistant is very conscientious and attentive.
+>>- They are looking for a conscientious babysitter.
 
