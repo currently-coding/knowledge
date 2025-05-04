@@ -15,7 +15,7 @@ a hypothesis advanced as an essential presupposition, condition, or premise of a
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/18/1869119e100e3fd60b1dfad777a61049-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The theory is based on three postulates.
-<!--SR:!2025-05-04,3,252-->
+<!--SR:!2025-05-12,8,272-->
 
 serving or tending to protect oneself
 ?
@@ -30,7 +30,7 @@ high seriousness (as in a person's bearing or in the treatment of a subject)
 ?
 >[!vocab] gravitas(noun)
 >**Translations**: Bedeutung
-<!--SR:!2025-05-04,3,252-->
+<!--SR:!2025-05-13,9,272-->
 
 
 ?
@@ -104,7 +104,7 @@ wildly extravagant<br>completely given up to dissipation and licentiousness : sh
 >>[!Example] Examples
 >>- He should spend less money and not be so profligate.
 >>- She left her profligate life behind to become a better person.
-<!--SR:!2025-05-04,3,249-->
+<!--SR:!2025-05-12,8,269-->
 
 shortness of duration; especially : shortness or conciseness of expression
 ?
@@ -160,7 +160,7 @@ the act of violating : the state of being violated: such as<br>infringement, tra
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/31/3145c2ef4c310129fb265093244c9c1a-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Slavery is a violation of human rights.
-<!--SR:!2025-05-04,3,253-->
+<!--SR:!2025-05-14,10,273-->
 
 to show clearly<br>to prove or make clear by reasoning or evidence<br>to illustrate and explain especially with many examples
 ?
@@ -455,6 +455,7 @@ to lead to or make known by a formal act, announcement, or recommendation: such 
 >>- The first settlers introduced European diseases to America.
 >>- The speaker introduced the winner.
 
+
 to combine or produce by synthesis<br>to make a synthesis of<br>to produce (something, such as music) by an electronic synthesizer
 ?
 >[!vocab] to synthesize(verb)
@@ -587,7 +588,7 @@ sympathetic sorrow for one suffering, distressed, or unhappy<br>capacity to feel
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/0a/0a2db9b7b0296859aee1b8b9237d1a9b-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- I feel pity when I see other people suffer.
-<!--SR:!2025-05-04,1,224-->
+<!--SR:!2025-05-07,3,244-->
 
 a sudden overpowering fright; also : acute, extreme anxiety<br>a sudden unreasoning terror often accompanied by mass flight<br>a sudden widespread fright concerning financial affairs that results in a depression of values caused by extreme measures for protection of property (such as securities)
 ?
@@ -607,7 +608,7 @@ of, relating to, or involving quality or kind
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/78/78b055818452c4703aac38db0dba2e4f-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Further training for the workers led to qualitative improvements.
-<!--SR:!2025-05-04,1,224-->
+<!--SR:!2025-05-06,2,224-->
 
 include, comprehend<br>envelop<br>to form a circle about : enclose
 ?
@@ -655,7 +656,7 @@ using few words : devoid of superfluity; also : short, brusque<br>smoothly elega
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/2c/2c1fd6e09f7ba9cf642bdeb20b1b9b64-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- His answer was brief and terse.
-<!--SR:!2025-05-04,1,224-->
+<!--SR:!2025-05-05,1,204-->
 
 said or done as a joke : characterized by jesting : playful<br>given to jesting : habitually jolly or jocund
 ?
