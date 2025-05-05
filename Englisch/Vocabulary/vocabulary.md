@@ -995,6 +995,7 @@ highly injurious or destructive : deadly<br>wicked
 >**Pronunciation**: /pəˈnɪʃəs/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/6f/6fbef9453cb9ff2c308dba53384fb2b8-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/6f/6fbef9453cb9ff2c308dba53384fb2b8-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-08,3,285-->
 
 with regard to (something) : apropos of
 ?
@@ -1002,6 +1003,7 @@ with regard to (something) : apropos of
 >**Translations**: apropos
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/37/37d70f528b5be4756059a24cd87d3dfc-0.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/37/37d70f528b5be4756059a24cd87d3dfc-0.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-08,3,265-->
 
 the quality or state of being reliable<br>the extent to which an experiment, test, or measuring procedure yields the same results on repeated trials
 ?
@@ -1013,6 +1015,7 @@ the quality or state of being reliable<br>the extent to which an experiment, tes
 >>- Quality control ensures the reliability of the product.
 >>- My colleague is well known for her hard work and reliability.
 >>- The brand is known for its quality and reliability.
+<!--SR:!2025-05-08,3,285-->
 
 in a free manner: such as<br>of one's own accord<br>with freedom from external control
 ?
@@ -1023,6 +1026,7 @@ in a free manner: such as<br>of one's own accord<br>with freedom from external c
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/da/daa759be97f37e5f7eff5883801aebed-400.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The guests could choose freely from the menu.
+<!--SR:!2025-05-08,3,265-->
 
 characterized by good-humored cheerfulness and conviviality : jolly<br>of or relating to Jove
 ?
@@ -1032,6 +1036,7 @@ characterized by good-humored cheerfulness and conviviality : jolly<br>of or rel
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/bc/bca819d1bd18491ef16e16ca22fa38bf-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The mood at the party was very jovial.
+<!--SR:!2025-05-08,3,265-->
 
 to deal with successfully : clear up<br>to find an answer to<br>to make clear or understandable
 ?
@@ -1047,6 +1052,7 @@ to deal with successfully : clear up<br>to find an answer to<br>to make clear or
 >>- We resolved the old problem with a new approach.
 >>- We resolved the conflict by peaceful means.
 >>- The police officer managed to resolve the case.
+<!--SR:!2025-05-06,1,245-->
 
 an act of inflating : a state of being inflated: such as<br>distension<br>a hypothetical extremely brief period of very rapid expansion of the universe immediately following the big bang
 ?
@@ -1057,4 +1063,30 @@ an act of inflating : a state of being inflated: such as<br>distension<br>a hypo
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/3d/3d3c439478e8edb8bc00b8c5a890bd2d-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Inflation has not been this low for a long time.
+<!--SR:!2025-05-08,3,285-->
+
+to bring to an end especially in a particular way or with a particular action<br>to reach as a logically necessary end by reasoning : infer on the basis of evidence<br>to make a decision about : decide
+?
+>[!vocab] to conclude(verb)
+>**Translations**: schließen, abschließen, abschließen
+>**Forms**: concluded, concluded
+>**Pronunciation**: /kən.ˈkluːd/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/9b/9beda706051671a52ae7c5af00e4d6df-201.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/9b/9beda706051671a52ae7c5af00e4d6df-201.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- To conclude her letter she wrote 'kind regards'.
+>>- To conclude her letter she wrote 'kind regards'.
+>>- The student concluded the essay with a quote.
+>>- The book concluded in a surprising manner.
+<!--SR:!2025-05-08,3,286-->
+
+a remaining group, part, or trace<br>the number left after a subtraction
+?
+>[!vocab] remainder(noun)
+>**Translations**: Rest, Restbetrag, Restmenge
+>**Pronunciation**: /ɹəˈmeɪndə/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/8e/8e2bb981f1bb93f356b6974a54a40fd7-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- I left the office and spent the remainder of the day at home.
+<!--SR:!2025-05-08,3,286-->
 

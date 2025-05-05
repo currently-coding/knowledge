@@ -146,7 +146,7 @@ def start_server():
     """
     global lin_base_url
     try:
-        print("Staring up server...", end=" ")
+        print("Starting up server...", end=" ")
         proc = Popen(
             ["uvicorn", "linguee_api.api:app"],
             stdout=DEVNULL,

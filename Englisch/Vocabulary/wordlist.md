@@ -1,7 +1,3 @@
-turnout
-conclude
-heterodox
-remainder
 perceive
 dissonance
 immune
@@ -19,28 +15,22 @@ define
 collaboration
 sycopathic
 indispensable
-project
 slot
 collusion
 lens
-framework
 emission
 solely
 suspension
 disappointment
 vicarious
 syndrome
-assess numerically  
-mode
 complicit
 engender
 extrapolate  
 intrinsic
 probability
-prior example  
 warrant
 conducive
-hilarious
 replicate
 transcend
 extensive
@@ -57,13 +47,10 @@ impact
 controversial
 situated
 referendum
-broadcaster
 figure out
 publishing
-marathon
 sycophantic
 flat
-thus, it becomes evident that...
 particular
 perpetuate
 synthesis
@@ -1036,7 +1023,6 @@ tighten
 merge  
 confess
 seemingly
-sycophant
 alleviation
 vow
 prosperity
