@@ -68,7 +68,7 @@ to make known or public<br>to expose to view<br>hatch
 >>- The police did not disclose the name of the suspect.
 >>- The bank may not disclose information about its clients.
 >>- He wants to disclose his secret.
-<!--SR:!2025-05-05,3,229-->
+<!--SR:!2025-05-14,9,249-->
 
 the part of a page or sheet outside the main body of printed or written matter<br>the outside limit and adjoining surface of something : edge<br>a spare amount or measure or degree allowed or given for contingencies or special situations
 ?
@@ -237,7 +237,7 @@ to detect with the eyes<br>to detect with senses other than vision<br>to recogni
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/62/620099028f603c1f9352fce5801c2e58-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- She can easily discern his face in the crowd.
-<!--SR:!2025-05-05,3,260-->
+<!--SR:!2025-05-15,10,280-->
 
 to give advance thought, discussion, or treatment to<br>to meet (an obligation) before a due date<br>to foresee and deal with in advance : forestall
 ?
@@ -252,7 +252,7 @@ to give advance thought, discussion, or treatment to<br>to meet (an obligation) 
 >>- Product designers anticipate the needs of the customers.
 >>- You cannot anticipate every possible reaction to an act.
 >>- I anticipated my mother's reaction.
-<!--SR:!2025-05-05,3,260-->
+<!--SR:!2025-05-15,10,280-->
 
 something suggested by a word or thing : implication<br>the suggesting of a meaning by a word apart from the thing it explicitly names or describes<br>the signification of something
 ?
@@ -265,7 +265,7 @@ something suggested by a word or thing : implication<br>the suggesting of a mean
 >>- Words can have different connotations.
 >>- The word she used had a positive connotation.
 >>- The connotation encompasses the different meanings of a word.
-<!--SR:!2025-05-05,3,259-->
+<!--SR:!2025-05-14,9,279-->
 
 to prove wrong by argument or evidence : show to be false or erroneous<br>to deny the truth or accuracy of
 ?
@@ -289,7 +289,7 @@ to place emphasis on : stress
 >>[!Example] Examples
 >>- He emphasized the importance of donations.
 >>- The professor emphasized the importance of recycling.
-<!--SR:!2025-05-05,3,260-->
+<!--SR:!2025-05-13,8,280-->
 
 
 ?
@@ -341,7 +341,7 @@ to make greater, more numerous, larger, or more intense<br>supplement<br>to add 
 >>[!Example] Examples
 >>- We augmented the range of products with some new options.
 >>- She augmented her savings with prudent investments.
-<!--SR:!2025-05-05,3,262-->
+<!--SR:!2025-05-12,7,262-->
 
 carriage of the body; especially : erect and soldierly bearing<br>constitution, makeup<br>the assembly and arrangement of the tools and apparatus required for the performance of an operation
 ?
@@ -351,7 +351,7 @@ carriage of the body; especially : erect and soldierly bearing<br>constitution, 
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/a0/a0f848942ce863cf53c0fa6cc684007d-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The setup of the computer program did not take long.
-<!--SR:!2025-05-05,3,261-->
+<!--SR:!2025-05-15,10,281-->
 
 to bring (as by argument) to belief, consent, or a course of action : persuade<br>to overcome by argument<br>overpower, overcome
 ?
@@ -363,7 +363,7 @@ to bring (as by argument) to belief, consent, or a course of action : persuade<b
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/d9/d966a024a058e078e0b04ad6af5fd844-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- He convinced the fighters not to strike.
-<!--SR:!2025-05-05,3,261-->
+<!--SR:!2025-05-15,10,281-->
 
 to submit (something, such as a document) to a court or officer in course of proceedings; also : to present or offer officially or in legal form<br>to present to view: such as<br>to show or display outwardly especially by visible signs or actions
 ?
@@ -405,7 +405,7 @@ a conclusion derived through logic : inference<br>something produced by a cause 
 >>[!Example] Examples
 >>- Effectively, the mistake did not have any consequences.
 >>- A volcanic eruption would have dire consequences.
-<!--SR:!2025-05-05,3,262-->
+<!--SR:!2025-05-15,10,282-->
 
 to exert pressure especially on opposite sides of : compress<br>to extract or emit under pressure<br>to force or thrust by compression
 ?
@@ -420,7 +420,7 @@ to exert pressure especially on opposite sides of : compress<br>to extract or em
 >>- I am squeezing all my clothes into a tiny suitcase.
 >>- She squeezed some oranges to make juice.
 >>- I am squeezing an orange to get fresh juice.
-<!--SR:!2025-05-05,3,261-->
+<!--SR:!2025-05-15,10,281-->
 
 to take, receive, or obtain especially from a specified source<br>to obtain (a chemical substance) actually or theoretically from a parent substance<br>infer, deduce
 ?
@@ -476,7 +476,7 @@ relating to, occupied with, or fond of feasting, drinking, and good company
 >**Pronunciation**: /kənˈvɪv.i.əl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/44/44219e0dc662875e7a8885fb960c943d-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/44/44219e0dc662875e7a8885fb960c943d-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-05,3,263-->
+<!--SR:!2025-05-15,10,283-->
 
 conformity with truth or fact : accuracy<br>devotion to the truth : truthfulness<br>power of conveying or perceiving truth
 ?
@@ -499,7 +499,7 @@ in a precise manner : exactly —often used to emphasize the precision of someth
 >>[!Example] Examples
 >>- She solved the problem precisely as the teacher expected.
 >>- I can set the scaling of the machine precisely.
-<!--SR:!2025-05-05,3,263-->
+<!--SR:!2025-05-14,9,283-->
 
 one that occupies a particular place regularly, routinely, or for a period of time
 ?
@@ -535,7 +535,7 @@ the use of reason; especially : the drawing of inferences or conclusions through
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/4d/4db0062a5ec022e76d5f853ebfba540a-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Your reasoning convinces me.
-<!--SR:!2025-05-05,2,244-->
+<!--SR:!2025-05-10,5,244-->
 
 existing or coming about seemingly at random or by chance or as a capricious and unreasonable act of will<br>based on or determined by individual preference or convenience rather than by necessity or the intrinsic nature of something<br>not restrained or limited in the exercise of power : ruling by absolute authority
 ?
@@ -623,7 +623,7 @@ include, comprehend<br>envelop<br>to form a circle about : enclose
 >>- The vast desert encompasses parts of several countries.
 >>- The syllabus encompasses theoretical and practical texts.
 >>- The area encompasses a large nature park.
-<!--SR:!2025-05-05,2,244-->
+<!--SR:!2025-05-11,6,264-->
 
 according to report
 ?
@@ -636,20 +636,6 @@ according to report
 >>- Reportedly, the storm did not cause any damages.
 <!--SR:!2025-05-06,3,264-->
 
-a royal journey marked by pomp and pageant<br>a state procession<br>a tour or circuit made by an official (such as a judge)
-?
->[!vocab] progress(noun)
->**Translations**: Fortschritt, Fortschreiten, Fortschritte
->**Pronunciation**: /pɹəˈɡɹɛs/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/3c/3c709b10a5d47ba33d85337dd9110917-101.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/3c/3c709b10a5d47ba33d85337dd9110917-101.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example] Examples
->>- I will keep you informed of the project's progress.
->>- The patient made great progress and was discharged by the end of the week.
->>- To make progress, we should focus on the essential.
->>- The patient made great progress and was discharged by the end of the week.
-<!--SR:!2025-05-05,2,244-->
-
 using few words : devoid of superfluity; also : short, brusque<br>smoothly elegant : polished
 ?
 >[!vocab] terse(adjective)
@@ -658,7 +644,7 @@ using few words : devoid of superfluity; also : short, brusque<br>smoothly elega
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/2c/2c1fd6e09f7ba9cf642bdeb20b1b9b64-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- His answer was brief and terse.
-<!--SR:!2025-05-05,1,204-->
+<!--SR:!2025-05-07,2,224-->
 
 said or done as a joke : characterized by jesting : playful<br>given to jesting : habitually jolly or jocund
 ?
@@ -845,7 +831,7 @@ commanding, controlling, or prevailing over all others<br>very important, powerf
 >>[!Example] Examples
 >>- My father was a very dominant person.
 >>- The dominant shade in his paintings is blue.
-<!--SR:!2025-05-05,1,240-->
+<!--SR:!2025-05-08,3,260-->
 
 of, relating to, involving, or being in accordance with logic<br>skilled in logic<br>formally true or valid : analytic, deductive
 ?
@@ -874,7 +860,7 @@ to reduce the mental or moral vigor of<br>to lessen the vitality or strength of
 >**Translations**: entnerven, schwächen
 >**Forms**: enervated, enervated
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/48/48ff75593824fbcda45e5d6f43d69980-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-05,1,241-->
+<!--SR:!2025-05-08,3,261-->
 
 meticulous, careful<br>governed by or conforming to the dictates of conscience : scrupulous
 ?
@@ -886,7 +872,7 @@ meticulous, careful<br>governed by or conforming to the dictates of conscience :
 >>[!Example] Examples
 >>- My assistant is very conscientious and attentive.
 >>- They are looking for a conscientious babysitter.
-<!--SR:!2025-05-05,1,241-->
+<!--SR:!2025-05-08,3,261-->
 
 using or involving the use of a minimum of words : concise to the point of seeming rude or mysterious
 ?
@@ -919,5 +905,156 @@ occurring by chance<br>fortunate, lucky<br>coming or happening by a lucky chance
 >**Pronunciation**: /fɔːˈtjuːɪtəs/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/f3/f354847ec637e15410e8afd2a656d1a9-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/f3/f354847ec637e15410e8afd2a656d1a9-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-05,1,240-->
+<!--SR:!2025-05-06,1,220-->
+
+a person who has controlling authority or is in a leading position: such as<br>a chief or head man or woman<br>the chief executive officer of an educational institution
+?
+>[!vocab] principal(noun)
+>**Translations**: Auftraggeber, Rektor, Direktor
+>**Pronunciation**: /ˈpɹɪnsəpəl/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/e7/e7d715a9b79d263ae527955341bbe9b1-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/e7/e7d715a9b79d263ae527955341bbe9b1-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The contract defines the rights of principal and agent.
+>>- Every certificate is signed by the principal of the school.
+>>- The principal gave a speech at the term's end.
+>>- He is the founder and principal of the company.
+>>- The principal commissioned the translation of the contract.
+<!--SR:!2025-05-08,3,281-->
+
+to assess (something) again
+?
+>[!vocab] to reassess(verb)
+>**Translations**: überdenken, bereinigen, umwerten
+>**Forms**: reassessed, reassessed
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/15/152312fd145f174e7b164f112d3f49a1-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/15/152312fd145f174e7b164f112d3f49a1-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Let us reassess the decision once again.
+<!--SR:!2025-05-08,3,285-->
+
+physical equilibrium<br>the ability to retain one's balance<br>stability produced by even distribution of weight on each side of the vertical axis
+?
+>[!vocab] balance(noun)
+>**Translations**: Bilanz, Gleichgewicht, Saldo
+>**Forms**: plural: Salden, Saldi, Saldos
+>**Pronunciation**: /ˈbæləns/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/20/2069ca795d8e10a6f9a92dd57d01af10-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/20/2069ca795d8e10a6f9a92dd57d01af10-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Defaults have negative effects on the balance.
+>>- She extended her arms to keep her balance.
+>>- I logged into my account and checked my balance.
+>>- Meditation helps him achieve an inner balance.
+>>- I went to the bank to check my balance.
+>>- She extended her arms to keep her balance.
+<!--SR:!2025-05-08,3,281-->
+
+a violent public disorder; specifically : a tumultuous disturbance of the public peace by three or more persons assembled together and acting with a common intent<br>public violence, tumult, or disorder<br>a random or disorderly profusion
+?
+>[!vocab] riot(noun)
+>**Translations**: Aufruhr, Unruhen, Ausschreitungen
+>**Pronunciation**: /ˈɹaɪ.ət/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/2f/2f53086555b7fbb940ce78616ff212e5-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/2f/2f53086555b7fbb940ce78616ff212e5-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- There was no riot, just a peaceful demonstration.
+>>- The riots stopped when the unpopular measure was withdrawn.
+>>- Luckily, there was no riot after the game.
+>>- The police could prevent riots in front of the stadium.
+<!--SR:!2025-05-08,3,281-->
+
+of, relating to, consisting of, or arranged in a series, rank, or row<br>appearing in successive parts or numbers<br>belonging to a series maturing periodically rather than on a single date
+?
+>[!vocab] serial(adjective)
+>**Translations**: seriell, serienmäßig, fortlaufend
+>**Pronunciation**: /ˈsɪəɹiːəɫ/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/74/74136b24217cb75599440e6e1d807cf7-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/74/74136b24217cb75599440e6e1d807cf7-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-08,3,265-->
+
+to make understandable<br>to free of confusion<br>to make (a liquid or something liquefied) clear or pure usually by freeing from suspended matter
+?
+>[!vocab] to clarify(verb)
+>**Translations**: klären, verdeutlichen, erläutern
+>**Forms**: clarified, clarified
+>**Pronunciation**: /ˈklæɹɪfaɪ/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/34/34fce488a86f5f5889a4efb990bacd7c-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/34/34fce488a86f5f5889a4efb990bacd7c-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- In the first place, the police officer needed to clarify the facts.
+>>- An example will clarify what I mean.
+>>- He clarified the main aspects of his book.
+>>- We have published a White Paper in which we clarify our position.
+<!--SR:!2025-05-08,3,285-->
+
+highly injurious or destructive : deadly<br>wicked
+?
+>[!vocab] pernicious(adjective)
+>**Translations**: schädlich, perniziös, gefährlich
+>**Pronunciation**: /pəˈnɪʃəs/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/6f/6fbef9453cb9ff2c308dba53384fb2b8-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/6f/6fbef9453cb9ff2c308dba53384fb2b8-300.mp3 type="audio/mpeg">Unsupported.</audio>
+
+with regard to (something) : apropos of
+?
+>[!vocab] apropos(preposition)
+>**Translations**: apropos
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/37/37d70f528b5be4756059a24cd87d3dfc-0.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/37/37d70f528b5be4756059a24cd87d3dfc-0.mp3 type="audio/mpeg">Unsupported.</audio>
+
+the quality or state of being reliable<br>the extent to which an experiment, test, or measuring procedure yields the same results on repeated trials
+?
+>[!vocab] reliability(noun)
+>**Translations**: Zuverlässigkeit, Verlässlichkeit, Sicherheit
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/46/464fe4ea0557b9c34b4ef33c135f6a08-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/46/464fe4ea0557b9c34b4ef33c135f6a08-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Quality control ensures the reliability of the product.
+>>- My colleague is well known for her hard work and reliability.
+>>- The brand is known for its quality and reliability.
+
+in a free manner: such as<br>of one's own accord<br>with freedom from external control
+?
+>[!vocab] freely(adverb)
+>**Translations**: frei, kostenfrei, unentgeltlich
+>**Pronunciation**: /ˈfɹili/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/da/daa759be97f37e5f7eff5883801aebed-400.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/da/daa759be97f37e5f7eff5883801aebed-400.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The guests could choose freely from the menu.
+
+characterized by good-humored cheerfulness and conviviality : jolly<br>of or relating to Jove
+?
+>[!vocab] jovial(adjective)
+>**Translations**: gemütlich, heiter, fröhlich
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/bc/bca819d1bd18491ef16e16ca22fa38bf-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/bc/bca819d1bd18491ef16e16ca22fa38bf-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The mood at the party was very jovial.
+
+to deal with successfully : clear up<br>to find an answer to<br>to make clear or understandable
+?
+>[!vocab] to resolve(verb)
+>**Translations**: beschließen, lösen, beilegen
+>**Forms**: resolved, resolved
+>**Pronunciation**: /ɹiˈsɒlv/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/78/785e254f4f43227df02945c04559dbaf-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/78/785e254f4f43227df02945c04559dbaf-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The company meeting resolved the amendment of the article.
+>>- We need to resolve this problem soon.
+>>- We resolved the old problem with a new approach.
+>>- We resolved the conflict by peaceful means.
+>>- The police officer managed to resolve the case.
+
+an act of inflating : a state of being inflated: such as<br>distension<br>a hypothetical extremely brief period of very rapid expansion of the universe immediately following the big bang
+?
+>[!vocab] inflation(noun)
+>**Translations**: Inflation, Geldentwertung, Aufblasen
+>**Pronunciation**: /ɪnˈfleɪʃən/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/3d/3d3c439478e8edb8bc00b8c5a890bd2d-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/3d/3d3c439478e8edb8bc00b8c5a890bd2d-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Inflation has not been this low for a long time.
 

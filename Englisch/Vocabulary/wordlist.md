@@ -1,17 +1,3 @@
-principal
-reassess
-balance
-riot
-serial
-clarify
-surgical
-pernicious
-apropos
-reliability
-freely
-jovial
-resolve
-inflation
 turnout
 conclude
 heterodox
