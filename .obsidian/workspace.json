@@ -219,8 +219,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -239,16 +239,10 @@
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": true,
-      "size-history:Vault size history": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "size-history:Vault size history": false
     }
   },
-  "active": "1ec4ed0d6925491d",
+  "active": "fcc3e9ee6dad5bab",
   "lastOpenFiles": [
     "Physik/Wellen HA.md",
     "Englisch/Vocabulary/vocabulary.md",
