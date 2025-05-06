@@ -11,10 +11,15 @@
             "id": "1ec4ed0d6925491d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -222,6 +227,16 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "32da52b6050b9596",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 3
@@ -239,11 +254,14 @@
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": true,
-      "size-history:Vault size history": false
+      "size-history:Vault size history": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
   "active": "fcc3e9ee6dad5bab",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Physik/Wellen HA.md",
     "Englisch/Vocabulary/vocabulary.md",
     "Chemie/Proteine/Struktur/Tertiärstruktur.md",
@@ -253,7 +271,6 @@
     "Musik/Libretto.md",
     "Ethik/Bioethik/Medizinethik/Sterbehilfe.md",
     "Attachments/Pasted image 20250505165211.png",
-    "conflict-files-obsidian-git.md",
     "Englisch/Vocabulary/requirements.txt",
     "Englisch/Vocabulary/vocabulary.py~",
     "Englisch/Vocabulary/wordlist.md",
