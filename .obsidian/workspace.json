@@ -216,6 +216,16 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "f596589d426f70c8",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 3
@@ -233,7 +243,10 @@
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": true,
-      "size-history:Vault size history": false
+      "size-history:Vault size history": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "fcc3e9ee6dad5bab",
