@@ -466,7 +466,7 @@ to combine or produce by synthesis<br>to make a synthesis of<br>to produce (some
 >**Pronunciation**: /ˈsɪnθəsaɪz/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/d6/d6284de87997d101a0cee91cc449ff46-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/d6/d6284de87997d101a0cee91cc449ff46-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-06,3,264-->
+<!--SR:!2025-05-16,10,284-->
 
 
 relating to, occupied with, or fond of feasting, drinking, and good company
@@ -556,7 +556,7 @@ responsive to sensory stimuli : discerning<br>capable of or exhibiting keen perc
 >**Pronunciation**: /pəˈsɛptɪv/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-06,3,264-->
+<!--SR:!2025-05-16,10,284-->
 
 a plant that is not valued where it is growing and is usually of vigorous growth; especially : one that tends to overgrow or choke out more desirable plants<br>a weedy growth of plants<br>an aquatic plant; especially : seaweed
 ?
@@ -579,7 +579,7 @@ to forbid by authority : enjoin<br>to prevent from doing something<br>preclude
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The company prohibits smoking in the entire building.
-<!--SR:!2025-05-06,3,264-->
+<!--SR:!2025-05-16,10,284-->
 
 sympathetic sorrow for one suffering, distressed, or unhappy<br>capacity to feel pity<br>something to be regretted
 ?
@@ -591,15 +591,6 @@ sympathetic sorrow for one suffering, distressed, or unhappy<br>capacity to feel
 >>[!Example] Examples
 >>- I feel pity when I see other people suffer.
 <!--SR:!2025-05-07,3,244-->
-
-a sudden overpowering fright; also : acute, extreme anxiety<br>a sudden unreasoning terror often accompanied by mass flight<br>a sudden widespread fright concerning financial affairs that results in a depression of values caused by extreme measures for protection of property (such as securities)
-?
->[!vocab] panic(noun)
->**Translations**: Panik, panische Angst, Kopflosigkeit
->**Pronunciation**: /ˈpænɪk/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/c1/c1a9a474d030d4706c8346a0d15a48a5-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/c1/c1a9a474d030d4706c8346a0d15a48a5-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-06,3,264-->
 
 of, relating to, or involving quality or kind
 ?
@@ -688,7 +679,7 @@ to subvert or weaken insidiously or secretly<br>to weaken or ruin by degrees<br>
 >>- The pupil has undermined the teacher's authority.
 >>- The student has undermined the teacher's authority.
 >>- Frequent lying undermines any trust.
-<!--SR:!2025-05-06,3,270-->
+<!--SR:!2025-05-17,11,290-->
 
 a judgment involving condemnation<br>the act of blaming or condemning sternly<br>an official reprimand
 ?
@@ -736,7 +727,7 @@ something that impedes progress or achievement
 >>- Obstacles on the track can cause an obstruction.
 >>- They have successfully overcome the last obstacle.
 >>- If she wants to attend the class, the cost should not be an obstacle.
-<!--SR:!2025-05-06,3,270-->
+<!--SR:!2025-05-15,9,270-->
 
 to determine or fix the value of<br>to determine the significance, worth, or condition of usually by careful appraisal and study
 ?
@@ -777,7 +768,7 @@ the action of yielding one's person or giving up the possession of something esp
 >>- The countries negotiated the surrender of wanted criminals.
 >>- The surrender helped to avoid further casualties.
 >>- The war ended with the surrender of the enemy.
-<!--SR:!2025-05-06,3,250-->
+<!--SR:!2025-05-16,10,270-->
 
 harsh or jarring sound : dissonance; specifically : harshness in the sound of words or phrases<br>an incongruous or chaotic mixture : a striking combination
 ?
@@ -1052,7 +1043,7 @@ to deal with successfully : clear up<br>to find an answer to<br>to make clear or
 >>- We resolved the old problem with a new approach.
 >>- We resolved the conflict by peaceful means.
 >>- The police officer managed to resolve the case.
-<!--SR:!2025-05-06,1,245-->
+<!--SR:!2025-05-08,2,245-->
 
 an act of inflating : a state of being inflated: such as<br>distension<br>a hypothetical extremely brief period of very rapid expansion of the universe immediately following the big bang
 ?

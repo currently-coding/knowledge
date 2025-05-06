@@ -23,13 +23,13 @@ Aufgabe:
 Untersuchen Sie den Einfluss der Amplitude auf die Ausbreitungsgeschwindigkeit.
 $c = \frac{\lambda}{f} \implies$ Amplitude hat keinen Einfluss auf Ausbreitungsgeschwindigkeit $c$
 
-1. Amplitude = max:
+1. Amplitude: max:
 $\lambda = 2.6\mathrm{cm}, f=1.6\mathrm{s}$
 $$
 c = \frac{2.6\,\mathrm{cm}}{1.6\,\mathrm{s}} = 1.625\,\frac{\mathrm{m}}{\mathrm{s}} 
 $$
 
-2. Amplitude = Mitte:
+2. Amplitude: Mitte:
 $\lambda = 2.6\mathrm{cm}, f=1.6\mathrm{s}$
 $$
 c = \frac{2.6\,\mathrm{cm}}{1.6\,\mathrm{s}} = 1.625\,\frac{\mathrm{m}}{\mathrm{s}} 
