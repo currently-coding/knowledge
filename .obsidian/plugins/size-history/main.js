@@ -37,7 +37,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 // node_modules/chart.xkcd/dist/index.js
 var require_dist = __commonJS({
   "node_modules/chart.xkcd/dist/index.js"(exports, module2) {
-    (function() {
+    (function () {
       function wb(a2) {
         return a2 && a2.__esModule ? { d: a2.default } : { d: a2 };
       }
@@ -46,7 +46,7 @@ var require_dist = __commonJS({
         var i2 = Object.keys(t2);
         if (Object.getOwnPropertySymbols) {
           var o2 = Object.getOwnPropertySymbols(t2);
-          e2 && (o2 = o2.filter(function(e3) {
+          e2 && (o2 = o2.filter(function (e3) {
             return Object.getOwnPropertyDescriptor(t2, e3).enumerable;
           })), i2.push.apply(i2, o2);
         }
@@ -55,9 +55,9 @@ var require_dist = __commonJS({
       function od(t2) {
         for (var e2 = 1; e2 < arguments.length; e2++) {
           var i2 = null != arguments[e2] ? arguments[e2] : {};
-          e2 % 2 ? yb(i2, true).forEach(function(e3) {
+          e2 % 2 ? yb(i2, true).forEach(function (e3) {
             pd(t2, e3, i2[e3]);
-          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(i2)) : yb(i2).forEach(function(e3) {
+          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(i2)) : yb(i2).forEach(function (e3) {
             Object.defineProperty(t2, e3, Object.getOwnPropertyDescriptor(i2, e3));
           });
         }
@@ -68,12 +68,12 @@ var require_dist = __commonJS({
       }
       function qd() {
       }
-      var zb = function($2) {
-        return null == $2 ? qd : function() {
+      var zb = function ($2) {
+        return null == $2 ? qd : function () {
           return this.querySelector($2);
         };
       };
-      var rd = function(e2) {
+      var rd = function (e2) {
         "function" != typeof e2 && (e2 = zb(e2));
         for (var r2 = this._groups, t2 = r2.length, a2 = new Array(t2), l2 = 0; l2 < t2; ++l2)
           for (var $2, _2, o2 = r2[l2], n2 = o2.length, i2 = a2[l2] = new Array(n2), p2 = 0; p2 < n2; ++p2)
@@ -83,50 +83,52 @@ var require_dist = __commonJS({
       function sd() {
         return [];
       }
-      var td = function(t2) {
-        return null == t2 ? sd : function() {
+      var td = function (t2) {
+        return null == t2 ? sd : function () {
           return this.querySelectorAll(t2);
         };
       };
-      var ud = function(e2) {
+      var ud = function (e2) {
         "function" != typeof e2 && (e2 = td(e2));
         for (var r2 = this._groups, p2 = r2.length, t2 = [], $2 = [], f2 = 0; f2 < p2; ++f2)
           for (var l2, o2 = r2[f2], a2 = o2.length, u2 = 0; u2 < a2; ++u2)
             (l2 = o2[u2]) && (t2.push(e2.call(l2, l2.__data__, u2, o2)), $2.push(l2));
         return new m(t2, $2);
       };
-      var vd = function(r2) {
-        return function() {
+      var vd = function (r2) {
+        return function () {
           return this.matches(r2);
         };
       };
-      var wd = function(r2) {
+      var wd = function (r2) {
         "function" != typeof r2 && (r2 = vd(r2));
         for (var e2 = this._groups, a2 = e2.length, t2 = new Array(a2), $2 = 0; $2 < a2; ++$2)
           for (var S2, o2 = e2[$2], n2 = o2.length, p2 = t2[$2] = [], i2 = 0; i2 < n2; ++i2)
             (S2 = o2[i2]) && r2.call(S2, S2.__data__, i2, o2) && p2.push(S2);
         return new m(t2, this._parents);
       };
-      var Ab = function(e2) {
+      var Ab = function (e2) {
         return new Array(e2.length);
       };
-      var xd = function() {
+      var xd = function () {
         return new m(this._enter || this._groups.map(Ab), this._parents);
       };
       function ia(e2, t2) {
         this.ownerDocument = e2.ownerDocument, this.namespaceURI = e2.namespaceURI, this._next = null, this._parent = e2, this.__data__ = t2;
       }
-      ia.prototype = { constructor: ia, appendChild: function(e2) {
-        return this._parent.insertBefore(e2, this._next);
-      }, insertBefore: function(e2, t2) {
-        return this._parent.insertBefore(e2, t2);
-      }, querySelector: function(e2) {
-        return this._parent.querySelector(e2);
-      }, querySelectorAll: function(e2) {
-        return this._parent.querySelectorAll(e2);
-      } };
-      var yd = function(r2) {
-        return function() {
+      ia.prototype = {
+        constructor: ia, appendChild: function (e2) {
+          return this._parent.insertBefore(e2, this._next);
+        }, insertBefore: function (e2, t2) {
+          return this._parent.insertBefore(e2, t2);
+        }, querySelector: function (e2) {
+          return this._parent.querySelector(e2);
+        }, querySelectorAll: function (e2) {
+          return this._parent.querySelectorAll(e2);
+        }
+      };
+      var yd = function (r2) {
+        return function () {
           return r2;
         };
       };
@@ -146,9 +148,9 @@ var require_dist = __commonJS({
         for (i2 = 0; i2 < q2; ++i2)
           (o2 = e2[i2]) && f2[O2[i2]] === o2 && (t2[i2] = o2);
       }
-      var Bd = function(r2, e2) {
+      var Bd = function (r2, e2) {
         if (!r2)
-          return O2 = new Array(this.size()), l2 = -1, this.each(function(r3) {
+          return O2 = new Array(this.size()), l2 = -1, this.each(function (r3) {
             O2[++l2] = r3;
           }), O2;
         var n2 = e2 ? Ad : zd, $2 = this._parents, t2 = this._groups;
@@ -158,21 +160,21 @@ var require_dist = __commonJS({
           n2(f2, q2, u2, v2, o2[l2] = new Array(_2), O2, e2);
           for (var p2, y2, h2 = 0, x2 = 0; h2 < d2; ++h2)
             if (p2 = u2[h2]) {
-              for (h2 >= x2 && (x2 = h2 + 1); !(y2 = v2[x2]) && ++x2 < d2; )
+              for (h2 >= x2 && (x2 = h2 + 1); !(y2 = v2[x2]) && ++x2 < d2;)
                 ;
               p2._next = y2 || null;
             }
         }
         return (c2 = new m(c2, $2))._enter = i2, c2._exit = o2, c2;
       };
-      var Cd = function() {
+      var Cd = function () {
         return new m(this._exit || this._groups.map(Ab), this._parents);
       };
-      var Dd = function(e2, t2, r2) {
+      var Dd = function (e2, t2, r2) {
         var $2 = this.enter(), n2 = this, o2 = this.exit();
         return $2 = "function" == typeof e2 ? e2($2) : $2.append(e2 + ""), null != t2 && (n2 = t2(n2)), null == r2 ? o2.remove() : r2(o2), $2 && n2 ? $2.merge(n2).order() : n2;
       };
-      var Ed = function(r2) {
+      var Ed = function (r2) {
         for (var e2 = this._groups, t2 = r2._groups, $2 = e2.length, n2 = t2.length, a2 = Math.min($2, n2), o2 = new Array($2), x2 = 0; x2 < a2; ++x2)
           for (var p2, i2 = e2[x2], l2 = t2[x2], u2 = i2.length, f2 = o2[x2] = new Array(u2), s2 = 0; s2 < u2; ++s2)
             (p2 = i2[s2] || l2[s2]) && (f2[s2] = p2);
@@ -180,13 +182,13 @@ var require_dist = __commonJS({
           o2[x2] = e2[x2];
         return new m(o2, this._parents);
       };
-      var Fd = function() {
-        for (var e2 = this._groups, t2 = -1, r2 = e2.length; ++t2 < r2; )
-          for (var o2, $2 = e2[t2], n2 = $2.length - 1, a2 = $2[n2]; --n2 >= 0; )
+      var Fd = function () {
+        for (var e2 = this._groups, t2 = -1, r2 = e2.length; ++t2 < r2;)
+          for (var o2, $2 = e2[t2], n2 = $2.length - 1, a2 = $2[n2]; --n2 >= 0;)
             (o2 = $2[n2]) && (a2 && 4 ^ o2.compareDocumentPosition(a2) && a2.parentNode.insertBefore(o2, a2), a2 = o2);
         return this;
       };
-      var Gd = function(r2) {
+      var Gd = function (r2) {
         function e2(e3, t3) {
           return e3 && t3 ? r2(e3.__data__, t3.__data__) : !e3 - !t3;
         }
@@ -201,17 +203,17 @@ var require_dist = __commonJS({
       function Hd(r2, e2) {
         return r2 < e2 ? -1 : r2 > e2 ? 1 : r2 >= e2 ? 0 : NaN;
       }
-      var Id = function() {
+      var Id = function () {
         var t2 = arguments[0];
         return arguments[0] = this, t2.apply(null, arguments), this;
       };
-      var Jd = function() {
+      var Jd = function () {
         var t2 = new Array(this.size()), a2 = -1;
-        return this.each(function() {
+        return this.each(function () {
           t2[++a2] = this;
         }), t2;
       };
-      var Kd = function() {
+      var Kd = function () {
         for (var r2 = this._groups, t2 = 0, e2 = r2.length; t2 < e2; ++t2)
           for (var $2 = r2[t2], o2 = 0, u2 = $2.length; o2 < u2; ++o2) {
             var a2 = $2[o2];
@@ -220,60 +222,60 @@ var require_dist = __commonJS({
           }
         return null;
       };
-      var Ld = function() {
+      var Ld = function () {
         var e2 = 0;
-        return this.each(function() {
+        return this.each(function () {
           ++e2;
         }), e2;
       };
-      var Md = function() {
+      var Md = function () {
         return !this.node();
       };
-      var Nd = function(t2) {
+      var Nd = function (t2) {
         for (var r2 = this._groups, e2 = 0, $2 = r2.length; e2 < $2; ++e2)
           for (var a2, n2 = r2[e2], p2 = 0, o2 = n2.length; p2 < o2; ++p2)
             (a2 = n2[p2]) && t2.call(a2, a2.__data__, p2, n2);
         return this;
       };
       function Od(t2) {
-        return function() {
+        return function () {
           this.removeAttribute(t2);
         };
       }
       function Pd(t2) {
-        return function() {
+        return function () {
           this.removeAttributeNS(t2.space, t2.local);
         };
       }
       function Qd(t2, r2) {
-        return function() {
+        return function () {
           this.setAttribute(t2, r2);
         };
       }
       function Rd(t2, r2) {
-        return function() {
+        return function () {
           this.setAttributeNS(t2.space, t2.local, r2);
         };
       }
       function Sd(t2, r2) {
-        return function() {
+        return function () {
           var e2 = r2.apply(this, arguments);
           null == e2 ? this.removeAttribute(t2) : this.setAttribute(t2, e2);
         };
       }
       function Td(t2, r2) {
-        return function() {
+        return function () {
           var e2 = r2.apply(this, arguments);
           null == e2 ? this.removeAttributeNS(t2.space, t2.local) : this.setAttributeNS(t2.space, t2.local, e2);
         };
       }
       var Ha = "http://www.w3.org/1999/xhtml";
       var Cb = { svg: "http://www.w3.org/2000/svg", xhtml: Ha, xlink: "http://www.w3.org/1999/xlink", xml: "http://www.w3.org/XML/1998/namespace", xmlns: "http://www.w3.org/2000/xmlns/" };
-      var Db = function(e2) {
+      var Db = function (e2) {
         var $2 = e2 += "", a2 = $2.indexOf(":");
         return a2 >= 0 && "xmlns" !== ($2 = e2.slice(0, a2)) && (e2 = e2.slice(a2 + 1)), Cb.hasOwnProperty($2) ? { space: Cb[$2], local: e2 } : e2;
       };
-      var Ud = function(t2, r2) {
+      var Ud = function (t2, r2) {
         var e2 = Db(t2);
         if (arguments.length < 2) {
           var a2 = this.node();
@@ -282,47 +284,47 @@ var require_dist = __commonJS({
         return this.each((null == r2 ? e2.local ? Pd : Od : "function" == typeof r2 ? e2.local ? Td : Sd : e2.local ? Rd : Qd)(e2, r2));
       };
       function Vd(e2) {
-        return function() {
+        return function () {
           this.style.removeProperty(e2);
         };
       }
       function Wd(e2, t2, r2) {
-        return function() {
+        return function () {
           this.style.setProperty(e2, t2, r2);
         };
       }
       function Xd(e2, t2, r2) {
-        return function() {
+        return function () {
           var $2 = t2.apply(this, arguments);
           null == $2 ? this.style.removeProperty(e2) : this.style.setProperty(e2, $2, r2);
         };
       }
-      var Eb = function(e2) {
+      var Eb = function (e2) {
         return e2.ownerDocument && e2.ownerDocument.defaultView || e2.document && e2 || e2.defaultView;
       };
-      var Yd = function(e2, t2, r2) {
+      var Yd = function (e2, t2, r2) {
         return arguments.length > 1 ? this.each((null == t2 ? Vd : "function" == typeof t2 ? Xd : Wd)(e2, t2, null == r2 ? "" : r2)) : Zd(this.node(), e2);
       };
       function Zd(e2, t2) {
         return e2.style.getPropertyValue(t2) || Eb(e2).getComputedStyle(e2, null).getPropertyValue(t2);
       }
       function $d(r2) {
-        return function() {
+        return function () {
           delete this[r2];
         };
       }
       function _d(r2, t2) {
-        return function() {
+        return function () {
           this[r2] = t2;
         };
       }
       function ae(r2, t2) {
-        return function() {
+        return function () {
           var n2 = t2.apply(this, arguments);
           null == n2 ? delete this[r2] : this[r2] = n2;
         };
       }
-      var be = function(r2, t2) {
+      var be = function (r2, t2) {
         return arguments.length > 1 ? this.each((null == t2 ? $d : "function" == typeof t2 ? ae : _d)(r2, t2)) : this.node()[r2];
       };
       function Fb(s2) {
@@ -335,40 +337,42 @@ var require_dist = __commonJS({
         this._node = s2, this._names = Fb(s2.getAttribute("class") || "");
       }
       function Hb(s2, t2) {
-        for (var a2 = Ia(s2), $2 = -1, e2 = t2.length; ++$2 < e2; )
+        for (var a2 = Ia(s2), $2 = -1, e2 = t2.length; ++$2 < e2;)
           a2.add(t2[$2]);
       }
       function Ib(s2, t2) {
-        for (var a2 = Ia(s2), $2 = -1, e2 = t2.length; ++$2 < e2; )
+        for (var a2 = Ia(s2), $2 = -1, e2 = t2.length; ++$2 < e2;)
           a2.remove(t2[$2]);
       }
       function ce(s2) {
-        return function() {
+        return function () {
           Hb(this, s2);
         };
       }
       function de(s2) {
-        return function() {
+        return function () {
           Ib(this, s2);
         };
       }
       function ee(s2, t2) {
-        return function() {
+        return function () {
           (t2.apply(this, arguments) ? Hb : Ib)(this, s2);
         };
       }
-      Gb.prototype = { add: function(s2) {
-        this._names.indexOf(s2) < 0 && (this._names.push(s2), this._node.setAttribute("class", this._names.join(" ")));
-      }, remove: function(s2) {
-        var t2 = this._names.indexOf(s2);
-        t2 >= 0 && (this._names.splice(t2, 1), this._node.setAttribute("class", this._names.join(" ")));
-      }, contains: function(s2) {
-        return this._names.indexOf(s2) >= 0;
-      } };
-      var fe = function(s2, t2) {
+      Gb.prototype = {
+        add: function (s2) {
+          this._names.indexOf(s2) < 0 && (this._names.push(s2), this._node.setAttribute("class", this._names.join(" ")));
+        }, remove: function (s2) {
+          var t2 = this._names.indexOf(s2);
+          t2 >= 0 && (this._names.splice(t2, 1), this._node.setAttribute("class", this._names.join(" ")));
+        }, contains: function (s2) {
+          return this._names.indexOf(s2) >= 0;
+        }
+      };
+      var fe = function (s2, t2) {
         var a2 = Fb(s2 + "");
         if (arguments.length < 2) {
-          for (var $2 = Ia(this.node()), e2 = -1, n2 = a2.length; ++e2 < n2; )
+          for (var $2 = Ia(this.node()), e2 = -1, n2 = a2.length; ++e2 < n2;)
             if (!$2.contains(a2[e2]))
               return false;
           return true;
@@ -379,75 +383,75 @@ var require_dist = __commonJS({
         this.textContent = "";
       }
       function he(t2) {
-        return function() {
+        return function () {
           this.textContent = t2;
         };
       }
       function ie(t2) {
-        return function() {
+        return function () {
           var n2 = t2.apply(this, arguments);
           this.textContent = null == n2 ? "" : n2;
         };
       }
-      var je = function(t2) {
+      var je = function (t2) {
         return arguments.length ? this.each(null == t2 ? ge : ("function" == typeof t2 ? ie : he)(t2)) : this.node().textContent;
       };
       function ke() {
         this.innerHTML = "";
       }
       function le(n2) {
-        return function() {
+        return function () {
           this.innerHTML = n2;
         };
       }
       function me(n2) {
-        return function() {
+        return function () {
           var t2 = n2.apply(this, arguments);
           this.innerHTML = null == t2 ? "" : t2;
         };
       }
-      var ne = function(n2) {
+      var ne = function (n2) {
         return arguments.length ? this.each(null == n2 ? ke : ("function" == typeof n2 ? me : le)(n2)) : this.node().innerHTML;
       };
       function oe() {
         this.nextSibling && this.parentNode.appendChild(this);
       }
-      var pe = function() {
+      var pe = function () {
         return this.each(oe);
       };
       function qe() {
         this.previousSibling && this.parentNode.insertBefore(this, this.parentNode.firstChild);
       }
-      var re = function() {
+      var re = function () {
         return this.each(qe);
       };
       function se(e2) {
-        return function() {
+        return function () {
           var r2 = this.ownerDocument, t2 = this.namespaceURI;
           return t2 === Ha && r2.documentElement.namespaceURI === Ha ? r2.createElement(e2) : r2.createElementNS(t2, e2);
         };
       }
       function te(e2) {
-        return function() {
+        return function () {
           return this.ownerDocument.createElementNS(e2.space, e2.local);
         };
       }
-      var Jb = function(e2) {
+      var Jb = function (e2) {
         var r2 = Db(e2);
         return (r2.local ? te : se)(r2);
       };
-      var ue = function(t2) {
+      var ue = function (t2) {
         var r2 = "function" == typeof t2 ? t2 : Jb(t2);
-        return this.select(function() {
+        return this.select(function () {
           return this.appendChild(r2.apply(this, arguments));
         });
       };
       function ve() {
         return null;
       }
-      var we = function(t2, r2) {
+      var we = function (t2, r2) {
         var e2 = "function" == typeof t2 ? t2 : Jb(t2), $2 = null == r2 ? ve : "function" == typeof r2 ? r2 : zb(r2);
-        return this.select(function() {
+        return this.select(function () {
           return this.insertBefore(e2.apply(this, arguments), $2.apply(this, arguments) || null);
         });
       };
@@ -455,7 +459,7 @@ var require_dist = __commonJS({
         var e2 = this.parentNode;
         e2 && e2.removeChild(this);
       }
-      var ye = function() {
+      var ye = function () {
         return this.each(xe);
       };
       function ze() {
@@ -464,10 +468,10 @@ var require_dist = __commonJS({
       function Ae() {
         return this.parentNode.insertBefore(this.cloneNode(true), this.nextSibling);
       }
-      var Be = function(e2) {
+      var Be = function (e2) {
         return this.select(e2 ? Ae : ze);
       };
-      var Ce = function(t2) {
+      var Ce = function (t2) {
         return arguments.length ? this.property("__data__", t2) : this.node().__data__;
       };
       var De = {}, Kb = null;
@@ -476,13 +480,13 @@ var require_dist = __commonJS({
         "onmouseenter" in Ee || (De = { mouseenter: "mouseover", mouseleave: "mouseout" });
       }
       function Fe(e2, t2, n2) {
-        return e2 = Lb(e2, t2, n2), function(t3) {
+        return e2 = Lb(e2, t2, n2), function (t3) {
           var n3 = t3.relatedTarget;
           n3 && (n3 === this || 8 & n3.compareDocumentPosition(this)) || e2.call(this, t3);
         };
       }
       function Lb(e2, t2, n2) {
-        return function(r2) {
+        return function (r2) {
           var $2 = Kb;
           Kb = r2;
           try {
@@ -493,13 +497,13 @@ var require_dist = __commonJS({
         };
       }
       function Ge(e2) {
-        return e2.trim().split(/^|\s+/).map(function(e3) {
+        return e2.trim().split(/^|\s+/).map(function (e3) {
           var t2 = "", n2 = e3.indexOf(".");
           return n2 >= 0 && (t2 = e3.slice(n2 + 1), e3 = e3.slice(0, n2)), { type: e3, name: t2 };
         });
       }
       function He(e2) {
-        return function() {
+        return function () {
           var t2 = this.__on;
           if (t2) {
             for (var n2, r2 = 0, $2 = -1, i2 = t2.length; r2 < i2; ++r2)
@@ -510,7 +514,7 @@ var require_dist = __commonJS({
       }
       function Ie(e2, t2, n2) {
         var r2 = De.hasOwnProperty(e2.type) ? Fe : Lb;
-        return function($2, i2, p2) {
+        return function ($2, i2, p2) {
           var o2, a2 = this.__on, v2 = r2(t2, i2, p2);
           if (a2) {
             for (var s2 = 0, u2 = a2.length; s2 < u2; ++s2)
@@ -520,7 +524,7 @@ var require_dist = __commonJS({
           this.addEventListener(e2.type, v2, n2), o2 = { type: e2.type, name: e2.name, value: t2, listener: v2, capture: n2 }, a2 ? a2.push(o2) : this.__on = [o2];
         };
       }
-      var Je = function(e2, t2, n2) {
+      var Je = function (e2, t2, n2) {
         var r2, $2, i2 = Ge(e2 + ""), p2 = i2.length;
         if (!(arguments.length < 2)) {
           for (o2 = t2 ? Ie : He, null == n2 && (n2 = false), r2 = 0; r2 < p2; ++r2)
@@ -540,16 +544,16 @@ var require_dist = __commonJS({
         "function" == typeof a2 ? a2 = new a2(n2, e2) : (a2 = $2.document.createEvent("Event"), e2 ? (a2.initEvent(n2, e2.bubbles, e2.cancelable), a2.detail = e2.detail) : a2.initEvent(n2, false, false)), t2.dispatchEvent(a2);
       }
       function Ke(t2, n2) {
-        return function() {
+        return function () {
           return Mb(this, t2, n2);
         };
       }
       function Le(t2, n2) {
-        return function() {
+        return function () {
           return Mb(this, t2, n2.apply(this, arguments));
         };
       }
-      var Me = function(t2, n2) {
+      var Me = function (t2, n2) {
         return this.each(("function" == typeof n2 ? Le : Ke)(t2, n2));
       };
       var Ne = [null];
@@ -557,15 +561,15 @@ var require_dist = __commonJS({
         this._groups = e2, this._parents = $2;
       }
       m.prototype = { constructor: m, select: rd, selectAll: ud, filter: wd, data: Bd, enter: xd, exit: Cd, join: Dd, merge: Ed, order: Fd, sort: Gd, call: Id, nodes: Jd, node: Kd, size: Ld, empty: Md, each: Nd, attr: Ud, style: Yd, property: be, classed: fe, text: je, html: ne, raise: pe, lower: re, append: ue, insert: we, remove: ye, clone: Be, datum: Ce, on: Je, dispatch: Me };
-      var f = function(e2) {
+      var f = function (e2) {
         return "string" == typeof e2 ? new m([[document.querySelector(e2)]], [document.documentElement]) : new m([[e2]], Ne);
       };
-      var Oe = function() {
-        for (var e2, r2 = Kb; e2 = r2.sourceEvent; )
+      var Oe = function () {
+        for (var e2, r2 = Kb; e2 = r2.sourceEvent;)
           r2 = e2;
         return r2;
       };
-      var Pe = function(e2, t2) {
+      var Pe = function (e2, t2) {
         var n2 = e2.ownerSVGElement || e2;
         if (n2.createSVGPoint) {
           var r2 = n2.createSVGPoint();
@@ -574,7 +578,7 @@ var require_dist = __commonJS({
         var i2 = e2.getBoundingClientRect();
         return [t2.clientX - i2.left - e2.clientLeft, t2.clientY - i2.top - e2.clientTop];
       };
-      var w = function(e2) {
+      var w = function (e2) {
         var $2 = Oe();
         return $2.changedTouches && ($2 = $2.changedTouches[0]), Pe(e2, $2);
       };
@@ -583,86 +587,88 @@ var require_dist = __commonJS({
         function d2() {
           var t3 = e2().length, d3 = a2 < u2, p2 = d3 ? a2 : u2, c2 = d3 ? u2 : a2;
           n2 = (c2 - p2) / Math.max(1, t3 - $2 + 2 * l2), o2 && (n2 = Math.floor(n2)), p2 += (c2 - p2 - n2 * (t3 - $2)) * g2, r2 = n2 * (1 - $2), o2 && (p2 = Math.round(p2), r2 = Math.round(r2));
-          var f2 = Te(t3).map(function(r3) {
+          var f2 = Te(t3).map(function (r3) {
             return p2 + n2 * r3;
           });
           return i2(d3 ? f2.reverse() : f2);
         }
-        return delete t2.unknown, t2.domain = function(n3) {
+        return delete t2.unknown, t2.domain = function (n3) {
           return arguments.length ? (e2(n3), d2()) : e2();
-        }, t2.range = function(n3) {
+        }, t2.range = function (n3) {
           return arguments.length ? ([u2, a2] = n3, u2 = +u2, a2 = +a2, d2()) : [u2, a2];
-        }, t2.rangeRound = function(n3) {
+        }, t2.rangeRound = function (n3) {
           return [u2, a2] = n3, u2 = +u2, a2 = +a2, o2 = true, d2();
-        }, t2.bandwidth = function() {
+        }, t2.bandwidth = function () {
           return r2;
-        }, t2.step = function() {
+        }, t2.step = function () {
           return n2;
-        }, t2.round = function(n3) {
+        }, t2.round = function (n3) {
           return arguments.length ? (o2 = !!n3, d2()) : o2;
-        }, t2.padding = function(n3) {
+        }, t2.padding = function (n3) {
           return arguments.length ? ($2 = Math.min(1, l2 = +n3), d2()) : $2;
-        }, t2.paddingInner = function(n3) {
+        }, t2.paddingInner = function (n3) {
           return arguments.length ? ($2 = Math.min(1, n3), d2()) : $2;
-        }, t2.paddingOuter = function(n3) {
+        }, t2.paddingOuter = function (n3) {
           return arguments.length ? (l2 = +n3, d2()) : l2;
-        }, t2.align = function(n3) {
+        }, t2.align = function (n3) {
           return arguments.length ? (g2 = Math.max(0, Math.min(1, n3)), d2()) : g2;
-        }, t2.copy = function() {
+        }, t2.copy = function () {
           return ja(e2(), [u2, a2]).round(o2).paddingInner($2).paddingOuter(l2).align(g2);
         }, la.apply(d2(), arguments);
       }
       function Nb(n2) {
         var r2 = n2.copy;
-        return n2.padding = n2.paddingOuter, delete n2.paddingInner, delete n2.paddingOuter, n2.copy = function() {
+        return n2.padding = n2.paddingOuter, delete n2.paddingInner, delete n2.paddingOuter, n2.copy = function () {
           return Nb(r2());
         }, n2;
       }
       function Qe() {
         return Nb(ja.apply(null, arguments).paddingInner(1));
       }
-      var Ob = function($2, t2) {
+      var Ob = function ($2, t2) {
         return $2 < t2 ? -1 : $2 > t2 ? 1 : $2 >= t2 ? 0 : NaN;
       };
-      var Pb = function(r2) {
-        return 1 === r2.length && (r2 = Re(r2)), { left: function(n2, t2, e2, $2) {
-          for (null == e2 && (e2 = 0), null == $2 && ($2 = n2.length); e2 < $2; ) {
-            var a2 = e2 + $2 >>> 1;
-            r2(n2[a2], t2) < 0 ? e2 = a2 + 1 : $2 = a2;
+      var Pb = function (r2) {
+        return 1 === r2.length && (r2 = Re(r2)), {
+          left: function (n2, t2, e2, $2) {
+            for (null == e2 && (e2 = 0), null == $2 && ($2 = n2.length); e2 < $2;) {
+              var a2 = e2 + $2 >>> 1;
+              r2(n2[a2], t2) < 0 ? e2 = a2 + 1 : $2 = a2;
+            }
+            return e2;
+          }, right: function (n2, t2, e2, $2) {
+            for (null == e2 && (e2 = 0), null == $2 && ($2 = n2.length); e2 < $2;) {
+              var a2 = e2 + $2 >>> 1;
+              r2(n2[a2], t2) > 0 ? $2 = a2 : e2 = a2 + 1;
+            }
+            return e2;
           }
-          return e2;
-        }, right: function(n2, t2, e2, $2) {
-          for (null == e2 && (e2 = 0), null == $2 && ($2 = n2.length); e2 < $2; ) {
-            var a2 = e2 + $2 >>> 1;
-            r2(n2[a2], t2) > 0 ? $2 = a2 : e2 = a2 + 1;
-          }
-          return e2;
-        } };
+        };
       };
       function Re(r2) {
-        return function(n2, t2) {
+        return function (n2, t2) {
           return Ob(r2(n2), t2);
         };
       }
       var Qb = Pb(Ob), Se = Qb.right;
       var ci = Qb.left;
-      var Te = function(t2, e2, r2) {
+      var Te = function (t2, e2, r2) {
         t2 = +t2, e2 = +e2, r2 = (a2 = arguments.length) < 2 ? (e2 = t2, t2 = 0, 1) : a2 < 3 ? 1 : +r2;
-        for (var $2 = -1, a2 = 0 | Math.max(0, Math.ceil((e2 - t2) / r2)), c2 = new Array(a2); ++$2 < a2; )
+        for (var $2 = -1, a2 = 0 | Math.max(0, Math.ceil((e2 - t2) / r2)), c2 = new Array(a2); ++$2 < a2;)
           c2[$2] = t2 + $2 * r2;
         return c2;
       };
-      var Ja = Math.sqrt(50), Ka = Math.sqrt(10), La = Math.sqrt(2), Ue = function($2, t2, r2) {
+      var Ja = Math.sqrt(50), Ka = Math.sqrt(10), La = Math.sqrt(2), Ue = function ($2, t2, r2) {
         var e2, a2, o2, g2, z2 = -1;
         if (r2 = +r2, ($2 = +$2) === (t2 = +t2) && r2 > 0)
           return [$2];
         if ((e2 = t2 < $2) && (a2 = $2, $2 = t2, t2 = a2), 0 === (g2 = ka($2, t2, r2)) || !isFinite(g2))
           return [];
         if (g2 > 0)
-          for ($2 = Math.ceil($2 / g2), t2 = Math.floor(t2 / g2), o2 = new Array(a2 = Math.ceil(t2 - $2 + 1)); ++z2 < a2; )
+          for ($2 = Math.ceil($2 / g2), t2 = Math.floor(t2 / g2), o2 = new Array(a2 = Math.ceil(t2 - $2 + 1)); ++z2 < a2;)
             o2[z2] = ($2 + z2) * g2;
         else
-          for ($2 = Math.floor($2 * g2), t2 = Math.ceil(t2 * g2), o2 = new Array(a2 = Math.ceil($2 - t2 + 1)); ++z2 < a2; )
+          for ($2 = Math.floor($2 * g2), t2 = Math.ceil(t2 * g2), o2 = new Array(a2 = Math.ceil($2 - t2 + 1)); ++z2 < a2;)
             o2[z2] = ($2 - z2) / g2;
         return e2 && o2.reverse(), o2;
       };
@@ -698,7 +704,7 @@ var require_dist = __commonJS({
           }
           return e2[(o2 - 1) % e2.length];
         }
-        return i2.domain = function(e3) {
+        return i2.domain = function (e3) {
           if (!arguments.length)
             return n2.slice();
           n2 = [], t2 = /* @__PURE__ */ new Map();
@@ -707,23 +713,23 @@ var require_dist = __commonJS({
             t2.has(e4) || t2.set(e4, n2.push(r3));
           }
           return i2;
-        }, i2.range = function(t3) {
+        }, i2.range = function (t3) {
           return arguments.length ? (e2 = Array.from(t3), i2) : e2.slice();
-        }, i2.unknown = function(t3) {
+        }, i2.unknown = function (t3) {
           return arguments.length ? (r2 = t3, i2) : r2;
-        }, i2.copy = function() {
+        }, i2.copy = function () {
           return Sb(n2, e2).unknown(r2);
         }, la.apply(i2, arguments), i2;
       }
       function Ve(t2) {
         var r2 = t2.domain;
-        return t2.ticks = function(t3) {
+        return t2.ticks = function (t3) {
           var $2 = r2();
           return Ue($2[0], $2[$2.length - 1], null == t3 ? 10 : t3);
-        }, t2.tickFormat = function(t3, $2) {
+        }, t2.tickFormat = function (t3, $2) {
           var e2 = r2();
           return Of(e2[0], e2[e2.length - 1], null == t3 ? 10 : t3, $2);
-        }, t2.nice = function($2) {
+        }, t2.nice = function ($2) {
           null == $2 && ($2 = 10);
           var e2, i2 = r2(), n2 = 0, o2 = i2.length - 1, a2 = i2[n2], k2 = i2[o2];
           return k2 < a2 && (e2 = a2, a2 = k2, k2 = e2, e2 = n2, n2 = o2, o2 = e2), (e2 = ka(a2, k2, $2)) > 0 ? (a2 = Math.floor(a2 / e2) * e2, k2 = Math.ceil(k2 / e2) * e2, e2 = ka(a2, k2, $2)) : e2 < 0 && (a2 = Math.ceil(a2 * e2) / e2, k2 = Math.floor(k2 * e2) / e2, e2 = ka(a2, k2, $2)), e2 > 0 ? (i2[n2] = Math.floor(a2 / e2) * e2, i2[o2] = Math.ceil(k2 / e2) * e2, r2(i2)) : e2 < 0 && (i2[n2] = Math.ceil(a2 * e2) / e2, i2[o2] = Math.floor(k2 * e2) / e2, r2(i2)), t2;
@@ -731,13 +737,13 @@ var require_dist = __commonJS({
       }
       function A() {
         var t2 = Bc(z, z);
-        return t2.copy = function() {
+        return t2.copy = function () {
           return Ac(t2, A());
         }, la.apply(t2, arguments), Ve(t2);
       }
       function x() {
       }
-      var G = function(t2, e2, r2) {
+      var G = function (t2, e2, r2) {
         t2.prototype = e2.prototype = r2, r2.constructor = t2;
       };
       function P(t2, e2) {
@@ -809,31 +815,37 @@ var require_dist = __commonJS({
       function Qa(r2, a2, e2) {
         return 255 * (r2 < 60 ? a2 + (e2 - a2) * r2 / 60 : r2 < 180 ? e2 : r2 < 240 ? a2 + (e2 - a2) * (240 - r2) / 60 : a2);
       }
-      G(x, S, { copy: function(r2) {
-        return Object.assign(new this.constructor(), this, r2);
-      }, displayable: function() {
-        return this.rgb().displayable();
-      }, hex: Ub, formatHex: Ub, formatHsl: cf, formatRgb: Vb, toString: Vb }), G(g, ma, P(x, { brighter: function(r2) {
-        return r2 = null == r2 ? H : Math.pow(H, r2), new g(this.r * r2, this.g * r2, this.b * r2, this.opacity);
-      }, darker: function(r2) {
-        return r2 = null == r2 ? t : Math.pow(t, r2), new g(this.r * r2, this.g * r2, this.b * r2, this.opacity);
-      }, rgb: function() {
-        return this;
-      }, displayable: function() {
-        return -0.5 <= this.r && this.r < 255.5 && -0.5 <= this.g && this.g < 255.5 && -0.5 <= this.b && this.b < 255.5 && 0 <= this.opacity && this.opacity <= 1;
-      }, hex: Yb, formatHex: Yb, formatRgb: Zb, toString: Zb })), G(s, Pa, P(x, { brighter: function(r2) {
-        return r2 = null == r2 ? H : Math.pow(H, r2), new s(this.h, this.s, this.l * r2, this.opacity);
-      }, darker: function(r2) {
-        return r2 = null == r2 ? t : Math.pow(t, r2), new s(this.h, this.s, this.l * r2, this.opacity);
-      }, rgb: function() {
-        var r2 = this.h % 360 + 360 * (this.h < 0), a2 = isNaN(r2) || isNaN(this.s) ? 0 : this.s, e2 = this.l, $2 = e2 + (e2 < 0.5 ? e2 : 1 - e2) * a2, t2 = 2 * e2 - $2;
-        return new g(Qa(r2 >= 240 ? r2 - 240 : r2 + 120, t2, $2), Qa(r2, t2, $2), Qa(r2 < 120 ? r2 + 240 : r2 - 120, t2, $2), this.opacity);
-      }, displayable: function() {
-        return (0 <= this.s && this.s <= 1 || isNaN(this.s)) && 0 <= this.l && this.l <= 1 && 0 <= this.opacity && this.opacity <= 1;
-      }, formatHsl: function() {
-        var r2 = this.opacity;
-        return (1 === (r2 = isNaN(r2) ? 1 : Math.max(0, Math.min(1, r2))) ? "hsl(" : "hsla(") + (this.h || 0) + ", " + 100 * (this.s || 0) + "%, " + 100 * (this.l || 0) + "%" + (1 === r2 ? ")" : ", " + r2 + ")");
-      } }));
+      G(x, S, {
+        copy: function (r2) {
+          return Object.assign(new this.constructor(), this, r2);
+        }, displayable: function () {
+          return this.rgb().displayable();
+        }, hex: Ub, formatHex: Ub, formatHsl: cf, formatRgb: Vb, toString: Vb
+      }), G(g, ma, P(x, {
+        brighter: function (r2) {
+          return r2 = null == r2 ? H : Math.pow(H, r2), new g(this.r * r2, this.g * r2, this.b * r2, this.opacity);
+        }, darker: function (r2) {
+          return r2 = null == r2 ? t : Math.pow(t, r2), new g(this.r * r2, this.g * r2, this.b * r2, this.opacity);
+        }, rgb: function () {
+          return this;
+        }, displayable: function () {
+          return -0.5 <= this.r && this.r < 255.5 && -0.5 <= this.g && this.g < 255.5 && -0.5 <= this.b && this.b < 255.5 && 0 <= this.opacity && this.opacity <= 1;
+        }, hex: Yb, formatHex: Yb, formatRgb: Zb, toString: Zb
+      })), G(s, Pa, P(x, {
+        brighter: function (r2) {
+          return r2 = null == r2 ? H : Math.pow(H, r2), new s(this.h, this.s, this.l * r2, this.opacity);
+        }, darker: function (r2) {
+          return r2 = null == r2 ? t : Math.pow(t, r2), new s(this.h, this.s, this.l * r2, this.opacity);
+        }, rgb: function () {
+          var r2 = this.h % 360 + 360 * (this.h < 0), a2 = isNaN(r2) || isNaN(this.s) ? 0 : this.s, e2 = this.l, $2 = e2 + (e2 < 0.5 ? e2 : 1 - e2) * a2, t2 = 2 * e2 - $2;
+          return new g(Qa(r2 >= 240 ? r2 - 240 : r2 + 120, t2, $2), Qa(r2, t2, $2), Qa(r2 < 120 ? r2 + 240 : r2 - 120, t2, $2), this.opacity);
+        }, displayable: function () {
+          return (0 <= this.s && this.s <= 1 || isNaN(this.s)) && 0 <= this.l && this.l <= 1 && 0 <= this.opacity && this.opacity <= 1;
+        }, formatHsl: function () {
+          var r2 = this.opacity;
+          return (1 === (r2 = isNaN(r2) ? 1 : Math.max(0, Math.min(1, r2))) ? "hsl(" : "hsla(") + (this.h || 0) + ", " + 100 * (this.s || 0) + "%, " + 100 * (this.l || 0) + "%" + (1 === r2 ? ")" : ", " + r2 + ")");
+        }
+      }));
       var ac = Math.PI / 180;
       var bc = 180 / Math.PI;
       var na = 18, cc = 0.96422, dc = 1, ec = 0.82521, fc = 4 / 29, J = 6 / 29, gc = 3 * J * J, df = J * J * J;
@@ -884,20 +896,24 @@ var require_dist = __commonJS({
         var r2 = $2.h * ac;
         return new i($2.l, Math.cos(r2) * $2.c, Math.sin(r2) * $2.c, $2.opacity);
       }
-      G(i, ef, P(x, { brighter: function($2) {
-        return new i(this.l + na * (null == $2 ? 1 : $2), this.a, this.b, this.opacity);
-      }, darker: function($2) {
-        return new i(this.l - na * (null == $2 ? 1 : $2), this.a, this.b, this.opacity);
-      }, rgb: function() {
-        var $2 = (this.l + 16) / 116, r2 = isNaN(this.a) ? $2 : $2 + this.a / 500, t2 = isNaN(this.b) ? $2 : $2 - this.b / 200;
-        return r2 = cc * Sa(r2), $2 = dc * Sa($2), t2 = ec * Sa(t2), new g(Ta(3.1338561 * r2 - 1.6168667 * $2 - 0.4906146 * t2), Ta(-0.9787684 * r2 + 1.9161415 * $2 + 0.033454 * t2), Ta(0.0719453 * r2 - 0.2289914 * $2 + 1.4052427 * t2), this.opacity);
-      } })), G(n, Va, P(x, { brighter: function($2) {
-        return new n(this.h, this.c, this.l + na * (null == $2 ? 1 : $2), this.opacity);
-      }, darker: function($2) {
-        return new n(this.h, this.c, this.l - na * (null == $2 ? 1 : $2), this.opacity);
-      }, rgb: function() {
-        return ic(this).rgb();
-      } }));
+      G(i, ef, P(x, {
+        brighter: function ($2) {
+          return new i(this.l + na * (null == $2 ? 1 : $2), this.a, this.b, this.opacity);
+        }, darker: function ($2) {
+          return new i(this.l - na * (null == $2 ? 1 : $2), this.a, this.b, this.opacity);
+        }, rgb: function () {
+          var $2 = (this.l + 16) / 116, r2 = isNaN(this.a) ? $2 : $2 + this.a / 500, t2 = isNaN(this.b) ? $2 : $2 - this.b / 200;
+          return r2 = cc * Sa(r2), $2 = dc * Sa($2), t2 = ec * Sa(t2), new g(Ta(3.1338561 * r2 - 1.6168667 * $2 - 0.4906146 * t2), Ta(-0.9787684 * r2 + 1.9161415 * $2 + 0.033454 * t2), Ta(0.0719453 * r2 - 0.2289914 * $2 + 1.4052427 * t2), this.opacity);
+        }
+      })), G(n, Va, P(x, {
+        brighter: function ($2) {
+          return new n(this.h, this.c, this.l + na * (null == $2 ? 1 : $2), this.opacity);
+        }, darker: function ($2) {
+          return new n(this.h, this.c, this.l - na * (null == $2 ? 1 : $2), this.opacity);
+        }, rgb: function () {
+          return ic(this).rgb();
+        }
+      }));
       var jc = -0.14861, Wa = 1.78277, Xa = -0.29227, oa = -0.90649, T = 1.97294, kc = T * oa, lc = T * Wa, mc = Wa * Xa - oa * jc;
       function gf($2) {
         if ($2 instanceof B)
@@ -912,39 +928,41 @@ var require_dist = __commonJS({
       function B($2, r2, t2, e2) {
         this.h = +$2, this.s = +r2, this.l = +t2, this.opacity = +e2;
       }
-      G(B, Ya, P(x, { brighter: function($2) {
-        return $2 = null == $2 ? H : Math.pow(H, $2), new B(this.h, this.s, this.l * $2, this.opacity);
-      }, darker: function($2) {
-        return $2 = null == $2 ? t : Math.pow(t, $2), new B(this.h, this.s, this.l * $2, this.opacity);
-      }, rgb: function() {
-        var $2 = isNaN(this.h) ? 0 : (this.h + 120) * ac, r2 = +this.l, t2 = isNaN(this.s) ? 0 : this.s * r2 * (1 - r2), e2 = Math.cos($2), C2 = Math.sin($2);
-        return new g(255 * (r2 + t2 * (jc * e2 + Wa * C2)), 255 * (r2 + t2 * (Xa * e2 + oa * C2)), 255 * (r2 + t2 * (T * e2)), this.opacity);
-      } }));
+      G(B, Ya, P(x, {
+        brighter: function ($2) {
+          return $2 = null == $2 ? H : Math.pow(H, $2), new B(this.h, this.s, this.l * $2, this.opacity);
+        }, darker: function ($2) {
+          return $2 = null == $2 ? t : Math.pow(t, $2), new B(this.h, this.s, this.l * $2, this.opacity);
+        }, rgb: function () {
+          var $2 = isNaN(this.h) ? 0 : (this.h + 120) * ac, r2 = +this.l, t2 = isNaN(this.s) ? 0 : this.s * r2 * (1 - r2), e2 = Math.cos($2), C2 = Math.sin($2);
+          return new g(255 * (r2 + t2 * (jc * e2 + Wa * C2)), 255 * (r2 + t2 * (Xa * e2 + oa * C2)), 255 * (r2 + t2 * (T * e2)), this.opacity);
+        }
+      }));
       function nc($2, r2, t2, e2, a2) {
         var l2 = $2 * $2, o2 = l2 * $2;
         return ((1 - 3 * $2 + 3 * l2 - o2) * r2 + (4 - 6 * l2 + 3 * o2) * t2 + (1 + 3 * $2 + 3 * l2 - 3 * o2) * e2 + o2 * a2) / 6;
       }
-      var hf = function($2) {
+      var hf = function ($2) {
         var r2 = $2.length - 1;
-        return function(t2) {
+        return function (t2) {
           var e2 = t2 <= 0 ? t2 = 0 : t2 >= 1 ? (t2 = 1, r2 - 1) : Math.floor(t2 * r2), a2 = $2[e2], l2 = $2[e2 + 1], o2 = e2 > 0 ? $2[e2 - 1] : 2 * a2 - l2, s2 = e2 < r2 - 1 ? $2[e2 + 2] : 2 * l2 - a2;
           return nc((t2 - e2 / r2) * r2, o2, a2, l2, s2);
         };
       };
-      var jf = function(r2) {
+      var jf = function (r2) {
         var $2 = r2.length;
-        return function(t2) {
+        return function (t2) {
           var e2 = Math.floor(((t2 %= 1) < 0 ? ++t2 : t2) * $2), n2 = r2[(e2 + $2 - 1) % $2], a2 = r2[e2 % $2], o2 = r2[(e2 + 1) % $2], h2 = r2[(e2 + 2) % $2];
           return nc((t2 - e2 / $2) * $2, n2, a2, o2, h2);
         };
       };
       function oc($2, t2) {
-        return function(r2) {
+        return function (r2) {
           return $2 + r2 * t2;
         };
       }
       function kf($2, t2, r2) {
-        return $2 = Math.pow($2, r2), t2 = Math.pow(t2, r2) - $2, r2 = 1 / r2, function(n2) {
+        return $2 = Math.pow($2, r2), t2 = Math.pow(t2, r2) - $2, r2 = 1 / r2, function (n2) {
           return Math.pow($2 + n2 * t2, r2);
         };
       }
@@ -953,7 +971,7 @@ var require_dist = __commonJS({
         return r2 ? oc($2, r2 > 180 || r2 < -180 ? r2 - 360 * Math.round(r2 / 360) : r2) : pa(isNaN($2) ? t2 : $2);
       }
       function lf($2) {
-        return 1 == ($2 = +$2) ? j : function(t2, r2) {
+        return 1 == ($2 = +$2) ? j : function (t2, r2) {
           return r2 - t2 ? kf(t2, r2, $2) : pa(isNaN(t2) ? r2 : t2);
         };
       }
@@ -961,8 +979,8 @@ var require_dist = __commonJS({
         var r2 = t2 - $2;
         return r2 ? oc($2, r2) : pa(isNaN($2) ? t2 : $2);
       }
-      var pa = function(t2) {
-        return function() {
+      var pa = function (t2) {
+        return function () {
           return t2;
         };
       };
@@ -970,52 +988,52 @@ var require_dist = __commonJS({
         var o2 = lf($2);
         function e2(r3, $3) {
           var e3 = o2((r3 = ma(r3)).r, ($3 = ma($3)).r), a2 = o2(r3.g, $3.g), t2 = o2(r3.b, $3.b), i2 = j(r3.opacity, $3.opacity);
-          return function($4) {
+          return function ($4) {
             return r3.r = e3($4), r3.g = a2($4), r3.b = t2($4), r3.opacity = i2($4), r3 + "";
           };
         }
         return e2.gamma = r2, e2;
       }(1);
       function qc(r2) {
-        return function($2) {
+        return function ($2) {
           var o2, e2, a2 = $2.length, t2 = new Array(a2), i2 = new Array(a2), v2 = new Array(a2);
           for (o2 = 0; o2 < a2; ++o2)
             e2 = ma($2[o2]), t2[o2] = e2.r || 0, i2[o2] = e2.g || 0, v2[o2] = e2.b || 0;
-          return t2 = r2(t2), i2 = r2(i2), v2 = r2(v2), e2.opacity = 1, function(r3) {
+          return t2 = r2(t2), i2 = r2(i2), v2 = r2(v2), e2.opacity = 1, function (r3) {
             return e2.r = t2(r3), e2.g = i2(r3), e2.b = v2(r3), e2 + "";
           };
         };
       }
       var di = qc(hf);
       var ei = qc(jf);
-      var mf = function(r2, e2) {
+      var mf = function (r2, e2) {
         var t2, $2 = e2 ? e2.length : 0, a2 = r2 ? Math.min($2, r2.length) : 0, n2 = new Array(a2), o2 = new Array($2);
         for (t2 = 0; t2 < a2; ++t2)
           n2[t2] = ab(r2[t2], e2[t2]);
         for (; t2 < $2; ++t2)
           o2[t2] = e2[t2];
-        return function(r3) {
+        return function (r3) {
           for (t2 = 0; t2 < a2; ++t2)
             o2[t2] = n2[t2](r3);
           return o2;
         };
       };
-      var nf = function(e2, t2) {
+      var nf = function (e2, t2) {
         var r2 = new Date();
-        return t2 -= e2 = +e2, function($2) {
+        return t2 -= e2 = +e2, function ($2) {
           return r2.setTime(e2 + t2 * $2), r2;
         };
       };
-      var v = function(t2, $2) {
-        return $2 -= t2 = +t2, function(e2) {
+      var v = function (t2, $2) {
+        return $2 -= t2 = +t2, function (e2) {
           return t2 + $2 * e2;
         };
       };
-      var of = function(e2, r2) {
+      var of = function (e2, r2) {
         var t2, $2 = {}, i2 = {};
         for (t2 in null !== e2 && "object" == typeof e2 || (e2 = {}), null !== r2 && "object" == typeof r2 || (r2 = {}), r2)
           t2 in e2 ? $2[t2] = ab(e2[t2], r2[t2]) : i2[t2] = r2[t2];
-        return function(e3) {
+        return function (e3) {
           for (t2 in $2)
             i2[t2] = $2[t2](e3);
           return i2;
@@ -1023,31 +1041,31 @@ var require_dist = __commonJS({
       };
       var $a = /[-+]?(?:\d+\.?\d*|\.?\d+)(?:[eE][-+]?\d+)?/g, _a = new RegExp($a.source, "g");
       function pf(r2) {
-        return function() {
+        return function () {
           return r2;
         };
       }
       function qf(r2) {
-        return function($2) {
+        return function ($2) {
           return r2($2) + "";
         };
       }
-      var rf = function(r2, $2) {
+      var rf = function (r2, $2) {
         var n2, e2, t2, a2 = $a.lastIndex = _a.lastIndex = 0, u2 = -1, E2 = [], o2 = [];
-        for (r2 += "", $2 += ""; (n2 = $a.exec(r2)) && (e2 = _a.exec($2)); )
+        for (r2 += "", $2 += ""; (n2 = $a.exec(r2)) && (e2 = _a.exec($2));)
           (t2 = e2.index) > a2 && (t2 = $2.slice(a2, t2), E2[u2] ? E2[u2] += t2 : E2[++u2] = t2), (n2 = n2[0]) === (e2 = e2[0]) ? E2[u2] ? E2[u2] += e2 : E2[++u2] = e2 : (E2[++u2] = null, o2.push({ i: u2, x: v(n2, e2) })), a2 = _a.lastIndex;
-        return a2 < $2.length && (t2 = $2.slice(a2), E2[u2] ? E2[u2] += t2 : E2[++u2] = t2), E2.length < 2 ? o2[0] ? qf(o2[0].x) : pf($2) : ($2 = o2.length, function(r3) {
+        return a2 < $2.length && (t2 = $2.slice(a2), E2[u2] ? E2[u2] += t2 : E2[++u2] = t2), E2.length < 2 ? o2[0] ? qf(o2[0].x) : pf($2) : ($2 = o2.length, function (r3) {
           for (var n3, e3 = 0; e3 < $2; ++e3)
             E2[(n3 = o2[e3]).i] = n3.x(r3);
           return E2.join("");
         });
       };
-      var ab = function(r2, $2) {
+      var ab = function (r2, $2) {
         var e2, c2 = typeof $2;
         return null == $2 || "boolean" === c2 ? pa($2) : ("number" === c2 ? v : "string" === c2 ? (e2 = S($2)) ? ($2 = e2, pc) : rf : $2 instanceof S ? pc : $2 instanceof Date ? nf : Array.isArray($2) ? mf : "function" != typeof $2.valueOf && "function" != typeof $2.toString || isNaN($2) ? of : v)(r2, $2);
       };
-      var sf = function(t2, n2) {
-        return n2 -= t2 = +t2, function(r2) {
+      var sf = function (t2, n2) {
+        return n2 -= t2 = +t2, function (r2) {
           return Math.round(t2 + n2 * r2);
         };
       };
@@ -1055,26 +1073,26 @@ var require_dist = __commonJS({
         function n2(r3) {
           return r3.length ? r3.pop() + " " : "";
         }
-        return function(a2, $2) {
+        return function (a2, $2) {
           var s2 = [], o2 = [];
-          return a2 = r2(a2), $2 = r2($2), function(r3, l3, n3, a3, $3, s3) {
+          return a2 = r2(a2), $2 = r2($2), function (r3, l3, n3, a3, $3, s3) {
             if (r3 !== n3 || l3 !== a3) {
               var o3 = $3.push("translate(", null, e2, null, t2);
               s3.push({ i: o3 - 4, x: v(r3, n3) }, { i: o3 - 2, x: v(l3, a3) });
             } else
               (n3 || a3) && $3.push("translate(" + n3 + e2 + a3 + t2);
-          }(a2.translateX, a2.translateY, $2.translateX, $2.translateY, s2, o2), function(r3, e3, t3, a3) {
+          }(a2.translateX, a2.translateY, $2.translateX, $2.translateY, s2, o2), function (r3, e3, t3, a3) {
             r3 !== e3 ? (r3 - e3 > 180 ? e3 += 360 : e3 - r3 > 180 && (r3 += 360), a3.push({ i: t3.push(n2(t3) + "rotate(", null, l2) - 2, x: v(r3, e3) })) : e3 && t3.push(n2(t3) + "rotate(" + e3 + l2);
-          }(a2.rotate, $2.rotate, s2, o2), function(r3, e3, t3, a3) {
+          }(a2.rotate, $2.rotate, s2, o2), function (r3, e3, t3, a3) {
             r3 !== e3 ? a3.push({ i: t3.push(n2(t3) + "skewX(", null, l2) - 2, x: v(r3, e3) }) : e3 && t3.push(n2(t3) + "skewX(" + e3 + l2);
-          }(a2.skewX, $2.skewX, s2, o2), function(r3, e3, t3, l3, a3, $3) {
+          }(a2.skewX, $2.skewX, s2, o2), function (r3, e3, t3, l3, a3, $3) {
             if (r3 !== t3 || e3 !== l3) {
               var s3 = a3.push(n2(a3) + "scale(", null, ",", null, ")");
               $3.push({ i: s3 - 4, x: v(r3, t3) }, { i: s3 - 2, x: v(e3, l3) });
             } else
               1 === t3 && 1 === l3 || a3.push(n2(a3) + "scale(" + t3 + "," + l3 + ")");
-          }(a2.scaleX, a2.scaleY, $2.scaleX, $2.scaleY, s2, o2), a2 = $2 = null, function(r3) {
-            for (var e3, t3 = -1, l3 = o2.length; ++t3 < l3; )
+          }(a2.scaleX, a2.scaleY, $2.scaleX, $2.scaleY, s2, o2), a2 = $2 = null, function (r3) {
+            for (var e3, t3 = -1, l3 = o2.length; ++t3 < l3;)
               s2[(e3 = o2[t3]).i] = e3.x(r3);
             return s2.join("");
           };
@@ -1088,7 +1106,7 @@ var require_dist = __commonJS({
         return null == $2 ? cb : (bb || (bb = document.createElementNS("http://www.w3.org/2000/svg", "g")), bb.setAttribute("transform", $2), ($2 = bb.transform.baseVal.consolidate()) ? ($2 = $2.matrix, uc($2.a, $2.b, $2.c, $2.d, $2.e, $2.f)) : cb);
       }
       var tc = 180 / Math.PI, cb = { translateX: 0, translateY: 0, rotate: 0, skewX: 0, scaleX: 1, scaleY: 1 };
-      var uc = function(t2, e2, a2, $2, r2, s2) {
+      var uc = function (t2, e2, a2, $2, r2, s2) {
         var X2, n2, w2;
         return (X2 = Math.sqrt(t2 * t2 + e2 * e2)) && (t2 /= X2, e2 /= X2), (w2 = t2 * a2 + e2 * $2) && (a2 -= t2 * w2, $2 -= e2 * w2), (n2 = Math.sqrt(a2 * a2 + $2 * $2)) && (a2 /= n2, $2 /= n2, w2 /= n2), t2 * $2 < e2 * a2 && (t2 = -t2, e2 = -e2, w2 = -w2, X2 = -X2), { translateX: r2, translateY: s2, rotate: Math.atan2(e2, t2) * tc, skewX: Math.atan(w2) * tc, scaleX: X2, scaleY: n2 };
       };
@@ -1096,9 +1114,9 @@ var require_dist = __commonJS({
       var gi = rc(vf, ", ", ")", ")");
       var hi = Math.SQRT2;
       function vc($2) {
-        return function(r2, e2) {
+        return function (r2, e2) {
           var o2 = $2((r2 = Pa(r2)).h, (e2 = Pa(e2)).h), t2 = j(r2.s, e2.s), l2 = j(r2.l, e2.l), d2 = j(r2.opacity, e2.opacity);
-          return function($3) {
+          return function ($3) {
             return r2.h = o2($3), r2.s = t2($3), r2.l = l2($3), r2.opacity = d2($3), r2 + "";
           };
         };
@@ -1106,9 +1124,9 @@ var require_dist = __commonJS({
       var ii = vc(Za);
       var ji = vc(j);
       function wc($2) {
-        return function(r2, o2) {
+        return function (r2, o2) {
           var c2 = $2((r2 = Va(r2)).h, (o2 = Va(o2)).h), t2 = j(r2.c, o2.c), x2 = j(r2.l, o2.l), l2 = j(r2.opacity, o2.opacity);
-          return function($3) {
+          return function ($3) {
             return r2.h = c2($3), r2.c = t2($3), r2.l = x2($3), r2.opacity = l2($3), r2 + "";
           };
         };
@@ -1119,7 +1137,7 @@ var require_dist = __commonJS({
         return function r2(o2) {
           function V2(r3, V3) {
             var e2 = $2((r3 = Ya(r3)).h, (V3 = Ya(V3)).h), t2 = j(r3.s, V3.s), i2 = j(r3.l, V3.l), l2 = j(r3.opacity, V3.opacity);
-            return function($3) {
+            return function ($3) {
               return r3.h = e2($3), r3.s = t2($3), r3.l = i2(Math.pow($3, o2)), r3.opacity = l2($3), r3 + "";
             };
           }
@@ -1128,12 +1146,12 @@ var require_dist = __commonJS({
       }
       var mi = xc(Za);
       var ni = xc(j);
-      var wf = function(t2) {
-        return function() {
+      var wf = function (t2) {
+        return function () {
           return t2;
         };
       };
-      var xf = function($2) {
+      var xf = function ($2) {
         return +$2;
       };
       var yc = [0, 1];
@@ -1141,27 +1159,27 @@ var require_dist = __commonJS({
         return r2;
       }
       function db(r2, n2) {
-        return (n2 -= r2 = +r2) ? function(t2) {
+        return (n2 -= r2 = +r2) ? function (t2) {
           return (t2 - r2) / n2;
         } : wf(isNaN(n2) ? NaN : 0.5);
       }
       function zc(r2) {
         var n2, t2 = r2[0], e2 = r2[r2.length - 1];
-        return t2 > e2 && (n2 = t2, t2 = e2, e2 = n2), function(r3) {
+        return t2 > e2 && (n2 = t2, t2 = e2, e2 = n2), function (r3) {
           return Math.max(t2, Math.min(e2, r3));
         };
       }
       function yf(r2, n2, t2) {
         var e2 = r2[0], $2 = r2[1], a2 = n2[0], o2 = n2[1];
-        return $2 < e2 ? (e2 = db($2, e2), a2 = t2(o2, a2)) : (e2 = db(e2, $2), a2 = t2(a2, o2)), function(r3) {
+        return $2 < e2 ? (e2 = db($2, e2), a2 = t2(o2, a2)) : (e2 = db(e2, $2), a2 = t2(a2, o2)), function (r3) {
           return a2(e2(r3));
         };
       }
       function zf(r2, n2, t2) {
         var e2 = Math.min(r2.length, n2.length) - 1, $2 = new Array(e2), a2 = new Array(e2), o2 = -1;
-        for (r2[e2] < r2[0] && (r2 = r2.slice().reverse(), n2 = n2.slice().reverse()); ++o2 < e2; )
+        for (r2[e2] < r2[0] && (r2 = r2.slice().reverse(), n2 = n2.slice().reverse()); ++o2 < e2;)
           $2[o2] = db(r2[o2], r2[o2 + 1]), a2[o2] = t2(n2[o2], n2[o2 + 1]);
-        return function(n3) {
+        return function (n3) {
           var t3 = Se(r2, n3, 1, e2) - 1;
           return a2[t3]($2[t3](n3));
         };
@@ -1177,21 +1195,21 @@ var require_dist = __commonJS({
         function c2(n3) {
           return isNaN(n3 = +n3) ? t2 : ($2 || ($2 = e2(o2.map(r2), i2, u2)))(r2(p2(n3)));
         }
-        return c2.invert = function(t3) {
+        return c2.invert = function (t3) {
           return p2(n2((a2 || (a2 = e2(i2, o2.map(r2), v)))(t3)));
-        }, c2.domain = function(r3) {
+        }, c2.domain = function (r3) {
           return arguments.length ? (o2 = Array.from(r3, xf), p2 === z || (p2 = zc(o2)), l2()) : o2.slice();
-        }, c2.range = function(r3) {
+        }, c2.range = function (r3) {
           return arguments.length ? (i2 = Array.from(r3), l2()) : i2.slice();
-        }, c2.rangeRound = function(r3) {
+        }, c2.rangeRound = function (r3) {
           return i2 = Array.from(r3), u2 = sf, l2();
-        }, c2.clamp = function(r3) {
+        }, c2.clamp = function (r3) {
           return arguments.length ? (p2 = r3 ? zc(o2) : z, c2) : p2 !== z;
-        }, c2.interpolate = function(r3) {
+        }, c2.interpolate = function (r3) {
           return arguments.length ? (u2 = r3, l2()) : u2;
-        }, c2.unknown = function(r3) {
+        }, c2.unknown = function (r3) {
           return arguments.length ? (t2 = r3, c2) : t2;
-        }, function(t3, e3) {
+        }, function (t3, e3) {
           return r2 = t3, n2 = e3, l2();
         };
       }
@@ -1202,25 +1220,25 @@ var require_dist = __commonJS({
       function Df($2) {
         return eb = Kf($2), Bf = eb.format, Cf = eb.formatPrefix, eb;
       }
-      var ra = function(e2, t2) {
+      var ra = function (e2, t2) {
         if ((l2 = (e2 = t2 ? e2.toExponential(t2 - 1) : e2.toExponential()).indexOf("e")) < 0)
           return null;
         var l2, n2 = e2.slice(0, l2);
         return [n2.length > 1 ? n2[0] + n2.slice(2) : n2, +e2.slice(l2 + 1)];
       };
-      var K = function(t2) {
+      var K = function (t2) {
         return (t2 = ra(Math.abs(t2))) ? t2[1] : NaN;
       };
-      var Ef = function(r2, t2) {
-        return function(e2, n2) {
-          for (var $2 = e2.length, u2 = [], o2 = 0, a2 = r2[0], f2 = 0; $2 > 0 && a2 > 0 && (f2 + a2 + 1 > n2 && (a2 = Math.max(1, n2 - f2)), u2.push(e2.substring($2 -= a2, $2 + a2)), !((f2 += a2 + 1) > n2)); )
+      var Ef = function (r2, t2) {
+        return function (e2, n2) {
+          for (var $2 = e2.length, u2 = [], o2 = 0, a2 = r2[0], f2 = 0; $2 > 0 && a2 > 0 && (f2 + a2 + 1 > n2 && (a2 = Math.max(1, n2 - f2)), u2.push(e2.substring($2 -= a2, $2 + a2)), !((f2 += a2 + 1) > n2));)
             a2 = r2[o2 = (o2 + 1) % r2.length];
           return u2.reverse().join(t2);
         };
       };
-      var Ff = function(t2) {
-        return function(e2) {
-          return e2.replace(/[0-9]/g, function(e3) {
+      var Ff = function (t2) {
+        return function (e2) {
+          return e2.replace(/[0-9]/g, function (e3) {
             return t2[+e3];
           });
         };
@@ -1235,70 +1253,72 @@ var require_dist = __commonJS({
         var t2;
         this.fill = t2[1] || " ", this.align = t2[2] || ">", this.sign = t2[3] || "-", this.symbol = t2[4] || "", this.zero = !!t2[5], this.width = t2[6] && +t2[6], this.comma = !!t2[7], this.precision = t2[8] && +t2[8].slice(1), this.trim = !!t2[9], this.type = t2[10] || "";
       }
-      sa.prototype = fb.prototype, fb.prototype.toString = function() {
+      sa.prototype = fb.prototype, fb.prototype.toString = function () {
         return this.fill + this.align + this.sign + this.symbol + (this.zero ? "0" : "") + (null == this.width ? "" : Math.max(1, 0 | this.width)) + (this.comma ? "," : "") + (null == this.precision ? "" : "." + Math.max(0, 0 | this.precision)) + (this.trim ? "~" : "") + this.type;
       };
-      var Hf = function(e2) {
+      var Hf = function (e2) {
         e:
-          for (var r2, t2 = e2.length, a2 = 1, $2 = -1; a2 < t2; ++a2)
-            switch (e2[a2]) {
-              case ".":
-                $2 = r2 = a2;
-                break;
-              case "0":
-                0 === $2 && ($2 = a2), r2 = a2;
-                break;
-              default:
-                if ($2 > 0) {
-                  if (!+e2[a2])
-                    break e;
-                  $2 = 0;
-                }
-            }
+        for (var r2, t2 = e2.length, a2 = 1, $2 = -1; a2 < t2; ++a2)
+          switch (e2[a2]) {
+            case ".":
+              $2 = r2 = a2;
+              break;
+            case "0":
+              0 === $2 && ($2 = a2), r2 = a2;
+              break;
+            default:
+              if ($2 > 0) {
+                if (!+e2[a2])
+                  break e;
+                $2 = 0;
+              }
+          }
         return $2 > 0 ? e2.slice(0, $2) + e2.slice(r2 + 1) : e2;
       };
       var If;
-      var Jf = function(e2, p2) {
+      var Jf = function (e2, p2) {
         var r2, a2 = ra(e2, p2);
         if (!a2)
           return e2 + "";
         var $2 = a2[0], t2 = a2[1], f2 = t2 - (r2 = If = 3 * Math.max(-8, Math.min(8, Math.floor(t2 / 3))), r2) + 1, o2 = $2.length;
         return f2 === o2 ? $2 : f2 > o2 ? $2 + new Array(f2 - o2 + 1).join("0") : f2 > 0 ? $2.slice(0, f2) + "." + $2.slice(f2) : "0." + new Array(1 - f2).join("0") + ra(e2, Math.max(0, p2 + f2 - 1))[0];
       };
-      var Cc = function(r2, e2) {
+      var Cc = function (r2, e2) {
         var t2 = ra(r2, e2);
         if (!t2)
           return r2 + "";
         var $2 = t2[0], a2 = t2[1];
         return a2 < 0 ? "0." + new Array(-a2).join("0") + $2 : $2.length > a2 + 1 ? $2.slice(0, a2 + 1) + "." + $2.slice(a2 + 1) : $2 + new Array(a2 - $2.length + 2).join("0");
       };
-      var Dc = { "%": function(t2, r2) {
-        return (100 * t2).toFixed(r2);
-      }, b: function(t2) {
-        return Math.round(t2).toString(2);
-      }, c: function(t2) {
-        return t2 + "";
-      }, d: function(t2) {
-        return Math.round(t2).toString(10);
-      }, e: function(t2, r2) {
-        return t2.toExponential(r2);
-      }, f: function(t2, r2) {
-        return t2.toFixed(r2);
-      }, g: function(t2, r2) {
-        return t2.toPrecision(r2);
-      }, o: function(t2) {
-        return Math.round(t2).toString(8);
-      }, p: function(t2, r2) {
-        return Cc(100 * t2, r2);
-      }, r: Cc, s: Jf, X: function(t2) {
-        return Math.round(t2).toString(16).toUpperCase();
-      }, x: function(t2) {
-        return Math.round(t2).toString(16);
-      } };
-      var Ec = function(t2) {
+      var Dc = {
+        "%": function (t2, r2) {
+          return (100 * t2).toFixed(r2);
+        }, b: function (t2) {
+          return Math.round(t2).toString(2);
+        }, c: function (t2) {
+          return t2 + "";
+        }, d: function (t2) {
+          return Math.round(t2).toString(10);
+        }, e: function (t2, r2) {
+          return t2.toExponential(r2);
+        }, f: function (t2, r2) {
+          return t2.toFixed(r2);
+        }, g: function (t2, r2) {
+          return t2.toPrecision(r2);
+        }, o: function (t2) {
+          return Math.round(t2).toString(8);
+        }, p: function (t2, r2) {
+          return Cc(100 * t2, r2);
+        }, r: Cc, s: Jf, X: function (t2) {
+          return Math.round(t2).toString(16).toUpperCase();
+        }, x: function (t2) {
+          return Math.round(t2).toString(16);
+        }
+      };
+      var Ec = function (t2) {
         return t2;
       };
-      var Fc = ["y", "z", "a", "f", "p", "n", "\xB5", "m", "", "k", "M", "G", "T", "P", "E", "Z", "Y"], Kf = function(r2) {
+      var Fc = ["y", "z", "a", "f", "p", "n", "\xB5", "m", "", "k", "M", "G", "T", "P", "E", "Z", "Y"], Kf = function (r2) {
         var e2 = r2.grouping && r2.thousands ? Ef(r2.grouping, r2.thousands) : Ec, t2 = r2.currency, a2 = r2.decimal, m2 = r2.numerals ? Ff(r2.numerals) : Ec, $2 = r2.percent || "%";
         function i2(r3) {
           var i3 = (r3 = sa(r3)).fill, o2 = r3.align, n2 = r3.sign, p2 = r3.symbol, f2 = r3.zero, l2 = r3.width, s2 = r3.comma, u2 = r3.precision, M2 = r3.trim, c2 = r3.type;
@@ -1311,7 +1331,7 @@ var require_dist = __commonJS({
             else {
               var v2 = (r4 = +r4) < 0;
               if (r4 = h2(Math.abs(r4), u2), M2 && (r4 = Hf(r4)), v2 && 0 == +r4 && (v2 = false), x3 = (v2 ? "(" === n2 ? n2 : "-" : "-" === n2 || "(" === n2 ? "" : n2) + x3, d2 = ("s" === c2 ? Fc[8 + If / 3] : "") + d2 + (v2 && "(" === n2 ? ")" : ""), g2) {
-                for (t3 = -1, $3 = r4.length; ++t3 < $3; )
+                for (t3 = -1, $3 = r4.length; ++t3 < $3;)
                   if (48 > (p3 = r4.charCodeAt(t3)) || p3 > 57) {
                     d2 = (46 === p3 ? a2 + r4.slice(t3 + 1) : r4.slice(t3)) + d2, r4 = r4.slice(0, t3);
                     break;
@@ -1335,28 +1355,30 @@ var require_dist = __commonJS({
             }
             return m2(r4);
           }
-          return u2 = null == u2 ? 6 : /[gprs]/.test(c2) ? Math.max(1, Math.min(21, u2)) : Math.max(0, Math.min(20, u2)), x2.toString = function() {
+          return u2 = null == u2 ? 6 : /[gprs]/.test(c2) ? Math.max(1, Math.min(21, u2)) : Math.max(0, Math.min(20, u2)), x2.toString = function () {
             return r3 + "";
           }, x2;
         }
-        return { format: i2, formatPrefix: function(r3, e3) {
-          var t3 = i2(((r3 = sa(r3)).type = "f", r3)), a3 = 3 * Math.max(-8, Math.min(8, Math.floor(K(e3) / 3))), m3 = Math.pow(10, -a3), $3 = Fc[8 + a3 / 3];
-          return function(r4) {
-            return t3(m3 * r4) + $3;
-          };
-        } };
+        return {
+          format: i2, formatPrefix: function (r3, e3) {
+            var t3 = i2(((r3 = sa(r3)).type = "f", r3)), a3 = 3 * Math.max(-8, Math.min(8, Math.floor(K(e3) / 3))), m3 = Math.pow(10, -a3), $3 = Fc[8 + a3 / 3];
+            return function (r4) {
+              return t3(m3 * r4) + $3;
+            };
+          }
+        };
       };
       Df({ decimal: ".", thousands: ",", grouping: [3], currency: ["$", ""] });
-      var Lf = function(e2) {
+      var Lf = function (e2) {
         return Math.max(0, -K(Math.abs(e2)));
       };
-      var Mf = function(t2, $2) {
+      var Mf = function (t2, $2) {
         return Math.max(0, 3 * Math.max(-8, Math.min(8, Math.floor(K($2) / 3))) - K(Math.abs(t2)));
       };
-      var Nf = function($2, e2) {
+      var Nf = function ($2, e2) {
         return $2 = Math.abs($2), e2 = Math.abs(e2) - $2, Math.max(0, K(e2) - K($2)) + 1;
       };
-      var Of = function(a2, r2, e2, i2) {
+      var Of = function (a2, r2, e2, i2) {
         var $2, t2 = Ma(a2, r2, e2);
         switch ((i2 = sa(null == i2 ? ",f" : i2)).type) {
           case "s":
@@ -1376,7 +1398,7 @@ var require_dist = __commonJS({
         return Bf(i2);
       };
       var gb = Array.prototype.slice;
-      var Pf = function(x2) {
+      var Pf = function (x2) {
         return x2;
       };
       var hb = 1, ib = 2, jb = 3, Y = 4, Gc = 1e-6;
@@ -1387,13 +1409,13 @@ var require_dist = __commonJS({
         return "translate(0," + (t2 + 0.5) + ")";
       }
       function Sf(t2) {
-        return function(r2) {
+        return function (r2) {
           return +t2(r2);
         };
       }
       function Tf(t2) {
         var r2 = Math.max(0, t2.bandwidth() - 1) / 2;
-        return t2.round() && (r2 = Math.round(r2)), function($2) {
+        return t2.round() && (r2 = Math.round(r2)), function ($2) {
           return +t2($2) + r2;
         };
       }
@@ -1404,34 +1426,34 @@ var require_dist = __commonJS({
         var $2 = [], n2 = null, e2 = null, a2 = 6, i2 = 6, c2 = 3, o2 = t2 === hb || t2 === Y ? -1 : 1, l2 = t2 === Y || t2 === ib ? "x" : "y", s2 = t2 === hb || t2 === jb ? Qf : Rf;
         function u2(u3) {
           var M2 = null == n2 ? r2.ticks ? r2.ticks.apply(r2, $2) : r2.domain() : n2, F2 = null == e2 ? r2.tickFormat ? r2.tickFormat.apply(r2, $2) : Pf : e2, f2 = Math.max(a2, 0) + c2, p2 = r2.range(), v2 = +p2[0] + 0.5, x2 = +p2[p2.length - 1] + 0.5, m2 = (r2.bandwidth ? Tf : Sf)(r2.copy()), h2 = u3.selection ? u3.selection() : u3, g2 = h2.selectAll(".domain").data([null]), d2 = h2.selectAll(".tick").data(M2, r2).order(), k2 = d2.exit(), y2 = d2.enter().append("g").attr("class", "tick"), b2 = d2.select("line"), _2 = d2.select("text");
-          g2 = g2.merge(g2.enter().insert("path", ".tick").attr("class", "domain").attr("stroke", "currentColor")), d2 = d2.merge(y2), b2 = b2.merge(y2.append("line").attr("stroke", "currentColor").attr(l2 + "2", o2 * a2)), _2 = _2.merge(y2.append("text").attr("fill", "currentColor").attr(l2, o2 * f2).attr("dy", t2 === hb ? "0em" : t2 === jb ? "0.71em" : "0.32em")), u3 !== h2 && (g2 = g2.transition(u3), d2 = d2.transition(u3), b2 = b2.transition(u3), _2 = _2.transition(u3), k2 = k2.transition(u3).attr("opacity", Gc).attr("transform", function(t3) {
+          g2 = g2.merge(g2.enter().insert("path", ".tick").attr("class", "domain").attr("stroke", "currentColor")), d2 = d2.merge(y2), b2 = b2.merge(y2.append("line").attr("stroke", "currentColor").attr(l2 + "2", o2 * a2)), _2 = _2.merge(y2.append("text").attr("fill", "currentColor").attr(l2, o2 * f2).attr("dy", t2 === hb ? "0em" : t2 === jb ? "0.71em" : "0.32em")), u3 !== h2 && (g2 = g2.transition(u3), d2 = d2.transition(u3), b2 = b2.transition(u3), _2 = _2.transition(u3), k2 = k2.transition(u3).attr("opacity", Gc).attr("transform", function (t3) {
             return isFinite(t3 = m2(t3)) ? s2(t3) : this.getAttribute("transform");
-          }), y2.attr("opacity", Gc).attr("transform", function(t3) {
+          }), y2.attr("opacity", Gc).attr("transform", function (t3) {
             var r3 = this.parentNode.__axis;
             return s2(r3 && isFinite(r3 = r3(t3)) ? r3 : m2(t3));
-          })), k2.remove(), g2.attr("d", t2 === Y || t2 == ib ? i2 ? "M" + o2 * i2 + "," + v2 + "H0.5V" + x2 + "H" + o2 * i2 : "M0.5," + v2 + "V" + x2 : i2 ? "M" + v2 + "," + o2 * i2 + "V0.5H" + x2 + "V" + o2 * i2 : "M" + v2 + ",0.5H" + x2), d2.attr("opacity", 1).attr("transform", function(t3) {
+          })), k2.remove(), g2.attr("d", t2 === Y || t2 == ib ? i2 ? "M" + o2 * i2 + "," + v2 + "H0.5V" + x2 + "H" + o2 * i2 : "M0.5," + v2 + "V" + x2 : i2 ? "M" + v2 + "," + o2 * i2 + "V0.5H" + x2 + "V" + o2 * i2 : "M" + v2 + ",0.5H" + x2), d2.attr("opacity", 1).attr("transform", function (t3) {
             return s2(m2(t3));
-          }), b2.attr(l2 + "2", o2 * a2), _2.attr(l2, o2 * f2).text(F2), h2.filter(Uf).attr("fill", "none").attr("font-size", 10).attr("font-family", "sans-serif").attr("text-anchor", t2 === ib ? "start" : t2 === Y ? "end" : "middle"), h2.each(function() {
+          }), b2.attr(l2 + "2", o2 * a2), _2.attr(l2, o2 * f2).text(F2), h2.filter(Uf).attr("fill", "none").attr("font-size", 10).attr("font-family", "sans-serif").attr("text-anchor", t2 === ib ? "start" : t2 === Y ? "end" : "middle"), h2.each(function () {
             this.__axis = m2;
           });
         }
-        return u2.scale = function(t3) {
+        return u2.scale = function (t3) {
           return arguments.length ? (r2 = t3, u2) : r2;
-        }, u2.ticks = function() {
+        }, u2.ticks = function () {
           return $2 = gb.call(arguments), u2;
-        }, u2.tickArguments = function(t3) {
+        }, u2.tickArguments = function (t3) {
           return arguments.length ? ($2 = null == t3 ? [] : gb.call(t3), u2) : $2.slice();
-        }, u2.tickValues = function(t3) {
+        }, u2.tickValues = function (t3) {
           return arguments.length ? (n2 = null == t3 ? null : gb.call(t3), u2) : n2 && n2.slice();
-        }, u2.tickFormat = function(t3) {
+        }, u2.tickFormat = function (t3) {
           return arguments.length ? (e2 = t3, u2) : e2;
-        }, u2.tickSize = function(t3) {
+        }, u2.tickSize = function (t3) {
           return arguments.length ? (a2 = i2 = +t3, u2) : a2;
-        }, u2.tickSizeInner = function(t3) {
+        }, u2.tickSizeInner = function (t3) {
           return arguments.length ? (a2 = +t3, u2) : a2;
-        }, u2.tickSizeOuter = function(t3) {
+        }, u2.tickSizeOuter = function (t3) {
           return arguments.length ? (i2 = +t3, u2) : i2;
-        }, u2.tickPadding = function(t3) {
+        }, u2.tickPadding = function (t3) {
           return arguments.length ? (c2 = +t3, u2) : c2;
         }, u2;
       }
@@ -1536,7 +1558,7 @@ var require_dist = __commonJS({
         var e2 = Object.keys(t2);
         if (Object.getOwnPropertySymbols) {
           var i2 = Object.getOwnPropertySymbols(t2);
-          o2 && (i2 = i2.filter(function(o3) {
+          o2 && (i2 = i2.filter(function (o3) {
             return Object.getOwnPropertyDescriptor(t2, o3).enumerable;
           })), e2.push.apply(e2, i2);
         }
@@ -1545,9 +1567,9 @@ var require_dist = __commonJS({
       function bg(t2) {
         for (var o2 = 1; o2 < arguments.length; o2++) {
           var e2 = null != arguments[o2] ? arguments[o2] : {};
-          o2 % 2 ? Ic(e2, true).forEach(function(o3) {
+          o2 % 2 ? Ic(e2, true).forEach(function (o3) {
             cg(t2, o3, e2[o3]);
-          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(e2)) : Ic(e2).forEach(function(o3) {
+          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(e2)) : Ic(e2).forEach(function (o3) {
             Object.defineProperty(t2, o3, Object.getOwnPropertyDescriptor(e2, o3));
           });
         }
@@ -1591,7 +1613,7 @@ var require_dist = __commonJS({
         var i2 = Object.keys(t2);
         if (Object.getOwnPropertySymbols) {
           var o2 = Object.getOwnPropertySymbols(t2);
-          e2 && (o2 = o2.filter(function(e3) {
+          e2 && (o2 = o2.filter(function (e3) {
             return Object.getOwnPropertyDescriptor(t2, e3).enumerable;
           })), i2.push.apply(i2, o2);
         }
@@ -1600,9 +1622,9 @@ var require_dist = __commonJS({
       function eg(t2) {
         for (var e2 = 1; e2 < arguments.length; e2++) {
           var i2 = null != arguments[e2] ? arguments[e2] : {};
-          e2 % 2 ? Jc(i2, true).forEach(function(e3) {
+          e2 % 2 ? Jc(i2, true).forEach(function (e3) {
             fg(t2, e3, i2[e3]);
-          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(i2)) : Jc(i2).forEach(function(e3) {
+          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(i2)) : Jc(i2).forEach(function (e3) {
             Object.defineProperty(t2, e3, Object.getOwnPropertyDescriptor(i2, e3));
           });
         }
@@ -1611,15 +1633,15 @@ var require_dist = __commonJS({
       function fg(t2, e2, i2) {
         return e2 in t2 ? Object.defineProperty(t2, e2, { value: i2, enumerable: true, configurable: true, writable: true }) : t2[e2] = i2, t2;
       }
-      var c = function(e2) {
-        return function() {
+      var c = function (e2) {
+        return function () {
           return e2;
         };
       };
-      var gg = function($2, t2) {
+      var gg = function ($2, t2) {
         return t2 < $2 ? -1 : t2 > $2 ? 1 : t2 >= $2 ? 0 : NaN;
       };
-      var hg = function($2) {
+      var hg = function ($2) {
         return $2;
       };
       var Kc = Math.abs;
@@ -1639,31 +1661,31 @@ var require_dist = __commonJS({
       function Lc($2) {
         return $2 >= 1 ? ta : $2 <= -1 ? -ta : Math.asin($2);
       }
-      var kg = function() {
+      var kg = function () {
         var t2 = hg, n2 = gg, r2 = null, e2 = c(0), $2 = c(ua), o2 = c(0);
         function a2(a3) {
           var i2, u2, l2, p2, c2, A2 = a3.length, f2 = 0, s2 = new Array(A2), b2 = new Array(A2), U2 = +e2.apply(this, arguments), Z2 = Math.min(ua, Math.max(-ua, $2.apply(this, arguments) - U2)), m2 = Math.min(Math.abs(Z2) / A2, o2.apply(this, arguments)), d2 = m2 * (Z2 < 0 ? -1 : 1);
           for (i2 = 0; i2 < A2; ++i2)
             (c2 = b2[s2[i2] = i2] = +t2(a3[i2], i2, a3)) > 0 && (f2 += c2);
-          for (null != n2 ? s2.sort(function(t3, r3) {
+          for (null != n2 ? s2.sort(function (t3, r3) {
             return n2(b2[t3], b2[r3]);
-          }) : null != r2 && s2.sort(function(t3, n3) {
+          }) : null != r2 && s2.sort(function (t3, n3) {
             return r2(a3[t3], a3[n3]);
           }), i2 = 0, l2 = f2 ? (Z2 - A2 * d2) / f2 : 0; i2 < A2; ++i2, U2 = p2)
             u2 = s2[i2], p2 = U2 + ((c2 = b2[u2]) > 0 ? c2 * l2 : 0) + d2, b2[u2] = { data: a3[u2], index: i2, value: c2, startAngle: U2, endAngle: p2, padAngle: m2 };
           return b2;
         }
-        return a2.value = function(n3) {
+        return a2.value = function (n3) {
           return arguments.length ? (t2 = "function" == typeof n3 ? n3 : c(+n3), a2) : t2;
-        }, a2.sortValues = function(t3) {
+        }, a2.sortValues = function (t3) {
           return arguments.length ? (n2 = t3, r2 = null, a2) : n2;
-        }, a2.sort = function(t3) {
+        }, a2.sort = function (t3) {
           return arguments.length ? (r2 = t3, n2 = null, a2) : r2;
-        }, a2.startAngle = function(t3) {
+        }, a2.startAngle = function (t3) {
           return arguments.length ? (e2 = "function" == typeof t3 ? t3 : c(+t3), a2) : e2;
-        }, a2.endAngle = function(t3) {
+        }, a2.endAngle = function (t3) {
           return arguments.length ? ($2 = "function" == typeof t3 ? t3 : c(+t3), a2) : $2;
-        }, a2.padAngle = function(t3) {
+        }, a2.padAngle = function (t3) {
           return arguments.length ? (o2 = "function" == typeof t3 ? t3 : c(+t3), a2) : o2;
         }, a2;
       };
@@ -1698,43 +1720,45 @@ var require_dist = __commonJS({
       function ob() {
         return new nb();
       }
-      nb.prototype = ob.prototype = { constructor: nb, moveTo: function(t2, h2) {
-        this._ += "M" + (this._x0 = this._x1 = +t2) + "," + (this._y0 = this._y1 = +h2);
-      }, closePath: function() {
-        null !== this._x1 && (this._x1 = this._x0, this._y1 = this._y0, this._ += "Z");
-      }, lineTo: function(t2, h2) {
-        this._ += "L" + (this._x1 = +t2) + "," + (this._y1 = +h2);
-      }, quadraticCurveTo: function(t2, h2, i2, s2) {
-        this._ += "Q" + +t2 + "," + +h2 + "," + (this._x1 = +i2) + "," + (this._y1 = +s2);
-      }, bezierCurveTo: function(t2, h2, i2, s2, $2, o2) {
-        this._ += "C" + +t2 + "," + +h2 + "," + +i2 + "," + +s2 + "," + (this._x1 = +$2) + "," + (this._y1 = +o2);
-      }, arcTo: function(t2, h2, i2, s2, $2) {
-        t2 = +t2, h2 = +h2, i2 = +i2, s2 = +s2, $2 = +$2;
-        var o2 = this._x1, a2 = this._y1, r2 = i2 - t2, _2 = s2 - h2, n2 = o2 - t2, M2 = a2 - h2, e2 = n2 * n2 + M2 * M2;
-        if ($2 < 0)
-          throw new Error("negative radius: " + $2);
-        if (null === this._x1)
-          this._ += "M" + (this._x1 = t2) + "," + (this._y1 = h2);
-        else if (e2 > C) {
-          if (Math.abs(M2 * r2 - _2 * n2) > C && $2) {
-            var u2 = i2 - o2, b2 = s2 - a2, v2 = r2 * r2 + _2 * _2, l2 = u2 * u2 + b2 * b2, x2 = Math.sqrt(v2), p2 = Math.sqrt(e2), c2 = $2 * Math.tan((lb - Math.acos((v2 + e2 - l2) / (2 * x2 * p2))) / 2), f2 = c2 / p2, y2 = c2 / x2;
-            Math.abs(f2 - 1) > C && (this._ += "L" + (t2 + f2 * n2) + "," + (h2 + f2 * M2)), this._ += "A" + $2 + "," + $2 + ",0,0," + +(M2 * u2 > n2 * b2) + "," + (this._x1 = t2 + y2 * r2) + "," + (this._y1 = h2 + y2 * _2);
+      nb.prototype = ob.prototype = {
+        constructor: nb, moveTo: function (t2, h2) {
+          this._ += "M" + (this._x0 = this._x1 = +t2) + "," + (this._y0 = this._y1 = +h2);
+        }, closePath: function () {
+          null !== this._x1 && (this._x1 = this._x0, this._y1 = this._y0, this._ += "Z");
+        }, lineTo: function (t2, h2) {
+          this._ += "L" + (this._x1 = +t2) + "," + (this._y1 = +h2);
+        }, quadraticCurveTo: function (t2, h2, i2, s2) {
+          this._ += "Q" + +t2 + "," + +h2 + "," + (this._x1 = +i2) + "," + (this._y1 = +s2);
+        }, bezierCurveTo: function (t2, h2, i2, s2, $2, o2) {
+          this._ += "C" + +t2 + "," + +h2 + "," + +i2 + "," + +s2 + "," + (this._x1 = +$2) + "," + (this._y1 = +o2);
+        }, arcTo: function (t2, h2, i2, s2, $2) {
+          t2 = +t2, h2 = +h2, i2 = +i2, s2 = +s2, $2 = +$2;
+          var o2 = this._x1, a2 = this._y1, r2 = i2 - t2, _2 = s2 - h2, n2 = o2 - t2, M2 = a2 - h2, e2 = n2 * n2 + M2 * M2;
+          if ($2 < 0)
+            throw new Error("negative radius: " + $2);
+          if (null === this._x1)
+            this._ += "M" + (this._x1 = t2) + "," + (this._y1 = h2);
+          else if (e2 > C) {
+            if (Math.abs(M2 * r2 - _2 * n2) > C && $2) {
+              var u2 = i2 - o2, b2 = s2 - a2, v2 = r2 * r2 + _2 * _2, l2 = u2 * u2 + b2 * b2, x2 = Math.sqrt(v2), p2 = Math.sqrt(e2), c2 = $2 * Math.tan((lb - Math.acos((v2 + e2 - l2) / (2 * x2 * p2))) / 2), f2 = c2 / p2, y2 = c2 / x2;
+              Math.abs(f2 - 1) > C && (this._ += "L" + (t2 + f2 * n2) + "," + (h2 + f2 * M2)), this._ += "A" + $2 + "," + $2 + ",0,0," + +(M2 * u2 > n2 * b2) + "," + (this._x1 = t2 + y2 * r2) + "," + (this._y1 = h2 + y2 * _2);
+            } else
+              this._ += "L" + (this._x1 = t2) + "," + (this._y1 = h2);
           } else
-            this._ += "L" + (this._x1 = t2) + "," + (this._y1 = h2);
-        } else
-          ;
-      }, arc: function(t2, h2, i2, s2, $2, o2) {
-        t2 = +t2, h2 = +h2, o2 = !!o2;
-        var a2 = (i2 = +i2) * Math.cos(s2), r2 = i2 * Math.sin(s2), _2 = t2 + a2, n2 = h2 + r2, M2 = 1 ^ o2, e2 = o2 ? s2 - $2 : $2 - s2;
-        if (i2 < 0)
-          throw new Error("negative radius: " + i2);
-        null === this._x1 ? this._ += "M" + _2 + "," + n2 : (Math.abs(this._x1 - _2) > C || Math.abs(this._y1 - n2) > C) && (this._ += "L" + _2 + "," + n2), i2 && (e2 < 0 && (e2 = e2 % mb + mb), e2 > rg ? this._ += "A" + i2 + "," + i2 + ",0,1," + M2 + "," + (t2 - a2) + "," + (h2 - r2) + "A" + i2 + "," + i2 + ",0,1," + M2 + "," + (this._x1 = _2) + "," + (this._y1 = n2) : e2 > C && (this._ += "A" + i2 + "," + i2 + ",0," + +(e2 >= lb) + "," + M2 + "," + (this._x1 = t2 + i2 * Math.cos($2)) + "," + (this._y1 = h2 + i2 * Math.sin($2))));
-      }, rect: function(t2, h2, i2, s2) {
-        this._ += "M" + (this._x0 = this._x1 = +t2) + "," + (this._y0 = this._y1 = +h2) + "h" + +i2 + "v" + +s2 + "h" + -i2 + "Z";
-      }, toString: function() {
-        return this._;
-      } };
-      var sg = function() {
+            ;
+        }, arc: function (t2, h2, i2, s2, $2, o2) {
+          t2 = +t2, h2 = +h2, o2 = !!o2;
+          var a2 = (i2 = +i2) * Math.cos(s2), r2 = i2 * Math.sin(s2), _2 = t2 + a2, n2 = h2 + r2, M2 = 1 ^ o2, e2 = o2 ? s2 - $2 : $2 - s2;
+          if (i2 < 0)
+            throw new Error("negative radius: " + i2);
+          null === this._x1 ? this._ += "M" + _2 + "," + n2 : (Math.abs(this._x1 - _2) > C || Math.abs(this._y1 - n2) > C) && (this._ += "L" + _2 + "," + n2), i2 && (e2 < 0 && (e2 = e2 % mb + mb), e2 > rg ? this._ += "A" + i2 + "," + i2 + ",0,1," + M2 + "," + (t2 - a2) + "," + (h2 - r2) + "A" + i2 + "," + i2 + ",0,1," + M2 + "," + (this._x1 = _2) + "," + (this._y1 = n2) : e2 > C && (this._ += "A" + i2 + "," + i2 + ",0," + +(e2 >= lb) + "," + M2 + "," + (this._x1 = t2 + i2 * Math.cos($2)) + "," + (this._y1 = h2 + i2 * Math.sin($2))));
+        }, rect: function (t2, h2, i2, s2) {
+          this._ += "M" + (this._x0 = this._x1 = +t2) + "," + (this._y0 = this._y1 = +h2) + "h" + +i2 + "v" + +s2 + "h" + -i2 + "Z";
+        }, toString: function () {
+          return this._;
+        }
+      };
+      var sg = function () {
         var $2 = lg, t2 = mg, r2 = c(0), n2 = null, i2 = ng, o2 = og, a2 = pg, p2 = null;
         function e2() {
           var e3, c2, I2 = +$2.apply(this, arguments), B2 = +t2.apply(this, arguments), L2 = i2.apply(this, arguments) - ta, m2 = o2.apply(this, arguments) - ta, s2 = Kc(m2 - L2), l2 = m2 > L2;
@@ -1762,24 +1786,24 @@ var require_dist = __commonJS({
           if (p2.closePath(), e3)
             return p2 = null, e3 + "" || null;
         }
-        return e2.centroid = function() {
+        return e2.centroid = function () {
           var r3 = (+$2.apply(this, arguments) + +t2.apply(this, arguments)) / 2, n3 = (+i2.apply(this, arguments) + +o2.apply(this, arguments)) / 2 - _ / 2;
           return [W(n3) * r3, V(n3) * r3];
-        }, e2.innerRadius = function(t3) {
+        }, e2.innerRadius = function (t3) {
           return arguments.length ? ($2 = "function" == typeof t3 ? t3 : c(+t3), e2) : $2;
-        }, e2.outerRadius = function($3) {
+        }, e2.outerRadius = function ($3) {
           return arguments.length ? (t2 = "function" == typeof $3 ? $3 : c(+$3), e2) : t2;
-        }, e2.cornerRadius = function($3) {
+        }, e2.cornerRadius = function ($3) {
           return arguments.length ? (r2 = "function" == typeof $3 ? $3 : c(+$3), e2) : r2;
-        }, e2.padRadius = function($3) {
+        }, e2.padRadius = function ($3) {
           return arguments.length ? (n2 = null == $3 ? null : "function" == typeof $3 ? $3 : c(+$3), e2) : n2;
-        }, e2.startAngle = function($3) {
+        }, e2.startAngle = function ($3) {
           return arguments.length ? (i2 = "function" == typeof $3 ? $3 : c(+$3), e2) : i2;
-        }, e2.endAngle = function($3) {
+        }, e2.endAngle = function ($3) {
           return arguments.length ? (o2 = "function" == typeof $3 ? $3 : c(+$3), e2) : o2;
-        }, e2.padAngle = function($3) {
+        }, e2.padAngle = function ($3) {
           return arguments.length ? (a2 = "function" == typeof $3 ? $3 : c(+$3), e2) : a2;
-        }, e2.context = function($3) {
+        }, e2.context = function ($3) {
           return arguments.length ? (p2 = null == $3 ? null : $3, e2) : p2;
         }, e2;
       };
@@ -1809,7 +1833,7 @@ var require_dist = __commonJS({
         var o2 = Object.keys(t2);
         if (Object.getOwnPropertySymbols) {
           var e2 = Object.getOwnPropertySymbols(t2);
-          i2 && (e2 = e2.filter(function(i3) {
+          i2 && (e2 = e2.filter(function (i3) {
             return Object.getOwnPropertyDescriptor(t2, i3).enumerable;
           })), o2.push.apply(o2, e2);
         }
@@ -1818,9 +1842,9 @@ var require_dist = __commonJS({
       function vg(t2) {
         for (var i2 = 1; i2 < arguments.length; i2++) {
           var o2 = null != arguments[i2] ? arguments[i2] : {};
-          i2 % 2 ? Mc(o2, true).forEach(function(i3) {
+          i2 % 2 ? Mc(o2, true).forEach(function (i3) {
             wg(t2, i3, o2[i3]);
-          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(o2)) : Mc(o2).forEach(function(i3) {
+          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(o2)) : Mc(o2).forEach(function (i3) {
             Object.defineProperty(t2, i3, Object.getOwnPropertyDescriptor(o2, i3));
           });
         }
@@ -1832,26 +1856,28 @@ var require_dist = __commonJS({
       function Nc(t2) {
         this._context = t2;
       }
-      Nc.prototype = { areaStart: function() {
-        this._line = 0;
-      }, areaEnd: function() {
-        this._line = NaN;
-      }, lineStart: function() {
-        this._point = 0;
-      }, lineEnd: function() {
-        (this._line || 0 !== this._line && 1 === this._point) && this._context.closePath(), this._line = 1 - this._line;
-      }, point: function(t2, i2) {
-        switch (t2 = +t2, i2 = +i2, this._point) {
-          case 0:
-            this._point = 1, this._line ? this._context.lineTo(t2, i2) : this._context.moveTo(t2, i2);
-            break;
-          case 1:
-            this._point = 2;
-          default:
-            this._context.lineTo(t2, i2);
+      Nc.prototype = {
+        areaStart: function () {
+          this._line = 0;
+        }, areaEnd: function () {
+          this._line = NaN;
+        }, lineStart: function () {
+          this._point = 0;
+        }, lineEnd: function () {
+          (this._line || 0 !== this._line && 1 === this._point) && this._context.closePath(), this._line = 1 - this._line;
+        }, point: function (t2, i2) {
+          switch (t2 = +t2, i2 = +i2, this._point) {
+            case 0:
+              this._point = 1, this._line ? this._context.lineTo(t2, i2) : this._context.moveTo(t2, i2);
+              break;
+            case 1:
+              this._point = 2;
+            default:
+              this._context.lineTo(t2, i2);
+          }
         }
-      } };
-      var xg = function(t2) {
+      };
+      var xg = function (t2) {
         return new Nc(t2);
       };
       function yg($2) {
@@ -1860,7 +1886,7 @@ var require_dist = __commonJS({
       function zg($2) {
         return $2[1];
       }
-      var pb = function() {
+      var pb = function () {
         var n2 = yg, t2 = zg, r2 = c(true), e2 = null, $2 = xg, o2 = null;
         function u2(u3) {
           var i2, l2, p2, h2 = u3.length, c2 = false;
@@ -1869,15 +1895,15 @@ var require_dist = __commonJS({
           if (p2)
             return o2 = null, p2 + "" || null;
         }
-        return u2.x = function(t3) {
+        return u2.x = function (t3) {
           return arguments.length ? (n2 = "function" == typeof t3 ? t3 : c(+t3), u2) : n2;
-        }, u2.y = function(n3) {
+        }, u2.y = function (n3) {
           return arguments.length ? (t2 = "function" == typeof n3 ? n3 : c(+n3), u2) : t2;
-        }, u2.defined = function(n3) {
+        }, u2.defined = function (n3) {
           return arguments.length ? (r2 = "function" == typeof n3 ? n3 : c(!!n3), u2) : r2;
-        }, u2.curve = function(n3) {
+        }, u2.curve = function (n3) {
           return arguments.length ? ($2 = n3, null != e2 && (o2 = $2(e2)), u2) : $2;
-        }, u2.context = function(n3) {
+        }, u2.context = function (n3) {
           return arguments.length ? (null == n3 ? e2 = o2 = null : o2 = $2(e2 = n3), u2) : e2;
         }, u2;
       };
@@ -1902,40 +1928,42 @@ var require_dist = __commonJS({
       function Rc(t2) {
         return new $(t2);
       }
-      $.prototype = { areaStart: function() {
-        this._line = 0;
-      }, areaEnd: function() {
-        this._line = NaN;
-      }, lineStart: function() {
-        this._x0 = this._x1 = this._y0 = this._y1 = this._t0 = NaN, this._point = 0;
-      }, lineEnd: function() {
-        switch (this._point) {
-          case 2:
-            this._context.lineTo(this._x1, this._y1);
-            break;
-          case 3:
-            qb(this, this._t0, Qc(this, this._t0));
-        }
-        (this._line || 0 !== this._line && 1 === this._point) && this._context.closePath(), this._line = 1 - this._line;
-      }, point: function(t2, o2) {
-        var n2 = NaN;
-        if (o2 = +o2, (t2 = +t2) !== this._x1 || o2 !== this._y1) {
+      $.prototype = {
+        areaStart: function () {
+          this._line = 0;
+        }, areaEnd: function () {
+          this._line = NaN;
+        }, lineStart: function () {
+          this._x0 = this._x1 = this._y0 = this._y1 = this._t0 = NaN, this._point = 0;
+        }, lineEnd: function () {
           switch (this._point) {
-            case 0:
-              this._point = 1, this._line ? this._context.lineTo(t2, o2) : this._context.moveTo(t2, o2);
-              break;
-            case 1:
-              this._point = 2;
-              break;
             case 2:
-              this._point = 3, qb(this, Qc(this, n2 = Pc(this, t2, o2)), n2);
+              this._context.lineTo(this._x1, this._y1);
               break;
-            default:
-              qb(this, this._t0, n2 = Pc(this, t2, o2));
+            case 3:
+              qb(this, this._t0, Qc(this, this._t0));
           }
-          this._x0 = this._x1, this._x1 = t2, this._y0 = this._y1, this._y1 = o2, this._t0 = n2;
+          (this._line || 0 !== this._line && 1 === this._point) && this._context.closePath(), this._line = 1 - this._line;
+        }, point: function (t2, o2) {
+          var n2 = NaN;
+          if (o2 = +o2, (t2 = +t2) !== this._x1 || o2 !== this._y1) {
+            switch (this._point) {
+              case 0:
+                this._point = 1, this._line ? this._context.lineTo(t2, o2) : this._context.moveTo(t2, o2);
+                break;
+              case 1:
+                this._point = 2;
+                break;
+              case 2:
+                this._point = 3, qb(this, Qc(this, n2 = Pc(this, t2, o2)), n2);
+                break;
+              default:
+                qb(this, this._t0, n2 = Pc(this, t2, o2));
+            }
+            this._x0 = this._x1, this._x1 = t2, this._y0 = this._y1, this._y1 = o2, this._t0 = n2;
+          }
         }
-      } }, Object.create($.prototype).point = function(t2, o2) {
+      }, Object.create($.prototype).point = function (t2, o2) {
         $.prototype.point.call(this, o2, t2);
       };
       const q = { top: 50, right: 30, bottom: 50, left: 50 };
@@ -1974,7 +2002,7 @@ var require_dist = __commonJS({
         var i2 = Object.keys(t2);
         if (Object.getOwnPropertySymbols) {
           var e2 = Object.getOwnPropertySymbols(t2);
-          o2 && (e2 = e2.filter(function(o3) {
+          o2 && (e2 = e2.filter(function (o3) {
             return Object.getOwnPropertyDescriptor(t2, o3).enumerable;
           })), i2.push.apply(i2, e2);
         }
@@ -1983,9 +2011,9 @@ var require_dist = __commonJS({
       function Bg(t2) {
         for (var o2 = 1; o2 < arguments.length; o2++) {
           var i2 = null != arguments[o2] ? arguments[o2] : {};
-          o2 % 2 ? Sc(i2, true).forEach(function(o3) {
+          o2 % 2 ? Sc(i2, true).forEach(function (o3) {
             Cg(t2, o3, i2[o3]);
-          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(i2)) : Sc(i2).forEach(function(o3) {
+          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(i2)) : Sc(i2).forEach(function (o3) {
             Object.defineProperty(t2, o3, Object.getOwnPropertyDescriptor(i2, o3));
           });
         }
@@ -1999,14 +2027,14 @@ var require_dist = __commonJS({
         function o2(r3) {
           return t2(r3 = new Date(+r3)), r3;
         }
-        return o2.floor = o2, o2.ceil = function(e3) {
+        return o2.floor = o2, o2.ceil = function (e3) {
           return t2(e3 = new Date(e3 - 1)), r2(e3, 1), t2(e3), e3;
-        }, o2.round = function(t3) {
+        }, o2.round = function (t3) {
           var r3 = o2(t3), e3 = o2.ceil(t3);
           return t3 - r3 < e3 - t3 ? r3 : e3;
-        }, o2.offset = function(t3, e3) {
+        }, o2.offset = function (t3, e3) {
           return r2(t3 = new Date(+t3), null == e3 ? 1 : Math.floor(e3)), t3;
-        }, o2.range = function(e3, n3, $2) {
+        }, o2.range = function (e3, n3, $2) {
           var u2, f2 = [];
           if (e3 = o2.ceil(e3), $2 = null == $2 ? 1 : Math.floor($2), !(e3 < n3 && $2 > 0))
             return f2;
@@ -2014,44 +2042,44 @@ var require_dist = __commonJS({
             f2.push(u2 = new Date(+e3)), r2(e3, $2), t2(e3);
           } while (u2 < e3 && e3 < n3);
           return f2;
-        }, o2.filter = function(e3) {
-          return d(function(r3) {
+        }, o2.filter = function (e3) {
+          return d(function (r3) {
             if (r3 >= r3)
-              for (; t2(r3), !e3(r3); )
+              for (; t2(r3), !e3(r3);)
                 r3.setTime(r3 - 1);
-          }, function(t3, n3) {
+          }, function (t3, n3) {
             if (t3 >= t3)
               if (n3 < 0)
-                for (; ++n3 <= 0; )
-                  for (; r2(t3, -1), !e3(t3); )
+                for (; ++n3 <= 0;)
+                  for (; r2(t3, -1), !e3(t3);)
                     ;
               else
-                for (; --n3 >= 0; )
-                  for (; r2(t3, 1), !e3(t3); )
+                for (; --n3 >= 0;)
+                  for (; r2(t3, 1), !e3(t3);)
                     ;
           });
-        }, e2 && (o2.count = function(r3, n3) {
+        }, e2 && (o2.count = function (r3, n3) {
           return rb.setTime(+r3), sb.setTime(+n3), t2(rb), t2(sb), Math.floor(e2(rb, sb));
-        }, o2.every = function(t3) {
-          return t3 = Math.floor(t3), isFinite(t3) && t3 > 0 ? t3 > 1 ? o2.filter(n2 ? function(r3) {
+        }, o2.every = function (t3) {
+          return t3 = Math.floor(t3), isFinite(t3) && t3 > 0 ? t3 > 1 ? o2.filter(n2 ? function (r3) {
             return n2(r3) % t3 == 0;
-          } : function(r3) {
+          } : function (r3) {
             return o2.count(0, r3) % t3 == 0;
           }) : o2 : null;
         }), o2;
       }
-      var wa = d(function() {
-      }, function(e2, t2) {
+      var wa = d(function () {
+      }, function (e2, t2) {
         e2.setTime(+e2 + t2);
-      }, function(e2, t2) {
+      }, function (e2, t2) {
         return t2 - e2;
       });
-      wa.every = function(e2) {
-        return e2 = Math.floor(e2), isFinite(e2) && e2 > 0 ? e2 > 1 ? d(function(t2) {
+      wa.every = function (e2) {
+        return e2 = Math.floor(e2), isFinite(e2) && e2 > 0 ? e2 > 1 ? d(function (t2) {
           t2.setTime(Math.floor(t2 / e2) * e2);
-        }, function(t2, $2) {
+        }, function (t2, $2) {
           t2.setTime(+t2 + $2 * e2);
-        }, function(t2, $2) {
+        }, function (t2, $2) {
           return ($2 - t2) / e2;
         }) : wa : null;
       };
@@ -2061,52 +2089,52 @@ var require_dist = __commonJS({
       var ya = 36e5;
       var Tc = 864e5;
       var Uc = 6048e5;
-      var Vc = d(function(e2) {
+      var Vc = d(function (e2) {
         e2.setTime(e2 - e2.getMilliseconds());
-      }, function(e2, $2) {
+      }, function (e2, $2) {
         e2.setTime(+e2 + $2 * xa);
-      }, function(e2, $2) {
+      }, function (e2, $2) {
         return ($2 - e2) / xa;
-      }, function(e2) {
+      }, function (e2) {
         return e2.getUTCSeconds();
       });
       var pi = Vc.range;
-      var Wc = d(function(e2) {
+      var Wc = d(function (e2) {
         e2.setTime(e2 - e2.getMilliseconds() - e2.getSeconds() * xa);
-      }, function(e2, t2) {
+      }, function (e2, t2) {
         e2.setTime(+e2 + t2 * D);
-      }, function(e2, t2) {
+      }, function (e2, t2) {
         return (t2 - e2) / D;
-      }, function(e2) {
+      }, function (e2) {
         return e2.getMinutes();
       });
       var qi = Wc.range;
-      var Xc = d(function(r2) {
+      var Xc = d(function (r2) {
         r2.setTime(r2 - r2.getMilliseconds() - r2.getSeconds() * xa - r2.getMinutes() * D);
-      }, function(r2, $2) {
+      }, function (r2, $2) {
         r2.setTime(+r2 + $2 * ya);
-      }, function(r2, $2) {
+      }, function (r2, $2) {
         return ($2 - r2) / ya;
-      }, function(r2) {
+      }, function (r2) {
         return r2.getHours();
       });
       var ri = Xc.range;
-      var za = d(function(r2) {
+      var za = d(function (r2) {
         r2.setHours(0, 0, 0, 0);
-      }, function(r2, e2) {
+      }, function (r2, e2) {
         r2.setDate(r2.getDate() + e2);
-      }, function(r2, e2) {
+      }, function (r2, e2) {
         return (e2 - r2 - (e2.getTimezoneOffset() - r2.getTimezoneOffset()) * D) / Tc;
-      }, function(r2) {
+      }, function (r2) {
         return r2.getDate() - 1;
       });
       var si = za.range;
       function r(e2) {
-        return d(function($2) {
+        return d(function ($2) {
           $2.setDate($2.getDate() - ($2.getDay() + 7 - e2) % 7), $2.setHours(0, 0, 0, 0);
-        }, function(e3, $2) {
+        }, function (e3, $2) {
           e3.setDate(e3.getDate() + 7 * $2);
-        }, function(e3, $2) {
+        }, function (e3, $2) {
           return ($2 - e3 - ($2.getTimezoneOffset() - e3.getTimezoneOffset()) * D) / Uc;
         });
       }
@@ -2124,69 +2152,69 @@ var require_dist = __commonJS({
       var xi = Ba.range;
       var yi = Fg.range;
       var zi = Gg.range;
-      var Yc = d(function(t2) {
+      var Yc = d(function (t2) {
         t2.setDate(1), t2.setHours(0, 0, 0, 0);
-      }, function(t2, e2) {
+      }, function (t2, e2) {
         t2.setMonth(t2.getMonth() + e2);
-      }, function(t2, e2) {
+      }, function (t2, e2) {
         return e2.getMonth() - t2.getMonth() + 12 * (e2.getFullYear() - t2.getFullYear());
-      }, function(t2) {
+      }, function (t2) {
         return t2.getMonth();
       });
       var Ai = Yc.range;
-      var o = d(function(e2) {
+      var o = d(function (e2) {
         e2.setMonth(0, 1), e2.setHours(0, 0, 0, 0);
-      }, function(e2, t2) {
+      }, function (e2, t2) {
         e2.setFullYear(e2.getFullYear() + t2);
-      }, function(e2, t2) {
+      }, function (e2, t2) {
         return t2.getFullYear() - e2.getFullYear();
-      }, function(e2) {
+      }, function (e2) {
         return e2.getFullYear();
       });
-      o.every = function(e2) {
-        return isFinite(e2 = Math.floor(e2)) && e2 > 0 ? d(function(t2) {
+      o.every = function (e2) {
+        return isFinite(e2 = Math.floor(e2)) && e2 > 0 ? d(function (t2) {
           t2.setFullYear(Math.floor(t2.getFullYear() / e2) * e2), t2.setMonth(0, 1), t2.setHours(0, 0, 0, 0);
-        }, function(t2, r2) {
+        }, function (t2, r2) {
           t2.setFullYear(t2.getFullYear() + r2 * e2);
         }) : null;
       };
       var Bi = o.range;
-      var Hg = d(function(t2) {
+      var Hg = d(function (t2) {
         t2.setUTCSeconds(0, 0);
-      }, function(t2, e2) {
+      }, function (t2, e2) {
         t2.setTime(+t2 + e2 * D);
-      }, function(t2, e2) {
+      }, function (t2, e2) {
         return (e2 - t2) / D;
-      }, function(t2) {
+      }, function (t2) {
         return t2.getUTCMinutes();
       });
       var Ci = Hg.range;
-      var Ig = d(function(r2) {
+      var Ig = d(function (r2) {
         r2.setUTCMinutes(0, 0, 0);
-      }, function(r2, $2) {
+      }, function (r2, $2) {
         r2.setTime(+r2 + $2 * ya);
-      }, function(r2, $2) {
+      }, function (r2, $2) {
         return ($2 - r2) / ya;
-      }, function(r2) {
+      }, function (r2) {
         return r2.getUTCHours();
       });
       var Di = Ig.range;
-      var ub = d(function(t2) {
+      var ub = d(function (t2) {
         t2.setUTCHours(0, 0, 0, 0);
-      }, function(t2, $2) {
+      }, function (t2, $2) {
         t2.setUTCDate(t2.getUTCDate() + $2);
-      }, function(t2, $2) {
+      }, function (t2, $2) {
         return ($2 - t2) / Tc;
-      }, function(t2) {
+      }, function (t2) {
         return t2.getUTCDate() - 1;
       });
       var Ei = ub.range;
       function E($2) {
-        return d(function(t2) {
+        return d(function (t2) {
           t2.setUTCDate(t2.getUTCDate() - (t2.getUTCDay() + 7 - $2) % 7), t2.setUTCHours(0, 0, 0, 0);
-        }, function($3, t2) {
+        }, function ($3, t2) {
           $3.setUTCDate($3.getUTCDate() + 7 * t2);
-        }, function($3, t2) {
+        }, function ($3, t2) {
           return (t2 - $3) / Uc;
         });
       }
@@ -2204,29 +2232,29 @@ var require_dist = __commonJS({
       var Ji = Da.range;
       var Ki = Lg.range;
       var Li = Mg.range;
-      var Ng = d(function(t2) {
+      var Ng = d(function (t2) {
         t2.setUTCDate(1), t2.setUTCHours(0, 0, 0, 0);
-      }, function(t2, e2) {
+      }, function (t2, e2) {
         t2.setUTCMonth(t2.getUTCMonth() + e2);
-      }, function(t2, e2) {
+      }, function (t2, e2) {
         return e2.getUTCMonth() - t2.getUTCMonth() + 12 * (e2.getUTCFullYear() - t2.getUTCFullYear());
-      }, function(t2) {
+      }, function (t2) {
         return t2.getUTCMonth();
       });
       var Mi = Ng.range;
-      var F = d(function(e2) {
+      var F = d(function (e2) {
         e2.setUTCMonth(0, 1), e2.setUTCHours(0, 0, 0, 0);
-      }, function(e2, t2) {
+      }, function (e2, t2) {
         e2.setUTCFullYear(e2.getUTCFullYear() + t2);
-      }, function(e2, t2) {
+      }, function (e2, t2) {
         return t2.getUTCFullYear() - e2.getUTCFullYear();
-      }, function(e2) {
+      }, function (e2) {
         return e2.getUTCFullYear();
       });
-      F.every = function(e2) {
-        return isFinite(e2 = Math.floor(e2)) && e2 > 0 ? d(function(t2) {
+      F.every = function (e2) {
+        return isFinite(e2 = Math.floor(e2)) && e2 > 0 ? d(function (t2) {
           t2.setUTCFullYear(Math.floor(t2.getUTCFullYear() / e2) * e2), t2.setUTCMonth(0, 1), t2.setUTCHours(0, 0, 0, 0);
-        }, function(t2, r2) {
+        }, function (t2, r2) {
           t2.setUTCFullYear(t2.getUTCFullYear() + r2 * e2);
         }) : null;
       };
@@ -2253,58 +2281,64 @@ var require_dist = __commonJS({
         return { y: r2, m: 0, d: 1, H: 0, M: 0, S: 0, L: 0 };
       }
       function Tg(r2) {
-        var $2 = r2.dateTime, e2 = r2.date, a2 = r2.time, t2 = r2.periods, U2 = r2.days, n2 = r2.shortDays, o2 = r2.months, u2 = r2.shortMonths, b2 = ca(t2), i2 = da(t2), H2 = ca(U2), v2 = da(U2), c2 = ca(n2), f2 = da(n2), m2 = ca(o2), s2 = da(o2), l2 = ca(u2), d2 = da(u2), p2 = { a: function(r3) {
-          return n2[r3.getDay()];
-        }, A: function(r3) {
-          return U2[r3.getDay()];
-        }, b: function(r3) {
-          return u2[r3.getMonth()];
-        }, B: function(r3) {
-          return o2[r3.getMonth()];
-        }, c: null, d: bd, e: bd, f: ph, H: mh, I: nh, j: oh, L: cd, m: qh, M: rh, p: function(r3) {
-          return t2[+(r3.getHours() >= 12)];
-        }, Q: gd, s: hd, S: sh, u: th, U: uh, V: vh, w: wh, W: xh, x: null, X: null, y: yh, Y: zh, Z: Ah, "%": fd }, y2 = { a: function(r3) {
-          return n2[r3.getUTCDay()];
-        }, A: function(r3) {
-          return U2[r3.getUTCDay()];
-        }, b: function(r3) {
-          return u2[r3.getUTCMonth()];
-        }, B: function(r3) {
-          return o2[r3.getUTCMonth()];
-        }, c: null, d: dd, e: dd, f: Eh, H: Bh, I: Ch, j: Dh, L: ed, m: Fh, M: Gh, p: function(r3) {
-          return t2[+(r3.getUTCHours() >= 12)];
-        }, Q: gd, s: hd, S: Hh, u: Ih, U: Jh, V: Kh, w: Lh, W: Mh, x: null, X: null, y: Nh, Y: Oh, Z: Ph, "%": fd }, g2 = { a: function(r3, $3, e3) {
-          var a3 = c2.exec($3.slice(e3));
-          return a3 ? (r3.w = f2[a3[0].toLowerCase()], e3 + a3[0].length) : -1;
-        }, A: function(r3, $3, e3) {
-          var a3 = H2.exec($3.slice(e3));
-          return a3 ? (r3.w = v2[a3[0].toLowerCase()], e3 + a3[0].length) : -1;
-        }, b: function(r3, $3, e3) {
-          var a3 = l2.exec($3.slice(e3));
-          return a3 ? (r3.m = d2[a3[0].toLowerCase()], e3 + a3[0].length) : -1;
-        }, B: function(r3, $3, e3) {
-          var a3 = m2.exec($3.slice(e3));
-          return a3 ? (r3.m = s2[a3[0].toLowerCase()], e3 + a3[0].length) : -1;
-        }, c: function(r3, e3, a3) {
-          return h2(r3, $2, e3, a3);
-        }, d: _c, e: _c, f: ih, H: ad, I: ad, j: eh, L: hh, m: dh, M: fh, p: function(r3, $3, e3) {
-          var a3 = b2.exec($3.slice(e3));
-          return a3 ? (r3.p = i2[a3[0].toLowerCase()], e3 + a3[0].length) : -1;
-        }, Q: kh, s: lh, S: gh, u: Yg, U: Zg, V: $g, w: Xg, W: _g, x: function(r3, $3, a3) {
-          return h2(r3, e2, $3, a3);
-        }, X: function(r3, $3, e3) {
-          return h2(r3, a2, $3, e3);
-        }, y: bh, Y: ah, Z: ch, "%": jh };
+        var $2 = r2.dateTime, e2 = r2.date, a2 = r2.time, t2 = r2.periods, U2 = r2.days, n2 = r2.shortDays, o2 = r2.months, u2 = r2.shortMonths, b2 = ca(t2), i2 = da(t2), H2 = ca(U2), v2 = da(U2), c2 = ca(n2), f2 = da(n2), m2 = ca(o2), s2 = da(o2), l2 = ca(u2), d2 = da(u2), p2 = {
+          a: function (r3) {
+            return n2[r3.getDay()];
+          }, A: function (r3) {
+            return U2[r3.getDay()];
+          }, b: function (r3) {
+            return u2[r3.getMonth()];
+          }, B: function (r3) {
+            return o2[r3.getMonth()];
+          }, c: null, d: bd, e: bd, f: ph, H: mh, I: nh, j: oh, L: cd, m: qh, M: rh, p: function (r3) {
+            return t2[+(r3.getHours() >= 12)];
+          }, Q: gd, s: hd, S: sh, u: th, U: uh, V: vh, w: wh, W: xh, x: null, X: null, y: yh, Y: zh, Z: Ah, "%": fd
+        }, y2 = {
+          a: function (r3) {
+            return n2[r3.getUTCDay()];
+          }, A: function (r3) {
+            return U2[r3.getUTCDay()];
+          }, b: function (r3) {
+            return u2[r3.getUTCMonth()];
+          }, B: function (r3) {
+            return o2[r3.getUTCMonth()];
+          }, c: null, d: dd, e: dd, f: Eh, H: Bh, I: Ch, j: Dh, L: ed, m: Fh, M: Gh, p: function (r3) {
+            return t2[+(r3.getUTCHours() >= 12)];
+          }, Q: gd, s: hd, S: Hh, u: Ih, U: Jh, V: Kh, w: Lh, W: Mh, x: null, X: null, y: Nh, Y: Oh, Z: Ph, "%": fd
+        }, g2 = {
+          a: function (r3, $3, e3) {
+            var a3 = c2.exec($3.slice(e3));
+            return a3 ? (r3.w = f2[a3[0].toLowerCase()], e3 + a3[0].length) : -1;
+          }, A: function (r3, $3, e3) {
+            var a3 = H2.exec($3.slice(e3));
+            return a3 ? (r3.w = v2[a3[0].toLowerCase()], e3 + a3[0].length) : -1;
+          }, b: function (r3, $3, e3) {
+            var a3 = l2.exec($3.slice(e3));
+            return a3 ? (r3.m = d2[a3[0].toLowerCase()], e3 + a3[0].length) : -1;
+          }, B: function (r3, $3, e3) {
+            var a3 = m2.exec($3.slice(e3));
+            return a3 ? (r3.m = s2[a3[0].toLowerCase()], e3 + a3[0].length) : -1;
+          }, c: function (r3, e3, a3) {
+            return h2(r3, $2, e3, a3);
+          }, d: _c, e: _c, f: ih, H: ad, I: ad, j: eh, L: hh, m: dh, M: fh, p: function (r3, $3, e3) {
+            var a3 = b2.exec($3.slice(e3));
+            return a3 ? (r3.p = i2[a3[0].toLowerCase()], e3 + a3[0].length) : -1;
+          }, Q: kh, s: lh, S: gh, u: Yg, U: Zg, V: $g, w: Xg, W: _g, x: function (r3, $3, a3) {
+            return h2(r3, e2, $3, a3);
+          }, X: function (r3, $3, e3) {
+            return h2(r3, a2, $3, e3);
+          }, y: bh, Y: ah, Z: ch, "%": jh
+        };
         function T2(r3, $3) {
-          return function(e3) {
+          return function (e3) {
             var a3, t3, U3, n3 = [], o3 = -1, u3 = 0, b3 = r3.length;
-            for (e3 instanceof Date || (e3 = new Date(+e3)); ++o3 < b3; )
+            for (e3 instanceof Date || (e3 = new Date(+e3)); ++o3 < b3;)
               37 === r3.charCodeAt(o3) && (n3.push(r3.slice(u3, o3)), null != (t3 = $c[a3 = r3.charAt(++o3)]) ? a3 = r3.charAt(++o3) : t3 = "e" === a3 ? " " : "0", (U3 = $3[a3]) && (a3 = U3(e3, t3)), n3.push(a3), u3 = o3 + 1);
             return n3.push(r3.slice(u3, o3)), n3.join("");
           };
         }
         function M2(r3, $3) {
-          return function(e3) {
+          return function (e3) {
             var a3, t3, U3 = ba(1900);
             if (h2(U3, r3, e3 += "", 0) != e3.length)
               return null;
@@ -2320,7 +2354,7 @@ var require_dist = __commonJS({
           };
         }
         function h2(r3, $3, e3, a3) {
-          for (var t3, U3, n3 = 0, o3 = $3.length, u3 = e3.length; n3 < o3; ) {
+          for (var t3, U3, n3 = 0, o3 = $3.length, u3 = e3.length; n3 < o3;) {
             if (a3 >= u3)
               return -1;
             if (37 === (t3 = $3.charCodeAt(n3++))) {
@@ -2331,27 +2365,29 @@ var require_dist = __commonJS({
           }
           return a3;
         }
-        return p2.x = T2(e2, p2), p2.X = T2(a2, p2), p2.c = T2($2, p2), y2.x = T2(e2, y2), y2.X = T2(a2, y2), y2.c = T2($2, y2), { format: function(r3) {
-          var $3 = T2(r3 += "", p2);
-          return $3.toString = function() {
-            return r3;
-          }, $3;
-        }, parse: function(r3) {
-          var $3 = M2(r3 += "", Sg);
-          return $3.toString = function() {
-            return r3;
-          }, $3;
-        }, utcFormat: function(r3) {
-          var $3 = T2(r3 += "", y2);
-          return $3.toString = function() {
-            return r3;
-          }, $3;
-        }, utcParse: function(r3) {
-          var $3 = M2(r3, Ea);
-          return $3.toString = function() {
-            return r3;
-          }, $3;
-        } };
+        return p2.x = T2(e2, p2), p2.X = T2(a2, p2), p2.c = T2($2, p2), y2.x = T2(e2, y2), y2.X = T2(a2, y2), y2.c = T2($2, y2), {
+          format: function (r3) {
+            var $3 = T2(r3 += "", p2);
+            return $3.toString = function () {
+              return r3;
+            }, $3;
+          }, parse: function (r3) {
+            var $3 = M2(r3 += "", Sg);
+            return $3.toString = function () {
+              return r3;
+            }, $3;
+          }, utcFormat: function (r3) {
+            var $3 = T2(r3 += "", y2);
+            return $3.toString = function () {
+              return r3;
+            }, $3;
+          }, utcParse: function (r3) {
+            var $3 = M2(r3, Ea);
+            return $3.toString = function () {
+              return r3;
+            }, $3;
+          }
+        };
       }
       var $c = { "-": "", _: " ", 0: "0" }, h = /^\s*\d+/, Ug = /^%/, Vg = /[\\^$*+?|[\]().{}]/g;
       function a(r2, $2, e2) {
@@ -2365,7 +2401,7 @@ var require_dist = __commonJS({
         return new RegExp("^(?:" + r2.map(Wg).join("|") + ")", "i");
       }
       function da(r2) {
-        for (var $2 = {}, e2 = -1, a2 = r2.length; ++e2 < a2; )
+        for (var $2 = {}, e2 = -1, a2 = r2.length; ++e2 < a2;)
           $2[r2[e2].toLowerCase()] = e2;
         return $2;
       }
@@ -2572,7 +2608,7 @@ var require_dist = __commonJS({
         return isNaN($2) ? null : $2;
       }
       var Qi = +new Date("2000-01-01T00:00:00.000Z") ? Rh : Qg(id);
-      var Sh = function(e2, t2) {
+      var Sh = function (e2, t2) {
         var $2, r2 = 0, M2 = (e2 = e2.slice()).length - 1, l2 = e2[r2], o2 = e2[M2];
         return o2 < l2 && ($2 = r2, r2 = M2, M2 = $2, $2 = l2, l2 = o2, o2 = $2), e2[r2] = t2.floor(l2), e2[M2] = t2.ceil(o2), e2;
       };
@@ -2590,56 +2626,58 @@ var require_dist = __commonJS({
         }
         function h2($3, r3, a3) {
           if (null == $3 && ($3 = 10), "number" == typeof $3) {
-            var n3, e3 = Math.abs(a3 - r3) / $3, i3 = Pb(function(t3) {
+            var n3, e3 = Math.abs(a3 - r3) / $3, i3 = Pb(function (t3) {
               return t3[2];
             }).right(M2, e3);
             return i3 === M2.length ? (n3 = Ma(r3 / vb, a3 / vb, $3), $3 = t2) : i3 ? (n3 = (i3 = M2[e3 / M2[i3 - 1][2] < M2[i3][2] / e3 ? i3 - 1 : i3])[1], $3 = i3[0]) : (n3 = Math.max(Ma(r3, a3, $3), 1), $3 = o2), $3.every(n3);
           }
           return $3;
         }
-        return k2.invert = function(t3) {
+        return k2.invert = function (t3) {
           return new Date(V2(t3));
-        }, k2.domain = function(t3) {
+        }, k2.domain = function (t3) {
           return arguments.length ? X2(Array.from(t3, Vh)) : X2().map(Uh);
-        }, k2.ticks = function(t3) {
+        }, k2.ticks = function (t3) {
           var $3, r3 = X2(), a3 = r3[0], n3 = r3[r3.length - 1], e3 = n3 < a3;
           return e3 && ($3 = a3, a3 = n3, n3 = $3), $3 = ($3 = h2(t3, a3, n3)) ? $3.range(a3, n3 + 1) : [], e3 ? $3.reverse() : $3;
-        }, k2.tickFormat = function(t3, $3) {
+        }, k2.tickFormat = function (t3, $3) {
           return null == $3 ? D2 : u2($3);
-        }, k2.nice = function(t3) {
+        }, k2.nice = function (t3) {
           var $3 = X2();
           return (t3 = h2(t3, $3[0], $3[$3.length - 1])) ? X2(Sh($3, t3)) : k2;
-        }, k2.copy = function() {
+        }, k2.copy = function () {
           return Ac(k2, kd(t2, $2, r2, a2, n2, e2, i2, o2, u2));
         }, k2;
       }
-      var Wh = function() {
+      var Wh = function () {
         return la.apply(kd(o, Yc, tb, za, Xc, Wc, Vc, wa, Og).domain([new Date(2e3, 0, 1), new Date(2e3, 0, 2)]), arguments);
       };
       var Fa = {};
-      !function(t2, n2) {
+      !function (t2, n2) {
         "object" == typeof Fa ? Fa = n2() : "function" == typeof define && define.amd ? define(n2) : t2.dayjs = n2();
-      }(Fa, function() {
-        var t2 = "millisecond", n2 = "second", e2 = "minute", r2 = "hour", i2 = "day", s2 = "week", u2 = "month", a2 = "quarter", o2 = "year", h2 = /^(\d{4})-?(\d{1,2})-?(\d{0,2})[^0-9]*(\d{1,2})?:?(\d{1,2})?:?(\d{1,2})?.?(\d{1,3})?$/, f2 = /\[([^\]]+)]|Y{2,4}|M{1,4}|D{1,2}|d{1,4}|H{1,2}|h{1,2}|a|A|m{1,2}|s{1,2}|Z{1,2}|SSS/g, c2 = function(t3, n3, e3) {
+      }(Fa, function () {
+        var t2 = "millisecond", n2 = "second", e2 = "minute", r2 = "hour", i2 = "day", s2 = "week", u2 = "month", a2 = "quarter", o2 = "year", h2 = /^(\d{4})-?(\d{1,2})-?(\d{0,2})[^0-9]*(\d{1,2})?:?(\d{1,2})?:?(\d{1,2})?.?(\d{1,3})?$/, f2 = /\[([^\]]+)]|Y{2,4}|M{1,4}|D{1,2}|d{1,4}|H{1,2}|h{1,2}|a|A|m{1,2}|s{1,2}|Z{1,2}|SSS/g, c2 = function (t3, n3, e3) {
           var r3 = String(t3);
           return !r3 || r3.length >= n3 ? t3 : "" + Array(n3 + 1 - r3.length).join(e3) + t3;
-        }, d2 = { s: c2, z: function(t3) {
-          var n3 = -t3.utcOffset(), e3 = Math.abs(n3), r3 = Math.floor(e3 / 60), i3 = e3 % 60;
-          return (n3 <= 0 ? "+" : "-") + c2(r3, 2, "0") + ":" + c2(i3, 2, "0");
-        }, m: function(t3, n3) {
-          var e3 = 12 * (n3.year() - t3.year()) + (n3.month() - t3.month()), r3 = t3.clone().add(e3, u2), i3 = n3 - r3 < 0, s3 = t3.clone().add(e3 + (i3 ? -1 : 1), u2);
-          return Number(-(e3 + (n3 - r3) / (i3 ? r3 - s3 : s3 - r3)) || 0);
-        }, a: function(t3) {
-          return t3 < 0 ? Math.ceil(t3) || 0 : Math.floor(t3);
-        }, p: function(h3) {
-          return { M: u2, y: o2, w: s2, d: i2, h: r2, m: e2, s: n2, ms: t2, Q: a2 }[h3] || String(h3 || "").toLowerCase().replace(/s$/, "");
-        }, u: function(t3) {
-          return void 0 === t3;
-        } }, $2 = { name: "en", weekdays: "Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday".split("_"), months: "January_February_March_April_May_June_July_August_September_October_November_December".split("_") }, l2 = "en", m2 = {};
+        }, d2 = {
+          s: c2, z: function (t3) {
+            var n3 = -t3.utcOffset(), e3 = Math.abs(n3), r3 = Math.floor(e3 / 60), i3 = e3 % 60;
+            return (n3 <= 0 ? "+" : "-") + c2(r3, 2, "0") + ":" + c2(i3, 2, "0");
+          }, m: function (t3, n3) {
+            var e3 = 12 * (n3.year() - t3.year()) + (n3.month() - t3.month()), r3 = t3.clone().add(e3, u2), i3 = n3 - r3 < 0, s3 = t3.clone().add(e3 + (i3 ? -1 : 1), u2);
+            return Number(-(e3 + (n3 - r3) / (i3 ? r3 - s3 : s3 - r3)) || 0);
+          }, a: function (t3) {
+            return t3 < 0 ? Math.ceil(t3) || 0 : Math.floor(t3);
+          }, p: function (h3) {
+            return { M: u2, y: o2, w: s2, d: i2, h: r2, m: e2, s: n2, ms: t2, Q: a2 }[h3] || String(h3 || "").toLowerCase().replace(/s$/, "");
+          }, u: function (t3) {
+            return void 0 === t3;
+          }
+        }, $2 = { name: "en", weekdays: "Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday".split("_"), months: "January_February_March_April_May_June_July_August_September_October_November_December".split("_") }, l2 = "en", m2 = {};
         m2[l2] = $2;
-        var y2 = function(t3) {
+        var y2 = function (t3) {
           return t3 instanceof v2;
-        }, M2 = function(t3, n3, e3) {
+        }, M2 = function (t3, n3, e3) {
           var r3;
           if (!t3)
             return l2;
@@ -2650,22 +2688,22 @@ var require_dist = __commonJS({
             m2[i3] = t3, r3 = i3;
           }
           return e3 || (l2 = r3), r3;
-        }, g2 = function(t3, n3, e3) {
+        }, g2 = function (t3, n3, e3) {
           if (y2(t3))
             return t3.clone();
           var r3 = n3 ? "string" == typeof n3 ? { format: n3, pl: e3 } : n3 : {};
           return r3.date = t3, new v2(r3);
         }, D2 = d2;
-        D2.l = M2, D2.i = y2, D2.w = function(t3, n3) {
+        D2.l = M2, D2.i = y2, D2.w = function (t3, n3) {
           return g2(t3, { locale: n3.$L, utc: n3.$u });
         };
-        var v2 = function() {
+        var v2 = function () {
           function c3(t3) {
             this.$L = this.$L || M2(t3.locale, null, true), this.parse(t3);
           }
           var d3 = c3.prototype;
-          return d3.parse = function(t3) {
-            this.$d = function(t4) {
+          return d3.parse = function (t3) {
+            this.$d = function (t4) {
               var n3 = t4.date, e3 = t4.utc;
               if (null === n3)
                 return new Date(NaN);
@@ -2680,47 +2718,47 @@ var require_dist = __commonJS({
               }
               return new Date(n3);
             }(t3), this.init();
-          }, d3.init = function() {
+          }, d3.init = function () {
             var t3 = this.$d;
             this.$y = t3.getFullYear(), this.$M = t3.getMonth(), this.$D = t3.getDate(), this.$W = t3.getDay(), this.$H = t3.getHours(), this.$m = t3.getMinutes(), this.$s = t3.getSeconds(), this.$ms = t3.getMilliseconds();
-          }, d3.$utils = function() {
+          }, d3.$utils = function () {
             return D2;
-          }, d3.isValid = function() {
+          }, d3.isValid = function () {
             return !("Invalid Date" === this.$d.toString());
-          }, d3.isSame = function(t3, n3) {
+          }, d3.isSame = function (t3, n3) {
             var e3 = g2(t3);
             return this.startOf(n3) <= e3 && e3 <= this.endOf(n3);
-          }, d3.isAfter = function(t3, n3) {
+          }, d3.isAfter = function (t3, n3) {
             return g2(t3) < this.startOf(n3);
-          }, d3.isBefore = function(t3, n3) {
+          }, d3.isBefore = function (t3, n3) {
             return this.endOf(n3) < g2(t3);
-          }, d3.$g = function(t3, n3, e3) {
+          }, d3.$g = function (t3, n3, e3) {
             return D2.u(t3) ? this[n3] : this.set(e3, t3);
-          }, d3.year = function(t3) {
+          }, d3.year = function (t3) {
             return this.$g(t3, "$y", o2);
-          }, d3.month = function(t3) {
+          }, d3.month = function (t3) {
             return this.$g(t3, "$M", u2);
-          }, d3.day = function(t3) {
+          }, d3.day = function (t3) {
             return this.$g(t3, "$W", i2);
-          }, d3.date = function(t3) {
+          }, d3.date = function (t3) {
             return this.$g(t3, "$D", "date");
-          }, d3.hour = function(t3) {
+          }, d3.hour = function (t3) {
             return this.$g(t3, "$H", r2);
-          }, d3.minute = function(t3) {
+          }, d3.minute = function (t3) {
             return this.$g(t3, "$m", e2);
-          }, d3.second = function(t3) {
+          }, d3.second = function (t3) {
             return this.$g(t3, "$s", n2);
-          }, d3.millisecond = function(n3) {
+          }, d3.millisecond = function (n3) {
             return this.$g(n3, "$ms", t2);
-          }, d3.unix = function() {
+          }, d3.unix = function () {
             return Math.floor(this.valueOf() / 1e3);
-          }, d3.valueOf = function() {
+          }, d3.valueOf = function () {
             return this.$d.getTime();
-          }, d3.startOf = function(t3, a3) {
-            var h3 = this, f3 = !!D2.u(a3) || a3, c4 = D2.p(t3), d4 = function(t4, n3) {
+          }, d3.startOf = function (t3, a3) {
+            var h3 = this, f3 = !!D2.u(a3) || a3, c4 = D2.p(t3), d4 = function (t4, n3) {
               var e3 = D2.w(h3.$u ? Date.UTC(h3.$y, n3, t4) : new Date(h3.$y, n3, t4), h3);
               return f3 ? e3 : e3.endOf(i2);
-            }, $3 = function(t4, n3) {
+            }, $3 = function (t4, n3) {
               return D2.w(h3.toDate()[t4].apply(h3.toDate(), (f3 ? [0, 0, 0, 0] : [23, 59, 59, 999]).slice(n3)), h3);
             }, l3 = this.$W, m3 = this.$M, y3 = this.$D, M3 = "set" + (this.$u ? "UTC" : "");
             switch (c4) {
@@ -2743,9 +2781,9 @@ var require_dist = __commonJS({
               default:
                 return this.clone();
             }
-          }, d3.endOf = function(t3) {
+          }, d3.endOf = function (t3) {
             return this.startOf(t3, false);
-          }, d3.$set = function(s3, a3) {
+          }, d3.$set = function (s3, a3) {
             var h3, f3 = D2.p(s3), c4 = "set" + (this.$u ? "UTC" : ""), d4 = (h3 = {}, h3[i2] = c4 + "Date", h3.date = c4 + "Date", h3[u2] = c4 + "Month", h3[o2] = c4 + "FullYear", h3[r2] = c4 + "Hours", h3[e2] = c4 + "Minutes", h3[n2] = c4 + "Seconds", h3[t2] = c4 + "Milliseconds", h3)[f3], $3 = f3 === i2 ? this.$D + (a3 - this.$W) : a3;
             if (f3 === u2 || f3 === o2) {
               var l3 = this.clone().set("date", 1);
@@ -2753,14 +2791,14 @@ var require_dist = __commonJS({
             } else
               d4 && this.$d[d4]($3);
             return this.init(), this;
-          }, d3.set = function(t3, n3) {
+          }, d3.set = function (t3, n3) {
             return this.clone().$set(t3, n3);
-          }, d3.get = function(t3) {
+          }, d3.get = function (t3) {
             return this[D2.p(t3)]();
-          }, d3.add = function(t3, a3) {
+          }, d3.add = function (t3, a3) {
             var h3, f3 = this;
             t3 = Number(t3);
-            var c4 = D2.p(a3), d4 = function(n3) {
+            var c4 = D2.p(a3), d4 = function (n3) {
               var e3 = g2(f3);
               return D2.w(e3.date(e3.date() + Math.round(n3 * t3)), f3);
             };
@@ -2774,52 +2812,52 @@ var require_dist = __commonJS({
               return d4(7);
             var $3 = (h3 = {}, h3[e2] = 6e4, h3[r2] = 36e5, h3[n2] = 1e3, h3)[c4] || 1, l3 = this.valueOf() + t3 * $3;
             return D2.w(l3, this);
-          }, d3.subtract = function(t3, n3) {
+          }, d3.subtract = function (t3, n3) {
             return this.add(-1 * t3, n3);
-          }, d3.format = function(t3) {
+          }, d3.format = function (t3) {
             var n3 = this;
             if (!this.isValid())
               return "Invalid Date";
-            var e3 = t3 || "YYYY-MM-DDTHH:mm:ssZ", r3 = D2.z(this), i3 = this.$locale(), s3 = this.$H, u3 = this.$m, a3 = this.$M, o3 = i3.weekdays, h3 = i3.months, c4 = function(t4, r4, i4, s4) {
+            var e3 = t3 || "YYYY-MM-DDTHH:mm:ssZ", r3 = D2.z(this), i3 = this.$locale(), s3 = this.$H, u3 = this.$m, a3 = this.$M, o3 = i3.weekdays, h3 = i3.months, c4 = function (t4, r4, i4, s4) {
               return t4 && (t4[r4] || t4(n3, e3)) || i4[r4].substr(0, s4);
-            }, d4 = function(t4) {
+            }, d4 = function (t4) {
               return D2.s(s3 % 12 || 12, t4, "0");
-            }, $3 = i3.meridiem || function(t4, n4, e4) {
+            }, $3 = i3.meridiem || function (t4, n4, e4) {
               var r4 = t4 < 12 ? "AM" : "PM";
               return e4 ? r4.toLowerCase() : r4;
             }, l3 = { YY: String(this.$y).slice(-2), YYYY: this.$y, M: a3 + 1, MM: D2.s(a3 + 1, 2, "0"), MMM: c4(i3.monthsShort, a3, h3, 3), MMMM: h3[a3] || h3(this, e3), D: this.$D, DD: D2.s(this.$D, 2, "0"), d: String(this.$W), dd: c4(i3.weekdaysMin, this.$W, o3, 2), ddd: c4(i3.weekdaysShort, this.$W, o3, 3), dddd: o3[this.$W], H: String(s3), HH: D2.s(s3, 2, "0"), h: d4(1), hh: d4(2), a: $3(s3, u3, true), A: $3(s3, u3, false), m: String(u3), mm: D2.s(u3, 2, "0"), s: String(this.$s), ss: D2.s(this.$s, 2, "0"), SSS: D2.s(this.$ms, 3, "0"), Z: r3 };
-            return e3.replace(f2, function(t4, n4) {
+            return e3.replace(f2, function (t4, n4) {
               return n4 || l3[t4] || r3.replace(":", "");
             });
-          }, d3.utcOffset = function() {
+          }, d3.utcOffset = function () {
             return 15 * -Math.round(this.$d.getTimezoneOffset() / 15);
-          }, d3.diff = function(t3, h3, f3) {
+          }, d3.diff = function (t3, h3, f3) {
             var c4, d4 = D2.p(h3), $3 = g2(t3), l3 = 6e4 * ($3.utcOffset() - this.utcOffset()), m3 = this - $3, y3 = D2.m(this, $3);
             return y3 = (c4 = {}, c4[o2] = y3 / 12, c4[u2] = y3, c4[a2] = y3 / 3, c4[s2] = (m3 - l3) / 6048e5, c4[i2] = (m3 - l3) / 864e5, c4[r2] = m3 / 36e5, c4[e2] = m3 / 6e4, c4[n2] = m3 / 1e3, c4)[d4] || m3, f3 ? y3 : D2.a(y3);
-          }, d3.daysInMonth = function() {
+          }, d3.daysInMonth = function () {
             return this.endOf(u2).$D;
-          }, d3.$locale = function() {
+          }, d3.$locale = function () {
             return m2[this.$L];
-          }, d3.locale = function(t3, n3) {
+          }, d3.locale = function (t3, n3) {
             if (!t3)
               return this.$L;
             var e3 = this.clone();
             return e3.$L = M2(t3, n3, true), e3;
-          }, d3.clone = function() {
+          }, d3.clone = function () {
             return D2.w(this.toDate(), this);
-          }, d3.toDate = function() {
+          }, d3.toDate = function () {
             return new Date(this.$d);
-          }, d3.toJSON = function() {
+          }, d3.toJSON = function () {
             return this.toISOString();
-          }, d3.toISOString = function() {
+          }, d3.toISOString = function () {
             return this.$d.toISOString();
-          }, d3.toString = function() {
+          }, d3.toString = function () {
             return this.$d.toUTCString();
           }, c3;
         }();
-        return g2.prototype = v2.prototype, g2.extend = function(t3, n3) {
+        return g2.prototype = v2.prototype, g2.extend = function (t3, n3) {
           return t3(n3, v2, g2), g2;
-        }, g2.locale = M2, g2.isDayjs = y2, g2.unix = function(t3) {
+        }, g2.locale = M2, g2.isDayjs = y2, g2.unix = function (t3) {
           return g2(1e3 * t3);
         }, g2.en = m2[l2], g2.Ls = m2, g2;
       });
@@ -2873,7 +2911,7 @@ var require_dist = __commonJS({
         var a2 = Object.keys(t2);
         if (Object.getOwnPropertySymbols) {
           var r2 = Object.getOwnPropertySymbols(t2);
-          e2 && (r2 = r2.filter(function(e3) {
+          e2 && (r2 = r2.filter(function (e3) {
             return Object.getOwnPropertyDescriptor(t2, e3).enumerable;
           })), a2.push.apply(a2, r2);
         }
@@ -2882,9 +2920,9 @@ var require_dist = __commonJS({
       function Yh(t2) {
         for (var e2 = 1; e2 < arguments.length; e2++) {
           var a2 = null != arguments[e2] ? arguments[e2] : {};
-          e2 % 2 ? ld(a2, true).forEach(function(e3) {
+          e2 % 2 ? ld(a2, true).forEach(function (e3) {
             Zh(t2, e3, a2[e3]);
-          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(a2)) : ld(a2).forEach(function(e3) {
+          }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t2, Object.getOwnPropertyDescriptors(a2)) : ld(a2).forEach(function (e3) {
             Object.defineProperty(t2, e3, Object.getOwnPropertyDescriptor(a2, e3));
           });
         }
@@ -2896,16 +2934,18 @@ var require_dist = __commonJS({
       function md(t2) {
         this._context = t2;
       }
-      var nd = function() {
+      var nd = function () {
       };
-      md.prototype = { areaStart: nd, areaEnd: nd, lineStart: function() {
-        this._point = 0;
-      }, lineEnd: function() {
-        this._point && this._context.closePath();
-      }, point: function(t2, o2) {
-        t2 = +t2, o2 = +o2, this._point ? this._context.lineTo(t2, o2) : (this._point = 1, this._context.moveTo(t2, o2));
-      } };
-      var $h = function(t2) {
+      md.prototype = {
+        areaStart: nd, areaEnd: nd, lineStart: function () {
+          this._point = 0;
+        }, lineEnd: function () {
+          this._point && this._context.closePath();
+        }, point: function (t2, o2) {
+          t2 = +t2, o2 = +o2, this._point ? this._context.lineTo(t2, o2) : (this._point = 1, this._context.moveTo(t2, o2));
+        }
+      };
+      var $h = function (t2) {
         return new md(t2);
       };
       const _h = 50, Ga = -Math.PI / 2, ai = 0.2;
@@ -2940,7 +2980,7 @@ var require_dist = __commonJS({
       if (typeof exports === "object" && typeof module2 !== "undefined") {
         module2.exports = xb;
       } else if (typeof define === "function" && define.amd) {
-        define(function() {
+        define(function () {
           return xb;
         });
       }
@@ -2975,7 +3015,7 @@ var SizeHistoryPlugin = class extends import_obsidian.Plugin {
   async updateHistory() {
     const history = await this.getHistory();
     const latestTimestamp = this.getLatestTimeMs(history);
-    const allFiles = this.app.vault.getFiles();
+    const allFiles = this.app.vault.getMarkdownFiles();
     const unregisterdFiles = allFiles.filter((value) => value.stat.ctime > latestTimestamp + MS_IN_DAY);
     unregisterdFiles.sort((a, b) => a.stat.ctime - b.stat.ctime);
     for (const file of unregisterdFiles) {
