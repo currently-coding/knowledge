@@ -39,7 +39,7 @@ Moore's Law := 1965  - number of transistors/chip double every ~2 years
 First commercially available microprocessor := Intel 4004 Microprocessor - 1971
 <!--SR:!2025-05-06,2,150-->
 First PCs := 1970s and 1980s - Apple's Apple II(1997) and IBM's PC(1981) introduced affordable, personal computing to the public
-<!--SR:!2025-05-06,2,192-->
+<!--SR:!2025-05-10,4,192-->
 Open-Source Software Movement := 1985 - Richard Stallman launched the *Free Software Foundation* promoting software freedom -> lead to projects like Linux(1991)
 Introduction of *GPS* := 1995 - GPS became fully operational for military and civilians
 <!--SR:!2025-05-05,2,189-->
