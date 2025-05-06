@@ -1,5 +1,5 @@
 >[!Definition]
 Was ist ein Diastereomer := Stereoisomer, das sich *nicht* wie Bild und Spiegelbild verhält( = kein Enantiomer)
-<!--SR:!2025-04-27,63,310-->
+<!--SR:!2025-12-16,229,330-->
 
 

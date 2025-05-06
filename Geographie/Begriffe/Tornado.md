@@ -1,6 +1,6 @@
 >[!Definition] 
 >Tornado := Luftwirbel über Land in Form eines Schlauches unterhalb einer Gewitterwolke
-<!--SR:!2025-04-27,2,210-->
+<!--SR:!2025-05-09,5,230-->
 
 
 ## Merkmale

@@ -1,6 +1,6 @@
 >[!Definition]
 >Hurrikan := [[tropischer Wirbelsturm]] im Nordatlantik oder Pazifik mit Orkanstärke(=Windstärke 12)
-<!--SR:!2025-04-26,1,190-->
+<!--SR:!2025-05-08,5,230-->
 
 ## Entstehung
 - **Ort**: in der [[Passatwind]]zone über dem Atlantik oder Pazifik
