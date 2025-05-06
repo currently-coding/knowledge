@@ -21,16 +21,6 @@
               "icon": "lucide-file",
               "title": "vocabulary"
             }
-          },
-          {
-            "id": "a7ae7bda287e6479",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ]
       }
@@ -254,6 +244,12 @@
   },
   "active": "33a661a688f30392",
   "lastOpenFiles": [
+    "Physik/Wellen HA.md",
+    "Musik/Oper/Oper.md",
+    "Musik/Oper",
+    "Musik/Libretto.md",
+    "Ethik/Bioethik/Medizinethik/Sterbehilfe.md",
+    "Attachments/Pasted image 20250505165211.png",
     "conflict-files-obsidian-git.md",
     "Englisch/Vocabulary/vocabulary.md",
     "Englisch/Vocabulary/requirements.txt",
@@ -281,7 +277,6 @@
     "Deprecated/Linguee/wordlist_linguee.md",
     "Deprecated/Linguee/vocabulary_linguee.py",
     "Deprecated/Linguee/vocabulary_linguee.md",
-    "Deprecated/Linguee",
     "Geographie/Begriffe/tropischer Wirbelsturm.md",
     "Geographie/Begriffe/Passatwind.md",
     "Attachments/Pasted image 20250423210545.png",
@@ -289,10 +284,6 @@
     "Attachments/Pasted image 20250423210421.png",
     "Geographie/Begriffe/Hurrikan.md",
     "Attachments/Pasted image 20250423210019.png",
-    "Geographie/Begriffe/Corioliskraft.md",
-    "Geographie/Begriffe/Blizzard.md",
-    "Geographie/Begriffe/Tornado.md",
-    "Geographie/Begriffe/konvektive Bewolkung.md",
-    "Englisch/Vocabulary/Merriam-Webster/vocabulary_mw.md"
+    "Geographie/Begriffe/Corioliskraft.md"
   ]
 }
