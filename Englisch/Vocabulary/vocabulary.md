@@ -547,7 +547,7 @@ existing or coming about seemingly at random or by chance or as a capricious and
 >>- You can complete the tasks in arbitrary order.
 >>- Arbitrary changes to the process are not allowed.
 >>- The boss gave arbitrary orders that changed daily.
-<!--SR:!2025-05-06,3,264-->
+<!--SR:!2025-05-16,10,284-->
 
 responsive to sensory stimuli : discerning<br>capable of or exhibiting keen perception : observant<br>characterized by sympathetic understanding or insight
 ?
@@ -567,7 +567,7 @@ a plant that is not valued where it is growing and is usually of vigorous growth
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/84/8417a031bdadfb493a827cfec74bba14-102.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- She does not allow a single weed among her pretty flowers.
-<!--SR:!2025-05-06,3,264-->
+<!--SR:!2025-05-15,9,284-->
 
 to forbid by authority : enjoin<br>to prevent from doing something<br>preclude
 ?
@@ -713,7 +713,7 @@ the quality or state of being independent<br>competence
 >>[!Example] Examples
 >>- The country declared independence after a long period of occupation.
 >>- The country declared its independence.
-<!--SR:!2025-05-06,3,270-->
+<!--SR:!2025-05-17,11,290-->
 
 something that impedes progress or achievement
 ?
