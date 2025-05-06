@@ -377,7 +377,7 @@ to submit (something, such as a document) to a court or officer in course of pro
 >>- The man exhibited several signs of old age.
 >>- The patient exhibited signs of improvement after the treatment.
 >>- She decided to exhibit her paintings in a local museum.
-<!--SR:!2025-05-06,3,242-->
+<!--SR:!2025-05-08,2,222-->
 
 a connecting structure: such as<br>a single ring or division of a chain<br>one of the standardised divisions of a surveyor's chain that is 7.92 inches (20.1 centimeters) long and serves as a measure of length
 ?
@@ -511,7 +511,7 @@ one that occupies a particular place regularly, routinely, or for a period of ti
 >>[!Example] Examples
 >>- This little town has only very few inhabitants.
 >>- Berlin has fewer inhabitants than Cairo.
-<!--SR:!2025-05-06,3,264-->
+<!--SR:!2025-05-14,8,284-->
 
 to make invalid; especially : to weaken or destroy the cogency of
 ?
@@ -755,7 +755,7 @@ a portable panel usually of wattled withes and stakes used especially for enclos
 >>- The runner cleared all hurdles successfully.
 >>- The athlete jumped over all hurdles and finished the race successfully.
 >>- There are many hurdles on the road to success.
-<!--SR:!2025-05-06,3,250-->
+<!--SR:!2025-05-15,9,270-->
 
 the action of yielding one's person or giving up the possession of something especially into the power of another<br>the relinquishment by a patentee of rights or claims under a patent<br>the delivery of a principal into lawful custody by bail —called also surrender by bail
 ?
@@ -776,7 +776,7 @@ harsh or jarring sound : dissonance; specifically : harshness in the sound of wo
 >**Translations**: Kakophonie, Kakofonie, Missklang
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/36/3617c0cffb8f9bcb15405a7230d79775-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/36/3617c0cffb8f9bcb15405a7230d79775-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-06,3,270-->
+<!--SR:!2025-05-17,11,290-->
 
 to give new life or vigor to
 ?
