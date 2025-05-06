@@ -329,7 +329,7 @@ to call forth (a feeling, an action, etc.) : evoke<br>to stir up purposely<br>to
 >>[!Example] Examples
 >>- The scandal provoked public anger.
 >>- The politician's statement provoked public criticism.
-<!--SR:!2025-05-06,3,240-->
+<!--SR:!2025-05-14,8,260-->
 
 to make greater, more numerous, larger, or more intense<br>supplement<br>to add an augment to (a verb form)
 ?
@@ -487,7 +487,7 @@ conformity with truth or fact : accuracy<br>devotion to the truth : truthfulness
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/23/2383576a9ae22802531a0634f2c46952-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The expert was able to confirm the veracity of the information.
-<!--SR:!2025-05-06,3,243-->
+<!--SR:!2025-05-16,10,263-->
 
 in a precise manner : exactly —often used to emphasize the precision of something (such as a measurement, time, description, etc.)<br>quite so —used to confirm emphatically that what has been said or suggested is exactly correct
 ?
@@ -601,7 +601,7 @@ of, relating to, or involving quality or kind
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/78/78b055818452c4703aac38db0dba2e4f-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Further training for the workers led to qualitative improvements.
-<!--SR:!2025-05-06,2,224-->
+<!--SR:!2025-05-10,4,224-->
 
 include, comprehend<br>envelop<br>to form a circle about : enclose
 ?
@@ -643,7 +643,7 @@ said or done as a joke : characterized by jesting : playful<br>given to jesting 
 >**Translations**: scherzhaft, lustig, spaßig
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-06,3,264-->
+<!--SR:!2025-05-15,9,284-->
 
 designed for or understood by the specially initiated alone<br>requiring or exhibiting knowledge that is restricted to a small group; broadly : difficult to understand<br>limited to a small circle
 ?
