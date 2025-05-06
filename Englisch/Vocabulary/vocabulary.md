@@ -276,7 +276,7 @@ to prove wrong by argument or evidence : show to be false or erroneous<br>to den
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/08/08290ab350f041d54b1da164022ed268-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- I refute these false allegations.
-<!--SR:!2025-05-06,3,240-->
+<!--SR:!2025-05-16,10,260-->
 
 to place emphasis on : stress
 ?
@@ -393,7 +393,7 @@ a connecting structure: such as<br>a single ring or division of a chain<br>one o
 >>- I deleted the link to the file on my website.
 >>- The link opens in a new tab.
 >>- The link to this file was deleted.
-<!--SR:!2025-05-06,3,241-->
+<!--SR:!2025-05-15,9,261-->
 
 a conclusion derived through logic : inference<br>something produced by a cause or necessarily following from a set of conditions<br>importance with respect to power to produce an effect
 ?
@@ -524,7 +524,7 @@ to make invalid; especially : to weaken or destroy the cogency of
 >>[!Example] Examples
 >>- The facts I presented invalidated her argument.
 >>- The new certificate will invalidate the old one.
-<!--SR:!2025-05-06,3,264-->
+<!--SR:!2025-05-16,10,284-->
 
 the use of reason; especially : the drawing of inferences or conclusions through the use of reason<br>an instance of the use of reason : argument
 ?
@@ -625,7 +625,7 @@ according to report
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/4a/4a6c4866376c2a50fc06b22f2886772a-400.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Reportedly, the storm did not cause any damages.
-<!--SR:!2025-05-06,3,264-->
+<!--SR:!2025-05-16,10,284-->
 
 using few words : devoid of superfluity; also : short, brusque<br>smoothly elegant : polished
 ?
@@ -689,7 +689,7 @@ a judgment involving condemnation<br>the act of blaming or condemning sternly<br
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/ac/ac70ee11b6753a3c70ae2fb5df05ffd8-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The politician accepted the public censure and resigned.
-<!--SR:!2025-05-06,3,250-->
+<!--SR:!2025-05-14,8,270-->
 
 the authority of a master : dominion<br>the upper hand in a contest or competition : superiority, ascendancy<br>possession or display of great skill or technique
 ?
@@ -701,7 +701,7 @@ the authority of a master : dominion<br>the upper hand in a contest or competiti
 >>[!Example] Examples
 >>- The job requires mastery of two languages.
 >>- Our company's mastery of the crisis was impressive.
-<!--SR:!2025-05-06,3,270-->
+<!--SR:!2025-05-17,11,290-->
 
 the quality or state of being independent<br>competence
 ?
@@ -742,7 +742,7 @@ to determine or fix the value of<br>to determine the significance, worth, or con
 >>- He used a stencil to evaluate the tests.
 >>- The institute evaluated the new product.
 >>- I evaluated the pros and cons of the situation.
-<!--SR:!2025-05-06,3,253-->
+<!--SR:!2025-05-16,10,273-->
 
 a portable panel usually of wattled withes and stakes used especially for enclosing land or livestock<br>a frame or sled formerly used in England for dragging traitors to execution<br>an artificial barrier over which racers must leap
 ?
@@ -787,7 +787,7 @@ to give new life or vigor to
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The cream will revitalize dry skin.
-<!--SR:!2025-05-06,3,273-->
+<!--SR:!2025-05-17,11,293-->
 
 the shape, size, and general makeup (as of something printed)<br>general plan of organization, arrangement, or choice of material (as for a television show)<br>a method of organizing data (as for storage)
 ?
@@ -896,7 +896,7 @@ occurring by chance<br>fortunate, lucky<br>coming or happening by a lucky chance
 >**Pronunciation**: /fɔːˈtjuːɪtəs/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/f3/f354847ec637e15410e8afd2a656d1a9-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/f3/f354847ec637e15410e8afd2a656d1a9-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-06,1,220-->
+<!--SR:!2025-05-09,3,240-->
 
 a person who has controlling authority or is in a leading position: such as<br>a chief or head man or woman<br>the chief executive officer of an educational institution
 ?
