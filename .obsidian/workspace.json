@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "5219f187b3f0b97e",
+    "id": "33f5db4d9e02201b",
     "type": "split",
     "children": [
       {
-        "id": "63ac68e58f377282",
+        "id": "e9f19c0b6b60411f",
         "type": "tabs",
         "children": [
           {
-            "id": "ea918106ae34ba58",
+            "id": "1ec4ed0d6925491d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Vocabulary/wordlist.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "wordlist"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -28,20 +28,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "922e325fd4cd64f3",
+    "id": "49d4ec1a7be19832",
     "type": "split",
     "children": [
       {
-        "id": "2d23a6f1eb98205b",
+        "id": "3bbb2023c9124e9e",
         "type": "tabs",
         "children": [
           {
-            "id": "730d3562ffffe43e",
+            "id": "19ba170e77b86308",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -49,14 +49,14 @@
             }
           },
           {
-            "id": "a73649550fc5bb9c",
+            "id": "688ce6aed090e6c6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
-                "explainSearch": true,
+                "matchingCase": false,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -69,316 +69,67 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "5c9e9927832b7cc9",
+    "id": "d969244faf8f3475",
     "type": "split",
     "children": [
       {
-        "id": "389a867218cb0e47",
+        "id": "8b9ea9639b827477",
         "type": "tabs",
         "children": [
           {
-            "id": "b7d44151f02bfec8",
+            "id": "7e2599bcb9fec604",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Exoplaneten/Handout - Exoplaneten.md",
+                "file": "Englisch/Vocabulary/Merriam-Webster/vocabulary_mw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Handout - Exoplaneten"
+              "title": "Backlinks for vocabulary_mw"
             }
           },
           {
-            "id": "279fd4142d14589f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "4ac18891fd971755",
+            "id": "d71c4d7731ebb782",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Exoplaneten/Handout - Exoplaneten.md",
+                "file": "Englisch/Vocabulary/Merriam-Webster/vocabulary_mw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Handout - Exoplaneten"
+              "title": "Outgoing links from vocabulary_mw"
             }
           },
           {
-            "id": "b800e1235af8cd75",
+            "id": "e8d06df5e8122c6c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Exoplaneten/Handout - Exoplaneten.md",
+                "file": "Englisch/Vocabulary/Merriam-Webster/vocabulary_mw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Handout - Exoplaneten"
+              "title": "Outline of vocabulary_mw"
             }
           },
           {
-            "id": "2cdb799ea3a9d426",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "535bed152a9734de",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "29fa03842f22d29a",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0b17aaf85100245e",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "22b140514237cf1a",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6d7f684b85540dd9",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a4edcb8200cf5ad4",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1e8f513f73b4e4d7",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a94c9979c8b0ca53",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e16057cb0adc1d95",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6b34dc8863be004b",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0a724371453f9387",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "90408c929e622b26",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e62767094f186b62",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ea7d06a6d7a43836",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9e0fae1f333b0f4b",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0f2b77add29592d2",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "15c95ad43e53219c",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4cac52acaeab5417",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a5d993d80a223e6b",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b8c35533ba476ee2",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4f92ac6788e414ad",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "dd02f71ba1250395",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "7b4c9218aa555375",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "64549a51f2bc126e",
+            "id": "fcc3e9ee6dad5bab",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -388,7 +139,7 @@
             }
           },
           {
-            "id": "d7acdf2657519b9b",
+            "id": "f633056ae28a86a9",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -398,7 +149,7 @@
             }
           },
           {
-            "id": "e57611abbbc99205",
+            "id": "242f3aa52b73d758",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -408,7 +159,77 @@
             }
           },
           {
-            "id": "e4104f64ddbbe8c8",
+            "id": "94ed67fd76ed55cd",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0dd2e015370e39de",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "19b4650a63815e46",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5c2104300110d545",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6c4bca0c6790fa61",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "668fc4d62c5cbd7e",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f596589d426f70c8",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "32da52b6050b9596",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -428,123 +249,68 @@
             }
           }
         ],
-        "currentTab": 28
-      },
-      {
-        "id": "22de0d342437e62f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f6be56b30a9c5b26",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Englisch/Vocabulary/vocabulary.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7345989476763339,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of vocabulary"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 454.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "size-history:Vault size history": false,
+      "zenmode:Toggle Zen Mode": true,
       "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": false,
-      "graph:Open graph view": true,
       "obsidian-spaced-repetition:Review flashcards": true,
-      "zenmode:Toggle Zen Mode": true,
+      "size-history:Vault size history": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "64549a51f2bc126e",
+  "active": "fcc3e9ee6dad5bab",
   "lastOpenFiles": [
-    "Englisch/Vocabulary/Merriam-Webster",
-    "Englisch/Vocabulary/vocabulary.md",
-    "Englisch/Vocabulary/vocabulary.py~",
+    "conflict-files-obsidian-git.md",
     "Physik/Wellen HA.md",
-    "Attachments/Pasted image 20250505165211.png",
-    "Physik/Kreisbewegungen/Beispiel Kurvenfahrt.md",
-    "Physik/Kreisbewegungen/tmp_versuch.md",
-    "Physik/Kreisbewegungen/Kreisbewegungen.md",
-    "Physik/Astrophysik/Gravitationsgesetz.md",
-    "Physik/Astrophysik/Herleitung des Gravitationsgesetzes.md",
-    "Englisch/Vocabulary/Untitled.md",
-    "Englisch/Vocabulary/tmp.md",
-    "Allgemeinwissen/Allgemeinwissen - Technik.md",
-    "Englisch/Vocabulary/wordlist.md~",
-    "Englisch/Vocabulary/wordlist.md",
-    "Ethik/Bioethik/Medizinethik/Sterbehilfe.md",
-    "Musik/Libretto.md",
+    "Englisch/Vocabulary/vocabulary.md",
+    "Chemie/Proteine/Struktur/Tertiärstruktur.md",
+    "Chemie/Proteine/Struktur/Sekundärstruktur.md",
     "Musik/Oper/Oper.md",
-    "Musik/Oper.md",
     "Musik/Oper",
-    "Englisch/Vocabulary/vocabulary.py",
-    "Englisch/Vocabulary/READIT.md",
-    "Englisch/Vocabulary/READIT 1.md",
-    "Englisch/Vocabulary/obdisian.com.md",
-    "Englisch/Vocabulary/requirements.txt~",
+    "Musik/Libretto.md",
+    "Ethik/Bioethik/Medizinethik/Sterbehilfe.md",
+    "Attachments/Pasted image 20250505165211.png",
     "Englisch/Vocabulary/requirements.txt",
-    "Englisch/Vocabulary/vocabulary.md~",
+    "Englisch/Vocabulary/vocabulary.py~",
+    "Englisch/Vocabulary/wordlist.md",
+    "Englisch/Vocabulary/output.json~",
     "Englisch/Vocabulary/output.json",
-    "Englisch/Vocabulary/4913",
-    "Markdown Syntax.md",
-    "Ethik/Bioethik/Medizinethik/Präimplantationsdiagnostik.md",
-    "Ethik/Bioethik/Medizinethik/Schutz von Embryonen.md",
     "Wirtschaft/Allgemein/BIP.md",
+    "Musik/Oper.md",
+    "Mathematik/Funktionen/Grenzwerte/Konvergenz.md",
+    "Mathematik/Funktionen/Grenzwerte/Grenzwerte.md",
+    "Mathematik/Funktionen/Grenzwerte",
+    "Mathematik/Funktionen/Gebrochen-rationale Funktion.md",
+    "Mathematik/Funktionen/Differenzierbarkeit.md",
+    "Mathematik/Funktionen/Ableitungsfunktion.md",
+    "Mathematik/Funktionen",
+    "Geographie/Russland/Nowosibirsk - High-Tech-Standort.md",
     "Geographie/Russland/Erdöl- und Gaswirtschaft.md",
-    "venv/lib/python3.13/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__/weakref_finalize.cpython-313.pyc",
-    "venv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
-    "Chemie/Proteine/Denaturierung.md",
+    "Chemie/Proteine/Schwermetalle.md",
+    "Englisch/Vocabulary/vocabulary.py",
+    "Deutsch/Aufsaetze/Vorbereitung Übungsaufsatz.md",
+    "Deutsch/Aufsaetze/Leistung muss sich endlich lohnen - Philip Holstein.md",
+    "Deutsch/Aufsaetze/Aufsatz.md",
+    "Deutsch/Aufsaetze",
+    "Deprecated/Linguee/wordlist_linguee.md",
+    "Deprecated/Linguee/vocabulary_linguee.py",
+    "Deprecated/Linguee/vocabulary_linguee.md",
+    "Geographie/Begriffe/tropischer Wirbelsturm.md",
+    "Geographie/Begriffe/Passatwind.md",
     "Attachments/Pasted image 20250423210545.png",
     "Attachments/Pasted image 20250423210458.png",
     "Attachments/Pasted image 20250423210421.png",
-    "Attachments/Pasted image 20250423210019.png",
-    "Attachments/Pasted image 20250418212829.png",
-    "Attachments/Pasted image 20250418184317.png",
-    "Attachments/Pasted image 20250417153333.png",
-    "Attachments/Pasted image 20250416122807.png",
-    "Attachments/Pasted image 20250416122748.png",
-    "Computer Science/Semester/Semester-Course-Canvas.canvas",
-    "Computer Science/Topics/Theorie/Theoretische Informatik/Untitled.canvas",
-    "09 Musik/Untitled.canvas",
-    "08 Deutsch/Lyrik/Gedicht/Untitled.canvas",
-    "10 Geographie/Untitled.canvas",
-    "00 Karteikarten 1/Untitled.canvas"
+    "Attachments/Pasted image 20250423210019.png"
   ]
 }
