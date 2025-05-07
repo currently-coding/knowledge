@@ -455,7 +455,7 @@ to lead to or make known by a formal act, announcement, or recommendation: such 
 >>- This course will introduce you to the different types of boats.
 >>- The first settlers introduced European diseases to America.
 >>- The speaker introduced the winner.
-<!--SR:!2025-05-07,3,274-->
+<!--SR:!2025-05-18,11,294-->
 
 
 to combine or produce by synthesis<br>to make a synthesis of<br>to produce (something, such as music) by an electronic synthesizer
@@ -590,7 +590,7 @@ sympathetic sorrow for one suffering, distressed, or unhappy<br>capacity to feel
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/0a/0a2db9b7b0296859aee1b8b9237d1a9b-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- I feel pity when I see other people suffer.
-<!--SR:!2025-05-07,3,244-->
+<!--SR:!2025-05-17,10,264-->
 
 of, relating to, or involving quality or kind
 ?
@@ -635,7 +635,7 @@ using few words : devoid of superfluity; also : short, brusque<br>smoothly elega
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/2c/2c1fd6e09f7ba9cf642bdeb20b1b9b64-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- His answer was brief and terse.
-<!--SR:!2025-05-07,2,224-->
+<!--SR:!2025-05-12,5,244-->
 
 said or done as a joke : characterized by jesting : playful<br>given to jesting : habitually jolly or jocund
 ?
@@ -651,7 +651,7 @@ designed for or understood by the specially initiated alone<br>requiring or exhi
 >**Translations**: esoterisch, abseitig, geheim
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/db/dbc6486d9c1788ccce2f4ece3e498fb3-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/db/dbc6486d9c1788ccce2f4ece3e498fb3-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-07,3,250-->
+<!--SR:!2025-05-17,10,270-->
 
 to spur on : impel, motivate<br>to exert an animating, enlivening, or exalting influence on<br>affect
 ?
@@ -665,7 +665,7 @@ to spur on : impel, motivate<br>to exert an animating, enlivening, or exalting i
 >>- Classical music inspires me.
 >>- He had the ability to inspire people.
 >>- He had the ability to inspire people.
-<!--SR:!2025-05-07,3,250-->
+<!--SR:!2025-05-17,10,270-->
 
 to subvert or weaken insidiously or secretly<br>to weaken or ruin by degrees<br>to wash away supporting material from under
 ?
@@ -799,7 +799,7 @@ the shape, size, and general makeup (as of something printed)<br>general plan of
 >>[!Example] Examples
 >>- We sell drawing paper in all standard formats.
 >>- You can convert the file into another format.
-<!--SR:!2025-05-07,3,280-->
+<!--SR:!2025-05-18,11,300-->
 
 the action, process, or result of rehabilitating or of being rehabilitated: such as<br>restoration especially by therapeutic means to an improved condition of physical function; also : the process of restoring a person to a drug- or alcohol-free state<br>the process of restoring someone (such as a criminal) to a useful and constructive place in society
 ?
@@ -810,7 +810,7 @@ the action, process, or result of rehabilitating or of being rehabilitated: such
 >>[!Example] Examples
 >>- His rehabilitation after the car accident was successful.
 >>- After fifty years, a rehabilitation of the hotel is necessary.
-<!--SR:!2025-05-07,3,280-->
+<!--SR:!2025-05-18,11,300-->
 
 commanding, controlling, or prevailing over all others<br>very important, powerful, or successful<br>overlooking and commanding from a superior position
 ?
@@ -831,7 +831,7 @@ of, relating to, involving, or being in accordance with logic<br>skilled in logi
 >**Pronunciation**: /ˈlɒdʒɪkəɫ/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/78/78ae2000a3964dd5a903ab9fc5f460f8-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/78/78ae2000a3964dd5a903ab9fc5f460f8-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-07,3,280-->
+<!--SR:!2025-05-18,11,300-->
 
 something given or contributed voluntarily as due or deserved; especially : a gift or service showing respect, gratitude, or affection<br>something (such as material evidence or a formal attestation) that indicates the worth, virtue, or effectiveness of the one in question<br>a payment by one ruler or nation to another in acknowledgment of submission or as the price of protection; also : the tax levied for such a payment
 ?
@@ -843,7 +843,7 @@ something given or contributed voluntarily as due or deserved; especially : a gi
 >>[!Example] Examples
 >>- This documentary pays tribute to a famous composer.
 >>- The book was a tribute to the famous artist.
-<!--SR:!2025-05-07,3,281-->
+<!--SR:!2025-05-18,11,301-->
 
 to reduce the mental or moral vigor of<br>to lessen the vitality or strength of
 ?
@@ -871,7 +871,7 @@ using or involving the use of a minimum of words : concise to the point of seemi
 >**Translations**: lakonisch, prägnant, knapp
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/d3/d34836636055093de27bb87aad3764d0-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/d3/d34836636055093de27bb87aad3764d0-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-07,3,260-->
+<!--SR:!2025-05-17,10,280-->
 
 to put or thrust in<br>to put or introduce into the body of something : interpolate<br>to set in and make fast; especially : to insert by sewing between two cut edges
 ?
@@ -887,7 +887,7 @@ to put or thrust in<br>to put or introduce into the body of something : interpol
 >>- I inserted the batteries into the camera.
 >>- The card needs to be inserted into the reader.
 >>- She inserted the key into the lock.
-<!--SR:!2025-05-07,3,260-->
+<!--SR:!2025-05-17,10,280-->
 
 occurring by chance<br>fortunate, lucky<br>coming or happening by a lucky chance
 ?
