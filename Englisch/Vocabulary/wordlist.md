@@ -1,13 +1,3 @@
-depict
-composer
-supervisor
-biological
-peer
-dissonant
-adaptation
-identical
-chimerical
-minimal
 condescending
 spotlight
 seditious

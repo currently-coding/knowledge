@@ -822,7 +822,7 @@ commanding, controlling, or prevailing over all others<br>very important, powerf
 >>[!Example] Examples
 >>- My father was a very dominant person.
 >>- The dominant shade in his paintings is blue.
-<!--SR:!2025-05-08,3,260-->
+<!--SR:!2025-05-17,9,280-->
 
 of, relating to, involving, or being in accordance with logic<br>skilled in logic<br>formally true or valid : analytic, deductive
 ?
@@ -851,7 +851,7 @@ to reduce the mental or moral vigor of<br>to lessen the vitality or strength of
 >**Translations**: entnerven, schwächen
 >**Forms**: enervated, enervated
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/48/48ff75593824fbcda45e5d6f43d69980-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-08,3,261-->
+<!--SR:!2025-05-18,10,281-->
 
 meticulous, careful<br>governed by or conforming to the dictates of conscience : scrupulous
 ?
@@ -911,7 +911,7 @@ a person who has controlling authority or is in a leading position: such as<br>a
 >>- The principal gave a speech at the term's end.
 >>- He is the founder and principal of the company.
 >>- The principal commissioned the translation of the contract.
-<!--SR:!2025-05-08,3,281-->
+<!--SR:!2025-05-19,11,301-->
 
 to assess (something) again
 ?
@@ -922,7 +922,7 @@ to assess (something) again
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/15/152312fd145f174e7b164f112d3f49a1-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Let us reassess the decision once again.
-<!--SR:!2025-05-08,3,285-->
+<!--SR:!2025-05-19,11,305-->
 
 physical equilibrium<br>the ability to retain one's balance<br>stability produced by even distribution of weight on each side of the vertical axis
 ?
@@ -939,7 +939,7 @@ physical equilibrium<br>the ability to retain one's balance<br>stability produce
 >>- Meditation helps him achieve an inner balance.
 >>- I went to the bank to check my balance.
 >>- She extended her arms to keep her balance.
-<!--SR:!2025-05-08,3,281-->
+<!--SR:!2025-05-19,11,301-->
 
 a violent public disorder; specifically : a tumultuous disturbance of the public peace by three or more persons assembled together and acting with a common intent<br>public violence, tumult, or disorder<br>a random or disorderly profusion
 ?
@@ -953,7 +953,7 @@ a violent public disorder; specifically : a tumultuous disturbance of the public
 >>- The riots stopped when the unpopular measure was withdrawn.
 >>- Luckily, there was no riot after the game.
 >>- The police could prevent riots in front of the stadium.
-<!--SR:!2025-05-08,3,281-->
+<!--SR:!2025-05-19,11,301-->
 
 of, relating to, consisting of, or arranged in a series, rank, or row<br>appearing in successive parts or numbers<br>belonging to a series maturing periodically rather than on a single date
 ?
@@ -962,7 +962,7 @@ of, relating to, consisting of, or arranged in a series, rank, or row<br>appeari
 >**Pronunciation**: /ˈsɪəɹiːəɫ/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/74/74136b24217cb75599440e6e1d807cf7-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/74/74136b24217cb75599440e6e1d807cf7-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-08,3,265-->
+<!--SR:!2025-05-18,10,285-->
 
 to make understandable<br>to free of confusion<br>to make (a liquid or something liquefied) clear or pure usually by freeing from suspended matter
 ?
@@ -977,7 +977,7 @@ to make understandable<br>to free of confusion<br>to make (a liquid or something
 >>- An example will clarify what I mean.
 >>- He clarified the main aspects of his book.
 >>- We have published a White Paper in which we clarify our position.
-<!--SR:!2025-05-08,3,285-->
+<!--SR:!2025-05-19,11,305-->
 
 highly injurious or destructive : deadly<br>wicked
 ?
@@ -994,7 +994,7 @@ with regard to (something) : apropos of
 >**Translations**: apropos
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/37/37d70f528b5be4756059a24cd87d3dfc-0.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/37/37d70f528b5be4756059a24cd87d3dfc-0.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-08,3,265-->
+<!--SR:!2025-05-17,9,285-->
 
 the quality or state of being reliable<br>the extent to which an experiment, test, or measuring procedure yields the same results on repeated trials
 ?
@@ -1006,7 +1006,7 @@ the quality or state of being reliable<br>the extent to which an experiment, tes
 >>- Quality control ensures the reliability of the product.
 >>- My colleague is well known for her hard work and reliability.
 >>- The brand is known for its quality and reliability.
-<!--SR:!2025-05-08,3,285-->
+<!--SR:!2025-05-18,10,285-->
 
 in a free manner: such as<br>of one's own accord<br>with freedom from external control
 ?
@@ -1017,7 +1017,7 @@ in a free manner: such as<br>of one's own accord<br>with freedom from external c
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_UK/da/daa759be97f37e5f7eff5883801aebed-400.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- The guests could choose freely from the menu.
-<!--SR:!2025-05-08,3,265-->
+<!--SR:!2025-05-18,10,285-->
 
 characterized by good-humored cheerfulness and conviviality : jolly<br>of or relating to Jove
 ?
@@ -1043,7 +1043,7 @@ to deal with successfully : clear up<br>to find an answer to<br>to make clear or
 >>- We resolved the old problem with a new approach.
 >>- We resolved the conflict by peaceful means.
 >>- The police officer managed to resolve the case.
-<!--SR:!2025-05-08,2,245-->
+<!--SR:!2025-05-14,6,265-->
 
 an act of inflating : a state of being inflated: such as<br>distension<br>a hypothetical extremely brief period of very rapid expansion of the universe immediately following the big bang
 ?
@@ -1054,7 +1054,7 @@ an act of inflating : a state of being inflated: such as<br>distension<br>a hypo
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/29c6282c/mp3/EN_US/3d/3d3c439478e8edb8bc00b8c5a890bd2d-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example] Examples
 >>- Inflation has not been this low for a long time.
-<!--SR:!2025-05-08,3,285-->
+<!--SR:!2025-05-19,11,305-->
 
 to bring to an end especially in a particular way or with a particular action<br>to reach as a logically necessary end by reasoning : infer on the basis of evidence<br>to make a decision about : decide
 ?
@@ -1080,4 +1080,109 @@ a remaining group, part, or trace<br>the number left after a subtraction
 >>[!Example] Examples
 >>- I left the office and spent the remainder of the day at home.
 <!--SR:!2025-05-08,3,286-->
+
+to represent by or as if by a picture<br>describe
+?
+>[!vocab] to depict(verb)
+>**Translations**: abbilden, darstellen, beschreiben
+>**Forms**: depicted, depicted
+>**Pronunciation**: /dɪˈpɪkt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d1/d106fce08ec9c1efeb081aec29ece51f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d1/d106fce08ec9c1efeb081aec29ece51f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Witches are often depicted with a hunch.
+>>- The painting depicts a typical scene of rural life.
+>>- In his books, the author depicts a magical world.
+>>- The article depicts the political situation of the country.
+
+one that composes; especially : a person who writes music
+?
+>[!vocab] composer(noun)
+>**Translations**: Komponist, Komponistin, Tonsetzer
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/18/180b81a58ca6dde990aba761b7299f43-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/18/180b81a58ca6dde990aba761b7299f43-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- This documentary pays tribute to a famous composer.
+
+one that supervises; especially : an administrative officer in charge of a business, government, or school unit or operation
+?
+>[!vocab] supervisor(noun)
+>**Translations**: Supervisor, Betreuer, Vorgesetzter
+>**Pronunciation**: /ˈsuːpɚˌvaɪzɚ/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/09/09348c20a019be0318387c08df7a783d-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/09/09348c20a019be0318387c08df7a783d-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- Each team has a supervisor who guides the workflows.
+>>- My supervisor is giving me advice on my doctoral thesis.
+>>- My supervisor was very pleased with my work.
+>>- The supervisor helped me with my thesis.
+>>- The supervisor gave instructions to the employees.
+>>- My supervisor at university managed the project.
+
+of or relating to biology or to life and living processes<br>used in or produced by applied biology<br>connected by direct genetic relationship rather than by adoption or marriage
+?
+>[!vocab] biological(adjective)
+>**Translations**: biologisch, bioaktiv
+>**Pronunciation**: /ˌbaɪə(ʊ)ˈlɒdʒɪkəl/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/59/59f9d76078b0422c34ce11f8bee61373-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/59/59f9d76078b0422c34ce11f8bee61373-300.mp3 type="audio/mpeg">Unsupported.</audio>
+
+one that is of equal standing with another : equal; especially : one belonging to the same societal group especially based on age, grade, or status<br>a member of one of the five ranks (duke, marquess, earl, viscount, or baron) of the British peerage<br>noble
+?
+>[!vocab] peer(noun)
+>**Translations**: Peer, Gleichrangige, Ebenbürtige
+>**Pronunciation**: /piː.ə/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f8/f8fe68b4c4cba197efa9c8bbd45f144e-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f8/f8fe68b4c4cba197efa9c8bbd45f144e-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- A peer is a member of the House of Lords.
+>>- I earn as much as my peers in the company.
+
+marked by dissonance : discordant<br>incongruous<br>harmonically unresolved
+?
+>[!vocab] dissonant(adjective)
+>**Translations**: dissonant, disharmonisch, unstimmig
+>**Pronunciation**: /ˈdɪsənənt/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/8b/8b798b05b3f34402141e44ee9da07a68-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/8b/8b798b05b3f34402141e44ee9da07a68-300.mp3 type="audio/mpeg">Unsupported.</audio>
+
+something that is adapted; specifically : a composition rewritten into a new form<br>the act or process of adapting : the state of being adapted<br>adjustment to environmental conditions: such as
+?
+>[!vocab] adaptation(noun)
+>**Translations**: Anpassung, Bearbeitung, Adaptation
+>**Pronunciation**: /ˌædæpˈteɪʃən/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/72/7278ff6867951985342661df1aedf80a-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/72/7278ff6867951985342661df1aedf80a-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The system works much better now after the adaptation.
+>>- The current stage play is the adaptation of a novel.
+>>- Adaptation to a new environment may take months.
+
+being the same : selfsame<br>having such close resemblance as to be essentially the same —often used with to or with<br>having the same cause or origin
+?
+>[!vocab] identical(adjective)
+>**Translations**: identisch, gleich, gleichartig
+>**Pronunciation**: /aɪˈdɛntɪkl̩/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ee/ee0cbdbacdada19376449799774976e8-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ee/ee0cbdbacdada19376449799774976e8-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The twins look almost identical.
+
+existing only as the product of unchecked imagination : fantastically visionary or improbable<br>given to fantastic schemes<br>relating to, derived from, or being a genetic chimera : containing tissue with two or more genetically distinct populations of cells
+?
+>[!vocab] chimerical(adjective)
+>**Translations**: fantastisch, phantastisch, schimärisch
+>**Pronunciation**: /kɪˈmɛɹɪkəl/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/fc/fc5aefefa9b8e30266145c1013abaf45-300.mp3 type="audio/mpeg">Unsupported.</audio>
+
+relating to or being a minimum: such as<br>the least possible<br>barely adequate
+?
+>[!vocab] minimal(adjective)
+>**Translations**: minimal, gering, geringfügig
+>**Pronunciation**: /mɪnəməl/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dc/dc43e863c176e9b9f2a0b6054b24bd1a-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dc/dc43e863c176e9b9f2a0b6054b24bd1a-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example] Examples
+>>- The risk of injury is minimal in this sport.
+>>- The book was published with only minimal changes.
 
