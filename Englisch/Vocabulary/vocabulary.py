@@ -102,23 +102,31 @@ class WordInfo:
 
     def to_flashcard(self) -> str:
         flashcard = []
-        line_break = "<br>"
         if use_mw:
-            definition = line_break.join(self.definitions_mw[:3])
+            definition = self.definitions_mw[:3]
         else:
-            definition = line_break.join(self.definitions_api[:3])
-        if definition.strip() == "":
+            definition = self.definitions_api[:3]
+        if len(definition) == 0:
             print(
                 f'\nError: Skipping flashcard for "{self.word}" as there was no definition found.'
             )
             return ""
-        flashcard.append(definition)
+        # Question
+        flashcard.append(">[!question]+ Word")
+        for defi in definition[:3]:
+            flashcard.append(">- " + defi)
+        flashcard.append(">")
+        flashcard.append(">>[!tip]- Translations")
+        for translation in self.translations[:3]:
+            flashcard.append(">>- " + translation)
+        # --------
         flashcard.append(self.separator)
+        # Answer
         if self.pos == "verb":
             word = "to " + self.word
         else:
             word = self.word
-        flashcard.append(">[!vocab] " + word + "(" + self.pos + ")")
+        flashcard.append(">[!vocab]+ " + word + "(" + self.pos + ")")
         flashcard.append(">**Translations**: " + ", ".join(self.translations[:3]))
         if self.forms:
             flashcard.append(">**Forms**: " + self.forms)
@@ -129,9 +137,10 @@ class WordInfo:
                 value = f'<audio controls><source src={value} type="audio/mpeg">Unsupported.</audio>'
                 flashcard.append(">**Audio " + key + "**: " + value)
         if self.examples:
-            flashcard.append(">>[!Example] Examples")
+            flashcard.append(">>[!Example]+ Examples")
             for example in self.examples:
                 flashcard.append(">>- " + example)
+        # ------
         return "\n".join(flashcard) + "\n"
 
 
