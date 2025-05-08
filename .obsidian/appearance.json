@@ -2,7 +2,7 @@
   "cssTheme": "Border",
   "accentColor": "#2aa3bb",
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 13,
   "baseFontSizeAction": true,
   "nativeMenus": true,
   "showViewHeader": true,
