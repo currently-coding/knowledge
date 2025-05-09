@@ -63,7 +63,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e4/e4166a3b07bbaee78e078661103a9d0a-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- I will exemplify my point with a story.
-<!--SR:!2025-05-09,1,257-->
+<!--SR:!2025-05-12,3,277-->
 
 >[!question]+ Word
 >
@@ -260,7 +260,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e7/e794f072286cdb9e7c003b5f91116a69-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Brevity is a typical feature of technical texts.
-<!--SR:!2025-05-09,1,216-->
+<!--SR:!2025-05-12,3,236-->
 
 >[!question]+ Word
 >- in an efficient manner : with success, competence, or adequate effect
