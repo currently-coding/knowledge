@@ -186,7 +186,7 @@
 >>- The police did not disclose the name of the suspect.
 >>- The bank may not disclose information about its clients.
 >>- He wants to disclose his secret.
-<!--SR:!2025-05-10,2,236-->
+<!--SR:!2025-05-15,5,236-->
 
 >[!question]+ Word
 >- the part of a page or sheet outside the main body of printed or written matter
@@ -515,19 +515,6 @@
 >>- He emphasized the importance of donations.
 >>- The professor emphasized the importance of recycling.
 
->[!question]+ Word
->- something that foreshadows a future event : something that gives an anticipatory sign of what is to come
->- one that initiates a major change : a person or thing that originates or helps open up a new activity, method, or technology : pioneer
->- a person sent ahead to provide lodgings
->
->>[!tip]- Translations
->>- Vorbote
->>- Herold
->>- Vorläufer
-?
->[!vocab]+ harbinger(noun)
->**Translations**: Vorbote, Herold, Vorläufer
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/7b/7b52da21e09c1c25ec89c2b04a35a595-100.mp3 type="audio/mpeg">Unsupported.</audio>
 
 >[!question]+ Word
 >- introduced from another country : not native to the place where found
