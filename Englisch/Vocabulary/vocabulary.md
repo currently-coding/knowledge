@@ -437,6 +437,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/62/620099028f603c1f9352fce5801c2e58-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- She can easily discern his face in the crowd.
+<!--SR:!2025-05-13,3,268-->
 
 >[!question]+ Word
 >- to give advance thought, discussion, or treatment to
@@ -479,6 +480,7 @@
 >>- Words can have different connotations.
 >>- The word she used had a positive connotation.
 >>- The connotation encompasses the different meanings of a word.
+<!--SR:!2025-05-13,3,268-->
 
 >[!question]+ Word
 >- to prove wrong by argument or evidence : show to be false or erroneous
@@ -570,6 +572,7 @@
 >>[!Example]+ Examples
 >>- The scandal provoked public anger.
 >>- The politician's statement provoked public criticism.
+<!--SR:!2025-05-13,3,268-->
 
 >[!question]+ Word
 >- to make greater, more numerous, larger, or more intense
