@@ -143,7 +143,7 @@
 ?
 >[!vocab]+ gravitas(noun)
 >**Translations**: Bedeutung
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-21,10,276-->
 
 
 >[!question]+ Word
@@ -163,7 +163,7 @@
 >>[!Example]+ Examples
 >>- The level of complexity affects the product cost.
 >>- This story presents a high degree of complexity.
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-20,9,276-->
 
 >[!question]+ Word
 >- to make known or public
@@ -207,7 +207,7 @@
 >>- The margin is the difference between the cost and selling price.
 >>- I added an annotation in the margin with my comments.
 >>- Our new price list reflects the higher margin we want to achieve.
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-20,9,276-->
 
 >[!question]+ Word
 >- designation as champion
@@ -244,7 +244,7 @@
 >>[!Example]+ Examples
 >>- He should spend less money and not be so profligate.
 >>- She left her profligate life behind to become a better person.
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-19,8,276-->
 
 >[!question]+ Word
 >- shortness of duration; especially : shortness or conciseness of expression
