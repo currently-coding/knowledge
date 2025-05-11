@@ -17,7 +17,7 @@
 >>[!Example]+ Examples
 >>- The texts cited in the article are listed in the bibliography.
 >>- I listed all my sources in the bibliography.
-<!--SR:!2025-05-11,3,297-->
+<!--SR:!2025-05-22,11,317-->
 
 >[!question]+ Word
 >
@@ -41,7 +41,7 @@
 >>- The company exploited their competitive advantage to become the market leader.
 >>- The company wants to exploit new resources.
 >>- The media exploited the scandal.
-<!--SR:!2025-05-11,3,297-->
+<!--SR:!2025-05-22,11,317-->
 
 >[!question]+ Word
 >
@@ -87,7 +87,7 @@
 >>- The house retains most of its original features.
 >>- The company retained the employee's salary.
 >>- The soil retains water for a certain period of time.
-<!--SR:!2025-05-11,3,277-->
+
 >[!question]+ Word
 >- the act or process of conquering
 >- something conquered; especially : territory appropriated in war
@@ -103,6 +103,7 @@
 >**Pronunciation**: /ˈkɒŋkwəst/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/97/979e57d16f8271c1924039307f981e66-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/97/979e57d16f8271c1924039307f981e66-100.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-22,11,297-->
 
 >[!question]+ Word
 >- a hypothesis advanced as an essential presupposition, condition, or premise of a train of reasoning
@@ -118,7 +119,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/18/1869119e100e3fd60b1dfad777a61049-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The theory is based on three postulates.
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-19,8,276-->
 
 >[!question]+ Word
 >- serving or tending to protect oneself
@@ -133,7 +134,7 @@
 >**Pronunciation**: /pɹoʊtɛktɪv/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/8d/8de0913c031da954e1eabeab2c555428-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/8d/8de0913c031da954e1eabeab2c555428-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-21,10,276-->
 
 >[!question]+ Word
 >- high seriousness (as in a person's bearing or in the treatment of a subject)
@@ -225,7 +226,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/01/01c81308522327b0b7ecdeb6bdc7bf9c-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Many different teams competed in the championship.
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-19,8,276-->
 
 >[!question]+ Word
 >- wildly extravagant
@@ -277,7 +278,7 @@
 >>[!Example]+ Examples
 >>- The team works quickly and efficiently.
 >>- The company implemented the changes quickly and efficiently.
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-19,8,276-->
 
 >[!question]+ Word
 >- to become intense or more intensive : grow stronger or more acute
@@ -297,7 +298,7 @@
 >>[!Example]+ Examples
 >>- We intensified our efforts to solve the urgent problem.
 >>- She intensified her efforts to exercise regularly.
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-20,9,276-->
 
 >[!question]+ Word
 >- moral depravity or corruption : wickedness
@@ -315,7 +316,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/03/03f753c08ba5ff2bd7d2ee230b4683b1-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Smoking can be a vice.
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-21,10,276-->
 
 >[!question]+ Word
 >- the act of violating : the state of being violated: such as
@@ -334,7 +335,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/31/3145c2ef4c310129fb265093244c9c1a-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Slavery is a violation of human rights.
-<!--SR:!2025-05-11,3,256-->
+<!--SR:!2025-05-20,9,276-->
 
 >[!question]+ Word
 >- to show clearly
@@ -358,7 +359,7 @@
 >>- I demonstrated that my initial assumption was correct.
 >>- The salesperson demonstrated the correct use of the chainsaw.
 >>- The salesman demonstrated the correct use of the product.
-<!--SR:!2025-05-11,3,263-->
+<!--SR:!2025-05-19,8,283-->
 
 >[!question]+ Word
 >- to make use of : turn to practical use or account
@@ -377,7 +378,7 @@
 >>[!Example]+ Examples
 >>- We utilize the information for the drafting of the report.
 >>- They utilize solar power to heat their house.
-<!--SR:!2025-05-11,3,263-->
+<!--SR:!2025-05-20,9,283-->
 
 >[!question]+ Word
 >- of, relating to, or constituting the degree of comparison in a language that denotes increase in the quality, quantity, or relation expressed by an adjective or adverb
@@ -396,7 +397,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/72/723a99d8c2d2a7654113ca57c2df7123-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The professor conducts comparative research.
-<!--SR:!2025-05-11,3,263-->
+<!--SR:!2025-05-21,10,283-->
 
 >[!question]+ Word
 >- capable of being done or carried out
@@ -418,7 +419,7 @@
 >>- This is a good idea, but it's not feasible in practice.
 >>- We must find a solution that is really feasible.
 >>- The plan was well thought out and feasible.
-<!--SR:!2025-05-11,3,263-->
+<!--SR:!2025-05-21,10,283-->
 
 >[!question]+ Word
 >- to detect with the eyes
@@ -609,6 +610,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/a0/a0f848942ce863cf53c0fa6cc684007d-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The setup of the computer program did not take long.
+<!--SR:!2025-05-14,3,270-->
 
 >[!question]+ Word
 >- to bring (as by argument) to belief, consent, or a course of action : persuade
@@ -760,6 +762,7 @@
 >>- This course will introduce you to the different types of boats.
 >>- The first settlers introduced European diseases to America.
 >>- The speaker introduced the winner.
+<!--SR:!2025-05-14,3,270-->
 
 >[!question]+ Word
 >- to combine or produce by synthesis
