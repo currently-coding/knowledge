@@ -63,7 +63,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e4/e4166a3b07bbaee78e078661103a9d0a-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- I will exemplify my point with a story.
-<!--SR:!2025-05-12,3,277-->
+<!--SR:!2025-05-20,8,277-->
 
 >[!question]+ Word
 >
@@ -87,6 +87,7 @@
 >>- The house retains most of its original features.
 >>- The company retained the employee's salary.
 >>- The soil retains water for a certain period of time.
+<!--SR:!2025-05-15,3,282-->
 
 >[!question]+ Word
 >- the act or process of conquering
@@ -261,7 +262,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e7/e794f072286cdb9e7c003b5f91116a69-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Brevity is a typical feature of technical texts.
-<!--SR:!2025-05-12,3,236-->
+<!--SR:!2025-05-19,7,256-->
 
 >[!question]+ Word
 >- in an efficient manner : with success, competence, or adequate effect
@@ -461,6 +462,7 @@
 >>- Product designers anticipate the needs of the customers.
 >>- You cannot anticipate every possible reaction to an act.
 >>- I anticipated my mother's reaction.
+<!--SR:!2025-05-15,3,282-->
 
 >[!question]+ Word
 >- something suggested by a word or thing : implication
@@ -499,6 +501,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/08/08290ab350f041d54b1da164022ed268-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- I refute these false allegations.
+<!--SR:!2025-05-15,3,282-->
 
 >[!question]+ Word
 >- to place emphasis on : stress
@@ -517,6 +520,7 @@
 >>[!Example]+ Examples
 >>- He emphasized the importance of donations.
 >>- The professor emphasized the importance of recycling.
+<!--SR:!2025-05-15,3,282-->
 
 
 >[!question]+ Word
@@ -537,22 +541,7 @@
 >>[!Example]+ Examples
 >>- I like to eat exotic fruits, such as papayas and mangos.
 >>- The unexplored jungle had an exotic beauty.
-
->[!question]+ Word
->- a regularly recurring phrase or verse especially at the end of each stanza or division of a poem or song : chorus; also : the musical setting of a refrain
->- a comment or statement that is often repeated
->
->>[!tip]- Translations
->>- Refrain
->>- Kehrreim
-?
->[!vocab]+ refrain(noun)
->**Translations**: Refrain, Kehrreim
->**Pronunciation**: /ɹɪˈfɹeɪn/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/6b/6b426ddb4f48b444084a66258627fde1-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/6b/6b426ddb4f48b444084a66258627fde1-100.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- The choir sings a refrain after every strophe.
+<!--SR:!2025-05-15,3,262-->
 
 >[!question]+ Word
 >- to call forth (a feeling, an action, etc.) : evoke
@@ -593,6 +582,7 @@
 >>[!Example]+ Examples
 >>- We augmented the range of products with some new options.
 >>- She augmented her savings with prudent investments.
+<!--SR:!2025-05-15,3,282-->
 
 >[!question]+ Word
 >- carriage of the body; especially : erect and soldierly bearing
@@ -629,6 +619,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d9/d966a024a058e078e0b04ad6af5fd844-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- He convinced the fighters not to strike.
+<!--SR:!2025-05-15,3,282-->
 
 >[!question]+ Word
 >- to submit (something, such as a document) to a court or officer in course of proceedings; also : to present or offer officially or in legal form
@@ -650,6 +641,7 @@
 >>- The man exhibited several signs of old age.
 >>- The patient exhibited signs of improvement after the treatment.
 >>- She decided to exhibit her paintings in a local museum.
+<!--SR:!2025-05-15,3,296-->
 
 >[!question]+ Word
 >- a connecting structure: such as
@@ -673,6 +665,7 @@
 >>- I deleted the link to the file on my website.
 >>- The link opens in a new tab.
 >>- The link to this file was deleted.
+<!--SR:!2025-05-15,3,282-->
 
 >[!question]+ Word
 >- a conclusion derived through logic : inference
@@ -692,6 +685,7 @@
 >>[!Example]+ Examples
 >>- Effectively, the mistake did not have any consequences.
 >>- A volcanic eruption would have dire consequences.
+<!--SR:!2025-05-15,3,282-->
 
 >[!question]+ Word
 >- to exert pressure especially on opposite sides of : compress
@@ -714,6 +708,7 @@
 >>- I am squeezing all my clothes into a tiny suitcase.
 >>- She squeezed some oranges to make juice.
 >>- I am squeezing an orange to get fresh juice.
+<!--SR:!2025-05-15,3,282-->
 
 >[!question]+ Word
 >- to take, receive, or obtain especially from a specified source
@@ -733,6 +728,7 @@
 >>[!Example]+ Examples
 >>- The correct answer can be derived from the data.
 >>- She derives her inner strength from meditation.
+<!--SR:!2025-05-15,3,282-->
 
 >[!question]+ Word
 >- to lead to or make known by a formal act, announcement, or recommendation: such as
@@ -780,6 +776,7 @@
 >**Pronunciation**: /ˈsɪnθəsaɪz/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d6/d6284de87997d101a0cee91cc449ff46-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d6/d6284de87997d101a0cee91cc449ff46-200.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-15,3,282-->
 
 >[!question]+ Word
 >- relating to, occupied with, or fond of feasting, drinking, and good company
@@ -794,4 +791,655 @@
 >**Pronunciation**: /kənˈvɪv.i.əl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/44/44219e0dc662875e7a8885fb960c943d-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/44/44219e0dc662875e7a8885fb960c943d-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-15,3,282-->
+
+>[!question]+ Word
+>- conformity with truth or fact : accuracy
+>- devotion to the truth : truthfulness
+>- power of conveying or perceiving truth
+>
+>>[!tip]- Translations
+>>- Richtigkeit
+>>- Wahrhaftigkeit
+>>- Wahrheitsgehalt
+?
+>[!vocab]+ veracity(noun)
+>**Translations**: Richtigkeit, Wahrhaftigkeit, Wahrheitsgehalt
+>**Pronunciation**: /vəˈɹæ.sɪ.ti/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/23/2383576a9ae22802531a0634f2c46952-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/23/2383576a9ae22802531a0634f2c46952-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The expert was able to confirm the veracity of the information.
+<!--SR:!2025-05-15,3,295-->
+
+>[!question]+ Word
+>- in a precise manner : exactly —often used to emphasize the precision of something (such as a measurement, time, description, etc.)
+>- quite so —used to confirm emphatically that what has been said or suggested is exactly correct
+>
+>>[!tip]- Translations
+>>- genau
+>>- gerade
+>>- präzise
+?
+>[!vocab]+ precisely(adverb)
+>**Translations**: genau, gerade, präzise
+>**Pronunciation**: /pɹɪˈsaɪsli/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f8/f8d5619dce76ee38cf24c4da2cec84ca-400.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f8/f8d5619dce76ee38cf24c4da2cec84ca-400.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- She solved the problem precisely as the teacher expected.
+>>- I can set the scaling of the machine precisely.
+<!--SR:!2025-05-15,3,290-->
+
+>[!question]+ Word
+>- one that occupies a particular place regularly, routinely, or for a period of time
+>
+>>[!tip]- Translations
+>>- Einwohner
+>>- Bewohner
+>>- Bewohnerin
+?
+>[!vocab]+ inhabitant(noun)
+>**Translations**: Einwohner, Bewohner, Bewohnerin
+>**Pronunciation**: /ɪnˈhæ.bɪ.tənt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/e9/e95b0ee0ac5e1c1590e83a480cad2e5b-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e9/e95b0ee0ac5e1c1590e83a480cad2e5b-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- This little town has only very few inhabitants.
+>>- Berlin has fewer inhabitants than Cairo.
+<!--SR:!2025-05-15,3,290-->
+
+>[!question]+ Word
+>- to make invalid; especially : to weaken or destroy the cogency of
+>
+>>[!tip]- Translations
+>>- entkräften
+>>- annullieren
+>>- ungültig machen
+?
+>[!vocab]+ to invalidate(verb)
+>**Translations**: entkräften, annullieren, ungültig machen
+>**Forms**: invalidated, invalidated
+>**Pronunciation**: /ˌɪnˈvæl.ɪ.deɪt/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/c9/c9ef7a446d9608ed2229ef347d13af7e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/c9/c9ef7a446d9608ed2229ef347d13af7e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The facts I presented invalidated her argument.
+>>- The new certificate will invalidate the old one.
+<!--SR:!2025-05-15,3,290-->
+
+>[!question]+ Word
+>- the use of reason; especially : the drawing of inferences or conclusions through the use of reason
+>- an instance of the use of reason : argument
+>
+>>[!tip]- Translations
+>>- Argumentation
+>>- logisches Denken
+>>- Logik
+?
+>[!vocab]+ reasoning(noun)
+>**Translations**: Argumentation, logisches Denken, Logik
+>**Pronunciation**: /ˈɹiːzənɪŋ/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/4d/4db0062a5ec022e76d5f853ebfba540a-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/4d/4db0062a5ec022e76d5f853ebfba540a-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- Your reasoning convinces me.
+<!--SR:!2025-05-15,3,290-->
+
+>[!question]+ Word
+>- existing or coming about seemingly at random or by chance or as a capricious and unreasonable act of will
+>- based on or determined by individual preference or convenience rather than by necessity or the intrinsic nature of something
+>- not restrained or limited in the exercise of power : ruling by absolute authority
+>
+>>[!tip]- Translations
+>>- willkürlich
+>>- beliebig
+>>- eigenmächtig
+?
+>[!vocab]+ arbitrary(adjective)
+>**Translations**: willkürlich, beliebig, eigenmächtig
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/4d/4d268fe1f1f6bbc13d29c30d9c15f5b9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/4d/4d268fe1f1f6bbc13d29c30d9c15f5b9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- You can complete the tasks in arbitrary order.
+>>- Arbitrary changes to the process are not allowed.
+>>- The boss gave arbitrary orders that changed daily.
+<!--SR:!2025-05-15,3,290-->
+
+>[!question]+ Word
+>- responsive to sensory stimuli : discerning
+>- capable of or exhibiting keen perception : observant
+>- characterized by sympathetic understanding or insight
+>
+>>[!tip]- Translations
+>>- perzeptiv
+>>- wahrnehmend
+>>- einfühlsam
+?
+>[!vocab]+ perceptive(adjective)
+>**Translations**: perzeptiv, wahrnehmend, einfühlsam
+>**Pronunciation**: /pəˈsɛptɪv/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-15,3,290-->
+
+>[!question]+ Word
+>- to forbid by authority : enjoin
+>- to prevent from doing something
+>- preclude
+>
+>>[!tip]- Translations
+>>- untersagen
+>>- verbieten
+>>- verhindern
+?
+>[!vocab]+ to prohibit(verb)
+>**Translations**: untersagen, verbieten, verhindern
+>**Forms**: prohibited, prohibited
+>**Pronunciation**: /pɹəʊˈhɪbɪt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The company prohibits smoking in the entire building.
+<!--SR:!2025-05-15,3,290-->
+
+>[!question]+ Word
+>- sympathetic sorrow for one suffering, distressed, or unhappy
+>- capacity to feel pity
+>- something to be regretted
+>
+>>[!tip]- Translations
+>>- Mitleid
+>>- Erbarmen
+?
+>[!vocab]+ pity(noun)
+>**Translations**: Mitleid, Erbarmen
+>**Pronunciation**: /ˈpɪti/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/0a/0a2db9b7b0296859aee1b8b9237d1a9b-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/0a/0a2db9b7b0296859aee1b8b9237d1a9b-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- I feel pity when I see other people suffer.
+<!--SR:!2025-05-15,3,290-->
+
+>[!question]+ Word
+>- of, relating to, or involving quality or kind
+>
+>>[!tip]- Translations
+>>- qualitativ
+?
+>[!vocab]+ qualitative(adjective)
+>**Translations**: qualitativ
+>**Pronunciation**: /ˈkwɒl.ɪ.tə.tɪv/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/78/78b055818452c4703aac38db0dba2e4f-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/78/78b055818452c4703aac38db0dba2e4f-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- Further training for the workers led to qualitative improvements.
+<!--SR:!2025-05-15,3,299-->
+
+>[!question]+ Word
+>- include, comprehend
+>- envelop
+>- to form a circle about : enclose
+>
+>>[!tip]- Translations
+>>- umfassen
+>>- beinhalten
+>>- umschließen
+?
+>[!vocab]+ to encompass(verb)
+>**Translations**: umfassen, beinhalten, umschließen
+>**Forms**: encompassed, encompassed
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/97/974f1d891607e2b24585cf866cc2d3e4-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/97/974f1d891607e2b24585cf866cc2d3e4-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The vast desert encompasses parts of several countries.
+>>- The syllabus encompasses theoretical and practical texts.
+>>- The area encompasses a large nature park.
+<!--SR:!2025-05-15,3,297-->
+
+>[!question]+ Word
+>- according to report
+>
+>>[!tip]- Translations
+>>- Berichten zufolge
+>>- angeblich
+>>- wie verlautet
+?
+>[!vocab]+ reportedly(adverb)
+>**Translations**: Berichten zufolge, angeblich, wie verlautet
+>**Pronunciation**: /ɹɪˈpɔːtɪdli/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/4a/4a6c4866376c2a50fc06b22f2886772a-400.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/4a/4a6c4866376c2a50fc06b22f2886772a-400.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- Reportedly, the storm did not cause any damages.
+<!--SR:!2025-05-15,3,304-->
+
+>[!question]+ Word
+>- using few words : devoid of superfluity; also : short, brusque
+>- smoothly elegant : polished
+>
+>>[!tip]- Translations
+>>- knapp
+>>- lapidar
+>>- prägnant
+?
+>[!vocab]+ terse(adjective)
+>**Translations**: knapp, lapidar, prägnant
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/2c/2c1fd6e09f7ba9cf642bdeb20b1b9b64-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/2c/2c1fd6e09f7ba9cf642bdeb20b1b9b64-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- His answer was brief and terse.
+<!--SR:!2025-05-15,3,304-->
+
+>[!question]+ Word
+>- said or done as a joke : characterized by jesting : playful
+>- given to jesting : habitually jolly or jocund
+>
+>>[!tip]- Translations
+>>- scherzhaft
+>>- lustig
+>>- spaßig
+?
+>[!vocab]+ jocular(adjective)
+>**Translations**: scherzhaft, lustig, spaßig
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-15,3,299-->
+
+>[!question]+ Word
+>- to spur on : impel, motivate
+>- to exert an animating, enlivening, or exalting influence on
+>- affect
+>
+>>[!tip]- Translations
+>>- inspirieren
+>>- begeistern
+>>- anregen
+?
+>[!vocab]+ to inspire(verb)
+>**Translations**: inspirieren, begeistern, anregen
+>**Forms**: inspired, inspired
+>**Pronunciation**: /ɪn.ˈspaɪə(ɹ)/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/6d/6dca4fe9cc3dfa1e593e1a60462b55c4-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/6d/6dca4fe9cc3dfa1e593e1a60462b55c4-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- Classical music inspires me.
+>>- He had the ability to inspire people.
+>>- He had the ability to inspire people.
+<!--SR:!2025-05-15,3,297-->
+
+>[!question]+ Word
+>- to subvert or weaken insidiously or secretly
+>- to weaken or ruin by degrees
+>- to wash away supporting material from under
+>
+>>[!tip]- Translations
+>>- untergraben
+>>- beeinträchtigen
+>>- gefährden
+?
+>[!vocab]+ to undermine(verb)
+>**Translations**: untergraben, beeinträchtigen, gefährden
+>**Forms**: undermined, undermined
+>**Pronunciation**: /ʌndəˈmaɪn/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/8d/8d5d9bb86a9770524cbace05ffac8644-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/8d/8d5d9bb86a9770524cbace05ffac8644-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The pupil has undermined the teacher's authority.
+>>- The student has undermined the teacher's authority.
+>>- Frequent lying undermines any trust.
+<!--SR:!2025-05-15,3,297-->
+
+>[!question]+ Word
+>- a judgment involving condemnation
+>- the act of blaming or condemning sternly
+>- an official reprimand
+>
+>>[!tip]- Translations
+>>- Kritik
+>>- Verweis
+>>- Tadel
+?
+>[!vocab]+ censure(noun)
+>**Translations**: Kritik, Verweis, Tadel
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ac/ac70ee11b6753a3c70ae2fb5df05ffd8-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ac/ac70ee11b6753a3c70ae2fb5df05ffd8-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The politician accepted the public censure and resigned.
+<!--SR:!2025-05-15,3,297-->
+
+>[!question]+ Word
+>- the authority of a master : dominion
+>- the upper hand in a contest or competition : superiority, ascendancy
+>- possession or display of great skill or technique
+>
+>>[!tip]- Translations
+>>- Beherrschung
+>>- Können
+>>- Bewältigung
+?
+>[!vocab]+ mastery(noun)
+>**Translations**: Beherrschung, Können, Bewältigung
+>**Pronunciation**: /ˈmɑːst(ə)ɹi/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/39/394230d123ce5f3ad5f8619d3afbf397-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/39/394230d123ce5f3ad5f8619d3afbf397-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The job requires mastery of two languages.
+>>- Our company's mastery of the crisis was impressive.
+<!--SR:!2025-05-15,3,299-->
+
+>[!question]+ Word
+>- an attendant spirit of a person or place
+>- a person who influences another for good or bad
+>- a strong leaning or inclination : penchant
+>
+>>[!tip]- Translations
+>>- Genius
+>>- Genie
+>>- Genialität
+?
+>[!vocab]+ genius(noun)
+>**Translations**: Genius, Genie, Genialität
+>**Pronunciation**: /ˈdʒiː.nɪəs/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/59/5912d7bfd10f631f1715bf85bbb72d97-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/59/5912d7bfd10f631f1715bf85bbb72d97-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- He may not be a genius, but he is not a simpleton!
+>>- His intelligence is truly extraordinary, he is a genius.
+<!--SR:!2025-05-15,3,299-->
+
+>[!question]+ Word
+>- the manner in which technical details are treated (as by a writer) or basic physical movements are used (as by a dancer); also : ability to treat such details or use such movements
+>- a body of technical methods (as in a craft or in scientific research)
+>- a method of accomplishing a desired aim
+>
+>>[!tip]- Translations
+>>- Technik
+>>- Verfahren
+>>- Vorgehensweise
+?
+>[!vocab]+ technique(noun)
+>**Translations**: Technik, Verfahren, Vorgehensweise
+>**Pronunciation**: /tɛkˈniːk/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/00/0098876123c5a4d75b205c3b727b8af1-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/00/0098876123c5a4d75b205c3b727b8af1-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- My karate is improving, but I still need to work on my technique.
+>>- He uses the technique of montage to connect ideas in his novels.
+>>- The new technique speeded up the process.
+>>- This technique is considered standard in the industry.
+<!--SR:!2025-05-15,3,299-->
+
+>[!question]+ Word
+>- to fix conclusively or authoritatively
+>- to decide by judicial sentence
+>- to settle or decide by choice of alternatives or possibilities
+>
+>>[!tip]- Translations
+>>- bestimmen
+>>- festlegen
+>>- entscheiden
+?
+>[!vocab]+ to determine(verb)
+>**Translations**: bestimmen, festlegen, entscheiden
+>**Forms**: determined, determined
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/72/72133c45368dab046c1e108d83d15e52-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/72/72133c45368dab046c1e108d83d15e52-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- It is difficult to determine the cause of the problem.
+>>- The rotor power determines the helicopter's lift.
+>>- In our meeting, we will determine the next steps of the project.
+>>- The examiner determines whether I have passed the driving test.
+>>- The computer system will determine the overall cost of the project.
+>>- The engineer has determined the cause of the system failure.
+>>- At the meeting, we determined what the next project will be.
+>>- Sometimes it is difficult to determine the impact of weather phenomena.
+>>- The detective determined the whereabouts of the suspect.
+<!--SR:!2025-05-15,3,299-->
+
+>[!question]+ Word
+>- a former school of medical practice founded on experience without the aid of science or theory
+>- quackery, charlatanry
+>- the practice of relying on observation and experiment especially in the natural sciences
+>
+>>[!tip]- Translations
+>>- Empirie
+>>- Empirismus
+?
+>[!vocab]+ empiricism(noun)
+>**Translations**: Empirie, Empirismus
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dd/dd2cb9dec42e625265531460e5a46b41-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dd/dd2cb9dec42e625265531460e5a46b41-101.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-15,3,299-->
+
+>[!question]+ Word
+>- to increase the width, scope, or extent of
+>- to become wide or wider
+>
+>>[!tip]- Translations
+>>- erweitern
+>>- verbreitern
+>>- ausweiten
+?
+>[!vocab]+ to widen(verb)
+>**Translations**: erweitern, verbreitern, ausweiten
+>**Forms**: widened, widened
+>**Pronunciation**: /ˈwaɪdən/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/2a/2a72c261ffc65bc084a0aa792acc26b7-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/2a/2a72c261ffc65bc084a0aa792acc26b7-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- A shift in perspective can widen our horizon.
+>>- The city widened the roads to ease the traffic flow.
+>>- The police has widened the search for the suspect.
+>>- The police widened the search area to the entire town.
+>>- The police widened the search for the suspect.
+<!--SR:!2025-05-15,3,304-->
+
+>[!question]+ Word
+>- the principle or practice of submitting to popular vote a measure passed on or proposed by a legislative body or by popular initiative
+>- a vote on a measure so submitted
+>- a diplomatic agent's note asking for government instructions
+>
+>>[!tip]- Translations
+>>- Referendum
+>>- Volksabstimmung
+>>- Volksentscheid
+?
+>[!vocab]+ referendum(noun)
+>**Translations**: Referendum, Volksabstimmung, Volksentscheid
+>**Pronunciation**: /ˌɹɛfəˈɹɛndəm/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/c5/c538ad4cb2671e6072b4677f23136b48-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/c5/c538ad4cb2671e6072b4677f23136b48-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- A referendum was held to reach a decision.
+>>- The government called for a referendum.
+<!--SR:!2025-05-15,3,284-->
+
+
+>[!question]+ Word
+>- one who makes judgments: such as
+>- a public official authorized to decide questions brought before a court
+>- one appointed to decide in a contest or competition : umpire
+>
+>>[!tip]- Translations
+>>- Richter
+>>- Richterin
+>>- Preisrichter
+?
+>[!vocab]+ judge(noun)
+>**Translations**: Richter, Richterin, Preisrichter
+>**Pronunciation**: /d͡ʒʌd͡ʒ/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/15/1562eb3f6d9c5ac7e159c04a96ff4dfe-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/15/1562eb3f6d9c5ac7e159c04a96ff4dfe-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The judge passes sentence at the end of the trial.
+>>- A judge has to try to remain impartial.
+>>- A good judge is impartial and just.
+>>- The judge recommended arbitration.
+>>- The judges have conferred and chosen the winners.
+<!--SR:!2025-05-15,3,299-->
+
+>[!question]+ Word
+>- capable of sensing or feeling : conscious of or responsive to the sensations of seeing, hearing, feeling, tasting, or smelling
+>- aware
+>- finely sensitive in perception or feeling
+>
+>>[!tip]- Translations
+>>- fühlend
+>>- empfindungsfähig
+>>- empfindend
+?
+>[!vocab]+ sentient(adjective)
+>**Translations**: fühlend, empfindungsfähig, empfindend
+>**Pronunciation**: /ˈsɛn.ti.ənt/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/b0/b0703a05cb63df44a625350cd2db4281-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/b0/b0703a05cb63df44a625350cd2db4281-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- Humans are feeling, sentient beings.
+<!--SR:!2025-05-13,1,264-->
+
+>[!question]+ Word
+>- to compel to an act or choice
+>- to achieve by force or threat
+>- to restrain or dominate by force
+>
+>>[!tip]- Translations
+>>- zwingen
+>>- nötigen
+>>- erzwingen
+?
+>[!vocab]+ to coerce(verb)
+>**Translations**: zwingen, nötigen, erzwingen
+>**Forms**: coerced, coerced
+>**Pronunciation**: /kəʊˈɜːs/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/61/615e65e2e8e3ffbc003c70f624779685-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/61/615e65e2e8e3ffbc003c70f624779685-200.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-13,1,265-->
+
+>[!question]+ Word
+>- full of yearning or desire tinged with melancholy; also : inspiring such yearning
+>- musingly sad : pensive
+>
+>>[!tip]- Translations
+>>- wehmütig
+>>- sehnsüchtig
+>>- melancholisch
+?
+>[!vocab]+ wistful(adjective)
+>**Translations**: wehmütig, sehnsüchtig, melancholisch
+>**Pronunciation**: /ˈwɪstfəl/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-13,1,265-->
+
+>[!question]+ Word
+>- a selection from a writing or discourse : excerpt
+>- a product (such as an essence or concentrate) prepared by extracting; especially : a solution (as in alcohol) of essential constituents of a complex material (such as meat or an aromatic plant)
+>
+>>[!tip]- Translations
+>>- Extrakt
+>>- Auszug
+>>- Ausschnitt
+?
+>[!vocab]+ extract(noun)
+>**Translations**: Extrakt, Auszug, Ausschnitt
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/3e/3e40063e25753005ccb971c164035b1a-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/3e/3e40063e25753005ccb971c164035b1a-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The shampoo is made of tropical plant extracts.
+>>- The author read an extract of his new novel.
+>>- The author read an extract from his new novel.
+<!--SR:!2025-05-15,3,285-->
+
+>[!question]+ Word
+>- not to be avoided, changed, or resisted : inevitable
+>
+>>[!tip]- Translations
+>>- unvermeidlich
+>>- unausweichlich
+>>- unhintergehbar
+?
+>[!vocab]+ ineluctable(adjective)
+>**Translations**: unvermeidlich, unausweichlich, unhintergehbar
+>**Pronunciation**: /ɪn.ɪˈlʌk.tə.bəl/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/c1/c114ca6f678e5450ea1ba37aeb77ab15-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/c1/c114ca6f678e5450ea1ba37aeb77ab15-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-13,1,265-->
+>[!question]+ Word
+>- the collection and editing of news for presentation through the media
+>- the public press
+>- an academic study concerned with the collection and editing of news or the management of a news medium
+>
+>>[!tip]- Translations
+>>- Journalismus
+>>- Publizistik
+>>- Journalistik
+?
+>[!vocab]+ journalism(noun)
+>**Translations**: Journalismus, Publizistik, Journalistik
+>**Pronunciation**: /ˈdʒɜːn(ə)lɪzəm/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/54/54aaa5bbe2673af8227f7c2e43aea8f3-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/54/54aaa5bbe2673af8227f7c2e43aea8f3-100.mp3 type="audio/mpeg">Unsupported.</audio>
+
+>[!question]+ Word
+>- fight, battle, war
+>- competitive or opposing action of incompatibles : antagonistic state or action (as of divergent ideas, interests, or persons)
+>- mental struggle resulting from incompatible or opposing needs, drives, wishes, or external or internal demands
+>
+>>[!tip]- Translations
+>>- Konflikt
+>>- Widerspruch
+>>- Auseinandersetzung
+?
+>[!vocab]+ conflict(noun)
+>**Translations**: Konflikt, Widerspruch, Auseinandersetzung
+>**Pronunciation**: /kənˈflɪkt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/98/981f1875779561e79585a2ae43a196fb-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/98/981f1875779561e79585a2ae43a196fb-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- There are commonly conflicts between young siblings.
+>>- Vengeance will only lead to further conflicts.
+<!--SR:!2025-05-15,3,304-->
+
+>[!question]+ Word
+>- the quality or state of being defective or of lacking some necessary quality or element : the quality or state of being deficient : inadequacy
+>- an amount that is lacking or inadequate : shortage : such as
+>- a shortage of substances necessary to health
+>
+>>[!tip]- Translations
+>>- Mangel
+>>- Defizit
+>>- Mangelhaftigkeit
+?
+>[!vocab]+ deficiency(noun)
+>**Translations**: Mangel, Defizit, Mangelhaftigkeit
+>**Pronunciation**: /dɪˈfɪʃənsi/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/5a/5a78b312e9128b44510b1d717f89d6ee-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/5a/5a78b312e9128b44510b1d717f89d6ee-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The review board found no deficiencies in his work.
+>>- The accountant found a deficiency in the company's finances.
+<!--SR:!2025-05-15,3,284-->
+
+>[!question]+ Word
+>- a mental view or prospect
+>- a visible scene; especially : one giving a distinctive impression of distance : vista
+>- the interrelation in which a subject or its parts are mentally viewed; also : point of view
+>
+>>[!tip]- Translations
+>>- Perspektive
+>>- Sicht
+>>- Sichtweise
+?
+>[!vocab]+ perspective(noun)
+>**Translations**: Perspektive, Sicht, Sichtweise
+>**Pronunciation**: /pɚˈspɛktɪv/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/c7/c77848cc02fefd0c360ce733a4affd93-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/c7/c77848cc02fefd0c360ce733a4affd93-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- I need a fresh perspective, a new angle.
+>>- A shift in perspective can widen our horizon.
+>>- From today's perspective, some mistakes could have been avoided.
+>>- Success is often founded on a positive perspective.
+<!--SR:!2025-05-15,3,304-->
 
