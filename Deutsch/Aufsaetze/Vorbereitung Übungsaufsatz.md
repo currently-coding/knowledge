@@ -57,3 +57,11 @@ In seinem Artikel "Leistung muss sich endlich lohnen" aus der Rheinischen Post v
 7. Appell: Leistung eines jeden wertschätzen
 
 ### Auseinandersetzung mit Position: Teilweiser Widerspruch
+#### Erweitern
+1. Pro: Burnout durch Leistungsdruck
+
+
+#### Neu
+1. Leistungsbegriff täuscht Vergleichbarkeit vor wo keine ist
+2. täuscht Objektivität vor
+3. Messbarkeit schafft Gerechtigkeit
