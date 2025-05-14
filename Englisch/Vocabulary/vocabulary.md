@@ -1551,6 +1551,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/82/820a49ff68459d49d0bef13ccf0f623b-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- He had spurious excuses for leaving.
+<!--SR:!2025-05-17,3,306-->
 
 >[!question]+ Word
 >- extravagant exaggeration (such as "mile-high ice-cream cones")
@@ -1583,6 +1584,7 @@
 >>- I downloaded the software from a reputable source.
 >>- The government only works with reputable companies.
 >>- My grandparents wanted my mother to marry a reputable man.
+<!--SR:!2025-05-15,1,266-->
 
 >[!question]+ Word
 >- to occur, fall, or come between points of time or events
@@ -1601,6 +1603,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/47/4752d9c2cf7d8a31f06e2f497a371ee5-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- We cannot intervene in a family matter.
+<!--SR:!2025-05-17,3,306-->
 
 >[!question]+ Word
 >- unity (as of a group or class) that produces or is based on community of interests, objectives, and standards
@@ -1662,26 +1665,6 @@
 >**Pronunciation**: /pɹoʊˈklɪvəti/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
-
->[!question]+ Word
->- to utter a loud cry, scream, or shout
->- to give a cheer usually in unison
->- to utter or declare with or as if with a yell : shout
->
->>[!tip]- Translations
->>- schreien
->>- johlen
->>- kreischen
-?
->[!vocab]+ to yell(verb)
->**Translations**: schreien, johlen, kreischen
->**Forms**: yelled, yelled
->**Pronunciation**: /jɛl/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/4f/4f4e35d1cff402788fee027c112a9d90-200.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/4f/4f4e35d1cff402788fee027c112a9d90-200.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- We had to yell because the music was so loud.
->>- The fans yelled and screamed ecstatically.
 
 >[!question]+ Word
 >- auspicious, favorable
