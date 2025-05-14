@@ -1278,7 +1278,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/b0/b0703a05cb63df44a625350cd2db4281-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Humans are feeling, sentient beings.
-<!--SR:!2025-05-13,1,264-->
+<!--SR:!2025-05-17,3,264-->
 
 >[!question]+ Word
 >- to compel to an act or choice
@@ -1296,7 +1296,7 @@
 >**Pronunciation**: /kəʊˈɜːs/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/61/615e65e2e8e3ffbc003c70f624779685-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/61/615e65e2e8e3ffbc003c70f624779685-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-13,1,265-->
+<!--SR:!2025-05-17,3,285-->
 
 >[!question]+ Word
 >- full of yearning or desire tinged with melancholy; also : inspiring such yearning
@@ -1312,7 +1312,7 @@
 >**Pronunciation**: /ˈwɪstfəl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-13,1,265-->
+<!--SR:!2025-05-15,1,245-->
 
 >[!question]+ Word
 >- a selection from a writing or discourse : excerpt
@@ -1346,24 +1346,7 @@
 >**Pronunciation**: /ɪn.ɪˈlʌk.tə.bəl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/c1/c114ca6f678e5450ea1ba37aeb77ab15-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/c1/c114ca6f678e5450ea1ba37aeb77ab15-300.mp3 type="audio/mpeg">Unsupported.</audio>
-
-
->[!question]+ Word
->- the collection and editing of news for presentation through the media
->- the public press
->- an academic study concerned with the collection and editing of news or the management of a news medium
->
->>[!tip]- Translations
->>- Journalismus
->>- Publizistik
->>- Journalistik
-?
->[!vocab]+ journalism(noun)
->**Translations**: Journalismus, Publizistik, Journalistik
->**Pronunciation**: /ˈdʒɜːn(ə)lɪzəm/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/54/54aaa5bbe2673af8227f7c2e43aea8f3-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/54/54aaa5bbe2673af8227f7c2e43aea8f3-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-13,1,265-->
+<!--SR:!2025-05-17,3,286-->
 
 >[!question]+ Word
 >- fight, battle, war
@@ -1426,4 +1409,338 @@
 >>- From today's perspective, some mistakes could have been avoided.
 >>- Success is often founded on a positive perspective.
 <!--SR:!2025-05-15,3,304-->
+
+>[!question]+ Word
+>- to cause to be set aside
+>- to force out of use as inferior
+>- to take the place or position of
+>
+>>[!tip]- Translations
+>>- ersetzen
+>>- ablösen
+>>- überflüssig machen
+?
+>[!vocab]+ to supersede(verb)
+>**Translations**: ersetzen, ablösen, überflüssig machen
+>**Forms**: superseded, superseded
+>**Pronunciation**: /ˌsuːpəˈsiːd/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/73/73bb54702968f5c7d86137030aab11ac-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/73/73bb54702968f5c7d86137030aab11ac-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The new guidelines supersede the old ones.
+>>- The former manager was superseded by a colleague.
+>>- The computer has superseded the typewriter.
+
+>[!question]+ Word
+>- a court or forum of justice
+>- something that decides or determines
+>- tribune
+>
+>>[!tip]- Translations
+>>- Gericht
+>>- Gerichtshof
+>>- Strafgerichtshof
+?
+>[!vocab]+ tribunal(noun)
+>**Translations**: Gericht, Gerichtshof, Strafgerichtshof
+>**Pronunciation**: /tɹaɪˈbjuːnəl/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/0f/0f699dfaebaccc1f11a3f84ed452a30c-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/0f/0f699dfaebaccc1f11a3f84ed452a30c-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- An international tribunal was set up to prosecute war crimes.
+
+>[!question]+ Word
+>- of, relating to, or characterized by philanthropy : humanitarian
+>- dispensing or receiving aid from funds set aside for humanitarian purposes
+>
+>>[!tip]- Translations
+>>- philanthropisch
+>>- menschenfreundlich
+?
+>[!vocab]+ philanthropic(adjective)
+>**Translations**: philanthropisch, menschenfreundlich
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ca/ca697c24ab96f93801554d9994636f92-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ca/ca697c24ab96f93801554d9994636f92-300.mp3 type="audio/mpeg">Unsupported.</audio>
+
+>[!question]+ Word
+>- the act or fact of dwelling in a place for some time
+>- the act or fact of living or regularly staying at or in some place for the discharge of a duty or the enjoyment of a benefit
+>- the place where one actually lives as distinguished from one's domicile or a place of temporary sojourn
+>
+>>[!tip]- Translations
+>>- Wohnsitz
+>>- Aufenthalt
+>>- Wohnort
+?
+>[!vocab]+ residence(noun)
+>**Translations**: Wohnsitz, Aufenthalt, Wohnort
+>**Pronunciation**: /ˈɹɛz.ɪ.dəns/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ca/cad4811efcdb1000aae7a6841d995713-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ca/cad4811efcdb1000aae7a6841d995713-100.mp3 type="audio/mpeg">Unsupported.</audio>
+
+>[!question]+ Word
+>- a small usually metal object bearing a religious emblem or picture
+>- a piece of metal often resembling a coin and having a stamped design that is issued to commemorate a person or event or awarded for excellence or achievement
+>
+>>[!tip]- Translations
+>>- Medaille
+>>- Orden
+>>- Ehrenzeichen
+?
+>[!vocab]+ medal(noun)
+>**Translations**: Medaille, Orden, Ehrenzeichen
+>**Pronunciation**: [ˈmeɾ.ɫ̩]
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/35/3522cfa43d8651bd28165e7aa79dee56-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/35/3522cfa43d8651bd28165e7aa79dee56-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The medal was an incentive for him to improve his performance even more.
+>>- He was awarded a medal for his bravery.
+
+>[!question]+ Word
+>- to see (something, such as a development) beforehand
+>
+>>[!tip]- Translations
+>>- vorhersehen
+>>- voraussehen
+>>- absehen
+?
+>[!vocab]+ to foresee(verb)
+>**Translations**: vorhersehen, voraussehen, absehen
+>**Forms**: foresaw, foreseen
+>**Pronunciation**: /fɔːˈsiː/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/3d/3daf8260f5eda7317e514862f5ad11de-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/3d/3daf8260f5eda7317e514862f5ad11de-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- We cannot foresee the future.
+>>- Nobody can foresee market developments with certainty.
+>>- We cannot foresee the results of our experiment.
+
+>[!question]+ Word
+>- of little weight or importance
+>- having no sound basis (as in fact or law)
+>- lacking in seriousness
+>
+>>[!tip]- Translations
+>>- frivol
+>>- leichtfertig
+>>- unseriös
+?
+>[!vocab]+ frivolous(adjective)
+>**Translations**: frivol, leichtfertig, unseriös
+>**Pronunciation**: /ˈfɹɪv.əl.əs/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d4/d4219b9a667d87bdc21643e492675c18-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d4/d4219b9a667d87bdc21643e492675c18-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- Frivolous words can hurt other people's feelings.
+<!--SR:!2025-05-15,1,266-->
+
+>[!question]+ Word
+>- born to parents not married to each other
+>- outwardly similar or corresponding to something without having its genuine qualities : false
+>- of falsified or erroneously attributed origin : forged
+>
+>>[!tip]- Translations
+>>- falsch
+>>- fadenscheinig
+>>- unecht
+?
+>[!vocab]+ spurious(adjective)
+>**Translations**: falsch, fadenscheinig, unecht
+>**Pronunciation**: /ˈspjʊə.ɹi.əs/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/82/820a49ff68459d49d0bef13ccf0f623b-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/82/820a49ff68459d49d0bef13ccf0f623b-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- He had spurious excuses for leaving.
+
+>[!question]+ Word
+>- extravagant exaggeration (such as "mile-high ice-cream cones")
+>
+>>[!tip]- Translations
+>>- Übertreibung
+>>- Hyperbel
+?
+>[!vocab]+ hyperbole(noun)
+>**Translations**: Übertreibung, Hyperbel
+>**Pronunciation**: /haɪˈpɝːbəli/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/07/0749670dfa3d847f9154f9df7006758c-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/07/0749670dfa3d847f9154f9df7006758c-100.mp3 type="audio/mpeg">Unsupported.</audio>
+
+>[!question]+ Word
+>- enjoying good repute : held in esteem
+>- employed widely or sanctioned by good writers
+>
+>>[!tip]- Translations
+>>- namhaft
+>>- seriös
+>>- anständig
+?
+>[!vocab]+ reputable(adjective)
+>**Translations**: namhaft, seriös, anständig
+>**Pronunciation**: /ˈɹɛpjʊtəbəl/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/17/175eb4b69d4ff04e56f81927059a636f-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/17/175eb4b69d4ff04e56f81927059a636f-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- I downloaded the software from a reputable source.
+>>- The government only works with reputable companies.
+>>- My grandparents wanted my mother to marry a reputable man.
+
+>[!question]+ Word
+>- to occur, fall, or come between points of time or events
+>- to interfere with the outcome or course especially of a condition or process (as to prevent harm or improve functioning)
+>- to come in or between by way of hindrance or modification
+>
+>>[!tip]- Translations
+>>- eingreifen
+>>- intervenieren
+>>- sich einmischen
+?
+>[!vocab]+ to intervene(verb)
+>**Translations**: eingreifen, intervenieren, sich einmischen
+>**Forms**: intervened, intervened
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/47/4752d9c2cf7d8a31f06e2f497a371ee5-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/47/4752d9c2cf7d8a31f06e2f497a371ee5-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- We cannot intervene in a family matter.
+
+>[!question]+ Word
+>- unity (as of a group or class) that produces or is based on community of interests, objectives, and standards
+>
+>>[!tip]- Translations
+>>- Solidarität
+>>- Zusammenhalt
+>>- Geschlossenheit
+?
+>[!vocab]+ solidarity(noun)
+>**Translations**: Solidarität, Zusammenhalt, Geschlossenheit
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f9/f90f1f0b1cd5511b67e10f75b83c36cd-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f9/f90f1f0b1cd5511b67e10f75b83c36cd-100.mp3 type="audio/mpeg">Unsupported.</audio>
+
+>[!question]+ Word
+>- one that is of equal standing with another : equal; especially : one belonging to the same societal group especially based on age, grade, or status
+>- a member of one of the five ranks (duke, marquess, earl, viscount, or baron) of the British peerage
+>- noble
+>
+>>[!tip]- Translations
+>>- Peer
+>>- Gleichrangige
+>>- Ebenbürtige
+?
+>[!vocab]+ peer(noun)
+>**Translations**: Peer, Gleichrangige, Ebenbürtige
+>**Pronunciation**: /piː.ə/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f8/f8fe68b4c4cba197efa9c8bbd45f144e-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f8/f8fe68b4c4cba197efa9c8bbd45f144e-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- A peer is a member of the House of Lords.
+>>- I earn as much as my peers in the company.
+
+>[!question]+ Word
+>- keenness and depth of perception, discernment, or discrimination especially in practical matters
+>
+>>[!tip]- Translations
+>>- Scharfsinn
+>>- Geschick
+>>- Verstand
+?
+>[!vocab]+ acumen(noun)
+>**Translations**: Scharfsinn, Geschick, Verstand
+>**Pronunciation**: /əˈkjuːmən/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/40/4050b64e0375e0ab881313b4059e6344-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/40/4050b64e0375e0ab881313b4059e6344-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- She is brilliant, her acumen is legendary.
+
+>[!question]+ Word
+>- an inclination or predisposition toward something; especially : a strong inherent inclination toward something objectionable
+>
+>>[!tip]- Translations
+>>- Neigung
+>>- Tendenz
+?
+>[!vocab]+ proclivity(noun)
+>**Translations**: Neigung, Tendenz
+>**Pronunciation**: /pɹoʊˈklɪvəti/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
+
+>[!question]+ Word
+>- to utter a loud cry, scream, or shout
+>- to give a cheer usually in unison
+>- to utter or declare with or as if with a yell : shout
+>
+>>[!tip]- Translations
+>>- schreien
+>>- johlen
+>>- kreischen
+?
+>[!vocab]+ to yell(verb)
+>**Translations**: schreien, johlen, kreischen
+>**Forms**: yelled, yelled
+>**Pronunciation**: /jɛl/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/4f/4f4e35d1cff402788fee027c112a9d90-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/4f/4f4e35d1cff402788fee027c112a9d90-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- We had to yell because the music was so loud.
+>>- The fans yelled and screamed ecstatically.
+
+>[!question]+ Word
+>- auspicious, favorable
+>- marked by success or economic well-being
+>- enjoying vigorous and healthy growth : flourishing
+>
+>>[!tip]- Translations
+>>- wohlhabend
+>>- erfolgreich
+>>- glücklich
+?
+>[!vocab]+ prosperous(adjective)
+>**Translations**: wohlhabend, erfolgreich, glücklich
+>**Pronunciation**: /ˈpɹɒs.p(ə.)ɹəs/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/c2/c23f474786082f8a7b11b7b82bd282c4-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/c2/c23f474786082f8a7b11b7b82bd282c4-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The family is prosperous, they do not need to worry about money.
+>>- She is a prosperous businesswoman and a millionaire.
+
+>[!question]+ Word
+>- to provide with a motive : impel
+>
+>>[!tip]- Translations
+>>- motivieren
+>>- bewegen
+>>- anspornen
+?
+>[!vocab]+ to motivate(verb)
+>**Translations**: motivieren, bewegen, anspornen
+>**Forms**: motivated, motivated
+>**Pronunciation**: /ˈməʊtɪveɪt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d0/d0d8f9772e12ee3896f3d738c6419cd6-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d0/d0d8f9772e12ee3896f3d738c6419cd6-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- We are trying to motivate our employees to top performance.
+>>- Great leaders motivate their collaborators.
+
+>[!question]+ Word
+>- the act or fact of being raised in position or rank : preferment
+>- the act of furthering the growth or development of something; especially : the furtherance of the acceptance and sale of merchandise through advertising, publicity, or discounting
+>
+>>[!tip]- Translations
+>>- Förderung
+>>- Beförderung
+>>- Werbung
+?
+>[!vocab]+ promotion(noun)
+>**Translations**: Förderung, Beförderung, Werbung
+>**Pronunciation**: /pɹəˈməʊʃən/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f8/f8dcad058c9c44fdb6ffcb22d2d4c31f-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f8/f8dcad058c9c44fdb6ffcb22d2d4c31f-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The promotion of equality is a political challenge.
+>>- This is a project for the promotion of young artists.
+>>- I am working hard in order to get a promotion.
+>>- His promotion was finally approved.
+>>- The promotion on the internet led to increased sales.
+>>- My promotion was a result of hard work.
+>>- I got one product for free because of a promotion.
+>>- We launched a promotion to increase our sales.
 
