@@ -483,7 +483,7 @@
 >>- Words can have different connotations.
 >>- The word she used had a positive connotation.
 >>- The connotation encompasses the different meanings of a word.
-<!--SR:!2025-05-13,3,268-->
+<!--SR:!2025-05-24,10,288-->
 
 >[!question]+ Word
 >- to prove wrong by argument or evidence : show to be false or erroneous
@@ -583,24 +583,6 @@
 >>- We augmented the range of products with some new options.
 >>- She augmented her savings with prudent investments.
 <!--SR:!2025-05-15,3,282-->
-
->[!question]+ Word
->- carriage of the body; especially : erect and soldierly bearing
->- constitution, makeup
->- the assembly and arrangement of the tools and apparatus required for the performance of an operation
->
->>[!tip]- Translations
->>- Aufbau
->>- Einrichtung
->>- Einrichten
-?
->[!vocab]+ setup(noun)
->**Translations**: Aufbau, Einrichtung, Einrichten
->**Pronunciation**: /ˈsɛtˌʌp/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/a0/a0f848942ce863cf53c0fa6cc684007d-100.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- The setup of the computer program did not take long.
-<!--SR:!2025-05-14,3,270-->
 
 >[!question]+ Word
 >- to bring (as by argument) to belief, consent, or a course of action : persuade
