@@ -439,7 +439,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/62/620099028f603c1f9352fce5801c2e58-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- She can easily discern his face in the crowd.
-<!--SR:!2025-05-13,3,268-->
+<!--SR:!2025-05-25,11,288-->
 
 >[!question]+ Word
 >- to give advance thought, discussion, or treatment to
@@ -562,7 +562,7 @@
 >>[!Example]+ Examples
 >>- The scandal provoked public anger.
 >>- The politician's statement provoked public criticism.
-<!--SR:!2025-05-13,3,268-->
+<!--SR:!2025-05-24,10,288-->
 
 >[!question]+ Word
 >- to make greater, more numerous, larger, or more intense
@@ -740,7 +740,7 @@
 >>- This course will introduce you to the different types of boats.
 >>- The first settlers introduced European diseases to America.
 >>- The speaker introduced the winner.
-<!--SR:!2025-05-14,3,270-->
+<!--SR:!2025-05-23,9,290-->
 
 >[!question]+ Word
 >- to combine or produce by synthesis
@@ -1346,7 +1346,8 @@
 >**Pronunciation**: /ɪn.ɪˈlʌk.tə.bəl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/c1/c114ca6f678e5450ea1ba37aeb77ab15-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/c1/c114ca6f678e5450ea1ba37aeb77ab15-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-13,1,265-->
+
+
 >[!question]+ Word
 >- the collection and editing of news for presentation through the media
 >- the public press
@@ -1362,6 +1363,7 @@
 >**Pronunciation**: /ˈdʒɜːn(ə)lɪzəm/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/54/54aaa5bbe2673af8227f7c2e43aea8f3-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/54/54aaa5bbe2673af8227f7c2e43aea8f3-100.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-13,1,265-->
 
 >[!question]+ Word
 >- fight, battle, war
