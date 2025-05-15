@@ -1,5 +1,5 @@
 Nikolaus Kopernikus behauptet, dass sich die Erde um die Sonne dreht := 1514
-<!--SR:!2025-05-11,4,188-->
+<!--SR:!2025-05-17,2,168-->
 James Watt erfindet die Dampfmaschine := 1768
 <!--SR:!2025-05-08,1,164-->
 Galvani entdeckt die galvanische Elektrizität := 1771
@@ -15,7 +15,7 @@ DNS(Domain Name System): maps IPs to human readable domain names := 1984
 WWW: Tim Berners-Lee proposed and developed the WWW at CERN := 1989 - 1990
 <!--SR:!2025-05-11,4,197-->
 First Web Browser := Mosaic - 1993 - provided a graphical interface
-<!--SR:!2025-05-11,4,183-->
+<!--SR:!2025-05-23,8,203-->
 First Search Engine := Yahoo! - 1994
 <!--SR:!2025-05-14,7,192-->
 Google := 1998 - better search algorithm
@@ -27,7 +27,7 @@ Introduction of Social Media := 2003-2004: MySpace(2003), Facebook(2004), etc. l
 First iPhone := 2007 - enabled mobile internet usage and app-based ecosystems
 <!--SR:!2025-05-08,1,186-->
 Cloud Computing Services := Late 2000s - AWS(2006), etc.
-<!--SR:!2025-05-09,2,226-->
+<!--SR:!2025-05-16,1,206-->
 4G/LTE := 2009 - improved speed -> enabled video streaming and advanced mobile apps
 <!--SR:!2025-05-09,2,204-->
 Bitcoin and Blockchain := 2009  - The first decenttralized cryptocurrency, Bitcoin, launched.
@@ -37,7 +37,7 @@ Bitcoin and Blockchain := 2009  - The first decenttralized cryptocurrency, Bitco
 First commercially available computer :=UNIVAC I - 1951
 <!--SR:!2025-05-08,1,165-->
 First OS := 1961 - IBMs OS/360 standardized the concept of an OS -> introduced multitasking and process management
-<!--SR:!2025-05-09,2,189-->
+<!--SR:!2025-05-16,1,169-->
 Moore's Law := 1965  - number of transistors/chip double every ~2 years
 <!--SR:!2025-05-12,5,245-->
 First commercially available microprocessor := Intel 4004 Microprocessor - 1971
@@ -45,16 +45,16 @@ First commercially available microprocessor := Intel 4004 Microprocessor - 1971
 First PCs := 1970s and 1980s - Apple's Apple II(1997) and IBM's PC(1981) introduced affordable, personal computing to the public
 <!--SR:!2025-05-10,4,192-->
 Open-Source Software Movement := 1985 - Richard Stallman launched the *Free Software Foundation* promoting software freedom -> lead to projects like Linux(1991)
-<!--SR:!2025-05-08,1,186-->
+<!--SR:!2025-05-16,1,166-->
 Introduction of *GPS* := 1995 - GPS became fully operational for military and civilians
 <!--SR:!2025-05-12,5,209-->
 Assembly Language and Compilers := 1950s - 1960s - paved the way for more complex programming
-<!--SR:!2025-05-09,2,204-->
+<!--SR:!2025-05-16,1,184-->
 Git := created by Linus Torvalds in 2005
 <!--SR:!2025-05-15,14,260-->
 Public Key Cryptography :=  1976 - Whitfield Diffie and Martin Hellman introduced public key cryptography
 <!--SR:!2025-05-11,4,189-->
 Stuxnet Worm := 2010 - marked new era of cyber-warfare
-<!--SR:!2025-05-11,5,217-->
+<!--SR:!2025-05-27,12,217-->
 Zero-Day-Exploits and the Rise of CyberSec := 2010s
-<!--SR:!2025-05-09,2,226-->
+<!--SR:!2025-05-20,5,246-->

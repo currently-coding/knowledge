@@ -58,11 +58,11 @@ $g \circ f$ := $f : A \to C$ with $(g \circ f)(x)$ := $g(f(x))$ (composition of 
 $D_f$ := $\{a \in A \mid \exists b \in B \text{ with } f(a) = b\}$ (Domain of definition of f)
 <!--SR:!2026-03-09,375,314-->
 $R_f$ := $\{b \in B \mid \exists a \in A \text{ with } f(a) = b\}$ (Range of f)
-<!--SR:!2025-05-11,160,310-->
+<!--SR:!2026-12-17,581,330-->
 $f$ is total ::: $D_f = A$
 <!--SR:!2025-07-16,76,294!2026-03-20,397,339-->
 $f$ is surjective ::: $R_f = B$
-<!--SR:!2025-12-05,285,298!2025-05-14,58,274-->
+<!--SR:!2025-12-05,285,298!2025-06-13,29,254-->
 $f$ is injective ::: $f(a_1) \neq f(a_2)$ for all distinct $a_1, a_2 \in D_f$
 <!--SR:!2025-09-16,177,278!2026-05-12,437,314-->
 $f$ is bijective ::: $f$ is total, surjective, and injective

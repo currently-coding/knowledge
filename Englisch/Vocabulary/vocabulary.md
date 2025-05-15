@@ -87,7 +87,7 @@
 >>- The house retains most of its original features.
 >>- The company retained the employee's salary.
 >>- The soil retains water for a certain period of time.
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-26,11,302-->
 
 >[!question]+ Word
 >- the act or process of conquering
@@ -188,7 +188,7 @@
 >>- The police did not disclose the name of the suspect.
 >>- The bank may not disclose information about its clients.
 >>- He wants to disclose his secret.
-<!--SR:!2025-05-15,5,236-->
+<!--SR:!2025-05-29,14,256-->
 
 >[!question]+ Word
 >- the part of a page or sheet outside the main body of printed or written matter
@@ -462,7 +462,7 @@
 >>- Product designers anticipate the needs of the customers.
 >>- You cannot anticipate every possible reaction to an act.
 >>- I anticipated my mother's reaction.
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-25,10,302-->
 
 >[!question]+ Word
 >- something suggested by a word or thing : implication
@@ -501,7 +501,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/08/08290ab350f041d54b1da164022ed268-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- I refute these false allegations.
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-24,9,302-->
 
 >[!question]+ Word
 >- to place emphasis on : stress
@@ -520,7 +520,7 @@
 >>[!Example]+ Examples
 >>- He emphasized the importance of donations.
 >>- The professor emphasized the importance of recycling.
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-25,10,302-->
 
 
 >[!question]+ Word
@@ -541,7 +541,7 @@
 >>[!Example]+ Examples
 >>- I like to eat exotic fruits, such as papayas and mangos.
 >>- The unexplored jungle had an exotic beauty.
-<!--SR:!2025-05-15,3,262-->
+<!--SR:!2025-05-23,8,282-->
 
 >[!question]+ Word
 >- to call forth (a feeling, an action, etc.) : evoke
@@ -582,7 +582,7 @@
 >>[!Example]+ Examples
 >>- We augmented the range of products with some new options.
 >>- She augmented her savings with prudent investments.
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-25,10,302-->
 
 >[!question]+ Word
 >- to bring (as by argument) to belief, consent, or a course of action : persuade
@@ -601,7 +601,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d9/d966a024a058e078e0b04ad6af5fd844-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- He convinced the fighters not to strike.
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-25,10,302-->
 
 >[!question]+ Word
 >- to submit (something, such as a document) to a court or officer in course of proceedings; also : to present or offer officially or in legal form
@@ -623,7 +623,7 @@
 >>- The man exhibited several signs of old age.
 >>- The patient exhibited signs of improvement after the treatment.
 >>- She decided to exhibit her paintings in a local museum.
-<!--SR:!2025-05-15,3,296-->
+<!--SR:!2025-05-26,11,316-->
 
 >[!question]+ Word
 >- a connecting structure: such as
@@ -647,7 +647,7 @@
 >>- I deleted the link to the file on my website.
 >>- The link opens in a new tab.
 >>- The link to this file was deleted.
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-24,9,302-->
 
 >[!question]+ Word
 >- a conclusion derived through logic : inference
@@ -667,7 +667,7 @@
 >>[!Example]+ Examples
 >>- Effectively, the mistake did not have any consequences.
 >>- A volcanic eruption would have dire consequences.
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-26,11,302-->
 
 >[!question]+ Word
 >- to exert pressure especially on opposite sides of : compress
@@ -690,7 +690,7 @@
 >>- I am squeezing all my clothes into a tiny suitcase.
 >>- She squeezed some oranges to make juice.
 >>- I am squeezing an orange to get fresh juice.
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-24,9,302-->
 
 >[!question]+ Word
 >- to take, receive, or obtain especially from a specified source
@@ -710,7 +710,7 @@
 >>[!Example]+ Examples
 >>- The correct answer can be derived from the data.
 >>- She derives her inner strength from meditation.
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-25,10,302-->
 
 >[!question]+ Word
 >- to lead to or make known by a formal act, announcement, or recommendation: such as
@@ -758,7 +758,7 @@
 >**Pronunciation**: /ˈsɪnθəsaɪz/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d6/d6284de87997d101a0cee91cc449ff46-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d6/d6284de87997d101a0cee91cc449ff46-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-26,11,302-->
 
 >[!question]+ Word
 >- relating to, occupied with, or fond of feasting, drinking, and good company
@@ -773,7 +773,7 @@
 >**Pronunciation**: /kənˈvɪv.i.əl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/44/44219e0dc662875e7a8885fb960c943d-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/44/44219e0dc662875e7a8885fb960c943d-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-15,3,282-->
+<!--SR:!2025-05-25,10,302-->
 
 >[!question]+ Word
 >- conformity with truth or fact : accuracy
@@ -792,7 +792,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/23/2383576a9ae22802531a0634f2c46952-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The expert was able to confirm the veracity of the information.
-<!--SR:!2025-05-15,3,295-->
+<!--SR:!2025-05-26,11,315-->
 
 >[!question]+ Word
 >- in a precise manner : exactly —often used to emphasize the precision of something (such as a measurement, time, description, etc.)
@@ -811,7 +811,7 @@
 >>[!Example]+ Examples
 >>- She solved the problem precisely as the teacher expected.
 >>- I can set the scaling of the machine precisely.
-<!--SR:!2025-05-15,3,290-->
+<!--SR:!2025-05-24,9,310-->
 
 >[!question]+ Word
 >- one that occupies a particular place regularly, routinely, or for a period of time
@@ -829,7 +829,7 @@
 >>[!Example]+ Examples
 >>- This little town has only very few inhabitants.
 >>- Berlin has fewer inhabitants than Cairo.
-<!--SR:!2025-05-15,3,290-->
+<!--SR:!2025-05-26,11,310-->
 
 >[!question]+ Word
 >- to make invalid; especially : to weaken or destroy the cogency of
@@ -848,7 +848,7 @@
 >>[!Example]+ Examples
 >>- The facts I presented invalidated her argument.
 >>- The new certificate will invalidate the old one.
-<!--SR:!2025-05-15,3,290-->
+<!--SR:!2025-05-24,9,310-->
 
 >[!question]+ Word
 >- the use of reason; especially : the drawing of inferences or conclusions through the use of reason
@@ -866,7 +866,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/4d/4db0062a5ec022e76d5f853ebfba540a-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Your reasoning convinces me.
-<!--SR:!2025-05-15,3,290-->
+<!--SR:!2025-05-24,9,310-->
 
 >[!question]+ Word
 >- existing or coming about seemingly at random or by chance or as a capricious and unreasonable act of will
@@ -886,7 +886,7 @@
 >>- You can complete the tasks in arbitrary order.
 >>- Arbitrary changes to the process are not allowed.
 >>- The boss gave arbitrary orders that changed daily.
-<!--SR:!2025-05-15,3,290-->
+<!--SR:!2025-05-25,10,310-->
 
 >[!question]+ Word
 >- responsive to sensory stimuli : discerning
@@ -903,7 +903,7 @@
 >**Pronunciation**: /pəˈsɛptɪv/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/24/2445c308ed0850eb7e178d97e55c74cd-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-15,3,290-->
+<!--SR:!2025-05-26,11,310-->
 
 >[!question]+ Word
 >- to forbid by authority : enjoin
@@ -923,7 +923,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The company prohibits smoking in the entire building.
-<!--SR:!2025-05-15,3,290-->
+<!--SR:!2025-05-25,10,310-->
 
 >[!question]+ Word
 >- sympathetic sorrow for one suffering, distressed, or unhappy
@@ -941,7 +941,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/0a/0a2db9b7b0296859aee1b8b9237d1a9b-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- I feel pity when I see other people suffer.
-<!--SR:!2025-05-15,3,290-->
+<!--SR:!2025-05-25,10,310-->
 
 >[!question]+ Word
 >- of, relating to, or involving quality or kind
@@ -956,7 +956,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/78/78b055818452c4703aac38db0dba2e4f-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Further training for the workers led to qualitative improvements.
-<!--SR:!2025-05-15,3,299-->
+<!--SR:!2025-05-26,11,319-->
 
 >[!question]+ Word
 >- include, comprehend
@@ -977,7 +977,7 @@
 >>- The vast desert encompasses parts of several countries.
 >>- The syllabus encompasses theoretical and practical texts.
 >>- The area encompasses a large nature park.
-<!--SR:!2025-05-15,3,297-->
+<!--SR:!2025-05-25,10,317-->
 
 >[!question]+ Word
 >- according to report
@@ -994,7 +994,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/4a/4a6c4866376c2a50fc06b22f2886772a-400.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Reportedly, the storm did not cause any damages.
-<!--SR:!2025-05-15,3,304-->
+<!--SR:!2025-05-27,12,324-->
 
 >[!question]+ Word
 >- using few words : devoid of superfluity; also : short, brusque
@@ -1011,7 +1011,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/2c/2c1fd6e09f7ba9cf642bdeb20b1b9b64-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- His answer was brief and terse.
-<!--SR:!2025-05-15,3,304-->
+<!--SR:!2025-05-27,12,324-->
 
 >[!question]+ Word
 >- said or done as a joke : characterized by jesting : playful
@@ -1026,7 +1026,7 @@
 >**Translations**: scherzhaft, lustig, spaßig
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/38/38f0d434659a37933b4a88ea9adf7dd9-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-15,3,299-->
+<!--SR:!2025-05-27,12,319-->
 
 >[!question]+ Word
 >- to spur on : impel, motivate
@@ -1048,7 +1048,7 @@
 >>- Classical music inspires me.
 >>- He had the ability to inspire people.
 >>- He had the ability to inspire people.
-<!--SR:!2025-05-15,3,297-->
+<!--SR:!2025-05-26,11,317-->
 
 >[!question]+ Word
 >- to subvert or weaken insidiously or secretly
@@ -1070,7 +1070,7 @@
 >>- The pupil has undermined the teacher's authority.
 >>- The student has undermined the teacher's authority.
 >>- Frequent lying undermines any trust.
-<!--SR:!2025-05-15,3,297-->
+<!--SR:!2025-05-24,9,317-->
 
 >[!question]+ Word
 >- a judgment involving condemnation
@@ -1088,69 +1088,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ac/ac70ee11b6753a3c70ae2fb5df05ffd8-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The politician accepted the public censure and resigned.
-<!--SR:!2025-05-15,3,297-->
-
->[!question]+ Word
->- the authority of a master : dominion
->- the upper hand in a contest or competition : superiority, ascendancy
->- possession or display of great skill or technique
->
->>[!tip]- Translations
->>- Beherrschung
->>- Können
->>- Bewältigung
-?
->[!vocab]+ mastery(noun)
->**Translations**: Beherrschung, Können, Bewältigung
->**Pronunciation**: /ˈmɑːst(ə)ɹi/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/39/394230d123ce5f3ad5f8619d3afbf397-101.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/39/394230d123ce5f3ad5f8619d3afbf397-101.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- The job requires mastery of two languages.
->>- Our company's mastery of the crisis was impressive.
-<!--SR:!2025-05-15,3,299-->
-
->[!question]+ Word
->- an attendant spirit of a person or place
->- a person who influences another for good or bad
->- a strong leaning or inclination : penchant
->
->>[!tip]- Translations
->>- Genius
->>- Genie
->>- Genialität
-?
->[!vocab]+ genius(noun)
->**Translations**: Genius, Genie, Genialität
->**Pronunciation**: /ˈdʒiː.nɪəs/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/59/5912d7bfd10f631f1715bf85bbb72d97-101.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/59/5912d7bfd10f631f1715bf85bbb72d97-101.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- He may not be a genius, but he is not a simpleton!
->>- His intelligence is truly extraordinary, he is a genius.
-<!--SR:!2025-05-15,3,299-->
-
->[!question]+ Word
->- the manner in which technical details are treated (as by a writer) or basic physical movements are used (as by a dancer); also : ability to treat such details or use such movements
->- a body of technical methods (as in a craft or in scientific research)
->- a method of accomplishing a desired aim
->
->>[!tip]- Translations
->>- Technik
->>- Verfahren
->>- Vorgehensweise
-?
->[!vocab]+ technique(noun)
->**Translations**: Technik, Verfahren, Vorgehensweise
->**Pronunciation**: /tɛkˈniːk/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/00/0098876123c5a4d75b205c3b727b8af1-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/00/0098876123c5a4d75b205c3b727b8af1-100.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- My karate is improving, but I still need to work on my technique.
->>- He uses the technique of montage to connect ideas in his novels.
->>- The new technique speeded up the process.
->>- This technique is considered standard in the industry.
-<!--SR:!2025-05-15,3,299-->
+<!--SR:!2025-05-24,9,317-->
 
 >[!question]+ Word
 >- to fix conclusively or authoritatively
@@ -1177,7 +1115,7 @@
 >>- At the meeting, we determined what the next project will be.
 >>- Sometimes it is difficult to determine the impact of weather phenomena.
 >>- The detective determined the whereabouts of the suspect.
-<!--SR:!2025-05-15,3,299-->
+<!--SR:!2025-05-26,11,319-->
 
 >[!question]+ Word
 >- a former school of medical practice founded on experience without the aid of science or theory
@@ -1192,7 +1130,7 @@
 >**Translations**: Empirie, Empirismus
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dd/dd2cb9dec42e625265531460e5a46b41-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dd/dd2cb9dec42e625265531460e5a46b41-101.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-15,3,299-->
+<!--SR:!2025-05-26,11,319-->
 
 >[!question]+ Word
 >- to increase the width, scope, or extent of
@@ -1215,7 +1153,7 @@
 >>- The police has widened the search for the suspect.
 >>- The police widened the search area to the entire town.
 >>- The police widened the search for the suspect.
-<!--SR:!2025-05-15,3,304-->
+<!--SR:!2025-05-27,12,324-->
 
 >[!question]+ Word
 >- the principle or practice of submitting to popular vote a measure passed on or proposed by a legislative body or by popular initiative
@@ -1235,7 +1173,7 @@
 >>[!Example]+ Examples
 >>- A referendum was held to reach a decision.
 >>- The government called for a referendum.
-<!--SR:!2025-05-15,3,284-->
+<!--SR:!2025-05-25,10,304-->
 
 
 >[!question]+ Word
@@ -1259,7 +1197,7 @@
 >>- A good judge is impartial and just.
 >>- The judge recommended arbitration.
 >>- The judges have conferred and chosen the winners.
-<!--SR:!2025-05-15,3,299-->
+<!--SR:!2025-05-27,12,319-->
 
 >[!question]+ Word
 >- capable of sensing or feeling : conscious of or responsive to the sensations of seeing, hearing, feeling, tasting, or smelling
@@ -1312,7 +1250,7 @@
 >**Pronunciation**: /ˈwɪstfəl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-15,1,245-->
+<!--SR:!2025-05-18,3,265-->
 
 >[!question]+ Word
 >- a selection from a writing or discourse : excerpt
@@ -1331,7 +1269,7 @@
 >>- The shampoo is made of tropical plant extracts.
 >>- The author read an extract of his new novel.
 >>- The author read an extract from his new novel.
-<!--SR:!2025-05-15,3,285-->
+<!--SR:!2025-05-24,9,305-->
 
 >[!question]+ Word
 >- not to be avoided, changed, or resisted : inevitable
@@ -1366,7 +1304,7 @@
 >>[!Example]+ Examples
 >>- There are commonly conflicts between young siblings.
 >>- Vengeance will only lead to further conflicts.
-<!--SR:!2025-05-15,3,304-->
+<!--SR:!2025-05-24,9,304-->
 
 >[!question]+ Word
 >- the quality or state of being defective or of lacking some necessary quality or element : the quality or state of being deficient : inadequacy
@@ -1386,7 +1324,7 @@
 >>[!Example]+ Examples
 >>- The review board found no deficiencies in his work.
 >>- The accountant found a deficiency in the company's finances.
-<!--SR:!2025-05-15,3,284-->
+<!--SR:!2025-05-23,8,284-->
 
 >[!question]+ Word
 >- a mental view or prospect
@@ -1408,7 +1346,7 @@
 >>- A shift in perspective can widen our horizon.
 >>- From today's perspective, some mistakes could have been avoided.
 >>- Success is often founded on a positive perspective.
-<!--SR:!2025-05-15,3,304-->
+<!--SR:!2025-05-27,12,324-->
 
 >[!question]+ Word
 >- to cause to be set aside
@@ -1430,6 +1368,7 @@
 >>- The new guidelines supersede the old ones.
 >>- The former manager was superseded by a colleague.
 >>- The computer has superseded the typewriter.
+<!--SR:!2025-05-18,3,317-->
 
 >[!question]+ Word
 >- a court or forum of justice
@@ -1448,6 +1387,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/0f/0f699dfaebaccc1f11a3f84ed452a30c-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- An international tribunal was set up to prosecute war crimes.
+<!--SR:!2025-05-18,3,297-->
 
 >[!question]+ Word
 >- of, relating to, or characterized by philanthropy : humanitarian
@@ -1461,6 +1401,7 @@
 >**Translations**: philanthropisch, menschenfreundlich
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ca/ca697c24ab96f93801554d9994636f92-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ca/ca697c24ab96f93801554d9994636f92-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-16,1,277-->
 
 >[!question]+ Word
 >- the act or fact of dwelling in a place for some time
@@ -1477,24 +1418,7 @@
 >**Pronunciation**: /ˈɹɛz.ɪ.dəns/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ca/cad4811efcdb1000aae7a6841d995713-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ca/cad4811efcdb1000aae7a6841d995713-100.mp3 type="audio/mpeg">Unsupported.</audio>
-
->[!question]+ Word
->- a small usually metal object bearing a religious emblem or picture
->- a piece of metal often resembling a coin and having a stamped design that is issued to commemorate a person or event or awarded for excellence or achievement
->
->>[!tip]- Translations
->>- Medaille
->>- Orden
->>- Ehrenzeichen
-?
->[!vocab]+ medal(noun)
->**Translations**: Medaille, Orden, Ehrenzeichen
->**Pronunciation**: [ˈmeɾ.ɫ̩]
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/35/3522cfa43d8651bd28165e7aa79dee56-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/35/3522cfa43d8651bd28165e7aa79dee56-100.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- The medal was an incentive for him to improve his performance even more.
->>- He was awarded a medal for his bravery.
+<!--SR:!2025-05-16,1,277-->
 
 >[!question]+ Word
 >- to see (something, such as a development) beforehand
@@ -1514,6 +1438,7 @@
 >>- We cannot foresee the future.
 >>- Nobody can foresee market developments with certainty.
 >>- We cannot foresee the results of our experiment.
+<!--SR:!2025-05-18,3,317-->
 
 >[!question]+ Word
 >- of little weight or importance
@@ -1532,7 +1457,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d4/d4219b9a667d87bdc21643e492675c18-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Frivolous words can hurt other people's feelings.
-<!--SR:!2025-05-15,1,266-->
+<!--SR:!2025-05-18,3,286-->
 
 >[!question]+ Word
 >- born to parents not married to each other
@@ -1565,6 +1490,7 @@
 >**Pronunciation**: /haɪˈpɝːbəli/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/07/0749670dfa3d847f9154f9df7006758c-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/07/0749670dfa3d847f9154f9df7006758c-100.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-18,3,317-->
 
 >[!question]+ Word
 >- enjoying good repute : held in esteem
@@ -1584,7 +1510,7 @@
 >>- I downloaded the software from a reputable source.
 >>- The government only works with reputable companies.
 >>- My grandparents wanted my mother to marry a reputable man.
-<!--SR:!2025-05-15,1,266-->
+<!--SR:!2025-05-18,3,286-->
 
 >[!question]+ Word
 >- to occur, fall, or come between points of time or events
@@ -1617,6 +1543,7 @@
 >**Translations**: Solidarität, Zusammenhalt, Geschlossenheit
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f9/f90f1f0b1cd5511b67e10f75b83c36cd-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f9/f90f1f0b1cd5511b67e10f75b83c36cd-100.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-16,1,277-->
 
 >[!question]+ Word
 >- one that is of equal standing with another : equal; especially : one belonging to the same societal group especially based on age, grade, or status
@@ -1636,6 +1563,7 @@
 >>[!Example]+ Examples
 >>- A peer is a member of the House of Lords.
 >>- I earn as much as my peers in the company.
+<!--SR:!2025-05-16,1,277-->
 
 >[!question]+ Word
 >- keenness and depth of perception, discernment, or discrimination especially in practical matters
@@ -1652,9 +1580,10 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/40/4050b64e0375e0ab881313b4059e6344-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- She is brilliant, her acumen is legendary.
+<!--SR:!2025-05-16,1,277-->
 
 >[!question]+ Word
->- an inclination or predisposition toward something; especially : a strong inherent inclination toward something objectionable
+>- an inclination or predisposition toward something; especially : a strong inherent inclination/natural desire toward something objectionable(often negative)
 >
 >>[!tip]- Translations
 >>- Neigung
@@ -1665,6 +1594,7 @@
 >**Pronunciation**: /pɹoʊˈklɪvəti/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-16,1,277-->
 
 >[!question]+ Word
 >- auspicious, favorable
@@ -1684,6 +1614,7 @@
 >>[!Example]+ Examples
 >>- The family is prosperous, they do not need to worry about money.
 >>- She is a prosperous businesswoman and a millionaire.
+<!--SR:!2025-05-16,1,277-->
 
 >[!question]+ Word
 >- to provide with a motive : impel
@@ -1702,6 +1633,7 @@
 >>[!Example]+ Examples
 >>- We are trying to motivate our employees to top performance.
 >>- Great leaders motivate their collaborators.
+<!--SR:!2025-05-18,3,317-->
 
 >[!question]+ Word
 >- the act or fact of being raised in position or rank : preferment
@@ -1726,4 +1658,5 @@
 >>- My promotion was a result of hard work.
 >>- I got one product for free because of a promotion.
 >>- We launched a promotion to increase our sales.
+<!--SR:!2025-05-18,3,317-->
 

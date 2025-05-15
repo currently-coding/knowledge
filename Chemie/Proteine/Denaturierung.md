@@ -1,6 +1,6 @@
 >[!Definition]
 >Denaturierung := starke Veränderung der räumlichen Struktur von Proteinen durch verschiedene Einflüsse(z.B. Hitze, Säuren/Basen, Alkohole, ...)
-<!--SR:!2025-05-09,14,250-->
+<!--SR:!2025-06-25,41,270-->
 
 ## Möglichkeiten der Denaturierung
 1. **[[Schwermetalle]]**: binden irreversibel an ionische Gruppen(Kupfer, Cadmium, etc.)

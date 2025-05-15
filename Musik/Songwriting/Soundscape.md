@@ -1,5 +1,5 @@
 Soundscape := Beschreibt typische Klänge eines bestimmten Ortes(z.B. Schule, Wald, etc.)
-<!--SR:!2025-05-15,32,250-->
+<!--SR:!2025-08-18,95,270-->
 - Soundscape wurde von kanadischem Komponist [[Raymond Murray Schafer]] 1977 geprägt
 
 Bestehen aus 2 Teilen:
