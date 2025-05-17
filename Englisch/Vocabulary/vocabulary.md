@@ -1216,7 +1216,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/b0/b0703a05cb63df44a625350cd2db4281-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Humans are feeling, sentient beings.
-<!--SR:!2025-05-17,3,264-->
+<!--SR:!2025-05-27,10,284-->
 
 >[!question]+ Word
 >- to compel to an act or choice
@@ -1234,7 +1234,7 @@
 >**Pronunciation**: /kəʊˈɜːs/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/61/615e65e2e8e3ffbc003c70f624779685-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/61/615e65e2e8e3ffbc003c70f624779685-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-17,3,285-->
+<!--SR:!2025-05-28,11,305-->
 
 >[!question]+ Word
 >- full of yearning or desire tinged with melancholy; also : inspiring such yearning
@@ -1273,6 +1273,7 @@
 
 >[!question]+ Word
 >- not to be avoided, changed, or resisted : inevitable
+>- outcome is inescapable in a sense of fate or destiny
 >
 >>[!tip]- Translations
 >>- unvermeidlich
@@ -1284,7 +1285,7 @@
 >**Pronunciation**: /ɪn.ɪˈlʌk.tə.bəl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/c1/c114ca6f678e5450ea1ba37aeb77ab15-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/c1/c114ca6f678e5450ea1ba37aeb77ab15-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-17,3,286-->
+<!--SR:!2025-05-28,11,306-->
 
 >[!question]+ Word
 >- fight, battle, war
@@ -1401,7 +1402,7 @@
 >**Translations**: philanthropisch, menschenfreundlich
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ca/ca697c24ab96f93801554d9994636f92-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ca/ca697c24ab96f93801554d9994636f92-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-16,1,277-->
+<!--SR:!2025-05-20,3,297-->
 
 >[!question]+ Word
 >- the act or fact of dwelling in a place for some time
@@ -1418,7 +1419,7 @@
 >**Pronunciation**: /ˈɹɛz.ɪ.dəns/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ca/cad4811efcdb1000aae7a6841d995713-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ca/cad4811efcdb1000aae7a6841d995713-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-16,1,277-->
+<!--SR:!2025-05-20,3,297-->
 
 >[!question]+ Word
 >- to see (something, such as a development) beforehand
@@ -1460,8 +1461,7 @@
 <!--SR:!2025-05-18,3,286-->
 
 >[!question]+ Word
->- born to parents not married to each other
->- outwardly similar or corresponding to something without having its genuine qualities : false
+>- false, although seeming to be real or true
 >- of falsified or erroneously attributed origin : forged
 >
 >>[!tip]- Translations
@@ -1476,7 +1476,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/82/820a49ff68459d49d0bef13ccf0f623b-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- He had spurious excuses for leaving.
-<!--SR:!2025-05-17,3,306-->
+<!--SR:!2025-05-29,12,326-->
 
 >[!question]+ Word
 >- extravagant exaggeration (such as "mile-high ice-cream cones")
@@ -1529,21 +1529,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/47/4752d9c2cf7d8a31f06e2f497a371ee5-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- We cannot intervene in a family matter.
-<!--SR:!2025-05-17,3,306-->
-
->[!question]+ Word
->- unity (as of a group or class) that produces or is based on community of interests, objectives, and standards
->
->>[!tip]- Translations
->>- Solidarität
->>- Zusammenhalt
->>- Geschlossenheit
-?
->[!vocab]+ solidarity(noun)
->**Translations**: Solidarität, Zusammenhalt, Geschlossenheit
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f9/f90f1f0b1cd5511b67e10f75b83c36cd-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f9/f90f1f0b1cd5511b67e10f75b83c36cd-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-16,1,277-->
+<!--SR:!2025-05-29,12,326-->
 
 >[!question]+ Word
 >- one that is of equal standing with another : equal; especially : one belonging to the same societal group especially based on age, grade, or status
@@ -1563,7 +1549,7 @@
 >>[!Example]+ Examples
 >>- A peer is a member of the House of Lords.
 >>- I earn as much as my peers in the company.
-<!--SR:!2025-05-16,1,277-->
+<!--SR:!2025-05-20,3,297-->
 
 >[!question]+ Word
 >- keenness and depth of perception, discernment, or discrimination especially in practical matters
@@ -1580,7 +1566,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/40/4050b64e0375e0ab881313b4059e6344-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- She is brilliant, her acumen is legendary.
-<!--SR:!2025-05-16,1,277-->
+<!--SR:!2025-05-20,3,277-->
 
 >[!question]+ Word
 >- an inclination or predisposition toward something; especially : a strong inherent inclination/natural desire toward something objectionable(often negative)
@@ -1594,7 +1580,7 @@
 >**Pronunciation**: /pɹoʊˈklɪvəti/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-16,1,277-->
+<!--SR:!2025-05-20,3,277-->
 
 >[!question]+ Word
 >- auspicious, favorable
@@ -1614,7 +1600,7 @@
 >>[!Example]+ Examples
 >>- The family is prosperous, they do not need to worry about money.
 >>- She is a prosperous businesswoman and a millionaire.
-<!--SR:!2025-05-16,1,277-->
+<!--SR:!2025-05-20,3,297-->
 
 >[!question]+ Word
 >- to provide with a motive : impel
@@ -1659,4 +1645,280 @@
 >>- I got one product for free because of a promotion.
 >>- We launched a promotion to increase our sales.
 <!--SR:!2025-05-18,3,317-->
+
+>[!question]+ Word
+>- to go on board a vehicle for transportation
+>- to make a start
+>- to cause to go on board (a boat, an airplane, etc.)
+>
+>>[!tip]- Translations
+>>- einschiffen
+>>- sich einschiffen
+>>- an Bord gehen
+?
+>[!vocab]+ to embark(verb)
+>**Translations**: einschiffen, sich einschiffen, an Bord gehen
+>**Forms**: embarked, embarked
+>**Pronunciation**: /ɛmˈbɑːk/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/2a/2a288121ef536b483481dde37db6e5de-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/2a/2a288121ef536b483481dde37db6e5de-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- We embarked at sunrise and the cruise began.
+<!--SR:!2025-05-21,4,319-->
+
+>[!question]+ Word
+>- to feel or express grief for
+>- to regret strongly
+>- to consider unfortunate or deserving of deprecation
+>
+>>[!tip]- Translations
+>>- beklagen
+>>- bedauern
+>>- mißbilligen
+?
+>[!vocab]+ to deplore(verb)
+>**Translations**: beklagen, bedauern, mißbilligen
+>**Forms**: deplored, deplored
+>**Pronunciation**: /dɪˈplɔː/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/44/4477e0afb5d9fb9f749f9bd33ced8d2c-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/44/4477e0afb5d9fb9f749f9bd33ced8d2c-200.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-20,3,299-->
+
+>[!question]+ Word
+>- having secondary rank or importance : minor, subordinate
+>- having little or no importance or significance
+>- marked by or reflective of narrow interests and sympathies : small-minded
+>
+>>[!tip]- Translations
+>>- klein
+>>- kleinkariert
+>>- geringfügig
+?
+>[!vocab]+ petty(adjective)
+>**Translations**: klein, kleinkariert, geringfügig
+>**Pronunciation**: /ˈpɛti/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/78/78deee5e883855dff57877fb0c8ff1ca-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/78/78deee5e883855dff57877fb0c8ff1ca-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- He was quite small-minded and petty, but he was my brother.
+>>- The project was discarded for petty reasons.
+>>- It is no use arguing about petty matters.
+>>- My boss is very petty and overly critical.
+<!--SR:!2025-05-18,1,279-->
+
+>[!question]+ Word
+>- to confuse and surprise somebody
+>- refute
+>- to prove somebody/something wrong
+>- to put to shame : discomfit
+>
+>>[!tip]- Translations
+>>- verwechseln
+>>- verwirren
+>>- verblüffen
+?
+>[!vocab]+ to confound(verb)
+>**Translations**: verwechseln, verwirren, verblüffen
+>**Forms**: confounded, confounded
+>**Pronunciation**: /kənˈfaʊnd/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/c4/c45f4530945d52c4528344c4c57616a5-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/c4/c45f4530945d52c4528344c4c57616a5-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- Complicated questions may confound the witness.
+>>- She confounded the teacher with quick-witted answers.
+<!--SR:!2025-05-21,4,320-->
+
+>[!question]+ Word
+>- marked by extreme or excessive care in the consideration or treatment of details
+>
+>>[!tip]- Translations
+>>- sorgfältig
+>>- akribisch
+>>- genau
+?
+>[!vocab]+ meticulous(adjective)
+>**Translations**: sorgfältig, akribisch, genau
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/6c/6c5448179e2004e0f7cff39b2dce928e-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/6c/6c5448179e2004e0f7cff39b2dce928e-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-18,1,279-->
+
+>[!question]+ Word
+>- Entwurf
+>- Konzept
+>- Skizze
+?
+>[!vocab]+ draft(noun)
+>**Translations**: Entwurf, Konzept, Skizze
+>**Pronunciation**: /dɹæft/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f9/f91b2829bf8603e358094e1dedb6f947-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f9/f91b2829bf8603e358094e1dedb6f947-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The first draft of the letter is finished.
+>>- The politician presented the new draft for the education policy.
+>>- The architect drew a draft of the building project.
+<!--SR:!2025-05-21,4,320-->
+
+>[!question]+ Word
+>- of or relating to the intellect or its use
+>- developed or chiefly guided by the intellect rather than by emotion or experience : rational
+>- requiring use of the intellect
+>
+>>[!tip]- Translations
+>>- geistig
+>>- intellektuell
+>>- gebildet
+?
+>[!vocab]+ intellectual(adjective)
+>**Translations**: geistig, intellektuell, gebildet
+>**Pronunciation**: /ˌɪntəˈlɛk(t)ʃʊəl/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/20/20a531368c2282bb0d88382ab0b8488e-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/20/20a531368c2282bb0d88382ab0b8488e-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The article remains intellectual property of the author.
+<!--SR:!2025-05-21,4,319-->
+
+>[!question]+ Word
+>- make up, form, compose
+>- set up, establish: such as
+>- enact
+>
+>>[!tip]- Translations
+>>- darstellen
+>>- begründen
+>>- ausmachen
+?
+>[!vocab]+ to constitute(verb)
+>**Translations**: darstellen, begründen, ausmachen
+>**Forms**: constituted, constituted
+>**Pronunciation**: /ˈkɒnstɪtjuːt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d2/d23760c15fa2397e602125e28a670ba1-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d2/d23760c15fa2397e602125e28a670ba1-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- Children at the age of one constitute a small part of the population.
+>>- Our galaxy constitutes only a small part of the universe.
+>>- These theories constitute the basis of our research.
+<!--SR:!2025-05-21,4,319-->
+
+>[!question]+ Word
+>- embodying a fallacy
+>- tending to deceive or mislead : delusive
+>
+>>[!tip]- Translations
+>>- irreführend
+>>- trügerisch
+>>- falsch
+?
+>[!vocab]+ fallacious(adjective)
+>**Translations**: irreführend, trügerisch, falsch
+>**Pronunciation**: /fə.ˈleɪ.ʃəs/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/50/5018780f9d7a8f47170e4c83f422fc4e-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/50/5018780f9d7a8f47170e4c83f422fc4e-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- He clung to the fallacious hope that she would return.
+<!--SR:!2025-05-21,4,320-->
+
+>[!question]+ Word
+>- a false or mistaken idea
+>- erroneous character : erroneousness
+>- deceptive appearance : deception
+>
+>>[!tip]- Translations
+>>- Irrtum
+>>- Trugschluss
+>>- Täuschung
+?
+>[!vocab]+ fallacy(noun)
+>**Translations**: Irrtum, Trugschluss, Täuschung
+>**Pronunciation**: /ˈfæləsi/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/5c/5c325d8e7fe16ae23bd5e4e0812fd582-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/5c/5c325d8e7fe16ae23bd5e4e0812fd582-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- This conclusion is a fallacy and not correct.
+<!--SR:!2025-05-21,4,319-->
+
+>[!question]+ Word
+>- a long search for something, especially for some quality such as happiness
+>- an act or instance of seeking:
+>
+>>[!tip]- Translations
+>>- Suche
+>>- Streben
+>>- Aufgabe
+?
+>[!vocab]+ quest(noun)
+>**Translations**: Suche, Streben, Aufgabe
+>**Pronunciation**: /kwɛst/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/32/322d188cb256edf960c84c23ae630e2d-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/32/322d188cb256edf960c84c23ae630e2d-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The knights went on a quest to find the magical sword.
+>>- In the computer game you have to complete several quests.
+<!--SR:!2025-05-21,4,320-->
+
+>[!question]+ Word
+>- extensive knowledge acquired chiefly from books : profound, recondite, or bookish learning
+>
+>>[!tip]- Translations
+>>- Gelehrsamkeit
+>>- Bildung
+>>- Belesenheit
+?
+>[!vocab]+ erudition(noun)
+>**Translations**: Gelehrsamkeit, Bildung, Belesenheit
+>**Pronunciation**: /ˌɛɹʊˈdɪʃən/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/0c/0c3c1e44e5a16a012839f04c21ef9d83-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/0c/0c3c1e44e5a16a012839f04c21ef9d83-100.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-21,4,319-->
+
+>[!question]+ Word
+>- to make changes to a business, system, etc. in order to make it more efficient, especially by spending less money
+>- to find or try to find a logical reason to explain why somebody thinks, behaves, etc. in a way that is difficult to understand
+>>[!tip]- Translations
+>>- rationalisieren
+?
+>[!vocab]+ to rationalize(verb)
+>**Translations**: rationalisieren
+>**Forms**: rationalized, rationalized; BE frequently used: rationalised, rationalised (BE: rationalise) (BE frequently used: rationalise)
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d0/d08cd5d6d7577852821e432309ebe22e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d0/d08cd5d6d7577852821e432309ebe22e-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The company rationalized its processes to reduce costs.
+<!--SR:!2025-05-21,4,320-->
+
+>[!question]+ Word
+>- a device or token especially of membership in a society or group
+>- a characteristic mark
+>- an emblem awarded for a particular accomplishment
+>
+>>[!tip]- Translations
+>>- Abzeichen
+>>- Plakette
+>>- Ausweis
+?
+>[!vocab]+ badge(noun)
+>**Translations**: Abzeichen, Plakette, Ausweis
+>**Pronunciation**: /bædʒ/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dc/dcdd1274f35ac5a8573e07b0582ad92c-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dc/dcdd1274f35ac5a8573e07b0582ad92c-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- My son won the race and received a badge.
+>>- I pinned the badge to my jacket.
+>>- He wore a uniform with an official badge.
+>>- Visitors must carry a badge at all times.
+<!--SR:!2025-05-18,1,280-->
+
+>[!question]+ Word
+>- having or showing knowledge that is gained by studying : possessing or displaying erudition
+>
+>>[!tip]- Translations
+>>- gelehrt
+>>- gebildet
+>>- belesen
+?
+>[!vocab]+ erudite(adjective)
+>**Translations**: gelehrt, gebildet, belesen
+>**Pronunciation**: /ˈɛɹ.ʊ.daɪt/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dc/dc92b4ec6cd04fd70e36bc3506dff619-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dc/dc92b4ec6cd04fd70e36bc3506dff619-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-20,3,300-->
 

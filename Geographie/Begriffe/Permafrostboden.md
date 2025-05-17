@@ -1,6 +1,6 @@
 > [!Definition]
 >Permafrostboden := Untergrund, der für mindestens 2 Jahre eine Temperatur von $0^{\circ}C$ nicht überschreitet
-<!--SR:!2025-05-16,21,270-->
+<!--SR:!2025-07-22,66,290-->
 
 - meist in Polarregionen oder Gebirgen
 
