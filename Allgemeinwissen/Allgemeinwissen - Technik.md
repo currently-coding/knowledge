@@ -11,7 +11,7 @@ Email (on ARPANET) := 1971
 TCP/IP Protocol Standardized for ARPANET:= 1983, January 1st
 <!--SR:!2025-06-23,37,257-->
 DNS(Domain Name System): maps IPs to human readable domain names := 1984
-<!--SR:!2025-05-18,1,184-->
+<!--SR:!2025-05-20,2,204-->
 WWW: Tim Berners-Lee proposed and developed the WWW at CERN := 1989 - 1990
 <!--SR:!2025-05-28,11,217-->
 First Web Browser := Mosaic - 1993 - provided a graphical interface
@@ -21,21 +21,21 @@ First Search Engine := Yahoo! - 1994
 Google := 1998 - better search algorithm
 <!--SR:!2025-05-19,2,130-->
 Wi-Fi introduced := 1997 - IEEE 802.11 -> established wireless internet connections
-<!--SR:!2025-05-18,1,186-->
+<!--SR:!2025-05-20,2,206-->
 Introduction of Social Media := 2003-2004: MySpace(2003), Facebook(2004), etc. launched
 <!--SR:!2025-07-26,70,232-->
 First iPhone := 2007 - enabled mobile internet usage and app-based ecosystems
-<!--SR:!2025-05-18,1,166-->
+<!--SR:!2025-05-20,2,186-->
 Cloud Computing Services := Late 2000s - AWS(2006), etc.
 <!--SR:!2025-05-19,2,206-->
 4G/LTE := 2009 - improved speed -> enabled video streaming and advanced mobile apps
-<!--SR:!2025-05-18,1,184-->
+<!--SR:!2025-05-20,2,204-->
 Bitcoin and Blockchain := 2009  - The first decenttralized cryptocurrency, Bitcoin, launched.
 <!--SR:!2025-06-01,15,248-->
 5G Networks begin to roll out := 2019 - higher speeds and lower latency -> enabled real time applications
 <!--SR:!2025-07-25,102,292-->
 First commercially available computer :=UNIVAC I - 1951
-<!--SR:!2025-05-18,1,145-->
+<!--SR:!2025-05-20,2,165-->
 First OS := 1961 - IBMs OS/360 standardized the concept of an OS -> introduced multitasking and process management
 <!--SR:!2025-05-19,2,189-->
 Moore's Law := 1965  - number of transistors/chip double every ~2 years
