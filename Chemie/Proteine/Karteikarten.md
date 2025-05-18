@@ -9,4 +9,4 @@ Nenne Funktionen von Proteinen.
 Skizziere den Aufbau eines Proteins. Nenne alle relevanten funktionellen Gruppen.
 ?
 ![[aminosaeure_aufbau]]
-<!--SR:!2025-05-18,23,268-->
+<!--SR:!2025-07-31,74,288-->

@@ -1,10 +1,3 @@
-revitalize
-attainment
-theatrical
-strand
-cohesion
-serendipity
-raison d'être
 incentive
 obstreperous
 attachment

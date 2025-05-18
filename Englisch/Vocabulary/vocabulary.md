@@ -1,25 +1,4 @@
 >[!question]+ Word
->- the history, identification, or description of writings or publications
->- a list often with descriptive or critical notes of writings relating to a particular subject, period, or author
->- a list of works written by an author or printed by a publishing house
->
->>[!tip]- Translations
->>
->>- Bibliographie
->>- Bibliografie
->>- Literaturverzeichnis
-?
->[!vocab]+ bibliography(noun)
->**Translations**: Bibliographie, Bibliografie, Literaturverzeichnis
->**Pronunciation**: /bɪbliɒɡɹəfi/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d5/d55b48166ee1ad1e66267e0c4665bdb0-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d5/d55b48166ee1ad1e66267e0c4665bdb0-100.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- The texts cited in the article are listed in the bibliography.
->>- I listed all my sources in the bibliography.
-<!--SR:!2025-05-22,11,317-->
-
->[!question]+ Word
 >
 >- to make productive use of : utilize
 >- to make use of meanly or unfairly for one's own advantage
@@ -1372,25 +1351,6 @@
 <!--SR:!2025-05-30,12,337-->
 
 >[!question]+ Word
->- a court or forum of justice
->- something that decides or determines
->- tribune
->
->>[!tip]- Translations
->>- Gericht
->>- Gerichtshof
->>- Strafgerichtshof
-?
->[!vocab]+ tribunal(noun)
->**Translations**: Gericht, Gerichtshof, Strafgerichtshof
->**Pronunciation**: /tɹaɪˈbjuːnəl/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/0f/0f699dfaebaccc1f11a3f84ed452a30c-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/0f/0f699dfaebaccc1f11a3f84ed452a30c-100.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- An international tribunal was set up to prosecute war crimes.
-<!--SR:!2025-05-18,3,297-->
-
->[!question]+ Word
 >- of, relating to, or characterized by philanthropy : humanitarian
 >- dispensing or receiving aid from funds set aside for humanitarian purposes
 >
@@ -1458,7 +1418,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d4/d4219b9a667d87bdc21643e492675c18-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Frivolous words can hurt other people's feelings.
-<!--SR:!2025-05-18,3,286-->
+<!--SR:!2025-05-29,11,306-->
 
 >[!question]+ Word
 >- false, although seeming to be real or true
@@ -1704,7 +1664,7 @@
 >>- The project was discarded for petty reasons.
 >>- It is no use arguing about petty matters.
 >>- My boss is very petty and overly critical.
-<!--SR:!2025-05-18,1,279-->
+<!--SR:!2025-05-21,3,299-->
 
 >[!question]+ Word
 >- to confuse and surprise somebody
@@ -1905,7 +1865,7 @@
 >>- I pinned the badge to my jacket.
 >>- He wore a uniform with an official badge.
 >>- Visitors must carry a badge at all times.
-<!--SR:!2025-05-18,1,280-->
+<!--SR:!2025-05-21,3,300-->
 
 >[!question]+ Word
 >- having or showing knowledge that is gained by studying : possessing or displaying erudition
@@ -1921,4 +1881,75 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dc/dc92b4ec6cd04fd70e36bc3506dff619-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dc/dc92b4ec6cd04fd70e36bc3506dff619-300.mp3 type="audio/mpeg">Unsupported.</audio>
 <!--SR:!2025-05-20,3,300-->
+
+>[!question]+ Word
+>- to give new life or vigor to
+>
+>>[!tip]- Translations
+>>- revitalisieren
+>>- wiederbeleben
+>>- neu beleben
+?
+>[!vocab]+ to revitalize(verb)
+>**Translations**: revitalisieren, wiederbeleben, neu beleben
+>**Forms**: revitalized, revitalized (BE frequently used: revitalise)
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The cream will revitalize dry skin.
+<!--SR:!2025-05-22,4,322-->
+
+>[!question]+ Word
+>- something that you achieved
+>- success in achieving something
+>
+>>[!tip]- Translations
+>>- Erreichung
+>>- Leistung
+>>- Erreichen
+?
+>[!vocab]+ attainment(noun)
+>**Translations**: Erreichung, Leistung, Erreichen
+>**Pronunciation**: /əˈteɪnmənt/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ed/ed6090bb1709e0abcaeefcbdb531a432-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ed/ed6090bb1709e0abcaeefcbdb531a432-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- Obtaining my doctorate was one of my biggest attainments.
+>>- Bonus payments encourage the attainment of higher production targets.
+>>- schools with high levels of academic attainment
+<!--SR:!2025-05-21,3,303-->
+
+>[!question]+ Word
+>- the act or state of sticking together tightly; especially : unity
+>- union between similar plant parts or organs
+>- molecular attraction by which the particles of a body are united throughout the mass
+>
+>>[!tip]- Translations
+>>- Zusammenhalt
+>>- Kohäsion
+>>- Zusammenhang
+?
+>[!vocab]+ cohesion(noun)
+>**Translations**: Zusammenhalt, Kohäsion, Zusammenhang
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f6/f61bc28aac428bfb11c51ea329cbc7ff-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f6/f61bc28aac428bfb11c51ea329cbc7ff-100.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-19,1,283-->
+
+>[!question]+ Word
+>- the faculty or phenomenon of finding valuable or agreeable things not sought for; also : an instance of this
+>
+>>[!tip]- Translations
+>>- Glücksfall
+>>- Spürsinn
+>>- glücklicher Zufall
+?
+>[!vocab]+ serendipity(noun)
+>**Translations**: Glücksfall, Spürsinn, glücklicher Zufall
+>**Pronunciation**: /ˌsɛ.ɹən.ˈdɪ.pɪ.ti/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/e0/e04f90343e3d3a9f8993e963bf063e2e-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e0/e04f90343e3d3a9f8993e963bf063e2e-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- It was serendipity that I found money on the street.
+<!--SR:!2025-05-22,4,323-->
+
 
