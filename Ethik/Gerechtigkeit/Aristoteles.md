@@ -4,7 +4,7 @@
 >[!Definition]
 >**gerecht** ist das, was **Glück für staatliche Gemeinschaft schafft und erhält**
 
-##  **Gesetz** ist gerecht
+##  Gesetz ist gerecht
 - Gesetzestreue handeln gerecht, Gesetzeswidrige ungerecht
 
 ## Gerechtigkeit als Tugend schlechthin
