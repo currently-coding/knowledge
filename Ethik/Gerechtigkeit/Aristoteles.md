@@ -8,4 +8,7 @@
 - Gesetzestreue handeln gerecht, Gesetzeswidrige ungerecht
 
 ## Gerechtigkeit als Tugend schlechthin
+- Gerechtigkeit ist **zielhafte Tugend**, sie ist auf die **Mitmenschen bezogen**
+-> daher **vollkommenste Tugend**
+
 
