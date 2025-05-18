@@ -1,10 +1,3 @@
-incentive
-obstreperous
-attachment
-toxic
-lethargic
-bid
-alteration
 syndrome
 enthral
 tangible

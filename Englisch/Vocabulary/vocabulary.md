@@ -885,26 +885,6 @@
 <!--SR:!2025-05-26,11,310-->
 
 >[!question]+ Word
->- to forbid by authority : enjoin
->- to prevent from doing something
->- preclude
->
->>[!tip]- Translations
->>- untersagen
->>- verbieten
->>- verhindern
-?
->[!vocab]+ to prohibit(verb)
->**Translations**: untersagen, verbieten, verhindern
->**Forms**: prohibited, prohibited
->**Pronunciation**: /pɹəʊˈhɪbɪt/
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/bc/bc56ee21f7c9d61984fde885e8ce116f-200.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- The company prohibits smoking in the entire building.
-<!--SR:!2025-05-25,10,310-->
-
->[!question]+ Word
 >- sympathetic sorrow for one suffering, distressed, or unhappy
 >- capacity to feel pity
 >- something to be regretted
@@ -1952,4 +1932,137 @@
 >>- It was serendipity that I found money on the street.
 <!--SR:!2025-05-22,4,323-->
 
+
+>[!question]+ Word
+>- something that incites or has a tendency to incite to determination or action
+>
+>>[!tip]- Translations
+>>- Anreiz
+>>- Anreize
+>>- Ansporn
+?
+>[!vocab]+ incentive(noun)
+>**Translations**: Anreiz, Anreize, Ansporn
+>**Pronunciation**: /ɪnˈsɛntɪv/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/bb/bb891af429db101fc90bf47b80da6e12-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/bb/bb891af429db101fc90bf47b80da6e12-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The gold medal was an incentive for him to improve his performance further.
+>>- My termination was a good incentive to look for a better job.
+>>- The medal was an incentive for him to improve his performance even more.
+<!--SR:!2025-05-19,1,283-->
+
+>[!question]+ Word
+>- marked by unruly or aggressive noisiness : clamorous
+>- stubbornly resistant to control : unruly
+>
+>>[!tip]- Translations
+>>- aufmüpfig
+>>- ungebärdig
+>>- aufsässig
+?
+>[!vocab]+ obstreperous(adjective)
+>**Translations**: aufmüpfig, ungebärdig, aufsässig
+>**Pronunciation**: /ɒbˈstɹɛp.əɹ.əs/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/94/9484d77405d321f2138b49b0f04c974d-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-21,3,302-->
+
+>[!question]+ Word
+>- a seizure by legal process; also : the writ or precept commanding such seizure
+>- the state of being personally attached : fidelity
+>- affectionate regard
+>
+>>[!tip]- Translations
+>>- Befestigung
+>>- Anhang
+>>- Pfändung
+?
+>[!vocab]+ attachment(noun)
+>**Translations**: Befestigung, Anhang, Pfändung
+>**Pronunciation**: /əˈtætʃmənt/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/44/44290cefe42924d04a92d99428a95f27-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/44/44290cefe42924d04a92d99428a95f27-101.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- No attachments are required for mounting.
+>>- The email included three attachments.
+>>- The attachment of the house was averted.
+>>- Emotional attachment between parent and child is important.
+>>- The blender came with several attachments.
+<!--SR:!2025-05-21,3,302-->
+
+>[!question]+ Word
+>- containing or being poisonous material especially when capable of causing death or serious debilitation
+>- exhibiting symptoms of infection or toxicosis
+>- extremely harsh, malicious, or harmful
+>
+>>[!tip]- Translations
+>>- toxisch
+>>- giftig
+>>- gifthaltig
+?
+>[!vocab]+ toxic(adjective)
+>**Translations**: toxisch, giftig, gifthaltig
+>**Pronunciation**: /ˈtɒk.sɪk/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/15/15037c1b515e37a28a04bcbe719d5b71-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/15/15037c1b515e37a28a04bcbe719d5b71-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- Toxic waste is a serious problem in industrial areas.
+>>- Some detergents are toxic.
+<!--SR:!2025-05-19,1,283-->
+
+>[!question]+ Word
+>- of, relating to, or characterized by laziness or lack of energy : feeling or affected by lethargy : sluggish
+>- indifferent, apathetic
+>
+>>[!tip]- Translations
+>>- lethargisch
+>>- träge
+>>- antriebslos
+?
+>[!vocab]+ lethargic(adjective)
+>**Translations**: lethargisch, träge, antriebslos
+>**Pronunciation**: /ləˈθɑɹdʒɪk/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/29/29dce97accbfdda799c9383e0a4d066a-300.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/29/29dce97accbfdda799c9383e0a4d066a-300.mp3 type="audio/mpeg">Unsupported.</audio>
+<!--SR:!2025-05-22,4,322-->
+
+>[!question]+ Word
+>- a statement of what one will give or take for something; especially : an offer of a price
+>- something offered as a bid
+>- the act of one who bids
+>
+>>[!tip]- Translations
+>>- Gebot
+>>- Angebot
+>>- Bieten
+?
+>[!vocab]+ bid(noun)
+>**Translations**: Gebot, Angebot, Bieten
+>**Pronunciation**: /bɪd/
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/12/12879fe24168807c1ef38cd5e580ee3a-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/12/12879fe24168807c1ef38cd5e580ee3a-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- The art lover submitted a high bid on the painting.
+>>- The seller accepted my bid of 50 dollars.
+
+>[!question]+ Word
+>- the act or process of altering something : the state of being altered
+>- the result of changing or altering something: such as
+>- a change made in fitting a garment
+>
+>>[!tip]- Translations
+>>- Änderung
+>>- Veränderung
+>>- Umbau
+?
+>[!vocab]+ alteration(noun)
+>**Translations**: Änderung, Veränderung, Umbau
+>**Pronunciation**: /ɒl.tə(ɹ)ˈeɪ.ʃən/
+>**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/86/866208c5b4a74b32974bffb0f90311ca-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/86/866208c5b4a74b32974bffb0f90311ca-100.mp3 type="audio/mpeg">Unsupported.</audio>
+>>[!Example]+ Examples
+>>- I saved the text after making some alterations.
+>>- The photo shows the building prior to the alterations.
+>>- The writer made some alterations to the original text.
+<!--SR:!2025-05-22,4,322-->
 
