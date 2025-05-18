@@ -1250,7 +1250,7 @@
 >**Pronunciation**: /ˈwɪstfəl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-18,3,265-->
+<!--SR:!2025-05-28,10,285-->
 
 >[!question]+ Word
 >- a selection from a writing or discourse : excerpt
@@ -1369,7 +1369,7 @@
 >>- The new guidelines supersede the old ones.
 >>- The former manager was superseded by a colleague.
 >>- The computer has superseded the typewriter.
-<!--SR:!2025-05-18,3,317-->
+<!--SR:!2025-05-30,12,337-->
 
 >[!question]+ Word
 >- a court or forum of justice
@@ -1439,7 +1439,7 @@
 >>- We cannot foresee the future.
 >>- Nobody can foresee market developments with certainty.
 >>- We cannot foresee the results of our experiment.
-<!--SR:!2025-05-18,3,317-->
+<!--SR:!2025-05-29,11,317-->
 
 >[!question]+ Word
 >- of little weight or importance
@@ -1490,7 +1490,7 @@
 >**Pronunciation**: /haɪˈpɝːbəli/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/07/0749670dfa3d847f9154f9df7006758c-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/07/0749670dfa3d847f9154f9df7006758c-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-18,3,317-->
+<!--SR:!2025-05-30,12,337-->
 
 >[!question]+ Word
 >- enjoying good repute : held in esteem
@@ -1510,7 +1510,7 @@
 >>- I downloaded the software from a reputable source.
 >>- The government only works with reputable companies.
 >>- My grandparents wanted my mother to marry a reputable man.
-<!--SR:!2025-05-18,3,286-->
+<!--SR:!2025-05-29,11,306-->
 
 >[!question]+ Word
 >- to occur, fall, or come between points of time or events
@@ -1619,7 +1619,7 @@
 >>[!Example]+ Examples
 >>- We are trying to motivate our employees to top performance.
 >>- Great leaders motivate their collaborators.
-<!--SR:!2025-05-18,3,317-->
+<!--SR:!2025-05-29,11,337-->
 
 >[!question]+ Word
 >- the act or fact of being raised in position or rank : preferment
@@ -1644,7 +1644,7 @@
 >>- My promotion was a result of hard work.
 >>- I got one product for free because of a promotion.
 >>- We launched a promotion to increase our sales.
-<!--SR:!2025-05-18,3,317-->
+<!--SR:!2025-05-30,12,337-->
 
 >[!question]+ Word
 >- to go on board a vehicle for transportation
@@ -1740,7 +1740,7 @@
 >**Translations**: sorgfältig, akribisch, genau
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/6c/6c5448179e2004e0f7cff39b2dce928e-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/6c/6c5448179e2004e0f7cff39b2dce928e-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-18,1,279-->
+<!--SR:!2025-05-21,3,299-->
 
 >[!question]+ Word
 >- Entwurf
