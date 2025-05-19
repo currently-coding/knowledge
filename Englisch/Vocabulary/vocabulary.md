@@ -99,7 +99,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/18/1869119e100e3fd60b1dfad777a61049-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The theory is based on three postulates.
-<!--SR:!2025-05-19,8,276-->
+<!--SR:!2025-06-14,26,296-->
 
 >[!question]+ Word
 >- serving or tending to protect oneself
@@ -225,7 +225,7 @@
 >>[!Example]+ Examples
 >>- He should spend less money and not be so profligate.
 >>- She left her profligate life behind to become a better person.
-<!--SR:!2025-05-19,8,276-->
+<!--SR:!2025-06-14,26,296-->
 
 >[!question]+ Word
 >- shortness of duration; especially : shortness or conciseness of expression
@@ -241,7 +241,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e7/e794f072286cdb9e7c003b5f91116a69-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Brevity is a typical feature of technical texts.
-<!--SR:!2025-05-19,7,256-->
+<!--SR:!2025-06-09,21,276-->
 
 >[!question]+ Word
 >- in an efficient manner : with success, competence, or adequate effect
@@ -339,7 +339,7 @@
 >>- I demonstrated that my initial assumption was correct.
 >>- The salesperson demonstrated the correct use of the chainsaw.
 >>- The salesman demonstrated the correct use of the product.
-<!--SR:!2025-05-19,8,283-->
+<!--SR:!2025-06-15,27,303-->
 
 >[!question]+ Word
 >- to make use of : turn to practical use or account
@@ -2008,7 +2008,7 @@
 >>[!Example]+ Examples
 >>- Toxic waste is a serious problem in industrial areas.
 >>- Some detergents are toxic.
-<!--SR:!2025-05-19,1,283-->
+<!--SR:!2025-05-22,3,303-->
 
 >[!question]+ Word
 >- of, relating to, or characterized by laziness or lack of energy : feeling or affected by lethargy : sluggish

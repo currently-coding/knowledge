@@ -1,3 +1,4 @@
+retaliate
 syndrome
 enthral
 tangible
