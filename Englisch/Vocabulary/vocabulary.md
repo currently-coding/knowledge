@@ -206,7 +206,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/01/01c81308522327b0b7ecdeb6bdc7bf9c-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Many different teams competed in the championship.
-<!--SR:!2025-05-19,8,276-->
+<!--SR:!2025-06-15,27,296-->
 
 >[!question]+ Word
 >- wildly extravagant
@@ -258,7 +258,7 @@
 >>[!Example]+ Examples
 >>- The team works quickly and efficiently.
 >>- The company implemented the changes quickly and efficiently.
-<!--SR:!2025-05-19,8,276-->
+<!--SR:!2025-06-13,25,296-->
 
 >[!question]+ Word
 >- to become intense or more intensive : grow stronger or more acute
@@ -1950,7 +1950,7 @@
 >>- The gold medal was an incentive for him to improve his performance further.
 >>- My termination was a good incentive to look for a better job.
 >>- The medal was an incentive for him to improve his performance even more.
-<!--SR:!2025-05-19,1,283-->
+<!--SR:!2025-05-20,1,263-->
 
 >[!question]+ Word
 >- marked by unruly or aggressive noisiness : clamorous
