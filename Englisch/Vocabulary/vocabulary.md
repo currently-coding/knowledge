@@ -1913,7 +1913,7 @@
 >**Translations**: Zusammenhalt, Kohäsion, Zusammenhang
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f6/f61bc28aac428bfb11c51ea329cbc7ff-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f6/f61bc28aac428bfb11c51ea329cbc7ff-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-19,1,283-->
+<!--SR:!2025-05-22,3,283-->
 
 >[!question]+ Word
 >- the faculty or phenomenon of finding valuable or agreeable things not sought for; also : an instance of this
@@ -2025,25 +2025,6 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/29/29dce97accbfdda799c9383e0a4d066a-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/29/29dce97accbfdda799c9383e0a4d066a-300.mp3 type="audio/mpeg">Unsupported.</audio>
 <!--SR:!2025-05-22,4,322-->
-
->[!question]+ Word
->- a statement of what one will give or take for something; especially : an offer of a price
->- something offered as a bid
->- the act of one who bids
->
->>[!tip]- Translations
->>- Gebot
->>- Angebot
->>- Bieten
-?
->[!vocab]+ bid(noun)
->**Translations**: Gebot, Angebot, Bieten
->**Pronunciation**: /bɪd/
->**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/12/12879fe24168807c1ef38cd5e580ee3a-100.mp3 type="audio/mpeg">Unsupported.</audio>
->**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/12/12879fe24168807c1ef38cd5e580ee3a-100.mp3 type="audio/mpeg">Unsupported.</audio>
->>[!Example]+ Examples
->>- The art lover submitted a high bid on the painting.
->>- The seller accepted my bid of 50 dollars.
 
 >[!question]+ Word
 >- the act or process of altering something : the state of being altered
