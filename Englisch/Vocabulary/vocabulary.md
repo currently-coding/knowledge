@@ -42,7 +42,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e4/e4166a3b07bbaee78e078661103a9d0a-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- I will exemplify my point with a story.
-<!--SR:!2025-05-20,8,277-->
+<!--SR:!2025-06-10,21,277-->
 
 >[!question]+ Word
 >
@@ -188,7 +188,7 @@
 >>- The margin is the difference between the cost and selling price.
 >>- I added an annotation in the margin with my comments.
 >>- Our new price list reflects the higher margin we want to achieve.
-<!--SR:!2025-05-20,9,276-->
+<!--SR:!2025-06-17,28,296-->
 
 >[!question]+ Word
 >- designation as champion
@@ -278,7 +278,7 @@
 >>[!Example]+ Examples
 >>- We intensified our efforts to solve the urgent problem.
 >>- She intensified her efforts to exercise regularly.
-<!--SR:!2025-05-20,9,276-->
+<!--SR:!2025-06-18,29,296-->
 
 >[!question]+ Word
 >- moral depravity or corruption : wickedness
@@ -315,7 +315,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/31/3145c2ef4c310129fb265093244c9c1a-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Slavery is a violation of human rights.
-<!--SR:!2025-05-20,9,276-->
+<!--SR:!2025-06-18,29,296-->
 
 >[!question]+ Word
 >- to show clearly
@@ -1342,7 +1342,7 @@
 >**Translations**: philanthropisch, menschenfreundlich
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ca/ca697c24ab96f93801554d9994636f92-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ca/ca697c24ab96f93801554d9994636f92-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-20,3,297-->
+<!--SR:!2025-05-31,11,317-->
 
 >[!question]+ Word
 >- the act or fact of dwelling in a place for some time
@@ -1489,7 +1489,7 @@
 >>[!Example]+ Examples
 >>- A peer is a member of the House of Lords.
 >>- I earn as much as my peers in the company.
-<!--SR:!2025-05-20,3,297-->
+<!--SR:!2025-05-31,11,317-->
 
 >[!question]+ Word
 >- keenness and depth of perception, discernment, or discrimination especially in practical matters
@@ -1506,7 +1506,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/40/4050b64e0375e0ab881313b4059e6344-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- She is brilliant, her acumen is legendary.
-<!--SR:!2025-05-20,3,277-->
+<!--SR:!2025-05-31,11,297-->
 
 >[!question]+ Word
 >- an inclination or predisposition toward something; especially : a strong inherent inclination/natural desire toward something objectionable(often negative)
@@ -1520,7 +1520,7 @@
 >**Pronunciation**: /pɹoʊˈklɪvəti/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-20,3,277-->
+<!--SR:!2025-05-30,10,297-->
 
 >[!question]+ Word
 >- auspicious, favorable
@@ -1950,7 +1950,7 @@
 >>- The gold medal was an incentive for him to improve his performance further.
 >>- My termination was a good incentive to look for a better job.
 >>- The medal was an incentive for him to improve his performance even more.
-<!--SR:!2025-05-20,1,263-->
+<!--SR:!2025-05-23,3,263-->
 
 >[!question]+ Word
 >- marked by unruly or aggressive noisiness : clamorous
