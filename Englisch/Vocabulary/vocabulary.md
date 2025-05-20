@@ -1359,7 +1359,7 @@
 >**Pronunciation**: /ˈɹɛz.ɪ.dəns/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ca/cad4811efcdb1000aae7a6841d995713-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ca/cad4811efcdb1000aae7a6841d995713-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-20,3,297-->
+<!--SR:!2025-05-30,10,297-->
 
 >[!question]+ Word
 >- to see (something, such as a development) beforehand
