@@ -124,7 +124,7 @@
 ?
 >[!vocab]+ gravitas(noun)
 >**Translations**: Bedeutung
-<!--SR:!2025-05-21,10,276-->
+<!--SR:!2025-06-22,32,296-->
 
 
 >[!question]+ Word
@@ -144,7 +144,7 @@
 >>[!Example]+ Examples
 >>- The level of complexity affects the product cost.
 >>- This story presents a high degree of complexity.
-<!--SR:!2025-05-20,9,276-->
+<!--SR:!2025-06-19,29,296-->
 
 >[!question]+ Word
 >- to make known or public
@@ -358,7 +358,7 @@
 >>[!Example]+ Examples
 >>- We utilize the information for the drafting of the report.
 >>- They utilize solar power to heat their house.
-<!--SR:!2025-05-20,9,283-->
+<!--SR:!2025-06-21,31,303-->
 
 >[!question]+ Word
 >- of, relating to, or constituting the degree of comparison in a language that denotes increase in the quality, quantity, or relation expressed by an adjective or adverb
@@ -1540,7 +1540,7 @@
 >>[!Example]+ Examples
 >>- The family is prosperous, they do not need to worry about money.
 >>- She is a prosperous businesswoman and a millionaire.
-<!--SR:!2025-05-20,3,297-->
+<!--SR:!2025-06-01,11,317-->
 
 >[!question]+ Word
 >- to provide with a motive : impel
@@ -1622,7 +1622,7 @@
 >**Pronunciation**: /dɪˈplɔː/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/44/4477e0afb5d9fb9f749f9bd33ced8d2c-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/44/4477e0afb5d9fb9f749f9bd33ced8d2c-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-20,3,299-->
+<!--SR:!2025-06-02,12,319-->
 
 >[!question]+ Word
 >- having secondary rank or importance : minor, subordinate
@@ -1680,7 +1680,7 @@
 >**Translations**: sorgfältig, akribisch, genau
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/6c/6c5448179e2004e0f7cff39b2dce928e-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/6c/6c5448179e2004e0f7cff39b2dce928e-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-21,3,299-->
+<!--SR:!2025-06-01,11,319-->
 
 >[!question]+ Word
 >- Entwurf
@@ -1696,7 +1696,7 @@
 >>- The first draft of the letter is finished.
 >>- The politician presented the new draft for the education policy.
 >>- The architect drew a draft of the building project.
-<!--SR:!2025-05-21,4,320-->
+<!--SR:!2025-06-05,15,340-->
 
 >[!question]+ Word
 >- of or relating to the intellect or its use
@@ -1715,7 +1715,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/20/20a531368c2282bb0d88382ab0b8488e-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The article remains intellectual property of the author.
-<!--SR:!2025-05-21,4,319-->
+<!--SR:!2025-06-06,16,339-->
 
 >[!question]+ Word
 >- make up, form, compose
@@ -1737,7 +1737,7 @@
 >>- Children at the age of one constitute a small part of the population.
 >>- Our galaxy constitutes only a small part of the universe.
 >>- These theories constitute the basis of our research.
-<!--SR:!2025-05-21,4,319-->
+<!--SR:!2025-05-23,2,299-->
 
 >[!question]+ Word
 >- embodying a fallacy
@@ -1755,7 +1755,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/50/5018780f9d7a8f47170e4c83f422fc4e-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- He clung to the fallacious hope that she would return.
-<!--SR:!2025-05-21,4,320-->
+<!--SR:!2025-06-03,13,320-->
 
 >[!question]+ Word
 >- a false or mistaken idea
@@ -1823,7 +1823,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d0/d08cd5d6d7577852821e432309ebe22e-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The company rationalized its processes to reduce costs.
-<!--SR:!2025-05-21,4,320-->
+<!--SR:!2025-06-03,13,320-->
 
 >[!question]+ Word
 >- a device or token especially of membership in a society or group
@@ -1965,7 +1965,7 @@
 >**Translations**: aufmüpfig, ungebärdig, aufsässig
 >**Pronunciation**: /ɒbˈstɹɛp.əɹ.əs/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/94/9484d77405d321f2138b49b0f04c974d-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-21,3,302-->
+<!--SR:!2025-05-23,2,282-->
 
 >[!question]+ Word
 >- a seizure by legal process; also : the writ or precept commanding such seizure
