@@ -20,7 +20,7 @@
 >>- The company exploited their competitive advantage to become the market leader.
 >>- The company wants to exploit new resources.
 >>- The media exploited the scandal.
-<!--SR:!2025-05-22,11,317-->
+<!--SR:!2025-07-03,42,337-->
 
 >[!question]+ Word
 >
@@ -296,7 +296,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/03/03f753c08ba5ff2bd7d2ee230b4683b1-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Smoking can be a vice.
-<!--SR:!2025-05-21,10,276-->
+<!--SR:!2025-06-24,33,296-->
 
 >[!question]+ Word
 >- the act of violating : the state of being violated: such as
@@ -1604,7 +1604,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/2a/2a288121ef536b483481dde37db6e5de-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- We embarked at sunrise and the cruise began.
-<!--SR:!2025-05-21,4,319-->
+<!--SR:!2025-05-24,2,299-->
 
 >[!question]+ Word
 >- to feel or express grief for
@@ -1644,7 +1644,7 @@
 >>- The project was discarded for petty reasons.
 >>- It is no use arguing about petty matters.
 >>- My boss is very petty and overly critical.
-<!--SR:!2025-05-21,3,299-->
+<!--SR:!2025-06-03,12,319-->
 
 >[!question]+ Word
 >- to confuse and surprise somebody
@@ -1774,7 +1774,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/5c/5c325d8e7fe16ae23bd5e4e0812fd582-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- This conclusion is a fallacy and not correct.
-<!--SR:!2025-05-21,4,319-->
+<!--SR:!2025-06-07,16,339-->
 
 >[!question]+ Word
 >- a long search for something, especially for some quality such as happiness
@@ -1808,7 +1808,7 @@
 >**Pronunciation**: /ˌɛɹʊˈdɪʃən/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/0c/0c3c1e44e5a16a012839f04c21ef9d83-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/0c/0c3c1e44e5a16a012839f04c21ef9d83-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-21,4,319-->
+<!--SR:!2025-06-05,14,339-->
 
 >[!question]+ Word
 >- to make changes to a business, system, etc. in order to make it more efficient, especially by spending less money
@@ -1845,7 +1845,7 @@
 >>- I pinned the badge to my jacket.
 >>- He wore a uniform with an official badge.
 >>- Visitors must carry a badge at all times.
-<!--SR:!2025-05-21,3,300-->
+<!--SR:!2025-06-02,11,320-->
 
 >[!question]+ Word
 >- having or showing knowledge that is gained by studying : possessing or displaying erudition
@@ -1877,7 +1877,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/63/63b8fc7437e1a34474961f21c59ec99f-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The cream will revitalize dry skin.
-<!--SR:!2025-05-22,4,322-->
+<!--SR:!2025-06-07,16,342-->
 
 >[!question]+ Word
 >- something that you achieved
@@ -1913,7 +1913,7 @@
 >**Translations**: Zusammenhalt, Kohäsion, Zusammenhang
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f6/f61bc28aac428bfb11c51ea329cbc7ff-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f6/f61bc28aac428bfb11c51ea329cbc7ff-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-22,3,283-->
+<!--SR:!2025-06-01,10,303-->
 
 >[!question]+ Word
 >- the faculty or phenomenon of finding valuable or agreeable things not sought for; also : an instance of this
@@ -1930,7 +1930,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e0/e04f90343e3d3a9f8993e963bf063e2e-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- It was serendipity that I found money on the street.
-<!--SR:!2025-05-22,4,323-->
+<!--SR:!2025-06-06,15,343-->
 
 
 >[!question]+ Word
@@ -1988,7 +1988,7 @@
 >>- The attachment of the house was averted.
 >>- Emotional attachment between parent and child is important.
 >>- The blender came with several attachments.
-<!--SR:!2025-05-21,3,302-->
+<!--SR:!2025-06-02,11,322-->
 
 >[!question]+ Word
 >- containing or being poisonous material especially when capable of causing death or serious debilitation
@@ -2008,7 +2008,7 @@
 >>[!Example]+ Examples
 >>- Toxic waste is a serious problem in industrial areas.
 >>- Some detergents are toxic.
-<!--SR:!2025-05-22,3,303-->
+<!--SR:!2025-06-03,12,323-->
 
 >[!question]+ Word
 >- of, relating to, or characterized by laziness or lack of energy : feeling or affected by lethargy : sluggish
@@ -2045,5 +2045,5 @@
 >>- I saved the text after making some alterations.
 >>- The photo shows the building prior to the alterations.
 >>- The writer made some alterations to the original text.
-<!--SR:!2025-05-22,4,322-->
+<!--SR:!2025-06-06,15,342-->
 
