@@ -1,5 +1,5 @@
-## [[Madama Butterfly]] - [[Miss Saigon]]
 ### Allgemeines
+
 | Oper                             | Musical                                               |
 | -------------------------------- | ----------------------------------------------------- |
 | klassischer Operngesang          | Pop-Gesang                                            |
