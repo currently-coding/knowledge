@@ -2864,7 +2864,7 @@ var require_dist = __commonJS({
       const u = { top: 50, right: 30, bottom: 50, left: 50 };
       class Xh {
         constructor(t2, { title: o2, xLabel: i2, yLabel: e2, data: { datasets: r2 }, options: s2 }) {
-          this.options = Bg({ unxkcdify: false, dotSize: 5, showLine: false, timeFormat: "", xTickCount: 3, yTickCount: 3, legendPosition: b.positionType.upLeft, dataColors: O, fontFamily: "xkcd", strokeColor: "black", backgroundColor: "white", showLegend: true }, s2), o2 && (this.title = o2, u.top = 60), i2 && (this.xLabel = i2, u.bottom = 50), e2 && (this.yLabel = e2, u.left = 70), this.data = { datasets: r2 }, this.filter = "url(#xkcdify)", this.fontFamily = this.options.fontFamily || "xkcd", this.options.unxkcdify && (this.filter = null, this.fontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'), this.svgEl = f(t2).style("stroke-width", 3).style("font-family", this.fontFamily).style("background", this.options.backgroundColor).attr("width", t2.parentElement.clientWidth).attr("height", Math.min(2 * t2.parentElement.clientWidth / 3, window.innerHeight)), this.svgEl.selectAll("*").remove(), this.chart = this.svgEl.append("g").attr("transform", `translate(${u.left},${u.top})`), this.width = this.svgEl.attr("width") - u.left - u.right, this.height = this.svgEl.attr("height") - u.top - u.bottom, M(this.svgEl), N(this.svgEl), this.render();
+          this.options = Bg({ unxkcdify: false, dotSize: 1, showLine: false, timeFormat: "", xTickCount: 3, yTickCount: 3, legendPosition: b.positionType.upLeft, dataColors: O, fontFamily: "xkcd", strokeColor: "black", backgroundColor: "white", showLegend: true }, s2), o2 && (this.title = o2, u.top = 60), i2 && (this.xLabel = i2, u.bottom = 50), e2 && (this.yLabel = e2, u.left = 70), this.data = { datasets: r2 }, this.filter = "url(#xkcdify)", this.fontFamily = this.options.fontFamily || "xkcd", this.options.unxkcdify && (this.filter = null, this.fontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'), this.svgEl = f(t2).style("stroke-width", 3).style("font-family", this.fontFamily).style("background", this.options.backgroundColor).attr("width", t2.parentElement.clientWidth).attr("height", Math.min(2 * t2.parentElement.clientWidth / 3, window.innerHeight)), this.svgEl.selectAll("*").remove(), this.chart = this.svgEl.append("g").attr("transform", `translate(${u.left},${u.top})`), this.width = this.svgEl.attr("width") - u.left - u.right, this.height = this.svgEl.attr("height") - u.top - u.bottom, M(this.svgEl), N(this.svgEl), this.render();
         }
         render() {
           this.title && k.title(this.svgEl, this.title, this.options.strokeColor), this.xLabel && k.xLabel(this.svgEl, this.xLabel, this.options.strokeColor), this.yLabel && k.yLabel(this.svgEl, this.yLabel, this.options.strokeColor);
@@ -3107,11 +3107,11 @@ var SizeHistoryChart = class {
         }]
       },
       options: {
-        xTickCount: 10,
-        yTickCount: 10,
-        dotSize: 0.5,
+        xTickCount: 8,
+        yTickCount: 8,
+        dotSize: 0.3,
         showLine: true,
-        timeFormat: "MM-DD-YYYY"
+        timeFormat: "DD-MM-YYYY"
       }
     });
   }
