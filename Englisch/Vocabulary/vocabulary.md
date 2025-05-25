@@ -1228,7 +1228,7 @@
 >>- The shampoo is made of tropical plant extracts.
 >>- The author read an extract of his new novel.
 >>- The author read an extract from his new novel.
-<!--SR:!2025-05-24,9,305-->
+<!--SR:!2025-06-26,32,325-->
 
 >[!question]+ Word
 >- not to be avoided, changed, or resisted : inevitable
