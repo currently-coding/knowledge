@@ -51,8 +51,14 @@
 .markdown-preview-view h6:before {
     content: '##### ';
 }
-.cm-header:before {
-    color: var(--text-faint);
+
+.markdown-preview-view h1:before,
+.markdown-preview-view h2:before,
+.markdown-preview-view h3:before,
+.markdown-preview-view h4:before,
+.markdown-preview-view h5:before,
+.markdown-preview-view h6:before {
+    color: var(--text-faint); /* added color for reading mode */
 }
 
 .cm-active.cm-line .cm-header-1:before,
@@ -63,3 +69,4 @@
 .cm-active.cm-line .cm-header-6:before {
     content: '';
 }
+

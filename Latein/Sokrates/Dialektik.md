@@ -1,0 +1,13 @@
+>[!Definition]
+>Dialektik := fragend-entwickelnde Gesprächsmethode die zu Wissenszuwachs führt
+
+>[!Definition] sokratische Dialektik
+>1. geht von einer Grundannahme aus
+>2. nimmt sokratisches Nicht-Wissen des Fragenden an
+>3. Prüfung der Grundannahme durch Fragen und deren Antworten auf Wahrheitsgehalt
+>
+>-> oft wird die Grundannahme dadurch widerlegt - eine neue/bessere These wird nicht erreicht
+
+## Vorteile(ggu. reinem Belehren)
+- lebendiges Gespräch -> keine langen Monologe
+- Wissensgewinn entsteht beim Antwortenden von selbst(-> [[Mäeutik]] = "Hebammenkunst")
