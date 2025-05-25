@@ -12,4 +12,4 @@
 	- damals: Librettist bekannter
 	- heute: Libretto als Beiwerk eines Musiktheaters
 >[!example] Beispiel
->Zu Mozarts Zeiten war der Librettist bekannter und galt als *Urheber des Werkes*. Heute wird der Librettist der *Zauberfloete*, *Emanuel Schikaneder* kaum noch erwähnt.
+>Zu Mozarts Zeiten war der Librettist bekannter und galt als *Urheber des Werkes*. Heute wird der Librettist der *Zauberflöte*, *Emanuel Schikaneder* kaum noch erwähnt.
