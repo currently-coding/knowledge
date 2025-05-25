@@ -377,7 +377,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/72/723a99d8c2d2a7654113ca57c2df7123-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The professor conducts comparative research.
-<!--SR:!2025-05-21,10,283-->
+<!--SR:!2025-06-27,33,303-->
 
 >[!question]+ Word
 >- capable of being done or carried out
@@ -418,7 +418,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/62/620099028f603c1f9352fce5801c2e58-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- She can easily discern his face in the crowd.
-<!--SR:!2025-05-25,11,288-->
+<!--SR:!2025-07-01,37,308-->
 
 >[!question]+ Word
 >- to give advance thought, discussion, or treatment to
@@ -480,7 +480,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/08/08290ab350f041d54b1da164022ed268-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- I refute these false allegations.
-<!--SR:!2025-05-24,9,302-->
+<!--SR:!2025-06-26,32,322-->
 
 >[!question]+ Word
 >- to place emphasis on : stress
@@ -541,7 +541,7 @@
 >>[!Example]+ Examples
 >>- The scandal provoked public anger.
 >>- The politician's statement provoked public criticism.
-<!--SR:!2025-05-24,10,288-->
+<!--SR:!2025-06-28,34,308-->
 
 >[!question]+ Word
 >- to make greater, more numerous, larger, or more intense
@@ -626,7 +626,7 @@
 >>- I deleted the link to the file on my website.
 >>- The link opens in a new tab.
 >>- The link to this file was deleted.
-<!--SR:!2025-05-24,9,302-->
+<!--SR:!2025-06-25,31,322-->
 
 >[!question]+ Word
 >- a conclusion derived through logic : inference
@@ -790,7 +790,7 @@
 >>[!Example]+ Examples
 >>- She solved the problem precisely as the teacher expected.
 >>- I can set the scaling of the machine precisely.
-<!--SR:!2025-05-24,9,310-->
+<!--SR:!2025-06-26,32,330-->
 
 >[!question]+ Word
 >- one that occupies a particular place regularly, routinely, or for a period of time
@@ -1029,7 +1029,7 @@
 >>- The pupil has undermined the teacher's authority.
 >>- The student has undermined the teacher's authority.
 >>- Frequent lying undermines any trust.
-<!--SR:!2025-05-24,9,317-->
+<!--SR:!2025-06-27,33,337-->
 
 >[!question]+ Word
 >- a judgment involving condemnation
@@ -1047,7 +1047,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ac/ac70ee11b6753a3c70ae2fb5df05ffd8-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The politician accepted the public censure and resigned.
-<!--SR:!2025-05-24,9,317-->
+<!--SR:!2025-06-27,33,337-->
 
 >[!question]+ Word
 >- to fix conclusively or authoritatively
@@ -1737,7 +1737,7 @@
 >>- Children at the age of one constitute a small part of the population.
 >>- Our galaxy constitutes only a small part of the universe.
 >>- These theories constitute the basis of our research.
-<!--SR:!2025-05-23,2,299-->
+<!--SR:!2025-06-01,7,319-->
 
 >[!question]+ Word
 >- embodying a fallacy
@@ -1950,7 +1950,7 @@
 >>- The gold medal was an incentive for him to improve his performance further.
 >>- My termination was a good incentive to look for a better job.
 >>- The medal was an incentive for him to improve his performance even more.
-<!--SR:!2025-05-23,3,263-->
+<!--SR:!2025-05-27,2,243-->
 
 >[!question]+ Word
 >- marked by unruly or aggressive noisiness : clamorous
