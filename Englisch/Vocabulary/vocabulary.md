@@ -499,7 +499,7 @@
 >>[!Example]+ Examples
 >>- He emphasized the importance of donations.
 >>- The professor emphasized the importance of recycling.
-<!--SR:!2025-05-25,10,302-->
+<!--SR:!2025-06-28,34,322-->
 
 
 >[!question]+ Word
