@@ -114,7 +114,7 @@
 >**Pronunciation**: /pɹoʊtɛktɪv/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/8d/8de0913c031da954e1eabeab2c555428-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/8d/8de0913c031da954e1eabeab2c555428-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-21,10,276-->
+<!--SR:!2025-06-28,34,296-->
 
 >[!question]+ Word
 >- high seriousness (as in a person's bearing or in the treatment of a subject)
@@ -399,7 +399,7 @@
 >>- This is a good idea, but it's not feasible in practice.
 >>- We must find a solution that is really feasible.
 >>- The plan was well thought out and feasible.
-<!--SR:!2025-05-21,10,283-->
+<!--SR:!2025-06-26,32,303-->
 
 >[!question]+ Word
 >- to detect with the eyes
@@ -441,7 +441,7 @@
 >>- Product designers anticipate the needs of the customers.
 >>- You cannot anticipate every possible reaction to an act.
 >>- I anticipated my mother's reaction.
-<!--SR:!2025-05-25,10,302-->
+<!--SR:!2025-06-29,35,322-->
 
 >[!question]+ Word
 >- something suggested by a word or thing : implication
@@ -561,7 +561,7 @@
 >>[!Example]+ Examples
 >>- We augmented the range of products with some new options.
 >>- She augmented her savings with prudent investments.
-<!--SR:!2025-05-25,10,302-->
+<!--SR:!2025-06-23,29,302-->
 
 >[!question]+ Word
 >- to bring (as by argument) to belief, consent, or a course of action : persuade
@@ -669,7 +669,7 @@
 >>- I am squeezing all my clothes into a tiny suitcase.
 >>- She squeezed some oranges to make juice.
 >>- I am squeezing an orange to get fresh juice.
-<!--SR:!2025-05-24,9,302-->
+<!--SR:!2025-06-25,31,322-->
 
 >[!question]+ Word
 >- to take, receive, or obtain especially from a specified source
@@ -719,7 +719,7 @@
 >>- This course will introduce you to the different types of boats.
 >>- The first settlers introduced European diseases to America.
 >>- The speaker introduced the winner.
-<!--SR:!2025-05-23,9,290-->
+<!--SR:!2025-06-24,30,310-->
 
 >[!question]+ Word
 >- to combine or produce by synthesis
@@ -827,7 +827,7 @@
 >>[!Example]+ Examples
 >>- The facts I presented invalidated her argument.
 >>- The new certificate will invalidate the old one.
-<!--SR:!2025-05-24,9,310-->
+<!--SR:!2025-06-27,33,330-->
 
 >[!question]+ Word
 >- the use of reason; especially : the drawing of inferences or conclusions through the use of reason
@@ -845,7 +845,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/4d/4db0062a5ec022e76d5f853ebfba540a-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Your reasoning convinces me.
-<!--SR:!2025-05-24,9,310-->
+<!--SR:!2025-06-28,34,330-->
 
 >[!question]+ Word
 >- existing or coming about seemingly at random or by chance or as a capricious and unreasonable act of will
@@ -865,7 +865,7 @@
 >>- You can complete the tasks in arbitrary order.
 >>- Arbitrary changes to the process are not allowed.
 >>- The boss gave arbitrary orders that changed daily.
-<!--SR:!2025-05-25,10,310-->
+<!--SR:!2025-07-01,37,330-->
 
 >[!question]+ Word
 >- responsive to sensory stimuli : discerning
@@ -900,7 +900,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/0a/0a2db9b7b0296859aee1b8b9237d1a9b-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- I feel pity when I see other people suffer.
-<!--SR:!2025-05-25,10,310-->
+<!--SR:!2025-06-30,36,330-->
 
 >[!question]+ Word
 >- of, relating to, or involving quality or kind
@@ -1132,7 +1132,7 @@
 >>[!Example]+ Examples
 >>- A referendum was held to reach a decision.
 >>- The government called for a referendum.
-<!--SR:!2025-05-25,10,304-->
+<!--SR:!2025-06-30,36,324-->
 
 
 >[!question]+ Word
@@ -1666,7 +1666,7 @@
 >>[!Example]+ Examples
 >>- Complicated questions may confound the witness.
 >>- She confounded the teacher with quick-witted answers.
-<!--SR:!2025-05-21,4,320-->
+<!--SR:!2025-06-09,15,340-->
 
 >[!question]+ Word
 >- marked by extreme or excessive care in the consideration or treatment of details
@@ -1897,7 +1897,7 @@
 >>- Obtaining my doctorate was one of my biggest attainments.
 >>- Bonus payments encourage the attainment of higher production targets.
 >>- schools with high levels of academic attainment
-<!--SR:!2025-05-21,3,303-->
+<!--SR:!2025-06-04,10,303-->
 
 >[!question]+ Word
 >- the act or state of sticking together tightly; especially : unity
@@ -1965,7 +1965,7 @@
 >**Translations**: aufmüpfig, ungebärdig, aufsässig
 >**Pronunciation**: /ɒbˈstɹɛp.əɹ.əs/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/94/9484d77405d321f2138b49b0f04c974d-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-23,2,282-->
+<!--SR:!2025-05-31,6,282-->
 
 >[!question]+ Word
 >- a seizure by legal process; also : the writ or precept commanding such seizure
@@ -2024,7 +2024,7 @@
 >**Pronunciation**: /ləˈθɑɹdʒɪk/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/29/29dce97accbfdda799c9383e0a4d066a-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/29/29dce97accbfdda799c9383e0a4d066a-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-22,4,322-->
+<!--SR:!2025-06-08,14,342-->
 
 >[!question]+ Word
 >- the act or process of altering something : the state of being altered
