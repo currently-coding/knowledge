@@ -1,3 +1,0 @@
-> **Dogmatik** ist ein eigenständiges Lehrfach an katholischen und evangelischen theologischen Fakultäten über die dogmatische Auslegung des Inhalts der christlichen Glaubenslehre. Die Dogmatik nimmt besonders in der römisch-katholischen Kirche eine zentrale Stellung ein, da hier die Glaubenswahrheiten der katholischen Kirche vermittelt werden. Sie ist neben den Fachgebieten der Christlichen Ethik (Theologische Ethik und Moraltheologie) sowie Christliche Sozialethik (Christliche Soziallehre) und der katholischen Fundamentaltheologie Teilgebiet der Systematischen Theologie. Die Darstellung der historischen Entwicklung der Dogmen ist Gegenstand der Dogmengeschichte.
->
-> [Wikipedia](https://de.wikipedia.org/wiki/Dogmatik)
