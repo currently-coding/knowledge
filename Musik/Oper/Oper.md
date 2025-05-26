@@ -1,8 +1,8 @@
 ## Bestandteile
 Eine Oper ist ein musikalisches Bühnenwerk, das gesungene Gesangspartien mit orchestraler Begleitung kombiniert. Zu den zentralen Bestandteilen einer Oper gehören:
 
-- **Arien**: Solistische Gesangsstücke, die die **Gefühle** und **Gedanken** der Figuren ausdrücken.
-- **Rezitative**: Sprechgesang, der die **Handlung** vorantreibt.
+- **[[Arie]]**: Solistische Gesangsstücke, die die **Gefühle** und **Gedanken** der Figuren ausdrücken.
+- **[[Rezitativ]]**: Sprechgesang, der die **Handlung** vorantreibt.
 - **Chöre**: Gesangseinlagen, in denen mehrere Sänger zusammen auftreten.
 - **Orchester**: Die musikalische Begleitung, die die Atmosphäre und die Emotionen unterstützt.
 - **Bühnenbild und Kostüme**: Visuelle Gestaltung, die die Oper in einen realen oder fantastischen Kontext versetzt.
