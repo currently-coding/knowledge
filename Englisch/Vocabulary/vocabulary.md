@@ -2286,7 +2286,7 @@
 >**Translations**: begeistern, fesseln, bezaubern
 >**Forms**: enthralled, enthralled (AE: enthrall)
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/4b7b6ab9/mp3/EN_UK/52/5241f75d4c6940d7e61cad46ade58de6-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-28,1,297-->
+<!--SR:!2025-05-31,3,317-->
 
 >[!question]+ Word
 >
@@ -2369,7 +2369,7 @@
 >>- The boy did not want to disturb his mother at her work.
 >>- I gently opened the door to not disturb anyone.
 >>- Our conversation was disturbed by the phone ringing.
-<!--SR:!2025-05-28,1,298-->
+<!--SR:!2025-05-29,1,278-->
 
 >[!question]+ Word
 >- Opposition
