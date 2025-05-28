@@ -1,6 +1,6 @@
 >[!Definition] Protektion
 >Protektion := konstruktive Anpassungen mit dem Ziel Wettbewerbsverzerrungen und Marktzerrüttungen zu vermeiden und Handelsgewinne sicherzustellen
-<!--SR:!2025-05-20,1,190-->
+<!--SR:!2025-05-29,2,190-->
 
 ### 1. Protektion als gewinnbringende Preisanpassung
 - **aktive** Maßnahme im Rahmen **bilateraler** und **multibilateraler** Handelsvereinbarungen, die auf **gegenseitige Handelsgewinne** abgestimmt sind

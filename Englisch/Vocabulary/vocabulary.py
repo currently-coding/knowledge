@@ -113,12 +113,12 @@ class WordInfo:
             return ""
         # Question
         flashcard.append(">[!question]+ Word")
-        for defi in definition[:3]:
-            flashcard.append(">- " + defi)
-        flashcard.append(">")
-        flashcard.append(">>[!tip]- Translations")
         for translation in self.translations[:3]:
-            flashcard.append(">>- " + translation)
+            flashcard.append(">- " + translation)
+        flashcard.append(">")
+        flashcard.append(">>[!tip]+ Definition")
+        for defi in definition[:3]:
+            flashcard.append(">>- " + defi)
         # --------
         flashcard.append(self.separator)
         # Answer
