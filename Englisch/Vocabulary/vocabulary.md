@@ -1285,7 +1285,7 @@
 >**Pronunciation**: /kəʊˈɜːs/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/61/615e65e2e8e3ffbc003c70f624779685-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/61/615e65e2e8e3ffbc003c70f624779685-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-28,11,305-->
+<!--SR:!2025-07-08,40,325-->
 
 >[!question]+ Word
 >
