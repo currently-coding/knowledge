@@ -157,7 +157,7 @@
 >>- The police did not disclose the name of the suspect.
 >>- The bank may not disclose information about its clients.
 >>- He wants to disclose his secret.
-<!--SR:!2025-05-29,14,256-->
+<!--SR:!2025-07-13,45,276-->
 
 >[!question]+ Word
 >
@@ -1342,7 +1342,7 @@
 >**Pronunciation**: /ɪn.ɪˈlʌk.tə.bəl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/c1/c114ca6f678e5450ea1ba37aeb77ab15-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/c1/c114ca6f678e5450ea1ba37aeb77ab15-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-28,11,306-->
+<!--SR:!2025-07-06,38,326-->
 
 >[!question]+ Word
 >
@@ -1570,7 +1570,7 @@
 >>- I downloaded the software from a reputable source.
 >>- The government only works with reputable companies.
 >>- My grandparents wanted my mother to marry a reputable man.
-<!--SR:!2025-05-29,11,306-->
+<!--SR:!2025-07-07,39,326-->
 
 >[!question]+ Word
 >
@@ -1691,7 +1691,7 @@
 >>[!Example]+ Examples
 >>- We are trying to motivate our employees to top performance.
 >>- Great leaders motivate their collaborators.
-<!--SR:!2025-05-29,11,337-->
+<!--SR:!2025-07-09,41,357-->
 
 >[!question]+ Word
 >
