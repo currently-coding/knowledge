@@ -1303,7 +1303,7 @@
 >**Pronunciation**: /ˈwɪstfəl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-28,10,285-->
+<!--SR:!2025-07-03,34,305-->
 
 >[!question]+ Word
 >
@@ -1434,7 +1434,7 @@
 >>- The new guidelines supersede the old ones.
 >>- The former manager was superseded by a colleague.
 >>- The computer has superseded the typewriter.
-<!--SR:!2025-05-30,12,337-->
+<!--SR:!2025-07-18,49,357-->
 
 >[!question]+ Word
 >
@@ -1469,7 +1469,7 @@
 >**Pronunciation**: /ˈɹɛz.ɪ.dəns/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ca/cad4811efcdb1000aae7a6841d995713-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ca/cad4811efcdb1000aae7a6841d995713-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-30,10,297-->
+<!--SR:!2025-07-03,34,317-->
 
 >[!question]+ Word
 >
@@ -1491,7 +1491,7 @@
 >>- We cannot foresee the future.
 >>- Nobody can foresee market developments with certainty.
 >>- We cannot foresee the results of our experiment.
-<!--SR:!2025-05-29,11,317-->
+<!--SR:!2025-07-10,41,337-->
 
 >[!question]+ Word
 >
@@ -1512,7 +1512,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/d4/d4219b9a667d87bdc21643e492675c18-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Frivolous words can hurt other people's feelings.
-<!--SR:!2025-05-29,11,306-->
+<!--SR:!2025-07-08,39,326-->
 
 >[!question]+ Word
 >
@@ -1548,7 +1548,7 @@
 >**Pronunciation**: /haɪˈpɝːbəli/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/07/0749670dfa3d847f9154f9df7006758c-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/07/0749670dfa3d847f9154f9df7006758c-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-30,12,337-->
+<!--SR:!2025-07-15,46,357-->
 
 >[!question]+ Word
 >
@@ -1591,7 +1591,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/47/4752d9c2cf7d8a31f06e2f497a371ee5-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- We cannot intervene in a family matter.
-<!--SR:!2025-05-29,12,326-->
+<!--SR:!2025-07-14,45,346-->
 
 >[!question]+ Word
 >
@@ -1648,7 +1648,7 @@
 >**Pronunciation**: /pɹoʊˈklɪvəti/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/b8/b80cbadcc09fc80b8d19445c3072c662-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-30,10,297-->
+<!--SR:!2025-07-03,34,317-->
 
 >[!question]+ Word
 >
@@ -1718,7 +1718,7 @@
 >>- My promotion was a result of hard work.
 >>- I got one product for free because of a promotion.
 >>- We launched a promotion to increase our sales.
-<!--SR:!2025-05-30,12,337-->
+<!--SR:!2025-07-17,48,357-->
 
 >[!question]+ Word
 >
@@ -2252,7 +2252,7 @@
 >>[!Example]+ Examples
 >>- The day after the prank, the other team retaliated with a snowball attack.
 >>- It is not necessarily wise to retaliate when you feel hurt.
-<!--SR:!2025-05-28,1,298-->
+<!--SR:!2025-06-02,3,318-->
 
 >[!question]+ Word
 >
@@ -2308,7 +2308,7 @@
 >>[!Example]+ Examples
 >>- The professor provides a tangible example to illustrate his theory.
 >>- Scientists have tangible evidence of climate change.
-<!--SR:!2025-05-28,1,298-->
+<!--SR:!2025-06-02,3,318-->
 
 >[!question]+ Word
 >
@@ -2369,7 +2369,7 @@
 >>- The boy did not want to disturb his mother at her work.
 >>- I gently opened the door to not disturb anyone.
 >>- Our conversation was disturbed by the phone ringing.
-<!--SR:!2025-05-29,1,278-->
+<!--SR:!2025-06-02,3,298-->
 
 >[!question]+ Word
 >- Opposition
