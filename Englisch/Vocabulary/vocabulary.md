@@ -1760,7 +1760,7 @@
 >**Pronunciation**: /dɪˈplɔː/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/44/4477e0afb5d9fb9f749f9bd33ced8d2c-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/44/4477e0afb5d9fb9f749f9bd33ced8d2c-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-06-02,12,319-->
+<!--SR:!2025-07-18,45,339-->
 
 >[!question]+ Word
 >
@@ -1985,7 +1985,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/d0/d08cd5d6d7577852821e432309ebe22e-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The company rationalized its processes to reduce costs.
-<!--SR:!2025-06-03,13,320-->
+<!--SR:!2025-07-21,48,340-->
 
 >[!question]+ Word
 >
@@ -2347,7 +2347,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/4b7b6ab9/mp3/EN_UK/6b/6b5c62c98b307c02a8beebb020d92862-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The superhero saved the world from the nefarious villain.
-<!--SR:!2025-05-31,4,338-->
+<!--SR:!2025-06-19,16,358-->
 
 >[!question]+ Word
 >- stören
