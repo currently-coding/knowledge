@@ -1888,7 +1888,7 @@
 >>- Children at the age of one constitute a small part of the population.
 >>- Our galaxy constitutes only a small part of the universe.
 >>- These theories constitute the basis of our research.
-<!--SR:!2025-06-01,7,319-->
+<!--SR:!2025-06-07,4,299-->
 
 >[!question]+ Word
 >
