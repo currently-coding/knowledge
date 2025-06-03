@@ -2252,7 +2252,7 @@
 >>[!Example]+ Examples
 >>- The day after the prank, the other team retaliated with a snowball attack.
 >>- It is not necessarily wise to retaliate when you feel hurt.
-<!--SR:!2025-06-02,3,318-->
+<!--SR:!2025-06-13,10,338-->
 
 >[!question]+ Word
 >
@@ -2369,7 +2369,7 @@
 >>- The boy did not want to disturb his mother at her work.
 >>- I gently opened the door to not disturb anyone.
 >>- Our conversation was disturbed by the phone ringing.
-<!--SR:!2025-06-02,3,298-->
+<!--SR:!2025-06-12,9,318-->
 
 >[!question]+ Word
 >- Opposition
