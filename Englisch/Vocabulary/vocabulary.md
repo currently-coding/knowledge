@@ -635,7 +635,7 @@
 >>- The man exhibited several signs of old age.
 >>- The patient exhibited signs of improvement after the treatment.
 >>- She decided to exhibit her paintings in a local museum.
-<!--SR:!2025-06-02,6,296-->
+<!--SR:!2025-06-24,21,316-->
 
 >[!question]+ Word
 >
@@ -1784,7 +1784,7 @@
 >>- The project was discarded for petty reasons.
 >>- It is no use arguing about petty matters.
 >>- My boss is very petty and overly critical.
-<!--SR:!2025-06-03,12,319-->
+<!--SR:!2025-07-20,47,339-->
 
 >[!question]+ Word
 >
@@ -1824,7 +1824,7 @@
 >**Translations**: sorgfältig, akribisch, genau
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/6c/6c5448179e2004e0f7cff39b2dce928e-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/6c/6c5448179e2004e0f7cff39b2dce928e-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-06-01,11,319-->
+<!--SR:!2025-07-14,41,339-->
 
 >[!question]+ Word
 >
@@ -1908,7 +1908,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/50/5018780f9d7a8f47170e4c83f422fc4e-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- He clung to the fallacious hope that she would return.
-<!--SR:!2025-06-03,13,320-->
+<!--SR:!2025-07-22,49,340-->
 
 >[!question]+ Word
 >
