@@ -2189,7 +2189,7 @@
 >>[!Example]+ Examples
 >>- Toxic waste is a serious problem in industrial areas.
 >>- Some detergents are toxic.
-<!--SR:!2025-06-03,12,323-->
+<!--SR:!2025-07-19,46,343-->
 
 >[!question]+ Word
 >
@@ -2308,7 +2308,7 @@
 >>[!Example]+ Examples
 >>- The professor provides a tangible example to illustrate his theory.
 >>- Scientists have tangible evidence of climate change.
-<!--SR:!2025-06-02,3,318-->
+<!--SR:!2025-06-14,11,338-->
 
 >[!question]+ Word
 >
