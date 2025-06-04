@@ -1532,7 +1532,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/82/820a49ff68459d49d0bef13ccf0f623b-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- He had spurious excuses for leaving.
-<!--SR:!2025-05-29,12,326-->
+<!--SR:!2025-06-10,6,306-->
 
 >[!question]+ Word
 >
@@ -1740,7 +1740,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/2a/2a288121ef536b483481dde37db6e5de-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- We embarked at sunrise and the cruise began.
-<!--SR:!2025-06-03,7,319-->
+<!--SR:!2025-06-30,26,339-->
 
 >[!question]+ Word
 >
@@ -2009,7 +2009,7 @@
 >>- I pinned the badge to my jacket.
 >>- He wore a uniform with an official badge.
 >>- Visitors must carry a badge at all times.
-<!--SR:!2025-06-02,11,320-->
+<!--SR:!2025-07-15,41,340-->
 
 >[!question]+ Word
 >
@@ -2085,7 +2085,7 @@
 >**Translations**: Zusammenhalt, Kohäsion, Zusammenhang
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/f6/f61bc28aac428bfb11c51ea329cbc7ff-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/f6/f61bc28aac428bfb11c51ea329cbc7ff-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-06-01,10,303-->
+<!--SR:!2025-07-09,35,323-->
 
 >[!question]+ Word
 >
