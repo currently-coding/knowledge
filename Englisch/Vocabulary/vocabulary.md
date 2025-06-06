@@ -1843,7 +1843,7 @@
 >>- The first draft of the letter is finished.
 >>- The politician presented the new draft for the education policy.
 >>- The architect drew a draft of the building project.
-<!--SR:!2025-06-05,15,340-->
+<!--SR:!2025-08-04,59,360-->
 
 >[!question]+ Word
 >
@@ -1864,7 +1864,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/20/20a531368c2282bb0d88382ab0b8488e-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The article remains intellectual property of the author.
-<!--SR:!2025-06-06,16,339-->
+<!--SR:!2025-08-08,63,359-->
 
 >[!question]+ Word
 >
@@ -2125,7 +2125,7 @@
 >>- The gold medal was an incentive for him to improve his performance further.
 >>- My termination was a good incentive to look for a better job.
 >>- The medal was an incentive for him to improve his performance even more.
-<!--SR:!2025-06-02,6,263-->
+<!--SR:!2025-06-25,19,283-->
 
 >[!question]+ Word
 >
