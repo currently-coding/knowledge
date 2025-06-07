@@ -1450,7 +1450,7 @@
 >**Translations**: philanthropisch, menschenfreundlich
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/ca/ca697c24ab96f93801554d9994636f92-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/ca/ca697c24ab96f93801554d9994636f92-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-31,11,317-->
+<!--SR:!2025-07-17,40,337-->
 
 >[!question]+ Word
 >
@@ -2104,7 +2104,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e0/e04f90343e3d3a9f8993e963bf063e2e-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- It was serendipity that I found money on the street.
-<!--SR:!2025-06-06,15,343-->
+<!--SR:!2025-08-06,60,363-->
 
 >[!question]+ Word
 >

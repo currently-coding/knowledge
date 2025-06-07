@@ -30,7 +30,7 @@ $A \cup B$ := $\{a \mid a \in A \text{ or } a \in B\}$ (Union of A and B)
 $A \setminus B$ oder $A - B$ := $\{a \mid a \in A \text{ and } a \notin B\}$ (Difference of A and B)
 <!--SR:!2026-03-03,304,364-->
 $A^c$ := $M \setminus A$ (Complement of A relative to a fixed base set M)
-<!--SR:!2025-05-22,148,274-->
+<!--SR:!2026-09-29,479,294-->
 $P(A)$ := $\{B \mid B \subseteq A\}$ (Power set of A)
 <!--SR:!2026-07-11,453,314-->
 $\#A$ or $|A|$ ::: number of elements of a finite set A
