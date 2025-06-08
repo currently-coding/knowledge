@@ -10,3 +10,4 @@
 - [[reduzierende Zucker]]
 - [[Doppelbindung]]
 - [[Fructose]]
+- [[Sauerstoff]]

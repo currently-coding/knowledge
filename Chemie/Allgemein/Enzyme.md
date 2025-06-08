@@ -3,3 +3,11 @@
 > Enzyme haben wichtige Funktionen im Stoffwechsel von Organismen. Mit der enzymatischen Katalyse regulieren Zellen den Energiefluss und Umsatz über die von ihnen bevorzugten Stoffwechselwege. Enzyme steuern den überwiegenden Teil biochemischer Reaktionen – von der Transkription (RNA-Polymerase) und der Replikation (DNA-Polymerase) der Erbinformationen bis hin zur Verdauung.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Enzym)
+
+>[!Definition]
+>Enzym := Protein, welches die Aktivierungsenergie einer Reaktion senkt und diese dadurch beschleunigt. Es liegt nach der Reaktion unverändert vor.
+## Energiediagramme
+![[Pasted image 20250608094707.png]]
+
+
+
