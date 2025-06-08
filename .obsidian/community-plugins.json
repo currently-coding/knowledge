@@ -11,5 +11,6 @@
   "markdown-file-tracker",
   "lazy-plugins",
   "zenmode",
-  "size-history"
+  "size-history",
+  "templater-obsidian"
 ]

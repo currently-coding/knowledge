@@ -5,7 +5,7 @@
 ## Möglichkeiten der Denaturierung
 1. **[[Schwermetalle]]**: binden irreversibel an ionische Gruppen(Kupfer, Cadmium, etc.)
 2. **Säuren/Basen**: Entladung der ionischen Gruppen
-3. **Alkohol**: Entzug der Hydrathülle
+3. **Alkohol**: Entzug der Hydrathülle(=Wasserschicht um Protein in wässriger Lösung -> unpolare Teile lagern sich im Zentrum ab)
 
 -> veränderte physikalische und chemische Eigenschaften
 ## Beispiel: Schlagen von Eiklar
