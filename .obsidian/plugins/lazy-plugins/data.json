@@ -68,6 +68,9 @@
       },
       "zenmode": {
         "startupType": "instant"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
