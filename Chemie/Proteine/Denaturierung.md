@@ -8,6 +8,8 @@
 3. **Alkohol**: Entzug der Hydrathülle(=Wasserschicht um Protein in wässriger Lösung -> unpolare Teile lagern sich im Zentrum ab)
 
 -> veränderte physikalische und chemische Eigenschaften
+
+![[Q10_graphs 1.svg]]
 ## Beispiel: Schlagen von Eiklar
 - Schlag reißt Molekülteile auseinander(=denaturiert)
 -> globuläre(kugel-förmige) Struktur wird geöffnet -> fadenförmiges Geflecht
