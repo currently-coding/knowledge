@@ -264,5 +264,13 @@
       ],
       "key": "S"
     }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }

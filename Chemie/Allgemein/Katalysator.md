@@ -7,3 +7,4 @@
 > Je nachdem, in welchen Phasen Katalysator und Reaktanten vorliegen, spricht man von homogenen oder heterogenen Katalysatoren. Biochemische Prozesse werden durch Enzyme katalysiert.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Katalysator)
+
