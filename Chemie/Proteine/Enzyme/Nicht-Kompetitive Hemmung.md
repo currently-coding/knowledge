@@ -7,3 +7,7 @@
 - Folgen: **aktives Zentrum funktionell verändert**
 	-> Enzym arbeitet ineffizienter -> $v_{\text{max}}$ sinkt
 	-> $K_{m}$ bleibt gleich, da Affinität des Enzyms zum Substrat unverändert ist
+
+![[Drawing 2025-06-09 11.49.12.excalidraw]]
+
+![[Pasted image 20250609114654.png]]

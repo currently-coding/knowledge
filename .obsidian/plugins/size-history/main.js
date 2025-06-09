@@ -3109,7 +3109,7 @@ var SizeHistoryChart = class {
       options: {
         xTickCount: 8,
         yTickCount: 8,
-        dotSize: 0.1,
+        dotSize: 0.01,
         showLine: true,
         timeFormat: "DD-MM-YYYY"
       }
