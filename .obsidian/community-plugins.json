@@ -12,5 +12,6 @@
   "lazy-plugins",
   "zenmode",
   "size-history",
-  "templater-obsidian"
+  "templater-obsidian",
+  "vault-size-history"
 ]
