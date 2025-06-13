@@ -1,3 +1,3 @@
 = Verbindung von 100+ **proteinogenen** Aminosäuren
-- [[Chemie/Proteine/Aufbau|Aufbau]]
+-> [[Verbindung]] von [[Verbindung#Benennung|min. 100]] [[Aminosäuren]]
 - [[Funktion]]

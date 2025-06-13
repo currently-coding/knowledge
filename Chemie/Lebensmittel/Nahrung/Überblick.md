@@ -11,5 +11,5 @@
 ## Wasser
 ## weitere Inhaltsstoffe
 - [[Ballaststoffe]]
-- [[sekundaere Pflanzenstoffe]]
+- [[sekundäre Pflanzenstoffe]]
 - anderes wie Konservierungs- und [[Farbstoffe]]
