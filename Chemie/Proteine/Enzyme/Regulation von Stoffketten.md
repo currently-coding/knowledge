@@ -1,0 +1,2 @@
+![[Drawing 2025-06-13 17.20.52.excalidraw]]
+Wird **zu viel** des Stoffes **A** umgesetzt, wird dies automatisch reguliert, da dadurch mehr Stoff **D** entsteht, der wiederum $E_{1}$ **hemmt**, wodurch **weniger** des Stoffes **A** umgesetzt wird.
