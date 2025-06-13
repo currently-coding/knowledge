@@ -71,6 +71,9 @@
       },
       "templater-obsidian": {
         "startupType": "instant"
+      },
+      "vault-size-history": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
