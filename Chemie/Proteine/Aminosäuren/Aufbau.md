@@ -1,2 +1,2 @@
 ## Aufbau
-![[aminosaeure_aufbau|Aufbau]]
+![[aminosäure_aufbau|Aufbau]]
