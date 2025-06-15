@@ -9,6 +9,8 @@
 
 -> veränderte physikalische und chemische Eigenschaften
 
+## Graph
+
 ![[Q10_graphs 1.svg]]
 ## Beispiel: Schlagen von Eiklar
 - Schlag reißt Molekülteile auseinander(=denaturiert)
