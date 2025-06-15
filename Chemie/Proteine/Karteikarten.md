@@ -4,7 +4,8 @@ Nenne Funktionen von Proteinen.
 - Enzyme
 - Hormone
 - Transport
-<!--SR:!2025-05-30,15,210-->
+- Antikoerper
+<!--SR:!2025-07-23,38,230-->
 
 Skizziere den Aufbau eines Proteins. Nenne alle relevanten funktionellen Gruppen.
 ?
