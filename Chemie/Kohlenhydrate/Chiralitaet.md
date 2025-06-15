@@ -18,4 +18,4 @@ Wann ist ein Molekül chiral := Wenn **4 verschieden Substituentengruppen** an e
 Was nennt man Enantiomer := Zwei [[Stereoisomerie|Stereoisomere]], die sich wie Bild und nicht deckungsgleiches Spiegelbild verhalten, nennt man **Enantiomere**
 <!--SR:!2025-08-12,77,290-->
 Was ist ein Diastereomer := Ein nicht-enantionemeres Stereoisomer
-<!--SR:!2025-05-29,80,290-->
+<!--SR:!2026-03-15,273,310-->
