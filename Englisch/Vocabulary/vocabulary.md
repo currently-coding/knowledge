@@ -82,7 +82,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/18/1869119e100e3fd60b1dfad777a61049-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The theory is based on three postulates.
-<!--SR:!2025-06-14,26,296-->
+<!--SR:!2025-09-14,90,316-->
 
 >[!question]+ Word
 >
@@ -200,7 +200,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/01/01c81308522327b0b7ecdeb6bdc7bf9c-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Many different teams competed in the championship.
-<!--SR:!2025-06-15,27,296-->
+<!--SR:!2025-09-17,93,316-->
 
 >[!question]+ Word
 >
@@ -347,7 +347,7 @@
 >>- I demonstrated that my initial assumption was correct.
 >>- The salesperson demonstrated the correct use of the chainsaw.
 >>- The salesman demonstrated the correct use of the product.
-<!--SR:!2025-06-15,27,303-->
+<!--SR:!2025-09-20,96,323-->
 
 >[!question]+ Word
 >
@@ -1632,7 +1632,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/40/4050b64e0375e0ab881313b4059e6344-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- She is brilliant, her acumen is legendary.
-<!--SR:!2025-05-31,11,297-->
+<!--SR:!2025-07-24,38,317-->
 
 >[!question]+ Word
 >
@@ -2308,7 +2308,7 @@
 >>[!Example]+ Examples
 >>- The professor provides a tangible example to illustrate his theory.
 >>- Scientists have tangible evidence of climate change.
-<!--SR:!2025-06-14,11,338-->
+<!--SR:!2025-07-28,42,358-->
 
 >[!question]+ Word
 >
