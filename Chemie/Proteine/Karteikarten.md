@@ -15,7 +15,7 @@ Skizziere den Aufbau eines Proteins. Nenne alle relevanten funktionellen Gruppen
 Nenne Möglichkeiten der Denaturierung
 ?
 ![[Denaturierung#Möglichkeiten der Denaturierung]]
-<!--SR:!2025-06-17,2,219-->
+<!--SR:!2025-06-22,5,239-->
 
 Wovon hängt die Reaktionsgeschwindigkeit bei durch Enzymen katalysierten Reaktion ab?
 ?
