@@ -23,6 +23,6 @@ Voraussetzung:
 
 Zeigen Sie, dass bei der Hydrierung von [[Ethen]] eine Redoxreaktion stattfindet.
 ?
-Oxidation: Wasserstoff $0 \to -1$
-Reduktion: C $0 \to -2$
+Reduktion: Wasserstoff: $0 \to -1$
+Oxidation: C: $-1 \to 0$
 <!--SR:!2025-06-28,64,270-->
