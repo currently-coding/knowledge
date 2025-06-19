@@ -52,7 +52,7 @@ Deklaration := Spezifizieren des Datentypes und Variablennamens. Dadurch erfähr
 
 <!--SR:!2025-06-10,297,310-->
 Definition := Der Compiler allokiert Speicher für die Variable
-<!--SR:!2025-05-28,164,314-->
+<!--SR:!2027-02-12,603,334-->
 
 
 <!--SR:!2025-01-24,160,310-->
