@@ -30,5 +30,5 @@ Erkläre alle Strukturstufen eines Proteins und durch welche Wechselwirkungen di
 2. Sekundärstruktur: [[Wasserstoffbrückenbindung]]en: [[alpha-Helix]]/[[beta-Faltblatt]]
 3. Tertiärstruktur: Alle Wechselwirkungen
 4. Quartärstruktur: Zusammenlagerung mehrerer Tertiärstrukturen
-<!--SR:!2025-06-18,3,239-->
+<!--SR:!2025-06-28,9,259-->
 
