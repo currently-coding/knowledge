@@ -12,3 +12,6 @@
 ## Allgemeine Reaktion
 $$\ce {E + S <=>[][{\text{Bindung}}] ES ->[][{Katalyse}] E + P_{1} + P_{2} + \text{...}}$$
 ![[Pasted image 20250608104748.png]]
+## Hemmung
+1. [[Kompetitive Hemmung]]
+2. [[Nicht-Kompetitive Hemmung]]
