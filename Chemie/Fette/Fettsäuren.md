@@ -16,7 +16,7 @@ CCCC/C=C\CCCCCCCCCCCCC(O)=O
 ```
 - aufgrund des "Knicks" herrschen weniger [[London-Dispersions-Kräfte]] -> niedrigerer [[Schmelzbereich]]
 ## Benennung
-**"Omega-3-Fettsäure"**:
+**"Omega-3-Fettsäure"** = Doppelbindung am 3. $\ce C$ Atom von hinten gezählt
 - Omega = von hinten(=nicht der [[Carboxylgruppe]]) gezählt
 	- Alpha = von der [[Carboxylgruppe]] gezählt
 - 3 = zwischen 3. und 4. C-Atom
