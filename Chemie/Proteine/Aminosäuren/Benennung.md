@@ -1,5 +1,5 @@
 - Allgemein: `L/D`-`X`-Aminocarbonsäure
-	- `L/D`, da [[Chiralitaet|chiral]]
+	- `L/D`, da [[Chiralität|chiral]]
 	- `X` bezeichnet das C-Atom, an das die [[Chemie/Formeln/funktionelle Gruppen/Aminogruppe|Aminogruppe]] bindet.
 		- dieses C-Atom wird **$\alpha$-Kohlenstoff-Atom** genannt
 ### Beispiel:

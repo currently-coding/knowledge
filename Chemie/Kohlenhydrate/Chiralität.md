@@ -1,11 +1,11 @@
 ![[Stereoisomerie]]
-
+zwei Läden
 
 ## Voraussetzung
 - Vier *verschiedene* *Substituenten(gruppen)* am C-Atom
 
 ## Darstellung
-$\ce C^{*}$ := Chiralitaetszentrum/asymmetrisches C-Atom
+$\ce C^{*}$ := Chiralitätszentrum/asymmetrisches C-Atom
 <!--SR:!2025-01-08,4,270-->
 ### Beispiel
 ![[Drawing 2024-12-12 10.05.36.excalidraw]]
