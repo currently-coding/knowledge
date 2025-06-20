@@ -10,11 +10,11 @@ Die umgekehrte Reaktion heißt [[Dehydrierung]].
 ## Verwendung
 - [[Fetthärtung]]
 ## Reaktion
-Voraussetzung:
-- Katalysator
-	- da hohe Stabilität von $\ce H_{2}$
-	![[Untitled.jpg]]
+Voraussetzungen:
 - hohe Temperatur
+- Katalysator, da hohe Stabilität des $\ce H_{2}$-Moleküls
+	
+![[Untitled.jpg]]
 
 ### Beispiel:  Auflösung der Doppelbindung in Z-Pent-2-en
 ![[Hydrierung 2025-06-18 17.01.56.excalidraw]]
@@ -23,6 +23,7 @@ Voraussetzung:
 
 Zeigen Sie, dass bei der Hydrierung von [[Ethen]] eine Redoxreaktion stattfindet.
 ?
+![[Hydrierung 2025-06-18 17.01.56.excalidraw]]
 Reduktion: Wasserstoff: $0 \to -1$
 Oxidation: C: $-1 \to 0$
 <!--SR:!2025-06-28,64,270-->
