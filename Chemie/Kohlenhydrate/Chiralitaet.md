@@ -5,7 +5,7 @@
 - Vier *verschiedene* *Substituenten(gruppen)* am C-Atom
 
 ## Darstellung
-$C^{*} = \text{Chiralitaetszentrum/asymmetrisches C-Atom}$
+$\ce C^{*}$ := Chiralitaetszentrum/asymmetrisches C-Atom
 <!--SR:!2025-01-08,4,270-->
 ### Beispiel
 ![[Drawing 2024-12-12 10.05.36.excalidraw]]
