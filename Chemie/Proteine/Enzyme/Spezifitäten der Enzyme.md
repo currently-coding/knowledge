@@ -10,4 +10,3 @@
 ## Absolute Spezifität
 - [[Spezifitäten der Enzyme#Substratspezifität|Substratspezifität]] + [[Spezifitäten der Enzyme#Wirkspezifität|Wirkspezifität]]
 ---
-
