@@ -4,7 +4,7 @@ $$\ce {E + S <=>[][{\text{Bindung}}] ES ->[][{Katalyse}] E + P_{1} + P_{2} + \te
 <!--SR:!2025-06-25,7,254-->
 
 Was bedeutet es wenn ein Enzym eine absolute Spezifität aufweist? := Das Enzym ist substrat- und wirkspezifisch.
-<!--SR:!2025-06-20,2,214-->
+<!--SR:!2025-06-27,5,234-->
 
 Was ist eine Substratspezifität? := nur bestimmte Substrate werden katalysiert
 <!--SR:!2025-06-25,7,250-->
@@ -16,7 +16,7 @@ Was ist eine  Gruppenspezifität? := nur Verbindungen gleicher funktioneller Gru
 <!--SR:!2025-06-26,8,254-->
 
 Was drückt die Michaelis-Menten-Konstante aus? := Affinität des Enzyms zum Substrat
-<!--SR:!2025-06-20,2,210-->
+<!--SR:!2025-06-27,5,230-->
 
 Wo bindet der kompetitive Inhibitor? := aktives Zentrum
 <!--SR:!2025-06-26,8,254-->
@@ -31,4 +31,4 @@ Wie wirkt ein kompetitiver Hemmstoff? := Inhibitor verhindert Bindung des Substr
 <!--SR:!2025-06-27,9,254-->
 
 Wie wirkt ein nicht-kompetitiver Hemmstoff? := Inhibitor bindet an allosterisches Zentrum und reduziert so die Effizienz des Enzyms. $v_{max}$ sinkt, $K_{m}$ unverändert.
-<!--SR:!2025-06-20,2,214-->
+<!--SR:!2025-06-27,5,234-->

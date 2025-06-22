@@ -6,6 +6,8 @@
 1. **[[Schwermetalle]]**: binden irreversibel an ionische Gruppen(Kupfer, Cadmium, etc.)
 2. **Säuren/Basen**: Entladung der ionischen Gruppen
 3. **Alkohol**: Entzug der Hydrathülle(=Wasserschicht um Protein in wässriger Lösung -> unpolare Teile lagern sich im Zentrum ab)
+4. **mechanische Krafteinwirkung**: zerstört räumlichen Bau
+5. **Hitze**
 
 -> veränderte physikalische und chemische Eigenschaften
 

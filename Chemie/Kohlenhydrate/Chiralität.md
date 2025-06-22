@@ -6,7 +6,7 @@ zwei Läden
 
 ## Darstellung
 $\ce C^{*}$ := Chiralitätszentrum/asymmetrisches C-Atom
-<!--SR:!2025-01-08,4,270-->
+<!--SR:!2025-07-05,13,290-->
 ### Beispiel
 ![[Drawing 2024-12-12 10.05.36.excalidraw]]
 
