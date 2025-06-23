@@ -239,7 +239,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/e7/e794f072286cdb9e7c003b5f91116a69-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Brevity is a typical feature of technical texts.
-<!--SR:!2025-06-09,21,276-->
+<!--SR:!2025-09-01,70,296-->
 
 >[!question]+ Word
 >
@@ -258,7 +258,7 @@
 >>[!Example]+ Examples
 >>- The team works quickly and efficiently.
 >>- The company implemented the changes quickly and efficiently.
-<!--SR:!2025-06-13,25,296-->
+<!--SR:!2025-09-21,90,316-->
 
 >[!question]+ Word
 >
@@ -321,7 +321,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/31/3145c2ef4c310129fb265093244c9c1a-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Slavery is a violation of human rights.
-<!--SR:!2025-06-18,29,296-->
+<!--SR:!2025-10-02,101,316-->
 
 >[!question]+ Word
 >
@@ -590,7 +590,7 @@
 >>[!Example]+ Examples
 >>- We augmented the range of products with some new options.
 >>- She augmented her savings with prudent investments.
-<!--SR:!2025-06-23,29,302-->
+<!--SR:!2025-10-07,106,322-->
 
 >[!question]+ Word
 >
@@ -2347,7 +2347,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/4b7b6ab9/mp3/EN_UK/6b/6b5c62c98b307c02a8beebb020d92862-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The superhero saved the world from the nefarious villain.
-<!--SR:!2025-06-19,16,358-->
+<!--SR:!2025-08-29,67,378-->
 
 >[!question]+ Word
 >- stören
