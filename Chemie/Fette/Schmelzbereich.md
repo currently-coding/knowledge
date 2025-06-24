@@ -6,4 +6,4 @@ Da Fette aus 3 (meist verschiedenen) Fettsäuren aufgebaut sind, deren *Schmelzt
 Wieso zeigen natürliche Fette einen Schmelzbereich und keinen exakten Schmelzpunkt?
 ?
 Da diese Fette aus 3 meist **verschiedenen Fettsäuren** mit **je verschiedenen Schmelzpunkten** bestehen.
-<!--SR:!2025-06-24,68,290-->
+<!--SR:!2026-02-11,232,310-->

@@ -2269,7 +2269,7 @@
 >**Pronunciation**: /ˈsɪndɹəʊm/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/4b7b6ab9/mp3/EN_UK/e8/e8ff14a5a1d1c503c6cbf3e4813e0b6b-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/4b7b6ab9/mp3/EN_US/e8/e8ff14a5a1d1c503c6cbf3e4813e0b6b-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-31,4,337-->
+<!--SR:!2025-07-11,17,357-->
 
 >[!question]+ Word
 >
@@ -2369,7 +2369,7 @@
 >>- The boy did not want to disturb his mother at her work.
 >>- I gently opened the door to not disturb anyone.
 >>- Our conversation was disturbed by the phone ringing.
-<!--SR:!2025-06-12,9,318-->
+<!--SR:!2025-07-23,29,318-->
 
 >[!question]+ Word
 >- Opposition
@@ -2430,7 +2430,7 @@
 >>[!Example]+ Examples
 >>- A lack of sleep is a common trigger for headaches.
 >>- The salesman showed us how to pull the trigger of the pistol.
-<!--SR:!2025-05-31,4,338-->
+<!--SR:!2025-07-10,16,358-->
 
 >[!question]+ Word
 >- verbrauchen
