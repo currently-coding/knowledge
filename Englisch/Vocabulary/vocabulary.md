@@ -1386,7 +1386,7 @@
 >>[!Example]+ Examples
 >>- The review board found no deficiencies in his work.
 >>- The accountant found a deficiency in the company's finances.
-<!--SR:!2025-06-22,26,304-->
+<!--SR:!2025-09-25,93,324-->
 
 >[!question]+ Word
 >
@@ -2067,7 +2067,7 @@
 >>- Obtaining my doctorate was one of my biggest attainments.
 >>- Bonus payments encourage the attainment of higher production targets.
 >>- schools with high levels of academic attainment
-<!--SR:!2025-06-04,10,303-->
+<!--SR:!2025-06-29,5,283-->
 
 >[!question]+ Word
 >
@@ -2410,7 +2410,7 @@
 >>- The board formulated plans to restructure the company.
 >>- The project manager formulated a plan.
 >>- He formulated his apology in a long letter.
-<!--SR:!2025-05-31,4,337-->
+<!--SR:!2025-07-11,17,357-->
 
 >[!question]+ Word
 >- Trigger
