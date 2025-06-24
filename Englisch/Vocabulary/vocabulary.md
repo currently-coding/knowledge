@@ -1950,7 +1950,7 @@
 >>[!Example]+ Examples
 >>- The knights went on a quest to find the magical sword.
 >>- In the computer game you have to complete several quests.
-<!--SR:!2025-06-11,15,340-->
+<!--SR:!2025-08-22,59,360-->
 
 >[!question]+ Word
 >
