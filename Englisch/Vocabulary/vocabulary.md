@@ -132,7 +132,7 @@
 >>[!Example]+ Examples
 >>- The level of complexity affects the product cost.
 >>- This story presents a high degree of complexity.
-<!--SR:!2025-06-19,29,296-->
+<!--SR:!2025-10-02,100,316-->
 
 >[!question]+ Word
 >
@@ -221,7 +221,7 @@
 >>[!Example]+ Examples
 >>- He should spend less money and not be so profligate.
 >>- She left her profligate life behind to become a better person.
-<!--SR:!2025-06-14,26,296-->
+<!--SR:!2025-09-24,92,316-->
 
 >[!question]+ Word
 >
@@ -280,7 +280,7 @@
 >>[!Example]+ Examples
 >>- We intensified our efforts to solve the urgent problem.
 >>- She intensified her efforts to exercise regularly.
-<!--SR:!2025-06-18,29,296-->
+<!--SR:!2025-10-03,101,316-->
 
 >[!question]+ Word
 >
@@ -368,7 +368,7 @@
 >>[!Example]+ Examples
 >>- We utilize the information for the drafting of the report.
 >>- They utilize solar power to heat their house.
-<!--SR:!2025-06-21,31,303-->
+<!--SR:!2025-10-12,110,323-->
 
 >[!question]+ Word
 >
@@ -762,7 +762,7 @@
 >>- This course will introduce you to the different types of boats.
 >>- The first settlers introduced European diseases to America.
 >>- The speaker introduced the winner.
-<!--SR:!2025-06-24,30,310-->
+<!--SR:!2025-10-10,108,330-->
 
 >[!question]+ Word
 >
@@ -1888,7 +1888,7 @@
 >>- Children at the age of one constitute a small part of the population.
 >>- Our galaxy constitutes only a small part of the universe.
 >>- These theories constitute the basis of our research.
-<!--SR:!2025-06-07,4,299-->
+<!--SR:!2025-07-08,14,319-->
 
 >[!question]+ Word
 >
@@ -1967,7 +1967,7 @@
 >**Pronunciation**: /ˌɛɹʊˈdɪʃən/
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/0c/0c3c1e44e5a16a012839f04c21ef9d83-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/0c/0c3c1e44e5a16a012839f04c21ef9d83-100.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-06-05,14,339-->
+<!--SR:!2025-08-17,54,359-->
 
 >[!question]+ Word
 >
@@ -2252,7 +2252,7 @@
 >>[!Example]+ Examples
 >>- The day after the prank, the other team retaliated with a snowball attack.
 >>- It is not necessarily wise to retaliate when you feel hurt.
-<!--SR:!2025-06-13,10,338-->
+<!--SR:!2025-08-02,39,358-->
 
 >[!question]+ Word
 >
@@ -2286,7 +2286,7 @@
 >**Translations**: begeistern, fesseln, bezaubern
 >**Forms**: enthralled, enthralled (AE: enthrall)
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/4b7b6ab9/mp3/EN_UK/52/5241f75d4c6940d7e61cad46ade58de6-200.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-05-31,3,317-->
+<!--SR:!2025-07-04,10,317-->
 
 >[!question]+ Word
 >
@@ -2388,7 +2388,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/4b7b6ab9/mp3/EN_US/54/54f65f79f04ee2e075617ba3cf89ae0d-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- The opposition voted against the prime minister's proposal.
-<!--SR:!2025-05-31,4,338-->
+<!--SR:!2025-07-09,15,358-->
 
 >[!question]+ Word
 >- formulieren
