@@ -44,6 +44,7 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
+    "openViewInNewTab": false,
     "algorithm": "SM-2-OSR",
     "baseEase": 210,
     "lapsesIntervalChange": 0.5,
@@ -472,7 +473,8 @@
     "1a0302e945f858",
     "56845a2270970",
     "4f7e1e5c83561",
-    "16ebcbc2607fd4"
+    "16ebcbc2607fd4",
+    "1960846d7de420"
   ],
   "historyDeck": null
 }
