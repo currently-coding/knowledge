@@ -1,5 +1,4 @@
 ## Callouts
->[!Definition] Callout
 >Callouts highlight sections in your Notes
 ### Syntax
 ```
