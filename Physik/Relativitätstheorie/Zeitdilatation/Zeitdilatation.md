@@ -16,5 +16,10 @@ $$
 $$
 \implies t = \sqrt{ \frac{1}{1-\left( \frac{v}{c} \right)^2} }\cdot t_{0}
 $$
+-> [[Lorenzfaktor]]($\gamma$)
 
+## Graph: Geschwindigkeit zu Lorenzfaktor
 ![[Pasted image 20250626213808.png]]
+- min. Lorenzfaktor = $1$
+- max. Lorenzfaktor = $\infty$
+- bis $v = 0.1c$ ist die **Zeitdilatation** vernachlässigbar
