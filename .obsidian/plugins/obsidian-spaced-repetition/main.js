@@ -11589,6 +11589,23 @@ function parse(text, options) {
   const lines = text.replaceAll("\r\n", "\n").split("\n");
   for (let i2 = 0; i2 < lines.length; i2++) {
     const currentLine = lines[i2], currentTrimmed = lines[i2].trim();
+    if (currentTrimmed.startsWith("> [!question]")) {
+      cardType = 2; // MultiLineBasic or define a new one
+      firstLineNo = i2;
+      cardText = currentLine; // question
+
+      // Capture subsequent indented lines or next callout line as answer
+      while (i2 + 1 < lines.length && lines[i2 + 1].trim().startsWith(">") && !lines[i2 + 1].includes("[!")) {
+        i2++;
+        cardText += "\n" + lines[i2];
+      }
+
+      lastLineNo = i2;
+      cards.push(new ParsedQuestionInfo(cardType, cardText.trimEnd(), firstLineNo, lastLineNo));
+      cardType = null;
+      cardText = "";
+      continue;
+    }
     if (currentLine.startsWith("<!--") && !currentLine.startsWith("<!--SR:")) {
       while (i2 + 1 < lines.length && !currentLine.includes("-->")) i2++;
       i2++;
