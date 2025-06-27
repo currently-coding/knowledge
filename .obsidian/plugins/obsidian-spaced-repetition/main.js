@@ -11589,7 +11589,8 @@ function parse(text, options) {
   const lines = text.replaceAll("\r\n", "\n").split("\n");
   for (let i2 = 0; i2 < lines.length; i2++) {
     const currentLine = lines[i2], currentTrimmed = lines[i2].trim();
-    if (currentTrimmed.startsWith("> [!question]")) {
+    if (currentTrimmed.toLowerCase().startsWith(">[!Question]".toLowerCase())) {
+      console.log("Card: " + currentTrimmed)
       cardType = 2; // MultiLineBasic or define a new one
       firstLineNo = i2;
       cardText = currentLine; // question
