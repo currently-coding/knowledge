@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-spaced-repetition",
   "obsidian-style-settings",
   "inline-math",
   "obsidian-week-planner",
@@ -12,5 +11,6 @@
   "lazy-plugins",
   "zenmode",
   "templater-obsidian",
-  "vault-size-history"
+  "vault-size-history",
+  "obsidian-spaced-repetition"
 ]
