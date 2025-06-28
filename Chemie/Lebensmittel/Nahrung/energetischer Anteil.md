@@ -1,3 +1,3 @@
 >[!Definition]
->energetischer Anteil := Anteil eines Nährstoffs am Energiegehalt einer Nahrung
-<!--SR:!2025-06-25,3,230-->
+>energetischer Anteil := Anteil der Energie eines Nährstoffs am Energiegehalt einer Nahrung
+<!--SR:!2025-07-08,10,250-->
