@@ -1,10 +1,10 @@
->[!Definition]
->Zeitdilatation := Effekt, dass alle inneren Prozesse eines physikalischen Systems **relativ zum Beobachter langsamer** ablaufen, **wenn** sich dieses System **relative zum Beobachter bewegt**.
+>[!Definition] Zeitdilatation
+>Effekt, dass alle inneren Prozesse eines physikalischen Systems **relativ zum Beobachter langsamer** ablaufen, **wenn** sich dieses System **relative zum Beobachter bewegt**.
 
 ## Einführung
 
 >[!summary]- Situation
->System ${} S {}$: Beobachtersystem
+>System $S$: Beobachtersystem
 >System $S_{0}$: gleichförmig bewegte Lichtuhr(z.B. auf einem Zug)
 
 >[!summary]- Beobachtung

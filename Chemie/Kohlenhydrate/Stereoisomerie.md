@@ -8,7 +8,7 @@ $$N = 2^n$$
 - $n$ = Zahl der Chiralitätszentren
 
 ## Enantiomere
->[!Definition]
+>[!Definition] Enantiomere
 >Zwei *Stereoisomere*, die sich wie *Bild-* und *nicht deckungsgleiches Spiegelbild* verhalten, nennt man **Enantiomere**
 
 - *zwischemolekulare* *Wechselwirkungen* der beiden Moleküle eines *Enantiomeres* unterscheiden sich nicht

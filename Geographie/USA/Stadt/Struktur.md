@@ -1,7 +1,7 @@
 ![[Pasted image 20250418212829.png]]
 
 >[!Definition] Suburbanisierung
->Suburbanisierung := Prozess der Verlagerung von Bevölkerung, Industrie, Handel und Dienstleistungen aus der Kernstadt ins Umland(**Suburbs**)
+>Prozess der Verlagerung von Bevölkerung, Industrie, Handel und Dienstleistungen aus der Kernstadt ins Umland(**Suburbs**)
 <!--SR:!2025-05-31,19,250-->
 
 **Probleme der Suburbanisierung**:
@@ -18,8 +18,6 @@
 - Wohnstandorte mit unterschiedlichen sozioökonomischer Prägung bis zu Obdachlosigkeit
 
 >[!Definition] Gentrifizierung
->Gentrifizierung
->?
 >Veredelung eines Stadtteils durch Sanierungsmassnahmen.
 >1. Künstler/Kreative entdecken "heruntergekommene" Quartiere
 >	-> Attracktivitaet steigt

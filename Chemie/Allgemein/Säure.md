@@ -1,2 +1,2 @@
-> [!Definition]
-> eine Säure ist ein **Protonendonator**
+> [!Definition] Säure
+>**Protonendonator**. Ein Molekül, welches **Protonen** abgibt
