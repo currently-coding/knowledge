@@ -1,5 +1,5 @@
->[!Definition]
->Blizzard := Schneesturm mit hohen Windgeschwindigkeiten über min. 3h
+>[!Card] Blizzard
+>Schneesturm mit hohen Windgeschwindigkeiten über min. 3h
 <!--SR:!2025-06-20,33,250-->
 
 ## Merkmale

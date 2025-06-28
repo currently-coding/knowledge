@@ -2,7 +2,7 @@
 aliases:
   - Nachweis der Chiralitaet
 ---
->[!Definition] Polarimetrie
+>[!Card] Polarimetrie
 >Nachweis optischer Aktivität u. zur Konzentrationsbestimmung
 
 >[!Note] Linear polarisiertes Licht

@@ -1,5 +1,5 @@
->[!Definition]
->Enzym := Protein, welches die Aktivierungsenergie einer Reaktion senkt und diese dadurch beschleunigt. Es liegt nach der Reaktion unverändert vor.
+>[!Card] Enzym
+>Protein, welches die Aktivierungsenergie einer Reaktion senkt und diese dadurch beschleunigt. Es liegt nach der Reaktion unverändert vor.
 <!--SR:!2025-06-27,9,250-->
 
 >[!tldr] Wikipedia

@@ -1,6 +1,4 @@
-Aufklärung
-?
->[!Definition]
+>[!Card] Aufklärung
 >Epoche der Geistesgeschichte im 17./18. Jh., die sich auf die Vernunft stützte und viele Traditionen in Frage stellte. Eine der wichtigsten Forderungen der Aufklärer lautete:
 >>[!Quote] Immanuel Kant
 >>„Habe Mut, dich deines eigenen Verstandes zu bedienen!“

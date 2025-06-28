@@ -31,7 +31,8 @@
 			"**/*.excalidraw.md",
 			"Obsidian",
 			"Settings-and-scripts",
-			"Attachments"
+			"Attachments",
+			"Jugend Debattiert"
 		],
 		"openRandomNote": false,
 		"autoNextNote": false,

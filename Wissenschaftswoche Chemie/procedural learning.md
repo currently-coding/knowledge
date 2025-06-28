@@ -1,4 +1,4 @@
->[!Definition] procedural learning
+>[!card] procedural learning
 >Learning skill and habits through repeated practice, often without conscious awareness of how the skill is learned
 
 - **Nature**: mostly motor skills and actions

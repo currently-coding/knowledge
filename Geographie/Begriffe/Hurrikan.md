@@ -1,5 +1,5 @@
->[!Definition]
->Hurrikan := [[tropischer Wirbelsturm]] im Nordatlantik oder Pazifik mit Orkanstärke(=Windstärke 12)
+>[!Card] Hurrikan
+>[[tropischer Wirbelsturm]] im Nordatlantik oder Pazifik mit Orkanstärke(=Windstärke 12)
 <!--SR:!2025-05-27,15,250-->
 
 ## Entstehung

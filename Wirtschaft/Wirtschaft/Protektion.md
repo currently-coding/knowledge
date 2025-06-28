@@ -1,4 +1,4 @@
->[!Definition] Protektion
+>[!Card] Protektion
 >Protektion := konstruktive Anpassungen mit dem Ziel Wettbewerbsverzerrungen und Marktzerrüttungen zu vermeiden und Handelsgewinne sicherzustellen
 <!--SR:!2025-05-29,2,190-->
 

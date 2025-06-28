@@ -1,9 +1,6 @@
 >[!Definition]
 >krank = nach heutigen psychologischen Masstaeben als krank diagnostiziert
 
->[!Definition]
-
-
 
 1. krankhafte Sucht nach Lotte - 
 	>"Alles, alles verschlingt sich in dieser Aussicht" - S.46/16

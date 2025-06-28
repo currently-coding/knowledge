@@ -1,4 +1,4 @@
->[!Definition] Protektionismus
+>[!Card] Protektionismus
 >Protektionismus := Maßnahmen, mit denen Volkswirtschaften einseitige, unlautere oder ideologische Ziele verfolgen. z.B. Wettbewerb im Außenhandel auf Kosten anderer Volkswirtschaften verzerren
 <!--SR:!2025-05-28,1,190-->
 

@@ -1,4 +1,4 @@
-> [!Definition]
+> [!Card] Agrardreieck
 > Gebiet intensiver agrarischer Nutzung in der frühen Sowjetunion bzw. heutigen Nachfolgestaaten.
 
 ## Gebiet

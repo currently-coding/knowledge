@@ -1,4 +1,4 @@
->[!Definition] Stereoisomerie
+>[!Card] Stereoisomerie
 >Stereoisomere Moleküle sind solche, die sich nur in der Anordnung mancher Atome unterscheiden.
 
 ## Anzahl der Stereoisomere
@@ -8,7 +8,7 @@ $$N = 2^n$$
 - $n$ = Zahl der Chiralitätszentren
 
 ## Enantiomere
->[!Definition] Enantiomere
+>[!Card] Enantiomere
 >Zwei *Stereoisomere*, die sich wie *Bild-* und *nicht deckungsgleiches Spiegelbild* verhalten, nennt man **Enantiomere**
 
 - *zwischemolekulare* *Wechselwirkungen* der beiden Moleküle eines *Enantiomeres* unterscheiden sich nicht

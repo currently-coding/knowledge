@@ -1,3 +1,3 @@
-> [!Definition]
-> Ein Base ist ein **Protonenakzeptor**
+>[!Card]
+>**Protonenakzeptor**
 

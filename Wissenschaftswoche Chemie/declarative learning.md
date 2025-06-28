@@ -1,4 +1,4 @@
->[!Definition]
+>[!Card] declarative learning
 >Declarative learning involves learning facts and information that can be consciously recalled and verbally expressed.
 
 - **Nature**: It's about "knowing that" something is the case, such as knowing facts, concepts, or events.

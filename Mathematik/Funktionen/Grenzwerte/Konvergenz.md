@@ -1,4 +1,4 @@
->[!Definition]
+>[!Definition] Konvergenz
 >Funktionen, bei denen in der vereinfachten Darstellung $x$ im Nenner dominiert, *konvergieren*
 
 - Exponentialfunktion( $f(x)=a^x$ ) konvergiert:

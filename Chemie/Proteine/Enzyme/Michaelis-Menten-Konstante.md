@@ -1,5 +1,5 @@
->[!Definition]
->Michaelis-Menten-Konstante := $K_{m} = \frac{V_{\text{max}}}{2}$, Substratkonzentration bei der die Hälfte der maximalen Reaktionsgeschwindigkeit erreicht ist.
+>[!Card] Michaelis-Menten-Konstante
+>$K_{m} = \frac{V_{\text{max}}}{2}$, Substratkonzentration bei der die Hälfte der maximalen Reaktionsgeschwindigkeit erreicht ist.
 <!--SR:!2025-06-26,8,250-->
 
 - beschreibt Affinität des Enzyms zum Substrat

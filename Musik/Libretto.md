@@ -1,5 +1,5 @@
->[!Definition]
->Libretto := Text eines Musiktheaters
+>[!Card] Libretto
+>Text eines Musiktheaters
 <!--SR:!2025-06-05,21,270-->
 
 ## Merkmale

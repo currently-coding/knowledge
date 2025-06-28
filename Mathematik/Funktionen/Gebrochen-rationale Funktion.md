@@ -1,4 +1,4 @@
->[!Definition]
+>[!Card] Gebrochen-rationale Funktion
 >Eine gebrochen rationale Funktion kann in der Form $x \mapsto \frac{p(x)}{q(x)}$ mit ${} q$ und $p$ als Polynom dargestellt werden, wobei $q(x)$ min. Grad 1 hat.
 
 ## Graph
@@ -28,7 +28,7 @@ $x_1=+1.4$
 $x_{2}=-1.4$
 
 ## Definitionslücken
->[!Definition]
+>[!Card] Definitionslücken
 >Sei $f: \mathbb{R} \rightarrow \mathbb{R}$ mit $D_{f}$ als Definitionsmenge. Dann ist $\mathbb{L} = \mathbb{N}-D_{f}$  die Menge aller Definitionslücken.
 
 $f(x)=\frac{p(x)}{q(x)}=n.d \implies$ für $q(x)=0$ ist $f(x)$ undefiniert.

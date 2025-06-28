@@ -1,14 +1,14 @@
->[!Definition]
+>[!Card] Differentialquotient
 >Differentialquotient einer Funktion $f$ an der Stelle $x_{0}$ := $$\lim_\limits{ h \to 0 } \frac{(x_{0}+h) - f(x_{0})}{h}$$
 <!--SR:!2025-06-06,22,274-->
 
 
->[!Definition]
->Wann ist eine Funktion an der Stelle $x_{0}$ differenzierbar? := Existiert für eine Funktion $f$ an der Stelle $x_{0}$ der Differentialquotient $\lim_\limits{ h \to 0 } \frac{(x_{0}+h) - f(x_{0})}{h}$, so heißt $f$ an der Stelle $x_{0}$ differenzierbar.
+>[!Definition] Wann ist eine Funktion an der Stelle $x_{0}$ differenzierbar?
+>Existiert für eine Funktion $f$ an der Stelle $x_{0}$ der Differentialquotient $\lim_\limits{ h \to 0 } \frac{(x_{0}+h) - f(x_{0})}{h}$, so heißt $f$ an der Stelle $x_{0}$ differenzierbar.
 <!--SR:!2025-06-04,20,270-->
 
->[!Definition] 
->Wann ist eine Funktion in einem Intervall $I$ differenzierbar? := Ist eine Funktion $f$ für alle Werte eines Intervalls $I$ differenzierbar, so nennt man $f$ eine in $I$ differenzierbare Funktion.
+>[!Definition] Wann ist eine Funktion in einem Intervall $I$ differenzierbar?
+>Ist eine Funktion $f$ für alle Werte eines Intervalls $I$ differenzierbar, so nennt man $f$ eine in $I$ differenzierbare Funktion.
 <!--SR:!2025-06-05,21,270-->
 
 ## Beispiele

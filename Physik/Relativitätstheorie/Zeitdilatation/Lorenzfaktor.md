@@ -1,4 +1,4 @@
->[!Definition] Lorenzfaktor
+>[!Card] Lorenzfaktor
 >Stellt ein Maß für die **relativistische Zeitdilatation** dar.
 >$$\gamma = \frac{1}{\sqrt{ 1-\left( \frac{v}{c} \right)^2 }}$$
 
