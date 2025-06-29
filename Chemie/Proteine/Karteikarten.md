@@ -22,7 +22,7 @@ Wovon hängt die Reaktionsgeschwindigkeit bei durch Enzymen katalysierten Reakti
 1. RGT-Regel: Alle $+10^\circ C$ doppelte Reaktionsgeschwindigkeit
 2. [[Chemie/Säuren/pH-Wert|pH-Wert]]
 3. ab ~$40^\circ C$ [[Denaturierung|denaturieren]] Enzyme
-<!--SR:!2025-06-27,9,259-->
+<!--SR:!2025-07-31,32,279-->
 
 Erkläre alle Strukturstufen eines Proteins und durch welche Wechselwirkungen diese primär entsteht.
 ?
@@ -30,5 +30,5 @@ Erkläre alle Strukturstufen eines Proteins und durch welche Wechselwirkungen di
 2. Sekundärstruktur: [[Wasserstoffbrückenbindung]]en: [[alpha-Helix]]/[[beta-Faltblatt]]
 3. Tertiärstruktur: Alle Wechselwirkungen
 4. Quartärstruktur: Zusammenlagerung mehrerer Tertiärstrukturen
-<!--SR:!2025-06-28,9,259-->
+<!--SR:!2025-08-02,34,279-->
 

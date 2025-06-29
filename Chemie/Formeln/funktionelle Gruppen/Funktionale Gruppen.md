@@ -20,7 +20,7 @@ aliases:
 <!--SR:!2025-08-01,34,277!2000-01-01,1,250-->
 ## Alken
 ![[Pasted image 20250121154421.png|400]] ::: -en, Alken (kann Brom addieren)
-<!--SR:!2025-06-29,1,238!2025-08-27,60,317-->
+<!--SR:!2025-07-02,3,258!2025-08-27,60,317-->
 
 ## Hydroxyl
 ![[Pasted image 20250121154501.png|400]] ::: Alkohol, Hydroxyl-..., ...-ol (polar, lässt sich mit Säuren verestern)

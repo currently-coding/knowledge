@@ -3,8 +3,12 @@
 
 ## Einflussfaktoren
 - Kernladung
+	-> EN nimmt in einer Elementperiode von links nach rechts zu(Kernladungszahl steigt)
 - Atomradius
+	-> EN nimmt in einer Elementgruppe von oben nach unten ab(mehr Abstand zum Kern)
 - Bei Ionen: [[Ionisierungsenergie]] bzw. [[Elektronenaffinität]]
 
+![[Pasted image 20250629144855.png]]
 ## Anwendung
 - [[Elektronegativitätsdifferenz]] zur Abschätzung der Polarität
+
