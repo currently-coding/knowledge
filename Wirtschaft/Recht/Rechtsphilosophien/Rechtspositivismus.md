@@ -12,7 +12,8 @@
 
 >[!Question] Nach dieser Philosophie waren die Verbrechen des Nationalsozialismus "Recht", jedoch sind sie zu verurteilen. Besteht eine Grenze des Rechtspositivismus?
 >Ja, [[Gustav Radbruch]], sozialdemokratischer Justizminister in der Weimarer Republik und strenger Rechtspositivist, erkannte dieses Problem und bietet als Lösung die [[Radbruch'sche Formel]], welche besagt, dass positives Recht, wenn es der Gerechtigkeit stark widerspreche, unrecht sei.
+<!--SR:!2025-07-03,4,270-->
 
->[!Question] Wie kann man Diktatoren bestrafen, die nach "geltendem" Recht handelten?
+>[!idk] Wie kann man Diktatoren bestrafen, die nach "geltendem" Recht handelten?
 >Durch eine explizite Aussetzung des [[Rückwirkungsverbots]]
 

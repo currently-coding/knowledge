@@ -12,6 +12,3 @@ aliases:
 - Recht und Unrecht ist durch die Natur des Menschen/natürliche Vernunft bestimmt
 -> nicht jedes Recht muss niedergeschrieben(=positiv) sein(-> Menschenrechte)
 -> positives Recht muss auch an **Moral gemessen** werden
-
->[!Question] Waren die [[Nürnberger Gesetze]] demnach Recht?
->Nein, da sie nicht den moralischen Ansprüchen genügen.

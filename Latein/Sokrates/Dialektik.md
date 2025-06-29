@@ -1,5 +1,6 @@
 >[!Card] Dialektik
 >fragend-entwickelnde Gesprächsmethode die zu Wissenszuwachs führt
+<!--SR:!2025-07-03,4,270-->
 
 >[!Definition] sokratische Dialektik
 >1. geht von einer Grundannahme aus

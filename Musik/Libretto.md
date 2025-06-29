@@ -1,6 +1,6 @@
 >[!Card] Libretto
 >Text eines Musiktheaters
-<!--SR:!2025-06-05,21,270-->
+<!--SR:!2025-09-16,79,290-->
 
 ## Merkmale
 - viele Wiederholungen
