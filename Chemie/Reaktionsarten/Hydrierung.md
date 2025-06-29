@@ -26,4 +26,4 @@ Zeigen Sie, dass bei der Hydrierung von [[Ethen]] eine Redoxreaktion stattfindet
 ![[Hydrierung 2025-06-18 17.01.56.excalidraw]]
 Reduktion: Wasserstoff: $0 \to -1$
 Oxidation: C: $-1 \to 0$
-<!--SR:!2025-06-28,64,270-->
+<!--SR:!2026-02-25,241,290-->

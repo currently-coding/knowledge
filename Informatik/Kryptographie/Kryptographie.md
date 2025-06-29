@@ -1,11 +1,11 @@
 # Ziele
 >[!Card] Vertraulichkeit
 >Nur dazu berechtigte Personen sollen in der Lage sein, die Daten oder die Nachricht zu lesen oder Informationen über ihren Inhalt zu erlangen.
-<!--SR:!2025-06-26,2,210-->
+<!--SR:!2025-07-05,6,230-->
 
 >[!Card] Integrität
 >Die Daten müssen nachweislich vollständig und unverändert sein.
-<!--SR:!2025-06-25,2,210-->
+<!--SR:!2025-07-05,6,230-->
 
 >[!Card] Authentizität
 >Der Urheber der Daten oder der Absender der Nachricht soll eindeutig identifizierbar sein, und seine Urheberschaft sollte nachprüfbar sein.

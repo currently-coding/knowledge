@@ -16,7 +16,7 @@ Was ist eine  Gruppenspezifität? := nur Verbindungen gleicher funktioneller Gru
 <!--SR:!2025-07-27,28,274-->
 
 Was drückt die Michaelis-Menten-Konstante aus? := Affinität des Enzyms zum Substrat
-<!--SR:!2025-06-27,5,230-->
+<!--SR:!2025-07-15,16,250-->
 
 Wo bindet der kompetitive Inhibitor? := aktives Zentrum
 <!--SR:!2025-07-28,29,274-->
@@ -28,7 +28,7 @@ Welche enzymatische Hemmung verändert $K_{m}$, welche nicht? := Nicht-Kompetiti
 <!--SR:!2025-07-24,25,274-->
 
 Wie wirkt ein kompetitiver Hemmstoff? := Inhibitor verhindert Bindung des Substrats an aktives Zentrum und setzt so die Affinität des Enzyms zum Substrat und damit $K_{m}$ herab. $v_{max}$ bleibt gleich.
-<!--SR:!2025-06-27,9,254-->
+<!--SR:!2025-07-30,31,274-->
 
 Wie wirkt ein nicht-kompetitiver Hemmstoff? := Inhibitor bindet an allosterisches Zentrum und reduziert so die Effizienz des Enzyms. $v_{max}$ sinkt, $K_{m}$ unverändert.
 <!--SR:!2025-07-15,16,254-->

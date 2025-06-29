@@ -19,7 +19,8 @@
 		"multilineCardEndMarker": "",
 		"calloutCardMarker": [
 			">[!Question]",
-			">[!Definition]"
+			">[!Card]",
+			">[!Flashcard]"
 		],
 		"calloutLineMarker": ">",
 		"editLaterTag": "#edit-later",

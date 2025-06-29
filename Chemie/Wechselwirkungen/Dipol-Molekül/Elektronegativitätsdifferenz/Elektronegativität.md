@@ -1,5 +1,6 @@
 >[!Definition] Elektronegativität
->Elektronegativität (Abkürzung EN; Formelzeichen $\chi$ (griechisch Chi)) ist ein relatives Maß für die **Fähigkeit von Atomen**, in chemischen Bindungen die bindenden **Elektronenpaare an sich zu ziehen**.
+>Elektronegativität (Abkürzung EN; Formelzeichen $\chi$ (griechisch Chi)) ist ein relatives Maß für die **Fähigkeit von Atomen**, in chemischen Bindungen die **bindenden Elektronenpaare an sich zu ziehen**.
+<!--SR:!2025-06-30,1,230-->
 
 ## Einflussfaktoren
 - Kernladung
