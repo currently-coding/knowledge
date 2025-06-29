@@ -9,8 +9,8 @@
 
 >[!Card] Authentizität
 >Der Urheber der Daten oder der Absender der Nachricht soll eindeutig identifizierbar sein, und seine Urheberschaft sollte nachprüfbar sein.
-<!--SR:!2025-06-27,3,230-->
+<!--SR:!2025-07-03,4,270-->
 
->[!Card] Verbindlichkeit 
+>[!Card] Verbindlichkeit
 > Der Urheber der Daten oder Absender einer Nachricht soll nicht in der Lage sein, seine Urheberschaft zu bestreiten, d. h., sie sollte sich gegenüber Dritten nachweisen lassen.
-<!--SR:!2025-06-26,3,230-->
+<!--SR:!2025-07-10,11,250-->
