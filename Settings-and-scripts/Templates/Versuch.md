@@ -1,9 +1,10 @@
->[!Info]+ Versuch
+>[!experiment]+ Versuch
 >Zugabe von 
 
->[!Example]+ Beobachtung
->- 1
->- 2
-
->[!Success]+ Erklärung
+>[!observation]+ Beobachtung
 >- 
+>- 
+
+>[!explanation]+ Erklärung
+>- 
+
