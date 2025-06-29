@@ -4,7 +4,7 @@ aliases:
 ---
 >[!Summary]
 >- Recht und Unrecht ist durch Natur des Menschen/natürliche Vernunft bestimmt
->- positives Recht wird an Moral gemessen
+>-positives Recht wird an Moral gemessen
 ## Lehre
 >[!def] These
 >Recht und Moral sind nicht trennbar.
