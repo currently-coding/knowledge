@@ -20,7 +20,7 @@
 }
 
 .callout[data-callout="card"] {
-    --callout-icon: lucide-book-open-text;
+    --callout-icon: lucide-book-open-check;
 }
 
 .callout[data-callout="flashcard"] {
