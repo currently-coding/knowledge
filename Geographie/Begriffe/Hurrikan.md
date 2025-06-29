@@ -1,6 +1,6 @@
 >[!Card] Hurrikan
 >[[tropischer Wirbelsturm]] im Nordatlantik oder Pazifik mit Orkanstärke(=Windstärke 12)
-<!--SR:!2025-05-27,15,250-->
+<!--SR:!2025-08-21,53,270-->
 
 ## Entstehung
 - **Ort**: in der [[Passatwind]]zone über dem Atlantik oder Pazifik

@@ -1,6 +1,6 @@
 >[!Card] Tornado
 >Luftwirbel über Land in Form eines Schlauches unterhalb einer Gewitterwolke
-<!--SR:!2025-05-25,13,250-->
+<!--SR:!2025-08-14,46,270-->
 
 
 ## Merkmale

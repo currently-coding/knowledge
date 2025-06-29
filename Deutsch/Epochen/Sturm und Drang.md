@@ -10,4 +10,5 @@
 
 >[!Question]- Welche Rolle spielt die Natur im Sturm und Drang?
 >Die Natur stellt das Ursprüngliche, Gut, nicht von der Zivilisation korrumpierte. Autoren nutzen sie als Kulisse für die Darstellung individueller Leidenschaft, Rebellion und Sehnsucht nach Freiheit von gesellschaftlichen Zwängen.
+<!--SR:!2025-07-03,4,270-->
 

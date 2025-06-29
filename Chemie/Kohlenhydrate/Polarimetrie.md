@@ -4,6 +4,7 @@ aliases:
 ---
 >[!Card] Polarimetrie
 >Nachweis optischer Aktivität u. zur Konzentrationsbestimmung
+<!--SR:!2025-07-03,4,279-->
 
 >[!Note] Linear polarisiertes Licht
 >Polarisator filtert Lichtwellen, sodass nur noch eine bestimmte *Schwingungsebene* durchgelassen wird -> polarisiertes Licht

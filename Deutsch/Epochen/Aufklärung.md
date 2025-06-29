@@ -12,6 +12,8 @@
 #quiz
 >[!Question]- Welche Rolle spielt die **Vernunft** in der Aufklärung?
 >Die Vernunft ist das Mittel zu Befreiung von Aberglauben, politischen Unterdrückung und Unwissenheit, um eine **rationale**, fortschrittliche Gesellschaft zu schaffen, die auf Wissen und **individueller Freiheit** beruht.
+<!--SR:!2025-07-03,4,270-->
 
 >[!Question]- Was hat Aufklärung mit Religion zu tun?
->Die Aufklaerung hinterfragt traditionelle religioese Autoritaet. Sie fordert Religionsfreiheit, kritisiert [[Dogma|Dogmen]] und foerdert eine **rationale** Interpretations von Glaubensfragen. -> **Trennung von Staat und Kirche**
+>Die Aufklärung hinterfragt traditionelle religiöse Autorität. Sie fordert Religionsfreiheit, kritisiert [[Dogma|Dogmen]] und fördert eine **rationale** Interpretations von Glaubensfragen. -> **Trennung von Staat und Kirche**
+<!--SR:!2025-07-03,4,270-->
