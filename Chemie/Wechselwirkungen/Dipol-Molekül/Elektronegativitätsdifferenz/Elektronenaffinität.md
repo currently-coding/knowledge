@@ -1,5 +1,6 @@
 >[!Card] Elektronenaffinität
 > Als **Elektronenaffinität** (Abkürzung EA auch EEA oder $\Delta H$ oder χ) bezeichnet man diejenige **Energie**, die erforderlich ist, um ein **Elektron aus** einem einfach **negativ geladenen Anion zu entfernen** und ein neutrales Molekül oder Atom zu bilden.  Aus der Sicht des Anions, das ein Elektron abgibt, kann man auch sagen:  Die **Elektronenaffinität entspricht** der **[[Ionisierungsenergie]]** des zugehörigen einfach geladenen Anions.
+<!--SR:!2025-07-01,1,230-->
 
 > Die Elektronenaffinität ist also die Energiedifferenz zwischen dem Grundzustand eines einzelnen neutralen Atoms oder Moleküls und dem Grundzustand des zugehörigen negativ geladenen Ions, d. h., es handelt sich um den Energiebetrag, der bei der Aufnahme eines Elektrons durch das neutrale Atom/Molekül freigesetzt bzw. benötigt wird. Für Festkörper ist es die Energiedifferenz zwischen der Vakuumenergie und der unteren Leitungsbandkante wie im Bild dargestellt.
 >
