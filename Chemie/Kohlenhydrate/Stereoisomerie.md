@@ -11,6 +11,7 @@ $$N = 2^n$$
 ## Enantiomere
 >[!Card] Enantiomere
 >Zwei *Stereoisomere*, die sich wie *Bild-* und *nicht deckungsgleiches Spiegelbild* verhalten, nennt man **Enantiomere**
+<!--SR:!2025-07-04,4,272-->
 
 - *zwischemolekulare* *Wechselwirkungen* der beiden Moleküle eines *Enantiomeres* unterscheiden sich nicht
 $\rightarrow$ Die Stoffe sind in ihren *physikalischen Kenneigenschaften identisch*
