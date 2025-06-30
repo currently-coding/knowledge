@@ -50,4 +50,4 @@ Erkläre die Berechnung der Konzentration der Säurelösung bei gegebenen Daten:
 ?
 1. Stoffmengenverhältnis aus der Reaktionsgleichung bestimmen
 2. $$c(Säurelösung)=\frac{n(Säurelösung)}{V(Säurelösung)} =\frac{a \cdot n(Base)}{V(Säurelösung)} = \frac{{a \cdot c(Base) \cdot v(Base)}}{V(Säurelösung)}$$
-<!--SR:!2025-06-30,74,290-->
+<!--SR:!2026-04-24,298,310-->
