@@ -1,5 +1,14 @@
+>[!tldr] Zeitdilatation
+>$$\Delta t = \gamma \cdot \Delta t_{0}$$
+>$$\gamma = \frac{1}{\sqrt{ 1- \frac{v^2}{c^2} }}, \gamma \geq 1$$
+>Gemessen in einem relativ zum Ruhesystem($S$) bewegten System($S_{0}$) ist $\Delta t_{0}$ kleiner als $t$, die ein Beobachter im Ruhesystem misst.
+>=> "Bewegte Uhren gehen langsamer"
+
+>
+
 >[!Card] Zeitdilatation
->Effekt, dass alle inneren Prozesse eines physikalischen Systems **relativ zum Beobachter langsamer** ablaufen, **wenn** sich dieses System **relative zum Beobachter bewegt**.
+>Effekt, dass alle inneren Prozesse eines physikalischen Systems **relativ zum Beobachter langsamer** ablaufen, **wenn** sich dieses System **relativ zum Beobachter bewegt**.
+>$$t = \gamma \cdot t_{0}$$
 
 ## Einführung
 
@@ -26,3 +35,7 @@
 - min. Lorenzfaktor = $1$
 - max. Lorenzfaktor = $\infty$
 - bis $v = 0.1c$ ist die **Zeitdilatation** vernachlässigbar
+
+
+---
+-> [[Aufgaben Zeitdilation]]
