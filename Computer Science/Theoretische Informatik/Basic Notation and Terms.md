@@ -42,7 +42,7 @@ $(a_1, a_2, \ldots, a_n)$ := sequence of elements $a_1, a_2, \ldots, a_n$ in thi
 $A_1 \times A_2 \times \ldots \times A_n$ := $\{(a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ for all } i\}$ (Cartesian product of sets $A_1,A_2, \ldots, A_n$)
 <!--SR:!2026-05-04,415,317-->
 $A^n$ := $A \times A \times \ldots \times A$ (n-dimensional Cartesian product of set A)
-<!--SR:!2025-06-27,184,314-->
+<!--SR:!2027-01-30,578,314-->
 The first definition yields the empty tuple $( )$ for $n = 0$. Thus $A^0 = \{( )\}$ and $|A^0| = 1$.
 ## Quantifiers
 $\exists$ = “there exist(s)”

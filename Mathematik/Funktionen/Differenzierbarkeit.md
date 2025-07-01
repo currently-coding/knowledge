@@ -1,6 +1,6 @@
 >[!Card] Differentialquotient
->Differentialquotient einer Funktion $f$ an der Stelle $x_{0}$ := $$\lim_\limits{ h \to 0 } \frac{(x_{0}+h) - f(x_{0})}{h}$$
-<!--SR:!2025-06-06,22,274-->
+>Differentialquotient einer Funktion $f$ an der Stelle $x_{0}$ := $$\lim_\limits{ h \to 0 } \frac{f(x_{0}+h) - f(x_{0})}{h}$$
+<!--SR:!2025-09-09,70,294-->
 
 
 >[!Definition] Wann ist eine Funktion an der Stelle $x_{0}$ differenzierbar?
