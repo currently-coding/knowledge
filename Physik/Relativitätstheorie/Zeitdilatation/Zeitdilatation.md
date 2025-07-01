@@ -1,7 +1,7 @@
 >[!tldr] Zeitdilatation
 >$$\Delta t = \gamma \cdot \Delta t_{0}$$
 >$$\gamma = \frac{1}{\sqrt{ 1- \frac{v^2}{c^2} }}, \gamma \geq 1$$
->Gemessen in einem relativ zum Ruhesystem($S$) bewegten System($S_{0}$) ist $\Delta t_{0}$ kleiner als $t$, die ein Beobachter im Ruhesystem misst.
+>Gemessen in einem relativ zum Ruhesystem($S$) bewegten System($S_{0}$) ist $\Delta t_{0}$ kleiner als die Zeitspanne $t$, die ein Beobachter im Ruhesystem misst.
 >=> "Bewegte Uhren gehen langsamer"
 
 >[!Card] Zeitdilatation
@@ -18,7 +18,7 @@
 >Die aus $S$ beobachtete Bahn der Lichtuhr ist ein "Zick-Zack"-Muster([[Lichtuhr#bewegte Lichtuhr|bewegte Lichtuhr]])
 
  >[!Success]- Folge
- Da $c$ in jedem Inertialsystem gleich und konstant ist, die von den Photonen zurueckgelegten Strecken(aus $S$) beobachtet aber unterschiedlich sind, geht die **Uhr** in $S_{0}{}$ von $S$ aus beobachtet **langsamer**
+ Da $c$ in jedem Inertialsystem gleich und konstant ist, die von den Photonen zurückgelegten Strecken(aus $S$) beobachtet aber unterschiedlich sind, geht die **Uhr** in $S_{0}{}$ von $S$ aus beobachtet **langsamer**
 
 ## Modell
 ![[Zeitdilatation 2025-06-26 21.19.14.excalidraw|600]]
