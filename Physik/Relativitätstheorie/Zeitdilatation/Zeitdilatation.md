@@ -4,8 +4,6 @@
 >Gemessen in einem relativ zum Ruhesystem($S$) bewegten System($S_{0}$) ist $\Delta t_{0}$ kleiner als $t$, die ein Beobachter im Ruhesystem misst.
 >=> "Bewegte Uhren gehen langsamer"
 
->
-
 >[!Card] Zeitdilatation
 >Effekt, dass alle inneren Prozesse eines physikalischen Systems **relativ zum Beobachter langsamer** ablaufen, **wenn** sich dieses System **relativ zum Beobachter bewegt**.
 >$$t = \gamma \cdot t_{0}$$
