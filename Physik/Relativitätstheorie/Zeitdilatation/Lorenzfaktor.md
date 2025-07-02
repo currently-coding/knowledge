@@ -20,5 +20,8 @@ $\gamma = \frac{1}{\sqrt{ 1-\left( \frac{v}{c} \right)^2 }}$
 
 ## Umgestellte Formeln
 $$
-v = 
+v = c  \cdot \sqrt{ 1 - \frac{1}{\gamma^2} }
 $$
+$$\gamma = \frac{1}{\sqrt{ 1-\left( \frac{v}{c} \right)^2 }}$$
+
+
