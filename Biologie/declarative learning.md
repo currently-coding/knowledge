@@ -1,6 +1,6 @@
 >[!Card] declarative learning
 >Declarative learning involves learning facts and information that can be consciously recalled and verbally expressed.
-<!--SR:!2025-07-02,3,250-->
+<!--SR:!2025-07-12,10,270-->
 
 - **Nature**: It's about "knowing that" something is the case, such as knowing facts, concepts, or events.
 - **Memory Type**: Declarative memory is explicit, meaning you are aware of what you've learned and can intentionally recall it.
