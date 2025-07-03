@@ -2,10 +2,10 @@
   "pluginVersion": "1.0.0",
   "showCopyFormatIndicators": false,
   "sourceModeSettings": {
-    "showCopyButtonOnlyOnLineHover": false
+    "showCopyButtonOnlyOnLineHover": true
   },
   "readingModeSettings": {
-    "showCopyMarkdownButton": true,
+    "showCopyMarkdownButton": false,
     "showCopyPlainTextButton": true
   }
 }

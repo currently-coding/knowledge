@@ -7,3 +7,5 @@ Alle Inertialsysteme sind ==gleichberechtigt== und physikalische Vorgänge laufe
 In allen Inertialsystemen beträgt die Vakuumlichtgeschwindigkeit $c=2997924\frac{\text{km}}{\text{s}}$
 Dies gilt ==unabhängig== von der Momentangeschwindigkeit der Lichtquelle.
 <!--SR:!2025-07-04,3,230-->
+
+=> [[Zeitdilatation]] + [[Laengenkontraktion]]
