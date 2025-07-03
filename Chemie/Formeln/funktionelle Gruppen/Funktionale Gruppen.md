@@ -11,10 +11,10 @@ aliases:
 <!--SR:!2025-07-13,15,290!2025-07-04,3,264-->
 ## Ester
 ![[Pasted image 20250121154124.png|400]] ::: Ester (kann in Alkohol und Säure gespalten werden)
-<!--SR:!2025-07-09,11,270!2025-07-03,2,238-->
+<!--SR:!2025-07-09,11,270!2025-07-04,1,218-->
 ## Carbonyl/Keton
 ![[Pasted image 20250121154228.png|400]] ::: Carbonyl/Keton (nicht oxidierbar, da keine reduzierbaren Eigenschaften)
-<!--SR:!2025-07-03,5,238!2025-07-15,13,298-->
+<!--SR:!2025-07-06,3,218!2025-07-15,13,298-->
 ## Aldehyd
 ![[Pasted image 20250121154311.png|400]] ::: Aldehyd (polar, oxidierbar(->wirkt reduzierend))
 <!--SR:!2025-08-01,34,277!2025-07-04,3,264-->
