@@ -3,14 +3,14 @@
 
 
 ## Formel
-- Bewegtes System: $$v = \frac{s'}{\Delta t'}$$
+- Bewegtes System: $$v = \frac{l'}{\Delta t'}$$
 - Ruhendes System:
 $$
-v = \frac{s}{\Delta t}
+v = \frac{l}{\Delta t}
 $$
 Da in beiden Systemen die gleich Geschwindigkeit $v$ gemessen wird
 $$
-\implies \frac{s}{\Delta t} = \frac{s'}{\Delta t'} \implies s' = s \frac{\Delta t'}{\Delta t}
+\implies \frac{l}{\Delta t} = \frac{l'}{\Delta t'} \implies l' = l \frac{\Delta t'}{\Delta t}
 $$
 
 $$
@@ -19,7 +19,7 @@ $$
 (-> [[Zeitdilatation]], [[Lorenzfaktor]])
 
 $$
-\implies s' = \frac{s}{\gamma} = s \cdot \sqrt{ 1- \frac{v^2}{c^2} }
+\implies l' = \frac{l}{\gamma} = l \cdot \sqrt{ 1- \frac{v^2}{c^2} }
 $$
 
 
