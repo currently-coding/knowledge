@@ -99,7 +99,7 @@
 >**Pronunciation**: /pɹoʊtɛktɪv/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/8d/8de0913c031da954e1eabeab2c555428-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/8d/8de0913c031da954e1eabeab2c555428-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-06-28,34,296-->
+<!--SR:!2025-10-30,119,316-->
 
 >[!question]+ Word
 >
@@ -708,7 +708,7 @@
 >>- I am squeezing all my clothes into a tiny suitcase.
 >>- She squeezed some oranges to make juice.
 >>- I am squeezing an orange to get fresh juice.
-<!--SR:!2025-06-25,31,322-->
+<!--SR:!2025-10-27,116,342-->
 
 >[!question]+ Word
 >
@@ -924,7 +924,7 @@
 >>- You can complete the tasks in arbitrary order.
 >>- Arbitrary changes to the process are not allowed.
 >>- The boss gave arbitrary orders that changed daily.
-<!--SR:!2025-07-01,37,330-->
+<!--SR:!2025-11-22,142,350-->
 
 >[!question]+ Word
 >
@@ -1532,7 +1532,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/82/820a49ff68459d49d0bef13ccf0f623b-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- He had spurious excuses for leaving.
-<!--SR:!2025-06-10,6,306-->
+<!--SR:!2025-07-21,18,306-->
 
 >[!question]+ Word
 >
@@ -1740,7 +1740,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/2a/2a288121ef536b483481dde37db6e5de-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- We embarked at sunrise and the cruise began.
-<!--SR:!2025-06-30,26,339-->
+<!--SR:!2025-09-27,86,339-->
 
 >[!question]+ Word
 >
@@ -1808,7 +1808,7 @@
 >>[!Example]+ Examples
 >>- Complicated questions may confound the witness.
 >>- She confounded the teacher with quick-witted answers.
-<!--SR:!2025-06-09,15,340-->
+<!--SR:!2025-07-11,8,320-->
 
 >[!question]+ Word
 >
@@ -2125,7 +2125,7 @@
 >>- The gold medal was an incentive for him to improve his performance further.
 >>- My termination was a good incentive to look for a better job.
 >>- The medal was an incentive for him to improve his performance even more.
-<!--SR:!2025-06-25,19,283-->
+<!--SR:!2025-09-03,62,303-->
 
 >[!question]+ Word
 >
