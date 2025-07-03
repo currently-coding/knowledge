@@ -1,6 +1,8 @@
 >[!Card] Laengenkontraktion
 >Bewegte Objekte besitzen bezueglich der Ausdehnung in Bewegungsrichtung eine kuerzere Laenge.
 
+## Modell
+![[Pasted image 20250703115858.png]]
 
 ## Formel
 - Bewegtes System: $$v = \frac{l'}{\Delta t'}$$
