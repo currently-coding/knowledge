@@ -1,6 +1,6 @@
 >[!Card] Steuern
 >Geldleistungen eines Bürgers an den Staat, **ohne** dass dieser einen Anspruch auf eine **direkte Gegenleistung** hat
-<!--SR:!2025-06-07,23,270-->
+<!--SR:!2025-09-11,70,290-->
 
 ## Funktionen
 ### Umverteilungsfunktion

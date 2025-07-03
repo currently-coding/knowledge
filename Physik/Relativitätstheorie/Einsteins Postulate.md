@@ -8,4 +8,4 @@ In allen Inertialsystemen beträgt die Vakuumlichtgeschwindigkeit $c=2997924\fra
 Dies gilt ==unabhängig== von der Momentangeschwindigkeit der Lichtquelle.
 <!--SR:!2025-07-04,3,230-->
 
-=> [[Zeitdilatation]] + [[Längenkontraktion]]
+=> [[Zeitdilatation]] + [[Längenkontraktion123]]

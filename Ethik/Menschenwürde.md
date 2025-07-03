@@ -1,6 +1,6 @@
 >[!Card] Menschenwürde
 >Die Menschenwürde ist der Wert, der allen Menschen gleichermaßen und unabhängig von ihren Unterscheidungsmerkmalen wie Herkunft, Geschlecht, Alter, sexuelle Orientierung oder Status zugeschrieben wird, weil sie Mensch sind.
-<!--SR:!2025-07-02,3,250-->
+<!--SR:!2025-07-12,9,270-->
 
 - schwer vorstellbar
 - immer relevanter

@@ -300,7 +300,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/03/03f753c08ba5ff2bd7d2ee230b4683b1-100.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- Smoking can be a vice.
-<!--SR:!2025-06-24,33,296-->
+<!--SR:!2025-10-26,115,316-->
 
 >[!question]+ Word
 >
@@ -413,7 +413,7 @@
 >>- This is a good idea, but it's not feasible in practice.
 >>- We must find a solution that is really feasible.
 >>- The plan was well thought out and feasible.
-<!--SR:!2025-06-26,32,303-->
+<!--SR:!2025-10-24,113,323-->
 
 >[!question]+ Word
 >
@@ -502,7 +502,7 @@
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/08/08290ab350f041d54b1da164022ed268-200.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- I refute these false allegations.
-<!--SR:!2025-06-26,32,322-->
+<!--SR:!2025-10-31,120,342-->
 
 >[!question]+ Word
 >
@@ -568,7 +568,7 @@
 >>[!Example]+ Examples
 >>- The scandal provoked public anger.
 >>- The politician's statement provoked public criticism.
-<!--SR:!2025-06-28,34,308-->
+<!--SR:!2025-11-03,123,328-->
 
 >[!question]+ Word
 >
@@ -841,7 +841,7 @@
 >>[!Example]+ Examples
 >>- She solved the problem precisely as the teacher expected.
 >>- I can set the scaling of the machine precisely.
-<!--SR:!2025-06-26,32,330-->
+<!--SR:!2025-11-04,124,350-->
 
 >[!question]+ Word
 >
@@ -1106,7 +1106,7 @@
 >>- The pupil has undermined the teacher's authority.
 >>- The student has undermined the teacher's authority.
 >>- Frequent lying undermines any trust.
-<!--SR:!2025-06-27,33,337-->
+<!--SR:!2025-11-08,128,357-->
 
 >[!question]+ Word
 >
@@ -1303,7 +1303,7 @@
 >**Pronunciation**: /ˈwɪstfəl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/dd/dd1c43f982af85911625e7b925adaf78-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-07-03,34,305-->
+<!--SR:!2025-11-02,122,325-->
 
 >[!question]+ Word
 >
@@ -1324,7 +1324,7 @@
 >>- The shampoo is made of tropical plant extracts.
 >>- The author read an extract of his new novel.
 >>- The author read an extract from his new novel.
-<!--SR:!2025-06-26,32,325-->
+<!--SR:!2025-10-30,119,345-->
 
 >[!question]+ Word
 >
@@ -2167,7 +2167,7 @@
 >>- The attachment of the house was averted.
 >>- Emotional attachment between parent and child is important.
 >>- The blender came with several attachments.
-<!--SR:!2025-06-02,11,322-->
+<!--SR:!2025-07-09,6,302-->
 
 >[!question]+ Word
 >

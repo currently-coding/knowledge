@@ -1,6 +1,6 @@
 >[!Card] Aristoteles - Gerechtigkeit
 >Gerechtigkeit ist die Eigenschaft, die Menschen befähigt, **Gerechtes zu tun und wollen**
-<!--SR:!2025-07-02,3,250-->
+<!--SR:!2025-07-13,10,270-->
 
 >[!Definition]
 >**gerecht** ist das, was **Glück für staatliche Gemeinschaft schafft und erhält**

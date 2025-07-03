@@ -24,9 +24,8 @@
 ## Modell
 ![[Zeitdilatation 2025-06-26 21.19.14.excalidraw|600]]
 
-1. $x \gt x_{0}  \land c \text{ konstant} \implies t \gt t_{0}{}$
-
-2. $\overset{\text{Pythagoras}}{\implies} t = \sqrt{ \frac{1}{1-\left( \frac{v}{c} \right)^2} }\cdot t_{0} = \gamma \cdot t_{0}$
+$$x \gt x_{0}  \land c \text{ konstant} \implies t \gt t_{0}{}$$
+$$\overset{\text{Pythagoras}}{\implies} t = \sqrt{ \frac{1}{1-\left( \frac{v}{c} \right)^2} }\cdot t_{0} = \gamma \cdot t_{0}$$
 -> [[Lorenzfaktor]]($\gamma$)
 
 ## Graph: Geschwindigkeit zu Lorenzfaktor
