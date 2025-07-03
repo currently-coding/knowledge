@@ -459,7 +459,7 @@
 >>- Product designers anticipate the needs of the customers.
 >>- You cannot anticipate every possible reaction to an act.
 >>- I anticipated my mother's reaction.
-<!--SR:!2025-06-29,35,322-->
+<!--SR:!2025-11-12,132,342-->
 
 >[!question]+ Word
 >
@@ -799,7 +799,7 @@
 >**Pronunciation**: /kənˈvɪv.i.əl/
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/44/44219e0dc662875e7a8885fb960c943d-300.mp3 type="audio/mpeg">Unsupported.</audio>
 >**Audio british**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_UK/44/44219e0dc662875e7a8885fb960c943d-300.mp3 type="audio/mpeg">Unsupported.</audio>
-<!--SR:!2025-07-01,35,322-->
+<!--SR:!2025-11-14,134,342-->
 
 >[!question]+ Word
 >
@@ -963,7 +963,7 @@
 >**Audio american**: <audio controls><source src=https://assets.linguee.com/static/ba7a6d6d/mp3/EN_US/0a/0a2db9b7b0296859aee1b8b9237d1a9b-101.mp3 type="audio/mpeg">Unsupported.</audio>
 >>[!Example]+ Examples
 >>- I feel pity when I see other people suffer.
-<!--SR:!2025-06-30,36,330-->
+<!--SR:!2025-11-19,139,350-->
 
 >[!question]+ Word
 >
