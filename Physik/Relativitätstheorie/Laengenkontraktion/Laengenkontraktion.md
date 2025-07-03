@@ -3,7 +3,11 @@
 
 ## Modell
 ![[Pasted image 20250703120214.png]]
-
+- Zug und Bahnsteig sind gleich lang: $l$
+- Sind beide genau nebeneinander wird ein Photon($*$) mit Geschwindigkeit $c$ losgeschickt
+- der gruene Beobachter nimmt das linke Photon nun zuerst wahr
+	-> das Bahnsteigende links ist naeher an ihm
+	-> der Bahnsteig ist kuerzer als der Zug
 ## Formel
 - Bewegtes System: $$v = \frac{l'}{\Delta t'}$$
 - Ruhendes System:
