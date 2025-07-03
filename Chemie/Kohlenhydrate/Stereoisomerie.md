@@ -1,6 +1,6 @@
 >[!Card] Stereoisomerie
 >Stereoisomere Moleküle sind solche, die sich nur in der Anordnung mancher Atome unterscheiden.
-<!--SR:!2025-07-03,4,270-->
+<!--SR:!2025-07-17,14,290-->
 
 ## Anzahl der Stereoisomere
 - ja mehr *asymmetrische $C$-Atome* desto mehr *Stereoisomere*

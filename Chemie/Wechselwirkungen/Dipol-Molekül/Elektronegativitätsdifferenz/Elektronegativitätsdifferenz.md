@@ -8,6 +8,6 @@ aliases:
 >- $0$ - $0.5$: unpolar kovalente Bindung
 >- $0.5$ - $1.7$: polar kovalente Bindung
 >- $\gt 1.7$: ionische Bindung
-<!--SR:!2025-07-01,1,230-->
+<!--SR:!2025-07-06,3,250-->
 
 
