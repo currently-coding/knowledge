@@ -19,6 +19,7 @@
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "multilineCardEndMarker": "",
+    "calloutCardMarker": [">[!Card", ">[!Question]"],
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
@@ -27,7 +28,8 @@
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md",
       "Attachments",
-      "Settings-and-scripts"
+      "Settings-and-scripts",
+      "Obsidian"
     ],
     "openRandomNote": false,
     "autoNextNote": false,

@@ -7,6 +7,7 @@
 >[!Card] Zeitdilatation
 >Effekt, dass alle inneren Prozesse eines physikalischen Systems **relativ zum Beobachter langsamer** ablaufen, **wenn** sich dieses System **relativ zum Beobachter bewegt**.
 >$$t = \gamma \cdot t_{0}$$
+<!--SR:!2025-07-06,3,230-->
 
 ## Einführung
 

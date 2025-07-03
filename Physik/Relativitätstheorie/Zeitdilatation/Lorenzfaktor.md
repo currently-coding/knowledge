@@ -2,8 +2,11 @@
 >Stellt ein Maß für die **relativistische [[Zeitdilatation]]** dar.
 >$$\gamma = \frac{1}{\sqrt{ 1-\left( \frac{v}{c} \right)^2 }}$$
 >$$t = \gamma \cdot t_{0}$$
+<!--SR:!2025-07-06,3,230-->
+
 ## Beispiele
 ### Lorenzfaktor zu Uhrgeschwindigkeit
+<!--SR:!2025-07-06,3,230-->
 
 | Lorenzfaktor | Verhaeltnis der Uhrgeschwindigkeiten | % der Lichtgeschwindigkeit |
 | ------------ | ------------------------------------ | -------------------------- |
