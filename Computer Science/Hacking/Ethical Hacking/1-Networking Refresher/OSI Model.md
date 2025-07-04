@@ -1,18 +1,11 @@
 - 7 Layer model
 
->1 - P lease
->2 - D o
->3 - N ot
->4 - T hrow
->5 - S ausage
->6 - P izza
->7 - A way
-
-
->1 - P hysical
->2  -D ata
->3 - N etwork
->4 - T ransfer
->5 - S ession
->6 - P resentation
->7 - A pplication
+| Memory Aid for Layers: Sausage Pizza | Technical Terms: Physical Data Network Transfer Session Presentation Application |
+| ------------------------------------ | -------------------------------------------------------------------------------- |
+| 1. Please                            | 1. Physical                                                                      |
+| 2. Do                                | 2. Data                                                                          |
+| 3. Not                               | 3. Network                                                                       |
+| 4. Throw                             | 4. Transfer                                                                      |
+| 5. Sausage                           | 5. Session                                                                       |
+| 6. Pizza                             | 6. Presentation                                                                  |
+| 7. Away                              | 7. Application                                                                   |
