@@ -1,7 +1,7 @@
-## [[1. Physical Layer]]
+## [[Layer 1(Physical)]]
 
-# [[2. Data Layer]]
+# [[Layer 2(Data)]]
 
-## [[3. Network Layer]]
+## [[Layer 3(Network)]]
 
 ## [[Transfer]]

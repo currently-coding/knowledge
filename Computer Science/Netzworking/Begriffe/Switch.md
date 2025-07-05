@@ -3,3 +3,5 @@
 >Kommuniziert nur mit **Geräten im lokalem Netzwerk**.
 >
 >Benutzt **ASIC**(Application-specific integrated circuit) Chip -> kann komplett programmierbar oder sehr simple(-> [[Modem]]) aufgebaut sein
+
+^c81215
