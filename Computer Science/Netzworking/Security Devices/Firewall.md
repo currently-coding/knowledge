@@ -11,4 +11,4 @@
 ### Stateful Inspection
 - überprüft den Status der Verbindung zwischen Netzwerken
 - erlaubt oder verbietet dann bestimmte Verbindungen
-	- Bsp: keine externen Verbindungen dürfen mit dem internen Netz geschlossen werden.
+	- Bsp.: es dürfen keine externen Verbindungen mit dem internen Netzwerk geschlossen werden
