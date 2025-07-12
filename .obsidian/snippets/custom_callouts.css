@@ -1,0 +1,49 @@
+/* Definitions */
+.callout[data-callout="definition"] {
+    --callout-icon: lucide-book-open-text;
+}
+
+.callout[data-callout="def"] {
+    --callout-icon: lucide-book-open-text;
+}
+
+.callout[data-callout="define"] {
+    --callout-icon: lucide-book-open-text;
+}
+
+.callout[data-callout="let"] {
+    --callout-icon: lucide-book-open-text;
+}
+
+.callout[data-callout="vocab"] {
+    --callout-icon: lucide-text;
+}
+
+.callout[data-callout="card"] {
+    --callout-icon: lucide-book-open-check;
+}
+
+.callout[data-callout="flashcard"] {
+    --callout-icon: lucide-book-open-check;
+}
+
+.callout[data-callout="task"] {
+    --callout-icon: lucide-clipboard-check;
+}
+
+
+.callout[data-callout="experiment"] {
+	border: 1px solid #83A598;
+	background-color: #313533;
+    --callout-icon: lucide-flask-conical;
+}
+.callout[data-callout="observation"] {
+	border: 1px solid #83A598;
+	background-color: #313533;
+    callout-icon: lucide-scan-eye;
+}
+.callout[data-callout="explanation"] {
+	border: 1px solid #83A598;
+	background-color: #313533;
+    callout-icon: lucide-brain;
+}

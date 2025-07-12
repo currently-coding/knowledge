@@ -1,0 +1,5 @@
+> Ein Hormon ist ein biochemischer Botenstoff, der von speziellen Zellen (in endokrinen Drüsen oder Zellgeweben) produziert und als körpereigener Wirkstoff in den Körperkreislauf abgegeben wird. Dieser Signalstoff setzt dann an bestimmten Zellen der Erfolgsorgane spezifische Wirkungen oder Regulationsfunktionen in Gang, vor allem bei bestimmten Stoffwechselvorgängen. Der dadurch ausgelöste biologische Prozess stellt einen Spezialfall der Signaltransduktion dar. Chemisch sind **Hormone** niedermolekulare Verbindungen oder gelegentlich auch [[Peptide]] (sogenannte Peptidhormone).
+>
+> Die Wissenschaft zur Erforschung der Hormone bezeichnet man als Endokrinologie. Entsprechend ist ein Endokrinologe ein Wissenschaftler oder Arzt, der sich mit der Erforschung der Hormone, ihrer Wirkungsweisen und mit Erkrankungen des hormonalen Geschehens beschäftigt. Das 1905/1906 erstmals von Ernest Starling für die Wirkstoffe innersekretorischer Drüsen benutzte Wort Hormon leitet sich ab von altgriechisch ὁρμᾶν hormān ‚antreiben, erregen‘.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Hormon)

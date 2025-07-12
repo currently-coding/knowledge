@@ -1,0 +1,7 @@
+>Die **Halogene** [halogeːnə] („**Salzbildner**“, von altgriechisch ἅλς háls „Salz“ und γεννᾶν gennãn „erzeugen“) bilden die **7. Hauptgruppe** oder nach neuer Gruppierung des Periodensystems die **Gruppe 17** im Periodensystem der Elemente, die aus folgenden sechs Elementen besteht: **Fluor, Chlor, Brom, Iod**, dem äußerst seltenen radioaktiven **Astat** und dem 2010 erstmals künstlich erzeugten, sehr instabilen **Tenness**. Die Gruppe der Halogene steht am rechten Rand des Periodensystems zwischen den [[Chalkogene]] (6. Hauptgruppe) und [[Edelgase]] (8. Hauptgruppe). Die Namensgebung dieser Gruppe geht auf Jöns Jakob Berzelius zurück, der die Bezeichnung corpora halogenia vorschlug.
+>
+>Diese Nichtmetalle sind **im elementaren Zustand sehr reaktionsfreudig** (Fluor kann unter Feuererscheinung reagieren), **farbig** und **reagieren mit Metallen zu Salzen** (Namensherkunft) und mit Wasserstoff unter Normalbedingung zu **Halogenwasserstoffen** (gasförmige, einprotonige Säuren).
+>
+>Fluor, Chlor, Brom und Iod spielen wichtige Rollen in Chemie, Biologie und Medizin. Astat dient in organischen Verbindungen in der Nuklearmedizin zur Bestrahlung von bösartigen Tumoren.
+>
+>[Wikipedia](https://de.wikipedia.org/wiki/Halogene)

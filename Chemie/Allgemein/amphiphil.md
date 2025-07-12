@@ -1,0 +1,1 @@
+= [[lipophil]] und [[hydrophil]]

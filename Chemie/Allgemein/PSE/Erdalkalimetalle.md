@@ -1,0 +1,3 @@
+> Als **Erdalkalimetalle** werden die chemischen Elemente **Beryllium, Magnesium, Calcium, Strontium, Barium und Radium** aus der **2. Hauptgruppe** des Periodensystems bezeichnet. Sie sind glänzende, **reaktive Metalle**, die in ihrer **Valenzschale zwei Elektronen** haben. Radium ist ein radioaktives Zwischenprodukt natürlicher Zerfallsreihen. Die Bezeichnung leitet sich von den beiden benachbarten Hauptgruppen ab, den Alkalimetallen, mit denen sie die Bildung starker Basen gemeinsam haben, und den Erdmetallen, mit denen sie gemeinsam haben, **schlecht wasserlöslich** zu sein.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Erdalkalimetalle)>

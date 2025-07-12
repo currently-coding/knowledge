@@ -1,0 +1,4 @@
+2 Apfel_Rot 0.65
+3 Hafermilch 1.99
+1 Trockenhefe 0.50
+6 Radler 1.20

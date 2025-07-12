@@ -1,0 +1,1 @@
+Testing can detect only the presence of bugs, but never their absence.

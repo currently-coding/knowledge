@@ -1,0 +1,5 @@
+> Das **Schlüssel-Schloss-Prinzip** beschreibt die Funktion von zwei oder mehreren komplementären Strukturen, die räumlich zueinander passen müssen, um eine bestimmte biochemische Funktion erfüllen zu können. Dieses Prinzip wurde 1894 von Emil Fischer hypothetisch beschrieben am Beispiel der spezifischen Bindung zwischen Enzym und Substrat. Eine schwache, nicht-kovalente Wechselwirkung führt zu einem relativ stabilen Übergangszustand (Komplex) von Ligand (Gast) und Rezeptor (Wirt), dessen relative Bindungsstärke man als Affinität bezeichnet. Eine etwas zeitgemäßere Ausdrucksweise spricht vom Induced-fit-Konzept (Hand-im-Handschuh-Prinzip), um der konformativen Flexibilität chemischer Verbindungen Rechnung zu tragen. Oft ist es nur ein Teil der Gesamtstruktur des Liganden (vergleiche: Pharmakophor) bzw. des Rezeptors, der in die Komplexbildung einbezogen ist, der andere Teil mag funktionell irrelevant bleiben.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Schl%C3%BCssel-Schloss-Prinzip)
+
+![[Pasted image 20250608105351.png]]

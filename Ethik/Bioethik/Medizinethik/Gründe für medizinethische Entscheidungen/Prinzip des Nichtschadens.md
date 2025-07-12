@@ -1,0 +1,3 @@
+- **Grundsatz**: "Primum nil nocere" (zuerst keinen Schaden zufügen)
+- Vermeidung schädlicher Handlungen durch sorgfältige **Abwägung**
+- Relevanz bei *Nebenwirkungen*, *Fehlerpotenzial* und *Risiken* medizinischer Maßnahmen

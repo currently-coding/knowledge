@@ -1,0 +1,8 @@
+pdf,xml,odt heyyy
+docx,pptx powerpoint word
+docx word
+pg2,elo,link https://elearning.oth-regensburg.de/course/view.php?id=5404
+pg2,elo,link https://elearning.oth-regensburg.de/course/view.php?id=5404
+link,search https://duckduckgo.com/ website that does not track my searches
+pg2,lecture Fri 10:00
+pg2,link https://en.cppreference.com/w/

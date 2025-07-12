@@ -1,0 +1,3 @@
+![[Strukturprotein]]
+
+![[Funktionsproteine]]

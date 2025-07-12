@@ -1,0 +1,3 @@
+> **Andreas Gryphius** (* 2. Oktober 1616 in Glogau, Fürstentum Glogau; † 16. Juli 1664 ebendort; eigentlich Andreas Greif) war ein deutscher Dichter und Dramatiker des Barocks. Mit seinen sprachgewaltigen Sonetten, welche „das Leiden, Gebrechlichkeit des Lebens und der Welt“ beinhalten, gilt Gryphius als der bedeutendste Lyriker des deutschen Barocks.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Andreas%20Gryphius)

@@ -1,0 +1,3 @@
+> Die **Hydrolyse** (von altgriechisch ὕδωρ hydor „Wasser“ und λύσις lýsis „Lösung, Auflösung, Beendigung“) ist formal gesehen die Spaltung einer chemischen Verbindung durch Reaktion mit Wasser. Formal wird bei der Reaktion ein Wasserstoffatom an das eine „Spaltstück“ abgegeben und die als Rest  verbleibende Hydroxygruppe wird an das andere Spaltstück gebunden. Die Rückreaktion der Hydrolyse ist eine Kondensationsreaktion. Wenn bei der Reaktion das Wasser nicht nur das angreifende Reagenz, sondern gleichzeitig auch das Lösungsmittel ist, zählt die Hydrolyse zu den Solvolysen.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Hydrolyse)

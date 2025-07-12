@@ -1,0 +1,4 @@
+30018 Apfel_Rot 0.65
+30323 Hafermilch 1.99
+30449 Trockenhefe 0.50
+40202 Radler 1.20

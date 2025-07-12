@@ -1,0 +1,3 @@
+> **Kohlenstoffgruppe** oder Kohlenstoff-Silicium-Gruppe bezeichnet die **4. Hauptgruppe** („Tetrele“, selten auch "Tattogene" (Gerüstbildner)) (nach neuer Nummerierung der IUPAC **Gruppe 14**) des Periodensystems. Sie umfasst die Elemente **Kohlenstoff (C), Silicium (Si), Germanium (Ge), Zinn (Sn) und Blei (Pb)**. Auch ein radioaktives Element, das **Flerovium (Fl)**, ist vertreten.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Kohlenstoffgruppe)

@@ -1,0 +1,4 @@
+> Die **Stoffmenge** (veraltet Molmenge oder Molzahl) mit dem Formelzeichen $n$  ist eine Basisgröße im Internationalen Einheitensystem (SI) und gibt indirekt die Teilchenzahl einer Stoffportion an. Teilchen können hier Atome, Ionen, Moleküle, Formeleinheiten oder auch Elektronen sein. Formelzeichen und Teilchenart X werden zusammen als nX oder n(X) angegeben.
+>
+> Die SI-Einheit der Stoffmenge ist das Mol, eine SI-Basiseinheit. Eine Stoffmenge von 1 Mol ($n = 1 \text{mol}$) enthält die durch die [[Avogadro-Konstante]] festgelegte Teilchenzahl. 
+> [Wikipedia](https://de.wikipedia.org/wiki/Stoffmenge)

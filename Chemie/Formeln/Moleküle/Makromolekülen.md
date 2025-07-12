@@ -1,0 +1,3 @@
+- = Großmoleküle(altgriechisch: μακρός makros ‚groß‘)
+- bestehen aus sich wiederholenden, ähnlichen Struktureinheiten(**formale Grundbausteine**)
+- große [[molare Masse]]

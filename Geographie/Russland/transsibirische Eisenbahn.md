@@ -1,0 +1,5 @@
+> Die **transsibirische Eisenbahn** (russisch Транссибирская магистраль, Transkription Transsibirskaja magistral; früher auch als Sibirische Eisenbahn bezeichnet, amtlich jedoch nur für die Teilstrecke vom Ural bis zum Baikalsee), kurz Transsib genannt, ist die Hauptverkehrsachse des asiatischen Russlands und mit **9288 km die längste Eisenbahnstrecke der Welt**. Auf der gesamten Strecke von der Hauptstadt Moskau nach Wladiwostok am Pazifik werden 400 Bahnhöfe passiert; eine Fahrt dauert in der Regel **144 Stunden (sechs Tage)**.
+>
+> Der Regelbetrieb der Transsibirischen Eisenbahn wird von der staatlichen Russischen Eisenbahngesellschaft (RŽD) durchgeführt. Wie die meisten Eisenbahnstrecken des Landes wurde sie in russischer Breitspur errichtet.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Transsibirische%20Eisenbahn)

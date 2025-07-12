@@ -1,0 +1,73 @@
+/* === Editor (source mode) === */
+.cm-header-1:before { /* removed # in editor */
+    content: ''; /* changed */
+}
+
+.cm-header-2:before {
+    content: ''; /* changed */
+}
+
+.cm-header-3:before {
+    content: ''; /* changed */
+}
+
+.cm-header-4:before {
+    content: ''; /* changed */
+}
+
+.cm-header-5:before {
+    content: ''; /* changed */
+}
+
+.cm-header-6:before {
+    content: ''; /* changed */
+}
+
+.cm-header:before {
+    color: var(--text-faint);
+}
+
+/* active line already handled properly */
+.cm-active.cm-line .cm-header-1:before,
+.cm-active.cm-line .cm-header-2:before,
+.cm-active.cm-line .cm-header-3:before,
+.cm-active.cm-line .cm-header-4:before,
+.cm-active.cm-line .cm-header-5:before,
+.cm-active.cm-line .cm-header-6:before {
+    content: '';
+}
+
+/* === Reading mode === */
+.markdown-preview-view h1:before {
+    content: '';
+}
+
+.markdown-preview-view h2:before {
+    content: '# ';
+}
+
+.markdown-preview-view h3:before {
+    content: '## ';
+}
+
+.markdown-preview-view h4:before {
+    content: '### ';
+}
+
+.markdown-preview-view h5:before {
+    content: '#### ';
+}
+
+.markdown-preview-view h6:before {
+    content: '##### ';
+}
+
+.markdown-preview-view h1:before,
+.markdown-preview-view h2:before,
+.markdown-preview-view h3:before,
+.markdown-preview-view h4:before,
+.markdown-preview-view h5:before,
+.markdown-preview-view h6:before {
+    color: var(--text-faint);
+}
+

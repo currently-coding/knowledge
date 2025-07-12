@@ -1,0 +1,7 @@
+- borealer Nadelwald
+- nährstoffarme Böden
+- Flora:
+	- Tannen
+	- Fichten
+	- Kiefern
+	- Lärchen

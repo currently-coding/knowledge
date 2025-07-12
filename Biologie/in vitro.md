@@ -1,0 +1,3 @@
+> Als **in vitro** (lateinisch ‚im Glas‘) bezeichnet man organische **Vorgänge**, die **außerhalb eines lebenden Organismus** **stattfinden**, im Gegensatz zu solchen, die im lebenden Organismus ([[in vivo]]) ablaufen. In der Naturwissenschaft bezieht sich in vitro auf Experimente, die in einer kontrollierten künstlichen Umgebung außerhalb eines lebenden Organismus durchgeführt werden, wie im Reagenzglas oder einer Petrischale.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/In%20vitro)

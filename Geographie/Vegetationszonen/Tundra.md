@@ -1,0 +1,8 @@
+- waldfrei/baumarm
+- Permafrostboden
+- stark vernässte Böden
+- Flora:
+	- Moose
+	- Flechten
+	- Gräser
+	- Zwergsträucher

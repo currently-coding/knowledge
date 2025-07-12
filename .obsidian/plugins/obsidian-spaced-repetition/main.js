@@ -1,0 +1,1 @@
+/home/me/software/obsidian-spaced-repetition/build/main.js

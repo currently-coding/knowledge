@@ -1,0 +1,12 @@
+- fördert Durchblutung
+	-> verändert Konzentration der Botenstoffe
+	-> schüttet Wachstumsstoffe aus
+		-> neue Verknüpfungen in Großhirnrinde, Kleinhirn und Hippocampus
+
+- baut Stress aktiv ab
+	- reguliert Ausschüttung von 
+		- Adrenalin
+		- Noradrenalin
+		- Insulin
+		- Cortisol
+	- falls diese Werte zu hoch, leidet Konzentrationsfähigkeit

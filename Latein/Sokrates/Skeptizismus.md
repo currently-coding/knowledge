@@ -1,0 +1,5 @@
+> Der **Skeptizismus** in der Philosophie ist eine Denkrichtung, die sich durch Zweifel an der Möglichkeit gesicherter Erkenntnis auszeichnet. Skeptizistische Philosophen hinterfragen, ob Menschen tatsächlich Wissen über die Welt erlangen können, und stellen die Grundlagen von Wissen, Überzeugungen und Wahrheit infrage. Der Skeptizismus hat eine lange Geschichte und tritt in verschiedenen Formen und Intensitäten auf.
+>
+> In der klassischen philosophischen Tradition bezeichnet Skeptizismus das systematische Hinterfragen von Überzeugungen, nicht bloßen Zweifel, als Grundprinzip des Denkens. Skeptiker stellen die Möglichkeit einer Erkenntnis von Wirklichkeit und Wahrheit entweder infrage oder schließen sie prinzipiell aus. In der neuzeitlichen Verwendung wird der Begriff jedoch oft verkürzt als Ausdruck allgemeinen Zweifels verstanden, wodurch die ursprüngliche Betonung auf kritisches Untersuchen und Forschen in den Hintergrund tritt.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Skeptizismus)

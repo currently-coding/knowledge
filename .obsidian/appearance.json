@@ -1,0 +1,21 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "Font",
+    "Print",
+    "heading",
+    "hashtag_heading",
+    "custom_callouts",
+    "themes"
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "showRibbon": true,
+  "monospaceFontFamily": "Source Code Pro"
+}

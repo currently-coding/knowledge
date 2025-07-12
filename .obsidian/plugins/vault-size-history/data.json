@@ -1,0 +1,26 @@
+{
+  "graphDateFormat": "DD/MM/YY",
+  "fileDateProperty": "",
+  "fileDatePropertyFormat": "",
+  "fileIndexEnabled": false,
+  "fileDeletionIndexEnabled": false,
+  "fileIndexPath": "file_index.csv",
+  "legendOrder": "ASCENDING_CHART_VALUE",
+  "categories": [
+    {
+      "id": 2,
+      "name": "Notes",
+      "pattern": ":regex:.*\\.(md)$",
+      "color": "#ea8383",
+      "alwaysApply": false
+    },
+    {
+      "alwaysApply": false,
+      "color": "#0ded17",
+      "id": 3,
+      "name": "Images",
+      "pattern": ":regex:.*\\.(gif|png|jpg|jpeg|excalidraw)$"
+    }
+  ],
+  "startDateBasedOn": -1
+}

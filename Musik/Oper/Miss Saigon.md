@@ -1,0 +1,5 @@
+> **Miss Saigon** ist ein Musical von Alain Boublil und Claude-Michel Schönberg, das ebenso wie Puccinis [[Madame Butterfly]] auf der französischen Novelle Madame Chrysanthemum beruht. Das Stück wurde am 20. September 1989 im Theatre Royal Drury Lane (London) uraufgeführt, die Broadway-Premiere folgte am 11. April 1991. Die deutschsprachige Erstaufführung fand am 2. Dezember 1994 in der Musical-Hall (heute Stage Apollo Theater) in Stuttgart statt. Der letzte Vorhang fiel am 19. Dezember 1999. Die Schweizer Erstaufführung fand 2003 im Theater St. Gallen, die Österreichische Erstaufführung am 3. Februar 2011 im Stadttheater Klagenfurt statt.
+>
+> Ab dem 3. Mai 2014 war zum 25. Geburtstag des Stückes eine Revival-Produktion von Miss Saigon im Prince Edward Theatre in London zu sehen. Diese Inszenierung wurde auf DVD aufgezeichnet, die im Oktober 2016 auf den Markt kam. Eine Tour Produktion fand von 2017 bis 2019 in mehreren europäischen Ländern statt. Am 23. Jänner 2022 fand die Premiere im Raimund Theater (Wien) statt. Die Spielzeit endete am 25. Juni 2022.
+>
+> [Wikipedia](https://de.wikipedia.org/wiki/Miss%20Saigon)

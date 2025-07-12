@@ -1,0 +1,20 @@
+{
+  "vimMode": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "Attachments",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "showLineNumber": true,
+  "foldHeading": false,
+  "rightToLeft": false
+}
